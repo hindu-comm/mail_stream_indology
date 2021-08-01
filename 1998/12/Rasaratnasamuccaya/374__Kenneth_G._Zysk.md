@@ -1,0 +1,35 @@
++++
+title = "374 Kenneth G. Zysk"
+date = "1998-12-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014634.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014634.html)
+
+I should be most grateful for information on the following:
+
+An English translation of Vagabhata's _Rasaratnasamuccaya_ was
+published serially as a supplement to the Indian Journal of
+History of Science from 1987-1992 (?).
+
+I would like to know the extent of the work. Was it completed or
+not?  And which chapters were published in which volumes of the
+IJHS.
+
+With much appreciation,
+
+Ken Zysk
+
+--
+Kenneth G. Zysk
+University of Copenhagen
+Department of Asian Studies
+Leifsgade 33, 5
+DK-Copenhagen S Denmark
+
+Phone: +45.35.32.88.32
+FAX:   +45.53.32.88.35
+Email: zysk at coco.ihi.ku.dk
+
+
+

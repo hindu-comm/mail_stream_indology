@@ -1,0 +1,32 @@
++++
+title = "167 manu bhagavan"
+date = "1994-09-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001374.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001374.html)
+
+Look, and I am sure that I do not speak for everyone, but I for one am 
+sick and tired of having my mailbox clustered by these anti-Muslim, 
+semi-fanatic hate-orientred messages. Dileep Karanth's latest posting 
+about the banning of the Quran is the last straw (for me anyway).
+ I think authors of such mail should keep their postings private (i.e., 
+between the concerned parties of the discussion).  I am in no way trying 
+to hamper the free expression of thoughts, but the series of postings 
+over the past month have proven that...certain parties are only 
+interested in communicating the "hidden truth" of Indian history that 
+they believe Western scholars to be covering up.  Might I suggest that 
+these 
+parties READ some of the "Western" (is JNU material Western? (rhetorical, 
+of course)) scholarship before making erroneous judgments and leaping to 
+false conclusions.
+
+Manu Bhagavan
+History Graduate Student
+Editor, _Sagar: South Asia Graduate Research Journal_
+
+
+
+
+
+

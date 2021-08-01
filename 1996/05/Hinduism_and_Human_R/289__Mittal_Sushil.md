@@ -1,0 +1,32 @@
++++
+title = "289 Mittal Sushil"
+date = "1996-05-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005098.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005098.html)
+
+
+
+Human rights violations are perpetrated in all parts of the world, and the
+univeral reaction to such atrocities is over-whelmingly one of horror and
+sadness. Yet, as Abdullahi Ahmed An-Na'im and his contributors attest in
+_Human rights in cross-cultural perspectives_ and _Human rights in Africa:
+cross-cultural perspectives_, our viewpoint is clouded and biased by the
+expectations native to our own culture. So how does Hindu culture/s view
+human rights issues?  An analysis of human rights issues through multiple
+Hindu viewpoints will help us to reinterpret and reconstruct prevailing
+theories of human rights. In any case, references to published material on
+Hinduism and human rights will be much appreciated. 
+
+Thanks in advance.
+
+Sushil Mittal
+mittals at ere.umontreal.ca
+
+
+
+
+
+
+

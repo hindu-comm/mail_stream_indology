@@ -1,0 +1,30 @@
++++
+title = "139 Dominik Wujastyk"
+date = "1997-08-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-August/009039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-August/009039.html)
+
+A link has been added to the Software page of the INDOLOGY web site
+
+  <URL: http://www.ucl.ac.uk/~ucgadkw/indology.html>
+
+All the best,
+Dominik
+
+--
+Dominik Wujastyk               Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE
+"Internet Spam Control Center"
+
+http://drsvcs.com/nospam/
+
+, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+
+
+
+
+
+

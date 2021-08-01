@@ -1,0 +1,30 @@
++++
+title = "77 aklujkar at unixg.ubc.ca"
+date = "1997-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007192.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007192.html)
+
+Although my notes on manuscript collections do not contain any entry with
+the title Var.na-bheda, I have a distinct recollection that I saw
+manuscripts, usually not more than 4-5 pages, in which words that were
+likely to be confused were collected and their distinction in varas was
+pointed out (usually distinctions of ;s, .s, sa etc.). I would not be
+surprised if these mss were thought of as containing var.na-bheda works;
+that is, var.na-bheda was a genre name.
+
+My notes do contain references to a work called ;Sabda-prabheda, ascribed
+to Mahe;svara and commented upon by J;naana-vimala-ga.nin. It may even have
+already been printed. The mss I noticed exist at Ahmedabad: Devasaano
+Paa.do Mo.to Bha.n.daara and at London, Oriental Collections of the British
+Library, Bendall 396  (this one is with comm). The  ;Sabda-prabheda too, as
+I recall, separates similar sounding words on the basis of their var.nas.
+
+aklujkar
+
+
+
+
+
+

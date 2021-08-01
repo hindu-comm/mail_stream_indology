@@ -1,0 +1,27 @@
++++
+title = "445 Mikael Aktor"
+date = "1998-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011563.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011563.html)
+
+Dear listmembers,
+
+One of my postgrad students is doing research on relations between yoga
+and sAMkhya. As he is not on this list, I promised him to ask for updated
+references to literature on the Yoga SUtra. He is particularly interested
+in YS _as text_ (history, background etc.).
+
+In this connection: do some  of you know what happened to the book by T.
+Gelblum on Yoga Philosophy, planned as part of Fasc. 5 in the 6th vol. of
+Gonda's History of Indian Literature?. And now we are on that subject,
+what about the other missing parts (e.g. UpaniSads)?
+
+
+Kind regards
+Mikael Aktor, University of Aarhus, Denmark
+aktor at post8.tele.dk
+
+
+

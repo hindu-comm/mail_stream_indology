@@ -1,0 +1,28 @@
++++
+title = "75 Joel Tatelman"
+date = "1997-01-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006714.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006714.html)
+
+Regarding a Sanskrit-English Dictionary which uses transliteration as well as devanaagarii, I suppose the obvious choice is M. Monier-Williams' _A Sanskrit-English Dictionary_, Revised Edition, Oxford, Clarendon Press, 1899. 
+
+Reprints are available from Oxford University Press (£75-80) Munshiram Manoharlal in Delhi (probably £20-30) and for a compact version (in size not contents), Tokyo, Meicho Fukyukai, 1986 (JapYen 15,000 when I bought it, but probably more now).
+
+Hope this helps.
+
+
+
+Joel Tatelman
+#2-293A Roncesvalles Ave.
+Toronto, Ontario,
+M6R 2M3 Canada.
+
+Tel.: (416) 535-4997
+E-mail: tatelman at total.net
+
+
+
+
+

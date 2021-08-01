@@ -1,0 +1,33 @@
++++
+title = "221 Rahul Arora"
+date = "1997-11-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009891.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009891.html)
+
+Dear Members,
+
+First of all we would like to thank all the members of the group who
+helped us by providing useful information on the Hindu Temples. The
+response was  so overwhelming and so inspiring that it led us to think why
+we should not prepare a comprehensive and systematic directory (or guide)
+listing ALL  the cultural institutions which are promoting India's culture
+in the widest possible sense, such as temples, libraries, museums, art
+galleries, educational institutions, Vedanta centers, etc. The beginning
+may be small as every beginning is.
+
+Therefore, we request you kindly to  widen the scope and continue to help
+us. We will keep you aware of the progress made.
+
+
+Thanking you again,
+
+
+
+Sincerely yours,
+
+Rahul Arora
+
+
+

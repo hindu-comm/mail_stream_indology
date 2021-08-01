@@ -1,0 +1,26 @@
++++
+title = "119 treich at midway.uchicago.edu"
+date = "1995-07-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002830.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002830.html)
+
+Dear Indology Members,
+
+Can anyone help me find any edition of the Jaiminiya Asvamedhikaparvan? 
+I know about its existence from Karmarkar's description in the
+"Introduction" to the Asvamedhikaparvan, pp. xxiv-xliv (in the BORI edition
+of the Mahabharata).  Sukthankar also refers to it in his "Prolegomena" to
+the Adiparvan. The trouble is, neither of them gives any references.
+Any help will be appreciated.
+
+Tamar Reich
+
+MY email address is: treich at midway.uchicago.edu
+
+
+
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "389 Dominik Wujastyk"
+date = "1998-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014674.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014674.html)
+
+Damodar Joshi's reprint and translation of the Rasaratnasamuccaya by
+pseudo-Vagbhata was serialized in the IJHS as follows:
+                        adhyaya
+Apr 1987        22.2    1
+Jul 1987        22.3    2
+Oct 1987        22.4    3
+Jan 1989        24.1    4
+Apr 1989        24.2    5
+Jul 1989        24.3    6, 7
+Oct 1989        24.4    8
+Jul 1991        26.3    9
+Oct 1991        26.4    10
+Apr 1992        27.2    11
+Jul 1992        27.3    twelve appendices.
+
+That seems to be all that was published.
+
+Dominik
+
+
+

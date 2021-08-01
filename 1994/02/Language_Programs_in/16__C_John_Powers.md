@@ -1,0 +1,24 @@
++++
+title = "16 C John Powers"
+date = "1994-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-February/000898.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-February/000898.html)
+
+I have a student who's planning to pursue graduate studies in South Asian 
+Studies and is hoping to find a language training program in India. He's 
+looking for a program that does intensive training in an Indian language 
+(he's open on the question of which one). Can anyone recommend any good long-
+term study programs for Hindi, Tamil, Bengali, Marathi, etc.? I already told 
+him about the U. of Wisconsin and American Institute of Indian Studies 
+programs. Thanks in advance for any suggestions.
+
+John Powers
+Grinnell College
+powers at grin1.bitnet
+
+
+
+
+

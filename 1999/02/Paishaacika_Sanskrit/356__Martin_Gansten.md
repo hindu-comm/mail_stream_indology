@@ -1,0 +1,23 @@
++++
+title = "356 Martin Gansten"
+date = "1999-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015883.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015883.html)
+
+Dear list members,
+
+I recently came across a reference to an astrological text said to be
+written in 'Paishaacika' Sanskrit. Monier-Williams lists 'paishaaca' or
+'pishaaca-bhaa.saa' as a term used in drama for 'a corrupt dialect or
+gibberish; spoken by demons on the stage'. Does anyone have any information
+on the origin of this term, and what grammatical and/or stylistic
+characteristics it may imply? (Unless it simply means 'devilishly bad
+Sanskrit', which in this case would seem a fair judgment...)
+
+Regards,
+Martin Gansten
+
+
+

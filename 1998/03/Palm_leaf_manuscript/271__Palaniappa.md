@@ -1,0 +1,25 @@
++++
+title = "271 Palaniappa"
+date = "1998-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011324.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011324.html)
+
+In a posting dated    Mon, 5 Jan 1998 18:49:52 -0500
+Michael Witzel <witzel at FAS.HARVARD.EDU> said about some manuscripts in north
+India/Nepal:
+"All written with ink (except for a very few South Indian MSS in the National
+Archives, inscised with stylus)."
+
+Is incising palm-leaf manuscripts with stylus a southern Indian custom? How
+were manuscripts prepared in the north ? Only by writing instead of incising?
+
+Has the word nArAca ever been used to mean 'stylus' in the north/Sanskrit?
+
+Regards
+
+S. Palaniappan
+
+
+

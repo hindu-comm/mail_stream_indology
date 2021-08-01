@@ -1,0 +1,42 @@
++++
+title = "137 kichenas at math.umn.edu"
+date = "1995-01-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-January/001849.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-January/001849.html)
+
+My congratulations to this team effort to make the Prabandham
+available in electronic format. It is nice that, with this and the
+effort in Koeln, an important part of Tamil literature is becoming
+available to scholars. This is all the more important since we now
+know that indology cannot ignore Tamil sources anymore.
+
+The next obvious inclusions would be
+
+(1) Inclusion of any Sangam works not already available;
+
+(2) The 12 TirumuRai, which, together with the Prabandham, 
+and are relevant to the emergence of Bhakti in India. Note that
+the TEvAram represents an important stage in the development of 
+Indian classical music.
+
+(3) The epics, first and foremost Kampa-rAmAyaNam, together
+with SilappadikAram, Ciivaka-cintAmaNi, MaNimEkalai.
+SilappatikAram contains of course a great deal of musicological material.
+
+Grammatical texts and works of the mediaeval and modern periods might be
+considered next.
+
+
+                                Satyanad Kichenassamy
+                                School of Mathematics
+                                University of Minnesota
+                                kichenas at math.umn.edu
+
+
+
+
+
+
+

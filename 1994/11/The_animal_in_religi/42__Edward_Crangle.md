@@ -1,0 +1,41 @@
++++
+title = "42 Edward Crangle"
+date = "1994-11-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001540.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001540.html)
+
+
+Dear Listmembers:
+
+If possible, could you please direct me to relevant literature regarding 
+the history, religious context, mode of worship etc. of the following:
+
+My students have referred to a recent magazine-style television 
+programme which discussed the depiction and role of animals in religion. 
+Amongst other things, the documentary showed a particular Hindu temple 
+interesting in the least for its veneration of the humble rat: it seems 
+that the rodents occupied the temple precinct in their thousands while 
+visitors performed their religious duties etc.
+
+I'm told the temple is named Karnidevi (or Karnimata). (I'm guessing with 
+the spelling.) It is located at Deshnok, outside Bikaner in Rajasthan. Any 
+assistance in this regard would be greatly appreciated. Many thanks.
+
+Eddie Crangle
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ Dr Edward F. Crangle			E-mail: e.crangle at mailbox.uq.oz.au
+ Department of Studies in Religion	Phone:  (7) 3652154
+ University of Queensland		Home:   (7) 3719687
+ St Lucia				Fax:    (7) 3653071
+ Queensland 4072
+ Australia
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+

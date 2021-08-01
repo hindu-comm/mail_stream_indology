@@ -1,0 +1,36 @@
++++
+title = "95 Karina Bingham"
+date = "1994-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001591.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001591.html)
+
+
+----------------------------------------------------------------
+
+ The Center for South Asian Studies, School of Hawaiian, Asian and
+Pacific Studies, University of Hawai`i, announces its Eleventh Annual
+Spring Symposium entitled LANGUAGE AND PREHISTORY IN SOUTH ASIA, to be
+held March 20 & 21, 1995 (Monday and Tuesday) from 9:00 am to 4:00 pm
+on the University of Hawai`i at Manoa campus.
+ Papers are invited up to thirty minutes in length, focusing on any
+aspect of the structure, use, and history of any of the modern or
+classical languages of South Asia (including Afghanistan, Bangladesh,
+Bhutan, India, Maldives, Pakistan, Sikkim, Sri Lanka, and Tibet) as
+well as relationships and contacts among the languages of this area
+and between these languages and the languages of mainland and insular
+South East Asia, East Asia, Central Asia, Western Asia, Africa or the
+Pacific Islands (e.g. Fiji).  The proceedings will be published in
+Summer or Fall 1995.
+ Send abstracts (one copy, one page, not anonymous) to the attention
+of Karina Bingham, Symposium Coordinator, Center for South Asian
+Studies, Moore Hall 416, University of Hawai`i/Manoa, Honolulu, HI
+96822.  For more information, contact Dr. Lawrence A. Reid, Dept. of
+Linguistics, (808)956-3223 or reid at uhunix.uhcc.hawaii.edu.
+
+
+
+
+
+

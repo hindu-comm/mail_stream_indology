@@ -1,0 +1,28 @@
++++
+title = "435 Aditya, the Hindu Skeptic"
+date = "1998-03-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011526.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011526.html)
+
+I happened to get hold of a book "The Muslims of British India" by Dr P. Hardy
+(1972).
+
+I am very impressed by the amount of research but the book does not give any
+details about the author. I would like to know his whereabouts and if he has an
+email address so that I can contact him personally.
+---
+Have a peaceful and prosperous day.
+©1998, Aditya Mishra
+e-mail: a018967t at bc.seflin.org
+homepage: http://www.smart1.net/aditya
+Voice mail: http://www.phonefree.com/Scripts/cgiParse.exe?sID=87282
+ICQ Pager: 1131674
+Thought of the day:
+ The Family: that noble institution responsible for 70 percent of
+ all murders, over 80 percent of incidents of child abuse, and a
+ full 100 percent of all cases of incest.
+
+
+

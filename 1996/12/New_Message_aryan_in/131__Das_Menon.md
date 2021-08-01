@@ -1,0 +1,43 @@
++++
+title = "131 Das Menon"
+date = "1996-12-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006531.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006531.html)
+
+At 09:31 PM 12/12/96 GMT, Gail Coelho wrote:
+>
+>
+>Created? How? And as far as "passionate objection" is concerned -- no one in 
+>India objects *now*, but what do we know of language attitudes at the 
+>time that Sanskrit first took root in India?
+>
+>As Lars Martin Fosse said in a earlier message: "The best background for
+>defending such a theory seems to be ignorance". :-)
+>
+Are you saying that a language with the complexity and elegance of the
+Sanskrit language evolved naturally? I do not think that an evolutionar
+process could have accounted for it. If it did, we need to  date the origin
+of the language to much further back!
+
+If you study the history of India during the times of Kings (and Queens),
+which probably holds true for all civilizations, dissent to those "in power"
+is not much tolerated! I am sure that a lot of people who objected to the
+Sanskritisation of India paid for it by being beheaded as happened to the
+Oracle of Sri Parmekavu Temple (I am not sure of the temple) in Trissur town
+in Kerala  when he objected to the ruler of Trissur Sri Saktan Tamburan's
+clearing the teak forest sourrounding the main Siva (Vadakkunathan) temple
+located in the centre of the town! The psyche of the Indian people is to
+worship those "in power" whether they are right or wrong. How else can we
+account for the "unemployable" becoming the polical leaders of India!
+
+Since India does not have a real recorded history, we can only speculate on
+what happened in the past. and  that is all we are really doing!
+
+Regards...Das
+
+
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "148 Surya P. Mittal"
+date = "1997-01-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006785.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006785.html)
+
+Dear Indologists,
+
+Yes, this mail comes from the same person who is being 
+considered as the one who is trying to convert INDOLOGY 
+into a commercial place. I will respond to this topic on 
+a later date. 
+
+Right now I want a suggestion from all my friends on Indology 
+on a topic which is more of a personal nature: 
+
+Most of you are already aware that my name is Surya Prakash 
+(Sun Light). And my wife's name is Monika (very European name 
+indeed). We were blessed with a lovely daughter on 25th Dec. 
+(Santa's gift on X-Mas 1996).  We are finding it a little 
+difficult to finalise her name as we are looking for an 
+Indic baby name with some link to "Surya".  An option that 
+I have is "ARUNIMA" (pronounced arunimA). Can INDOLOGISTS 
+suggest a few options ? 
+
+Please excuse me for using INDOLOGY once again for personal
+interests!
+
+Regards,
+Surya P. Mittal
+surya at pobox.com
+
+
+
+
+
+

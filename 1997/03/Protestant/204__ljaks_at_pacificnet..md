@@ -1,0 +1,37 @@
++++
+title = "204 ljaks at pacificnet.net"
+date = "1997-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007346.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007346.html)
+
+Hi Noel,
+
+This may not help, but the only thing that comes to mind immediately (and
+this is under the influence of Bacardi, Beaulieu Vinyardss, and Wild
+Turkey), is that  Agehananda Bharati had something to say about this in
+LIGHT ON.... and TANTRIC TRADITION.  Possibly OCHRE ROBE.  Perhaps in an
+introduction.  Something to do with most of the itinerany Hindu speakers,
+especially those that come Westward preach nothing but Protestant Christian
+doctrine.
+
+Hey.  How are you?  Great to hear from you.
+Lowell
+
+
+Visit our Home Page at http://www.pacificnet.net/~ljaks/
+Visit the CSFA Home Page at http://www.pacificnet.net/~ljaks/csfa.html
+
+"What country can preserve its liberties if their rulers are not
+warned from time to time that their people preserve the spirit of
+resistance?....The tree of liberty must be refreshed from time to time
+with the blood of patriots & tyrants. It is its natural manure."
+
+                                -- Thomas Jefferson to William Smith
+
+
+
+
+
+

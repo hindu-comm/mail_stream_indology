@@ -1,0 +1,35 @@
++++
+title = "120 David Magier"
+date = "1997-07-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-July/008837.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-July/008837.html)
+
+I have been asked to forward the following announcement to all South
+Asia related mailing lists and listservs. My apologies for any
+cross-posting. Please contact Dr. Weisgrau directly for any further
+queries or comments.  
+David Magier
+SARAI (http://www.columbia.edu/cu/libraries/indiv/area/sarai)
+
+=========================================
+RAJASTHAN STUDIES GROUP
+
+Rajasthan Studies Group invites all interested scholars to join.  This
+inter-disciplinary organization brings together all those with an interest
+in Rajasthani history, culture, religion, ecology and art. Newsletter,
+intellectual projects, panels and regular meetings are just some of the
+activities and benefits of membership. 
+
+For further information, please contact:
+
+Maxine Weisgrau
+Department of Anthropology
+Barnard College
+
+mkw3 at columbia.edu
+
+
+
+

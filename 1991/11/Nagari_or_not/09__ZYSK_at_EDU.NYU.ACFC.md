@@ -1,0 +1,24 @@
++++
+title = "09 ZYSK at EDU.NYU.ACFCLUSTER"
+date = "1991-11-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-November/000160.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-November/000160.html)
+
+
+
+The important issue raised by Dominik is beginning to degenerate into something
+like the BUUDHIST FORUM type of discussion. May I suggest that we focus on
+the issue and personal comments aside and may we list the points pro and con,
+both of which have ideological merit and seek resolution. Ideology is one
+thing. The major problem I cannot seem to see clearly is one of implementation.
+Relatively few Indologists, Buddhologists, etc., have the hardward, software,
+ and know how to use Nagari in their scholarly writing. How then can everyone
+be brought to the same level of technical expertise to make the venture
+successful? I know a couple of very excellent scholars who still do their work
+with pen and paper! K. Zysk
+
+
+
+

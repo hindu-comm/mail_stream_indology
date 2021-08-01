@@ -1,0 +1,49 @@
++++
+title = "71 Stephen"
+date = "1997-09-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009092.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009092.html)
+
+Marriages between uncles (mother's brother, not father's) and nieces are
+also common in the south. In fact, one of my classmates, an Iyengar girl
+married her mom's brother not too long ago (approx. 10 yrs).
+
+sujatha
+
+-----Original Message-----
+From: DEVARAKONDA VENKATA NARAYANA SARMA <narayana at HD1.VSNL.NET.IN>
+To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
+Date: Tuesday, September 01, 1998 12:28 PM
+Subject: Re: epic marriage
+
+
+>At 06:43 AM 9/1/98 +0200, you wrote:
+>>Dear Indologists,
+>>        I have a request about a marriage in the MBh, between arjuna and
+>>subhadrA, the kRSNa's sister. A very important one: by it the continuity
+of
+>>the lineage will be assured with abhimanyu.
+>>        But vasudeva, the subhadra's father was the brother of kuntI, the
+>>arjuna's mother, and hence the wife and husband were very close relatives.
+>>        Is such a marriage (between first crossed cousins) a legal one?
+>>        If not, the fact that zUra (biological father of subhadrA and
+>>kRSNa) gave his just born daughter to kuntibhoja, son of his paternal
+aunt,
+>>making him the legal father of kuntI, could make the marriage to be legal
+>>(between third cousins)
+>>
+>
+>Men marrying daughters of paternal aunts or maternal uncles are not only
+>very common in South India but are preffered (atleast till recently). They
+>are slightly on the decline now because of the spread of the knowledge
+>of the bad effects of inbreading.
+>
+>regards,
+>
+>sarma.
+>
+
+
+

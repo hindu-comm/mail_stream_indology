@@ -1,0 +1,4 @@
++++
+title = "Dakshinamurti and Nataraja"
+
++++

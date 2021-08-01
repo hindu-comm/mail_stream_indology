@@ -1,0 +1,22 @@
++++
+title = "27 dq629 at cleveland.Freenet.Edu"
+date = "1993-09-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-September/000682.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-September/000682.html)
+
+
+
+The Journal of Vaishnava Studies is soliciting papers on South Indian
+Vaishnavism of the Ramanuja School for its next publication. Graduate
+Students, other Scholars and Practitioners are welcome to submit 10-25
+pages on any topic related to this school of Vaishnavism by October 20th
+1993 to Steven Rosen c/o JVS PO BOX 400716 Brooklyn NY 11240-0716 or
+contact Steven at SATCHMO868 at aol.com (Internet) or SATCHMO868 (America
+Online). Or contact me, Greg Jay at dq629 at cleveland.freenet.edu
+
+
+
+
+

@@ -1,0 +1,33 @@
++++
+title = "170 Srinivasan Pichumani"
+date = "1997-02-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007001.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007001.html)
+
+
+	We think matters should be said straight at the very 
+	outset in order to avoid any misunderstanding. Readers 
+	should be made clear about the purpose for "German Indology", 
+	a "list of institutions and persons concerned with 
+	Sanskrit and allied studies" compiled by Prof. Dieter 
+	Schlingloff in 1996. For those of us in Germany the 
+	(unwritten) reasons are very clear.
+
+Thanks for the detailed explanation... the misunderstanding
+seems to have been entirely Dominik's... as evidenced by his
+ad hominem remarks.
+
+The misunderstanding of Peter Fluegel on the other hand seems 
+to have been just due to a "typo" in his reading...  he misread 
+it as "German ideology" instead of "German indology".
+
+-Srini.
+
+ps: I remember similar off-the-cuff remarks made against postings
+of Dr.S.Kalyanaraman to the list a while ago.
+
+
+
+

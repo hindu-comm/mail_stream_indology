@@ -1,0 +1,44 @@
++++
+title = "92 pslvax!sadhu at UCSD.EDU"
+date = "1995-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002477.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002477.html)
+
+/ FROM:  Ganesan <lms420.jsc.nasa.gov!nas_ng at ucsd.UUCP>, May 19 14:58 1995
+| ABOUT: Thirukkural on-line
+|
+| 
+| May 19, 1995
+| 
+| The Thirukkural is available in American English
+| and Tamil from World Wide Web.
+| 
+| For Tamil original, the WWW address is:
+| http://mathsun1.math.utk.edu:8000/~siddhart/thirukkural
+| 
+| For the American English (Hinduism Today, Hawaii) verison:
+| http://uts.cc.utexas.edu/~janahan/kural/kural-body.html
+| They have done a fairly good job of translation. Only
+| aRattuppAl and poruTpAl are there. They leave out kAmattuppAl.
+| 
+| n. ganesan
+| nas_ng at lms461.jsc.nasa.gov
+| 
+|  
+|
+\ END: Ganesan
+
+
+The English version can also be found from the HT home page at:
+
+     http://hookomo.aloha.net/~htoday/htoday.html
+
+
+-sadhu
+
+
+
+
+

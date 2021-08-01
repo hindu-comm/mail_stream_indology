@@ -1,0 +1,28 @@
++++
+title = "234 Francois Quiviger"
+date = "1995-08-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/003104.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/003104.html)
+
+
+Dear list members,
+
+	A collegue of mine, Paul Taylor (ptaylor at a1.sas.ac.uk>, is
+organising a seminar on pre-Islamic Indian art next Spring and is looking
+for someone, if possible based in the U.K., to speak on the economic
+history of Pre-Islamic India. Can anyone recommend a speaker? 
+
+			Many thanks in advance
+
+			Francois Quiviger
+			Warburg Institute
+			University of London
+
+
+
+
+
+
+

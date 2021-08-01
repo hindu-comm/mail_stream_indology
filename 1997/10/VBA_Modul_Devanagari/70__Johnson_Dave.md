@@ -1,0 +1,44 @@
++++
+title = "70 Johnson, Dave"
+date = "1997-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009520.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009520.html)
+
+Could I please receive a copy of this module?
+
+Thank you,
+David Johnson
+dcjohnson at auburn.mec.edu
+
+> -----Original Message-----
+> From: Rolf Heinrich Koch [SMTP:roheko at CLASSIC.MSN.COM]
+> Sent: Sunday, October 05, 1997 7:11 PM
+> To:   INDOLOGY at LISTSERV.LIV.AC.UK
+> Subject:      VBA Modul Devanagariconverter is ready!
+>
+> Hi, since a lot of you shows interest in the WINWORD97
+> Visual-Basic-Application program for converting romanized transcribed
+> texts
+> into Devanagari: the Modul is ready. You get it free including two
+> fonts. In
+> reverse please mail me each bug.
+> Okay? You need: Basic knowledge of VBA, WINDOWS95 and preferable
+> WINWORD97.
+> Writing any text you just choose in WINWORD some lines of texts you
+> liked to
+> be converted. Then you call the macro-programm. After some seconds the
+> part of
+> text you choosed will be in devanagari mode.
+> The modul covers several pages, so please contact me with email. You
+> will get
+> a zip-file which includes 4 files: the code, a readme-file and two
+> truetype-fonts.
+> N o   M a c i n t o s h
+> Good luck
+> Heiner
+> Email: roheko at classic.msn.com
+
+
+

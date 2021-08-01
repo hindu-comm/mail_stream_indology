@@ -1,0 +1,27 @@
++++
+title = "45 SILK at AC.GRIN.EDU"
+date = "1994-10-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-October/001428.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-October/001428.html)
+
+        We just (seem to have) finished a highly contentious discussion of
+politics in Indian studies.  This was at least marginally connected with
+Indology, and might, perhaps, maybe, in some way shape or form, have had a
+place on this list.  But I BEG you, let us not make this a forum for
+debating the politics of Israel!!!  I am sure there are more than enough
+places appropriate to that sort of discourse.  This is not one of them.
+        In the spirit in which Indology is intended (as I understand it), I
+am posting separately a list of questions concerning classical Indology,
+regarding which I ask the help of specialists.
+
+Jonathan Silk
+SILK at AC.GRIN.EDU
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "14 Dominik Wujastyk"
+date = "1991-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-May/000075.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-May/000075.html)
+
+
+Status: RO
+
+Would anyone with Harry Falk's current phone number be good enough to
+let me have it, please?  I have an old number, +49 761 71156, but it seems to
+have been disconnected.  And I my email does not seem to be getting
+through to Harry, either.
+
+Thanks.
+
+Dominik
+
+
+-------------------------------------------------------------------------------
+Dr Dominik Wujastyk,     | Janet:                          D.Wujastyk at uk.ac.ucl
+Wellcome Institute for   | Bitnet/Earn/Ean/Uucp/Internet:  D.Wujastyk at ucl.ac.uk
+ the History of Medicine,| or: dow at harvunxw.bitnet    or: dow at wjh12.harvard.edu
+183 Euston Road,         | last resort: D.Wujastyk%uk.ac.ucl at nsfnet-relay.ac.uk
+London NW1 2BN, England. | Phone no.:                    +44 71 383-4252 ext.24
+-------------------------------------------------------------------------------
+
+
+
+

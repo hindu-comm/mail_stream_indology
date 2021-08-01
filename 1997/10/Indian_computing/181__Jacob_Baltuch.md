@@ -1,0 +1,25 @@
++++
+title = "181 Jacob Baltuch"
+date = "1997-10-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009628.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009628.html)
+
+1. Does anyone know of places on the net where I can find the various
+   official specs relevant to computing & Indian languages (ISCII, etc.)
+
+3. What's the 8-bit standard that has the characters needed for translit-
+   teration (letters with macrons, underdots, overdots, etc.)? (Incidentally
+   does Unicode make room for such characters? where do I find the Unicode
+   spec?)
+
+2. Is there a reference book for computing & Indian languages (I'm thinking
+   of something along to lines of what Ken Lunde's "Understanding Japanese
+   Information Processing" is for Japanese)
+
+Thanks
+Jacob
+
+
+

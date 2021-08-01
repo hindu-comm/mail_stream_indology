@@ -1,0 +1,58 @@
++++
+title = "362 Allen W Thrasher"
+date = "1998-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011439.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011439.html)
+
+The Library of Congress
+invites
+AAS participants to
+
+A PROGRAM
+Friday, March 27, 1997
+
+Mumford Room
+Madison Building 6th Floor
+(Capitol South Metro Station)
+
+
+A ROUNDTABLE ON "LC FORGING AHEAD INTO THE 21ST CENTURY"
+> From 2:00 to 4:30 p.m.
+
+LC speakers are from the African/Asian Acquisitions and Overseas
+Operations Division, Asian Division, Cataloging Policy and Support Office,
+Law Library, and Photoduplication Service.
+
+
+VISIT THE NEW ASIAN READING ROOM IN THE JEFFERSON BUILDING
+(LJ150)
+8:30 a.m. to 5:00 p.m.
+
+
+The Visitors' Center, Library of Congress
+(in the lobby of the Jefferson Building)
+offers
+
+Daily tours of the Jefferson Building, Monday-Saturday:
+
+11:30 a.m., 1:00 p.m., 2:30 p.m., 4:00 p.m.
+
+Visitors should enter the building from the carriage entrance of First Street,
+S.E. (facing the Capitol).  Tours start at the information desk.  A sign
+language interpreter can be arranged for the Monday tour at 2:30 p.m. and
+the Friday tour at 11:30 a.m. upon request by calling TTY (202) 707-6362 or
+fax (202) 707-0823 in advance.
+
+The Digital Library Visitors' Center
+(in the Atrium of the Madison Building)
+
+offers
+
+Daily demonstrations at 1:00 p.m.
+
+For special demonstrations call Cathy Yang (202) 707-1649.
+
+
+

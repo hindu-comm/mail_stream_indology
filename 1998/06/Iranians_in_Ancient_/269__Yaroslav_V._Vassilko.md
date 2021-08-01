@@ -1,0 +1,23 @@
++++
+title = "269 Yaroslav V. Vassilkov"
+date = "1998-06-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012841.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012841.html)
+
+I would like to express my belated thanks to Jonatan Silk for his additions
+to a list of works bearing on the Iranian influence in Indian Religion. His
+suggestions are not "off the original point" at all, but directly answer my
+question. Due to the help from the members of the list and to my own search
+I have now at my disposal a bibliography on the problem, which starts with
+Major Wilford's notes in Asiatic Researches, vol. 9, and Fr. Buchanan's
+"Account of the Districts of Bihar and Patna in 1811-1812" (published from
+the original MS at Patna in 1920-s, no exact date). And I have found what
+I was looking for: the indisputable evidence of Iranian cultural presence in
+Magadha/Bihar during Late Antiquity and Middle Ages.
+       With deep gratitude to all contributors,
+                                                Yaroslav Vassilkov
+
+
+

@@ -1,0 +1,51 @@
++++
+title = "07 Peter J. Claus"
+date = "1996-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006428.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006428.html)
+
+
+
+
+Date: December 5, 1996 
+
+Indology List
+indology at Liverpool.ac.uk
+
+Dear Members,
+
+Robert J. Zydenbos's use of shop signs as an indicator
+of language use (the language situation) in Bangalore
+and Raja's reply to it make interesting reading not
+only for the discussion context in which they were
+intended, but also (perhaps) for some of the other
+discussions on this LIST over the past year, and
+particularly the recurent one on the Indus
+Valley/Indigenous Aryan controversy.
+
+It suggests great research project in 'ethno-
+archeology' assessing the relationship between language
+and culture as found in cryptic material cultural
+remains.  A really thorough contemporary study might
+give useful leads to archeologists 5,000 years from now
+on the English Invasion of India.  Surely they would
+otherwise come to the conclusion that there was a swift
+and massive movement of people from a small island
+thousands of miles away in an armada dwarfing anything
+the Spanish had amassed only a century earlier.  And
+did they proliferate! [Of course it might be argued the
+other way around, that the English, coming from India
+(where we can see from the signs a language clearly
+emerging), invaded the rest of the world...]
+
+Peter J. Claus                        
+fax: (510) 704-9636
+pclaus at csuhayward.edu
+
+
+
+
+
+

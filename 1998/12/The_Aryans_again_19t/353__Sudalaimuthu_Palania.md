@@ -1,0 +1,27 @@
++++
+title = "353 Sudalaimuthu Palaniappan"
+date = "1998-12-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014811.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014811.html)
+
+In a message dated 98-12-21 09:20:32 EST, ebryant at FAS.HARVARD.EDU writes:
+
+<< On a related note, the theosophist Olcott, was still partial to an Indian
+ Aryan homeland at the end of the 19th century (most Europeans had
+ abandoned such an idea by the middle of the century). >>
+
+The marriage of Rukmini Devi, a Tamil brahmin lady who played a significant
+role in the field of bharatanatyam of 20th century, with Arundale of the
+Theosophical society was considered somewhat controversial. It would be
+interesting to find out if the Aryan theory (equating the Indians and
+Europeans as Aryans) was ever used by those defending the marriage against the
+orthodox opposing it. If they did, that may be an example of Indians using the
+concept of "Aryan", which Edwin is looking for.
+
+Regards
+S. Palaniappan
+
+
+

@@ -1,0 +1,26 @@
++++
+title = "75 JHOUBEN at rullet.LeidenUniv.nl"
+date = "1996-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005314.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005314.html)
+
+Now available via the IIAS-homepage (http://iias.leidenuniv.nl): the IIAS 
+Internet Guide to Asian Studies with: 
+general basic information on Electronic Discussion / Mailing Lists, Telnet, 
+Gopher, Gopher, World Wide Web, Newsgroups, Electronic Publishing (+ how to 
+contact / subscribe); 
+and: 
+a list of electronic lists, gopher sites, www sites, newsgroups, library 
+catalogues, etc. relevant to Asian Studies. 
+
+The IIAS Internet Guide to Asian Studies is also available as a hard copy 
+(DFL 20,-, to be ordered at IIAS, P.O.Box 9515, 2300 RA, Leiden; info: 
+IIAS at RULLET.LeidenUniv.NL). 
+
+Jan Houben
+
+
+
+

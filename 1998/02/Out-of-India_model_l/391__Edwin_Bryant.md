@@ -1,0 +1,71 @@
++++
+title = "391 Edwin Bryant"
+date = "1998-02-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/011006.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/011006.html)
+
+Last comments.
+
+On Sat, 21 Feb 1998, Bh. Krishnamurti wrote:
+
+> I do not think
+> Edwin Bryant is correct in saying that the main stream academia support
+> the theory that India was the homeland of IE.   Regards, Bh.K.
+
+That's not quite what I said.  A considerable majority of scholars I
+interviewed simply felt that there is no evidence for the Indo-Aryans
+intruding into the subcontinent.  Few actually then proceed to argue that
+they went out (although, as we all know, some scholars, usually the more
+motivated, do). Obviously, if the languages didn't come in then they must
+have gone out.  But the more sober scholars simply feel that the evidence
+is insufficient to determine anything conclusively.   There are certainly
+scholars still supporting the I-A migration hypothesis, but I found them
+to be in the minority.  Most at least felt the need for reconsideration
+and reexamination of the evidence. My research was based on umpteen hours
+of recorded interviews in around 25 University campuses across the
+subcontinent (and most of the Arch and other surveys of India). If you
+have any additional substantive data you can share, please contact me
+privately: I will eagerly include it.
+
+> Jacob Baltuch wrote:
+> >One last question. Edwin Bryant wrote:
+> >
+> >I just can't imagine how one could learn
+> >proper modern linguistics if one's linguistic
+> >training included "theories" that Sanskrit
+> >was identical to PIE or that IA and Dravidian
+> >were close genetic relatives. That would
+> >be really something on a par with the Marr
+> >madness in Soviet linguistics. I do hope the
+> >answer is no.
+
+One last answer:  The more sober members of the so-called Indigenous Aryan
+school do not argue either that Sanskrit is equal to PIE, or that
+Dravidian is from the I-A language family (although obviously some have
+done so). The relationship of Sanskrit to PIE need have no bearing on the
+geographical location of the so-called homeland (ie, I-A could have
+evolved from PIE in a variety of different places).
+
+I should note that most of the scholars in the Indigenous Aryan school are
+archaeologists, historians and philologers.  When I was last in India
+(94-95) I could only find three departments where serious courses in IE
+linguistics were being offered: Calcutta, Varanasi and Poona (Annamalai
+had closed its department, and, as I recall, the Poona IE post had been
+vacant for a year, at the time).  The odd course is offered here and there
+(ie in Delhi U.), but historical IE linguistics is not seen as a priority
+for scarce university resources.  Accordingly, most Indigenous-Aryanists
+reveal a blatant lack of awareness (and interest) in the IE linguistic
+evidence. This is an obvious Achilles heel, since the whole I-A migration
+hypothesis was originally predicated on the linguistic evidence and can
+only be dismantled by addressing this evidence. There have been some
+attempts to address the linguistic evidence, however, of varying worth.
+
+That's really all I have time for due to teaching overload.  And I
+have experience that these discussions tend to go on for ever and pretty
+soon people start becoming emotional and offensive and the scholarly
+value of the discussion evaporates.   Regards,   Edwin Bryant
+
+
+

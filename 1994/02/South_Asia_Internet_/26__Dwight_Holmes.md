@@ -1,0 +1,25 @@
++++
+title = "26 Dwight Holmes"
+date = "1994-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-February/000914.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-February/000914.html)
+
+
+One more "list" that seems to have escaped notice:  The Nepal Digest,
+for which subsrption requests are to be sent to: NEPAL-REQUEST at CS.NIU.EDU
+This is a variety of news, discussion/debate and occassional creative
+contributions on and about, surprisingly, Nepal.
+============================================================================
+Dwight R. Holmes                                       
+LSI/Center for International Studies   INTERNET: dholmes at garnet.acns.fsu.edu
+Florida State University                                 VOICE: 904-644-5442
+Tallahassee, FL 32306                                      FAX: 904-644-3783
+============================================================================
+
+
+
+
+
+

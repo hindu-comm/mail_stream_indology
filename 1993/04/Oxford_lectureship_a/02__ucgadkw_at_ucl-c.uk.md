@@ -1,0 +1,43 @@
++++
+title = "02 ucgadkw at ucl.ac.uk"
+date = "1993-04-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-April/000490.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-April/000490.html)
+
+
+UNIVERSITY OF OXFORD
+
+In association with St Antony's College
+
+UNIVERSITY LECTURESHIP IN SOUTH ASIAN STUDIES
+
+
+Applications are invited for the post of University Lecturer in South
+Asian Studies in Queen Elizabeth House (the International Development
+Centre) in association with St Antony's College. Consideration will be
+given to candidates with teaching experience and a research interest in
+the broad field of South Asian Studies.  The person appointed will be
+primarily responsible for teaching South Asian (and particularly Indian)
+politics, but it is also desirable that he or she have a broad interest
+in South Asia.  Fluency in a South Asian language is desirable.
+
+The successful candidate will be appointed according to age on the
+Oxford lecturer scale (13,400--26,407 pounds per annum).
+
+Applications (eight copies except from candidates overseas who need only
+send one) including a curriculum vitae, a list of principal publications
+and the names of two referees (including address and fax numbers) should
+be sent to: Dr. E.A. Gemmill, University Offices, Wellington Square,
+Oxford OX1 2JD (telephone (0865) 2770561), from whom further particulars
+may be obtained.
+
+
+The University is an Equal Opportunities employer.
+
+
+
+
+
+

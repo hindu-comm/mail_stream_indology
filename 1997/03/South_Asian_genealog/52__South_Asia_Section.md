@@ -1,0 +1,36 @@
++++
+title = "52 South Asia Section"
+date = "1997-03-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007179.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007179.html)
+
+
+Requests have come to Indology from time to time requesting information on
+caste histories, genealogies etc. from South Asia.  Since it appears that
+it will be some time before my compilation of South Asia caste, family and
+dynastic histories becomes a web-site, I would like to let interested
+South Asianists know that I have a database containing approximately 1,700
+entries dealing with this topic.  The information is primarily from the
+collections of the British Library, The India Office Library, the Library
+of Congress and the National Library in Calcutta.  
+
+If I can be of assistance to academic researchers in this subject area,
+please contact me directly. 
+
+South Asia Section
+Irene Joshi, M.L.S.
+joshi at u.washington.edu
+South Asia Librarian
+University of Washington Libraries
+Box 352900
+Seattle, Washington, 98195-2900
+U.S.A.
+http://weber.u.washington.edu/~souasia/
+
+
+
+
+
+

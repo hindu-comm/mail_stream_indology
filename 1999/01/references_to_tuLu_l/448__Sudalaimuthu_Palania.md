@@ -1,0 +1,33 @@
++++
+title = "448 Sudalaimuthu Palaniappan"
+date = "1999-01-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015331.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015331.html)
+
+In a message dated 1/15/99 2:10:57 PM Central Standard Time,
+Periannan.Chandrasekaran at DELTA-AIR.COM writes:
+
+> Are there any other references to Tulu in early
+>  > tamil literature.
+
+There is indeed a reference to tuLu nATu in Classical Tamil literature.
+
+meymmali perum pUN cemmal kOcar
+kommaiyam pacuGkAyk kuTumi viLainta
+pAkal Arkaip paRaikkaN pIli
+tOkaik kAvin2 tuLunATTu an2n2a              (akanAn2URu 15.2-5)
+
+Translation:
+
+Like the tulu country with groves which belong to the kOcar who hold truth as
+their ornaments, and where peacocks, that have plumage with patterns like the
+eyes of the drums, eat the fruits of balsam-pear (momordica charantia)
+ripening at the tip....
+
+Regards
+S. Palaniappan
+
+
+

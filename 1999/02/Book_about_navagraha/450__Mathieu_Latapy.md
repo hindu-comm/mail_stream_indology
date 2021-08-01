@@ -1,0 +1,26 @@
++++
+title = "450 Mathieu Latapy"
+date = "1999-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/016015.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/016015.html)
+
+ Dear Indologists,
+
+ I have the reference of a book I can't find in Paris:
+
+ SARASWATHY, K.N, and ARDHANAREESWARAN, B., "Navagraha
+or Nine Planets", Kadalangudi Centenary Astrological
+Book Series, N.1 . Madras: Kadalangudi House, 1978.
+
+ Does any of you know this work? Could someone obtain a
+hard copy of it for me, or at least tell me about its
+content ?
+
+Thanks in advance,
+
+                            Magali Vacherot.
+
+
+

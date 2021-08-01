@@ -1,0 +1,27 @@
++++
+title = "34 yanom at ksuvx0.kyoto-su.ac.jp"
+date = "1994-11-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001529.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001529.html)
+
+Now I think I was clever when I decided to keep my old e-mail address
+exclusively for the <indlogy> discussion group and the new one for 
+ordinary e-mails. If I had only one address I should have missed some
+important personal messages amid the floof of those political 
+propagandas.
+
+I wish someone like Dominik open another discussion group for
+'Sanskrit studies'.
+
+Michio YANO
+Professor of Sanskrit,
+Kyoto Sangyo University
+yanom at cc.kyoto-su.ac.jp
+yanom at ksuvx0.kyoto-su.ac.jp (for indology only)
+
+
+
+
+

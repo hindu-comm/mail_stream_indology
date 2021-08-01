@@ -1,0 +1,51 @@
++++
+title = "256 Michael Witzel"
+date = "1998-10-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013846.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013846.html)
+
+I am pleased to announce the relase, last week, of another volume of the
+HARVARD ORIENTAL SERIES (edited by Michael Witzel since 1993)
+
+Volume 53 is the long-awaited first part (Prakasas 1-12) of the
+ZRGgAraprakAza, critically edited by the late V. Raghavan. The book,
+typeset in Nagari under Raghavan's supervision, had been accepted by the
+then editor for publication in HOS in the Seventies, long before
+Raghavan's passing away, -- it constitutes one of the several problems
+I inherited here.
+
+The book can be ordered directly from Harvard Univ. Press.; see:
+http://128.103.251.49/default.html
+or email to :  cal at hup.harvard.edu
+
+-------------------------------------------------------------------------------
+SRNGARAPRAKASA of Bhoja,
+Edited by Venkatarama Raghavan
+Part  I
+
+DISTRIBUTED BY HARVARD UNIVERSITY PRESS
+CAMBRIDGE, MASSACHUSETTS
+AND LONDON, ENGLAND
+
+Cambridge 1998, pp. ii, 916
+ISBN 0-674-88340-6
+Price $ 95
+-------------------------------------------------------------------------------
+
+For further information write to:
+
+Editor, Harvard Oriental Series,
+Department of Sanskrit and Indian Studies,
+2 Divinity Avenue, Cambridge  MA 02138, USA
+617-495 3295; email: witzel at fas.harvard.edu
+and cf.:  www.fas.harvard.edu/~witzel/mwpage.htm     sub: HOS.
+
+
+ ==========================================================================
+Michael Witzel                       witzel at fas.harvard.edu
+my direct line (also for messages) :  617- 496 2990
+
+
+

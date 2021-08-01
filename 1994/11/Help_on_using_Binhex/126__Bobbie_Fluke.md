@@ -1,0 +1,24 @@
++++
+title = "126 Bobbie Fluke"
+date = "1994-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001637.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001637.html)
+
+Adm. Sec'y - Occupational Training & Dev.
+Phone: (502) 852-6667       FAX:  (502) 852-4563
+Jim, I got help on this from a friend - Deb Anderson, a secretary in
+Administration and Higher Ed has Macintosh computers both here and at home,
+and her husband is quite good at a lot of "things." I sent her the message,
+and her husband opened it at home and converted the file for me last night -
+it looks just like a REAL resume! Amazing! Thanks for your help also. And if
+anyone else has this problem, contact Deb at DLANDE01.
+
+  BITNET:  RLFLUK01 at ULKYVM
+INTERNET:  RLFLUK01 at ULKYVM.LOUISVILLE.EDU
+
+
+
+
+

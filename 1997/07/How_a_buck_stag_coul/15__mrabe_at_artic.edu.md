@@ -1,0 +1,40 @@
++++
+title = "15 mrabe at artic.edu"
+date = "1997-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-July/008747.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-July/008747.html)
+
+Thiru Paliniappan,
+
+Isn't it curious [Vicitracitta, ;-)] that you are asking the same question
+in this thread that the Jain poet of old posed in the Shilappadirakam?  If
+I may still quote on this list, a Danielou translation:]
+
+You came wondering on a stag
+that proudly bears black antlers.
+You hold in your bracelet-laden hands
+a sword dripping with blood
+after you killed the buffalo demon. . .
+Why must you stand on a fierce lion
+whose eyes shoot darts of flame,
+ holding in your frail hand
+a discus and a conch?
+[Prince Ilango Adigal, _Shilappadikaram (The Ankle Bracelet)_, trans. Alain
+Danielou (New York 1965), pp. 80, 81]
+
+My article also speculates on the denotative significance of those Ayudhas,
+BTW.  It is not quite ready, together with my first attempt at a personal
+Web page, but should be posted eventually at this URL:
+http://www.sxu.edu [something/something...]
+
+
+Until then,
+
+
+
+
+
+
+

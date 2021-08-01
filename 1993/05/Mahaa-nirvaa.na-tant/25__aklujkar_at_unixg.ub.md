@@ -1,0 +1,26 @@
++++
+title = "25 aklujkar at unixg.ubc.ca"
+date = "1993-05-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-May/000514.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-May/000514.html)
+
+In response to the inquiry from Lowell Jaks, McGill University
+
+The wording of your message gives the impression that you are unaware of
+the three entries under Mahaa-nirvaa.na-tantra in M.B. Emeneau's A Union
+List of Printed Indic Texts and Translations in American Libraries (p.
+313). These entries do not include an edition with 'Sa.nkara's commentary. 
+However, they may be helpful to you in gathering further information about
+the specific edition in which you are immediately interrested. 
+
+Ashok Aklujkar, Professor, Department of Asian Studies, University of B.C.,
+Vancouver, B.C., Canada V6T 1Z2, (604) 822-5185, (604) 274-5353,  fax
+822-8937
+
+
+
+
+
+

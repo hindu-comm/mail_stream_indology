@@ -1,0 +1,32 @@
++++
+title = "319 Palaniappa"
+date = "1998-01-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010565.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010565.html)
+
+There is a Tamil text called "peruGkatai". This is the story of king udayaNa.
+While there are apparently several versions of this story in IndoAryan, the
+Tamil text is believed to be based on the Sanskrit version. In this text,
+there is a character called "cAtaka" of the potter caste, who is an aide of
+yUgi, udayaNa's minister. cAtaka acts as a messenger between udayaNa's
+ministers when udayaNa is imprisoned. When udayaNa is regains his kingdom, he
+rewards him with a  title(?) called "peruGkuyam" (great "kuya") and two
+towns/villages. The text is given below.
+
+"............cAtakan2 en2n2um
+kuLalaRku ERpap peruGkuyam aruLi
+iruntu in2itu uRaiken2a  iraNTu Ur Ittu"    (vatsa canto, peruGkatai
+4.9.47-49)
+
+It will be nice to know if the author koGkuvEL is faithfully reproducing what
+is in the IA texts or he is inserting customs prevailing in south India. Does
+anybody know what is said in Prakrit/Sanskrit texts? What is the honor given
+to the potter called? Thanks in advance.
+
+Regards
+S. Palaniappan
+
+
+

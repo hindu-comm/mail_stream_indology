@@ -1,0 +1,48 @@
++++
+title = "40 Charles Wikner"
+date = "1997-09-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009080.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009080.html)
+
+
+Himanshu requested this message to be forwarded from the Sanskrit list.
+
+Regards,
+Charles Wikner.
+wikner at nacdh4.nac.ac.zxa
+
+
+From: pota at adfa.oz.au (Himanshu R. Pota)
+Date: Tue, 2 Sep 1997 13:07:52 +1000 (EST)
+Subject: ITRANS to SKT
+
+## priyamitraaNi##,
+I have written a small program to convert ITRANS encoding to SKT encoding.
+## ahaM aaiiTraansaat eskeTii akSharapraNaaliyaam parivartanaaya  eka.m
+laghu-yantra-kramam alikham| ##
+You can pick it up from: ## tasya praapti sthaanam asti ##
+
+ftp://evans.ee.adfa.oz.au/pub/staff/hrp
+
+itx2skt.zip (file name).
+
+Please write to me for improvements or if you find it difficult to use the
+program.
+## unnatikR^ite kaThinataayaa.h vaa sarve kR^ipayaa maam likhatu##
+
+Today I read that new people have difficulty in using Sanskrit with
+computers. To them I recommend itranslator1-1. You can pick that also from
+the above mentioned ftp site.
+
+##adya ahaM apaTham naviinalokaaH sanskR^itam sangaNitreNa saha prayuktum
+kaThinataam anubhavanti| taan ahaM itranslator1-1 yantra-kramasya upayogam
+kuru iti vadaami| tat yantra-kramam api upari likhitam sthaane asti|##
+
+Himanshu
+
+
+
+
+

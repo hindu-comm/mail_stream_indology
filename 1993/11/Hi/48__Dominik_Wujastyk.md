@@ -1,0 +1,60 @@
++++
+title = "48 Dominik Wujastyk"
+date = "1993-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-November/000804.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-November/000804.html)
+
+In message Wed, 24 Nov 1993 13:00:44 GMT+0100, IMTG0 at cc.uab.es  writes:
+
+> I'm looking for sanskrit text editors, and electronic dictionaries
+> and texts in sanskrit. There exists something of the sort?
+
+I use TeX and there are nice Devanagari, Telugu, Tamil and Malayalam fonts
+available (as well as Arabic, Greek, Cyrllic, Thai, Japanese, and several
+others).  But while I swear by TeX, it isn't everyone's cup of tea and
+there are now several other ways of doing Sanskrit: write to
+
+  Lingua Language Services,
+  63b Woodhead Road
+  Holmfirth
+  Huddersfield HD7 1PR
+  England
+  Tel: +44 484 68 63 96
+  FAX: +44 484 68 73 20
+
+for a nice catalogue of Indic software in various formats for various
+systems.
+
+Post your query to INDOLOGY for more information from others.  Several
+INDOLOGY members have created their own fonts and related systems for Indic
+language work, and would probably be glad to help.
+
+For texts, have a look at the directory pub/users/ucgadkw/indology at the
+Internet site ftp.bcc.ac.uk for some machine-readable Sanskrit texts.
+Again, if you have a specific text in mind, ask INDOLOGY.  There are many
+Sanskrit texts in machine-readable form which people might be prepared to
+share on a one-to-one basis with caveats about imperfection, which they
+would not want to post to a public archive.
+
+The only electronic dictionary of Sanskrit I know is the one which is a
+possible product of the work being done by Prof. P. Schreiner in Zurich
+<pesch at indoger.unizh.ch>.
+
+Best wishes,
+Dominik
+
+PS I'm copying this note to INDOLOGY members since they might be interested
+in the Lingua Language Services address above.
+--
+ALERT:  I shall be away in Madras from 12th - 20th November 1993,
+and unable to deal with email or voice messages until my return.
+--
+Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
+Wellcome Institute, 183 Euston Road, London NW1 2BE.
+
+
+
+
+

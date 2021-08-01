@@ -1,0 +1,35 @@
++++
+title = "45 SILK at AC.GRIN.EDU"
+date = "1994-11-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001539.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001539.html)
+
+        It may seem very selfish of me, but I cannot resist pointing out
+that so far NOT ONE of the people who have complained about the
+politicization of INDOLOGY have responded to even one of the many technical
+questions concerning Sanskrit and Indian studies posted by me to this list
+recently, and again in the not too distant past.  With very few exceptions,
+moreover, there has been little technical discussion of Indological topics
+from any corner of late.
+        I am well aware that this list is not the be-all and end-all of the
+scholarly lives of its members, but it might carry more weight if those who
+complain about even the slightest politicization of the list were actively
+participating in the project of making this list into a vital and active
+SCHOLARLY forum.  I thought part of the point of this list was to make us
+realize that we do not and need not work in a vacuum.
+        So, how about some questions, answers, reports of interesting
+discoveries, random thoughts -- whatever?  (Years ago there was a section
+in the JRAS of "Notes and Queries" -- might not INDOLOGY be a perfect forum
+for just such contributions?)
+
+Jonathan Silk
+SILK at AC.GRIN.EDU
+
+
+
+
+
+
+

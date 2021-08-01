@@ -1,0 +1,34 @@
++++
+title = "46 cardona at unagi.cis.upenn.edu"
+date = "1997-05-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008044.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008044.html)
+
+>Despite the emphasis on the beauty of fair skin in India today...isn't
+>there an old story that ancient Indians heard tales from travelers of
+>white-skinned, blue-eyed people and laughingly denied such tales, saying
+>the gods could not be so cruel as to make such people?
+>
+
+
+There appear to have been such features known in the 2nd c. BC. In the
+MahAbhASya on 2.2.6 and 5.5.15, Patanjali quotes a verse giving the
+characteristics of BrAhmaNas, then describes some features.  The text as
+found in Kielhorn's edition and others has gauraH zucyAcAraH piGgalaH
+kapilakezaH.  In addition, a different reading is noted in the Uddyota and
+RatnaprakAza: piGgalakapilakezaH.  With the first reading, a BrAhmaNa is
+described as being white, of pure behavior, yellow-brownish and with
+reddish-brown hair.  Under the second, he is white, of pure behavior and
+with hair that is yellowish to reddish brown. It is understandable that
+NAgeZa exerts effort to explain gauraH under the first reading. In his
+commentary, KaiyaTa remarks that this harks back to an earlier time, and
+that the same characteristics are seen to continue rarely even now-a-days.
+George Cardona
+
+
+
+
+
+

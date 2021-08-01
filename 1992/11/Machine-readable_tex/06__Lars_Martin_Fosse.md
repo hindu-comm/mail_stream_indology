@@ -1,0 +1,40 @@
++++
+title = "06 Lars Martin Fosse"
+date = "1992-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-November/000356.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-November/000356.html)
+
+
+To all list members!
+
+Some days ago I sent you a letter hoping to acquire / swap machine-readable
+texts in sanskrit, pali or prakrit with those of you who might be
+interested. Just after I sent my letter, something happened to my mail
+partition on the Unix disk, and I ended up with a gigantic mail file 12 MB
+large, where old and new messages had copied themselves endlessly upon
+other messages in such a manner that disentanglement is out of the
+question.
+
+I must therefore ask those of you - if any!  - who have answered my request
+to repeat your answers. I am sorry about this, but it can't be helped.
+
+Regards, Lars Martin Fosse
+
+
+Lars Martin Fosse
+Department of East European
+and Oriental Studies
+P. O. Box 1030, Blindern
+N-0315 OSLO Norway
+
+Tel: +47 2 85 68 48
+Fax: +47 2 85 41 40
+
+E-mail: fosse at hedda.uio.no
+
+
+
+
+

@@ -1,0 +1,40 @@
++++
+title = "77 Vidhyanath Rao"
+date = "1996-11-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006197.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006197.html)
+
+
+> Dravidian: velar fricative      alveolars
+> P:              z(/.)          r(/-)  n(/-) 
+> C1:             .z             _r     _n  
+> C2:             z              _r     _n 
+
+Does this mean that the Tamil word for fruit  is to transcribed as
+`pa.zam'?
+
+If so, this transliteration is ill-advised. It seems that the most
+common transliteration is r with two dots underneath. Hock quotes
+Krishnamurti as saying that the transcription as .z (and presumably also
+zh) `is without strong empirical evidence'. And in my 19 years in
+Tamil Nadu, I did not hear it pronounced as a voiced sibilant (as the
+transcription suggests) and seldom as a velar fricative. (Though
+collapsing it with l, L or y is fairly common).
+
+Can any one tell me how this transcription started. The first time
+I saw `tamizh', I burst out laughing because I thought that that the
+`zh' was to be pronounced like the Russian letter usually transliterated
+as `zh' . I couldn't figure out who came with that one.
+
+> (4)R. Caldwell distinguishes Tam aytam (velar fricative) from visarga.
+
+There is seldom much call for the aytam in Modern Tamil (except that
+in borrowed words, `f' is transcribed with aytam+p). But I remember it
+as being basically like jiivhamuulya. (And I thought that that was a
+velar fricative).
+
+
+
+

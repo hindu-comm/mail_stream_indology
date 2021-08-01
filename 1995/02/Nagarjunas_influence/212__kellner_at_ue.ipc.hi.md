@@ -1,0 +1,40 @@
++++
+title = "212 kellner at ue.ipc.hiroshima-u.ac.jp"
+date = "1995-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/002063.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/002063.html)
+
+
+Regardless of whether a Nagarjunian influence on Dharmaki at rti's deviation
+from Digna at ga (if there is such a thing) exists, actually,
+regardless of any eventual result from textual inquiry, I find it
+methodolocigally unsound to credit one author with neglecting
+another's position, simply because he does not seem to allude to it.
+If one author does not mention another's position, first of all,
+let's assume that there is a reason for this which does not force
+us to discredit that author (irrelevance, different topics, different
+perspectives etc.). This is why I would not attribute any
+systematical significance to an alleged lack of reference from
+Dharmaki at rti to Na at ga@rjuna (Hayes seems to do so).
+
+And, I find it equally methodologically unsound to credit an author
+with simple logical fallacies, or inconsistencies (Hayes seems to do so).
+If we stop presupposing that philosophical authors write consistent
+texts and propose consistent logical systems, we might as well read
+their texts as poems and forget all about that philological-historical
+rigour.
+
+Birgit Kellner
+Institute for Indian Philosophy
+University of Hiroshima
+
+....who attributes historical significance to the fact that the
+photocopy of Hayes' article has obviously vanished from her room...
+
+
+
+
+
+

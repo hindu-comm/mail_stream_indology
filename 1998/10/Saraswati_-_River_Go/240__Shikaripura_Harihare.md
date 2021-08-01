@@ -1,0 +1,49 @@
++++
+title = "240 Shikaripura Harihareswara"
+date = "1998-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013823.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013823.html)
+
+Dear Prof Witzel,
+The following info (from the eMail forwarded)
+will certainly help you,
+in addition to what you have already got.
+Sincerely,
+-Harihareswara
+-------------------------------------
+Date:    Thu, 22 Oct 1998 16:49:08 PDT
+From:    "Dr.S.Kalyanaraman" <kalyan99 at NETSCAPE.NET>
+Subject: Sarasvati River: Himalayan Glaciology and Projects
+
+Hi,
+
+The following URL updates provide details on:
+
+1) Glaciological and Geological Sources of Vedic Sarasvati River in the
+    Himalayas http://sarasvati.simplenet.com/glaciology/glaciology1.htm
+   (Recent Geosciences monograph by Dr. VMK Puri and BC Verma,
+    Geological Survey of India)
+
+2)Slides/Poster Presentations: Get Involved in ongoing Sarasvati River
+   Heritage and Development Projects:
+
+    The URLs are:
+    http://sarasvati.simplenet.com/poster/poster1.pdf
+    http://sarasvati.simplenet.com/poster/poster1.ppt
+    http://sarasvati.simplenet.com/rigveda/Sans12.TTF (required to read  =
+
+    Rigvedic r.ca_s in Devana_gari, included on some slides/poster pages)=
+
+
+Please feel free to download these slides/poster presentations to any
+interested groups of sis.t.a_s and professionals.
+ I would deeply appreciate receiving comments and suggestions.
+
+Thanking you and with the best regards,
+-Kalyanaraman
+============================================
+
+
+

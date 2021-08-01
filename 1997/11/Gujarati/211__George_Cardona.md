@@ -1,0 +1,21 @@
++++
+title = "211 George Cardona"
+date = "1997-11-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009908.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009908.html)
+
+>Where can I learn Gujarati in Europe? Is there any
+>book for an experienced Sanskritist to learn
+>Gujarati?
+>Thanks
+>HH
+I would recommend Jadgdish Dave's Colloquial Gujarati: A Complete Language
+Course (Routledge, 1995), which we use at the Univ. of Penn. to teach the
+first year Gujarati course.  It comes with a cassette.  The dialogs and
+excercises are good and pretty natural and colloquial, though somewhat
+England oriented.  George Cardona
+
+
+

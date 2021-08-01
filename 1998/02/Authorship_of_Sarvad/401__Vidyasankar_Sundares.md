@@ -1,0 +1,37 @@
++++
+title = "401 Vidyasankar Sundaresan"
+date = "1998-02-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/011043.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/011043.html)
+
+>>3. Was janArdana, the father of sarvajnavishNu, the same as janArdana,
+>>the author of a work named tarkasangraha? The latter has been
+identified
+>>with Anandagiri, the TIkAkAra of the advaita school.
+>>
+>
+>Is this tarkasangraha different from the famous tarkasangraha by
+>AnnambhaTTu.
+
+Quite different. annambhaTTa lived in the 17th century, and his
+tarkasangraha is a compendium of the nyAya-vaiSeshika school.
+janArdana's tarkasangraha is a *refutation* of vaiSeshika categories,
+along advaita lines. It has been published in the Gaekwad Oriental
+Series. And if janArdana was the father of sarvajnavishNu, and/or
+identical with Anandagiri, the TIkAkAra (the identification has been
+made by S. Kuppuswami Sastri), he must have lived in the 13th century,
+early 14th century at the latest. Both tarkasangraha-s are quite popular
+among traditional advaita circles, as a strong grounding in
+nyAya-vaiSeshika is deemed essential for students of mImAmsA and
+vedAnta. annambhaTTa's text is generally more well-known than
+janArdana's.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "213 Jeson Woo"
+date = "1997-10-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009661.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009661.html)
+
+Dear Dr. Stern,
+
+I hope you and your family have been well these days.
+Thank you very much, as always, for your kindness.
+
+It seems in Hiroshima that autumn flew swiftly by and winter followed. TV
+says that it's snowing in Hokkaido, the northern part of Japan.
+
+It has been quite busy these days. We are working hard to prepare for The
+World DharmakIrti Conference which will be held here soon. Lots of
+DharmakIrtian specialists, including Profs. Steinkellner and Hayes, will
+come and present their papers at that conference.
+
+If you need something from Japan, please let me know.
+
+With best regards,
+
+Jeson Woo
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "177 Paul (Kekai) Manansala"
+date = "1998-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011354.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011354.html)
+
+On Tue, 17 Mar 1998, Robert J. Zydenbos wrote:
+
+> S. Krishna's critique of that book by Frawley and Feuerstein more
+> or less seem to summarise the general atmosphere in which the
+> 'repudiation' of the Aryan Invasion Theory is being propounded.
+
+I disagree. The AIT theory is already repudiated on lack of evidence.
+What the saffron crowd attempts to do is repudiate the AMT theory.
+Also, these people do not really represent the Indigenous Aryan
+crowd among mainstream Indian scholars.  They market more to Indians
+in the West and New Agers.
+
+I also have to agree that is wrong to call these people revisionists.
+There is no former history of an Aryan invasion of India. Not among
+the Indians, Iranians, Greeks, Chinese, Muslims or anyone. Not the slightest
+suggestion.  The idea originated among the British of the 19th century,
+so they are the ones revising history.
+
+Regards,
+Paul Kekai Manansala
+
+
+

@@ -1,0 +1,21 @@
++++
+title = "18 yanom at ksuvx0.kyoto-su.ac.jp"
+date = "1996-06-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005252.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005252.html)
+
+After I placed the dharma files at my ftp directory
+I found some mistakes --- especially unnecessary linebreaks
+in prose texts.  So I updated some files.  We will continue
+improving our e-texts.
+
+Michio YANO
+Kyoto Sangyo Univesity
+yanom at ksuvx0.kyoto-su.ac.jp (for indology mailing list)
+yanom at cc.kyoto-su.ac.jp (for private communications)
+
+
+
+

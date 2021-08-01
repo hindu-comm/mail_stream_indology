@@ -1,0 +1,40 @@
++++
+title = "229 Jan E.M. Houben"
+date = "1998-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011361.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011361.html)
+
+Better late than never:
+
+we should be grateful to Prof. Masanobu that he made available an E-text of the
+sUtra of Vaisheshika, this interesting orthodox Brahminical philosophical
+school which accepted (just like the Buddhist logicians DiNnAga and
+DharmakIrti), only direct perception and inference (pratyakSa and anumAna) as
+the two main sources of valid knowledge (pramANas), sacred texts (Agama) having
+validity only on the basis of these two.l
+
+Jan E.M. Houben
+
+***
+
+On Tue, 10 Mar 1998 16:55:02 +0900, Nozawa Masanobu <nozawa at LA.NUMAZU-CT.AC.JP>
+wrote:
+
+Dear members,
+
+  I put an E-text of the Vaishesikasutra by CS fonts in
+
+http://lapc01.ippan.numazu-ct.ac.jp/c/VSCtext.htm
+
+  Happy to be informed of errors or comments.
+
+
+                Nozawa Masanobu
+                Division of Liberal Arts
+                Numazu College of Technology
+        E-mail: nozawa at la.numazu-ct.ac.jp
+
+
+

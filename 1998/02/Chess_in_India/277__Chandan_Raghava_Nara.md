@@ -1,0 +1,23 @@
++++
+title = "277 Chandan Raghava Narayan"
+date = "1998-02-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010852.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010852.html)
+
+A comprehensive (for the time) account of catura_nga can be found in
+Manmohan Ghosh's critical edition of SUlapA.ni's catura_ngadIpikA: a
+manual of four-handed chess(Calcutta Sanskrit Series No.XXI, 1936). As a
+matter of fact, in a quick scan of this edition, Ghosh does mention the
+"earliest reference to chess" as occurring in the
+KarmAmak-i-ArtakshAtr-i-PApakAn, a Pahlavi romance.
+If you need more info from this edition, please contact me.
+chandan
+&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&*&
+Chandan R. Narayan
+510.642.4551 (work)
+510.770.1734 (home)
+
+
+

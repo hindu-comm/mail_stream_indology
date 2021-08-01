@@ -1,0 +1,24 @@
++++
+title = "31 Chandra Balachandra"
+date = "1993-09-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-September/000685.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-September/000685.html)
+
+I am familiar [by no means a scholar] with sanskrit, kannada, tamizh.  So,
+if i can help, i'll.  Please do send me your questionnaire.
+
+apologies for posting to the whole group, but i lost the original posting.
+
+Chandra S. Balachandran
+Dep. of Geosciences
+North Dakota State University
+Fargo  ND  58105-5517
+USA
+
+
+
+
+
+

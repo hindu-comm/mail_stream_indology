@@ -1,0 +1,40 @@
++++
+title = "237 Anshuman Pandey"
+date = "1998-03-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011281.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011281.html)
+
+Hello,
+
+Jan Dvorak raised an important question in a recent post about whether
+there exists a list of available electronic texts. I know that the
+Sanskrit Documents Project housed at jaguar.cs.utah.edu maintains such a
+list, but the list does not begin to contain them all. TITUS aims to
+provide such a list, however, its enumeration of "Indica" texts is far
+from being an exhaustive one. Also, the INDOLOGY website has links to
+various sites which house electronic texts, but again there are other
+links which are absent. There are other such lists spread across the net,
+each with links or texts not found on other lists, ie. John Smith's
+bombay.oriental.cam.ac.uk server and the kyoto file server upon which
+reside the texts of Profs. Yano, Tokunago, Ikari, et al., and John
+Gardner's Vedavid.
+
+Are there any opinions as to whether a comprehensive list of Indic
+electronic texts ought to be compiled, and whether such a list would be
+beneficial?
+
+Regards,
+Anshuman Pandey
+
+On Tue, 10 Mar 1998, Jan Dvorak wrote:
+
+> working on a project dealing with the old Indo-Aryan and Dravidian
+> literatures we plan to type some texts. I attach a proposed list and ask
+> you to let me know if some of them have already been typed anywhere in
+> the world. Or is there any center collecting information on available
+> electronic texts? Thank you for your responses.
+
+
+

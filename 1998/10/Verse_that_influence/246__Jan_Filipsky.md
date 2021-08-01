@@ -1,0 +1,28 @@
++++
+title = "246 Jan Filipsky"
+date = "1998-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013831.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013831.html)
+
+Dear Netters,
+I posted this message to the List during vacation time, which may be
+the reason why it elicited absolutely no response.
+Therefore I take the liberty of asking again:
+Could any knowledgeable person help me with identifying the source
+of the following quotation, a verse that is said to have influenced
+young Gandhi's views?
+
+"But the truly noble know all men are one
+And return with gladness good for evil done."
+
+Gratefully Yours, J.F.
+Jan Filipsky, Oriental Institute, Pod vodarenskou vezi 4, 182 08  Praha 8
+phone 004202 6605 3729
+e-mail <filipsky at orient.cas.cz>
+private: U Pentlovky 466/7, 181 00 Praha 8 - Troja
+phone 004202 855 74 53
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "45 kichenas at math.umn.edu"
+date = "1996-05-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/004883.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/004883.html)
+
+In answer to Leo Facq's query, I think the book in question is
+
+Devavanipravesika : an introduction to the Sanskrit language
+by Robert P. Goldman with Sally J. Sutherland
+(1987, second printing with corrections: 1992)
+
+Distributed by:
+
+Center for South and Southeast Asia Studies,
+Publications Program
+2223 Fulton Street, 3rd floor
+University of California       
+Berkeley, CA 94720
+
+(Library of Congress Catalog Number 81-68583)
+
+I hope this helps.
+
+                                Satyanad Kichenassamy
+                                School of Mathematics
+                                University of Minnesota
+                                127 Vincent Hall
+                                206 Church Street, S. E.
+                                Minneapolis, MN 55455-0487
+                                E-mail: kichenas at math.umn.edu
+
+
+
+
+

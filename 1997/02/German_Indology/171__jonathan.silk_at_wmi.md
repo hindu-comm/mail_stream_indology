@@ -1,0 +1,27 @@
++++
+title = "171 jonathan.silk at wmich.edu"
+date = "1997-02-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007009.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007009.html)
+
+Dominik raised a very interesting point when he mentioned that some scholars
+refer to authors adding their nationality.  I realize, when I think about it,
+that I have done this -- but I think there can be a reason, at least
+sometimes.  I have referred in print to Louis de la Vallee Poussin as a
+"great Belgian scholar" or something like that, and probably to Lamotte in
+more or less the same words. On the other hand, it has never occurred to me
+to refer to Madhav Deshpande as an "Indian scholar," or to my teacher Luis
+Gomez as a "great Puerto Rican Buddhologist," -- the latter sounding to me
+absurd, not because there are not Puerto Rican Buddhologists, but because it
+is absolutely irrelevant.  Still, for some reason with La Vallee Poussin it
+sounds reasonable, and to refer to Scherbatsky as a Russian also sounds
+reasonable.  Am I the only one who feels this way?  (I mean, upon reflection,
+and not only reflexively).
+
+Jonathan Silk
+
+
+
+

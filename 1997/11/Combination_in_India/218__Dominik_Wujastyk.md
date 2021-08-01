@@ -1,0 +1,31 @@
++++
+title = "218 Dominik Wujastyk"
+date = "1997-11-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009892.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009892.html)
+
+Combinatorics has been a standard topic in jyoti.h"saastra since at least
+the Liilaavatii, where Bhaaskara gives the examples of combining the six
+medical rasas (flavours), and also of how many different ways eight
+windows on the front of a house may be open or shut (ans: 255).  Vagbhata
+also knows the combinatorics of rasas, so the knowledge can be pushed back
+to ca. AD 600 at the latest, and must be considerably earlier.
+
+A thesis on this topic was written by Takanori Kusuba under David Pingree.
+Title: "Combinatorics and magic squares in Naaraaya.na Pa.n.dita's
+Ga.nitakaumudii".
+
+All the best,
+Dominik
+
+--
+Dominik Wujastyk            Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk       183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                 FAX: 44 171 611 8545
+--
+"To vacillate or not to vacillate, that is the question ... or is it?"
+
+
+

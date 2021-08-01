@@ -1,0 +1,30 @@
++++
+title = "38 Suresh Madhu"
+date = "1993-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-November/000793.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-November/000793.html)
+
+Some of you might have already got a mail from me personally requesting
+references on the subject of history of Indian astronomy/astrology. I 
+would like to add that I already used the ISIS bibliographies which have 
+provided me with some resources necessary for my study. 
+
+What I am looking for is a perspective different from that of David Pingree!
+And also, some material that treats the matter more from the Astrology side 
+rather than Astronomy/Mathematics side. Most of the references I already
+have is for the latter.
+
+Also, do you know of any sites/archives which would have english translations 
+of the primary sources that you think could be of help to me? :-)
+
+Thanks again
+
+--
+Suresh Madhu
+
+
+
+
+

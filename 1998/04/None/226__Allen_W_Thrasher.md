@@ -1,0 +1,28 @@
++++
+title = "226 Allen W Thrasher"
+date = "1998-04-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011932.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011932.html)
+
+J. R. Gardner said:
+
+"As to the topic at hand re. sacrifice: perhaps the executions are not
+sacrifices as Lars notes.  HOwever, it cannot be denied that they are
+infinitely ritualized--with all attendant praayazcitti rites of debatable
+efficacy--and certainly sanitized."
+
+I don't think that modernist sanitization of executions is effected by
+ritualization (I'm not asserting that JRG was saying they were, but the
+words could accept that interpretation).  When executions were public and
+very un-sanitized they were yet more ritualistic.  Some social historian (was
+it Aries? Foucault?) remarked that the ancien regime execution was a
+theatrical ritual of which both the principal performer and even the stage
+manager was the condemned.  Anyway, pretty much all significant social
+acts are to some degree ritualized even in modern society.
+
+Allen Thrasher
+
+
+

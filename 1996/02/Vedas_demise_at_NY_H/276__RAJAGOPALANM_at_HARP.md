@@ -1,0 +1,23 @@
++++
+title = "276 RAJAGOPALANM at HARPO.TNSTATE.EDU"
+date = "1996-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004291.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004291.html)
+
+dear peter gaeffke,
+vedas and hindu religion should be interpreted by those who practise it to be
+correct and scholarly in the interpretation . Many" neo hindu' persons
+who only cram many books written by westerners and most of whom
+are devoid of any fee;ing for the religion claim that they are the
+real persons to interpret the hindu culure. In the process they make hinduism and
+and its sacred books books cheap by writng titles like " whose veda is it "
+Such statements may give a feeling of satisfaction to so called scholars
+to write what they wish on hinduism , but all that is no good since it is devoid of feeling
+which is the real essence of a religion as old as hinduism .
+M.rajagopalan  
+
+
+
+

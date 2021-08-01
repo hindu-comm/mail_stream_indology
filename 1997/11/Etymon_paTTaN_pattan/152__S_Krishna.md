@@ -1,0 +1,40 @@
++++
+title = "152 S Krishna"
+date = "1997-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009843.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009843.html)
+
+S.Kalyanaraman writes:
+>Patan is the name of a town (3 km. from Kathmandu) on the southern bank
+ofBagmati river in Nepal. The etymon may relate to a ferry point on a
+riveror a port?
+>
+
+ In Maharashtra, there is a town called pAtaN(To the best of my
+knowledge, the natives of this place traditionally took on the surname
+pAtaNkar)....does anybody know if this stands on a river?
+Or for that matter, whether the origins of the name have anything to do
+with a port?
+
+ In the same way, the town of ZrirangapaTna(karnATaka) stands on the
+kAvErI; but was it ever a port of any kind( even a river port?). At the
+same time, I also remember reading about a town called Bhawanipatna in
+Orrissa whose name is traced back to a woman called Bhawani who
+performed some kind of a meritorious deed which led to the town being
+called Bhawanipatna( pointing to an origin other than that of a riverine
+port). Now, does the name of paTnA ( in bihAr) also derive it's name
+from the same source? I realise that this is possible since it stands on
+the gangA, but the way the etymology of this place was explained to me
+had to do with the fact that this is some kind of a corruption of
+'pAtaliputra". Can anybody please shed light on these issues...
+
+Regards,
+Krishna
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

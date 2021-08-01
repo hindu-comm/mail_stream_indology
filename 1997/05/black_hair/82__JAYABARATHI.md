@@ -1,0 +1,92 @@
++++
+title = "82 JAYABARATHI"
+date = "1997-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008057.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008057.html)
+
+Dominique.Thillaud wrote:
+> 
+> Dear Indologists,
+>         I'm back and I apologize again :-) for my 'mouvement d'humeur'.
+>         After my leaving, I received many and various private mails and I
+> thank all sincerely (including injurious ones).
+> 
+>         I find perhaps in this mailing an answer to some communicati
+> 
+>         About hair's colour, I was not asking *today*'s names for this
+> meaning and I know the fair/black criterium (I was good friend one year
+> long with a noble indonesian (kshatriya) and he hated the sun of the beach,
+> too dangerous for his honourable pale skin). My problem was in *epic*,
+> especially the MBh, some twenty centuries ago:
+>         - in MBh II,60,24, draupadI is said atikRSNakezI, this 'ati'
+> suppose that's not the same for all peoples.
+>         - a friend said me (alas without references) duryodhana was red-haired.
+>         - Pr. Jayabarathi gave here some examples of golden, red or yellow
+> hairs in ancient indian corpus.
+>  	Dear M.Thillaud,
+
+			Thank you for coming back.
+			Merci.
+			BTW I am not a Professor. I am only a humble
+	layman.I was a Hospital Director - a Medicine man.
+			Any way, welcome back.
+			Please scroll down....
+
+
+       - in many other eurindian epics the hair's colour is highly
+> significant (but not the colour of the skin). For example, in Greece,
+> Menelaus is 'xanthos' (blond-haired) and one of the names of Akhilleus is
+> '
+>         - I woul'd be more than happy if yudhiSThira white-haired, bhIma,
+> hanuman and duryodhana red, arjuna gold, nakula and sahadeva green, blue,
+> brown or black.
+> 
+>         I thank you in advance,
+> Dominique
+> 
+>
+> P.-S. 2: Can someone give me the e-mail of an indian scholar in botanic,
+> especially about pharmacological properties of plants ?
+> P
+
+	Please try these people;
+	I don't know if they are still at the same address.
+	I wouldn't know their email address.
+
+	Dr.K.VENKADESAN,
+	"MOOLIGAI MANI"
+	9,Club Road East,
+	Shenoy Nagar.
+	Madras-30.
+	India.
+
+	URAIYUR VALAVAN
+	Author of 
+	"Therinthum Theriyaatha Thavarangal"
+	C/o Kalagnaan Pathippagam,
+	31,Pandi Bazaar,
+	Madras-600070,
+	India.
+
+	I will try to get you more addresses.
+	May be by to-morrow?	
+
+`	JAYABARATHI
+
+	Sungai Petani
+	Kedah
+	Malaysia.
+
+
+
+
+
+> 
+> Dominique THILLAUD
+> Universite' de Nice Sophia-Antipolis, France
+
+
+
+

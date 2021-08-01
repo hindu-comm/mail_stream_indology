@@ -1,0 +1,36 @@
++++
+title = "573 Sudalaimuthu Palaniappan"
+date = "1999-05-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017250.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017250.html)
+
+Dear List Members,
+
+The results of my investigation into the myths linking (1) pataJjali and
+AdizESa and (2) pANini and zivasUtras (following M. M. Deshpande's important
+earlier article in JAOS, 1997) are presented at the Indology web site with
+the following address. I thank Dominik for mounting this at the Indology web
+site.
+
+http://www.ucl.ac.uk/~ucgadkw/members/palaniappan-patanjali.html
+
+In summary, the naTarAja cult at Chidambaram in competition with the
+dakSiNAmURti cult at Pandyan Madurai has been the source of the myths linking
+pataJjali with zeSa and pANini receiving the basis of his grammar from ziva.
+This investigation also revealed that Abhinavagupta of Kashmir was familiar
+with some of the traditions prevailing at the naTarAja temple at Chidambaram
+and he used them in his works.
+
+The findings underscore the importance of the use of Tamil materials for
+arriving at a proper understanding of some ancient Indian cultural elements
+and the need for collaboration between Sanskrit and Tamil scholars.
+
+Comments are welcome.
+
+Regards
+S. Palaniappan
+
+
+

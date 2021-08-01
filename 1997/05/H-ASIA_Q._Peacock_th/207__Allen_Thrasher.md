@@ -1,0 +1,70 @@
++++
+title = "207 Allen Thrasher"
+date = "1997-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008184.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008184.html)
+
+Can anyone tell when the idea that the huma never alights appears?  Europe
+had the notion that the Birds of Paradise (found in New Guinea), and it
+acquired this idea because the feet were removed from the skins that were
+sent back from New Guinea.  I presume the idea therefore is after Columbus
+and Da Gama.  Could the idea the Islamic huma never ceases flying
+therefore come from Europe, or from the Birds of Pariadise skins? 
+
+Also, I own a twentieth century miniature from Jammu and Kashmir of Vishnu
+on his bird vehicle Garuda in which Garuda has no legs.  I have never seen
+another on which this is true.  Has anyone else?  Garuda _is_
+traditionally depicted as alighting, e.g. in the Mahabharata. 
+
+
+Allen W. Thrasher
+
+The opinions expressed do not represent those of my employer.
+
+
+
+On Mon, 19 May 1997, Frank Conlon wrote:
+
+>                                 H-ASIA
+>                              May 19, 1997
+> 
+> Query on peacock throne and the huma bird (previously on symbolism of
+> peacock throne in Qing dynasty)
+> ***************************************************************************
+> From: Kate Brittlebank <K.Brittlebank at unsw.EDU.AU>
+> 
+> I have been following this thread with interest.  I am wondering if there
+> is a link in the symbolism of Islamic kingship between the peacock and the
+> mythical bird, the huma.  I believe the latter has its origins in Iran but
+> it was certainly used in India as a royal symbol, at least by Muslim
+> rulers.  It was said that the huma flew continuously (i.e. never landed)
+> and that kingship was conferred on whomever its shadow fell.  Royal thrones
+> sometimes had the huma as a sort of canopy (or chatr), for obvious reasons.
+> Tipu Sultan's throne is a good example.
+> 
+> 
+> 
+> Dr Kate Brittlebank
+> School of History
+> University of New South Wales
+> Sydney, NSW 2052
+> Australia
+> 
+> Tel: 61-2-9385-1630
+> Fax: 61-2-9385-1251
+> =========================================================================
+>         To post to  H-ASIA  simply send your message to:
+>                         <H-ASIA at h-net.msu.edu>
+>           For holidays or short absences send post to:
+>                 <listserv at h-net.msu.edu> with message:
+>                         SET H-ASIA NOMAIL
+>        Upon return, send post with message SET H-ASIA MAIL
+>        H-ASIA WEB HOMEPAGE URL:    http://h-net.msu.edu/~asia/
+> 
+
+
+
+
+

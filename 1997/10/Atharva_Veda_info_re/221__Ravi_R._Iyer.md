@@ -1,0 +1,35 @@
++++
+title = "221 Ravi R. Iyer"
+date = "1997-10-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009677.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009677.html)
+
+hi all:
+i apologise if this has been discussed before on this forum.
+
+i am interested in LIVING TRADITIONS of the various vedas, particularly
+the atharva veda.
+
+i understand that the saunakiya atharva veda is extant among a few
+scholars in saurashtra (Ref: Staal, F., AGNI, Berkeley, 1983), and in
+his book "the vedas", the late paramacharya of the kanchi math,
+chandrashekharendra saraswati states that many decades ago, when the
+saunakiya atharva veda came to the attention of the kanchi math, he
+arranged for students to proceed to saurashtra and learn and preserve
+the atharva veda.
+
+1. i wonder whether anyone is aware of the present status of the living
+tradition of the saunakiya branch
+
+furthermore, i understand that a tradition of paippaladas was discovered
+in orissa in the 1960s.
+
+2. does anyone know the status of this tradition?
+
+regards
+-ravi r. iyer
+
+
+

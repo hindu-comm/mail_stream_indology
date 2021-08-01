@@ -1,0 +1,34 @@
++++
+title = "511 Swaminathan Madhuresan"
+date = "1999-05-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017156.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017156.html)
+
+Respected Indology members,
+
+I read somewhere that the great editor, K. P. Paraba has
+written something about Southern Saivaite teachers travel to
+the North to teach. In Paraba's Kadambari edition. In the Foreword?
+
+Can you please give what Sri. Paraba writes about Southern
+Saivaite teachers? Possibly in:
+K. P. Paraba, a) kAdambarIkathAsAra of Abhinanda
+OR b) kAdambarI, Delhi: Naga Publishers, 1985.
+
+May be in D. N. Lorenzen's book on Kapalikas and Kalamukhas also.
+Interested in Bhairava or Shaivaite ascetics travelling to
+North. Any quotes from Sanskrit texts is appreciated.
+
+In anticipation of useful data,
+Yours sincerely,
+SM
+
+
+_____________________________________________________________
+Do You Yahoo!?
+Free instant messaging and more at http://messenger.yahoo.com
+
+
+

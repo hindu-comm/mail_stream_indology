@@ -1,0 +1,41 @@
++++
+title = "53 zydenbos at flevoland.xs4all.nl"
+date = "1997-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008059.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008059.html)
+
+
+Replies to msg 07 May 97: indology at liverpool.ac.uk (vidya at cco.caltech.edu)
+
+ vce> From: Vidyasankar Sundaresan <vidya at cco.caltech.edu>
+
+ vce> On Wed, 7 May 1997, Aditya, the Hindu Skeptic wrote:
+
+> The real discrimination in
+> India is based on caste and not color although Varna is also a synonym
+> for color. When they refer to color they instinctively mean Varna.
+
+ vce> Ohh, come on! Indians can be extremely obsessed with skin
+ vce> color, and will
+ vce> prefer lighter skin, especially in the person they want to
+ vce> marry. Look at
+ vce> any matrimonial ad in any national newspaper. 
+
+If the newspapers are insufficient evidence, I may refer to my recently
+published study of Kannada fiction, particularly the two chapters on themes
+about women and about caste. I have given a summary of a popular novel in which
+part of the heroine's problem is that her elder sister is dark, hence
+unmarriable, while the heroine is fair and hence beautiful and desirable. In
+another novel, the fair (i.e. beautiful) widowed heroine is driven to
+prostitution and curses her skin colour, for she thinks men would have left her
+alone if she had been dark. These are only two examples among many.
+
+Robert Zydenbos
+Internet: zydenbos at flevoland.xs4all.nl
+
+
+
+
+

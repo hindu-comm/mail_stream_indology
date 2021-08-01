@@ -1,0 +1,28 @@
++++
+title = "57 aditya at icanect.net"
+date = "1996-06-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005294.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005294.html)
+
+Bijoy Misra <bmisra at husc.harvard.edu>  has  on Wed, 12 Jun 1996 15:30:35
+BST written as follows:
+
+>I don't find any humor in above.  It's disrespectful to women..
+What can I say. I would find you humor impaired if you cannot understand
+the joke.
+Have a prosperous and peaceful day.
+---------------
+Aditya Mishra  
+http://www.icanect.net/~aditya 
+Alternate email address: a018967t at bcfreenet.seflin.lib.fl.us  
+************************************************************
+The opinions expressed herein are continually mutating and *
+might have already been changed  by the time you read them * 
+owing to the more recent information that became available.*
+************************************************************
+
+
+
+

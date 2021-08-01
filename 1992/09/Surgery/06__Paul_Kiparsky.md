@@ -1,0 +1,24 @@
++++
+title = "06 Paul Kiparsky"
+date = "1992-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-September/000331.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-September/000331.html)
+
+Status: RO
+
+I recently came across my great-grandfather's dissertation on plastic
+surgery, submitted in 1864 at the University of Dorpat (Tartu).  In it
+he mentions that ancient Indian physicians were proficient in several
+types of such operations (rhinoplasty etc.), describes some of their
+methods (such as reversing a skin flap in grafting), and says that
+this branch of surgery had fallen into disuse in the West until it was
+revived in the early 19th century by the British, who were inspired by
+Indian techniques.  This has made me curious to find out more about
+Indian surgery and its influence in the West.  Can someone suggest a
+good reference on this topic?
+
+
+
+

@@ -1,0 +1,23 @@
++++
+title = "42 rsinclai at nsf.gov"
+date = "1995-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-January/001756.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-January/001756.html)
+
+My thanks to David Magier and Enrica Garzilli for their kind words.
+The original query from David Smith was forwarded to me by one of your
+"Indology List" colleagues, Allyn Miner at U. Pennsylvania. I assure you I
+am only an interested bystander who is not a regular reader of your list.
+I will pursue the question once I'm back home. At the moment my local
+library hasn't much except works on antarctic marine life.
+Rolf Sinclair
+(Still at McMurdo, waiting for a flight to South Pole)
+
+
+
+
+
+
+

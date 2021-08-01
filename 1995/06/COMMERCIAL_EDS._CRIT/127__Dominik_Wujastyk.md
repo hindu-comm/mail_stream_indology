@@ -1,0 +1,40 @@
++++
+title = "127 Dominik Wujastyk"
+date = "1995-06-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002689.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002689.html)
+
+
+S. Vidyasankar says that printed editions of advaita texts such as 
+those put out by the Mathas are as good as critical editions.  How do 
+we know?
+
+Well, the whole problem is that we can't know, can we, until we actually
+collect manuscripts systematically and globally, and read them.  *Only*
+then is someone in a position to make claims about the fidelity of a 
+given text.
+
+It would be wonderful indeed if a comparison of the manuscripts of
+Sankara's works produced no variant readings of any substance.  Then
+the critical edition of the work would be mostly text, and hardly any
+apparatus.  But the fact that all the manuscripts had been weighed and
+-- where necessary -- read, would indeed make such an apparatus-less
+edition critical.  
+
+Going on past experience (I have edited Sanskrit texts from manuscripts), 
+the chances of this happening are vanishingly small.  Whenever you 
+look at multiple manuscripts  of a Sanskrit work, however venerated and 
+however many times it has been printed, you always find substantial 
+variations.  That's just the way it is.  Actually, it is a matter of 
+enormous interest to think about these variations, and learn from them.
+
+Dominik
+
+
+
+
+
+
+

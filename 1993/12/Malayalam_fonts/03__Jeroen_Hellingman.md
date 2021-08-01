@@ -1,0 +1,33 @@
++++
+title = "03 Jeroen Hellingman"
+date = "1993-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-December/000809.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-December/000809.html)
+
+
+
+Hello,
+
+I am the author of the Malayalam Metafont. A copy of it is available on
+archive.cs.ruu.nl in directory /pub/TEX/FONTS/.
+
+I am currently working on some improvements and porting it to the Macintosh,
+to work in conjunction with OzTeX. This will be made available soon.
+
+Any questions and remarks can be send directly to me, on the below E-mail
+address.
+
+Jeroen Hellingman
+
+-- 
+Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
+'t Zand 2                         Phone: +31-3473-73935 (home)
+4133 TB Vianen                    (18.00--21.00 GMT)
+The Netherlands                   Answer in English, German, or Dutch.
+
+
+
+
+

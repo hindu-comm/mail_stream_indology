@@ -1,0 +1,24 @@
++++
+title = "596 Volker Thewalt"
+date = "1998-12-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014857.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014857.html)
+
+Any help regarding the address and e-mail of Martha L. Carter would be
+highly appreciated.
+Thanks in advance -- and a "Happy New Year" to all,
+VTh
+---------------------------------
+       LaserSatz  Thewalt
+       Dr. Volker Thewalt
+fon 06223/970122 fax 06223/970123
+     http://www.thewalt.de
+     http://www.w3pro.de
+     http://www.uebersatz.de
+     e-mail: vt at thewalt.de
+---------------------------------
+
+
+

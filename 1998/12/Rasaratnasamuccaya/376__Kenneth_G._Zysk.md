@@ -1,0 +1,31 @@
++++
+title = "376 Kenneth G. Zysk"
+date = "1998-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014647.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014647.html)
+
+Dom:
+
+A student in the department went to India, and while there obtain for me
+the translation in the separate volumes, as the one volume edition and
+trans is no longer available.
+
+This is what he got for me:
+
+Edition and trans of Rasaratnasamuccaya, chapters 1-8 (1987-89, with
+nothing published in 1989).
+
+My question is: Were any more chapters published that I don't have. If
+so, which ones, so I can have the student obtain those.
+
+The single volume edition was published in 1991-92, so no more chapters
+could have appeared after that.
+
+Thanks for the help.
+
+Ken
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "134 Srinivasan Pichumani"
+date = "1995-06-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002702.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002702.html)
+
+Dominik writes:
+
+>>In general, I don't like to think of ideas in nationalistic
+>>or regional terms, and would therefore disagree with your
+>>attribution of special historical interest in critical                      
+>>editing to Europeans.
+
+Just out of curiosity, are there examples of Indo/Sino/
+Japanese/<other-such> attempts, dating from the ancient
+to medieval times, at critically editing texts relating
+to various subjects ? 
+
+In the modern context, say post-1800, and specifically in
+the Indian case, aren't such attempts by Indians directly
+due to the inculcation of a specific, linear, historical
+interest via English/British/"Western-style" education ?
+
+The only counter-example in some sense that I can think 
+of is the "critical" editing of various Sangam texts in 
+Tamil (post 1875) by the great scholar U.V.Swaminatha Iyer.  
+Kamil Zvelebil and others have remarked in some detail on 
+this topic, based on the details of UVSIyer's life and 
+background, and the methods used by him in resurrecting 
+these texts...
+
+-Srini.
+
+
+
+
+

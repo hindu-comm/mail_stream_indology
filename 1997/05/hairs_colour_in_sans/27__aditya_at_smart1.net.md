@@ -1,0 +1,41 @@
++++
+title = "27 aditya at smart1.net"
+date = "1997-05-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008021.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008021.html)
+
+Lars Martin Fosse <l.m.fosse at internet.no> has on Sat,  3 May 1997
+12:07:36 BST written as follows:
+
+>for the relevant colour + keshin (or something to that effect. A more
+>interesting question is if Indians differentiate between hair colour
+>variations in Europeans. Are we all "fair", or do Indians see the difference
+>of various shades of brown, yellow, red etc.?
+
+It seems the obsession with skin and hair shades is only Western and
+Dominique's outburst about  the lack of response does not make sense to
+me. Similarly while Western culture including  the  bible is so obsessed
+with homosexuality there is no such attention paid in Indian literature
+and there are no words corresponding to gay or lesbians as well. The
+recent movie "Kama Sutra" is an exception and imported concept and it
+shows in the resentment that Indians have for the movie.
+
+Indian have basically two skin colors, fair(feminine)  and dark
+(masculine) and do not have words for any minor variations, just like
+you have to go to an eskimo to find 20 words for snow. 
+
+
+Have a peaceful and prosperous day.
+
+Aditya Mishra 
+Phone: 954-746-0442 
+e-mail: a018967t at bc.seflin.org
+homepage: http://www.smart1.net/aditya
+Thought of the day:
+	A hug warms the soul and places a smile in the heart.
+
+
+
+

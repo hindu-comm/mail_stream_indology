@@ -1,0 +1,32 @@
++++
+title = "113 fsmith at blue.weeg.uiowa.edu"
+date = "1997-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007246.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007246.html)
+
+I also received this announcement from Vedams Intl. I looked through it
+very hurriedly before consigning it to the circular file. I did notice,
+however, that one article is attributed to me, and at that an article that
+I cannot recall writing. I hope it is a good one. Maybe it will be deja vu
+all over again when I see it. Did anyone else have a similar experience?
+
+Fred Smith
+Univ. of Iowa
+
+Frederick M. Smith
+Asst. Prof. of Sanskrit and Classical Indian Religion
+School of Religion - 314 Gilmore Hall
+Department of Asian Languages and Literature - 653 Phillips Hall
+University of Iowa
+Iowa City, IA  52242  U.S.A.
++ 319-335-2178 (O)
++ 319-338-7193 (H)
+fsmith at blue.weeg.uiowa.edu
+
+
+
+
+
+

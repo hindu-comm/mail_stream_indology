@@ -1,0 +1,38 @@
++++
+title = "04 Dominik Wujastyk"
+date = "1992-08-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-August/000318.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-August/000318.html)
+
+
+On Aug 13,  2:50pm, Madhav Deshpande wrote:
+
+>         Following the suggestion of Stephen Miller, I have now made
+> the Manjushree font compatible with the CSX coding.  The CSX codes
+> form a subset of characters in Manjushree, which adds many more
+> combinations suggested by my colleagues.  I have now developed a
+> keyboard driver which makes the task of using this font very simple.
+> I hope that with this font, one should be able see texts coded in
+> CSX with diacritics without any problem.  The font is now appropriately
+> renamed ManjushreeCSX.
+
+This is very good news indeed.  Many thanks, Madhav, for being
+so flexible about the CSX coding.  This will make the font extremely
+useful to a much wider audience.
+
+Incidentally, for those who may not know, Madhav's PostScript font
+can be used with TeX (naturally) on any printer by using a PS to PK
+translator.  There are also PK to HP translators around, so the font
+can also be used at 300dpi by owners of Hewlett Packard LaserJets.
+
+Dominik
+
+
+
+
+
+
+
+

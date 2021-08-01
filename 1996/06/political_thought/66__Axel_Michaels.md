@@ -1,0 +1,39 @@
++++
+title = "66 Axel Michaels"
+date = "1996-06-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005300.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005300.html)
+
+Liber Herr Witzel, 
+
+Hochinteressant Ihre Hinweise! Und zwei Nachfragen dazu:
+
+>This is the (unpublished?) Gorandaakhyo Malimlucah "The Bandits called
+>Goranda" (British) probably written in 1821 after the Anglo-Nepali war of 
+>1814-16.
+
+Wo ist das erhaeltlich?
+
+>Note also the 19th c. Nepali
+>diplomatic correspondece, in Sanskrit, with the states of Rajasthan). 
+
+Ist diese Korrespondenz vom NGMPP verfilmt worden 
+oder wo kann man die einsehen?
+
+Herzliche Gruesse, Ihr Axel M.
+>
+
+---------------------------------------------------------------------------
+Prof.Dr. Axel Michaels
+Universit{t Bern
+Institut f}r Religionswissenschaft
+Lerchenweg 36
+CH-3000 Bern 9
+Tel.: (0041)(0)31 631 80 62, Fax.: (0041)(0)31 631 35 51
+---------------------------------------------------------------------------
+
+
+
+

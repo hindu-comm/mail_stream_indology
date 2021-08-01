@@ -1,0 +1,24 @@
++++
+title = "108 william j alspaugh"
+date = "1996-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-September/005814.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-September/005814.html)
+
+On the subject of Chinese-Sanskrit and vice-versa dictionaries, a search on
+Firstsearch (OCLC) under subject on the three terms Sanskrit, Chinese, and
+Dictionaries produces 54 titles.  They are an interesting collection of
+ancient and modern dictionaries.  Rather than trying to list all here, I
+suggest to Joseph Kozono and others interested that they do the same search. 
+If you have questions, ask your reference librarian.  The same search can be
+done on RLIN.  The LC subject heading for S-C would be Sanskrit Language -
+Dictionaries - Chinese.  Bill Alspaugh, Southern Asia Collection, University
+of Chicago
+
+Bitnet:                   uclals1 at uchimvs1
+Internet:         als1 at midway.uchicago.edu
+
+
+
+

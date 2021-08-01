@@ -1,0 +1,30 @@
++++
+title = "374 Johannes Bronkhorst"
+date = "1998-11-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014268.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014268.html)
+
+Volume LII, 1 (1998) of Asiatische Studien / Etudes Asiatiques came out
+some weeks ago. It contains the following articles:
+Johannes Bronkhorst: "Does the Veda have an author? A reply to Professor
+Stephen H. Phillips."
+Mahinda Deegalle: "Marathon preachers: the two-pulpit tradition in Sri Lanka."
+Vincent Eltschinger: "Bhaavaviveka and Dharmakiirti sur aagama et contre la
+Miimaa.msaa (I)."
+Victoria Lyssenko: "La connaissance suprarationnelle chez Pra'sastapaada."
+Sheldon Pollock: "Bhoja's 'S.rngaaraprakaa'sa and the problem of rasa: a
+historical introduction and annotated translation."
+Renate Syed: "Objekt des Begehrens - Objekt des Abscheus: zum Bild des
+weiblichen Koerpers in ausgewaehlten altindischen Texten."
+Herman Tieken: "The distribution of the absolutive in -uu.na(.m) in
+Uttarajjhaayaa."
+The volume further contains a number of book reviews and book notices.
+Individual issues of the journal can be obtained from the publisher, Peter
+Lang.
+
+Johannes Bronkhorst
+
+
+

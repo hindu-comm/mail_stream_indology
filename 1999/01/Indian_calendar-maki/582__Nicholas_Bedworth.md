@@ -1,0 +1,25 @@
++++
+title = "582 Nicholas Bedworth"
+date = "1999-01-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015514.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015514.html)
+
+Hi Mani:
+
+Did you download the panchang itself? I was thinking that the actual
+calendar might be useful, as opposed to their general statements. Also, the
+Maharishi Vedic Foundation is now going from full moon to full moon to
+demarcate the lunar months, which is interesting.
+
+Nicholas Bedworth
+
+808-942-5341.... voice
+808-942-4396.... fax
+808-371-4508.... cell
+
+visit http://www.drtungs.com!
+
+
+

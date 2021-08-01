@@ -1,0 +1,34 @@
++++
+title = "85 Catalin Buiu"
+date = "1997-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008073.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008073.html)
+
+Dear All,
+
+I would very much appreciate your help at the following questions.
+
+1. Is there any English or French translation of TantrAloka (TA) of 
+Abhinavagupta published? Do you know of any translation that is planned 
+to be published?
+
+2. Is anyone of you aware of courses on TA topics? I have heard on some 
+courses given in England (Oxford) and Belgium, but I do not have any 
+other details.
+
+
+Thank you very much for your attention to my request for help.
+
+Sincerely,
+
+
+Catalin BUIU
+
+
+Bucharest, Romania
+
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Devanagari Shareware Editor"
+
++++

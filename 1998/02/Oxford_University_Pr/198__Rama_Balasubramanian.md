@@ -1,0 +1,28 @@
++++
+title = "198 Rama Balasubramanian"
+date = "1998-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010799.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010799.html)
+
+Allen W Thrasher <athr at LOC.GOV> writes:
+
+ > However, this raises an interesting historical question.  Has any research
+ > been done on the study of Greek and Latin in colonial and post-colonial
+ > South Asia?  They must have been taught at a great many schools and
+ > colleges in India for the sake of the ICS examinations, but I have seen
+ > nothing about the subject.
+
+Even the Central Board of Secondary Education, which offers the largest
+number of choices in languages for high school students, including
+Tibetan, does not offer Latin or Greek. I have not heard of such
+courses even in the Madras University. In general, humanities studies
+get little attention because they are not very remunerative. Sad, but
+true. I guess after the British left India, no one would have bothered
+about the classical European Languages.
+
+Rama.
+
+
+

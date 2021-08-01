@@ -1,0 +1,31 @@
++++
+title = "10 Vickie.Banks"
+date = "1992-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-February/000197.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-February/000197.html)
+
+
+I'm looking for both transliteration fonts (with diacriticals) and devanagri
+fonts for the MAC and the IBM.  We got a brochure from Ecological Linguistics
+which offers a font for transliteration called IndicTimes.  Does anyone use
+that?  What do you think of it?
+
+Is there an ftp address that offers these fonts free?
+
+I'd be particularly interested in your experience of how any font works with
+Microsoft Word and a postcript printer on the MAC and with WordPerfect on the
+IBM.
+
+I know we've been talking about fonts a fair amount lately, but not with
+respect to PC's it seems.  Thanks for your help.
+
+Vickie L. Banks
+Education Systems Development
+Michigan State University
+21602VB at MSU.BITNET
+
+
+
+

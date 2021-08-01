@@ -1,0 +1,28 @@
++++
+title = "88 breusch at students.wisc.edu"
+date = "1994-09-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001283.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001283.html)
+
+I would suggest that you contact Prof. Mark Kenoyer of the Dept.
+Anthropology, Univ. of Wisconsin, Madison. He does excavations in Harappa
+every spring (winter in Madison) and then teaches in Madison. He has also
+published several articles. Right now he is here teaching some courses and
+is the organizer of a conference on "Changing perspectives of the Indus
+Valley tradition" to be held in Madison (Nov. 4-6).
+I don't know whether he ever checks his e-mail, but his phone numbers are: 
+608-262-5696 and 608-262-2866. Office hours: Tues. and Thurs. 2-3 PM
+(Midwest time).
+Beatrice Reusch
+breusch at students.wisc.edu
+311 North Hancock # 111
+Madison, WI 53703
+608-256-6268 (voice & fax)
+
+
+
+
+
+

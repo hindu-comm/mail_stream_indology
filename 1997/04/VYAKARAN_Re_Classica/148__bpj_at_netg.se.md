@@ -1,0 +1,58 @@
++++
+title = "148 bpj at netg.se"
+date = "1997-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007665.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007665.html)
+
+At 13:28 7.4.1997 +0100, Dick Oliver wrote:
+>>And is it worth it with a read-only language?
+>
+>Sanskrit may not be conversational anymore, but let's hope it never becomes
+>a read-only language! It would be a sad day when the Vedic oral tradition
+>vanishes completely.
+
+Agree, but I was speaking specifically of the needs/requirements of WESTERN
+students. A bit of loud reading out of a book is normally the most oral
+their Sanskrit gets!
+
+>>...only to make myself understood!
+>
+>The primary use of Sanskrit pronounciation today is not to make oneself
+>understood, but to preserve what is almost certainly the planet's oldest
+>language with a living oral tradition. Any efforts to identify how
+>pronounciation varies regionally, and how it may vary from its historical
+>pronounciation, is worthwhile in my book.
+
+Agree again. I think this variation has a cultural identity value, and
+should not be rashly suppressed in favor of a "reconstructed" pronunciation
+having its origin in the head of western phoneticians. But as I said that
+was not the issue.
+
+>Oh, and BTW you'll probably be understood better if you refrain from, as the
+>South-Indian idiom goes, "speaking in Sanskrit." <grin>
+
+Assuredly, I'll stick to Swenglish, or even try English in worst cases! I
+was talking about what level of perfection would be worthwhile for loud
+reading, and only compared that to ESL use. In actual fact I, as a
+practicing Buddhist, recite in Sanskrit quite often -- preferring
+reasonably correct Sanskrit to crappy Tibetan, or English, until the day a
+Swedish translation of the relevant texts is available.
+
+Regards
+
+Philip
+
+
+*************************************************
+*  B.Philip Jonsson <bpj at netg.se>               *
+*  Editor, Translator (English <-> Swedish),    *
+*  Scholarly font-designer, Web-book designer   *
+*************************************************
+
+
+
+
+
+

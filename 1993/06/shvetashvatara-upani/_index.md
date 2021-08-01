@@ -1,0 +1,4 @@
++++
+title = "shvetashvatara-upanishad"
+
++++

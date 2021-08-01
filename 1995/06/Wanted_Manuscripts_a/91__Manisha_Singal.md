@@ -1,0 +1,52 @@
++++
+title = "91 Manisha Singal"
+date = "1995-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002637.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002637.html)
+
+
+Our company in India has published more than 60 books
+on Sri Lanka on subjects ranging from Anthropology, 
+Art, Ayurveda, Buddhism, History, Literature, Politics, 
+and Sociology.
+
+We are interested in publishing or reprinting more books.  
+Please send me the following details or direct me in the
+right direction.
+
+For Manuscripts:  A copy of the manuscript or a synopsis 
+of the manuscript stating the number of pages, number 
+of photographs (black & white and color), illiustrations, 
+maps, with a write-up about the author.  Our 
+company will respond in about 8-12 weeks.
+
+For Rare Books:  the title, author, year of publication, 
+number of pages, illustrations, photographs, and price.  
+Our company will respond in about 3-4 weeks.
+
+We can supply any Indian publications - see our addresses below.
+
+Manisha
+
+
+****************************************************************************
+******
+Navrang Inc.,  Post Box 10056, 
+Blacksburg, VA 24062-0056.
+e-mail: navrang at bev.net, phone: (703) 961-2003
+fax:     (703) 961-4007
+
+INDIAN MAGAZINES AND BOOKS - any Indian publications
+REGIONAL MAGAZINES - in many Indian languages
+US BOOKS FOR CHILDREN - 50% off published prices
+
+WWW at http://www.xmission.com/~seer/navrang/index.html
+Anonymous ftp address: ftp.xmission.com/pub/users/s/seer/navrang
+
+
+
+
+
+

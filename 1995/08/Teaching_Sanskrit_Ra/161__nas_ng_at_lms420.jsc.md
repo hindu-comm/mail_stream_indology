@@ -1,0 +1,46 @@
++++
+title = "161 nas_ng at lms420.jsc.nasa.gov"
+date = "1995-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/002977.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/002977.html)
+
+
+
+         civa~naanabOtam & rauravaagama
+        *********************************
+
+From: "Dominic Goodall" <ISAACSON at let.rug.nl> wrote:
+
+>I am interested in Dr. Ganesan's statement that the Pau.skaraagama 
+>contains passages that are Sanskrit redactions of the 
+>civa~naanabotam.  I have heard it said that the latter work is a 
+>Tamil redaction of the Rauravaagama; but this is entirely new to me.
+
+Dominic is right, civa~naanabOtam (tamil) and Rauravaagama (sanskrit)
+contain similar passages. (not the pauskaraagama as mentioned in my posting. 
+I told that from memory, Sorry for the mistake.)
+
+However, the debate about which one is the borrowing went on for decades
+in Tamilnadu. There is a good book in tamil that gives 100+ reasons
+showing civa~naanapOtam is the original and the rauravaagama portions
+are borrowed ones.
+
+m. baalasubramania mudaliyaar (1896 - 1958)
+civ~naanapOtam mutal nUlE, mozipeyarppu alla.
+1949: Saiva siddhanta Mahasamajam, Madras.
+
+The author, m. baalasubramania mudaliyaar (1896 - 1958) had an
+assumed name, mayilai kizAr. His scholarly editions of tEvAram are
+wellknown. tEvAram (critical edition) from French Institute 
+of Indology, Pondichery heavily rely upon mayilai kizAr's editions.
+
+
+n. ganesan
+nas_ng at lms461.jsc.nasa.gov
+
+
+
+
+

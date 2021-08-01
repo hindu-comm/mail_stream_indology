@@ -1,0 +1,54 @@
++++
+title = "295 Mittal Sushil"
+date = "1996-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005112.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005112.html)
+
+
+
+ANNOUNCING A NEW BOOK SERIES from World Heritage Press
+
+
+			World Heritage Hindu Studies
+
+		     Series editor: Gerald James Larson
+
+The series, _World Heritage Hindu Studies_, seeks to stimulate fresh
+scholarship and research in the academic study of Hinduism. Its purpose is
+to publish significant scholarly studies on all aspects of Hindu studies.
+These include: the Vedas, Upanisads, Epics, Puranas, law-books, and so
+forth; classical, medieval and modern philosophical traditions;  monastic
+traditions; Bhakti traditions; modern Hindu and neo-Hindu movements; and
+Hinduism in relation to other religious traditions both within and outside
+of India. We also welcome submissions on methodological issues in the
+study of Hinduism. We invite submissions of both the most traditional
+scholarship and the most daring current modes of inquiry.
+
+
+Gerald J. Larson
+India Studies
+Sycamore Hall 230
+Indiana University
+Bloomington, Indiana 47405, USA
+
+Telephone: (812) 855-5798
+Telefax: (812) 855-4687
+Email: glarson at indiana.edu
+
+                -------------------------------------------------
+
+                                World Heritage Press
+                                    1270 St-Jean
+                                St-Hyacinthe, Quebec
+                                   Canada J2S 8M2
+
+                        Tel (514) 771 0213 Fax (514) 771 2776
+                           Email <mittals at ere.umontreal.ca
+
+
+
+
+
+

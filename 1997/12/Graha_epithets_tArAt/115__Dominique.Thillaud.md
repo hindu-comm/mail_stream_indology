@@ -1,0 +1,57 @@
++++
+title = "115 Dominique.Thillaud"
+date = "1997-12-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010159.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010159.html)
+
+At 16:40 +0100 10/12/97, DEVARAKONDA VENKATA NARAYANA SARMA wrote:
+>If tAra can represent tArA, I have one interpretation
+>
+>tArakAmah = one who desires tArA . It is just like `svargakAmah', `bhUtikAmah'
+>etc.
+>
+>tArakAmayOh will be possessive dual form i.e., the two who desire tArA
+>
+>saGgrAmah tArakAmayOh = war of the two who desire tArA
+>
+>If the visarga at the end is lost and somebody interpreted `O' at the end
+>as due to transformation of visarga, you will get saGgramah tArakAmayah.
+
+        Very subtle, indeed. I would like such a victory of the sense!
+
+        I can add that, in devanAgarI text, a 'tArakAmayoryuddhaH' can very
+easily loose the 'r', a very small mark.
+        The last problem is the responsability of a scribe, changing a new
+'tArakAmayo yuddhaH' (read with unsticked sandhi: 'tArakAmayas yuddhas') in
+a compound 'tArakAmaya-yuddhaH'. (Here, we can't suppose the lost of the
+'o' mark: it would give 'tArakAmayA yuddhaH').
+        In westerner Middle-Age, monk-scribes took easily such liberty.
+        Extension of compounds in the Sanskrit's story can play a role ?
+        Do have the specialists of manuscripts an advice on this possibility ?
+
+        But, I've kept the better for the end. In MBh VIII,6,46:
+
+0080060461/.tava.putrair.vRtah.karNah.zuzubhe.tatra.bhaarata./
+0080060463/.deviar.iva.yathaa.skandah.samgraame.taarakaa.maye.//
+
+        the only 'taarakaamaya' passage in MBh where it's not question of
+the Indra's fight against the Asura, the Poona edition give in the
+manuscript G3 (Tanjore, Sarasvathi Mahal Library, No. 11828. Palm leaf.
+Undated) the variant taarakaamayoh.
+        You're an happy man ;^)
+
+        Namaste,
+Dominique
+
+PS: by a fortuit chance, you can remark with interest at the begin of the
+third pada, one of the terrific mistakes of Pr. Tokunaga, impossible to
+correct without referring to the printed text ! But, to be impartial, the
+cut .taarakaa.maye. of the sensei is perhaps today erroneous !
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+

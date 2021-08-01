@@ -1,0 +1,40 @@
++++
+title = "04 Dominik Wujastyk"
+date = "1990-12-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1990-December/000032.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1990-December/000032.html)
+
+
+
+Dear Brett,
+
+Qui tacet consentit "Who is silent consents":  I think that you could
+safely assume that most INDOLOGY-ists are very interested in your
+program.  But you are probably right that the development and testing
+will not be of interest to all.  So please put me on your list of high
+interest people.  I have plenty of real live Hindu dates, both samvat
+and saka, taken from MSS, that I would be delighted to test.  I will
+normally be checking against _An Indian Ephemeris (AD 700 to AD 1799)_
+by L. D. Swamikannu Pillai, (7 vols.) and _An Indian Ephemeris (AD 1800
+to AD 2000)_ idem., (1 vol.), since these are what I have to hand in
+my office.  I am not always confident in working the tables in his
+single volume _Indian Chronology_, though those would probably be more
+useful for you, in the sense that they are closer to the underlying
+algorithm.
+
+ANSI C is ideal. (For this task, I mean :-)
+
+Best wishes, and send me anything you like as soon as you like.  I have
+a C compiler (QuickC 2.00), and can deal with most compression, archiving
+and encoding programs (Eg., tar + compress + btoa, or ZIP + XXencode, etc.).
+
+Best wishes,
+
+Dominik
+
+
+
+
+

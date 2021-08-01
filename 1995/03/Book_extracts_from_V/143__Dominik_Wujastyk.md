@@ -1,0 +1,24 @@
++++
+title = "143 Dominik Wujastyk"
+date = "1995-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002249.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002249.html)
+
+Dear Mr Chari,
+
+Please send your request directly to VOI (voi at stallion.jsums.edu).  Your
+earlier request went to the 350 members of INDOLOGY, none of whom can
+help you in this matter.  When I last checked, VOI was not amongst the
+members of INDOLOGY, so they will not have received a copy.
+
+Dominik
+
+Cc: INDOLOGY
+
+
+
+
+
+

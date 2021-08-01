@@ -1,0 +1,35 @@
++++
+title = "43 Sreenivas Paruchuri"
+date = "1997-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007168.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007168.html)
+
+Hallo,
+
+Im Jahr 1984/1985 gab es eine Reihe von Veroeffentlichungen zum Thema:
+Indien/Indologie von der Martin-Luther-Universitaet Halle-Wittenberg. Der 
+Anlass dafuer war das 35jaehrige Bestehen der DDR. Viele davon waren bis 
+zu dem Zeitpunkt unveroeffentlichte Manuskripte der Missionare; 
+Bartholomaeus Ziegenbalg, Benjamin Schultze u.a, die in der ersten Haelfte 
+des 18. Jahrhunderts im Sueden Indiens unterwegs waren.  
+
+Meine Frage lautet, wie kann ich einige dieser Beitraege, insbesondere
+die Werke von obengenannten Personen, erwerben. Ich habe versucht, am 
+Institut fuer Indolgie der Uni-Halle einen Kontaktpartner zu finden. 
+Anscheinend hat keine(r) der Mitarbeiter eine e-mailadresse.
+
+Fuer jede Hilfe im Zusammenhang mit dem Erwerb dieser Werke waere ich
+dankbar.
+
+mit freundlichen Gruessen,
+Sreenivas
+
+-- 
+E-Mail: sreeni at ktp.uni-paderborn.de
+
+
+
+
+

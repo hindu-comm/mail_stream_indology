@@ -1,0 +1,29 @@
++++
+title = "174 Gene Thursby"
+date = "1995-10-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003408.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003408.html)
+
+
+Recently I had a request for first-hand information concerning Sri 
+Chinmoy that came from a writer who is preparing an article for Outside 
+magazine.  If you have done research on Sri Chinmoy, or have close 
+acquaintance, or know someone who is able and willing to be interviewed, 
+kindly contact the writer -- Devon Jackson, telephone 212-941-0157 in New 
+York City, USA -- or me by e-mail.
+
+Many thanks.
+
+Gene R. Thursby
+Associate Professor
+Department of Religion
+University of Florida
+Gainesville, FL 32611 USA
+<gthursby at religion.ufl.edu>
+
+
+
+
+

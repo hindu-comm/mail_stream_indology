@@ -1,0 +1,26 @@
++++
+title = "11 falk"
+date = "1990-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1990-November/000023.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1990-November/000023.html)
+
+
+Dominik asked about programs for processing Sanskrit. I got some little
+helpers (an automatic converter Grassmann to mandala-numbering; a device
+for changing a skt. text into its index ((slow but tiny, 1500 k))), but
+all this is usefull only for those working with NotaBene (with SLS). So,
+if someone should be interested, simply give me a note.
+more important: for some time I dream about a program converting
+oriental dates (vikrama; gupta; hejra etc) into dates of our era, taking
+fully into account that some Hindu dates are "wrong" and proposing
+a range of dates for doubtful data. I am not capable to develop such a
+program. But maybe someone of the group wants to try his luck? I have
+collected articles and books giving all sorts of formulas for such
+conversions, which I could communicate.
+Harry
+
+
+
+

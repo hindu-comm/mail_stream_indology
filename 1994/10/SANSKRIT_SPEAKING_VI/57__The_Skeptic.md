@@ -1,0 +1,24 @@
++++
+title = "57 The Skeptic"
+date = "1994-10-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-October/001447.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-October/001447.html)
+
+I would like to see the article if anyone has it. 
+How many people live in the village and what is their means of livelihood?
+
+I understand there may be a few communities of esparanto speakers also.
+
+Aditya Mishra
+Phone/FAX 305-746-0442 (Please leave message)
+email:  z900672a at bcfreenet.seflin.lib.fl.us
+PRODIGY: TVDS96A
+
+
+
+
+
+
+

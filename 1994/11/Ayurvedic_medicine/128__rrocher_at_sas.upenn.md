@@ -1,0 +1,27 @@
++++
+title = "128 rrocher at sas.upenn.edu"
+date = "1994-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001625.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001625.html)
+
+A graduate student in Sociology at the University of Pennsylvania 
+is beginning work on a doctoral dissertation about the practice of 
+Ayurvedic medicine in North America.  I first thought of introducing 
+her electronically to Mitchell Weiss (hi, Mitch!) and Kenneth Zysk
+(whose direct electronic address I mislaid, sorry, Ken), but, on 
+further reflection, I thought that some other people interested in 
+the same subject might wish also to get in touch with her. 
+
+Her name is  Sita Reddy, 
+her electronic address is  sreddy0 at sas.upenn.edu. 
+
+Happy Thanksgiving! 
+
+Rosane Rocher
+
+
+
+
+

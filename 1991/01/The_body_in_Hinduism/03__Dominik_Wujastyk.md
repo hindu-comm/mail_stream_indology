@@ -1,0 +1,33 @@
++++
+title = "03 Dominik Wujastyk"
+date = "1991-01-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-January/000036.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-January/000036.html)
+
+
+
+A PhD student at SOAS (Anne Glazier) is currently beginning research
+on "Concepts of and attitudes to the physical body in classical
+Hindu thought".  She is gathering information and bibliographical
+materials at the moment.  She will concentrate -- in the first
+instance -- on the non-ayurvedic texts, looking in particular
+at the ideas present on the subject in the 6 schools of philosophy.
+
+Mrs Glazier would be most grateful for any pointers to books or
+articles on this subject that you might be able to provide her.
+Is anyone else working on this topic, to your knowledge?
+
+(I will act as intermediary for this information.)
+
+
+Best wishes,
+
+Dominik
+
+
+
+
+
+

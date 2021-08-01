@@ -1,0 +1,36 @@
++++
+title = "592 Balaji Hebbar"
+date = "1999-05-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017268.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017268.html)
+
+Dear  Mr.  Sundaresan:
+
+Perhaps  you  are  the  best  equipped  on  the  list  to  answer  the
+following:
+
+1.  Why  is  the  KAn.chI  KAmakoTi  PItham  always  excluded  among
+the  "ShankarAcAryas".  Why  just  the  four  ones?
+
+2.  Why  is  the  ShankarAcArya  of  SRngeri  considered  primus  inter
+pares  (first  among  equals)  even  among  the  four.  Was  it  because
+SRngeri  was  given  to  Shankara's  favorite  disciple  Sureshvara?
+
+3.  Why  this  intense  rivalry  between  KAn.chI  and  SRngeri
+especially?  I  have  seen  this  in  quite  a  few  disciples
+belonging  to  both  pIthas.
+
+4.  If  Shankara  established  an  apostolic  seat  at  KAn.chI, was  it
+because  KAn.chI  was  the  only  one  of  the  7  holy  Hindu  places
+which  was  in  the  South?  AND/OR  perhaps  it  was  a  seat  of
+Buddhism  and  the  native  city  of  Buddhist  savants  such  as
+Bodhidharma,  DinnAga  etc.
+
+Kindly  clarify  these,
+Regards,
+B.N.Hebbar
+
+
+

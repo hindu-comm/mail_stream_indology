@@ -1,0 +1,63 @@
++++
+title = "15 Dominik Wujastyk"
+date = "1992-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-February/000203.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-February/000203.html)
+
+
+----------------------------Original message----------------------------
+From: 	GEMINI::GEMINI::MRGATE::"A1::BRIDGES" 17-FEB-1992 23:34:07.79
+To:	APOLLO::BRIDGES
+CC:
+Subj:	Position Announcement
+
+From: 	NAME: Thomas Bridges
+	FUNC: Philosophy & Religion
+	TEL: 893-7418                         <BRIDGES AT A1 AT ADAM>
+To:	bridges at apollo@mrgate
+
+
+    TENURE TRACK JOB OPENING: Religious Studies
+
+    RANK: Assistant Professor
+
+    DEPARTMENT: Philosophy and Religious Studies
+    	  Montclair State College
+    	  Upper Montclair, N.J. (14 miles west of Manhattan)
+
+    DESCRIPTION: Tenure track position, one-year initial contract.
+    	  Required fields of specialization: Asian religions and
+    	  philosophies.
+    	  Desired but not required specializations: Native American
+          religions, mysticism.
+
+    	  Duties: Teach introductory undergraduate courses in religious
+    	  studies (Introduction to Religion, Religions of the World) and
+    	  upper-level undergraduate courses in Asian Religions and other
+    	  areas of specialization. Also: reasearch in areas of
+    	  specialization.
+
+    TEACHING LOAD: 12 credits per semester.
+
+    QUALIFICATIONS: Ph.D. preferred. ABD may be acceptable if dissertation
+    	  near completion. At least one year of teaching experience.
+
+    STARTING DATE: September, 1992
+
+    SALARY: Competitive
+
+    SEND LETTER AND RESUME TO:
+    	  Dr. Michael Kogan
+    	  Chair, Dept. of Philosophy and Religious Studies
+    	  Montclair State College
+    	  Box C316
+    	  Upper Montclair, NJ 07043
+
+    APPLY BY: March 1, 1992
+
+
+
+
+

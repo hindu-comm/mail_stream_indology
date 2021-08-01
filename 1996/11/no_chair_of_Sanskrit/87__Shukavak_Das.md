@@ -1,0 +1,20 @@
++++
+title = "87 Shukavak Das"
+date = "1996-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006137.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006137.html)
+
+What can happen to old Sanskritists:
+Professor Hueckstedt suggestion of a "cash" language along with Sanskrit is excellent advice. I 
+wish I had of received that suggestion years ago while I specialized in Sanskrit and Indian 
+Studies at the University of Toronto. But as it happened my "cash" support turned out to be the 
+Hindu priesthood. I now work as a Hindu priest in Southern California- something I could 
+never have envisioned twenty years ago. I get to teach Sanskrit to my hearts content and I 
+have no shortage of Students. Believe it or not I have over 40 students who range in years 
+from 8 to 50. Sanskrit is still alive and well.
+
+
+
+

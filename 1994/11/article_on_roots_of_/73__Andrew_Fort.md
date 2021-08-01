@@ -1,0 +1,22 @@
++++
+title = "73 Andrew Fort"
+date = "1994-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001569.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001569.html)
+
+As others have noted, the day after my request for
+good material on "Hindu fundamentalism," the JAAR
+appeared with an article by James Lochtefeld, called
+"The Visva Hindu Parishad and the Roots of Hindu
+Militancy."  Perhaps most interesting is his discussion
+of the history of samnyasi violence in north India.
+
+Andrew O. Fort, Religion Dept.       RQ021RE at TCUAMUS
+Texas Christian University           Fort Worth TX 76129
+
+
+
+
+

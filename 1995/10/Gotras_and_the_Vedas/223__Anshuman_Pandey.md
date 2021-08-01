@@ -1,0 +1,38 @@
++++
+title = "223 Anshuman Pandey"
+date = "1995-10-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003470.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003470.html)
+
+
+Does there exist a formal system or certain tradition whereby specific 
+gotras are associated with specific Vedas and their recensions, or are 
+gotras and their association with the Vedic schools independent of 
+tradition and system and dependent on choice?
+
+In his Hindu Tribes and Castes (1872), M. A. Sherring provides a list 
+similar to the following in which he categorized gotra families under 
+specific Vedas. Is there much accuracy in this list?
+
+Samavedins    Yajurvedins    Rgvedins   Atharvavedins   The rest of the
+----------    -----------    --------   -------------   Brahmans, of all
+Kasyapa       Bharadvaja     Bhargava   Kaushika        gotras, follow
+Kaasyapa      Bhaaradvaja    Sankrita   Grtakaushika    the Vajurveda.
+Vatsa         Angiraah       Garga      Mudhgala
+Sandilya      Gautama        Bhrgu      Galawa
+Dhananjya     Upamanyu       Saunak     Vashisht
+
+
+Thanks.
+
+
+Anshuman Pandey
+
+
+
+
+
+
+

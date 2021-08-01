@@ -1,0 +1,29 @@
++++
+title = "00 Dominik Wujastyk"
+date = "1993-01-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-January/000378.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-January/000378.html)
+
+                           University of Oxford
+                Readership in Modern South Asian History
+
+The electors indent to proceed to an election to the Readership in Modern
+South Asian History, with effect from 1 Oct. 1993 or such later date as may
+be arranged.  The stipend of the reader will be on the scale which is at
+present #25,969 to #29,348 per annum.  The readership is associated with a
+non-stipendiary professorial fellowship at St Antony's College.
+
+Applications (ten copies, or one from overseas candidates), naming three
+referees, should be received not later than 1 March 1993 by the Registrar,
+University Offices, Wellington Square, Oxfore OX1 2JD, from whom futher
+particulars may be obtained.
+
+Please quote reference MSAH.0701.
+
+                                           -- The Independent, 7 Jan 1993.
+
+
+
+

@@ -1,0 +1,34 @@
++++
+title = "116 aklujkar at unixg.ubc.ca"
+date = "1996-09-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-September/005822.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-September/005822.html)
+
+As a Jain monk, Muni Jambuvijaya generally does not stay at one place for a
+long time except during the rainy season. The only concession he has made
+to himself in view of his scholarly and research interests (it is not easy
+to transport the books he needs to all the places at which he resides) and
+his advanced age is that his stays at any one place are not very short and
+that he generally moves only in the radius of a few kilometres around the
+sacred place of Sankheshwar/Shankheshwar.  The best way to arrange a
+meeting with him is to write to the following address and find out where he
+is likely to be at the time of the planned visit. The lay disciples
+invariably ensure that Muniji gets the message. Muniji usually manages to
+write back in a few days.
+
+ Address: Muni Jambuvijay, c/o Mr. Jitendra Manilal Saghavi, A/3
+Chandanabala Apartment, Nava-vikasa-griha Rd., Ashoknagar, Paladi,
+Ahmedabad 380 007.
+
+Other possible contact addresses: (a) c/o Himmatlal Sanghavi. Adariyana 382
+780, Via Viramgam, Gujarat. (b) c/o Visanima Bhavan, Taleti Rd., Palitana
+364 270. (c) c/o Jain Atmanand Sabha, Khargate, Bhavnagar, Saurashtra,
+Gujarat, 364 001.
+
+
+
+
+
+

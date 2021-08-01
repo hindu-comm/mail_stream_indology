@@ -1,0 +1,27 @@
++++
+title = "92 Jan Filipsky"
+date = "1997-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006913.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006913.html)
+
+Dear Netters,
+some time ago I was happy to come across some postings by a former 
+colleague, Indologist Edeltraud Harzer Clear from Indiana University, 
+Bloomington, but when I try to send her a message to 
+<eclear at bronze.ucs.indiana.edu> it bounces with a terse comment "Host 
+Unknown". Could anyone suggest a host which is "known"?
+Gratefully, Jan 
+
+********************************************************
+Jan Filipsky, Oriental Institute, Pod vodarenskou vezi 4,
+182 08 Praha 8
+Phone: 00422/6605 3729
+Private: U Pentlovky 466/7, 181 00 Praha 8
+Phone: 00422/855 74 53
+********************************************************
+
+
+
+

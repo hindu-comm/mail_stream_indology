@@ -1,0 +1,29 @@
++++
+title = "31 Jeroen Hellingman"
+date = "1993-01-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-January/000411.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-January/000411.html)
+
+Hi,
+
+I think it will be possible to make the positioning of the candrabindu
+independent of the font, by using the font-specific dimensions provided by
+TeX, i.e. em and ex -- I have made some macros to place accents on top of each
+other, and place acccents meant to be put on top of a letter below them, that
+use explicit box-constructions. I do not have them here, but maybe I should
+post them on Indology and or comp.text.tex
+
+Jeroen
+
+
+-- 
+Jeroen Hellingman                 E-mail: <jhelling at cs.ruu.nl>
+'t Zand 2                         Phone: +31-3473-73935 (home)
+4133 TB Vianen                    (18.00--21.00 GMT)
+The Netherlands                   Answer in English, German, or Dutch.
+
+
+
+

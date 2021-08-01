@@ -1,0 +1,42 @@
++++
+title = "235 Frank Conlon"
+date = "1996-04-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004839.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004839.html)
+
+Friends:
+
+This cross-post from H-ASIA will convey briefly the news concerning the
+death of Burton Stein yesterday in London.
+
+Frank Conlon
+
+
+                                H-ASIA
+                            April 26, 1996
+
+Burton Stein
+************************************************************************
+From: Frank F. Conlon <conlon at u.washington.edu>
+
+I have just had word from Peter Robb at SOAS that Professor Burton Stein
+died this morning.  Burt had been seriously ill with cancer for some
+months.  I anticipate that a more formal obituary will be forthcoming on
+H-ASIA, but I trust that you will indulge me on this, as I am not quite
+able to take up that project just now.  I first encountered Burt as a
+graduate student in 1960, and his guidence and critical encouragement did
+much to form my research and teaching.  As his fertile mind was eternally
+young, it was not easy to realize that he would not go on forever,
+generating fresh ideas and insights on the shape of Indian history.
+
+
+Frank Conlon
+University of Washington
+============================================================================
+
+
+
+
+

@@ -1,0 +1,36 @@
++++
+title = "217 apsss at uohyd.ernet.in"
+date = "1996-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004537.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004537.html)
+
+MORE ON MALE EAR-PIERCING
+
+P.V. Kane list 32 books written between the 14th to the 17th
+centuries dealing with ritual ceremonies meant for the Sudras
+(History of Dharmasastra, i, 640-1). One such the ---
+Sudracara Siromani written by Sesakrsna (ed. by Gopinath Kaviraj 2vols
+Benares 1933 and 1936 ....The intorduction by Narayana Sastri Khiste
+informs us that Sesakrsna wrote this work in the time of Pilaji Rao,
+a king of Daksinatya. Further, he is also said to have written the 
+Kamsavadham at the behest of Todarmal's son, Giridhari) --- states 
+(1,68-69) that although ordinarily the sudras are not allowed samskaras, 
+an exception is made to this rule (pratiprasava) by allowing them the rights
+to perform the panchamahayajnas, sraddha, garbhadhana, namakarna,niskramana,
+annaprasana and karnavedha (ear-piercing
+..... It is further stated (i,79-80) that the karnavedha takes the 
+place of the yajnopavita in the case of the sudras....
+This,in my opinion explains why a large number of Hindu males 
+undergo a ear piercing ceremony and are proud of it..
+ALOKA PARASHER,
+Department of History,
+University of Hyderabad  Email: apsss at uohyd.ernet.in
+India.
+d
+
+
+
+
+

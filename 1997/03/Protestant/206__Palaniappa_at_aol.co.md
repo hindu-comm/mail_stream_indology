@@ -1,0 +1,25 @@
++++
+title = "206 Palaniappa at aol.com"
+date = "1997-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007348.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007348.html)
+
+I think Ambedkar's neo-Buddhist movement can be classified as a
+quintessential protestant movement. So may also be the movement of Sri
+Narayana Guru of Kerala. 
+
+The movement of Ramalinga aTikaL of Tamilnadu (1823-1874) can also be
+classified as protestant even though one can see it as following the medeival
+protestant movements of the Tamil Siddhas. For details, you can see "The
+Mission and Message of Ramalinga Swamy" by T. Dayanandan Francis, 1990,
+Motilal Banarsidass Publishers.
+
+Regards.
+
+S. Palaniappan
+
+
+
+

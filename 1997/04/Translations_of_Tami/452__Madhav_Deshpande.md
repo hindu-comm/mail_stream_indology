@@ -1,0 +1,54 @@
++++
+title = "452 Madhav Deshpande"
+date = "1997-04-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007963.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007963.html)
+
+	Indeed I come from Pu.yapattana or Pu.nyanagarii (= Pune, pu.ne in
+Marathi). I don't know how old this usage is, but it is commonly seen not
+only in modern Sanskrit publications from Pune, but often also in Marathi. 
+The old pre-urbanization name of this place was punava.dii. 
+	Madhav Deshpande
+
+On Mon, 28 Apr 1997 Palaniappa at aol.com wrote:
+
+> Many place names and names of deities in Tamilnadu were translated into
+> Sanskrit as is clear from inscriptions and literary texts.
+> 
+> For instance, in the famous 10 th century CE Anbil plates of Sundara Chola
+> (father of the famous Rajaraja Chola), the name of the village in the Tamil
+> portion of the inscription is 'anpil' meaning 'place of love' and derived
+> from 'anpu' meaning 'love'. But in the Sanskrit portion, it is called
+> 'prema'. (See Epigraphica Indica Vol.XV) Similarly, in the 11th century CE
+> Tiruvalangadu plates of Rajendra Chola, the village of 'pazaiyanUr' found in
+> the Tamil portion is called 'purANagrAma' in the Sanskrit portion. (See South
+> Indian Inscriptions, Volume III) The Tamil name meant 'the village of
+> pazaiyan' where the name 'pazaiyan' is derived from Tamil 'pazaiya' meaning
+> 'old',
+> 
+> A place called 'mutukunRam' meaning 'old hill' has been sung by the Saivite
+> Saints of the 7th century CE. Today it is known as 'vriddAchalam'. A
+> comparison of names of places sung by the Saivite saints and their later
+> names reveals many such translations into Sanskrit. 
+> 
+> Similar translations have occurred in the names of the temple deities also.
+> The deity in the temple at 'tiruvaiyAru' meaning 'five rivers' is called
+> 'pancanatIswarar'. The deity in 'tirumeyyam' derived from Tamil 'mey' meaning
+> 'truth' is called 'satyamUrti'. 
+> 
+> I am curious if such a tendency is seen in other language areas?
+> 
+> 
+> Regards
+> 
+> S. Palaniappan
+> 
+> 
+> 
+
+
+
+
+

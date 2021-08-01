@@ -1,0 +1,34 @@
++++
+title = "277 David Magier"
+date = "1998-04-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011852.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011852.html)
+
+I have been asked to forward the following event announcement to your
+mailing list or listserv. Please do not reply to me. For any further
+information, please see the web page listed below. I have no further
+information on this event. Thank you.
+David (sarai) Magier
+
+*************NOW ON DISPLAY******
+
+SITA IN THE CITY: THE RAMAYANA'S HEROINE IN NEW YORK
+
+An exhibition of ideas and images in conjunction with the
+international Sita Symposium that will explore how Sita
+is imagined by diverse communities in the greater New
+York area.
+____________________________________________
+Thursday, April 16 to Monday, May 4, 1998
+Columbia University: The Rotunda, Low Library
+116th Street and Broadway, NYC
+____________________________________________
+
+FOR MORE INFORMATION, VISIT
+
+http://www.columbia.edu/cu/dhirc/sitacity.html
+
+
+

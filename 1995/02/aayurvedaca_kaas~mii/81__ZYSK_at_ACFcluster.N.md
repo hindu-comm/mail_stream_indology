@@ -1,0 +1,27 @@
++++
+title = "81 ZYSK at ACFcluster.NYU.EDU"
+date = "1995-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/001944.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/001944.html)
+
+Mr Borowski expressed his hunch that there might have been some connection
+between Ayurveda and Kashmir Shaivism. In the first instance, I woould
+like to see more precisely (i.e., textually) the basis for his hunches.
+Secondly, I can report briefly on a conversation I recently had with
+P.V. Sharma centering around the origins and influences in Ayurveda.
+He was of the opinion that two clear influences can be traced in
+the Samhitas. This first is Buddhist or Shramanic; and the second
+is Tantric. Concerning the second, he pointed to the evolution
+of the kalpas from the manipulation over time of vishas or poisons. I 
+might add to his comments, the development of a medical physiology
+of vital breaths (pranas) in the medical literature derived from
+a long tradition using breath in techniques of meditation and speculations
+about the micro-macro cosmic significance of breath/air.
+K.G. Zysk
+
+
+
+
+

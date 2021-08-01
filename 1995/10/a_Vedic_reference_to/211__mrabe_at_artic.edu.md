@@ -1,0 +1,30 @@
++++
+title = "211 mrabe at artic.edu"
+date = "1995-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003456.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003456.html)
+
+An undocumented eText[http://www.utexas.edu/students/amso/ror/hindu-d.html]
+cites this passage as from a Vedic hymn to Siva:
+
+"We invoke with obeisance, the ruddy of the sky, with spiral braided hair,
+a brilliant form. Far be thy cow slaying and man slaying weapon."
+
+Off hand, can anyone supply chapter and verse?
+
+Thanks,
+Michael Rabe
+
+
+
+
+
+
+
+
+
+
+
+

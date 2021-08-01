@@ -1,0 +1,36 @@
++++
+title = "227 Vidyasankar Sundaresan"
+date = "1998-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012824.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012824.html)
+
+>Must the anvaya-vyatireka method and the jahad-ajahal-lak.s.naa method
+be=
+> seen as mutually exclusive? After all, the anvaya-vyatireka method is=
+> essentially the basic scientific method of changing one variable at a
+time=
+> and seeing what the outcome is. -- ashok aklujkar
+
+They are indeed quite compatible, and as Mayeda notes, Sankara's use of
+anvaya-vyatireka does contain many features of the lak.sa.nA arguments
+developed by Padmapada and others. But anvaya-vyatireka can also be
+interpreted in a bhedAbheda sense, and later authors seem to stick to
+the lak.sa.nA terminology. The examples used also change, from nIlA;sva
+(Sankara) or nIlotpala (Suresvara) to so'yam devadattaH/pumAn (Padmapada
+and later authors). So, my question is related more to one of style
+and/or chronology - since Sankara and Suresvara seem to be the only
+authors who use anvaya-vyatireka (to my knowledge), could this serve as
+a criterion to test the traditional attribution of works which are
+doubted in modern critical scholarship? Of course, this would depend on
+the usage or otherwise in the works of other known authors, hence the
+curiosity.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

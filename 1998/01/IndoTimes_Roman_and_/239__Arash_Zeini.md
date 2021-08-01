@@ -1,0 +1,29 @@
++++
+title = "239 Arash Zeini"
+date = "1998-01-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010472.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010472.html)
+
+Dear members of the list,
+
+I am searching for the distributer of the TTF 'Indo Times Roman'. Can
+anybody provide me with information ?
+The second question I have is about (freely distributed) fonts (or fonts in
+generall) and copyrights. If I change some characters of a font, like adding
+characters to it, am I free to handle it as it were my own font ? Is it
+possible to distribute this font for an e-journal ?
+
+Thank you in advance,
+Arash
+
+-
+~~~~~~~~~~~~~~~~~~~~~~
+Arash Zeini
+e-mail: ar.zeini at uni-koeln.de
+Tel./Fax: +49-221-4303060
+~~~~~~~~~~~~~~~~~~~~~~
+
+
+

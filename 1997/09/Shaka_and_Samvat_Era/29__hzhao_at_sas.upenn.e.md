@@ -1,0 +1,26 @@
++++
+title = "29 hzhao at sas.upenn.edu"
+date = "1997-09-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009066.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009066.html)
+
+I heard that the Shaka Era began in 78 CE, and that one converts from 
+Shaka Era to CE by adding 78 or 79,  depending on the month.  But this 
+will make, say July 78 CE, fall in year 0 of Shaka Era.  Is this the 
+case?  Also when did the Samvat era begin and how should one convert 
+between it and CE and BCE?
+
+Also,  Caitanya Mahaprabhu is said to have appeared on the Purnima night of 
+phalguna masa of 1407 Shaka Era,  and I heard it is Feb 18, 1486.  But 
+the end of phalguna masa doesn't usually seem to occur that early.  
+Another account is that it was the 23rd of phalguna masa.  Does anyone 
+have any authoritative source on this?  
+
+Thanks,
+Chuck Zhao
+
+
+
+

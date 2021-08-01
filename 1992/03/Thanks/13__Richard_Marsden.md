@@ -1,0 +1,29 @@
++++
+title = "13 Richard Marsden"
+date = "1992-03-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-March/000219.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-March/000219.html)
+
+Status: RO
+
+Dear K.G. Zysk, Dominik Wujastyk, and Michio Yano,
+
+Thanks very much for the help. I am about to pass the replies on to my friend
+in Kerala. I hope they of use to him.
+
+I will be leaving Cambridge tomorrow, and there is the possibilty that I will
+not be able to check my e-mail over Easter. I should be back around about the
+20th April.
+
+What has been said so far has wetted my appetite - I'll have to read up about
+the Keralan mathematics and astronomy.
+
+Happy Easter,
+
+Richard Marsden
+
+
+
+

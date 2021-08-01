@@ -1,0 +1,30 @@
++++
+title = "104 Ruth Laila Schmidt"
+date = "1998-01-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010447.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010447.html)
+
+Dear members of the list,
+
+I would like to thank all my helpful colleagues who sent me information on
+Sindhi sailing vessels.
+
+With best wishes,
+
+Ruth Schmidt
+
+
+***********************************************
+Ruth Laila Schmidt
+Dept of East European and Oriental Studies
+University of Oslo
+P.O. Box 1030 Blindern
+N-0315 Oslo, Norway
+Phone: (47) 22 85 55 86
+Fax: (47) 22 85 41 40
+Email: r.l.schmidt at east.uio.no
+
+
+

@@ -1,0 +1,47 @@
++++
+title = "125 chattrj at is3.nyu.edu"
+date = "1996-11-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006168.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006168.html)
+
+>I am planning to visit India Off. Library in London during my trip to U.K.
+>Could someone please provide information about its location, opening times, 
+>whether photocopying facilities are available, etc. etc.!
+
+The hours of IOL are  9 am--5:30 pm, I believe. It's located at the British
+Library's Orbit House on the South side of the Thames, on Blackfriars Road.
+The exact address is 197 Blackfriars Road, London SE1 8NG. The closest Tube
+stations are Waterloo (on the Northern and Bakerloo line) and Blackfriars
+(on the District and Circle lines). It's closer to Waterloo but the walk
+over the Blackfriars Bridge is quite pleasant, if the weather is pleasant,
+too! The telephone number is 0171-412-7000. You can e-mail them at
+"oioc-enquiries at bl.uk" with your questions. I don't think they have a
+website and even if they do it's not very good, but it's worth checking with
+them. Yes, photocopying facilities are available, but don't bank on it
+because it is 20 p per page on the self-service machine and more if they
+have to do it for you. Depending on how old your requested books are, they
+might not allow you to use the self-service machine, in which case it not
+only gets expensive, you lose time too, since the turn-around time is
+normally 24 hours! A good idea is to use a lap-top computer (they have a
+special room for lap-top users) and/or use a small tape recorder into which
+you could whisper-in your readings and transcribe them down later (I have
+done that and it works!).
+
+Good luck!
+
+:Sudipto Chatterjee
+New York University
+       _____________________________________________
+       "[I]t only takes two generations to make anything traditional:
+       naturally enough, since that is the sense of tradition as active
+       process."                                            --Raymond Williams
+       _____________________________________________
+          100 Bleecker Street, Apt. #7C, New York, NY 10012
+                    Tel: (212) 979-6466  Fax: (212) 998-1855
+
+
+
+
+

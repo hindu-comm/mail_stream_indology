@@ -1,0 +1,35 @@
++++
+title = "123 Prof G Samuel"
+date = "1995-05-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002513.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002513.html)
+
+Dear Dr Kellner
+
+Re the latest report on your database - I would appreciate a copy of the
+ASCII file. I'm not sure if I can handle uuencoding etc - is plain ASCII
+possible? 
+
+Is this the same as the list of Tibetan etc material in electronic form
+that you were asking for contributions to at an earlier stage?
+
+Later in the year, I hope to have a www page for this department with
+some local material and
+links to resources on Asian religions etc elsewhere - will keep you
+posted about developments.
+
+Hope to see you shortly at the IATS conference.
+
+Geoffrey Samuel
+Department of Religious Studies
+Lancaster University
+Lancaster LA1 4YG, UK
+fax 01524 847039
+email G.Samuel1 at lancaster.ac.uk
+
+
+
+
+

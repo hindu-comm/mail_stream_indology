@@ -1,0 +1,42 @@
++++
+title = "135 ssa at violet.berkeley.edu"
+date = "1997-01-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006764.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006764.html)
+
+
+Some of the students, colleagues, friends and disciples of the late Pt.
+T.S. Srinivasa Sastri, formerly of the Deccan College Sanskrit Dictionary
+Department, have been talking about the establishment of a trust to aid
+Sanskrit scholarship and perpetuate the memory of this remarkable man. Some
+possible projects in this connection would be publications, a scholarship,
+etc.
+
+This project will be coordinated by Dr. V. N. Jha of the Centre of Advanced
+Study in Sanskrit, Pune University, Pune 411007
+
+If you are interested in participating in or supporting this undertaking
+please contact me or Dr. Jha.
+
+
+R. P.  Goldman
+Sarah Kailath Professor in India Studies
+Chairman
+Department of South and Southeast Asian Studies
+Center for South Asia Studies
+University of California at Berkeley
+Berkeley, CA 94720-2540
+sseas at violet.berkeley.edu
+Phone: (510) 642-4089
+Fax:     (510) 643-2959
+
+
+
+
+
+
+
+
+

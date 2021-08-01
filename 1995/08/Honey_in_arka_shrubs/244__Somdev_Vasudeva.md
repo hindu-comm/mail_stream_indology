@@ -1,0 +1,29 @@
++++
+title = "244 Somdev Vasudeva"
+date = "1995-08-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/003117.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/003117.html)
+
+
+Perhaps the citation does not refer to honey but to the apparently 
+well-known sweet smell of the arka plant. Cf. for instance the 
+Ga"u.davaho of Vappa"iraaya (Vaakpatiraaja), Verse 535,  BSPS 34, from 
+the section describing the charms of the forest:
+
+ 	iha viisama"iva hiyaya.m phullakkasamiirasurahigandhesu
+ 	aavaayagha.diyakamalaamoesu va.nantamaggesu GV 535 (ara.nyavar.nanam)
+
+The Nyaaya may thus imply that since a sweet fragrance can be obtained 
+from the common arka shrub there is no need to bother with costly 
+perfumed fragrances acquired from inaccessible mountain regions. But I do 
+not know if any of the arka varieties actually smell pleasant. 
+
+Somdev Vasudeva
+
+
+
+
+
+

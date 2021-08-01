@@ -1,0 +1,31 @@
++++
+title = "365 David Magier"
+date = "1999-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015877.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015877.html)
+
+<<I am posting the following query to the mailing list for a
+friend. If you care to respond, please reply directly to her, Jennifer
+Lack, at planbinc at bitstream.net     Thanks.  David Magier>>
+
+==========
+I am researching an Indic Manuscript, made of bamboo, and need
+assistance in identifying it. The script is related to Devanagari,
+possibly Nandinagari. Scholars from all corners have been unable to
+identify the language. All that is known about it so far, including
+scholar comments, is listed at the web page below, courtesy of Columbia
+University. Any and all observations and comments about this mss are
+most welcome, and can be sent to this e-mail address, which can also be
+accessed through the web page. Please help us! Thank you.
+
+Web Page:
+http://www.columbia.edu/cu/libraries/indiv/area/sarai/indicmss/palm/html
+
+My e-mail: planbinc at bitstream.net
+
+Jennifer Lack
+
+
+

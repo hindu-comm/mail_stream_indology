@@ -1,0 +1,27 @@
++++
+title = "08 Vickie L. Banks"
+date = "1992-05-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-May/000239.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-May/000239.html)
+
+Status: RO
+
+I've been trying to find out what computer resources a good library
+on Indology should have.  It seems that there are various Bibles
+and texts from Western religions available on CD, or as well
+constructed computer programs.  Are there similar CD's and programs
+for Hindu and Buddhist texts?  If so, where does one find them?
+If you were able to add computer resources to your library in the
+area in Indologic studies, what would you get at the present time?
+If someone could include materials that might be available in
+India to this list, and what sort of equipment it would take to
+use them, I'd much appreciate it.
+
+Vickie L. Banks
+21602VB at MSU.BITNET
+
+
+
+

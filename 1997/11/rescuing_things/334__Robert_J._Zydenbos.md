@@ -1,0 +1,42 @@
++++
+title = "334 Robert J. Zydenbos"
+date = "1997-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/010045.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/010045.html)
+
+On Sat, 29 Nov 1997, Bijoy Misra wrote:
+
+> Dear Robert,
+> Since you are so wrapped up in your thinking,
+> I won't argue further.
+
+(So I understand that you are not taking up my challenge of
+explaining that arrogantly stupid comment you made.) Good, I will
+accept this as a twisted kind of apology and expression of regret,
+and we'll drop the matter there. As a countergesture of good will
+and reconciliation, I propose that I will not make any comments
+about 'political and unscholarly propositions' and 'piracy' in, let
+us say, astronomy :-), and certainly not on an Astronomy List which
+is intended to be academic.
+
+By the way, for the scientists on the list: long ago, Dominik
+Wujastyk has written some general remarks about the participation
+of people from the natural sciences in INDOLOGY. This is
+recommended reading.
+
+Dr. Robert J. Zydenbos, D.Litt. in Indology,
+erstwhile visiting professor of Sanskrit and Indology,
+Universities of Heidelberg, Madras, Toronto,
+etc. etc.
+
+(Sorry, I don't really like to do this, and it should not be
+necessary, but I thought I saw some banners around here like
+> - Bijoy Misra.
+>   Harvard University.
+so I thought I shouldn't stay behind, and maybe show some
+credentials. :-) )
+
+
+

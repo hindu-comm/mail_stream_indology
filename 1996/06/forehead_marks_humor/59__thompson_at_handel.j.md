@@ -1,0 +1,24 @@
++++
+title = "59 thompson at handel.jlc.net"
+date = "1996-06-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005296.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005296.html)
+
+Children often say interesting and revealing things.  In Berkeley, I once
+overheard a toddler [two or three years old?], ask with great concern
+whether a woman with a tilaka on her forehead were bleeding.
+
+I take this to be a good example of folk semantics.
+
+Also, my response to the joke was similar to Julia Leslie's, except that I
+assumed that the humor was "disrespectful" to Western "fieldworkers" in
+particular, with their nagging questions about "obvious" things....
+
+
+
+
+
+
+

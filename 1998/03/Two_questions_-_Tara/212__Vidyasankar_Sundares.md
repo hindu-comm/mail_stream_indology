@@ -1,0 +1,26 @@
++++
+title = "212 Vidyasankar Sundaresan"
+date = "1998-03-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011258.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011258.html)
+
+Thanks for the information on Taranatha's date and Gussner's papers. I
+had similar comments to make about Gussner's methodology. I was
+particularly interested in seeing if he considered the theory that the
+Dakshinamurti Stotra and its commentary, the Manasollasa, are originally
+from the Pratyabhijna school of Kashmir Saivism. This has been proposed
+before, on the basis of the word sphuraNa that has an important place in
+this hymn.
+
+A few of your own findings with respect to texts like the two-part
+kenopanishad bhAshya and the vivekavUDAmaNi would also be appreciated.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

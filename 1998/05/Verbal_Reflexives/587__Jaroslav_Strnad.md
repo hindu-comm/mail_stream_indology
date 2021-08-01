@@ -1,0 +1,25 @@
++++
+title = "587 Jaroslav Strnad"
+date = "1998-05-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012512.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012512.html)
+
+The so called compound verbs occur in modern Indo-aryan languages as
+well: in Hindi, for example, a construction of verbal stem (or simple
+absolutive, as this form is often called) with the verb "lenaa", "to
+take" suggests that the action expressed by the stem/simple absolutive
+is done for the use or interest of the doer himself, is directed towards
+the doer, etc.
+E.g.: likhnaa - to write
+      likh lenaa - to write for one's own use, to write down.
+Compound verbs where the second member modifies the meaning (and in
+quite a few cases also the verbal aspect) of the first, is probably one
+of characteristic features of the Indian linguistic area.
+
+                                                Jaroslav Strnad
+                                                strnad at orient.cas.cz
+
+
+

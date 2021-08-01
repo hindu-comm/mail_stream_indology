@@ -1,0 +1,26 @@
++++
+title = "229 manu bhagavan"
+date = "1995-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003479.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003479.html)
+
+Does anyone happen to know the email address of Michael Fisher and/or 
+Paula Richman at Oberlin College?
+
+Also, I am searching for information on the Rotary and Richter (Rickter?) 
+Scholarships.  Does anyone happen to know who is eligible for such 
+fellowships (i.e., is it open to "Asianists", undergrads, graduate 
+students, or junior or senior faculty), who the contact people are, when 
+the deadlines are, and/or what the reputation of these grants are?
+
+Much obliged for your help in these matters.
+
+Manu Bhagavan
+
+
+
+
+
+

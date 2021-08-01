@@ -1,0 +1,36 @@
++++
+title = "11 Lars Martin Fosse"
+date = "1996-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006062.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006062.html)
+
+At 20:49 1.11.96 GMT, you wrote:
+>
+>One of my beginning Sanskrit students this year asked me today if 
+>Sanskrit had any "dirty" words. As many students who step into my 
+>Sanskrit class assume, especially if they come to Sanskrit from an 
+>interest in the study of religion, she assumed that it couldn't possibly 
+>have any "dirty" words. Ever eager to disabuse students of the idea that 
+>Sanskrit is a language in which only spiritual or religious ideas can be 
+>expressed, I quickly assured her that it did have some such vocabulary. 
+>When asked for an example, I was stumped, red-faced and ashamed of my 
+>ignorance. Any suggestions will be most appreciated.
+>
+ I believe the one that should have most immediate appeal to Americans is
+the verbal root YABH (present indicative YABHATI). It corresponds to a very
+common English four-letter word, usually worked to death in American movies
+depicting people of lesser breeding. Since I do not want to fall afoul of
+the new puritanism in American networks, I refrain from translating it. Look
+it up!
+
+Best regards,
+
+Lars Martin Fosse
+
+
+
+
+
+

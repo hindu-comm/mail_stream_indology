@@ -1,0 +1,38 @@
++++
+title = "174 Carlos Lopez"
+date = "1995-02-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/002039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/002039.html)
+
+
+On Tue, 21 Feb 1995, Jakub Cejka wrote:
+
+> Dear members,
+> 
+> I am looking for any bibliographical references of articles etc. dealing
+> with the sanskrit (and particularly Vedic) amre.ditas (iterative compounds).
+> I have read Delbrueck, Wackernagel which say a bit more about it, and then
+> only brief words in Whitney's, MacDonell's, Thumb-Hauschild's grammars. It
+> is especially difficult for me to find out whether anybody recently
+> published some further opinions on this topic or other material than what
+> was collected by Collitz.
+>  
+
+As far as I am aware, as I found out from my former prof. James Benson, 
+there really has not been much written about this.  They are rather 
+interesting compounds within Panini's system (8.1.1 to about 15, I don't 
+have my copy of the Ashtadhyayi at hand).  You might want to check 
+Cardona's work on Panini.  If you get more bibliography, I would 
+appreciate a forward with the information.
+
+Carlos Lopez
+Harvard University
+Dept. of Sanskrit
+
+
+
+
+
+

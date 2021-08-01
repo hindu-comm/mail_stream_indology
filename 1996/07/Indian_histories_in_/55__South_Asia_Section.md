@@ -1,0 +1,29 @@
++++
+title = "55 South Asia Section"
+date = "1996-07-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-July/005431.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-July/005431.html)
+
+
+Here is the work, Frank Conlon cited.
+
+Author:       Hodivala, Shahpurshah Hormasji.
+Title:        Studies in Indo-Muslim history; a critical commentary on Elliot
+              and Dowson's History of India as told by its own historians;
+              with a foreword by Richard Burn.
+Pub. Info.:   Bombay, 1939-57.
+Phy Descript: 2 v. 26 cm.
+Notes:        Vol. 2 has imprint: Bombay, Distributors: Popular Book Depot.
+              Includes bibliographies.
+LC Subject:   Elliot-H-M-Henry-Miers-Sir-1808-1853-History-of-India-as-
+              told-by-its-own-historians.
+              Dowson-John-1820-1881-History-of-India-as-told-by-its-own-
+              historians.
+------------------------------------------------------------------------------
+
+
+
+
+

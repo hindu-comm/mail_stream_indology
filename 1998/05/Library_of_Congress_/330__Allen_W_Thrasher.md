@@ -1,0 +1,24 @@
++++
+title = "330 Allen W Thrasher"
+date = "1998-05-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012262.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012262.html)
+
+THE LIBRARY OF CONGRESS WELCOMES THE ALA TO DC
+
+The Annual Conference of the American Library Association will be held in
+Washington, D.C. this summer, June 25-July 1.  To welcome all attendees to
+the nation's capital, the Library of Congress will host the ALL Conference
+Reception in the newly restored Great Hall, as well as offer many special
+programs and tours designed to appeal to a broad range of interests.  Of
+special note are: Presentations on the Foreign Language Collections, tours
+of the Area Studies Reading Rooms, Briefings for Area Studies Specialists,
+"Experience LC" program, Area Studies Practicum, Country Studies Online,
+and Reference Service in a Digital Age : A Library of Congress Institute.
+Information is available on the Library of Congress Website at
+http://lcweb.loc.gov/ala/.
+
+
+

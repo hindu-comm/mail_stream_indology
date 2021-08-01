@@ -1,0 +1,51 @@
++++
+title = "286 Kengo Harimoto"
+date = "1998-07-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013314.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013314.html)
+
+Dear Dr. Stern,
+
+Elliot Stern <emstern at NNI.COM> writes:
+
+> I hope that someone more experienced in the use of these software
+> components can offfer some advice. I suspect that part of the problem may
+> be that the Devanagari preprocessor for Macintosh is out of date for use
+> with DevanAgarI 1.5. If that is the case, is anyone working on an update of
+> this preprocessor? Also, is it possible that my text only, Velthuis scheme
+> encoded, LaTeX document has hidden formats or other hidden illegal
+> characters carried over from the Nisus document that are causing some of
+> the problems?
+
+Although I have not used OzTeX, Velthuis' Devanagari package, and my
+computer as a Mac for a long time, the problem could be in 1) the
+process of converting the document from Nisus document to LaTeX source
+file, 2) in the preprocessor.
+
+WRT 1): How did you convert the Nisus file to LaTeX source?
+
+WRT 2): If I remember correctly, the older preprocessor was not
+compatible with the current package.  If I still have a copy of
+CodeWarrior on my hard drive, I will try to compile the source on my
+Mac.
+
+I might suggest using Sanskrit package instead if the document
+contains no Hindi since the Sanskrit package has more options suited
+for Sanskrit texts.  I think there is a Mac build of the preprocessor
+for the Sanskrit package.
+
+On the side note, I have been wondering if anyone on the list is
+capable of converting C sources of Devanagari/Sanskrit preprocessor to
+perl script.  Since perl has been ported to almost every platform and
+its scripts requires no compiling, and it is designed to handle text
+files, it seems to me that having the preprocessor in perl scripts is
+better.  Modifying a C source code is a hassle for a non-programmer
+like me...
+
+--
+kengo
+
+
+

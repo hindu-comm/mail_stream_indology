@@ -1,0 +1,30 @@
++++
+title = "257 Sudalaimuthu Palaniappan"
+date = "1998-07-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013288.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013288.html)
+
+In a message dated 98-07-18 00:52:39 EDT, Palaniappa writes:
+
+<< Many thanks to Georg v.Simson for this suggestion. I explored this
+suggestion further using Pali-English Dictionary and Buddhist Suttas. The
+Dictionary says that the derivation and meaning are doubtful and refers to
+Buddhist Suttas (p.178-9) which has a long discussion about tittika and says
+"it is almost certain that the original word had nothing to do with tIrtha".
+Moreover, in the CT poem, tittikam is described as "fire-rising". So obviously
+it referred to a fire-place and not a path or crossing or a container and the
+probability of tittika being the source seemed low.  >>
+
+I should clarify something here. If tittika originally is not from tIrtha but
+from a word meaning a vessel, then one could connect it to the sacrificial
+altar in the following manner. If the raised altar has a crater-like hollow
+into which the fuel and oblations are placed, then that can be thought of as a
+vessel or bowl.
+
+Regards
+S. Palaniappan
+
+
+

@@ -1,0 +1,35 @@
++++
+title = "15 Johannes.Bronkhorst at orient.unil.ch"
+date = "1993-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-October/000718.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-October/000718.html)
+
+Extract from a recent advertisement:
+
+LA FACULTE DE THEOLOGIE DE L'UNIVERSITE DE LAUSANNE
+
+ouvre une inscription pour un poste de
+
+PROFESSEUR ORDINAIRE DE SCIENCE DES RELIGIONS
+
+.....
+Entree en fonction: 1er septembre 1995
+
+Pour des raisons de coordination inter-universitaire, le domaine de 
+specialisation du titulaire ne devrait pas etre l'Islam.
+.....
+Les dossiers de candidatures doivent parvenir avant le 15 decembre 1993 au 
+Doyen de la Faculte de theologie de l'Universite de Lausanne, BFSH 2,
+CH-1015 LAUSANNE.
+
+Un document plus complet quant a la description de la chaire et au cahier
+des charges peut etre obtenu aupres de la Faculte.
+
+				Le Doyen: Bernard REYMOND
+
+
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "22 elmar at philosophie.uni-tuebingen.de"
+date = "1997-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006855.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006855.html)
+
+Dear Indologist,
+
+since the field was just opened for AYURVEDIC topics:
+
+I am about to write a M.A. thesis on ayurvedic medicine. It's going to be a
+study on the usage of Sanskrit terms like
+     SAMYAK, UCITA, HITA, SAATMYA, SAAMARTHYA, PATHYA etc.
+in the Caraka Samhitaa. Even though it is not mentioned as a specific
+concept in the scriptures (as far as I know), I would suggest that these
+terms denote in one way or the other "APPROPRIATENESS". This appears to me
+as a basic concept in ayurvedic therapeutics, i.e. the choice of
+appropriate means after thoroughly examining the individual patient,
+constitution, surrounding, time etc. (rogii, prakrti, desha, kaala etc.)
+and their rational application (yukti) with regard to the right measurement
+(maatraa).
+
+In this context I would be very glad to receive some hints on publications,
+shlokas or similar concepts in other traditions (e.g. "aptum" in ancient
+european rhethoric; "sammaa" in buddhist eightfold path as a path of
+"mental therapy" etc.).
+
+Thank you very much for your help,
+
+Elmar Stapelfeldt (elmar at philosophie.uni-tuebingen.de)
+
+
+
+
+
+

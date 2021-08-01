@@ -1,0 +1,25 @@
++++
+title = "43 Anthony P Stone"
+date = "1997-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006877.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006877.html)
+
+I am searching for a particular paper on the so-called zodiac at
+Tiruchirapalli - which was known as Trichinopoly when E. Mollien published
+his paper in 1853.    Part of this diagram is a circle of 11 animals
+(representing the 11 kara.nas).   
+
+In the paper I remember seeing, the author was very struck by the fact that
+one of the 11 animals, the _Rat_, is also in the Asian cycle of 12 animals,
+so much so that he italicised 'Rat'.   This paper was in English, I'm sure,
+and came out not too many years ago.   
+
+I should be most grateful if anyone knows the reference.
+Thanks,
+Tony Stone
+
+
+
+

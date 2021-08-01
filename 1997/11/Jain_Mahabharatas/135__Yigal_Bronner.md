@@ -1,0 +1,25 @@
++++
+title = "135 Yigal Bronner"
+date = "1997-11-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009824.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009824.html)
+
+I am trying to gather information on Jain versions of the Mahabharata. I am
+looking for versions of the story (is there a Jain text that enjoys, in the
+Mahabharata domain, a status equal to that of the Paumacarita in the
+Ramayana tradition?) as well as secondary literature.
+Also, where is the theory about the sets of Baladevas, Vasudevas and
+prativasudevas (of which the last set--Balarama, Krishna and Jarasandha--
+form the heroes of Jain Mahabharatas) first textualized?
+I will greatly appreciate any help or reference.
+Yigal Bronner.
+
+Yigal Bronner
+Ph.D. candidate
+Department for South Asian languages and Civilizations
+University of Chicago.
+
+
+

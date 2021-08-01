@@ -1,0 +1,42 @@
++++
+title = "263 Michael Witzel"
+date = "1998-06-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012893.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012893.html)
+
+On Sat, 20 Jun 1998, Sudalaimuthu Palaniappan wrote:
+
+> With the right combination of socio-political factors, even a small group of
+> immigrants can effect major social changes.
+
+I could not agree more. - A good analysis (though not about S. Asia)
+is by Ehret:
+
+Chr. Ehret. Language change and the material correlates of language and
+ethnic shift. Antiquity 62, 1988, 564-74:
+
+Paraphrase:  ***Such processes have been explained, in general terms
+(mainly, extra-South Asian) by Ehret:  He stresses the relative ease with
+which both ethnicity and language shift in small societies, due to the
+cultural/economic/military choices made by a local population. An
+intruding/influencing community bringing new traits may initially be small
+and the features it contributes can be fewer in number than the features
+of the pre-existing local culture. The newly formed, combined ethnic group
+may then initiate a recurrent, expansionist process of ethnic and language
+shift. The material record of such shifts is visible in archaeology only
+insofar as new prestige equipment/animals (the "status kit", with
+intrusive vocabulary!) are concerned, especially if pottery -- normally
+culture-specific -- is continued to be made by local specialists of a
+class-based society. ***
+
+This description fits, as will be seen, the Indus/Vedic evidence
+perfectly.
+
+
+ ==========================================================================
+Michael Witzel                       witzel at fas.harvard.edu
+
+
+

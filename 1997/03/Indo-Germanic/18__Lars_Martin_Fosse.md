@@ -1,0 +1,41 @@
++++
+title = "18 Lars Martin Fosse"
+date = "1997-03-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007276.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007276.html)
+
+Erik Hoogcarspel wrote:
+>
+>It's still remarkable that someone invented the word "Indo-Germanic" and
+>nobody came up with "Indo-Dutch", "Indo-Irish" or "Indo-Italian". If it's a
+>nazi-word, then it shouldn't be used anymore. If not then it still is a sign
+>of blunt and naieve nationalism. And maybe some people could be tempted to
+>jump to conclusions. There have been quite a few German philosophers, like
+>f.i. Martin Heidegger, who really believed that the German people were "das
+>metafysische Volk" and the true heirs of ancient Greek civilisation. Some of
+>those have still followers today. I would rather not be forgiving about it,
+>better safe than sorry. Let's drop the word.
+
+I would agree that Indo-Romance is just as good a term as Indo-Germanic. The
+point is rather that Indo-Germanic has been round for some time. It is much
+older than the Nazi period, and as such not a Nazi term, although the Nazis
+probably liked it a lot. Regardless of the imaginings of Martin Heidegger,
+and the more or less bizarre nationalist ideas entertained not only by the
+Germans but by practically everybody else at the turn of the century, I
+still think that the term is not worth the trouble of a sincere discussion.
+At best, you will achieve that it becomes re-ideologized. Anyway, it is up
+to those people who actually use the term, that is, our German-speaking
+brethren, to decide what to do about it. We are all free to choose the term
+we want to use, and we should continue to have this freedom. 
+
+Anyway, I have had my say in this discussion. The rest of you may go on
+thrashing it out if you like! Best of luck!
+
+Lars Martin 
+
+
+
+
+

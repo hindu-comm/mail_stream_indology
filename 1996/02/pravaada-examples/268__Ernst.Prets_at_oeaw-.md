@@ -1,0 +1,34 @@
++++
+title = "268 Ernst.Prets at oeaw.ac.at"
+date = "1996-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004274.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004274.html)
+
+Does anybody by chance know examples of a pravaada in the meaning of the 
+following definitions found in the Yogaacaara-tradition:
+
+pravaada.h katama.h. yo lokaashraviko vaada.h. (Shrutamayiibhuumi)
+What is pravaada (?popular belief)? It is a statement which is well known 
+in the world /among people.
+
+rmad khyer ba smra ba ni ´jig rten na grags pa´o. (Abhidharmasamuccaya-tib.)
+(*pravaado loke prasiddha.h)
+pravaada is well known in the world /among people.
+pravaado lokaanushruto vaada.h, lokaj~naanapravaadata.h. 
+(Sanskrit-reconstruction of the  editor of AS)
+
+prakaarasho loke vaada.h pravaada.h. (ASBh)
+
+
+Ernst Prets
+Institut für Kultur- und Geistesgeschichte Asiens
+Österreichische Akademie der Wissenschaften
+Postgasse 7/4/3
+A-1010 Wien
+
+
+
+
+

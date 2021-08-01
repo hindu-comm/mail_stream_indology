@@ -1,0 +1,26 @@
++++
+title = "34 John Richards"
+date = "1997-01-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006674.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006674.html)
+
+Has anyone any idea where the idea of the three wise monkeys, see no
+evil, hear no evil, speak no evil, comes from?
+
+It would seem pretty certainly Eastern - but whether Indian or Chinese
+I would be hard put to guess.
+
+John
+
+-- 
+John Richards
+Stackpole Elidor (UK)
+jhr at elidor.demon.co.uk
+Home Page http://www.elidor.demon.co.uk
+
+
+
+
+

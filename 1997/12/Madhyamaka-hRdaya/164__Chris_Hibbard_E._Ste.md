@@ -1,0 +1,24 @@
++++
+title = "164 Chris Hibbard/E. Stern"
+date = "1997-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010219.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010219.html)
+
+Correction to reference:
+
+Chr. Lindtner, Bhavya's MadhyamakahRdaya / (Pariccheda Five) /
+YogAcAratattvaviniZcayAvatAra. The Adyar Library Bulletin volume 59 (1995),
+pages. 37-65.
+
+I intended to type volume 59, but reversed the digits. Sorry.
+
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+USA
+
+
+

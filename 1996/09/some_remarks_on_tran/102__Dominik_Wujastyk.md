@@ -1,0 +1,31 @@
++++
+title = "102 Dominik Wujastyk"
+date = "1996-09-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-September/005800.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-September/005800.html)
+
+In a different context, I was recently asked to write something about
+Devanagari transliteration.  Since a discussion on this has been quite
+active here, I am making a rough version of my piece available via the
+INDOLOGY page.  See the INDOLOGY section on "INDOLOGY member's queries and
+information".  I'm afraid that none of the special characters or tables
+have converted to HTML, and it would take more work than I am prepared to
+do to get this working.  So what you see is just a rough collection of
+notes.  Please fill in the gaps with your imagination!
+
+Best wishes,
+Dominik
+
+
+--
+Dominik Wujastyk               Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+
+
+
+
+
+

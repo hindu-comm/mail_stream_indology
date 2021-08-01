@@ -1,0 +1,28 @@
++++
+title = "18 Andras Micsik"
+date = "1994-08-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-August/001147.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-August/001147.html)
+
+I would like your help in the following: I have downloaded the  
+astadhyayi.zip file from ftp.bcc.ac.uk. Inside there is one TeX file,  
+stating to be Panini's Sutrapatha. I have tried to TeX it, but there  
+were strange results. The text contained letters like T,C,K,  
+French-like accents, and other unknown characters, e.g. two short  
+horizontal parallel lines. I am beginner with Sanskrit, but this text  
+seems to be corrupted. So could you tell me:
+
+1. What is Sutrapatha? I know only Astadhyayi from Panini. And why are  
+the names different outside and inside?
+
+2. How can I reproduce the text? Do I need some special font or utility  
+to replace uppercase characters and other strange effects?
+
+					Andras Micsik
+
+
+
+
+

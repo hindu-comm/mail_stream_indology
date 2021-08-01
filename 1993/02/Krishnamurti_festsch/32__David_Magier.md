@@ -1,0 +1,44 @@
++++
+title = "32 David Magier"
+date = "1993-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-February/000447.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-February/000447.html)
+
+> Could anyone provide me with a complete citation for a linguistic
+> festschrift for Bh. Krishnamurti which appeared a year or so ago.
+> Thanks
+> Mimi Klaiman
+
+Here's the bibliographic record, lifted from RLIN (Research Libraries
+Information Network):
+
+Studies in Dravidian and general linguistics : a festschrift for Bh.
+   Krishnamurti / editors, B. Lakshmi Bai, B. Ramakrishna Reddy. --
+   Hyderabad, India : Centre of Advanced Study in Linguistics, Osmania
+   University, 1991.
+  xix, 530 p., [1] leaf of plates : ill. ; 25 cm. -- (Osmania University
+ publications in linguistics ; 6)
+
+  Festschrift honoring Bhadriraju Krishnamurti, b. 1928, linguist.
+  Includes bibliographical references.
+  Rs350.00 ($50.00 U.S.)
+
+  LCCN: 92902272
+  L.C. CALL NO: PL4601.S73 1991
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+    ____________________________       304 International Affairs
+  ///    -- David Magier --    \\\     Columbia University
+ |||     Head, AREA STUDIES     |||    New York, N.Y. 10027
+ |||  S&SE Asia, Latin America, |||    (212) 854-8046 / FAX: 212 854-2495
+  \\\ Mid-East, Slavic, Africa ///
+    ---------------------------        magier at columbia.edu
+
+
+
+
+

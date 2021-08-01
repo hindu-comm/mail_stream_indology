@@ -1,0 +1,36 @@
++++
+title = "107 jdwhite at unccvm.uncc.edu"
+date = "1995-05-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002497.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002497.html)
+
+I shall be in india later this summer to photograph some Sanskrit
+manuscripts (with GOI permission).  Though several archival libraries have
+responded over the past six months to my request to be allowed to photograph
+these manuscripts, I have had no response from others.  If anyone on the
+list knows of a particular contact for the following repositories, please
+let me know at my email address above.
+
+University of Madras Oriental Manuscript Library
+
+Asiatic Society of Bombay
+
+Scindia Oriental Institute, Ujjain
+
+Sajjan Vani Vilas Library, Udaipur
+
+I also would like to photograph some manuscripts which V. Raghavan's
+catalogue says are in the Department of Archaeology at Jodhpur.  As I have
+had no response from the Department of Archaeology, it is possible that
+their manuscripts are now in another repository.  Does anyone have any
+experience with these manuscripts?
+
+Thanks!
+
+
+
+
+
+

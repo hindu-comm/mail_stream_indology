@@ -1,0 +1,26 @@
++++
+title = "83 Loriliai Biernacki"
+date = "1995-07-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002797.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002797.html)
+
+Dear Professor Coburn,
+
+   I met you when you came to Penn and gave your talk "Sita fights while 
+Rama Swoons" (We both did our undergraduate at Princeton)-- I remember that 
+you mentioned that you're a friend of Madhu Kishwar's.  I'm trying to get a 
+subscription to Manushi, however, the address I wrote to in New York has 
+neither responded to my letter nor cashed the check for the subscription 
+which I sent them.  Do you have any clues about how to do this? maybe 
+another address?
+
+Thanks very much,
+
+Loriliai Biernacki
+
+
+
+
+

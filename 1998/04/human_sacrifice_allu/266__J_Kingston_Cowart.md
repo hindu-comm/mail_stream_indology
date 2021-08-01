@@ -1,0 +1,30 @@
++++
+title = "266 J Kingston Cowart"
+date = "1998-04-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011869.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011869.html)
+
+The instances of human sacrifice brought forward from the Hebrew
+scriptures by Mary Storm are not rituals per se, but are isolated
+instances.  Jephthah's case, in particular, may be read as a lesson
+against hubris and manipulation of the deity, although it shows that
+human sacrifice was a cultural element--at least to some extent.
+
+With respect to Dr. Fosse's suggestion that Christianity was initiated
+in an act of human sacrifice, one might argue that a) this, too, was a
+singular event impossible of repetition, b) that it was not a ritual, and
+c) that from an internal theological/Christological perspective, it was
+an act of God's sacrificing himself.
+
+Naturally, these observations on the feature of human sacrifice ought
+not to be taken as value judgements regarding the inherent worth of
+either Hinduism or Christianity.
+
+J. Kingston Cowart
+San Diego, California
+<jkcowart at io-online.com>
+
+
+

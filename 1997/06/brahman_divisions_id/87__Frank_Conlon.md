@@ -1,0 +1,37 @@
++++
+title = "87 Frank Conlon"
+date = "1997-06-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008419.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008419.html)
+
+S. Krishna asks if I was referring to the dubious authenticity of the
+Sahyadri Khanda of the Skanda Purana.  I was.
+
+Peter Claus very perceptively notes the problem of "historical evidence";
+and I agree that it is always involving deduction from bits and pieces.
+The presence or absence of certain gotras, of certain kuladevatas, and the
+like offer some light on the on-going process of social fission and
+fusion.  Even affiliations with certain guru-paramparas appear to have
+altered over time.  As Burt Stein once observed, however, it seems to be
+in noone's interest to effectively document change in a system whose
+ideological foundation is changelessness.
+
+On the other hand, I have to appeal to my Sanskritist colleagues for a
+view of the Skanda Purana and its various associated texts.  My untutored
+sense is that like Skanda himself, the purana is one of many different
+faces.   Whatever else one may draw fromthe existence of the Sahyadri
+Khanda, it must be comforting to know that its composers were hard at the
+task well in advance of the colonial ethnographers who have been endowed
+with such agency in "inventing" caste by some recent scholars
+
+
+Frank Conlon
+University of Washington
+
+
+
+
+
+

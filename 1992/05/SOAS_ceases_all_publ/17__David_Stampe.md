@@ -1,0 +1,31 @@
++++
+title = "17 David Stampe"
+date = "1992-05-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-May/000248.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-May/000248.html)
+
+Status: RO
+
+I already took the liberty of forwarding to LINGUIST the letter that
+Dominik forwarded to INDOLOGY, upon its arrival yesterday.  But after
+reflecting on the director's letter, I think it suggests that ceasing
+to publish BSOAS is as important as the loss of the linguistics
+department (!), and I would hope he might be asked for another draft.
+His letter should list the current membership of the department: it is
+through the work of its individual scholars that the department's work
+is known, and that is more likely to elicit effective letters against
+closing the department.
+
+If such a letter can be obtained, it should be forwarded to LINGUIST
+(LINGUIST at TAMVM1 or linguist at tamvm1.tamu.edu), and also to HUMANIST
+(HUMANIST at BROWNVM.BITNET), and other mailing lists, and also posted
+to the many appropriate Usenet groups.  I'd be glad to help do that.
+
+David Stampe <stampe at uhunix.uhcc.hawaii.edu>, <stampe at uhunix.bitnet>
+Dept. of Linguistics, Univ. of Hawaii/Manoa, Honolulu HI 96822
+
+
+
+

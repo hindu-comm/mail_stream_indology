@@ -1,0 +1,28 @@
++++
+title = "57 Alan Sponberg"
+date = "1994-09-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001249.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001249.html)
+
+
+Could you provide a reference to Samuels "Civilized Shamans"?
+
+Thanks,  Alan Sponberg
+
+
+
+*************************************
+Alan Sponberg, Professor of Asian Philosophy and Religion
+Asian Studies Program, Arts & Sciences Bldg.
+University of Montana, Missoula, MT 59812
+E-mail: sponberg at selway.umt.edu
+Ph: (406) 243-2803     FAX: (406) 243-4076
+
+
+
+
+
+
+

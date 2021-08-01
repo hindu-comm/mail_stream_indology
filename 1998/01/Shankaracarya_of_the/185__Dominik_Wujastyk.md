@@ -1,0 +1,33 @@
++++
+title = "185 Dominik Wujastyk"
+date = "1998-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010410.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010410.html)
+
+I may be out of date, but I believe there are two acaryas who claim to
+hold the Northern Sankara gadi:
+
+The first lineage goes Brahmanandasarasvati -> Santanandasarasvati ->
+Visnudevanandasarasvati.
+
+The other one goes Santanandasarasvati -> Svarupanandasarasvati.
+
+Svarupananda is simultaneously (or was for some time) the incumbent of the
+western gadi in Dwaraka.
+
+There is much more detail to this than the simple lineages above would
+suggest.  Perhaps someone else who is more up to date than me would like
+to elaborate?
+
+All the best,
+Dominik
+
+--
+Dr Dominik Wujastyk        Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk      183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                FAX: 44 171 611 8545
+
+
+

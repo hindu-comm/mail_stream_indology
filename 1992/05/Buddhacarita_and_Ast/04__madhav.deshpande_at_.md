@@ -1,0 +1,23 @@
++++
+title = "04 madhav.deshpande at EDU.UMICH.CC.UM"
+date = "1992-05-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-May/000251.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-May/000251.html)
+
+Status: RO
+
+Dear Dominik,
+        I got both the parts of the UUencoded Panini file, I joined
+those into a single file and tried to run the UUdecode program
+available to me on the University of Michigan system.  Alas! the
+decode program comes back with the dreadful message "No begin line."
+With the help of my colleagues I have tried several alternatives and
+still I cannot UUdecode these files.  Is there a way of sending the
+unencoded and unzipped Panini files?
+        Madhav Deshpande
+
+
+
+

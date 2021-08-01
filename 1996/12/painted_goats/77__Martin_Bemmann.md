@@ -1,0 +1,28 @@
++++
+title = "77 Martin Bemmann"
+date = "1996-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006388.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006388.html)
+
+Can somebody provide me with more information and/or reference on the
+custom of painting the goat's fur before sacrifice? It seems to be use
+in Nepal, and somewhere else??
+For an example view http://www.webart.com/asianart/mustang/goats.html
+-- 
+martin bemmann
+
+Heidelberger Akademie der Wissenschaften
+Felsbilder und Inschriften am Karakorum Highway
+Karlstrasse 4
+Postfach 102769
+D-69017 Heidelberg
+
+phone ++49-6221-543276
+fax   ++49-6221-543355
+e-mail martin.bemmann at urz.uni-heidelberg.de
+
+
+
+

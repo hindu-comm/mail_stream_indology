@@ -1,0 +1,53 @@
++++
+title = "440 Yaroslav V. Vassilkov"
+date = "1998-12-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014753.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014753.html)
+
+On Mon, 21 Dec 1998, N. Ganesan wrote:
+
+>> It is of note that
+>> When Hanuman meets Ravana in his court, he talks to
+>> Ravana in vaTamozi (Northern language) whereas
+>> when Hanuman meets Seethai in the forest of Asoka trees
+>> he comforts her in chaste Tamil to tell the news
+>> that Rama will come soon to rescue her.
+
+And on 22 Dec Samar Abbas commented on this:
+> Hanuman is thought by some to have been originally a Dravidian monkey-god
+>who was later incorporated into the Aryan pantheon. So it is only natural
+>to expect him to have originally spoken Tamil. Older Dravidian versions
+>of the Ramayana are more likely to have preserved this feature.
+>Sanskritization came later, and there is no contradiction.
+
+        The situation from Kamban's RAmAyaNa, described by N.Ganesan, does
+not give any ground for such generalization. Hanuman speaks with Seethai in
+the forest of Asoka trees just because SHE IS A WOMAN, and the antaHpura is
+not a place to speak Sanskrit! In the Mbh there is a story of Indra's
+attempt to seduce RucI, wife of a RSi. To prevent it, the RSi's pupil Vipula
+leaves his own body and keeps guard inside the body of RucI. When Indra
+gallantly addresses the beauty, Vipula answers him in her voice. Indra is
+greatly astonished to hear correct Sanskrit speech from a woman (even the
+wife of a great Brahmin sage)! He immediately understands that some other
+person speaks through her mouth.
+        Best regards,
+                                Ya.V.
+______________________________
+
+Yaroslav V.Vassilkov, Ph.D.
+Department of South and SE Asian Studies
+Institute of Oriental Studies
+Dvortsovaya nab., 18,
+St Petersburg, 191186,
+Russia
+
+Home address: Fontanka, 2,
+kv. 617, St Petersburg,
+191187, Russia
+tel. +7 (812) 275 8179
+e-mail: yavass at YV1041.spb.edu
+
+
+

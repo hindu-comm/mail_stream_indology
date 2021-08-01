@@ -1,0 +1,66 @@
++++
+title = "05 jgoda at f47serv.mitre.org"
+date = "1993-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-August/000624.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-August/000624.html)
+
+> 
+> Please keep this sort of thing (i.e. advertisements for fast food chains,
+> etc.)out of our news group. Thanks.
+>  
+> 
+> 
+Why?????  I happen to be one who benifited from such an advertisement!  
+I don't think it was an advertisement for a fast food chain, bur rather
+support for those of us who choose to eat with a conscience.  Vegetarianism
+happens to be a big part of India, and hense does belong in this discussion
+group. 
+
+Jignesh Goda, 
+jgoda at vtssi.vt.edu
+
+
+
+
+> From mehta at kc235-2.mgmt.purdue.edu 5 1993 Aug U 14:35:51
+Date: 5 Aug 1993 14:35:51 U
+From: "Mehta, Shailendra" <mehta at kc235-2.mgmt.purdue.edu>
+Subject: RE: Vegie Burger
+
+I heartily support the move.
+
+Shailendra Raj Mehta
+_______________________________________________________________________________
+
+
+Subject: Vote YES on BKVeggie Burgers!#
+>    Date: 7/29/93 1:17 PM#
+>#
+>    CALL 1-800-YES-1-800 AND URGE BURGER KING TO SELL VEGETARIAN BURGERS#
+>#
+>    Burger King has introduced a vegetarian burger at its Watkins Glen,#
+>    New York restaurant.  The burger has been very popular and Burgur King#
+>    will expand it, IF enough people want it.  Burger King is now#
+     compiling final statistics on the public's response through its toll#
+>    free comsumer number (listed above.)#
+>#
+>    Burger King is basing their decision on the '800' number consumer#
+>    calls and THEY HAVE NOT RECEIVED AS MANY SUPPORTIVE CALLS AS EXPECTED.#
+>    Your calls now could make all the difference!!!!!!!!!!!#
+>#
+>    Call Burger King today!!  And urge everyone you know to do the same.#
+>    Thank them for introducing the vegetarian burger and tell them that#
+>    you would purchase this product if it were made available in you area.#
+>    Ask them to expand the vegetarian burger to other Burger Kings.  Now#
+>    is YOUR chance to see Burger King become the "Vegetarian Burger#
+>    King"!!!!!!!!!#
+>#
+>    CALL 1-800-YES-1-800#
+
+
+
+
+
+

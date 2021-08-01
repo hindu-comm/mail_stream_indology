@@ -1,0 +1,20 @@
++++
+title = "31 jonathan.silk at wmich.edu"
+date = "1996-05-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005060.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005060.html)
+
+Well, we do know some things clearly, but that there was a Ramagupta of the
+Gupta dynasty, much less that he was killed by his successor, we do NOT know. 
+If I ever get around to finishing it I have written a piece on the
+historiography of the ramagupta legend, which shows well the influences of
+ideology on the study of history.  What is history and what is legend is, in
+this case especially, very hard to distingish.
+
+Cheers, jonathan
+
+
+
+

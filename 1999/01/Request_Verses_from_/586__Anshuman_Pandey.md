@@ -1,0 +1,27 @@
++++
+title = "586 Anshuman Pandey"
+date = "1999-01-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015522.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015522.html)
+
+Hello members,
+
+Would any of you have access to a published edition of the Jaiminiya
+Samhita of the Samaveda? If so, would you be willing to email me the last
+two suktas of the text (suktas 4.29 and 4.30)? I suppose transliteration
+would be the best way. Encoding of your choice!
+
+Dr. Raghu Vira published the first edition (?) of this samhita under the
+title "The Samaveda of the Jaiminiyas" in Lahore, India, 1935 (I believe).
+Our libraries here do not carry this title, or any other copy of the
+Jaiminiya Samhita.
+
+Thank you ver much!
+
+Regards,
+Anshuman Pandey
+
+
+

@@ -1,0 +1,35 @@
++++
+title = "38 Sfauthor at aol.com"
+date = "1996-11-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006077.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006077.html)
+
+This isn't indological, but since everyone was having so much fun with dirty
+words, I thought I would pass it along.
+
+
+
+HUMOROUS WEB SITE:  Random Elizabethan Curse Generator
+
+http://www.tower.org/disease/insult.html
+
+"Oh, thou infectious bunched-backed canker-blossom!"
+Press the "Curse!" button to be randomly cursed in grand Elizabethan 
+style. Revel in insults that may have been spoken by Shakespeare or Ben 
+Jonson!  Relive a bit of history!  Annoy your friends!  There are more 
+than 388000 curses possible! 
+
+Examples:  
+  Thou lumpish evil-eyed minimus! 
+  Thou spleeny onion-eyed strumpet! 
+  Thou gleeking motley-minded puttock! 
+  Thou froward clapper-clawed ratsbane! 
+  Thou wenching rump-fed ruffian! 
+  Thou wanton shard-borne bugbear! 
+
+
+
+
+

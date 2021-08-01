@@ -1,0 +1,45 @@
++++
+title = "110 Manisha Singal"
+date = "1995-07-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002820.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002820.html)
+
+
+On 7/20/95 +0600, Jim Hartzell wrote:
+>
+>Could someone provide me with the name, address, (phone and fax if
+>you have it) and distributor (ideally) of the
+>COMPACT edition of Monier-Williams' Sanskrit-English Dictionary?
+>Thanks in advance
+>Jim Hartzell
+
+Monier Williams' Sanskrit English dictionary is also published in India.  It
+is available as an Ordinary edition and as a Deluxe edition, 1333 pages.
+The ordinary edition is $25 including airmail postage from India and the
+Deluxe edition is $40 including air postage.  Delivery will be in about 4
+weeks from payment (check or credit card - US funds only).
+
+We can supply any books published in India and many Indian and American
+magazines.  Please visit us on the Internet.
+
+Manisha
+Navrang Inc.,  Post Box 10056, 
+Blacksburg, VA 24062-0056.
+e-mail: navrang at bev.net, phone: (540) 961-2003
+fax:     (540) 961-4007
+
+INDIAN MAGAZINES AND BOOKS - any Indian publications
+REGIONAL MAGAZINES - in many Indian languages
+US BOOKS FOR CHILDREN - 50% off published prices
+AMERICAN MAGAZINES - at prices you won't believe
+
+WWW at http://www.catalog.com/navrang
+
+
+
+
+
+
+

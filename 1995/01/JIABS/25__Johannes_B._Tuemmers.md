@@ -1,0 +1,30 @@
++++
+title = "25 Johannes B. Tuemmers"
+date = "1995-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-January/001737.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-January/001737.html)
+
+Dear members of the list,
+
+I recently tried to contact the Journal of the International 
+Association for Buddhist Studies (JIABS) for subscribtion, but got no reply
+so far. Does anybody receive this journal and can tell me the
+full address or person in charge, the way to subscribe and pay this
+journal?
+
+
+-Johannes B. Tuemmers-
+------------------------------------------------------------------------------
+Institute of Indology and Tamil Studies, Pohligstr.1, 50969 Koeln, Germany
+Tel 0221/4705345 Fax 0221/4705151 email ami0209 at rrz.uni-koeln.de
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+

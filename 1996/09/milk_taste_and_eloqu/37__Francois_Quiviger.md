@@ -1,0 +1,33 @@
++++
+title = "37 Francois Quiviger"
+date = "1996-09-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-September/005748.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-September/005748.html)
+
+
+
+On Tue, 10 Sep 1996 witzel at husc3.harvard.edu wrote:
+
+> 
+> closer to home:  what about Herakles and Hera/ Milky Way?
+> 
+> M.W.
+
+Yes, but with Herakles we are in mythology rather than in hagiography or
+history. Furthermore, in this tale, milk is not granted as a reward from a
+God to a mortal, as in Saint Bernard's case, but from a god to a semi-god.
+In fact Hera had been tricked by Hermes, and when she discovered whom she
+was nursing, she pulled Herakles of her breast (the Milky Way was formed
+from the excess milk that spurted out>. 
+
+	In any case, many thanks for the suggestion.
+
+						F.Q. 
+
+
+
+
+
+

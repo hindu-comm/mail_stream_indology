@@ -1,0 +1,32 @@
++++
+title = "481 JR Gardner"
+date = "1998-02-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/011116.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/011116.html)
+
+Could anyone with a copy of the KS possibly help me be sure of the
+following passage which is blurred in the copy I have of the
+Svaadhyaaya-MaNDala edition (1983), page 139, KS 14.6, second line (6th
+line on the page)--asterisks/*** mark the unsure bit:
+
+ . . . . . paapmopazliSTo ***yadyatiSa^NgaM*** grahaan gRhNaatya^Ngaad
+[end of 6th line]....
+
+Many kind thanks in advance
+
+jrg
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Robert Gardner      Obermann Center
+School of Religion         for Advanced Studies
+University of Iowa       University of Iowa
+319-335-2164             319-335-4034
+http://vedavid.org       http://www.uiowa.edu/~obermann/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+It is ludicrous to consider language as anything other
+than that of which it is the transformation.
+
+
+

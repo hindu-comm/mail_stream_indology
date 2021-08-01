@@ -1,0 +1,37 @@
++++
+title = "162 Dominik Wujastyk"
+date = "1998-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010762.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010762.html)
+
+On Sun, 8 Feb 1998, Robert J. Zydenbos wrote:
+
+> Tamil: earliest dated inscription 270 CE
+> Kannada: earliest inscription ca. 450 CE
+> Telugu: earliest inscription 633 CE
+> Malayalam will be later.
+
+This is very interesting, but does not speak to the history of the
+languages so much as to the history of writing.
+
+If we were to try to draw conclusions, for example, about the antiquity of
+the Sanskrit language from epigraphical data, we would fall into the
+extraordinarily contorted intellectual position adopted by Nirad Choudhuri
+in his book on Hinduism: he claimed that Prakrit preceeded Sanskrit
+chronologically (because Prakrit inscriptions are older than Sanskrit
+ones) and then used that old chestnut "the Brahmin conspiracy"  to account
+for the creation of the "myth" of Sanskrit as an ancient language. It's
+great fun, but complete nonsense, of course.
+
+All the best,
+Dominik
+
+--
+Dr Dominik Wujastyk        Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk      183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                FAX: 44 171 611 8545
+
+
+

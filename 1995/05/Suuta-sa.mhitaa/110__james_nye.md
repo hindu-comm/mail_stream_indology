@@ -1,0 +1,41 @@
++++
+title = "110 james nye"
+date = "1995-05-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002509.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002509.html)
+
+Ashok Aklujkar wrote:
+> There is a very expertly produced edition of  Suuta-sa.mhitaa in my
+> personal collection. .... From the last
+> page, that is, p. 1066 (yes, the text is that extensive), it is evident
+> that the edition was printed at  'Srii-baala-manoramaa Press, Mailaapuur,
+> Madras. ....
+
+This edition is available from the University of Chicago and Harvard.
+The OCLC cataloging record follows.
+James Nye
+
+---------------------------------------------------------------------
+
+    TITLE: Srimatsutasamhita : Tatparyadipikasahita.
+    PLACE: Mylapore, Madras :
+PUBLISHER: Sri Balamanorama Press,
+     YEAR: 1932     
+ PUB TYPE: Book
+   FORMAT: 8, 1066 p. ; 22 cm.
+   SERIES: Sri Balamanorama series ; no. 19.
+    NOTES: In Sanskrit.
+           Consists of Sivamahatmyakhanda, Jnanayogakhanda, Muktikhanda and 
+           Yajnavaibhavakhanda.
+           Microfilm. Cambridge, Mass. : Harvard University Library 
+           Microreproduction Service, 1990. 1 microfilm reel : negative ; 35 
+           mm.
+ALT TITLE: Puranas. Skandapurana. Sutasamhita.
+    OTHER: Madhava, d. 1386. Sutasamhitatatparyadipika.
+
+
+
+
+

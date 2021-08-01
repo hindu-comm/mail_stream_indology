@@ -1,0 +1,31 @@
++++
+title = "78 nas_ng at lms420.jsc.nasa.gov"
+date = "1996-10-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005944.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005944.html)
+
+
+        Q: Neelakanta Bhaashyam
+       *************************
+
+I want to know of any Western language articles/books on
+Neelakantha Sivacharyar's bhaashyam on brahmasutram.
+This is a Saiva Siddhanta work. May be the references will 
+deal with the differences when compared to Sankara's advaita philosophy.
+Has the French institute of indology, Pondichery brought out
+any books?
+
+Kasivasi Senthinathaiyar in 1907 published a tamil translation
+for Neelakanta bhaasyam.
+
+Any references welcome.
+Thanks,
+N. Ganesan
+nas_ng at lms420.jsc.nasa.gov
+
+
+
+
+

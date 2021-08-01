@@ -1,0 +1,4 @@
++++
+title = "MAGIC SQUARES"
+
++++

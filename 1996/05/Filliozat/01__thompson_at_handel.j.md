@@ -1,0 +1,28 @@
++++
+title = "01 thompson at handel.jlc.net"
+date = "1996-05-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/004856.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/004856.html)
+
+Things being rather quiet on this list, I have been roaming, and have come
+across another group discussing Lefkowitz's new book "Not Out of Africa",
+which attacks, from a classicist's point of view, Afrocentric claims about
+the sources of Greek culture. Very wild and very reckless discussions go on
+there, mostly not very interesting or informative.  But it occurred to me
+that there is a new angle that may be of interest not only to classicists
+and africanists, but to indologists as well.  Unfortunately, I don't
+remember specific references, but I recall that Filliozat a long time ago
+made suggestions re the influence of Hindu [upaniSadic] sources on the
+likes of Plato, et al.  Does anyone on this list have references to
+Filliozat's claims?  And, just as important, does anyone know how
+classicists have responded to such claims, if at all?
+Sincerely,
+George Thompson
+
+
+
+
+
+

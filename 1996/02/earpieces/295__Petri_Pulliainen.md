@@ -1,0 +1,45 @@
++++
+title = "295 Petri Pulliainen"
+date = "1996-02-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004301.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004301.html)
+
+
+
+
+Petri Pulliainen					ENQUIRY
+Vapaudenkatu 15 B 39					1996-02-27
+15140 Lahti
+home +358 18 7528 582
+work  +358 40 511 2986
+E-mail ppulliai at ameba.lpt.fi
+
+
+
+
+	I`m 26 year old graduating student from Lahti Institute of Design,
+	Goldsmithing and Jewellery Design Department. For graduating
+	I`m doing a research of male earpieces and existence in different
+	cultures. I`d need as much information as possible about, how
+	those were related into ones social statue, and were there any 
+	particular group of men who did wear those? I`m searching any-
+	kind of information, it don`t have to be related to your culture, 
+	cause research area is from 5000 B.C >>>>>> 1996 A.D.  Pictoral 
+	evidence would be very precious to me. Already thankful for
+	your help!!!!!!!!!!!
+	P.S. also names of books and writers helps and www paths too !
+
+
+
+
+						Yours humble student
+
+						Petri Pulliainen 
+
+
+
+
+
+

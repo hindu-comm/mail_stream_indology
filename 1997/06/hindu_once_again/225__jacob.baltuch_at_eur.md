@@ -1,0 +1,54 @@
++++
+title = "225 jacob.baltuch at euronet.be"
+date = "1997-06-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008609.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008609.html)
+
+>On Sun, 15 Jun 1997, Jacob Baltuch wrote:
+>
+>> In the same vein, can anyone explain the Hebrew name of India, "hodu"?
+>> (That's the modern pronunciation. Originally it should be "hoddu" or "hodhu",
+>> I don't remember which but I suspect it should be the latter; it can be found
+>> in the Bible, in the first verse of the Book of Esther, for example)
+>
+>Klaus Karttunen has pointed out that the assimilation of _nd_ to _dd_ is
+>not unusual in Hebrew. This however does not explain how the vowel became
+>_o_.
+>The following is my own off-the-wall speculation: perhaps "hindu" was
+>taken into Hebrew through the medium of an alphabet in which the symbols
+>for "n" and "w" are hard to distinguish?
+
+No, that's impossible. Klaus Karttunen said it was (contrary to what I
+had tought because of the apparently long o) "hoddu". In which case the
+*n* must have functioned there *after* the pronunciation of the vowel
+became o, hence the confusion between n and w can't be the source of
+the o sound. (Your conjecture would be compatible with a "hodhu"
+pronunciation).
+
+>They are similar enough in
+>modern Hebrew writing, and in the Pahlavi script used for Middle Persian
+>they are identical. The "i" being short would not have been written at
+>all.
+
+That's not an absolute rule like say in Arabic. Sometimes you see short i
+written with a so called "mater lectionis". Furthermore the "mater lectionis"
+y is also used for long e, which is precisely the Aramaic pronunciation.
+
+I think the most likely is that there was a confusion between w and the y
+of the Aramaic spelling.
+
+I think I've seen other cases like that although I couldn't give you examples
+on the spot.
+
+>So something looking like "hnd" or "hndw" could have been misread as
+>"hwd" or "hwdw" - which would give the form written in the Book of Esther.
+>Like I say, this is pure speculation; it is based only on
+>my having seen even weirder things happen with scripts like the Pahlavi.
+
+
+
+
+
+

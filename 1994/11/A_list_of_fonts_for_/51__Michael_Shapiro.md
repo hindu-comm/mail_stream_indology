@@ -1,0 +1,43 @@
++++
+title = "51 Michael Shapiro"
+date = "1994-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001548.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001548.html)
+
+Keep up the good work.  You're providing an important service.
+--Mike
+
+On Tue, 8 Nov 1994, Frances Pritchett wrote:
+
+> Dear friends and colleagues,
+> 
+> There are so many queries about fonts that it will obviously be a 
+> convenience to have a list of them in a single place.  We at Columbia are 
+> ready to offer our South Asia Gopher to be such a place.  Since so 
+> far nobody truly competent has volunteered to maintain such a list, I'm 
+> willing to give it a go despite my amateurishness.  I've pulled 
+> together a draft list consisting of all the material I've seen on this 
+> network and elsewhere.  I've sent around copies already to everybody 
+> whose material appears on the list.  Soon I'll be sending around a final 
+> draft to the Indology network, before placing the list within the ILM 
+> (Inventory of Language Materials) section of the Gopher.
+> 
+> Does anybody want to suggest any materials I might have missed?  Do you 
+> yourself have any font materials of your own that are available to the 
+> public?  If you haven't yet received an email copy of the draft list, 
+> then your own materials are probably not on the list.  Why not send me 
+> full info?  That way I can include your materials in the final draft that 
+> will be sent around once to everybody before being incorporated into 
+> ILM.  After that, of course, updates will still be welcome.
+> 
+> Thanks in advance for all suggestions,
+> Fran Pritchett
+>  
+> 
+
+
+
+
+

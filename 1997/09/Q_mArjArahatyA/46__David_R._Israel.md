@@ -1,0 +1,66 @@
++++
+title = "46 David R. Israel"
+date = "1997-09-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009143.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009143.html)
+
+Regarding Bob Hueckstedt's question --
+
+> In a short story that is used by many of us Hindi teachers in the
+> intermediate level, "PrAya"scit" by Bhagavati Charan Varma, a cat is
+> apparently killed near the beginning of the story. The pandit, who
+> is fat and obviously trying to milk this one for all it's worth,
+> tells the guilty family that the killing of a cat is as bad as
+> brahminicide. Did he, or the Hindi author, just make that up? Is
+> there a source for that in nIti"sAstra or dharma"sAstra somewhere? 
+
+this veers far afield from said sAstra literature, and probably even 
+from Indology (unless someone might be able to fill in possible 
+Indic Buddhological lines that connect w/ this dot) -- but this query 
+immediately brought to mind a charming book that merits passing 
+mention.  It's a children's storybook, *The Cat That Went To Heaven* 
+(published, I'd guess, in the 1970s or so in the U.S.) -- I forget 
+the author's name.  The tale has a Japanese setting, involving a 
+temple-commissioned painted depiction of Gautama Buddha, to be  
+surrounded (somewhat St. Francis-like) by a gathering of animals.  
+The scene in question is to represent a moment prior to the 
+Paranirvana, when (evidently according to certain tales) the Buddha 
+bid a fond farewell -- or presented blessings / teachings -- to a 
+wide Noah-boat-gathered-ish variety of sentient species.
+
+The painter is sternly advised that a cat is not to be included (for 
+reasons that, alas, escape memory).  The painter, in preparation for 
+executing the painting, contemplates the sweep of the traditional 
+life of the Sakyamuni -- and his household cat likewise participates 
+in this several-day meditation.  As one might anticipate, a miracle 
+occurs, evidently on behalf of the cat (whose devotion was a theme of 
+the little tale), suggesting that this late cat managed to attract 
+blessings to the feline brood after all.
+
+I've no idea what relationship this storybook may have with 
+traditional Japanese (or antecedent) Buddhist sources, but shouldn't 
+be surprised if there were some olden bases to it.  On the face of 
+it, it seems to suggest (possibly) ideas somewhat antithetical to the 
+assertion of the money-grubbing Pandit of your tale -- which in 
+might be in keeping with that story's sense of an absurd claim?
+
+d.i.
+ .
+ .....
+ ............
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/////\\\\\
+   >    david   raphael   israel    <
+   >>      washington  d.c.      <<
+ |  davidi at mail.wizard.net   (home)
+ |  disrael at skgf.com       (office)
+ =========================
+ |   thy centuries follow each other
+ |   perfecting a small wild flower
+ |                                       (Tagore)
+ //////////////////////////////////////////\\\\\/////
+
+
+
+

@@ -1,0 +1,43 @@
++++
+title = "146 krisna at cs.wisc.edu"
+date = "1995-06-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002681.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002681.html)
+
+Anand Venkt Raman writes:
+:
+: [ questions about the katapayadi sankhya deleted ]
+:
+
+
+I too have a question regarding the sankhya.  I have come across
+a sloka which encodes the digits of the the decimal expansion of
+pi (correct to about 20+ decimal places) based on the katapayadi
+sankhya.
+
+I would like to know the source of the sloka.  Those readers with
+Web access can check out:
+
+    http://www.cs.wisc.edu/~krisna/pi.html
+
+[The reason I am giving a Web address is that the page has the
+sloka in devanagari---which might avoid some of the problems in
+transliteration]
+
+For those without Web access, the sloka approximately
+transliterates as:
+
+    gopi bhaagya madhu vrata, srngisho dadhisandhiga |
+    khalajivita khatava, galahata rasandhara ||
+
+I appreciate a pointer to the source or any other relevant
+information.  Thank you.
+
+--Krishna
+
+
+
+
+

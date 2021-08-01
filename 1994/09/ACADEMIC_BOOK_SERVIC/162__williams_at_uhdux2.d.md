@@ -1,0 +1,26 @@
++++
+title = "162 williams at uhdux2.dt.uh.edu"
+date = "1994-09-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001373.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001373.html)
+
+Peter:
+
+I wonder if it might be possible to send me book lists in the various
+areas of Hinduism.  I'm not sure just how the lists are categorized
+but perhaps knowing that this is my area of interest, you could choose
+the appropriate lists for me.
+
+Many thanks.
+_______________________________________________________________________
+ Patrick S. Williams | Dept. of Social Sciences, U. of Houston-Downtown 
+ pwilliams at uh.edu    | One Main Street, Houston, TX 77002-1001               
+                     | voice: (713) 221-8982, fax: (713) 221-8144      
+
+
+
+
+
+

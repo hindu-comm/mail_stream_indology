@@ -1,0 +1,31 @@
++++
+title = "195 Vidhyanath Rao"
+date = "1997-09-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009247.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009247.html)
+
+DEVARAKONDA VENKATA NARAYANA SARMA <narayana at hd1.vsnl.net.in> wrote:
+> Is this confined to nouns? What is the current thinking concerning one
+> dhAtu (root) representing many actions (e.g., `divu krIda vijigIsha
+> vyavahara dyuti stuti mOda mada swapna kanti gatishu') and one action
+> being represented by many dhAtus in sanskrit.
+
+Please correct me if I am wrong, but it seems that Indian lexicography
+assumes that if two words have approximately similar meanings in one context,
+then they are exact synonyms. This is provably false in many living languages.
+For example, in English, `I looked at the painting' and `I saw the
+painting' are not too far off in meaning, `I saw the movie' and `I watched
+the movie' are viturally identical, but `I looked at X' and `I watched X'
+are seldom equivalent. [An amusing game based on such things, for nouns,
+is one I learned from New Scientist: Follow a chain of `synonyms' in
+a standard thesaurus till the last one is an antonym of the first.]
+
+How far is the seeming polysemy and existence of several synonyms due
+to this assumption, and how far is it part and parcel of Sanskrit?
+[i.e, are there manuals in Sanskrit meant to illustrate the distinctions
+between words of broadly similar meaning?]
+
+
+

@@ -1,0 +1,33 @@
++++
+title = "534 Dominik Wujastyk"
+date = "1999-01-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015413.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015413.html)
+
+Please keep your messages to INDOLOGY short.  The recommended limit is 2k,
+yes, about 2000 characters, or roughly a screenful of text.
+
+This means
+
+1/ expressing yourself concisely
+2/ NOT including previous messages in toto.
+3/ NOT setting your email client to attach "rich" versions of your
+   email (html, etc.).  Plain text only, please.
+
+If INDOLOGY is to thrive, it is essential that we all practice a certain
+restraint in our postings both in content and volume.
+
+Thank you,
+Dominik
+
+--
+Dr Dominik Wujastyk,                FAX:        +44 171 611 8545
+Wellcome Institute for              URL:        http://www.ucl.ac.uk/~ucgadkw/
+  the History of Medicine,          Email:      d.wujastyk at ucl.ac.uk
+Wellcome Trust, 183 Euston Road,    Trust URL:  http://www.wellcome.ac.uk
+London NW1 2BE, England.
+
+
+

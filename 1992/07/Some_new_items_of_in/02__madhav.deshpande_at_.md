@@ -1,0 +1,29 @@
++++
+title = "02 madhav.deshpande at EDU.UMICH.CC.UM"
+date = "1992-07-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-July/000299.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-July/000299.html)
+
+        For those who use Macintosh computers:  I have designed a Roman
+
+diacritics postscript font called Manjushree which provides all the
+diacritics for Roman characters I could think of.  Secondly, I am also
+close to finishing work on a Devanagari font called Madhushree.  This
+font closely imitates the Nirnayasagara Devanagari.  Anybody interested
+to know more about should contact me:
+        Madhav Deshpande, Department of Asian Languages and Cultures,
+        University of Michigan, 3070 Frieze Building, Ann Arbor, MI 48109,
+        USA.
+    Second item of information is that Kluwer Publishers recently
+published as volume 13 of their Studies of Classical India the
+following book of mine:
+        The Meaning of Nouns, Semantic Theory in Classical and
+        Medieval India.  Namarthanirnaya of Kaundabhatta.  Trans.
+        and annotated by Madhav M. Deshpande.
+    Madhav Deshpande
+
+
+
+

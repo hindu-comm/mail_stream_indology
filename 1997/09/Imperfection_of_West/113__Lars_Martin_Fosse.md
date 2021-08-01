@@ -1,0 +1,46 @@
++++
+title = "113 Lars Martin Fosse"
+date = "1997-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009121.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009121.html)
+
+>
+>INDOLOGY> In (negative prefix) + do (action), thus = inactive + log
+>(inactive piece of wood) >> Inactive as an inactive piece of wood. Without
+>action there is no progress, etc. ....    quod erat deomonstrandum
+>
+>Jonathan Silk
+
+Thank you Jonathan, I think we are getting in deeper and deeper here.
+However, you forgot to explain the y. This letter is, of course, pronounced
+why, "indology" should there be understood to mean "why is the piece of wood
+inactive?". I will suggest that the "piece of wood" is actually a secret
+reference to the world tree, the skambha, which doesn't move. The answer to
+the question "not-do-log-why" must therefore be: Because it is the support
+of ALL. (What else does the skambha do?) The term "indology" is therefore a
+cryptic description of the all-supporting, can't-do-without-it character of
+our scholarship, which is the skambha of all intellectual activities
+concerning Sanskrit. 
+
+An imperfect log, but a log indeed!
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: L.M.Fosse at internet.no
+Mobile phone: 90 91 91 45
+
+
+
+
+

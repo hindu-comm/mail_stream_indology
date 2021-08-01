@@ -1,0 +1,31 @@
++++
+title = "72 Hueckstedt"
+date = "1996-10-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005975.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005975.html)
+
+(Apologies for double posting.)
+
+I am looking for the _B.rhacchabdaratnavyAkhyA_ by Bhavadeva. This is a 
+commentary on Hari DIk.sita's _B.rhacchabdaratna_, which is a commentary 
+on Bha.t.toji DIk.sita's _Prau.dhamanoramA_, which is a commentary on his 
+own _VaiyAkara.nasiddhAntakaumudI_. The interlibrary loan people here 
+have come up with no "hits" in any library of the major universities in 
+Canada or the major US universities that are in its data base. Any help, 
+suggestions or pointers are greatly appreciated.
+
+Gratefully,
+Bob Hueckstedt
+
+Robert A. Hueckstedt, Associate Professor of Indic Languages
+Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+Winnipeg, Manitoba R3T 2N2 Canada
+http://www.umanitoba.ca/faculties/arts/asian_studies
+fax 1 204-275-5781 phones 1 204-474-8964, 1 204-488-4797
+
+
+
+
+

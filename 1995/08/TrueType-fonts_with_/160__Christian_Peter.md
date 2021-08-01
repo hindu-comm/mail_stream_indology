@@ -1,0 +1,29 @@
++++
+title = "160 Christian Peter"
+date = "1995-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/002987.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/002987.html)
+
+I am looking for Truetype- (or Postscript-) fonts with diacritical 
+characters for both Windows- and Mac- Computers. Would anybody 
+happen to know any FTP-site from where I could download them or 
+somebody I could ask for.
+
+Thank you in advance for your help
+
+P.S. Please send your messages to my private e-mail address (as 
+written below) since I am not subscribed to the Indology-Group.
+
+----------------------------------------------
+Christian Peter
+Institute for Religious Studies 
+University of Berne, Switzerland
+E-Mail: chpeter at relwi.unibe.ch
+----------------------------------------------
+
+
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "89 williams at uhdux2.dt.uh.edu"
+date = "1995-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002473.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002473.html)
+
+My understanding is that in the Skanda Purana, Adishesha predicts that
+in the future Shiva's cave temple, which was explored by King
+Rituparna, would be rediscovered by "Valkal" or "Valkala."  Some of
+you have been kind enough to tell me that this word means a garment
+made from the bark of a tree.  In the context of this Purana, does
+this word mean that the rediscoverer of the cave would be a person
+wearing such a garment?  Or is "Valkal" perhaps the proper name of the
+rediscoverer?  Does the Purana also state that the rediscoverer would
+be a soldier?
+
+Any help will be appreciated.
+
+Thanks!
+_______________________________________________________________________
+ Patrick S. Williams | Dept. of Social Sciences, U. of Houston-Downtown 
+ pwilliams at uh.edu    | One Main Street, Houston, TX 77002-1001               
+                     | voice: (713) 221-8982, fax: (713) 221-8144      
+
+
+
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "510 Michael Witzel"
+date = "1998-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012531.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012531.html)
+
+On Wed, 27 May 1998, Sn. Subrahmanya wrote:
+
+> >>Avestan is often MORE archaic than the frequently INNOVATIVE Rgvedic.
+>
+> Isnt it the case, that the centre innovates and the peripheral areas
+> retain archisms ?
+
+> Considering that these are oral traditions -
+> doesnt this weaken your case of making the Rgveda contemporary
+> to the Avesta ?
+
+Correct about innovations, but not always: Those who brought American
+English have emigrated from England 1630+.  US Engl.is sometimes more
+conservative, sometimes more innovative than British Engl. Cf.
+Quebecquois French : Paris French.
+
+Avestan (and Old Persian) also have innovated in certain respects. But
+Vedic has been "Indianized", Avestan has not, and it has been less
+"Iranized" than Vedic has been affected by S. Asian features.
+
+Oral tradition (well fixed in India, less so in Iran) is affected only by
+minimal *phonetical* changes (on both sides, more in Iran); the texts
+remain stable. No "late interpolations" which we cannot detect
+immediately.
+
+
+ ==========================================================================
+Michael Witzel                       witzel at fas.harvard.edu
+
+
+

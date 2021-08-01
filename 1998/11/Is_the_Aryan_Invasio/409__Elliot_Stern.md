@@ -1,0 +1,72 @@
++++
+title = "409 Elliot Stern"
+date = "1998-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014296.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014296.html)
+
+>Dear Historians on Indology:
+>I would appreciate your assistance as I edit a novel, What the Body
+>Remembers, scheduled for publication in Sept 1999, re the following
+>question:
+>
+>Is there a consensus among historians about the Aryan invasion of India
+>that was taught when I was in high school in India in the seventies?
+>Lately I've been hearing more discussion about
+>the "Myth of the Aryan Invasion" (there is a book by that name,
+>published by Voice
+>of India in 1995), saying that Max Mueller in particular dated the Aryan
+>invasion at
+>3500 BC because of the prevailing Christian myth that the world was
+>created in
+>4004 BC at 4 pm (!), that the Aryan *language and colorism/ideas of
+>varna* may have
+>mixed with Indian language and culture via the passes, but that the
+>Aryan *people*
+>were not a tribe from the Caucasus, but were *indigenous* to India.
+>Bhagwan Gidwani's 1997 novel, "Return of the Aryans," is premised on
+>this theory. Another book,   "In Search of the Cradle of Civilization,"
+>also a 1995 Voice of India publication, says, I believe (I haven't yet
+>read this book myself, however) that the Aryans did invade, only they
+>came not from the Caucasus but from Persia. How rigorous is the
+>scholarship and does it stand behind the hypotheses?
+>
+>Do you think, as the reviewers of these writers seem to, that the story
+>was a myth concocted by the English to create a tie between the Brahmins
+>and themselves? The "white Brahmin" idea?
+>
+>Or do you feel these people who say the Aryan invasion was a myth are
+>indulging in wishful thinking?
+>
+>Where does the historical evidence point? Has there been carbon dating
+>of archeological remains at Taxila, Harappa, Moenjodaro, for instance?
+>What does it reveal?
+>
+>Perhaps you have already discussed these new theories on Indology. If
+>so, please point me to the website where I may find the archives with
+>discussion on this topic. Thanks in advance for your assistance.
+>
+>Shauna Singh Baldwin
+
+The Aryan migration theory, and other theories have recently been discussed
+on this list, though the discussion recently seems to have slowed down.
+Please visit the Indology List archives at
+http://listserv.liv.ac.uk/archives/indology.html. I recall that the recent
+discussion began in July or August (although it may have begun earlier),
+and continued into early November. Earlier stages of discussions of Aryan
+migration into India, versus indigenous Aryans in India, may probably be
+found further back in the archives.
+
+
+
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+USA
+
+telephone: 215 747 6204
+
+
+

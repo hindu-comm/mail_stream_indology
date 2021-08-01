@@ -1,0 +1,31 @@
++++
+title = "467 Dan Lusthaus"
+date = "1999-02-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/016035.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/016035.html)
+
+  I read that Thomas Cleary got his PhD from Stanford university
+> in Chinese literature.
+
+The Cleary Brothers got PhDs from Harvard, if I am not mistaken, and
+collaborated on a translation of the Zen classic, the Blue Cliff Record,
+which is a nice translation. Since then, Thomas has not maintained what
+most scholars would consider academic rigor. His translations are fast and
+loose, often informed by concerns and ideas that are not in the original
+text. He doesn't translate terms consistently, and uses odd and misleading
+equivalents for technical terms (e.g., on one page of Entry into the
+Inconceivable he used three or four different English 'translations' for fa
+[dharma], none of which would signal to an informed reader that the
+original text said fa).  He omits sections without informing the reader,
+rarely provides citations for sources, etc.
+
+His books sell well, and he certainly has a following, but not among academics.
+
+
+Dan Lusthaus
+Florida State University
+
+
+

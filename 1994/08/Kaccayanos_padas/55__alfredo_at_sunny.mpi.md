@@ -1,0 +1,30 @@
++++
+title = "55 alfredo at sunny.mpimf-Heidelberg.mpg.de"
+date = "1994-08-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-August/001182.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-August/001182.html)
+
+Hi!,
+        Does anyone knows if the grammar of Kaccayano is available and
+where is possible to get it. I have been readind the  comentary written by
+Francis Mason in 1868 (Sri Satguru Publications, Delhi 1984), however I
+woul like to read the real aphorisms and examples.
+Regards. By the same token, does anyone knows if there is something like
+the Dhatupada for Pali roots ?
+
+Alfredo Villarroel
+Alfredo Villarroel
+Max-Planck-Institut fuer medizinische Forschung
+Abteilung Zellphysiologie
+D-69120 Heidelberg
+Alfredo at sunny.MPImF-Heidelberg.mpg.de
+Fax:  06221 486-459
+
+
+
+
+
+
+

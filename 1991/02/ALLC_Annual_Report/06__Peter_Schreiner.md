@@ -1,0 +1,27 @@
++++
+title = "06 Peter Schreiner"
+date = "1991-02-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-February/000044.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-February/000044.html)
+
+
+At one of the conferences of the ALLC some years ago a Specialist Group
+on languages and literatures of the Indian Subcontinent was formed, of
+which I have been acting as "representative". The hope was that
+the group would serve as a formum for the exchange of information; it seems
+to boil down to my having to write an annual report. Now with INDOLOGY at
+hand I would like to inquire whether any of you would want to shahre
+knowledge about
+projects, prospects, programs, activities, publications, method(ology),
+software,  etc. which might be mentioned in the report for the benefit not only
+of indologists but also of a wider public interested in literary and
+linguistic computing.
+Thanks and greetings,
+
+Peter Schreiner
+
+
+
+

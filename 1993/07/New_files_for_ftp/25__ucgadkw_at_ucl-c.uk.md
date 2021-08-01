@@ -1,0 +1,33 @@
++++
+title = "25 ucgadkw at ucl.ac.uk"
+date = "1993-07-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-July/000610.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-July/000610.html)
+
+Jamie has announced his new fonts for WordPerfect:  they are now available
+from the site ftp.bcc.ac.uk in directory /pub/users/ucgadkw/indology
+Login as "anonymous", and give your email address as password.
+
+Jamie, are your characters laid out using the CSX scheme?
+
+I have also put there copies of the Washington Indic fonts created by
+Tom Ridgeway at HACC.  These include the Metafont versions for TeX,
+screen versions for VGA and EGA PC screens, and PostScript and 
+Truetype versions.  All have the same character layout:
+extended Computer Sanskrit extended.  All files are ZIPped with
+initial letters "WN".
+
+Incidentally, it is becoming obvious that we need another meeting at 
+the Sanskrit conference in Melbourne to talk about character coding.
+I think the extended set promoted by Tom might be a very strong
+candidate to become a new, revised CSX.
+
+Dominik
+
+
+
+
+
+

@@ -1,0 +1,23 @@
++++
+title = "02 Bob King - ligi355@utxvms.cc.utexas.edu"
+date = "1991-01-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-January/054047.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-January/054047.html)
+
+
+Dear J. Bronkhurst:
+	I can help you with only one of those persons whose addresses
+you are seeking, and that is Paul Kiparsky.  He is at the Department
+of Linguistics, Stanford University, Palo Alto, CA 94306.  His
+E-Mail address is in the INDOLOGY listing.  It is
+		kiparsky at csli.stanford.edu (Internet)
+The address works:  he and I eschanged notes just before Christmas.
+					Yours,
+					Robert kD. King
+					Austin, Texas
+
+
+
+

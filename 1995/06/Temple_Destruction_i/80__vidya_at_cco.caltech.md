@@ -1,0 +1,22 @@
++++
+title = "80 vidya at cco.caltech.edu"
+date = "1995-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002619.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002619.html)
+
+I would take the list posted earlier with large doses of salt. It is historically documented fact that temples were broken down and mosques built in their
+place. But then, to suggest that every masjid or mazar in highly Brahmin
+dominated villages like Ambasamudram and Tiruchirapally was built on an
+unidentified "temple site" is somewhat unbelievable. The list seems more like
+an attempt at whipping up of religio-political passions in south India, which
+has not had any sinificant history of Muslim rule. 
+
+S. Vidyasankar
+
+
+
+
+
+

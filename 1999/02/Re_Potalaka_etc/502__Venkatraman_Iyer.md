@@ -1,0 +1,32 @@
++++
+title = "502 Venkatraman Iyer"
+date = "1999-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/016087.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/016087.html)
+
+<<<<
+I have been looking for potiyil (and also for potiyam and malayam)
+in several texts. Some have a real basis like the Akam text
+that refers to titiyan2. Some are purely fiction stories
+like the manimEkalai passages where we see a viJcaiyan2.
+[...]
+To sum up, these MaNimEkalai passages cannot be read
+as coming from a geography book.
+>>>>
+
+  Nothing unusual! All Indian religious texts are in this
+  manner alike. May be many world religions' books too.
+
+  Best,
+  V. Iyer
+
+PS: Thanks for your good words on my abilities :-)
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

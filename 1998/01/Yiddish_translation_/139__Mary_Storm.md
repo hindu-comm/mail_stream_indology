@@ -1,0 +1,28 @@
++++
+title = "139 Mary Storm"
+date = "1998-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010417.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010417.html)
+
+I think it is quite wonderful that someone had the inclination and
+discipline to translate the Gita into Yiddish, a language that had a
+relatively small but intellectually and religiously vibrant community of
+speakers. This must have been a labor of love.
+
+It perhaps seems curious because Yiddish was a language of a
+predominately self-enclosed community, not noted for its curiosity about
+Indian religious thought.
+
+Some texts are translated into every arcane language imaginable, the
+Book of Mormon seems to be out there in almost every known language,
+including Esperanto.
+
+ On a more frivolous note, if Winnie the Pooh can be translated into
+Latin, why not the Gita into Yiddish?
+
+The better question might be why there is hostility to the idea?
+
+
+

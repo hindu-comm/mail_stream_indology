@@ -1,0 +1,29 @@
++++
+title = "70 Robert A. Hueckstedt"
+date = "1995-04-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-April/002325.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-April/002325.html)
+
+Fellow Indologists,
+
+I'm translating a work that quotes the first half of a Sanskrit shloka 
+that is supposed to be well known but which I have been unable to 
+locate.  The first half is this:
+
+	kAka ce.s.tA bako dhyAnam "svAna nidrA tathaiva ca
+
+Grateful for any help,
+Bob Hueckstedt
+
+Robert A. Hueckstedt, Associate Professor of Indic Languages
+Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+Winnipeg, Manitoba R3T 2N2 Canada email: hueckst at cc.umanitoba.ca
+fax 1 204-275-5781 phones 1 204-474-8964, 1 204-488-4797
+
+
+
+
+
+

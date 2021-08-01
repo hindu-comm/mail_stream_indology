@@ -1,0 +1,4 @@
++++
+title = "Value Centered Management"
+
++++

@@ -1,0 +1,24 @@
++++
+title = "85 Kalyans at aol.com"
+date = "1995-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002629.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002629.html)
+
+In the study of civilizations, the focus on cities is the vogue. I believe
+that as Possehl, Fairservis and Dani have argued, studies on the social
+milieu which the culture represented are likely to yield a cohesive
+socio-cultural historical perspective. A fundamental question remains
+unanswered as yet about the Harappan culture: did it disappear after 1700 BC?
+Why was Indus preferred to Harappan?
+
+It is not uncommon to rename civilizations; why was mesopotamian preferred to
+babylonian? Because, the geographic domain was more accurately denoted by the
+latter term, given the cumulative knowledge gained from archaeological
+discoveries.
+
+
+
+
+

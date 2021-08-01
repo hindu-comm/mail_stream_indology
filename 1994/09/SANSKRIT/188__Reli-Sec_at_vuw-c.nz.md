@@ -1,0 +1,37 @@
++++
+title = "188 Reli-Sec at vuw.ac.nz"
+date = "1994-09-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001392.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001392.html)
+
+Re: indology-request at liverpool.ac.uk
+
+Dear Gary, 
+
+I have been using locally available shareware which I must admit did not 
+cost me a lot. The font I am using at the moment is called  KANCHI NR. I 
+also have another font on my computer called Devanagari but I have found 
+this one is not so clear. I will be more than happy to send you a copy of 
+these fonts if they are of any use to you.
+I must point out that this particular software is very easy to install on 
+any Macintosh computer.
+
+(Dr) Pushpa Bhardwaj-Wood
+
+Lesley Fischer,
+Secretary,
+Department of Religious Studies,
+Victoria University of Wellington,
+P O Box 600,
+Wellington,  New Zealand.
+Tel : +64 4 472 1000
+Fax : +64 4 495 5065
+E-Mail: Reli-Sec at vuw.ac.nz
+
+
+
+
+
+

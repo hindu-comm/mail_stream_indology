@@ -1,0 +1,21 @@
++++
+title = "217 aklujkar at unixg.ubc.ca"
+date = "1995-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003684.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003684.html)
+
+To those who usually correspond with me:
+
+Kindly note that I shall be away from Vancouver, 3 Dec - 9 January, to
+carry out some research in the Tirupati-Madras area and to attend a
+conference in Madras (2-5 January).  Should you need to reach me for any
+urgent matter, the secretaries in my department (604-822-3881/5728) should
+be able to advise you on how to reach me.  Thanks. -- ashok aklujkar
+
+
+
+
+
+

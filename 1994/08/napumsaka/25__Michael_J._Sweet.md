@@ -1,0 +1,20 @@
++++
+title = "25 Michael J. Sweet"
+date = "1994-08-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-August/001154.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-August/001154.html)
+
+Many thanks to the learned list denizens who have responded to this query
+with valuable and varying opinions.  Leonard Zwilling, with whom I'm
+collaborating in this research, is most appreciative.  By the by, in
+reference to Ken Zysk's posting, we have done some work on the medical
+literature re this topic "The First Medicalization," in the "Journal of the
+History of Sexuality," vol.3, no.4, pp.590-607.
+                                                 Michael Sweet
+
+
+
+
+

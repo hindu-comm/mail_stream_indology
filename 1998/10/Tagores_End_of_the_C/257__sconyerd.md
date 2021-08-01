@@ -1,0 +1,25 @@
++++
+title = "257 sconyerd"
+date = "1998-10-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013847.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013847.html)
+
+Can anyone give me the text of Tagore's poem written on the last day of the
+last century?
+
+As I recall, it begins "The bloodred sun ..." and ends several vivid and
+powerful verses later "Keep watch India...thy dawn has not yet..." I have
+seen it cited/entitled "The Sunset of the Century" but since he did not
+assign titles, I have been unable to track it down.
+
+Any help would be appreciated. I want to use it as the opening page for a
+"20th Century World Cultures" text.
+
+Please reply to sconyerd at franklin.edu.
+
+Many thanks...............DS
+
+
+

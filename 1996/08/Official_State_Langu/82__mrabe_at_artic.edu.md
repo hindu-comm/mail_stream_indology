@@ -1,0 +1,20 @@
++++
+title = "82 mrabe at artic.edu"
+date = "1996-08-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005596.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005596.html)
+
+Before leaving town for a few days, I thank the first eight of you (Peter
+Banos, Peter Claus, Gail Coelho, Madhav Deshpande, Satyanad Kichenassamy,
+Narayan S. Raja, Mittal Sushil and Dominik Wujastyk) for your immediate
+replies! Gujarati's absence on my initial list was a typographical
+oversight, but thanks Madhav for rectifying the alphabetical listing with
+Marathi and Sanskrit.
+
+
+
+
+
+

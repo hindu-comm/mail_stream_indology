@@ -1,0 +1,27 @@
++++
+title = "161 Daniel Baum"
+date = "1995-06-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002710.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002710.html)
+
+
+I am looking for an e-mail or other address for Dr. Claus Peter Zoller, 
+once of Heidelberg University, and possibly living in India. He wrote 2 
+papers in MSS 1988 and 1989 about an Indian language called Bangani, which 
+has a remarkable Kentum substrate.
+
+On the same subject, I am also looking for any other information and/or 
+bibliographical references about this Bangani language.
+
+Thanks,
+
+Daniel Baum
+The Hebrew University of Jerusalem
+Israel 
+
+
+
+
+

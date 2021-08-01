@@ -1,0 +1,42 @@
++++
+title = "188 Dominique.Thillaud"
+date = "1998-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011416.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011416.html)
+
+Krishna writes:
+
+>  OF course, lower down, they mention the samskrt word for "8" as
+>"ashtau"..this is something absurd, since the "-au" ending comes about
+>only in dvivacanam. (just as it is meaningless to have words like
+>ekai:, or ekAbhyAm, the word "aSTau" for 8 is also nonsensical.)
+
+"the "-au" ending comes about only in dvivacanam" ?
+No: nominative aSTau (RV, &c.) being a counter-example.
+
+        There was tentatives to explain aSTau by a dual, but without any
+good result. The simpler was to consider *qet(w)r- (4), to cut the last "r"
+(without understand it!), to suppose a zero degree with "qt" > "kt" and to
+prefix by a dubious particle "O" (near) suggested by few Greek words and
+Skr. A-gam- (shortened before two consonants?); finally: "two 4s brought
+nearer"!!
+
+        In fact, it seems we have a "vanishing" "w" at the end of the
+Eurindian root, suggested by the ordinals Lat. octAuos, Gr. ogdo(w)os and
+by Got. ahtau.
+        The Indian variants aSTa, aSTA, aSTau find a parallel in Greek
+where the two forms oktO- and okta- coexist early (Homer) in compounds;
+okta- was explained by the analogy with hepta- and hexa- but nothing is
+sure with this mysterious number and the "a" could be genuine (see the Osq.
+form Uhtavis of the Lat. name Octavius).
+
+        Nevertheless, I agree with Krishna's comment. Regards,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+

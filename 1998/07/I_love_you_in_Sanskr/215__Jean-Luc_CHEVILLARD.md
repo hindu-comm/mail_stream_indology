@@ -1,0 +1,56 @@
++++
+title = "215 Jean-Luc CHEVILLARD"
+date = "1998-07-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013215.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013215.html)
+
+>
+>There are many Sanskrit love poems in which the feeling 'there is no
+duality >between you and me' is expressed.  I will give you a few examples
+if you >absolutely need them.  Otherwise, let us both save time.
+>
+
+Professor Aklujkar,
+
+If I did not want to find out, I would not have asked...
+
+So please do find a little time to answer,
+since you have now given a short hint.
+
+I don't believe Indology should be restricted to VIM or VVIM
+("Very Very Important Matters"),
+like discussions on etymology,
+early datings or case grammar.
+
+To find out whether certain idioms
+are or are not pan-indian is also revealing
+for those who come from other linguistic spheres.
+
+In the case of Tamil, the ultimate goal
+of "grammatical" studies is to be able to master
+the "poruL" section (poetical matters),
+where "akam" is probably the most interesting part.
+
+[See the king's reaction in the _kaLaviyal_ [Stolen Love]
+commentary when his messengers are not able to find a scholar
+who has mastered the "poruL atikAram";
+ (He says: ezuttum collum yAppum ArAyvatu
+   poruLatikArattin2 poruTTu an2RE?
+   "Is it not for the sake of poruLatikAram
+   that one studies ezuttu [letters], col [words]
+   and yAppu [metrics]?"]
+
+Moreover, the arguments based on same-ness [tamil vERRumai]
+vs. one-ness [tamil oRRumai]
+are frequent in grammatical commentaries, and I wondered
+whether the love reasoning resembled the scholastic
+reasoning in Sanskrit (as it does in Tamil).
+
+Thanks for your attention.
+
+-- Jean-Luc CHEVILLARD
+
+
+

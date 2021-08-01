@@ -1,0 +1,45 @@
++++
+title = "07 SHARMA"
+date = "1994-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-March/000924.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-March/000924.html)
+
+                     A N N O U N C E M E N T
+
+
+                            H I N D I
+
+During the Summer
+                               at
+               McGill University, Montreal, Canada
+
+
+Hindi I
+Introduction to Hindi I (6 credits)
+(260-250U)
+May 2 - June 15, 1994
+$338.98 for 6 credit course
+
+
+Hindi II
+Introduction to Hindi II
+(260-359R)
+June 27 - August 9, 1994
+$338.98 for 6 credit course
+
+
+Instructor:  Professor Arvind Sharma
+
+
+
+For information call:
+Centre for Continuing Education, McGill University
+(514) 398-6160
+
+
+
+
+
+

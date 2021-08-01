@@ -1,0 +1,45 @@
++++
+title = "245 Birgit Kellner"
+date = "1998-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010845.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010845.html)
+
+> ---"N. Ganesan" <GANESANS at CL.UH.EDU> wrote:
+> >
+> > 2/13/98
+> >
+> > Want to know the titles of texts on Lokayata philosophy in Sanskrit
+> > and other Indian languages. I read that Madhava Vidyaranya's
+> > Sarva Darshana Samgraha has few quotations. Where can I find
+> > Brhaspati's sutras taught to Indra? Is there a complete text
+> > in Sanskrit on Lokayatam?
+> >
+> > The reason I am asking this is because, in Tamil there is late
+> > 11th century/early 12th century vaLamaTal prabandham
+> > by Kaviccakravartti JayamkoNTaar. It is only 550 lines
+> > and expresses Lokayata philosophy. Of course,  Buddhist
+> > Manimekalai, Jain Neelakesi and Saiva Siddhanta SivaJaana
+> > Siddhiyaar refutes Lokayata princilpes. A palm leaf mss.
+> > of the Lokayata prabandham is at GOML, Madras. The other
+> > is at Perur Adheenam near Coimbatore.
+> >
+> > Thanks,
+> > N. Ganesan
+
+Maybe the following publication would be of use:
+
+Debiprasad Chattopadhyaya:
+Caarvaaka/Lokaayata: An Anthology of Source Materials and Some Recent
+Studies. In collaboration with Mrinal Kanti Gangopadhyaya. New Delhi:
+Indian Council of Philosophical Research, 1990.
+
+
+--
+Birgit Kellner
+Department for Indian Philosophy
+Hiroshima University
+
+
+

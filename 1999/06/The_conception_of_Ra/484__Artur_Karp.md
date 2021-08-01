@@ -1,0 +1,36 @@
++++
+title = "484 Artur Karp"
+date = "1999-06-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017909.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017909.html)
+
+Dear Sceptic,
+
+
+>That dialog refers to incest between siblings and not Niyog >
+
+Of course. But I found it quite peculiar to see in my mail an allusion to
+what I thought was an ancient and already forgotten dispute. When Swami
+Dayanand proclaimed his project of social reform, the concept of niyoga
+became the most obvious target of attacks. On the other hand, while
+defending his interpretation of the RV X:10.10, the followers of the Swami
+had a good opportunity to attack the Western way of interpreting the Vedas.
+
+With regards,
+
+Artur Karp
+University of Warsaw
+Poland
+
+
+
+
+-------------------- [ REKLAMA / ADVERTISEMENT ] ---------------------
+Dowiesz sie wszystkiego na temat skutecznej antykoncepcji odwiedzajac
+http://www.antykoncepcja.com.pl  ZAPRASZAMY!!
+----------------------------------------------------------------------
+
+
+

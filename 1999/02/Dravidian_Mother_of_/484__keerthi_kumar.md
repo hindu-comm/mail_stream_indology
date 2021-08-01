@@ -1,0 +1,25 @@
++++
+title = "484 keerthi kumar"
+date = "1999-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/016069.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/016069.html)
+
+Dear Memebers of the List,
+
+I have noted that some of you could not get Discovery of Dravidian as the
+common source of Indo-European at http://www.datanumeric.com/dravidian. Iam
+getting it ok. However, I shall check into it and see if there is possibly a
+problem involved. Sorry for the inconvenience. All the best.
+
+V.Keerthi Kumar (v.k.kumar at excite.com).
+
+
+
+
+_______________________________________________________
+Get your free, private email at http://mail.excite.com/
+
+
+

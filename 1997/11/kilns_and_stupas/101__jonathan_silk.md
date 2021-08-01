@@ -1,0 +1,24 @@
++++
+title = "101 jonathan silk"
+date = "1997-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009785.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009785.html)
+
+I am wondering why ZB XIII.8.1.5 has not (unless I missed it) been
+mentioned in this discussion of the origin of stuupas. I have no idea
+whether the suggestion of a connection between these easterners and others
+of an asura nature who make round tombs instead of square and the later (?)
+stuupa is meaningful, but perhaps some of our colleagues do (or can direct
+me to the post in which this was discussed, if it was earlier).
+
+Jonathan Silk
+SILK at wmich.edu
+
+*******************
+Outside of a dog, books are a man's best friend. Inside of a dog, it's too
+dark to read.
+
+
+

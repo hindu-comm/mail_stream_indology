@@ -1,0 +1,42 @@
++++
+title = "153 bpj at netg.se"
+date = "1997-02-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007075.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007075.html)
+
+At 14:09 25.2.1997 +0000, Narahari Achar wrote:
+
+[snip]
+
+>Apparently, it has taken decades to convince some that vaZA does not mean
+>sterile, barren. It may take even more time to convince that vaZA yields milk,,
+>and that it is a special cow. Very few people are blessed with the possession
+>of such a cow. But to say that it is a prime candidate for sacrifice and food
+>is to deny what the veda itself declares:vaZA is aghnyA, it yields copious
+>milk, it does get pregnant(yes; AV10.10.23), but people are frightened when
+>this happens. The vaZA cow loves those who offer its products in yajna.
+
+In the Norse myth there is the primeval cow Audumbla, who gives birth to
+Bur, grandfather of the gods, by licking him out of the salty stones. He
+thereafter feeds on her milk. It is notable that she doesn't give birth in
+the ordinary way, yet creates and nourishes life. It is never stated what
+happens to her afterwards. Not being part of the world created by the gods
+she mayperhaps not be affected by the fire that is supposed to destroy it.
+
+In Irish myth there are a special kind of cows, the offspring of union
+between ordinary cows and the bulls of the sea people. I guess such a
+pregnancy -- one that has come about in an unknown and supernatural way,
+could be frightening!
+
+I don't know if these parallells are worth anything, but they fell off the
+top of my head.
+
+BPJ <bpj at netg.se>
+
+
+
+
+
+

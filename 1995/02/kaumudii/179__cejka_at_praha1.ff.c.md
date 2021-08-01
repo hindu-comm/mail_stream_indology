@@ -1,0 +1,28 @@
++++
+title = "179 cejka at praha1.ff.cuni.cz"
+date = "1995-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/002070.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/002070.html)
+
+Dear members.
+In connection with the kumuda-discussion and several other postings
+concerned with plant-topics I would like to ask for any references to
+literature about the flowers/plants occuring in Sanskrit (Prakrit)
+poetry, what are the poetical/mythological connotations of various plants in
+Indian literature. Also, is there any attempt of botanical Sanskrit-Latin
+(or whatever) dictionary which put more light on which plant is which than
+the classical Skt dictionaries do? 
+   To put it simply, any bibliography on plants in Skt liter. whether
+general intro or specific monografies is wanted.
+
+Thanks in advance again (not to post "thanks"messages after)
+       Jakub
+-- 
+cejka at praha1.ff.cuni.cz
+
+
+
+
+

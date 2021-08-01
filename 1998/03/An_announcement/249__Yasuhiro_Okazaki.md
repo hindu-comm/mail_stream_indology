@@ -1,0 +1,25 @@
++++
+title = "249 Yasuhiro Okazaki"
+date = "1998-03-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011297.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011297.html)
+
+Dear Members
+ I will change my E-mail adress (To: kappa-y at nn.iij4u.or.jp),
+for reasons of the providing services that I use.  So my old
+adress will not be available. I am going to unsub from this
+mailing list, and soon subscribe to this by my new adress.
+I am sorry I can not contact all of you for a whole.
+Best Regards
+Yasuhiro Okazaki
+Yasuhiro Okazaki
+613-2 Arima, Chiyoda-cho,
+Hiroshima-ken, Japan 731-15
+TEL&FAX +81-826-72-8851
+Office Hiroshima Prefectual Kabe High School
+TEL +81-82-814-2032
+
+
+

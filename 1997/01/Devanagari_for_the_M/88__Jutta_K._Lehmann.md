@@ -1,0 +1,44 @@
++++
+title = "88 Jutta K. Lehmann"
+date = "1997-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006733.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006733.html)
+
+>Dear indologists,
+>Can anyone please tell me where to find a good set of devanagari fonts for
+>the Mac? I know about the TeX fonts, since I used to work with Tex a few
+>years ago while I was doing my M.A. in Buddhist epistemology at McGill
+>University. They are certainly the best looking devanagari fonts I've seen
+>so far. But I gave up on TeX (OzTeX on the Mac) 3 years ago and hope I
+>won't have to return to it to produce nice Sanskrit documents with my Mac.
+>I very much admire those of you who have the patience to work with Tex, but
+>that is definitely not for me. So, are there any devenagari fonts for the
+>Mac? Thanks in advance for your time.
+>
+>Raynald Prevereau
+
+There are several devanagari fonts for the Mac, some commercial or
+semi-commercial. I use one called U.B.C. Nagari designed by Prof. Aklujkar
+at U.B.C. and distributed at Religious Studies at McGill. But the best font
+is the new Wikner font for LaTeX which I use. Its advantage over the
+original Velthuis font as far as I am concerned is the fact that with one
+stroke you can translate all the devanagari into Roman transliteration and
+vica versa. Really neat. If you wish more info and you are in Montreal
+(which I suspect), give me a call at 844-6267 and I can give you more
+details. There are now preprocessors for both Velthuis and Wikner available
+for the Mac.
+
+Best wishes
+
+Julian Woods (ex Religious Studies at McGill)
+
+P.S. I can understand your frustration with LaTeX but once you have
+mastered it it performs like a dream.
+
+
+
+
+
+

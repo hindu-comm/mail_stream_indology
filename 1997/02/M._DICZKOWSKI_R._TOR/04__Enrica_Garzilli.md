@@ -1,0 +1,34 @@
++++
+title = "04 Enrica Garzilli"
+date = "1997-02-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006834.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006834.html)
+
+CLODOMIR B DE ANDRADE wrote:
+> 
+>         Does anybody know Profs. Mark Diczkowski and Raffaelle
+> Torrela addresses ?
+>         Thanks,
+>         Clodomir B. de Andrade
+
+Prof. Raffaele Torella
+Facolta' di Lettere e Filosofia
+Universita' degli Studi "La Sapienza"
+Pia.le Aldo Moro
+00100 Roma
+
+(BTW, Diczk. is not a professor)
+
+-- 
+Dr. Enrica Garzilli
+Univ. of Perugia (ITALY)
+Editor-in-Chief, IJTS and JSAWS (http://www.shore.net/~india)
+*************************************************************
+
+
+
+
+
+

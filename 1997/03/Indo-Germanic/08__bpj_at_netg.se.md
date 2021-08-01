@@ -1,0 +1,27 @@
++++
+title = "08 bpj at netg.se"
+date = "1997-03-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007183.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007183.html)
+
+
+One aspect of the question about the two terms 'Indo-Germanic' and
+'Indo-European' that imho deserves to be noticed is that 'Indo-Germanic'
+seems to have ethnic connotations: "The languages of Indians, Germanians
+(?) and those in between", while 'Indo-European' seems to have geographical
+connotations: "the languages spoken from India to Europe. I think the term
+'Indo-European' is preferable chiefly for that reason -- i.e. it don't mix
+linguistic notions with any "biological" ones, however vague. It should be
+noted that the term was coined and adopted before Tokharian was discovered.
+
+Sarvam mangalam!
+
+Philip Jonsson <bpj at netg.se>
+
+
+
+
+
+

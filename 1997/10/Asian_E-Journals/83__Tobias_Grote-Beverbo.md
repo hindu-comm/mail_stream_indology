@@ -1,0 +1,37 @@
++++
+title = "83 Tobias Grote-Beverborg"
+date = "1997-10-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009530.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009530.html)
+
+Dear members of the list,
+I'm happy to announce that the WWW-Virtual Library Register of Asian Studies
+E-Journals has moved to its new location at:
+
+http://www.uni-koeln.de/phil-fak/indologie/AsianE-Journals.html
+
+The page covers all Asian Online-Journals and Magazines from A-Z and is
+updated regulary.
+Enjoy the surf.
+
+Tobias
+***********************************
+Mr. T. Grote-Beverborg
+Duerenerstr. 272, 50935 Koeln, Germany
+Fon: 0049-221-4302193
+e-mail: grotebev at uni-koeln.de
+http://www.sds.de/remscheid/vereine/dig/index.html
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                //OM/
+                        SARVE BHAVANTU SUKHINAH/
+                         SARVE SANTU NIRAMAYAH/
+                        SARVE BHADRANI PASYANTU/
+                      MA KASCHIT DUKHA BHAG BHAVET/
+                        OM SHANTI SHANTI SHANTI//
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "458 Vidyasankar Sundaresan"
+date = "1998-05-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012452.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012452.html)
+
+Vidyasankar Sundaresan <vsundaresan at HOTMAIL.COM> wrote:
+
+
+>atha tatra sanghapalakAdhirohiNo draviDa prabandha paradevatAtmanaH |
+>kalaSIkumArakRta sUtravartmanA kavayan vyajeshTa katicit kavISvarAn ||
+>
+>Here, SankarAcArya is said to have debated with some Tamil poets. The
+>word sanghapalaka is a reference to the Tamil cankam, kalaSIkumAra is
+>agastya, and the sUtra attributed to him is the Tamil grammar.
+
+I should probably clarify the above a little. The verse should not be
+taken as an indication that the poet takes SankarAcArya to the age of
+the Tamil cankam. It only seems to be an acknowledgement of the old
+association of Madurai with the cankam. This is also the only verse that
+talks of draviDa prabandha and kavis in Madurai. The rest of the chapter
+is filled with stotras on Siva and Minakshi, the presiding deities of
+Madurai. The stotras are attributed to SankarAcArya.
+
+Does somebody on the list know whether Tirumala Nayaka of Madurai
+revived old cankam traditions in the late 16th century? Perhaps the
+SankarAbhyudaya's reference is to a more recent custom of giving an
+honored seat (sangha-palaka-adhirohiNa) to the best poets.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

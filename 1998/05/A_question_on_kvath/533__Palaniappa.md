@@ -1,0 +1,31 @@
++++
+title = "533 Palaniappa"
+date = "1998-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012411.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012411.html)
+
+Cologne's Digital Sanskrit Lexicon gives the following meanings for the words
+"kvath" and "kvAthi".
+
+"kvath" - Meaningcl. 1. A1. %{kvathate} , to boil , prepare by heat Ka1t2h. ;
+to
+digest W. ; to be hot (as the heart) Hcar.: Caus. %{kvAthayati} , to
+cause to boil , decoct Kaus3. S3a1rn3gS. ; (Pass. %{kvAthyate}) MBh.
+Sus3r. i , 45 , 3 Ma1rkP. xii , 36.
+
+"kvAthi" - Meaningm. (fr. %{kvatha} , `" boiling pot "' cf. %{kumbha-
+janman})N. of
+Agastya L.
+
+Has the word "kvath" or any of its derivates been used to refer to ziva, zaiva
+priests or brahmins in general? Also was Agastya born from a boiling pot?
+
+Thanks in advance.
+
+Regards
+S. Palaniappan
+
+
+

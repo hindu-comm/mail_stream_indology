@@ -1,0 +1,22 @@
++++
+title = "609 Sreenivas Paruchuri"
+date = "1998-12-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014889.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014889.html)
+
+I am wondering if a translation (or atleast a 1-2 page long summary)
+of Madeleine Biardeau's paper: "Nala et Damayanti, heros epiques,"
+Indo-Iranian Journal (1984) is available.
+
+Thanks in advance!
+
+Regards,                --Sreenivas
+
+P.S.  Not related to above query ....
+There are a couple of essays by Ch. Vaudeville, on govardhana myth,
+published in Indo-Iranian journal between years 1976 and 1980
+
+
+

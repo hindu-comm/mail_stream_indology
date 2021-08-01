@@ -1,0 +1,30 @@
++++
+title = "175 Allen Thrasher"
+date = "1997-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007353.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007353.html)
+
+About Lathyrus and lathyrism:
+
+Lathyrus as I recall is a famine crop raised in drought and consumed when
+nothing else will grow, only to be used when the alternative is
+starvation, because of the known danger not only of paralysis but of gross
+permanent twisting of the limbs.  I read at least a decade ago that an
+Indian researcher had developed a way of cooking it that neutralised its
+dangers.  Coincidentally I noticed in the catalog of the great British
+seed company Thompson and Morgan a few days ago that they are offering
+several species of Lathyrus as ornamental plants.  This reminds me I
+should write to suggest to them they include a warning not to sample the
+pods out of curiosity.
+
+
+Allen W. Thrasher
+
+The opinions expressed do not represent those of my employer.
+
+
+
+
+

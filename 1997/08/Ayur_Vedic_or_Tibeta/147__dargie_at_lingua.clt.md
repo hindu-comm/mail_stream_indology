@@ -1,0 +1,45 @@
++++
+title = "147 dargie at lingua.cltr.uq.oz.au"
+date = "1997-08-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-August/009054.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-August/009054.html)
+
+I have a friend who would like to acquire a book dealing with medical
+diagnosis and treatment in Sanskrit and/or Tibetan.
+
+The book would included Tibetan/Sanskrit original with english translation,
+perhaps by CandrAnada or rGyu-Zhi or with commentaries by the same.
+
+She already is familar with
+
+Author: Vogel, Klaus
+Title: Astangahrdayasamhita: the first five chapters of its tibetan version ...
+Place of Publication: Wiesbaden
+Publisher: Franz Steiner
+Publication Date: 1965
+
+
+She is especially interested in any text of this ilk that discusses pulses
+and their diagnosis.
+
+Could anyone help me with this?
+
+Thanks in advance
+
+David Dargie
+
+*****************************************************************
+David Dargie
+Centre for Language Teaching and Research
+University of Queensland
+email: dargie at lingua.cltr.uq.oz.au
+Phone: +61 7 3365 6917
+Home: +61 7 3397 6863
+*****************************************************************
+
+
+
+
+

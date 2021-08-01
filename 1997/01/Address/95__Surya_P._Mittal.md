@@ -1,0 +1,60 @@
++++
+title = "95 Surya P. Mittal"
+date = "1997-01-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006820.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006820.html)
+
+                                                       Jan. 30, 1997
+
+Dear Mr. Rebecca Manring:
+
+
+One of my colleagues was able to find the address :
+
+
+Mr. Adrian Burton
+AUSTRALIAN NATIONAL UNIVERSITY
+CANBERRA ACT 0200 / Australia
+
+Sri Chandicharan Goswami
+DOWERAH COLLEGE
+Dergaon ASSAM / India
+
+Dr Boris Oguibenine
+Head
+Institute of South Asian Studies
+UNIVERSITE DE STRASBOURG II
+22 rue Descartes
+F-67084 Strasbourg  Cedex / France
+
+Mr Parameswara Aithal
+RUPRECHT-KARLS - UNIVERSITAET
+HEIDELBERG
+Grabengasse 1, Postfach 105760
+D-69047 HEIDELBERG/Germany
+
+
+Hope these serve the purpose.
+
+Regards,
+
+                                                Your sincerely,
+                                                Surya P. Mittal
+                                                surya at pobox.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From:
+D.K. AGENCIES (P) LTD.       Fax: (+91-11) 5598898, 5558898
+A/15-17 Mohan Garden         Phones: (011) 5598897, 5598899
+Najafgarh Road               E-mail: dka at pobox.com
+New Delhi - 110 059.         E-mail: custserv at dkagencies.com
+
+           Our Webpage     http://www.dkagencies.com
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+

@@ -1,0 +1,45 @@
++++
+title = "244 Francois Quiviger"
+date = "1997-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008554.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008554.html)
+
+
+Dear Indologist,
+
+I am researching problems related to the cultural history of sensation
+accross during the 16th-17th centuries. I recently came accross a very
+intriguing passage of the *The commentary of Father Monserrate, S.J. on
+his journey to the Court of Akbar* (O.U.P., 1922), an account of the 1580s
+Jesuit mission to the court of Akbar. The passage runs as follows: 
+
+`The common report of the King's extraordinary kindness towards the 
+priests prevented their meeting him, and they hence began to plan to 
+remove their quarters into a house which was actually buildt against the 
+palace wall ... [the King] ordered the ointments, perfumes and very 
+numerous jars of scented waters to be conveyed out of that house into 
+another; for the house (which the priest wanted) was used for the 
+manufacturing and storing of ointments and perfumes, whence it was called 
+the store-house of perfumes. The priests where reminded of the saying `we 
+are Christ's sweet perfume'.' (p. 58).
+
+I suspect that the Jesuits were keen on the house not only for its 
+location, but also its perfume.
+
+I would like to know where to look in order to find out whether
+such a house was part of the typical anatomy of a Mughal palace and 
+above all which types of perfumes were kept and for which use. 
+
+With many thanks in advance.
+
+
+Francois Quiviger
+Warburg Institute
+University of London
+
+
+
+
+

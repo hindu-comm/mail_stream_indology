@@ -1,0 +1,33 @@
++++
+title = "95 Anshuman Pandey"
+date = "1997-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007231.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007231.html)
+
+
+Hello all,
+
+Regarding the article on the genetic study of certain peoples of
+North Indian provinces, It seems that this study may be the first of its
+kind. This article got my attention because it was mentioned that these
+studies were done on some inhabitants of Uttar Pradesh. Would anyone
+happen to know whether certain specific groups, or castes, were tested, or
+whether it was a random study of peoples of various caste, ethnic, etc.
+background? Also would anyone know if the report for this study was
+published?
+
+I realize that the British did much in trying to assemble ethnographic
+data of Her Majesty's subjects and had published these records in numerous
+Census of India volumes. But nothing like this!
+
+Regards,
+Anshuman Pandey
+University of Washington
+apandey at u.washington.edu
+
+
+
+
+

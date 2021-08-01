@@ -1,0 +1,45 @@
++++
+title = "328 Samar Abbas"
+date = "1998-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014664.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014664.html)
+
+On Thu, 17 Dec 1998, Paul Kekai Manansala wrote:
+
+> In Talageri's letter, he claimed that the Hindutva side did not hold the
+> position that Indo-European languages originated in India. Does anyone
+> know where they do believe IE came from?
+
+ There is no one theory that the "Indic Home for Aryans" side holds, there
+are many different variants:
+
+1. The Aryans originated in Aryavarta (modern UP), then spread into
+Sapta Sindhu and then expanded all across the world after the collapse of
+the Indus Valley
+2. The Aryans originated in Sapta Sindhu (Punjab) and then after the
+collapse of the "Vedic Indus" migrated all across the world.
+3. The Aryans originated near Mt.Meru (in Tibet/Himalayas ?) and then
+spread all across the world. In favour of this theory are the following
+points:
+ + Mt. Meru is sacred to Aryas.
+ + Some legends claim lost cities exist near Mt.Meru,
+ + Other legands hold that underground cities with the
+   "pure Aryans" (`devatas' ?) still live in a pure
+   hyper-civilization there. Numerous `bottomless caves' are said to lead
+   to those cities.
+
+ Theory 2. is favoured by some, but many Aryanists don't like it because
+Sapta Sindhu is now located in Pakistan.
+ Theory 1. is now the most popular (in fact, that is the view propagated
+in most of the Aryanist books, incl. Talageri's).
+ I think you may have heard about Theory 3. This is, as far as I know, the
+only variant of the Indo-centric theories that postulates a non-Indian
+origin of Aryans. But it is not in favour because Meru is (probably) in
+Red China.
+
+Samar
+
+
+

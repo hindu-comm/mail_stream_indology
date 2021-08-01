@@ -1,0 +1,54 @@
++++
+title = "118 Mittal Sushil"
+date = "1996-09-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-September/005823.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-September/005823.html)
+
+
+
+Greetings:
+
+This is addressed to those of you who correspond with me. My apologies to
+others. Also, apologies to those who recieve more than one copy of this
+notice, which is crossposted. 
+
+End of this month I'm off to India for four months' of field and library
+research. 
+
+My contact address in India for the period Oct 8, 1996-Jan 20, 1997 is
+
+			Sushil Mittal
+			Prem Sadan
+			Roshan Ganj, Holigate
+			Mathura, U.P. 281 001
+			INDIA
+
+I can be reached daily by PHONE at 91-565-404932, until noon EST; by FAX
+(upon voice request) at 91-565-408498 (please put "c/o Ghurrimal
+Bhikkimal" beside my name); by EMAIL at <postmast at sici.delnet.ernet.in>
+(please put my name against the subject). 
+
+PLEASE NOTE:  -Best time to send a fax is between 6 to 10 am EST.
+       	      -I will be checking my email messages once every ten days or
+	      so, since the computer account is in another city, New Delhi.
+
+With cordial regards,
+
+
+sushil mittal
+
+
+
+
+
+
+
+
+
+
+
+
+
+

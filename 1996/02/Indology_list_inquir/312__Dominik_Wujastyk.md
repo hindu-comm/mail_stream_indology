@@ -1,0 +1,43 @@
++++
+title = "312 Dominik Wujastyk"
+date = "1996-02-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004323.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004323.html)
+
+
+International Buddhist Research and Information Center said:
+> Is there a digest version of the list ?
+
+Yes. In fact, the listserv software that INDOLOGY uses has quite a
+number of nice features that you might want to know about (like being
+able to turn INDOLOGY on and off when you are away for a few days,
+without having to unsubscribe completely, etc.).
+
+If you send the message
+        help
+to the address
+        listserv at liverpool.ac.uk
+you get information about the various controls that the software offers.
+
+The main command for this sort of thing is "set".  If you send the
+message
+        help set
+to the above address, you get a response which includes how to tell
+INDOLOGY to send you not separate messages, but periodical
+newsletter-like groupings of messages.
+
+To get INDOLOGY digested, what you do is send the message
+        set indology mail digest
+to the address
+        listserv at liverpool.ac.uk
+
+Best wishes,
+Dominik Wujastyk
+
+
+
+
+
+

@@ -1,0 +1,25 @@
++++
+title = "01 ZYSK at EDU.NYU.ACFCLUSTER"
+date = "1991-12-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-December/000176.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-December/000176.html)
+
+Status: RO
+
+Conerning Emmerick's comments on Nagari: The concern I was expressing
+with respect to errors centres around the large number of diacritics which
+must be checked in proofs. My eye at least will more easily pick up
+errors in the script. When looking at roman with diacritics I tend to miss
+much more. Also I am more likely to pronounce the script text in my mind when
+reading that to relie on visual inspection as with roman. Perhaps this is
+particular to me and may not be general for all who work with these
+materials. Emmerick's comments on politically based concerns add an
+additional element to the discussion, not considered previously.
+
+K.G. Zysk
+
+
+
+

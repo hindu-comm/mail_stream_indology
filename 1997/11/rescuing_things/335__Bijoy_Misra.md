@@ -1,0 +1,24 @@
++++
+title = "335 Bijoy Misra"
+date = "1997-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/010039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/010039.html)
+
+I said I won't comment.  But I must make a statement.
+Anyone thinking of so called "rescue" of documents
+from India or the subcontinent is utterly on
+the wrong track.  It's not a question of credentials,
+it's one of ethics.  It's a personal view, but
+I believe I am speaking on behalf of a large number
+of silent and "out of list" people.  All work
+can be done on site or by collaboration.
+
+Thank you all for your respect to a country's
+heritage and her people.
+
+- Bijoy Misra.
+
+
+

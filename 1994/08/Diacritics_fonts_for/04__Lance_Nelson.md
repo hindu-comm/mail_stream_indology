@@ -1,0 +1,42 @@
++++
+title = "04 Lance Nelson"
+date = "1994-08-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-August/001132.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-August/001132.html)
+
+Contact Linguist's Software, P.O. Box 580, Edmonds, WA 98020-0580,
+206/775-1130.  They have a font for about $100.
+
+==============================================================================
+Lance E. Nelson                                    Phone: 619/260-4600, x4407
+Religious Studies                                           FAX: 619/260-2260
+University of San Diego                        San Diego, CA 92110-2492 U.S.A. 
+==============================================================================
+
+
+On Tue, 2 Aug 1994, edeltraud harzer clear wrote:
+
+> 
+> Dear Colleagues,
+> I am trying to find a means of writing diacritics for Sanskrit
+> transcription using Microsoft Word for Windows on a PC.
+> Has anybody any suggestions? Or can somebody point me to where
+> I can look?
+> Specifically I need to be able to write:
+>   = a dot under 'n', 'm', 'h', 'th', and 's'
+>   = a circle under 'r' (or a dot will do)
+>   = matra over vowels (and 'r')
+>   = acute accent over 's'
+> Any help appreciated. Thanks in advance.
+> Edeltraud (eclear at bronze.ucs.indiana.edu)
+> 
+>  
+
+
+
+
+
+
+

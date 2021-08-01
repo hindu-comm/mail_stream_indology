@@ -1,0 +1,23 @@
++++
+title = "23 SAMUELS JEFFREY"
+date = "1993-09-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-September/000678.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-September/000678.html)
+
+     I am currently attempting to find an ftp site where I can
+download Roman fonts for transliterating the Sanskrit alphabet.  I
+need these fonts to run under the Microsoft Word for Windows
+environment.  If anyone in the Indology group is aware of any such
+sites (and the directory and filename), please drop me a note.  My
+e-mail address is: samuels at ucsu.colorado.edu
+
+              Thanks for your help,
+
+                       Jeff Samuels
+
+
+
+
+

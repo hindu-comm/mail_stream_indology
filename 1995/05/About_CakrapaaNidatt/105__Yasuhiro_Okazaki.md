@@ -1,0 +1,25 @@
++++
+title = "105 Yasuhiro Okazaki"
+date = "1995-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002496.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002496.html)
+
+Dear Members
+I am interested in CakrapaaNidatta, who is one of the commentaters of 
+Carakasamhitaa. I am not a specialist of AAyurvedic texts, but of VaizeSika. 
+So
+I have few information about CakrapaaNidatta. As far as my recognition, he
+may preserve early or medival VaizeSika theory. I want to get more information
+
+about him, his works, articles on him. If someone have such an
+infromation, please teach me.
+Best regards
+Yasuhiro Okazaki
+Yasuhiro Okazaki (khb12400 at niftyserve.or.jp)
+
+
+
+
+

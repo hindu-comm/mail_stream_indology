@@ -1,0 +1,39 @@
++++
+title = "171 Vasudha Narayanan"
+date = "1997-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010203.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010203.html)
+
+Professor J.E Llewellyn is planning to be there next spring.  He has set up
+a Kumbh Mela home page at
+http://www.smsu.edu/contrib/relst/kumbhmela.html.
+For further information, you may contact Jack at  JEL807F at WPGATE.SMSU.EDU
+Best wishes, Vasu
+
+Vasudha Narayanan
+Professor
+Department of Religion
+125 Dauer Hall, University of Florida
+Gainesville, FL 32611
+
+>Dear members of Indology list
+>
+>Could anybody kindly give me detailed informations on the Kumbha mela as
+>it will take place in Haridwar in spring of 1998?
+>It seems to be a 'big' one, as it takes place every 12 years. As a
+>research group of our institute we plan to go to Cidambaram in February,
+>during Sivaratri - if things turn out fine, we are thinking to connect
+>this stay with a visit at Haridwar in March; only we are not sure
+>whether it will be a proper time to go.
+>Does anybody knows about special tithis/ ritual events connected with
+>kumbha mela in March?
+>Any kind of further informations on this subject is most welcome.
+>
+>Marianna Kropf
+>
+>
+
+
+

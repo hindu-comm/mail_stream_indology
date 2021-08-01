@@ -1,0 +1,33 @@
++++
+title = "271 Dominik Wujastyk"
+date = "1997-06-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008598.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008598.html)
+
+
+Dr Yasuhiro Okazaki has very kindly made available to INDOLOGY users a
+ready-compiled Mac version of Charles Wikner's Sanskrit system for TeX.
+
+The file is called wikner-skt-mac.binhex and is available from
+   ftp.ucl.ac.uk:/pub/users/ucgadkw/indology/software
+or
+   http://www.ucl.ac.uk/~ucgadkw/indology.html
+   under "Supplementary Archive".
+
+
+
+All the best,
+Dominik
+
+--
+Dominik Wujastyk               Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+
+
+
+
+
+

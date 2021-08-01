@@ -1,0 +1,28 @@
++++
+title = "336 Jan Brzezinski"
+date = "1998-06-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012919.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012919.html)
+
+----------
+> At 12:52 21.06.98 +0100, you wrote:
+> >According to Feuerstein, The Philosophy of Classical Yoga, p. 85,the roots
+> >of the word samadhi are sam (= with, together) + A + dhA (= to put, place)
+> >
+> >I have also found another derivation in Swami Muktibodhananda's edition of
+> >the Hatha Yoga Pradipika, p. 421, as sama (= equal) and dhi (=
+> >"reflection", "to perceive").
+> >
+> >I am a novice in sanskrit, but I can see that sam and sama are really the
+> >same word, whereas dhA and dhi seem not to be the same.  I would be
+> >grateful if someone with more knowledge if sanskrit could explain the
+> >correct derivation.
+
+Swami Muktabodhananda has exploited the similarity between the word sama-dhIH and samAdhi to explain the meaning of the word. There is in fact no etymological relationship between the two words, except perhaps at a great distance, as Dr. Fosse has shown.
+
+Jan
+
+
+

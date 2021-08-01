@@ -1,0 +1,19 @@
++++
+title = "244 Peter Gaeffke"
+date = "1996-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004271.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004271.html)
+
+Has anybody knowledge of a custom practiced among women of Hindu (?) or 
+Muslim(?) warriors to stand behind the fighter in battle and let the end 
+of the sari (ancal) fly over him. In such a situation the woman holds 
+in her left hand a tray (arati). This particular "rite" is seen  as a promise to 
+die with the hero if he is killed in battle. Descriptions of this rite 
+appear in medieval texts from the Dekkhan.
+Peter Gaeffke 
+
+
+
+

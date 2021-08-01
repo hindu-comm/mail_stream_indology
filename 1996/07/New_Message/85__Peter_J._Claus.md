@@ -1,0 +1,46 @@
++++
+title = "85 Peter J. Claus"
+date = "1996-07-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-July/005463.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-July/005463.html)
+
+
+
+Date: July 21, 1996 
+
+Indology List
+indology at Liverpool.ac.uk
+
+Dear Members
+
+As co-editor of a forthcoming encyclopedia of South Asian
+folklore, I am in the final stages of trying to find authors for
+a small number of remaining articles.  I would welcome self-
+nominations or suggestions for authors for the following topics. 
+
+  FORTUNE TELLERS           Words:  600  
+  TRANSVESTISM              Words:  750  
+  DASARA                    Words:  600
+  HOLI                      Words:  600
+  KRISHNA                   Words: 1000
+  TOYS: (CARTS, DOLLS, HOOPS, KITES, TOPS, ETC.) (Words: 1000)
+
+The encyclopedia will  be a single-volume, 500,000-word
+(approximately 1000 pages, large format) reference work usable by
+university students, scholars, and general readers, covering the
+world region from Bangladesh to Afghanistan, Tibet to Sri Lanka. 
+It will supply a survey of research on South Asian verbal arts,
+folklife and material culture, in approximately 800
+alphabetically-arranged entries, with appropriate illustrations
+and maps.
+
+
+Peter J. Claus                        
+fax: (510) 704-9636
+pclaus at csuhayward.edu
+
+
+
+

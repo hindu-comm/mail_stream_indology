@@ -1,0 +1,30 @@
++++
+title = "177 mani at srirangam.esd.sgi.com"
+date = "1995-08-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/003014.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/003014.html)
+
+It appears to me that the brahmin/brahman difference is
+a south Indian / north Indian one, as I implied before,
+with no condescension implied in either. Almost invariably, 
+south Indian writers use "brahmin". (There are a few exceptions, 
+such as in the title of  K. Rangachari's monograph 
+"Sri Vaishnava Brahmans".) "Brahman" I have seen much more often 
+in the writings of north Indians; I think this reflects the 
+pronounciation of the word in the spoken English of the 
+different regions.
+
+Since Western Indologists are more acquanted with north
+Indians and north Indian writers than otherwise, it is but
+natural that "brahman" is used more often by Western
+writers.
+
+Mani
+
+
+
+
+
+

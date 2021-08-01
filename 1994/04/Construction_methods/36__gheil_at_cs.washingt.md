@@ -1,0 +1,44 @@
++++
+title = "36 gheil at cs.washington.edu"
+date = "1994-04-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-April/001018.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-April/001018.html)
+
+Dominik
+
+Thanks, I was just searching through a general periodical index
+and found:
+
+Tahta, dick (The mathematical gazette. 03/01/92)
+On the geometry of the sri yantra
+MAR 01 1992 v 76 n 475 p 49-60
+
+I will trundle over to the Math library soon on this one! In
+general I find Math to be a poorly cataloged subject, on line at
+least. Nearest index I could think of was INSPEC which apparently
+does not cover this journal.
+
+Rory Fonseca also seems concerned with the pyramids. He cites
+himself:
+
+The geometry of Zoser's Step Pyramid at Saqqara
+Rory Fonseca.
+Journal Society of Architectural Historians
+1986 Dec v45 n4 p333-338
+
+(which is not available here) in his Sri Yantra article:
+
+Constructive Geometry and the Sri-Cakra Diagram
+Rory Fonseca
+Religion (Academic Pr) v16p33 1986
+
+Does anyone have Fonseca's or Tahtas EMail address?
+
+-Greg Heil
+
+
+
+
+

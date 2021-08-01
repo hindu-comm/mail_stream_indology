@@ -1,0 +1,32 @@
++++
+title = "208 John Brockington"
+date = "1996-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004210.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004210.html)
+
+I would like to welcome warmly the announcement just posted on the Indology list by 
+Asko Parpola about the establishing of an institutional network for collaboration in 
+the field of classical South Asian studies in Europe.    We should all be grateful to 
+our colleagues in Scandinavia for taking this initiative.   It will be, I am sure, an 
+important development and on behalf of the Department of Sanskrit in Edinburgh I wish 
+to announce that we should be pleased to become involved with this venture in whatever 
+way proves feasible for a department of just two members (Paul Dundas and myself).   
+
+
+John Brockington
+
+
+
+Dr J. L. Brockington
+Department of Sanskrit 
+The University of Edinburgh
+7 Buccleuch Place, Edinburgh, EH8 9LW
+
+tel: +131 650 4174 
+e-mail: J.L.Brockington at ed.ac.uk  
+
+
+
+

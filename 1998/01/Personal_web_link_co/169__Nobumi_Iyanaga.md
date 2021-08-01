@@ -1,0 +1,54 @@
++++
+title = "169 Nobumi Iyanaga"
+date = "1998-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010397.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010397.html)
+
+Hello,
+
+I have added yesterday a new page to my web site: a "Personal collection of
+links" page, where I gather about a hundred urls of Internet resources
+related to the Buddhist studies or other fields of my interests (each one
+with a brief description).  Here is the url:
+
+http://www.bekkoame.or.jp/~n-iyanag/links.html
+
+Here are the main headings of this page:
+
+Search Engines/Miscellanea
+Asian Studies in general
+Buddhism
+Indology
+Sinology
+Japanology
+Books, Libraries, Bookstores
+Software/Computer
+Others
+
+Most of these urls have been reported and discussed in our electronic
+discussion group "Paso-kon Toohoo-kenkyuu" (Personal Computer and Asian
+Humanity Studies) in the Japanes commercial BBS
+(http://www.niftyserve.or.jp/) (GO command: FJAMEA MES 11), by some of the
+members of the group or by myself.   In this sense, this page is the result
+of collaboration of many members of our group.  I am most grateful for all
+goodwill of our members.
+
+There are many urls of Japanese interesting sites that are probably not very
+well known in the U.S. or other parts of the world.  Although this page is
+"under construction", I hope that it can be useful for some of the members
+of this mailing list.  And thank you in advance for any feedback or
+suggestions.
+
+Best regards,
+
+Nobumi Iyanaga
+Tokyo,
+Japan
+
+P.S.  I posted the same message to Buddha-L list.  I am sorry for those who
+received this twice...
+
+
+

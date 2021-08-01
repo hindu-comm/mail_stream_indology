@@ -1,0 +1,25 @@
++++
+title = "175 mdrosse at pobox.upenn.edu"
+date = "1995-02-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/002028.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/002028.html)
+
+To whom it may concern,
+         I am interested to find out more about: 
+"indology at liverpool.ac.uk," what it is, what it does, who can gain access 
+to it, and how one gains access to it, for example from a computer 
+terminal in the library of the University of Pennsylvania, where I am now.
+        I was given your internet address by another scholar, whose 
+address is "Jwoo at sas.upenn.edu." and he also is interested in using 
+"indology."  Could you send the same reply to him?
+        Any information you can give us in this regard will be highly 
+appreciated. We are eager to get started!
+        Thank you, 
+                 Michael D. Rosse  
+
+
+
+
+

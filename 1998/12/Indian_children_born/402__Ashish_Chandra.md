@@ -1,0 +1,27 @@
++++
+title = "402 Ashish Chandra"
+date = "1998-12-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014716.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014716.html)
+
+Ahimsa sakalo dharma.
+
+Ahimsa is not only the absence of himsa but the active opposition of it
+(himsa). - Paramhamsa Yogananda (Autobiography of a Yogi)
+
+Shri Banerjee, it is not in the saying but in the doing. Our forefathers
+realized this a long time ago and have preached it through their works and
+words.
+
+No more comments on this please. Please visit http://www.idrf.org for some
+of the work "hate-mongers" have done and are doing.
+
+Thanks
+Ashish
+
+[ Sumedh's and Shri Banerjee's dialogue deleted]
+
+
+

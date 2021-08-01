@@ -1,0 +1,39 @@
++++
+title = "183 Richard Salomon"
+date = "1995-02-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/002029.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/002029.html)
+
+Ashok,
+
+Thanks very much for your prompt and helpful response.  Your second 
+suggestion, i.e. kau # mudam, sounds quite convincing to me.
+
+-Rich
+
+On Tue, 21 Feb 1995 aklujkar at unixg.ubc.ca wrote:
+
+> I think in the verse concerned we should, on the yaaga side, take kaumudam
+> as meaning 'full moon day of A'svina/Kaarttika' (a meaning attested in the
+> dictionaries of Apte, Monier-Williams etc.) or as meaning 'kau # mudam, on
+> earth ... delight' (a sabha.nga-'sle.sa). In the first case, the suggestion
+> would be that the yaagas were so numerous that they turned all days into
+> the bright full moon days of A'svina-Kaarttika. However, since this may
+> imply the unlikely situation that the yaagas were performed at night, the
+> second meaning should not be ruled out. Use of ku in the sense of 'earth'
+> is not uncommon in Skt punning. 
+> 
+> Ashok Aklujkar, Professor, Department of Asian Studies, University of B.C.,
+> Vancouver, B.C., Canada V6T 1Z2. Tel: O: (604) 822-5185, R: (604) 274-5353.
+>  Fax O:
+> 822-8937. E-mail: aklujkar at unixg.ubc.ca
+> 
+>  
+> 
+
+
+
+
+

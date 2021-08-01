@@ -1,0 +1,38 @@
++++
+title = "123 GANESANS at cl.uh.edu"
+date = "1997-05-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008098.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008098.html)
+
+
+                COLOR OF SKIN
+               **************
+
+Prof. P. Claus wrote:
++varna is related to an abstract color scheme, with white
++associated with Brahman, red with Ksatriya, or yellow with
++Vaishya, black with Sudra; and various steriotypical behaviours
++correlated with this.
+
+Can anybody please give some references? I want to know how black color
+of skin is associated with things mean from Indian writings.
+
+Interestingly, I heard from a student at Columbia university that
+why Blacks detested the word, "Nigger"? Nigger, it seems in Latin
+ not only means black, but "evil". He informed me: the humanistic philosopher
+Nietzsche discusses this in his famous book, "Beyond Good
+and Evil". Any relevent passage from Nietzsche's writings will be appreciated.
+
+Any parallel thoughts from Sanskrit works? Manu? smricandrika?
+chaturvargachintAmaNi? Any subaltern research papers on how Shudras 
+were denigrated in Indian elite writings?
+
+Thanks,
+N. Ganesan
+
+
+
+
+

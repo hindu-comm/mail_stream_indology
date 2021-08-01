@@ -1,0 +1,54 @@
++++
+title = "74 Mittal Sushil"
+date = "1996-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005311.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005311.html)
+
+
+
+				      Announcement and Call for Papers
+
+		Special Issue: "Popular Hinduism and Society in India"
+
+
+The _International Journal of Hindu Studies_ is planning a special issue
+for September 1998 on Popular Hinduism and Society in India. We welcome
+submissions of an interdisciplinary nature. Comparative and theoretical
+articles are especially encouraged. 
+
+Manuscripts should be no longer than 30-35 pages, including endnotes and
+references. They should be prepared according to the _International
+Journal of Hindu Studies_ style sheet (which will be sent on request). 
+Authors should send _four_ copies of their manuscript to the Editorial
+Secretary, _International Journal of Hindu Studies_, International
+Institute of India Studies, 1270 St-Jean, St-Hyacinthe, Quebec, Canada J2S
+8M2. Manuscripts must arrive no later than September 1997, in order to be
+considered for the special issue. Manuscripts will be evaluated through
+the usual _International Journal of Hindu Studies_ peer reviews. 
+
+Questions regarding the special issue should be addressed to Sushil Mittal
+(International Institute of India Studies, 1270 St-Jean, St-Hyacinthe,
+Quebec, Canada J2S 8M2. Tel 514 771 0213 Fax 514 771 2776 Email
+<mittals at ere.umontreal.ca>). 
+
+-------------------------------------------------------------------------
+
+Other IJHS special issues planned:
+
+"How the study of Hinduism might contribute in larger ways to the study 
+of religion?" (planned for March 1998)
+
+"Book Symposium on Robert Levy's _Mesocosm: Hinduism and the Organization 
+of a Traditional Newar City in Nepal_" (planned for December 1997)
+
+--------------------------------------------------------------------------
+
+
+
+
+
+
+
+

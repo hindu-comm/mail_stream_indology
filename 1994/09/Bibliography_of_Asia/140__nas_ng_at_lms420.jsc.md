@@ -1,0 +1,33 @@
++++
+title = "140 nas_ng at lms420.jsc.nasa.gov"
+date = "1994-09-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001331.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001331.html)
+
+
+
+
+     Bibliography of Asian Studies
+     -----------------------------
+
+Dear members,
+
+What happened to Bibliography of Asian studies (BAS) from Association
+of Asian Studies, Univ. of Michigan? The advertisements for new
+voulmes used to appear in Journal of Asian Studies. The last BAS
+I saw was for the year 1986 published in 1991. It used to be a very good
+source for knowing the titles of articles on India. Atleast, the new
+book titles can be found thru' computer catalogs of university
+libraries, but not the journal articles.
+
+Hope BAS hasn't ceased its publication.
+
+N. Ganesan
+nas_ng at lms461.jsc.nasa.gov
+
+
+
+
+

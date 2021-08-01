@@ -1,0 +1,37 @@
++++
+title = "179 phil013 at csc.canterbury.ac.nz"
+date = "1994-09-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001380.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001380.html)
+
+Thanks, Julia.  I think we all needed that.  Here's another:
+
+  Why God Never Received Tenure at a University:
+  ------------------------------------------------
+     1.  Because He had only one major publication.
+     2.  And it was in Hebrew.
+     3.  And it had no references.
+     4.  And it wasn't published in a refereed journal.
+     5.  And some even doubt that He wrote it Himself.
+     6.  It may be true that He created the world,
+         but what has He published/done since?
+     7.  His cooperative efforts have been quite limited.
+     8.  The scientific community has had a very rough time
+          trying to replicate His results.
+                              ------- Byeonggile Ahn
+Bo Sax
+Head of Religious Studies
+University of Canterbury
+Private Bag 4800
+Christchurch-I
+New Zealand
+
+Tel. (03) 364-2230
+FAX  (03) 364-2007
+e-mail: phil013 at csc.canterbury.ac.nz 
+
+
+
+

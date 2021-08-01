@@ -1,0 +1,44 @@
++++
+title = "10 Peter J. Claus"
+date = "1996-12-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006605.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006605.html)
+
+
+
+
+Date: December 19, 1996 
+
+Indology List
+indology at Liverpool.ac.uk
+
+Dear Members,
+
+Can anyone suggest references (in English) on water in
+Indian culture?  I am particularly interested in
+environmental concepts such as finding sources of water
+(water dosing), conceptions of subsurface water
+(Patalaloka; Nagas and water; the idea that all rivers
+and underground water are linked to the Ganges)
+concepts of water and purity, means of purifying water,
+both ritually and in terms of sanitation, and myths
+related to all of the above.  
+
+It is that time of year which the university
+administration (where DO we get these people??) calls
+"vacation" and so closes the university library!
+
+
+
+
+Peter J. Claus                        
+fax: (510) 704-9636
+pclaus at csuhayward.edu
+
+
+
+
+
+

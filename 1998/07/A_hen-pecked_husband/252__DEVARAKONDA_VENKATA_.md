@@ -1,0 +1,53 @@
++++
+title = "252 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1998-07-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013285.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013285.html)
+
+Given below is an account of a classical hen-pecked husband from
+viSNupurANa (4.12.12-32)
+
+-----------------------------------------------------------------
+tasyAyamadyApi jayadhvajasya zlOkO gIyatE.(12)
+
+bhAryAvazyAs tu yE kEcid bhaviSyantyadhavA mRtaH
+tESaM tu jyAmaghaH zrESTaz zaivyApatir abhUn nRpaH. (13)
+aputrA tasya sA patnI zaivyA nAma tathApyasau
+apatyakAmO~pi bhayAn nAnyAM bhAryAm avindata. (14)
+
+sa tvEkadA prabhUta-ratha-turaga-gaja-sammardAtidAruNE mahAhavE
+yudhyamAnaH sakalam EvAricakram ajayat.(15) taccAricakram apAsta-
+putra-kalatra-bandhu-bala-kOzaM svamadhiSTAnaM parityajya dizaH
+prati vidrutam.(16) tasmiMca vidrutE~titrAsalOlAyatalOcanayugalaM
+trAhi trAhi mAM tAtAmba-bhrAtar-ityAkula-vilApa-vidhuraM sa rAja-
+kanyAmadrAkSIt.(17) taddarzanAcca tasyAm anurAgagatAntarAtmA sa
+nRpO~cintayat.(18) sAdhvidaM mamApatyarahitasya vandhyAbhartuH
+sAmprataM vidhinA~patyakAraNaM kanyAratnam upapAditaM.(19) tadEtat
+samudvahAmIti.(20) athavainAM syandanamArOpya svamadhiSTAnaM
+nayAmi.(21) tayaiva dEvyA saivyayAhamanujJAtas samudvahAmIti.(22)
+
+athainAM rathamArOpya svanagaram agacchat.(23) vijayinaM ca rAjAnam
+azESapaura-bhRtya-parijana-amAtya-samEta zaivyA draStum adhiSTAnadvAram
+AgatA.(24) sA ca avalOkya rAjJaH savyapArzvavartinIM kanyAm
+ISad-udbhUtAmarSa-sphurad-adharapallavA rAjAnam avOcat.(25)
+aticapalacittAtra syandanE kEyamArOpitEti.(26) asAvapyanAlOcitOttara-
+vacanO~tibhyAttamAha snuSa mayEyamiti.(27) athainaM zaivyOvAca.(28)
+
+nAhaM prasUtA putrENa nAnyA patnyabhavattava
+snuSasambandhatA hyESA katamEna sutEna tE.(29)
+
+ityAtmErSyA-kOpa-kaluSita-vacana-muSita-vivEkO bhayAd durukta-
+parihArArtham idam avanIpatirAha.(30) yastE janiSyata Atmajas tasyEyam
+anAgatasyaiva bhAryA nirUpitEtyAkarNyOdbhUtamRduhAsA tathEtyAha.(31)
+pravivEza ca rAjJA sahAdhiSTAnam.(32)
+
+---------------------------------------------------------------------
+
+regards,
+
+sarma.
+
+
+

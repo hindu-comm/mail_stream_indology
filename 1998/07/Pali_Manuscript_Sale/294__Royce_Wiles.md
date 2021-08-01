@@ -1,0 +1,27 @@
++++
+title = "294 Royce Wiles"
+date = "1998-07-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013335.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013335.html)
+
+>On Sun, 26 Jul 1998, Lance Nelson wrote:
+>
+>> I've been approached by an elderly lady, a member of our local Indian
+>> community.  She has an old Pali palm leaf manuscript that she'd like
+>> to sell.  It's been in her family for ages.  Does anyone have any
+>> suggestions as to how she might go about doing this?
+
+It may be an idea to check that the palm leaf is in fact in "Pali".
+
+If the MS is from Sri Lanka, Burma, Thailand etc. then it is quite possible
+that it is Pali and the script will be a definite clue, but if the MS is
+from India it is not at all likely to be in Pali. I have heard Prakrit MSS
+called "Pali" in India and this may be the case here.
+
+Whatever the case I hope the MS is  investigated and if necessary the
+findings published before it is "lost" to a private collection.
+
+
+

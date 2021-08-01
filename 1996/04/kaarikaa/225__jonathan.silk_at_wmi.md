@@ -1,0 +1,26 @@
++++
+title = "225 jonathan.silk at wmich.edu"
+date = "1996-04-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004832.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004832.html)
+
+I just read A Aklujkar's message in which he said
+the reference of 'Aagama'
+in  'Aagama-;saastra' is more likely to be the body of Brahmanical and
+Buddhist Aagama literature,
+-- Do you mean to suggest that aagama appears, for eaxmple, in a Sa.mkhya
+text, it might refer to Buddhist Aagamas?  Is there any evidence for this? 
+It seems to me l highly unlikely, if for no other reason that (than) that for
+non-Buddhists Buddhist texts should *not* be any type of aagama.  IS it not
+correct that generally (and perhaps there are exceptions) for Vedic /
+Brahmanical / Hindu writers, Buddhist texts -- rejecting as they do the
+authority of the Veda -- cannot themselves be any sort of authority?  But
+perhaps I have misunderstood AA's point.
+
+-J Silk
+
+
+
+

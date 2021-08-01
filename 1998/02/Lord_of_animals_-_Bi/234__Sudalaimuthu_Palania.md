@@ -1,0 +1,29 @@
++++
+title = "234 Sudalaimuthu Palaniappan"
+date = "1998-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010823.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010823.html)
+
+In a message dated 98-02-13 04:35:06 EST, sreeni at KTPSP2.UNI-PADERBORN.DE
+writes:
+
+<< An acquaintance of mine, Professor in Catholic Theology, is looking for
+ references/information about; "Lord of animals" (hope I got the right word
+ in english! in German: Herr der Tiere) in various religions and asked me,
+ if I could tell something about it from Indian context. I only know that
+ "Siva" is known as the Lord of Animals in Hindu mythology, and as a native
+ Telugu, know the story associated with the SreekALahasti (temple).
+  >>
+I think you have to consider the story of prajApati-rudra conflict  wherein
+rudra is made pazupati. I remember reading an article (or was it a book?) by
+Wendy O'Flaherty discussing this in detail. I am sure other Sanskritists can
+give the necessary details. Some discussion of it is found in "The Presence of
+Ziva" by Stella Kramrisch in p.336.
+
+Regards
+S. Palaniappan
+
+
+

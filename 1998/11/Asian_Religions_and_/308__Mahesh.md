@@ -1,0 +1,54 @@
++++
+title = "308 Mahesh"
+date = "1998-11-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014195.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014195.html)
+
+Hello!
+
+I was wondering where Jainism fits into this. I read in a book that
+Buddhists ( during the time Buddha was alive) found that Jains loved to
+debate.
+
+How about the science of logic? Logical thought processes that led to
+questioning of beliefs, and the concept of objectivity and illusion or
+"maya"?
+
+Mahesh
+
+
+
+>Budhdhism had the most exalted frame of logic and Hinduism was the most
+>accomodative , in fact Hinduism is not a relgion in the classical terms of
+>the meaning, itis pity that it is made out to be so by zealots,
+>
+>
+>I wish your conference very well, take care that it does not become a
+>platform for revivalism
+>
+>the science is the basis for any replicable, testable and generalizable
+>statement,
+>
+>every religion has many of such statements just as each has many belifes
+>that are beyond science
+>
+>but the important point is:  where does morality spring from, and can
+>scientific pursuit be carried on without moral context
+>
+>anil
+>
+>Prof Anil K Gupta
+>Indian Institute of Management
+>Ahmedabad 380015
+>india
+>and cordinator SRISTI and HOney bee network
+>
+>http://csf.colorado.edu/sristi/
+>anilg at iimahd.ernet.in
+>http://www.iimahd.ernet.in/~anilg/unesco
+>
+
+
+

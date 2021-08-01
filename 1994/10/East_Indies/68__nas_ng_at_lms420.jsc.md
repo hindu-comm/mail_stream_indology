@@ -1,0 +1,60 @@
++++
+title = "68 nas_ng at lms420.jsc.nasa.gov"
+date = "1994-10-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-October/001463.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-October/001463.html)
+
+
+       Book Title on East Indies?
+       ---------------------------
+
+The following question is with me for a long time. Hope some
+learned member of the group can answer this query.
+
+
+I read from a book by K. Zvelebil that some Tamils who
+emigrated use "cEntanAr's tiruppallANTu" during some festivals.
+
+The book he cites is
+G. K. Vanbrough, The peoples in the East Indies.
+The author and title may not be very exact, though very close.
+
+Can anybody give the exact author, title and year please?
+
+N. Ganesan
+nas_ng at lms461.jsc.nasa.gov
+
+
+Original-Received:  from blue.weeg.uiowa.edu by 
+                   ns-mx.uiowa.edu (8.6.8.2/19940322)	  on Tue, 18 Oct 1994 
+                   11:49:51 -0500 id LAA08441 with ESMTP 
+PP-warning: Illegal Received field on preceding line
+Original-Received:  by 
+                   blue.weeg.uiowa.edu (8.6.9/940408)	  on Tue, 18 Oct 1994 
+                   11:49:51 -0500 id LAA121050 
+PP-warning: Illegal Received field on preceding line
+Date: Tue, 18 Oct 1994 11:49:51 -0500 (CDT)
+From: Frederick M Smith <fsmith at blue.weeg.uiowa.edu>
+Subject: sabhaparvan
+To: indology at liverpool.ac.uk
+Message-ID: <Pine.3.89.9410181148.B117951-0100000 at blue.weeg.uiowa.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+
+I just downloaded Prof. van Nooten's transcription of the Sabhaaparvan 
+and see 240,000+ bytes of gibberish. If anybody out there who uses a 
+Macintosh has successfully downloaded this into readable text, I would be 
+interested in the rahasya, e.g. what font did he use, what ASCII codes 
+are necessary (though I know next to nothing about ASCII), etc.?
+
+Thanks
+
+Fred Smith
+Univ. of Iowa
+
+
+
+
+

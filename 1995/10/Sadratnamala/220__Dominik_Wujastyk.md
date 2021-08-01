@@ -1,0 +1,39 @@
++++
+title = "220 Dominik Wujastyk"
+date = "1995-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003474.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003474.html)
+
+
+The Sadratnamala is a Keralan work on jyotisa, of the tantra type, in
+six chapters.  It was composed in 1823 by Sankaravarman of Katattanat
+(1800--38).  He was a prince, also known as Appu Tampuran, and belonged
+to the royal house of Tampuran in North Malabar.  The Sadratnamala was
+published with auto-commentary in the Malayalam monthly Kavanodayam,
+vol. 16, 1898, Calicut.
+
+Information from the excellent _A history of the Keral school of Hindu
+astronomy_ by K. V. Sarma (Hoshiarpur, Vishvesharanand Institute, 1972).
+No ISBN.
+
+
+-- 
+
+Dominik Wujastyk,
+Wellcome Institute,
+183 Euston Road,
+London NW1 2BE.
+
+FAX: +44 171 611 8545
+email: d.wujastyk at ucl.ac.uk
+
+For my PGP public key etc., see my WWW home page:
+http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
+
+
+
+
+
+

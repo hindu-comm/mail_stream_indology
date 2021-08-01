@@ -1,0 +1,31 @@
++++
+title = "148 Rahul Arora"
+date = "1997-11-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009832.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009832.html)
+
+Dear Members,
+I am trying to find a Manuscript of Laukikanyayaratnakara by
+RAGHUNATHA VARMA UDASINA, said to be in the family library of a scholar
+named Sri R.Krishnaswami Sastri, who edited a part (Brahmatarkastava)of
+the above mentioned book .
+Thank You for the help
+Rahul Arora
+
+
+
+ ==============================================================================
+WHEN THE GOING GETS TOUGH  THE TOUGH GET GOING.
+
+Rahul Arora
+1205 University Avenue,
+Appt#   401,
+Columbia, MO  65201
+Ph:(573)814-5230
+mail: c722773 at showme.missouri.edu
+ ==============================================================================
+
+
+

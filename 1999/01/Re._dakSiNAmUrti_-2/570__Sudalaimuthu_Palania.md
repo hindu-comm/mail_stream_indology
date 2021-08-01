@@ -1,0 +1,41 @@
++++
+title = "570 Sudalaimuthu Palaniappan"
+date = "1999-01-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015470.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015470.html)
+
+That "pin2n2ar" in maturaikkAJci refers to disciples/followers is the right
+interpretation can be seen from the following kantapurANam lines.
+
+muntai vEtam muzutum uNarttiyE
+entai Eka iru nilam pOntu tam
+cintai on2Rum tiRan2 aritu Atalin2
+nontu pin2n2arum nERRalai mEyin2Ar  (kantapurANam 471)
+
+Thus the presence of the zaivite followers of the dakSiNAmUrti cult at potiyil
+mountain must have been a significant and well-known aspect of the Tamil
+region from very early times. The name kuRRAlam, the location of the famous
+waterfalls in potiyil, means "a short banyan tree". As we all know, the banyan
+tree is an integral part of the dakSiNAmUrti motif. The other name of the
+mountain at kuRRAlam is tirikUTamalai (=Skt. trikUTa)
+
+It is this mythical/cult motif of dakSiNAmUrti as a teacher teaching his
+students/followers at potiyil, along with the real world existence of
+grammarians such as tolkAppiyan2 and the teacher of ataGkOTu in the nearby
+area which must have given birth to the myth of ziva teaching Tamil to agastya
+towards the end of the Classical Tamil period.
+
+On the potiyil mountain, there must have been some sculptural representation
+of this motif which was interpreted as avalokitezvara by Buddhists. The
+similarities between some dakSiNAmUrti and avalokitezvara forms are striking.
+This is probably the basis for Hieun Tsang's statement regarding Potalaka.
+Further implications of this will be discussed later in the thread, "Kashmir,
+Tamilnadu, Panini, Abhinavagupta, etc."
+
+Regards
+S. Palaniappan
+
+
+

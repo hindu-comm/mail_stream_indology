@@ -1,0 +1,60 @@
++++
+title = "146 INDIAN BOOKS CENTRE"
+date = "1997-08-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-August/009049.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-August/009049.html)
+
+We are publishing the English translation of the Rgyud-bzi, it
+containsTibetan text in Roman, Sanskrit restoration and English
+translation of the text.Four volumes have been published so far.The
+English translation is by Vaidya Bhagwan Dash, Each volume is US$ 40-00.
+You can also visit our site at http://ibcindia.com
+for books on Ayurveda and Tibetan Medicine
+Thanking you
+Sunil Gupta
+
+
+On Fri, 29 Aug 1997, David Dargie wrote:
+
+> I have a friend who would like to acquire a book dealing with medical
+> diagnosis and treatment in Sanskrit and/or Tibetan.
+> 
+> The book would included Tibetan/Sanskrit original with english translation,
+> perhaps by CandrAnada or rGyu-Zhi or with commentaries by the same.
+> 
+> She already is familar with
+> 
+> Author: Vogel, Klaus
+> Title: Astangahrdayasamhita: the first five chapters of its tibetan version ...
+> Place of Publication: Wiesbaden
+> Publisher: Franz Steiner
+> Publication Date: 1965
+> 
+> 
+> She is especially interested in any text of this ilk that discusses pulses
+> and their diagnosis.
+> 
+> Could anyone help me with this?
+> 
+> Thanks in advance
+> 
+> David Dargie
+> 
+> *****************************************************************
+> David Dargie
+> Centre for Language Teaching and Research
+> University of Queensland
+> email: dargie at lingua.cltr.uq.oz.au
+> Phone: +61 7 3365 6917
+> Home: +61 7 3397 6863
+> *****************************************************************
+> 
+> 
+> 
+
+
+
+
+

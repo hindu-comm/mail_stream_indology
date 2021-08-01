@@ -1,0 +1,41 @@
++++
+title = "459 Erik Hoogcarspel"
+date = "1999-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015376.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015376.html)
+
+Hallo Stephen
+
+Op zondag, 17-jan-99 schreef Stephen:
+
+S> Did not thousands of people convert to Budhism from hinduism during the
+S> reign of Asoka? Didn't many of those revert back to hinduism? What are
+S> these conversions attributed to?
+
+S> Sujatha
+
+S> P.S. Can't conversions be the result of man's constant search for God?
+
+Not very likely given the fact that buddhism rejects beliefs and gods. The
+cases of Ambedkar and Periyar suggest that conversion has been often
+motivated by political factors. Even today there're many dalits who don't
+consider themselves to be a hindu.
+
+Regards
+--
+erik
+
+
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+  Erik Hoogcarspel           <    jehms at kabelfoon.nl     ><
+Boerhaaveln 99b     >
+                             <    tl+31.(0)104157097    ><       3112 LE
+Schiedam    >
+                             <    fx+31.(0)842113137    ><       Holland
+        >
+ *===================================================================================*
+
+
+

@@ -1,0 +1,48 @@
++++
+title = "107 Dominik Wujastyk"
+date = "1995-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002216.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002216.html)
+
+Sugandha Johar said:
+> 
+> I am working on the archaeology of Western Indian sea ports, and am
+> currently in quest of the copper trail.
+> 
+> India has always been defficient in copper, and from the 16th century
+> onwards we have records of copper imports from Japan and Africa.
+
+Himanshu P. Ray's book, _Winds of Change: Buddhism and the maritime
+links of early South Asia_ (Delhi: OUP, 1994), pp.44f.,  mentions the
+problem of the early Kushanas' copper coinage.  They issued large
+numbers of copper coins, but -- she says -- there is little evidence
+that they controlled either of the ports along the west coast or those
+at the mouth of the Indus.
+
+Kenneth McPherson, _The Indian Ocean: a history of the people and the
+sea_ (Delhi: OUP, 1993), has several references to Indian Ocean copper
+trade.  He notes that copper had always been in short supply in the IO
+area in ancient times, as you say, and that supplies of (copper and)
+silver started to circulate in this area from Japan and the Americas
+from the 16th century on.  The early Portuguese traders inserted
+themselves into the "loop" of local trading patterns, which included the
+trading of copper between India, SE Asia, China and Japan.
+
+I'm afraid this doesn't add much.
+
+Incidentally, I have a similar interest in mercury imports.  As far as
+I can see, there is little or no naturally occurring mercury in
+peninsular India.  Yet from the ninth century onwards (and perhaps a
+little earlier) there arises a rich alchemical literature in India which
+presupposes a good supply of mercury for all sorts of operations.  Where
+was the metal coming from?
+
+Dominik
+
+
+
+
+
+

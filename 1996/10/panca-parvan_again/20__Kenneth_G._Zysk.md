@@ -1,0 +1,20 @@
++++
+title = "20 Kenneth G. Zysk"
+date = "1996-10-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005883.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005883.html)
+
+
+Ashok gave me a reference to panca-parva in the Yogasutra. For that, I am
+most grateful. However, the panca-parvan with which I need help derives
+from the tradition of jyotihsastra, and refers to five changes, including
+the time of the new and full moons. Specifically, I would like to know
+what the five are, and where in the literature they are mentioned. parvan
+here is neut. noun. Many thanks again. Ken
+
+
+
+
+

@@ -1,0 +1,24 @@
++++
+title = "38 Frederick M Asher"
+date = "1994-11-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001538.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001538.html)
+
+I'm bothered by the spate of I quit messages.  To assume that what we do 
+with our intellectual lives is totally without political ramifications 
+seems to me way off base.  Indology may derive its primary stimulus from 
+texts of the past--and I include here as text my own primary interest, 
+monuments initially constructed in the past--but those texts are 
+perpetually reshaped...as much by present-day discourse as by 
+ancient interpolations.  I thus don't see the political discussions any 
+more out of place in this group than, for example, a debate among art 
+historians about an Asokan pillar capital recut during the Gupta period.  
+It's just that we're more heavily invested in the current debate.  Rick Asher
+
+
+
+
+
+

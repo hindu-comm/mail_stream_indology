@@ -1,0 +1,28 @@
++++
+title = "108 Marie Genevieve Guesdon"
+date = "1997-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009975.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009975.html)
+
+>To: listproc at liverpool.ac.uk
+>From: marie-genevieve.guesdon at bnf.fr
+>Subject:
+>Cc:
+>Bcc:
+>X-Attachments:
+>
+>subscribe INDOLOGY Marie Genevieve Guesdon
+>
+Marie Genevieve GUESDON
+Bibliotheque nationale de France
+Departement des manuscrits, division orientale
+58, rue de Richelieu
+75084 Paris Cedex 02
+tel 33-1-47 03 75 91
+Fax 33-1-47 03 76 65
+e-mail marie-genevieve.guesdon at bnf.fr
+
+
+

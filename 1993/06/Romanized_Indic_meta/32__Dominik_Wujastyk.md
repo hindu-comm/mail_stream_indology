@@ -1,0 +1,45 @@
++++
+title = "32 Dominik Wujastyk"
+date = "1993-06-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-June/000548.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-June/000548.html)
+
+In message Fri, 18 Jun 93 22:30:57 BST,
+  Thomas "B." Ridgeway <ridgeway at edu.washington.hacc.blackbox>  writes:
+
+> The Humanities and Arts Computing Center of the University of Washington
+> is making available for anonymous ftp a series of fonts in metafont
+> source code format.
+
+Tom, this is a singular service to the scholarly community at large.
+
+On behalf of myself and all INDOLOGISTs, I should like to thank you and the
+staff of your Center for this generous donation of many man-hours of work
+for the general weal.
+
+Many INDOLOGISTS who do not use TeX may decide that now is the time to have
+a look at the system.  With your wnri fonts, the scholar may now keep Indic
+language texts in the CSX coding, and typeset them directly with TeX, either
+for printing on proof devices such as matrix or laser printers, or at full
+publishing quality on phototypesetters.  TeX is completely portable (DOS,
+OS/2, Macintosh, Atari, Amiga, Unix, etc.), prints on almost all known
+printing devices, and is free for downloading from ftp.tex.ac.uk and other
+archives.  Now we have CSX outline fonts for using TeX seamlessly with
+Indian language material.  (There are also Devanagari, Tamil, Malayalam,
+and Telugu fonts for TeX, all free).
+
+The new wnri fonts may also be converted to Hewlett Packard soft fonts, if
+TeX isn't your thing.
+
+Again, Tom, a big thank you.
+
+Dominik
+--
+Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
+
+
+
+
+

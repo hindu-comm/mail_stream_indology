@@ -1,0 +1,4 @@
++++
+title = "1. Horse and 2. Dice in India"
+
++++

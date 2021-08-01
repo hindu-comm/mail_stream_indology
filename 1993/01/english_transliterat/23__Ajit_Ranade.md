@@ -1,0 +1,27 @@
++++
+title = "23 Ajit Ranade"
+date = "1993-01-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-January/000401.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-January/000401.html)
+
+Dear Devanagari TeX Users and others:
+
+How does one get English transliterations (with
+diacriticals) using TeX?  I would prefer a TeX based
+solution (since I am sure WordPerfect and other Mac
+based solutions exist).  Needless to add, I know how to
+typeset Devanagari fonts (using Devanagari TeX).  But
+it's the rendering in English i.e. with all the
+diacriticals that Sanskrit requires -- which is what I
+am looking for.  (I suspect it is similar to typing
+Spanish, or Norwegian etc i.e. all Roman script
+languages with their graves and accents.)  Dominik, I
+aplogize if this query is hopelessly naive!  Are the
+accents supported in plain (or La)TeX adequate for
+Sanskrit?  Thanks for any response.. Ajit Ranade
+
+
+
+

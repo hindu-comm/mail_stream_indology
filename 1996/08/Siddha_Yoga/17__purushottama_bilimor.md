@@ -1,0 +1,25 @@
++++
+title = "17 purushottama bilimoria"
+date = "1996-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005543.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005543.html)
+
+
+
+The article I have in front of me is entitled" "Annals of Religion O Guru, 
+Guru, Guru". It is by Lis Harris and it appears in the New Yorker Nov 14, 
+1994, pp. 92-109. However, the front cover bears the leader: "Blissed off 
+How Gurumayi's brother fell from grace, and other secretas of the upscale 
+upstate ashram". My earlier reference to the cover title might have given 
+the impression that there are two different articles. There is only one 
+such. By the way, the rejoinders from ashram-stalwarts was even more 
+interesting. These appeared, from memory, in a subsequent issue of the 
+New Yorker.
+
+Yours blissfully.
+
+
+
+

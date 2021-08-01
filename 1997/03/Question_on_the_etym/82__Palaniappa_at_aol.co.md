@@ -1,0 +1,41 @@
++++
+title = "82 Palaniappa at aol.com"
+date = "1997-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007202.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007202.html)
+
+According to Comparative Dictionary of Indo-aryan Languages, the Sanskrit
+word 'naavayati' meaning 'makes shout' is used by grammarians. It is related
+to the Rig Vedic word 'na'vatee' meaning 'shouts, bellows'. The root is
+supposed to be 'nu' meaning 'shout'.
+
+Is this a widely accepted etymology among Sanskrit scolars? 
+
+Dravidian Etymological Dictionary Revised edition has the following entry,
+DEDR 3616.
+
+Tamil. 'navil' ('navilv-', 'navinR'-) to say, tell, learn, utter, sound
+loudly, sing, perform (as a dance); 'naviRRu' ('naviRRi-') to say, utter,
+declare with authority; nuval ('nuvalv-', 'nuvanR-') to say, declare, utter;
+n. word, saying; 'nuvaRci', saying, utterance. ? Toda. 'nOw' voice, song. DED
+2993.
+
+In Classical Tamil poems, one of the meanings of 'nuval' is the the sounding
+of drums announcing the onset of battle.
+
+Is this an accidental similarity or the Indo-Aryan and Dravidian words are
+etymologically related? Any help from Indologists? Thanks.
+
+S. Palaniappan
+
+
+
+
+
+
+
+
+
+

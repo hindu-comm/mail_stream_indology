@@ -1,0 +1,36 @@
++++
+title = "09 hal_computer at earthlink.net"
+date = "1994-12-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-December/001652.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-December/001652.html)
+
+
+For the information of Frances Pritchett and all others interested in 
+South Asian Language fonts, there is a set of excellent (very elegant)
+Devnagari and Bengali fonts developed by Dr. Prasun Kr. De of Los Angeles, 
+teacher of Sanskrit at the Sri Aurobindo Center of Los Angeles and of 
+Bengali at the Vedanta Center. Following Frances' format, the specs. on the 
+fonts are: 
+
+AUTHOR:  De, Dr. Prasun K. 
+LANGUAGES:  Sanskrit: "Devnagari"; Bengali : "Bangalekhon";
+            Transliteration :  "Vedalipi".
+PRICE:  $100 per font; $65 for students working with South Asian             
+ languages (further need-based concession possible) - proceeds
+        are donated to non-profit spiritual organizations.
+OPERATING SYSTEM:  Macintosh, Windows 3.1 and above
+COMMENT: These are TrueType and Postscript scalable laser fonts that         
+  work with any Macintosh or Windows application in all 
+         available styles and are very pleasing (artistic) in printed
+         form. Keyboard is mapped using a scheme that makes for ease
+         and facility of operation and learning. 
+INFORMATION: For further information, contact Debashish Banerji at 
+         (818)362-6313 or e-mail hal_computer at earthlink.net
+
+
+
+
+
+

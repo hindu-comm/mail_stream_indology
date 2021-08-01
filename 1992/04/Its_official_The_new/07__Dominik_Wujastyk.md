@@ -1,0 +1,36 @@
++++
+title = "07 Dominik Wujastyk"
+date = "1992-04-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-April/000232.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-April/000232.html)
+
+
+
+Alexis Sanderson has been elected Spalding Professor of
+Eastern Religions and Ethics at All Souls College, Oxford.
+
+The former Spalding professors were S. Radhakrishnan, R. C. Zaehner
+and B. K. Matilal.
+
+Alexis Sanderson, formerly Senior Lecturer in Sanskrit at Wolfson
+College, Oxford, has taught Sanskrit at Oxford since 1974 (when
+Anne-Marie Gaston, Geoff Bottomly and I were his first students).
+Widely read in kaavya, vyaakarana and other "saastras, he has
+specialized in particular in the history of tantric literature and
+religion; few scholars inside or outside India could rival his
+knowledge of tantric texts and traditions.  In recent years, Alexis has
+recovered much early tantric material of great historical
+importance from the fund of tantric manuscripts discovered by
+the German-Nepal microfilming project.
+
+Alexis has three books on aspects of the history and interpretation of
+tantra forthcoming with the SUNY press.
+
+Dominik
+
+
+
+
+

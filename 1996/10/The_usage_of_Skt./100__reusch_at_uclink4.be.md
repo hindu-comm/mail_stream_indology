@@ -1,0 +1,38 @@
++++
+title = "100 reusch at uclink4.berkeley.edu"
+date = "1996-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005967.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005967.html)
+
+Dear fellow listers,
+Please excuse any cross postings. I am a PhD student at UC Berkeley, South
+Asian Studies, concentrating on Skt. I have read on a Skt. online list some
+contributions about mixing Skt. and English for conversation, etc. and
+would like to comment on this.
+I have heard that the Skt. language is not meant for vyavahaara. And it is
+for that reason that it is stated in the Rg Veda, the Bhagavata Purana,
+etc. that vaac/bhaaSaa (i.e. the Skt. language) is found on four levels --
+vaikharii, madhyamaa, paSyandii, and paraa. It seems to me that even the
+vaikharii level is intended to communicate with others within the realm of
+philosophical discussions, religious performances, ritual man-nature
+relations (yajNa), etc. And for that reason as well there have been
+conscious efforts throughout the ages to keep that bhaaSaa as unchanged as
+possible. Of course there is a difference between Vedic and Classical
+Sanskrit -- and that needs to be explained -- which have their parallel
+praakRta languages or dialects.
+On the other hand, we find that the Hindi language, for example, is being
+constantly increased with the addition of needed vyaavahaarika terms --
+doordarshan and so on.
+I'd be delighted to hear your feedback on this subject, including sources
+for further study.
+With best wishes,
+Beatrice
+
+
+
+
+
+
+

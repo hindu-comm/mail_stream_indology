@@ -1,0 +1,33 @@
++++
+title = "305 Lars Martin Fosse"
+date = "1998-05-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012235.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012235.html)
+
+Members of the list:
+
+On p. 25 of his book "Vedic Aryans and the Origin of Civilization" Navratna
+Rajaram says: "Assuming the date 4004 BCE for the creation of the world (as
+Max Mueller did), leads to 2448 BCE as the date for the Biblical flood."
+
+As is often the case, Rajaram does not give a reference. Does anybody know
+exactly where Max Mueller supports the Biblical chronology?
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+Mobile phone: 90 91 91 45
+
+
+

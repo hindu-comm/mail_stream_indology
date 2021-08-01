@@ -1,0 +1,31 @@
++++
+title = "86 tatelman at total.net"
+date = "1996-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006130.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006130.html)
+
+I'm afraid that the practice of not replacing retiring professors (I use
+the term in the generic N. American sense) of Sanskrit is well-established
+in Canada. This extends to anything to do with pre-modern India. I know of
+at least five positions in Indology and Buddhist studies which have ceased
+to exist in the past five years. Less than inspiring, especially for one
+such as myself who just completed a doctorate in a related subject, but,
+ladies and gentlemen, it seems that we're not contributing, either directly
+or otherwise, to the gross domestic product of our respective
+nation-states...
+
+Joel.
+
+Joel Tatelman
+#2-293A Roncesvalles Ave.,
+Toronto, Ontario,
+CANADA M6R 2M3.
+Tel.: (416) 535-4997
+
+
+
+
+
+

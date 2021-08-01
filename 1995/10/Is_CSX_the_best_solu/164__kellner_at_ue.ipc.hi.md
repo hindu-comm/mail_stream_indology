@@ -1,0 +1,47 @@
++++
+title = "164 kellner at ue.ipc.hiroshima-u.ac.jp"
+date = "1995-10-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003421.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003421.html)
+
+John Richards wrote: 
+>Before I came across the CSX convention, I had created a Sanskrit TTF
+>format font myself, on a quite different principle. Whereas the CSX
+>convention uses the extended ASCII range, thereby interfering with the
+>"normal" use of the primary ASCII characters less, I had deliberately
+>chosen locations in that primary range, using the characters that are
+>certainly not needed for Sanskrit text - @#$%^&*+={}[] etc. I have never
+>found an instance when I have needed these in a Sanskrit text or
+>quotation!
+
+Simple question: What do you do when you write a paper where you use both
+English (or any other non-Sanskrit-language) and Sanskrit? I guess you have
+to change fonts. Because I don't like to change fonts, I prefer CSX-encoding. 
+
+I agree in that it is cumbersome to type all the ASCII-numbers in
+search-menues. However, I believe that there are Windows-utilities which
+allow you to compose a Windows-keyboard of your choice, which lets you
+insert characters in search-menues the way you please (I have heard about
+such miraculous creation, alas, not found one which likes Japanese Windows
+yet). 
+
+What I find more disturbing about CSX is that word processors do not
+recognize extended ASCII-characters as characters in the first place. I.e.
+when you have a diacritical mark within a word, the word-processor will
+treat the word as TWO words (which is especially endearing when it
+automatically moves the phoney second word into a new line or stubbornly
+resists your attempts at hyphenation...). This is speaking for Word for
+Windows, but as far as I remember, WordPerfect behaved in the same
+mysterious ways. 
+
+Birgit Kellner
+Institute for Indian Philosophy
+University of Hiroshima
+
+
+
+
+
+

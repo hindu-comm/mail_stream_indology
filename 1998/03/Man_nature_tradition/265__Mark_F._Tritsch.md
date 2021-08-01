@@ -1,0 +1,34 @@
++++
+title = "265 Mark F. Tritsch"
+date = "1998-03-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011313.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011313.html)
+
+I am currently collecting material for an Indian nature guide. One of
+the sections will cover traduitional relationships between people and
+nature/wildlife in India. One idea I have is to contrast the shikari
+tradition still found among traditional hunting castes like the
+Rajputs with the principles of Ahimsa most vehemently espoused by the
+Jainas but also perfused through all of hinduism. There are also many
+other possible aspects.
+
+I would like to receive suggestions as to secondary literature
+(bibliographies!) and source material. Can anyone help me? Many
+thanks in advance.
+
+Mark Tritsch
+***************************************************
+
+Dr. Mark F. Tritsch
+Breslauer Strasse 14 B
+65203 Wiesbaden
+GERMANY
+
+Tel/Fax: +49 611 691497
+
+***************************************************
+
+
+

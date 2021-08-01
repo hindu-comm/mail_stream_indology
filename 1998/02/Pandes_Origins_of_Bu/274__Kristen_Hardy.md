@@ -1,0 +1,25 @@
++++
+title = "274 Kristen Hardy"
+date = "1998-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010836.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010836.html)
+
+Greetings,
+
+        I am currently reading Govind Chandra Pande's 'Studies in the Origins
+of Buddhism' (1957; revised 1974), and am curious as to how well, in general,
+this work stands up in light of more recent research in the area of Early
+Buddhism/Pali literature. Can anyone on this list with a better knowledge of
+this text and subject than I offer some thoughts on Pande's work in this
+regard?
+
+                                Thanks in advance,
+                                K. Hardy
+                                Student of Religion and Sanskrit,
+                                University of Manitoba
+                                (umhardy at cc.umanitoba.ca)
+
+
+

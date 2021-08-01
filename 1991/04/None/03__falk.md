@@ -1,0 +1,20 @@
++++
+title = "03 falk"
+date = "1991-04-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-April/000057.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-April/000057.html)
+
+
+I am preparing a bibliography on the Ashokan inscriptions and have
+collected some 900 articles and books. There are a lot of Indian and
+other Journals which are not readily accessible at Freiburg. I would
+be glad if you could slip me a note whenever you find an article or
+a reference in a book dealing with the inscriptions which seems somewhat
+hidden.
+Harry Falk
+
+
+
+

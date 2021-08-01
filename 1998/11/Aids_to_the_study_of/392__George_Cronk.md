@@ -1,0 +1,48 @@
++++
+title = "392 George Cronk"
+date = "1998-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014293.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014293.html)
+
+Response to K.S. Arjunwadkhar re: aids to the study of Shankaracharya:
+
+I have included substantial and "reader-friendly" selections (rendered in
+English only) from the Brahmasutra commentaries of both Shamkara and
+Ramanuja in my SIX CLASSICS OF EASTERN PHILOSOPHY (Harcourt Brace, 1998,
+ISBN 0-15-567749-7).  This anthology is intended as an introduction to
+eastern philosophical classics for students at the undergraduate level and
+for general readers.  It is not aimed at the scholarly community, but you
+might find it of some interest.
+
+
+-----Original Message-----
+From: K. S. Arjunwadkar <panini at PN2.VSNL.NET.IN>
+To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
+Date: Thursday, November 26, 1998 8:37 PM
+Subject: Aids to the study of Shankaracharya
+
+
+>Nov 26, 1998
+>
+>Dear Members,
+>I have been studying and teaching works of the great Shankaracharya for
+>more than four decades. During all these years I have felt that two kinds
+>of aids would be extremely helpful to those who study Shankaracharya
+>seriously:
+>(1) A Dictionary of all important words in his philosophical works
+>explaining them on the basis of their use in his works with full references
+>to the texts; (cp. A Dictionary of Sanskrit Grammar by K. V. Abhyankar et
+al)
+>(2) An anthology of select passages from his works, accompanied by their
+>English translation, as a direct introduction to his philosophy.
+>I do not know if any scholar of Shankara has thought or worked in this
+>direction.
+>Can any member enlighten me on this point?
+>Regards.
+>KSA
+>
+
+
+

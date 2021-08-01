@@ -1,0 +1,29 @@
++++
+title = "01 David Magier"
+date = "1993-03-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-March/000457.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-March/000457.html)
+
+In response to a flyer we received last summer, Columbia Libraries
+tried to order "Visnudharmah -- pada index on disk", which was meant to
+accompany the 3-volume work edited compilation by Dr. R. Grunendahl at
+Gottingen. Our acquisitions department has sent repeated requests and
+claims (both to Dr. Grunendahl, and to Harrasowitz, our German book
+dealer and the publisher of the work), all to no avail. Has anyone
+actually managed to acquire the index? How did you acquire it? Do you
+find it useful? Thanks for any assistance.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+    ____________________________       304 International Affairs
+  ///    -- David Magier --    \\\     Columbia University
+ |||   Director, AREA STUDIES   |||    New York, N.Y. 10027
+ |||  S&SE Asia, Latin America, |||    212-854-8046 / FAX: 212-854-2495
+  \\\ Mid-East, Slavic, Africa ///
+    ---------------------------        magier at columbia.edu
+
+
+
+
+

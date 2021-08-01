@@ -1,0 +1,33 @@
++++
+title = "09 Dominik Wujastyk"
+date = "1991-06-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-June/000088.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-June/000088.html)
+
+
+Status: RO
+
+Richard Gombrich phoned me a few hours ago with the very sad news that
+Bimal Matilal died at about midnight last night.
+
+Bimal had been suffering from cancer of the bone marrow for some years,
+and had had several remissions.  But he collapsed last week and was
+taken to the John Radcliffe Hospital in Oxford, where he was apparently
+given only hours to live.  It was characteristic of his heroic struggle
+against the disease that he fought on for several more days.
+Throughout the course of the disease he endured great pain.  He was
+only fifty six.
+
+Bimal's wife Karabi, and his children, are surrounded by family and
+friends.  The funeral will be at the Oxford crematorium, later this
+week.  Obituaries will appear in the Times and the Independant, and
+other papers.
+
+Dominik.
+
+
+
+
+

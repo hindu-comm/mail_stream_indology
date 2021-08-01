@@ -1,0 +1,43 @@
++++
+title = "11 c w nuckolls"
+date = "1993-03-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-March/000467.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-March/000467.html)
+
+This is in response to Dominik's invitation to post notices of our
+recently published books.
+
+My edited collection, "Siblings in South Asia:  Brothers and Sisters
+in Cultural Context," has just been published by Guilford Press as the
+first in a new series on culture and human development.
+
+Contributors include Alan Beals, Victor deMunck, Judy Dunn, Pauline
+Kolenda, Judy Pugh, Susan Seymour, and Thomas Weisner.
+
+The purpose of the book is to address these questions:  Do different
+types of households and family structures affect the development of
+sibling relations?  Are cultural concepts of personhood expressed in
+siblingship?  How do brothers and sisters respond to the expectation
+that they should get along?
+
+The book is divided into two parts.  The first focuses on the organization
+of sibling relations in childhood and adulthood in South Asia.  The
+second part focuses on the representation of cultural dn psychological
+meanings of sibling relations through mythology, astrology, and life
+history.
+
+Copies may be ordered from Guilford Press (New York).
+
+
+
+Charles W. Nuckolls
+Department of Anthropology
+Emory University
+Atlanta, GA 30322 USA
+
+
+
+
+

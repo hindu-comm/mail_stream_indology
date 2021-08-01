@@ -1,0 +1,30 @@
++++
+title = "30 jage at seq1.loc.gov"
+date = "1993-01-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-January/000406.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-January/000406.html)
+
+                                          Wednesday, January 27, 1993
+
+Depending on the transliteration scheme in use, in addition to the
+TEX diacritics already described, one may also want to float a
+"candrabindu" (looks like a brev with a dot above the middle) over
+a letter.  THe following works, but is dependent on the size (point
+size) and possibly width of the letter beneath the candrabindu.  With
+a lower case "m":  \u{\hspace{-.1in}\.{m}}   
+Note that this is LaTEX, not TEX.  Someone with more TEXpertise could,
+no doubt devise a less dependent solution.
+
+This is of course a purely personal proposal; it has no official
+government or religious sanction.  I am not responsible should
+it prove devotionally or otherwise ineffective.
+
+     Good luck,
+
+          Jim Agenbroad (jage at seq1.loc.gov )
+
+
+
+

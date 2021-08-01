@@ -1,0 +1,30 @@
++++
+title = "600 Swaminathan Madhuresan"
+date = "1999-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017300.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017300.html)
+
+Overlooking the different ethnic mixes in caste categories and
+across the varNa ladder, anthropologists do not explain the
+varNa (color) gradation by means of "Shudras getting baked
+in the sun". Usually, social customs imposed by the top varNa
+such as the `sambandham' relations of Nambudiris is cited.
+
+Also, it would be wrong to conclude that there are no tensions
+between brahmins and others in KarnATak and Andhra and to assume that
+everybody accepts that varnashrama system is beneficial to each of them.
+After all, the veerashaiva movement, vehemently anti-brahminical in
+origins and growth,was born in Karnataka and A.P. Eg., Palkuriki Somanatha's
+Basavapuranamu and the Kannada Jain-Brahmana rivalries.
+
+Greetings,
+SM
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

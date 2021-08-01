@@ -1,0 +1,38 @@
++++
+title = "69 Hueckstedt"
+date = "1996-10-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005938.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005938.html)
+
+(Apologies in advance to those of you who will get this twice.)
+
+I have searched high and low, up and down, and all around for the 
+following, but I have so far had no luck at all. Now I'm beginning to 
+wonder if this has even "come down" to us from the seventeenth century. 
+The work is:
+	(Prau.dha)manoramAkha.n.danam
+The author is:
+	CakrapA.nidatta or "Se.sacakrapA.ni(datta) or just CakrapA.ni
+
+It is an attack on the SiddhAntakaumudI of Bha.t.toji DIk.sita.
+
+With the help of our loyal but sometimes mystified interlibrary loan 
+people here, I have checked all the libraries in the major universities 
+in Canada, and the libraries in most of the major universities of the US. I 
+will be grateful for any suggestions.
+
+Bob Hueckstedt
+
+
+Robert A. Hueckstedt, Associate Professor of Indic Languages
+Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+Winnipeg, Manitoba R3T 2N2 Canada
+http://www.umanitoba.ca/faculties/arts/asian_studies
+fax 1 204-275-5781 phones 1 204-474-8964, 1 204-488-4797
+
+
+
+
+

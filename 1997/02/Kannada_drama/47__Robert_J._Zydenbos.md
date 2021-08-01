@@ -1,0 +1,41 @@
++++
+title = "47 Robert J. Zydenbos"
+date = "1997-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006894.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006894.html)
+
+jl> Can anyone help me with two dates? I know that Kailasam died in the
+jl> 1940s, and Adya Rangacharya in the 1970s. Can anyone help me be
+jl> more precise?
+
+T.P. Kailasam: 1884-1946
+Adya Rangacharya, alias Sriranga: 29.9.1904-17.10.1984
+
+jl> I am also interested in any source on dramatic writing in the
+jl> Kannada language.
+
+Would it be all right if the information is in Kannada? In English, I
+fear there is only little; in Kannada, there is more.
+
+In English there is some information about individual playwrights and
+about the narrative content of their plays, e.g. about Adya Rangacharya
+and Shivaram Karanth, but not much about e.g. matters of technique. You
+could perhaps look at
+
+V.M. Inamdar: _Shivaram Karanth_
+G.S. Amur: _Adya Rangacarya_
+
+These are two small books in the series "Kannada Writers and their
+Works", published by the Univ. of Mysore (1973 and 1975 resp.).
+
+There is an article "Origin and Growth of Kannada Drama" by M. Rama Rao
+in the now defunct journal _Kannada Studies_ (Mysore; vol. 2 (1965), pp.
+27-47).
+
+Robert Zydenbos
+
+
+
+

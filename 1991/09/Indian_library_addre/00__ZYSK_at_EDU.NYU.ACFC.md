@@ -1,0 +1,24 @@
++++
+title = "00 ZYSK at EDU.NYU.ACFCLUSTER"
+date = "1991-09-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-September/000125.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-September/000125.html)
+
+
+Some progress is being made in locating MSS of the Ratisastra a.k.a.
+ Ratiramana,Siddhavinodana. A valuable contact located an incomplete MS at BHU.
+ I should
+greatly appreciate it if members of this network could provide me with valuable
+contacts at the following libraries in India: Pune, Madras, Baroda, Thanjavur.
+I shall write the individual(s) requesting information about MSS of Ratisastra
+and would appreciate using your names as an introduction. Many thanks.
+Yours,
+Ken Zysk
+P.S. Contacts at others Indian libraries not mentioned above would also be
+most appreciated. KZ
+
+
+
+

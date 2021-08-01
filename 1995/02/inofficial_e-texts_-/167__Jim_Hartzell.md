@@ -1,0 +1,24 @@
++++
+title = "167 Jim Hartzell"
+date = "1995-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/002094.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/002094.html)
+
+In response to Robin Korman's informed comments on updating our dictionaries
+Would anyone be interested in helping to organize a Dictionary Organization
+Project, to collect and collate the informal materials into a new
+dictionary for Sanskrit, a new one for Tibetan, or perhaps into
+technical dictionaries by topic, much as can be found for western
+medical terminology, etc.?  Ideally we could also include information
+from the Sanskrit and Tibetan lexicons--cited by actual title of 
+each Lexicon, rather than simply from `Lexicons' as in Monier-Williams.
+Monier-Williams is an odd mixture, with occasional citations from
+the Kalacakra tantra, for instance.
+Jim Hartzell
+
+
+
+
+

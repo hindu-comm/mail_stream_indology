@@ -1,0 +1,37 @@
++++
+title = "208 Gary M Tartakov"
+date = "1995-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003686.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003686.html)
+
+
+I am interested in Satyanad Kichenassamy's sugestion about scientific 
+translations:
+
+"I think most of us would agree that there is such a thing as a
+`scientific translation.' It is one which aims at conveying the intent
+of
+the author as far as it has been reconstructed, AND NOTHING ELSE." 
+
+This is a useful goal in a translation, but certainly one with very
+limited
+possibility of success.  To render any ideas in language one must assume
+the cultural world to which it refers.  Even in philosophy this leaves a
+
+great deal implicit and so susceptable to interpolations that different 
+translators will treat differently.  
+
+Like objectivity in any descriptive discussion, scientific translation
+has
+definite usefulness as an ideal, but I don't think we should confuse 
+selves by expecting that we can easily achieve such translation outside
+the world of mathematics.
+
+Gary Tartakov  
+
+
+
+
+

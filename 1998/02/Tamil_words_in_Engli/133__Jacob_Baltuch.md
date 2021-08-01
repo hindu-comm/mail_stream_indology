@@ -1,0 +1,37 @@
++++
+title = "133 Jacob Baltuch"
+date = "1998-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010914.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010914.html)
+
+Re: this discussion, on a more serious note maybe, has
+there been any impartial examination of the "Out of India"
+scholarship by Western scholars? The anecdotal evidence
+seems to be that its overall level is pretty amateurish,
+but surely there must be all kinds. Isn't there anything
+useful that can be gotten out of it? I seem to recall
+someone was writing a dissertation on that topic (Edwin
+Bryant?) but it was more than a year ago and I have heard
+nothing since. Is that dissertation now completed?
+
+To be fair it should be recognized that many important
+questions on the expansion of IE languages still remain.
+For example, regarding the IE expansion into Europe there
+are two main theories, that of a Neolithic expansion
+(Renfrew) and that of a Bronze Age expansion (Gimbutas,
+Mallory, etc.) Also the proposals for the center of
+dispersal are even more varied: Anatolia, the Balkans,
+the southern Ukraine, Central Asia and more.
+
+One thing which is intriguing to me was that the picture for
+India has not changed even while new proposals have appeared
+for Europe. Can anyone briefly explain why a theory like
+Renfrew came up with for Europe is simply not tenable (not
+even Renfrew proposes it) in the case of India, whereas it
+is, if not correct, at least not considered outright lunatic
+for Europe?
+
+
+

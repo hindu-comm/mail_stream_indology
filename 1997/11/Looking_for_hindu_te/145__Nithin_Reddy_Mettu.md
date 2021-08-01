@@ -1,0 +1,48 @@
++++
+title = "145 Nithin Reddy Mettu"
+date = "1997-11-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009910.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009910.html)
+
+Hindu Temple of Rochester
+120 Pinnacle Road Rochester, NY. 14534
+(716)-427-8091
+
+Hindu Temple and Cultural Society of USA
+780 Old Farm RD. Bridewater, NJ 08807
+(908)-725-4477
+
+Hindu Temple Society of North America
+45-57 Bowne St. Ashland, MA/ 01721
+(508)-881-5775
+
+Sri Venketeswara Temple
+South McCully Drive, Penn Hills Pittsburgh, PA, 15235
+(412)-373-3380
+fax: (412)-373-7650
+
+New England Hindu Temple
+117 Wavery Street. Ashland, MA. 01721
+
+Sri Meenakshi Temple
+17130 McClean Rd. Pearland, TX. 77581
+(281)-489-0358
+
+Sathya Saibaba Center
+12656 Goar Rd. Houston, TX. 77428
+(281)-879-1159
+
+Swami Narayan Hindu Temple
+4926 Plantation Run Drive
+Sugarland, TX. 77478
+(281)- 265-1847
+
+
+Sorry if any part of this information is incorrect but I am a little
+inebriated, please let me know and I will send you the corrections
+immediately. Sorry for any inconvenience in advance........
+
+
+

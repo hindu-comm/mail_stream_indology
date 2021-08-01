@@ -1,0 +1,46 @@
++++
+title = "108 wieson"
+date = "1998-01-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010359.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010359.html)
+
+Hello!
+
+I am currently compiling a bilbiography on South Asian linguistics
+conducted by scholars residing/working in Europe for the 'Yearbook of South
+Asian Languages and Linguistics' (ed. by Rajendra Singh, Montreal), which
+will be published next year by Sage Publications, Delhi.
+Last year concentrated mainly on Hindi-Urdu and Himalayan research. The
+main emphasis of this year's bibliography for Europe will be on historical
+linguistics - of all the language families of the sub-continent. In
+addition, work done in the last year (1997) on ANY aspect of South Asian
+linguistics will be included under a separate heading.
+
+I would like to ask all scholars residing in Europe who have done research
+in the 1990's on historical aspects of any South Asian language who would
+like to have this information included in the bibliography - as well as any
+research done on any aspect concerning these languages in the last year -
+to send me the relevant information at the address below by January 23,
+1998 at the very latest. I am especially interested in research done AFTER
+1993 (the last year covered by the Bibliographie Linguistique) as well as
+any literature which may have been overseen there. Please be sure to
+include all relevant information (especially issue no., page nos., etc.,
+with journals).
+
+Please pass this message along to any of your colleagues who may be
+interested.
+
+Thanks in advance for your help!
+
+John Peterson
+Seminar für Allgemeine Sprachwissenschaft
+Universität Zürich
+Switzerland
+Fax-Nr. (+41)-1-634 49 10
+Email: (preferably:) peterson at spw.unizh.ch
+or wieson at rainbow.ch
+
+
+

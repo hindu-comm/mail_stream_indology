@@ -1,0 +1,35 @@
++++
+title = "54 drdj at mail.utexas.edu"
+date = "1994-11-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001552.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001552.html)
+
+Apologies for cross-posting.
+
+I am looking for the journal <Studies in History>, the "Biannual Journal of
+the Centre for Historical Studies, Jawaharlal Nehru University", Vol.4 No.
+2. Sahibabad, 1982.
+
+It contains several reviews of Burton Stein's segmentary state theory by
+scholars such as Subbarayalu, Krader, and Kulke.  My University ILL has
+been stumped trying to locate it.  If it is in your university's library,
+could you please let me know, or if you have a personal copy, I would be
+happy to pay for the cost of making photocopies of the desired articles.
+Thanks for any help.
+
+Regards,
+
+
+Donald R. Davis, Jr.
+drdj at mail.utexas.edu
+Center for Asian Studies
+University of Texas at Austin
+
+
+
+
+
+
+

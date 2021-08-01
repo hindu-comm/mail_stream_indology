@@ -1,0 +1,25 @@
++++
+title = "341 Mary Storm"
+date = "1998-01-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010589.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010589.html)
+
+Gopal,
+There is also the story of Bhagadatta, ally of Dhuryodhana, who mourned
+the death of his gallant war elephant, Supratiika, when it was killed by
+Arjuna. Alexander the Great went into mourning upon the death of his
+horse, Bucephalus.
+I've actually run across some hero stones dedicated to pets, one to a
+dog named Loka who killed 75 wild boar.
+There is also the story of a king of the Goa Kadamba dynasty who
+immolated himself for the sake of his pet parrot killed by a cat. The
+king had lured the parrot out of its cage and when it was killed by the
+cat the king in remorse sacrificed himself.
+
+Woof,
+Mary
+
+
+

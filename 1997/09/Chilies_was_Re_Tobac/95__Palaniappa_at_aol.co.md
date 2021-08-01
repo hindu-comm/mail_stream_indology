@@ -1,0 +1,26 @@
++++
+title = "95 Palaniappa at aol.com"
+date = "1997-09-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009139.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009139.html)
+
+In a message dated 97-09-05 07:14:44 EDT, jaybee at tm.net.my writes:
+
+<< Could opium and ganja been in use?
+                                 Some sannyasis of certain orders are
+         known to smoke ganja. >>
+
+I remember a song by a cittar (Sanskrit 'siddha') in which he says 'kaJcAp
+pukai piTiyAtE' (do not smoke ganja). I think it was 'tAyumAn2avar' who said
+it but I am not sure.
+
+Regards
+
+S. Palaniappan
+
+
+
+
+

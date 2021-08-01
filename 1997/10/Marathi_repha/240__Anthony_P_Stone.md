@@ -1,0 +1,24 @@
++++
+title = "240 Anthony P Stone"
+date = "1997-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009696.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009696.html)
+
+My warm thanks to all those who supplied information about the Marathi
+repha.   
+
+Since there are words whose meaning depends on which repha is used (per
+Avinash Sathaye and Ashok Aklujkar, both on Oct 29, 1997), it is clearly
+essential to have a separate transliteration for the eyelash repha.    With
+~r being used in the Velthuis 7-bit scheme, it would seem appropriate to
+use r_tilde in the 8-bit case.
+
+Regards,   Tony Stone
+
+Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
+Indic scripts.  
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "205 Nicholas Ostler"
+date = "1995-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003458.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003458.html)
+
+>Is the Norse word for god, AEsir, a cognate of the Vedic, Asura? 
+
+I believe Aesir to be the plural of Asa (cf another race of Nordic gods:
+Van pl. Vanir).  As such it would have nothing to do with Asura, certainly
+not if that word is really a privative form of Sura.
+
+Nicholas Ostler
+
+Nicholas Ostler              ** New address, phone & fax as of 3 Nov 1995 **
+Linguacubun Ltd                 
+17 Oakley Road                  Batheaston Villa, 172 Bailbrook Lane
+London N1 3LL                   Bath       BA1 7AA       England
++44-171-704-1481                +44-1225-85-2865 fax +44-1225-85-9258
+          nostler at chibcha.demon.co.uk
+
+
+
+
+
+
+

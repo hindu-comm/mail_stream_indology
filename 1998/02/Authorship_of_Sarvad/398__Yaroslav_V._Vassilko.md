@@ -1,0 +1,25 @@
++++
+title = "398 Yaroslav V. Vassilkov"
+date = "1998-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/011026.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/011026.html)
+
+>From yavass Mon Feb 23 22:15:25 MSK 1998
+I send this message on behalf of my colleague Dmitry Olenev:
+
+Dear members of the list,
+        recently I learned a very curious fact from the preface to the
+edition of "NyaayaalaMkaara" (Gaekwad Oriental Series, N169, 1981, p.XXII):
+the real author of SarvadarzanasaMgraha was, perhaps, a certain nayayika
+CannibhaTTa, and not Maadhavaacaarya. I think, there is no need to emphasize
+the importance of the fact since SDS is one of the most popular sources on
+Indian philosophy and its history.
+        Does anyone of you know how far the solution of the authorship
+problem progressed?
+        Regards,
+                        Dmitry Olenev
+
+
+

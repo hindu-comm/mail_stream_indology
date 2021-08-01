@@ -1,0 +1,50 @@
++++
+title = "294 yanom at ksuvx0.kyoto-su.ac.jp"
+date = "1996-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005125.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005125.html)
+
+Dear Indologists,
+
+We are glad to announce that new e-texts are available.
+They are located at the ftp site of Kyoto Sangyo University:
+ccftp.kyoto-su.ac.jp
+at the directory:
+pub/doc/sanskrit/dharmas
+
+The new files are :
+-rw-rw-r--  1 yanom      104998 May 17 18:46 apasta.dhs
+-rw-rw-r--  1 yanom      214567 May 17 18:46 arthaz.dhz.Z (updated)
+-rw-rw-r--  1 yanom      100614 May 17 18:46 baudha.dhs
+-rw-rw-r--  1 yanom      176086 May 17 18:46 brhasp.dhz
+-rw-rw-r--  1 yanom       71625 May 17 18:47 gautam.dhs
+-rw-rw-r--  1 yanom      127734 May 17 18:47 katyay.dhz
+-rw-rw-r--  1 yanom      149636 Apr 25 16:15 manu.dhz.Z (updated)
+-rw-rw-r--  1 yanom      119354 May 17 18:47 narada.dhz
+-rw-rw-r--  1 yanom       77071 May 17 18:47 parasa.dhz
+-rw-r--r--  1 yanom       53041 May 17 19:06 vaikh.dhs
+-rw-rw-r--  1 yanom      105636 May 17 18:47 vasistha.dhs
+-rw-rw-r--  1 yanom      194212 May 17 18:47 visnu.dhz
+-rw-rw-r--  1 yanom      132593 May 17 18:47 yajna.dhz
+
+They are all plain text files except the arthazaastra
+(arthaz.dhz renamed from KAZ.DHZ) and manu.dhz which are
+compressed by the `compress' command. 
+
+The coding of these texts are by-products of the project of the Joint
+Seminar on `Law (dharma) and Society in Classical India' headed by Prof.
+Yasuke Ikari at the Institute for Research in Humanities, Kyoto University. 
+The texts may be freely distributed and used for scholarly purposes, but 
+we are not responsible for any trouble which might be caused by the use
+of these files.  
+
+Suggestions for correction are welcome.  Please report to
+yanom at cc.kyoto-su.ac.jp or ikari at zinbun.kyoto-u.ac.jp
+
+Michio YANO
+
+
+
+

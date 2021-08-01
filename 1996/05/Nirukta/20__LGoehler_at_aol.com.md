@@ -1,0 +1,31 @@
++++
+title = "20 LGoehler at aol.com"
+date = "1996-05-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/004905.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/004905.html)
+
+Dear Members,
+
+    a for :MImAMsA-comments and references to :YAska's :Nirukta (which in
+some respects close to the grammatical tradition) a good source is D.V.Garge:
+Citations in Zabara-BhASya. Poona 1952. - It might be interesting, that
+:Zabara, paraphrasing the :VRttikAra ad MS I.1.32 who is referring to
+:YAska's Mantra-classification (Nir. 7.1-3) with some modifications, uses
+examples for the mantra-classification from TS and VS while :YAska prefers
+those from RV. :KumArila did not seem to be aware, that this classification
+is derived from :YAska. He sums up the passage as follows (ad MS I.1.32): 
+
+vRttau lakSaNam eteSAm asyantatvAntarUpatA/
+AzISaH stutisaMkhye ca pralaptaM paridevitam//
+praiSAnveSaNapRSTAkhanAnuSaGgaprayogitAH/
+sAmarthyaM ceti mantrANAM vistaraH prAyiko mataH//
+
+
+I hope this is of help
+Lars Goehler
+
+
+
+

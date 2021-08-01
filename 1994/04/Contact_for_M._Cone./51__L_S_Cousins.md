@@ -1,0 +1,25 @@
++++
+title = "51 L S Cousins"
+date = "1994-04-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-April/001026.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-April/001026.html)
+
+I don't have an Email address for Margaret Cone, but a postal
+address would be: 
+Faculty of Oriental Studies, Sidgwick Avenue, Cambridge,
+U.K., CB3 9DA
+
+	Lance Cousins
+-- 
+35 Burlington Rd, Withington,
+MANCHESTER,
+UK, M20 4QA
+Telephone (UK): 061 434 3646  (International) +44 61 434 3646
+Fax (UK):       061 275 3613  (International) +44 61 275 3613
+
+
+
+
+

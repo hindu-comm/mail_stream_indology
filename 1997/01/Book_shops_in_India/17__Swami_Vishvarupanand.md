@@ -1,0 +1,66 @@
++++
+title = "17 Swami Vishvarupananda"
+date = "1997-01-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006658.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006658.html)
+
+Dear Klemens,
+
+Here are some addresses of Book shops in Delhi that have lots of books that
+may interest you.
+The first and foremost address is of course:
+
+Motilal Banarsidass,
+Bungalow Road,
+Jawahar Nagar,
+DELHI - 110 007
+
+Another interesting place is:
+
+M/s Indian Books Centre,
+40/5, Shakti Nagar,
+DELHI - 110 007
+
+These two are themselves publishers as well as dealers.
+Here is the address of a dealer in New Delhi, who has an amazing (for
+Indian standards) collection of all kinds of philosophical books and other
+interesting titles. Unfortunately the fellow is a bit high in his prices.
+But since books are very cheap in India anyway, when compared to the West,
+you may want to have a look:
+
+Piccadilly Book Stall,
+Shop No. 64, Shankar Market,
+Connaught Circus,
+NEW DELHI - 110 001
+
+Apart from that there are lots of book shops in the inner circle of
+Connaught
+Place. They may have some titles on Archeology and Art, but not too many
+books of
+interest on philosophy.
+
+Greetings and Om,
+Swami Vishvarupananda
+
+
+
+
+
+
+> I would appreciate if someone could inform me about good book shops to
+visit
+> in India (especially Delhi and Calcutta). My main interest is Buddhism,
+Art
+> and Archaeology.
+> 
+> Thanks in advance
+> 
+> Klemens
+> 
+> 
+
+
+
+

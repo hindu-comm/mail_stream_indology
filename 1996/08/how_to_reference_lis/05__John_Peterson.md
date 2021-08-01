@@ -1,0 +1,52 @@
++++
+title = "05 John Peterson"
+date = "1996-08-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005521.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005521.html)
+
+
+I agree 100% with Madhav's caution when it comes to quoting from INDOLOGY or
+any other mailing list. Of course, if the contributor of the message is
+asked for permission there's no argument against it, but I'd hate to think
+what could happen if people started quoting my spontaneous contributions to
+a discussion somewhere as "my" view of the situation. 
+
+That could have a devastating effect on discussion groups in general (sort
+of like quoting a personal conversation at a conference would kill any
+discussion between those taking part). These are very often people's first
+reactions to questions and by no means what they "really" think after
+considering the discussion in more detail, although their later views
+generally don't make it to the list. After all, this is only a discussion
+group and not a publication.
+
+
+
+John
+
+At 20:18 31.07.1996 BST, you wrote:
+>	Communications on Indology or a similar network are scholarly, 
+>but casual, and not to be treated as anyone's "considered final opinions" 
+>on a given topic.  Therefore, there is a great danger of citations from 
+>e-mail messages leading to misrepresentation.  Minimally, I would suggest 
+>that the author of a message needs to be explicitly asked for his/her 
+>permission for a specific quote, and be given an opporunity to review 
+>that quote.  
+>	Madhav Deshpande
+>
+John Peterson
+
+Institute for Oriental Studies
+Department of South Asian Studies (Indologie)
+Christian-Albrechts-Universität zu Kiel
+Olshausenstraße 40
+D-24118 Kiel
+Germany
+
+Fax: +49-431-880-1598
+
+
+
+
+

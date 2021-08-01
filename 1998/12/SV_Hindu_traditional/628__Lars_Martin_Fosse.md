@@ -1,0 +1,38 @@
++++
+title = "628 Lars Martin Fosse"
+date = "1998-12-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014966.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014966.html)
+
+[Lars Martin Fosse]
+Paul Kekai Manansala wrote:
+
+Remember that the whole AIT theory is based on very liberal
+interpretation of a group of religious hymns whose date of origin is
+highly speculative.
+
+[Lars Martin Fosse]
+The AIT is not simply based on the interpretation of the Vedas (if that is
+what you refer to as a group of religious hymns).  The AIT is based on the
+combined interpretation of a vast material of a literary, linguistic and
+archaeological character, involving Iranian as well as Greek, Italic,
+Germanic, Slavonic, Baltic sources. In the final analysis, the AIT depends
+upon the interpretation of the Indo-European material as a totality.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+
+
+

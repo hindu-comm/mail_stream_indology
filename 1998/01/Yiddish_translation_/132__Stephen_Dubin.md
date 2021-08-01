@@ -1,0 +1,24 @@
++++
+title = "132 Stephen Dubin"
+date = "1998-01-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010373.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010373.html)
+
+Please help me to settle a question.  Is there a translation of the
+Gita into Yiddish?  Is it readily available?  Thanks for help
+and patience with frivolous inquiry.
+
+ +=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
+ |                 Stephen Dubin VMD PhD                     |
+ |     Biomedical Engineering and Science Institute          |
+ |     Drexel University,  Philadelphia  PA  19104           |
+ |       Phone: 215-895-2219   Fax: 215-895-4983             |
+ |         Email: dubinse at duvm.ocs.drexel.edu                |
+ | http://biomed6.coe.drexel.edu/faculty_profiles/dubin.html |
+ |  Guerir quelquefois, Soulager souvent, Consoler toujours  |
+ +=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+
+
+
+

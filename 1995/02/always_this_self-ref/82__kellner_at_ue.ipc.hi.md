@@ -1,0 +1,44 @@
++++
+title = "82 kellner at ue.ipc.hiroshima-u.ac.jp"
+date = "1995-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/001940.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/001940.html)
+
+
+Well, this posting will amount to an anachronism, for,
+given the statement it intends to make, it should never
+have been made in the first place.
+
+In the light of all these discussions on moderation etc.,
+I have to admit that I am both sick and tired of the
+self-referentiality of the Net in general and mailing-lists
+in particular - a rough guess might show that more than half
+of a list's postings refer to technical aspects of the lists
+or the net, whereas maybe less than the other half refers
+to the subject the list was intended to cover. I personally
+find moderation helpful, insofar as it eliminates further
+discussions about moderation in principle and lets people
+go back to what they "really" want to discuss. (Side-remark:
+I find the H-NET-moderators simply the best, for they are
+generally both competent and inobtrusive)
+
+But then, others might not, so let's do that vote, for
+christ's sake, and go back to normal and discuss all those
+really exciting matters which await our attention "out there".
+
+Birgit Kellner
+Institute for Indian Philosophy
+University of Hiroshima
+
+P.S.: I am STILL working on my Tibetan/Buddhist/Indic Studies-
+resource-directory, and the BIG BLANK so far is e-texts.
+I would gladly appreciate anybody who has down-loaded ANY
+e-texts from ANY site to mail me.
+
+
+
+
+
+

@@ -1,0 +1,37 @@
++++
+title = "434 Lars Martin Fosse"
+date = "1998-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014338.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014338.html)
+
+Subrahmania wrote:
+
+It is good to see that more people are shaking off the sheep mentality
+and questioning the dogma that has been peddled till now. I hope
+that the honest views of scholars like Denis Sinor, Narain and
+Linguists like R.M.W.Dixon will help in bringing some sanity.
+I must say that Dixon's "Rise and Fall of Languages" is an excellent book -
+lots of common sense in it.
+
+I happen to agree with you verdict on Dixon's book, but I fail to see that Dixon and Sinor should be more "honest" than people like Mallory. I have read both, and enjoy both. You also seem to have overlooked that Dixon has a generally high opinion of Indo-European linguistics, even if he is critical of some aspects of it. By the way, his critique and his new model ("convergence - divergence") is basically the same as Trubetskoy's critique and model, which was published in 1939. You may be happy to hear that Trubetskoy places the Indo-European homeland somewhere in Eurasia for various linguistic reasons (such as comparisons with features of Kartvelian and Finno-Ugric languages). Presumably, Trubetskoy should belong to the "common sense" people, too, since his model is not much different from Dixon's. :-)
+
+Sheepishly,
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Phone: +47 22 32 12 19
+Fax:      +47 22 32 12 19
+Email: lmfosse at online.no
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment.bin
+Type: application/ms-tnef
+Size: 2233 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/19981130/400d45c1/attachment.bin>

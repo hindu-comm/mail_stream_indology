@@ -1,0 +1,37 @@
++++
+title = "144 Adi Hastings"
+date = "1996-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006565.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006565.html)
+
+And note, too, the tales of purported Dravidian origin somewhere outside
+of the Indian sub-continent (e.g., the "lost continent" of Lemuria). 
+
+Adi Hastings
+
+
+On Mon, 16 Dec 1996, Das Menon wrote:
+
+> Adding to the excellent ideas that Lars Martin Fosse on why the out of
+> Indian theory is weak, I like to say that if you talk to a hard core
+> supporter of Tamil Yoga Siddhanda, they will say that the nature
+> workshipping Aryans did come form outside and that the Dravidians taught
+> them religion and philosophy! This tradition also believes that 18 siddhas
+> like Agasthya, Patanjali, Dhanwandhari, Boganathar etc. (I do not have all
+> the names handy) were from the South, who adopted the Sanskrit language to
+> preserve their teachings.
+> 
+> There is also the theory that Ramayana is the symbolic storey of the
+> invasion of the Aryans into India and the subsequent pushing down of the
+> Dravidian civilization into the Southern parts of India.
+>  
+> Regards...Das
+> 
+> 
+
+
+
+
+

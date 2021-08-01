@@ -1,0 +1,39 @@
++++
+title = "114 Clare Martin"
+date = "1997-12-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010153.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010153.html)
+
+On Wed, 10 Dec 1997, Jacob Baltuch wrote:
+
+> >As a native speaker (whether educated or not is another question) of
+> >American English, I am entirely unaware of any verbs such as 'to encore',
+>
+> Ok, how about "don't honey me"?
+>
+
+I'm not a student of indian languages either but as a native speaker of
+english and as a woman I feel I could make some comments about being
+"honeyed". The situation usually arises when some man addresses a woman
+with those forms of pseudo endearment such as "Honey" or "Baby" which
+tend to be belittling and are also americanisms. If the reply to this is
+"Don't honey me", the "honey" is actually in quotes, referring to the
+previous comment. It's not being used as a verb.
+
+Whether 'honey', 'encore' or 'yes' can be converted to verbs in the US I
+can't say, but it certainly sounds strange in Australia.
+
+Cheers, Clare Martin
+
+        ----------------------------------------------------------
+        Clare Martin                       clare at coombs.anu.edu.au
+        PO Box 13                              Tel: (02) 6247 2397
+        Ainslie                                    +61 2 6247 2397
+        ACT  2602                              Fax: (02) 6248 8905
+        Australia
+        ----------------------------------------------------------
+
+
+

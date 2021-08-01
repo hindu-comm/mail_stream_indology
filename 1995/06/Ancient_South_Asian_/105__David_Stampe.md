@@ -1,0 +1,23 @@
++++
+title = "105 David Stampe"
+date = "1995-06-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002649.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002649.html)
+
+The form that Kalyanaraman cites for Munda
+	-kug (Munda) = rice
+is incorrect: the proto-Munda form was *ru[ng]kug.  My authority is
+a comparative Munda dictionary I am compiling with Patricia Donegan
+and Norman Zide.  Neither the correct nor the incorrect form can be
+related, even as a loan, to the Indo-Aryan or Dravidian forms that
+he summarizes as kaNk.
+
+David Stampe
+Dept. of Linguistics, Univ. of Hawaii/Manoa, Honolulu HI 96822
+
+
+
+
+

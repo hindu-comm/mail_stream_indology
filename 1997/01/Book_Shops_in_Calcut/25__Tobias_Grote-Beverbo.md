@@ -1,0 +1,33 @@
++++
+title = "25 Tobias Grote-Beverborg"
+date = "1997-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006669.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006669.html)
+
+Dear Klemens!
+I can recommend to begin with looking at the bookshops on College Street,
+that's opposite the university.
+Sanskrit Pustak Bhandar, 38 Bidhan Sarani (that's an extension of College
+Street) is specialised in Sanskrit literature etc. unfortunately a little
+bit unorganized and slow in service.
+anyhow there are lots of other bookstores with a big scope of regular
+Sanskrit related literature and other interesting stuff.
+on College Street You'll also find a store of Rupa publishers.
+inside the Great Eastern Hotel on Old Court House Street (south of BBD Bagh)
+is Newman's.
+on Park Street You'll find The Cambridge Book & Stationary Company and
+further down the Oxford Book Shop.
+if You're interested in Vedanta literature it's definitely worth to drop
+into the Ramakrishna Mission, Institute of Culture, at Golpark.
+in the end of january there's also one of India's biggest book fairs on the
+Maidan.
+hope you'll enjoy Your trip.
+best wishes
+tobias
+
+
+
+
+

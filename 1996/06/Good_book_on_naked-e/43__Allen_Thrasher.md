@@ -1,0 +1,40 @@
++++
+title = "43 Allen Thrasher"
+date = "1996-06-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005276.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005276.html)
+
+A couple of months ago there were several postings on books useful in
+understanding traditional Hindu astronomy.  A very useful book describing
+the basic phenomena of the heavens such as the sun moving "north" and
+"south" with the seasons, the movements of the planets against the fixed
+stars, etc. is:
+
+Norman Davidson
+Astronomy and the imagination : a new approach to man's experience of the
+stars
+London and New York : Routledge and Kegan Paul, 1985
+
+I have found understanding books on even the most basic mathematical
+aspects of pre-Galilean astronomy East and West difficult because they
+usually are inadequate in describing what one _sees_.  This book was
+written specifically to deal with that problem.  The author explains that
+he is inspired by the scientific ideas of Rudolf Steiner, the founder of
+Anthroposophy and editor of Goethe's scientific works.  Steiner took from
+Goethe the idea that science after Newton was getting unhealthily remote
+from direct sensuous experience of the physical world.
+
+
+
+Allen Thrasher
+athr at loc.gov
+
+The opinions expressed do not represent those of my employer.
+
+
+
+
+
+

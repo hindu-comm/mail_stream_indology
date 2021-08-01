@@ -1,0 +1,25 @@
++++
+title = "200 ORACLE at wl.aecl.ca"
+date = "1995-10-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003452.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003452.html)
+
+Hello Ramanagaru,
+
+	The unicode mapping of Indian languages is based on ISCII representation, with very minor extensions/variations. So, by looking at the unicode standard
+volume I, which you should be able to borrow from a university library, you can
+get a very good idea of what ISCII is. Both ISCII and unicode map only the
+basic alphabet set, but I have not seen a standard for the mapping of glyphs 
+required to compose the scripts anywhere. Unicode doc specifically states
+that glyphs are not part of the standard. I don't know if ISCII has any standardfor glyphs, if so what is it.
+
+Regards,
+Desikachary,
+AECL,Canada.
+
+
+
+
+

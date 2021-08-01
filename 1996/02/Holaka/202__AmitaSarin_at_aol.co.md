@@ -1,0 +1,21 @@
++++
+title = "202 AmitaSarin at aol.com"
+date = "1996-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004202.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004202.html)
+
+According to Stutley's Dictionary of Hinduism, Holaka is commonly called
+Holi.  This book, refering to Monier-Williams Sanskrit English Dictionary,
+suggests that the word Holaka is perhaps derived from a cry, shout or sound
+in singing. 
+ Auboyer's "Daily Life in Ancient India,"p. 144 is also suggested as a
+further reference on the subject. 
+Basham in "The Wonder that was India" states that the festival was originally
+held in honor of Kama, the Love god.
+Hope this is helpful.  Amita Sarin
+
+
+
+

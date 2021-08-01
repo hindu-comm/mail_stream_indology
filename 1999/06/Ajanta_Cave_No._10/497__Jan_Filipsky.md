@@ -1,0 +1,30 @@
++++
+title = "497 Jan Filipsky"
+date = "1999-06-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017877.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017877.html)
+
+Dear Colleagues,
+
+I wonder if anybody familiar with Ajanta could furnish
+particulars about the donor of Ajanta Cave 10, who wrote:
+"may whatever merit is in this, be for the release from
+miseries of all sentient creatures".
+How is it in original, what is the name and/or designation
+of the "dAtA"?
+With mettA
+J. Filipsky
+
+Jan Filipsky, PhD.
+Oriental Institute
+Pod vodarenskou vezi 4, 182 08 Praha 8
+The Czech Republic
+phone ++4202/6605 3729
+
+home: U Pentlovky 466/7, 181 00 Praha 8
+phone ++4202/855 74 53
+
+
+

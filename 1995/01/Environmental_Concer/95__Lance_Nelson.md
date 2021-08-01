@@ -1,0 +1,39 @@
++++
+title = "95 Lance Nelson"
+date = "1995-01-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-January/001800.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-January/001800.html)
+
+
+I've been asked to edit a book on environmental concern in South Asian
+religious for a good academic publishing house.  We are
+trying to include a variety of perspectives (Hindu, Jain, Buddhist,
+Muslim, etc.) and approaches (textual, anthropological, etc.).  I'm
+particularly interested in the question of how religion influences
+attitudes towards nature, animals, and so on. 
+
+If anyone's doing work in this area, including either classical or 
+contemporary South Asia, and would like to submit a short proposal 
+I'd be delighted to hear from you.  I'm particularly looking for 
+material on Vaisnava Vedanta and Tantra, i.e., what attitudes might 
+emerge from these traditions regarding nature, etc.  Also Jainism and 
+Buddhism in South Asia.
+
+Best wishes,
+
+Lance Nelson
+---------------------------
+Lance Nelson
+Religious Studies    
+University of San Diego
+lnelson at pwa.acusd.edu
+---------------------------
+
+
+
+
+
+
+

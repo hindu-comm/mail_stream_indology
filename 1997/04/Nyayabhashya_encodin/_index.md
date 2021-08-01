@@ -1,0 +1,4 @@
++++
+title = "Nyayabhashya encoding"
+
++++

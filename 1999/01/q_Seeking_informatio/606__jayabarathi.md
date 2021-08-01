@@ -1,0 +1,80 @@
++++
+title = "606 jayabarathi"
+date = "1999-01-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015559.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015559.html)
+
+At 07:58 PM 1/28/99 +0100, you wrote:
+>Thanks to Drs. Drozdzowicz, Jayabharati, and Ganesan for the valuable
+>information they provided!
+>
+>In fact it is in "tanjaavoori aandhra raajula charitra" I read about this
+>ceremony, Vijayaraaghava naayaka undergoing it, for the first time. Also,
+>V. Narayana Rao, D. Shulman and S. Subrahmanyam referred to it in
+>"Symbols of Substance - Court and State in Nayaka Period Tamilnadu"
+>(OUP, 1992). I could even get hold of Satyanatha Aiyar's (History of the
+>Nayaks of Madura & Tamilaham in the 17th  century. In later he cites the
+>Jesuit missionary; Antao de Proenca's description of the ceremony from
+>1665) and Vriddhagirisan's (Nayaks of Tanjore). Even Gene Roghair in his
+>_The Epic of palnaaDu_ (OUP, 1982) has a brief reference to it.
+>
+>But, recently I heard that it was performed even before; i.e. during Chola
+>period also. I am looking for earlier; pre-naayaka, references if any.
+
+        There are instances of Thulaabaara sacrifice having been done in
+the pre-nayak days. But so far Hiranyagarbha eludes mention.
+        But there is another instance. Ragunatha Sethupathi, the third
+Sethupathi in line, of Ramnad kingdom has performed it.
+        He started with a dimished Ramnad territory as a feudatory of
+the Madurai Nayaks in 1647 A.D. Then he enlarged his own territories at the
+expense
+of Madurai and Tanjavur Nayakdoms. When Madurai country was over-run
+by the Mysoreans and Tirumalai, the Grand Nayak was in danger of losing
+his life and his kingdom, Ragunatha Sethupathi led his army and chased
+out the Mysoreans. The grateful Tirumalai bestowed the title, "Tirumalai
+Sethupathi"  and "the Protector of Ranii's Thali(mangala-sutra)". In addition,
+he gave the special privilege of celebrating the Navaraathri festival in
+Ramnad with equal splendour as in Madurai. Thus Ragunatha Sethupathi
+became the first de facto king of Ramnad.
+        He performed the Hiranyagarbha sacrifice in the Temple of
+Rameswaram. Thus he earned the title of "Hiranyagarbhayaaji" . From
+that time, all the Sethupathis added Hiranyagarbhayaaji as one of their
+royal titles in addition to "Sethu Muula Rakshaka Durandaran",
+"RamanathaSwaami Kaarya Durandaran", etc.
+        I have a doubt. Was it is done in order to become a fulfledged
+Kshatriya? In the course of Indian history, there were many mlechchas
+and foreigners(non-Hindus) like Sakaas, Parthians,  Greeks, Kushans,
+and Huns who ultimately became Kshatriyas. Did they do the Hiranyagarbha?
+In later times, we find Saamraat Sivaji becoming a Kshatriya, first by
+a Vedic ritual and susequently by means of a Tantric ritual. Many kings,
+rulers and Maharajas came into being during later times. Most of them
+are descendants of war-lords, mercenary entrepreuners, and of more
+humble origins like robber-chieftains. I need not mention names because
+their descendants are still around:-) They don't seem to have performed
+this sacrifice.
+        I hope you don't mind my question. No malice intended.
+
+Regards
+
+Jayabarathi
+                                                Are
+>there any instances from northern India too?
+>
+>I am more interested in Sastra-ic references (providing base/legitimation)
+>to this ceremony. Dr. Drodzowicz provided one so far.
+>
+>Thanks once again.
+>
+>Regards,                --Sreenivas
+>
+>P.S. I just saw Prof. Hiltebeitel's message. Thanks for the _Bayly_ ref.!
+>In fact a book I once read. Bad memory :-( ).
+>
+>--
+>E-Mail: sreeni at ktp.uni-paderborn.de
+>
+
+
+

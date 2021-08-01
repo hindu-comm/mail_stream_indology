@@ -1,0 +1,27 @@
++++
+title = "346 SRINIVASAKRISHNAN L"
+date = "1998-01-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010592.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010592.html)
+
+I am interested in personal names which take after flora and fauna. For
+example, in modern Karnataka especially in the Dharwar-Belgaum belt, it
+is not rare to find personal names such as IruLLi (onion), meNasinakAyi
+(chillies), gubbi (sparrow) etc. It is possible that such names are used
+to ward off the 'Evil eye'.
+
+Is this a phenomenon in Karnataka alone or is there evidence for such
+names in other parts of India too? I am told that such names are not
+uncommon in rural Maharashtra. Can anybody confirm?
+
+Has anybody come across such names in our literature viz., Sanskrit,
+Classical Tamil, Marathi, Kannada?
+
+I would appreciate any help in this matter.
+
+Lakshmi Srinivas.
+
+
+

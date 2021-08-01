@@ -1,0 +1,37 @@
++++
+title = "82 Allen Thrasher"
+date = "1997-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006893.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006893.html)
+
+Wendy Doniger (a lifelong horsewoman) has long been interested in the
+subject of horses in India and is currently engaged on a special project
+about them, including contemporary conditions.
+
+Her address:
+
+Prof. Wendy Doniger
+Swift Hall
+University of Chicago
+Chicago, IL 60637
+off: (312) 702-5480
+
+Pardon me if I posted this information a month ago before I went off to
+the subcontinent.
+
+Allen W. Thrasher
+Senior Reference Librarian
+Southern Asia Section
+Library of Congress
+Washington, DC 20540-4814
+tel. (202) 707-5600
+fax  (202) 707-1724
+email: athr at loc.gov
+
+
+
+
+
+

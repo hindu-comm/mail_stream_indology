@@ -1,0 +1,32 @@
++++
+title = "233 Jaroslav Strnad"
+date = "1997-11-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009915.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009915.html)
+
+Dear members of the Indology list,
+
+the library of the Oriental Institute, Prague considers purchasing the
+Encyclopaedic District Gazetteers of India (updated) in 11 vols., ed. by
+S.C. Bhatt, New Delhi 1997. As the complete set is rather expensive and
+none of us here in Prague has seen this edition, we would appreciate
+very much a basic description of this source by a person familiar with
+it. We would like to know, for example, whether the names of localities
+are written only in the Latin script or whether the versions in Indian
+scripts are also included, etc.
+We would appreciate any information which will help us in evaluating the
+suitability of the purchase.
+
+With best regards,
+
+PhDr. Jaroslav Strnad
+Oriental Institute of the Czech Academy of Sciences
+Pod vodarenskou vezi 4
+182 08 Praha 8
+CZECH REPUBLIC
+e-mail: strnad at orient.cas.cz
+
+
+

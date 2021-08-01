@@ -1,0 +1,22 @@
++++
+title = "27 Harry Falk"
+date = "1993-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-February/000441.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-February/000441.html)
+
+the unexpectable happened: a Xerox copy of an article of a Festschrift
+I could not get otherwise was sent to my address.
+Thank you out there!
+Even if this first attempt led to success we should not be tempted to
+overdo it. First try all the regular foreign loans. Then INDOLOGY.
+Asking for help with regard to an article/contribution is certainly
+easier than searching for a some-hundred-pages-cum-plates book.
+Still, an additional aim for INDOLOGY seems to be found.
+-Harry
+
+
+
+
+

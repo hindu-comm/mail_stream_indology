@@ -1,0 +1,34 @@
++++
+title = "129 Allen Thrasher"
+date = "1996-11-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006169.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006169.html)
+
+Dear colleagues,
+
+A private scholar without access to a really good academic library or
+email has asked me to post a query.  Have there been any articles or other
+writings on the etymology of these Sanskrit words, alAta 'firebrand,'
+ulkA 'meteor,' and ulmuka, 'firebrand' since Mayrhofer discussed them in
+Kurtzgefasstes etymologisches woerterbuch des altindischen in 1951?
+Mayrhofer can only cite a couple of very tentative articles for each.
+Could there be a non-IE source?
+
+Thanks for your help.
+
+Allen W. Thrasher
+Senior Reference Librarian
+Southern Asia Section
+Library of Congress
+Washington, DC 20540-4814
+tel. (202) 707-5600
+fax  (202) 707-1724
+email: athr at loc.gov
+
+
+
+
+
+

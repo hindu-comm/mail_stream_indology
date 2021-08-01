@@ -1,0 +1,39 @@
++++
+title = "48 Jakub Cejka"
+date = "1996-10-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005912.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005912.html)
+
+
+While reading here about the fact that in southern temples removing upper 
+clothing is a required gesture of respect, I would like to ask (Indians) 
+how has the sense that it is otherwise a gesture of disrespect developed ?
+
+Whenever in India I removed or only unbuttoned my shirt being unable to 
+bear the heat I was always either laughed at or politely or impolitely 
+forced to cover my body not by muslims but hindus. When dressed in shorts 
+I entered the Sanskrit department in a West Bengal university, I was told 
+that it is not good to come "in dhoti". This particularly puzzled me, 
+that once shorts are seen as dhoti they are not accepted. 
+
+I appologize a lot for such non-Indological question, but I was always 
+wondering about this: that what is necessary in some temples is 
+considered uncultured in public.  Any personal feelings welcome on this 
+on my email address.
+
+Thanks J.Cejka
+
+______________________________________________________________________________
+Mr. Jakub Cejka
+Dept. of Sanskrit, University of Pune
+Ganeshkhind, Pune, India  411 007
+
+e-mail:  jakub at unipune.ernet.in   (till July 97 the latest)
+
+
+
+
+
+

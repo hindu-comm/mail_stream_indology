@@ -1,0 +1,29 @@
++++
+title = "231 Allen W Thrasher"
+date = "1998-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012815.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012815.html)
+
+Holst's Savitri is a brief opera in English.  I can tell it is brief because in
+looking at a sample of the 36 hits for author Holst and title Savitri on OCLC
+it is usually just part of a single disk or tape.  I don't have access to any
+online audio catalog so don't know if it's currently available.  Amazon.com
+has just brought up an audio section but doesn't include classical music yet.
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+101 Independence Ave., S.E.
+Washington, DC 20540-4714
+tel. (202) 707-3732
+fax (202) 707-1724
+email: athr at loc.gov
+
+The opinions expressed do not represent those of my employer.
+
+
+

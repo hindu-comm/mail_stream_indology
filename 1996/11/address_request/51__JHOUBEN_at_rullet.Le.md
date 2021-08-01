@@ -1,0 +1,35 @@
++++
+title = "51 JHOUBEN at rullet.LeidenUniv.nl"
+date = "1996-11-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006103.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006103.html)
+
+On 2 Nov reusch at uclink4.berkeley.edu wrote: 
+
+May I get help regarding how to contact Jan Houben?
+Any e-mail? Anby other way?
+Thank you so much.
+Best wishes,
+Beatrice
+
+*****
+
+my email-address is: 
+jhouben at rullet.LeidenUniv.NL
+but it will be not in use from 18 November 1996 till end March 1997; 
+then I may be contacted through the address: 
+Bhandarkar Oriental Research Institute, 
+Pune 411004 --- India. 
+
+greetings, 
+
+Jan E.M. Houben
+Kern Institute, University Leiden,
+P.O. Box 9515, 
+2300 RA   Leiden. 
+
+
+
+

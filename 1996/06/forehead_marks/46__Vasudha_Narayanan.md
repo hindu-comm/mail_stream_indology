@@ -1,0 +1,31 @@
++++
+title = "46 Vasudha Narayanan"
+date = "1996-06-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005279.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005279.html)
+
+ I am interested in knowing about the origins and meanings of, textual
+references, and iconographic attestations to forehead marks in India.  I am
+familiar with the interpretations of some Sri
+ Vaishnava and Saiva  marks of south India.  I have also heard of the
+"bindu" representing the Devi.  I would  like to know more about their
+religious/sociological/cosmetic meanings.  I have seen names like tilaka,
+bindu/bindi,  nAma, srichurNam, vibhuti, tirunIr, to refer to the shape and
+the materials used.  Is there any secondary literature?  Depending on custom
+and usage, some women do not wear such marks after the death of their
+husbands.  Sri Vaisnava women may and do infact wear the nAma throughout
+their lives -- they wear it  as children, on the day of their wedding, and
+through widowhood because the primary significance is devotional and not
+cosmetic. How did this function historically?  Where there major gender
+differences in usage? 
+With many thanks, 
+Vasudha Narayanan
+Professor, Department of Religion
+University of Florida
+
+
+
+
+

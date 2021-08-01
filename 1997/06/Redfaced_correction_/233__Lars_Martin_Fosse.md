@@ -1,0 +1,39 @@
++++
+title = "233 Lars Martin Fosse"
+date = "1997-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008529.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008529.html)
+
+I refer to my previous message, where I claimed that the words indos /
+indikos would have entered Greek and Latin in the hellenistic period. In
+fact, it must have happened earlier. The first Greek-speaking person to go
+to India that we know is Scylax, who went to India with Darius in the 6th
+century. The loss of the h is due to Ionian Greek, which looses its h's
+earlier than Attic. This I should have remembered (if I had been up early, I
+could have blamed it on an early morning, but I have no excuse). 
+
+Anyway, those of you who would like to get some more information on the
+Greeks, Persians and the Hindus, please consult the informative book by
+Klaus Karttunen, India in Early Greek Literature. Helsinki 1989.
+
+Best redfaced regards,
+
+Lars Martin Fosse
+
+
+
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: L.M.Fosse at internet.no
+Mobile phone: 90 91 91 45
+
+
+
+
+

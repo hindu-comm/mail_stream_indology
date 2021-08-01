@@ -1,0 +1,30 @@
++++
+title = "218 Dominik Wujastyk"
+date = "1995-08-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/003087.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/003087.html)
+
+Dear M. Quiviger,
+
+I can't explain it, but my message responding to your query about
+Roberto de Nobili and the prohibition of sex during pregnancy seems to
+have disappeared completely.  This is annoying, since it was quite long
+and had detailed documentation.
+
+In short, I found that the classical medical text of Caraka says that the
+pregnant woman must avoid over-exertion, riding on carts, etc., but does
+not mention intercourse.   The author Sushruta adds intercourse to a
+similar list of prohibitions. The later author Vagbhata, in his
+influential Ashtangahrdaya, prohibits "excessive" sex during pregnancy.
+Evidently he is trying to harmonize the two earlier views.
+
+Dominik
+
+
+
+
+
+
+

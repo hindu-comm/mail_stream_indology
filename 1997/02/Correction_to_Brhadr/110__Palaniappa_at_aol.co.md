@@ -1,0 +1,33 @@
++++
+title = "110 Palaniappa at aol.com"
+date = "1997-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006938.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006938.html)
+
+Let me correct an error in my earlier posting.
+
+Actually, there were two names of Aryan kings mentioned in the Classical
+Tamil literature as either a student or poet of Tamil. (Some think that both
+may refer to a single person.)   
+
+1. Aariyavaracan Pirakattan  (Brhadratha?)
+2. Aariyavaracan Yal Piramatattan  (Brahmadatta well-versed in lute?  or
+                        Brahmadatta of Gandhara?)
+
+The first one is mentioned in the colophon as a student of Tamil
+Culture/language for whose benefit KuRincippaaTTu was composed by Kapilar.
+
+The second one is mentioned in the colophon as the author of a poem in
+Kuruntokai.
+
+As I mentioned earlier, I would appreciate any information about these two
+from the Sanskrit/Pali/Prakrit.
+
+
+S. Palaniappan
+
+
+
+

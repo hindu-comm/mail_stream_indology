@@ -1,0 +1,46 @@
++++
+title = "222 jacob.baltuch at euronet.be"
+date = "1997-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008539.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008539.html)
+
+>A few remarks on the word Hindu = Sindhu etc.
+>
+>Hindu is not a Persian *misspelling* of Sindhu. It represents the natural
+>phonetic development in ancient Iranian of the original *sindhu. In Awestan,
+>initial *s becomes h in front of vowels.
+>
+>The words "indus, indikus (Latin) / indos, indikos (Greek)" must have come
+>to Western Europe via Greek in the Hellenistic period. That is when the
+>Greeks "drop their h'es". (I assume that if the word had entered Greek at an
+>earlier stage, the Latin version might have been hindus, although this is
+>strictly speaking not absolutely necessary). Consequently, Persian hindu-
+>(the change from dh > d is also typical of Iranian) would become indo- in a
+>Greek mouth. In this shape the word also got into Latin from Greek.
+
+[Later corrected to: it *did* enter Greek at an early time but through
+the Ionian dialect which lost its initial hs much earlier on than Attic]
+
+In the same vein, can anyone explain the Hebrew name of India, "hodu"?
+(That's the modern pronunciation. Originally it should be "hoddu" or "hodhu",
+I don't remember which but I suspect it should be the latter; it can be found
+in the Bible, in the first verse of the Book of Esther, for example)
+
+And what about the origin of "sindhu" itself? (Meaning? Is it IA?)
+
+Also, in a translation of one of the ashokan edicts (I don't remember
+which one) I've seen the word "India" used (in translation; I haven't
+seen the text) I was kind of surprised. Unfortunately the translator
+who otherwise provided numerous notes, didn't deem this particular
+item to be worth one.
+
+Does anyone know by any chance what word that was and how its meaning
+should be understood?
+
+
+
+
+
+

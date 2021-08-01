@@ -1,0 +1,35 @@
++++
+title = "281 Francois.Voegeli at orient.unil.ch"
+date = "1996-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004285.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004285.html)
+
+        Many thanks to all the scholars on the list who made very valuable
+comments on my query about saris.
+        Actually this query comes originally from the head of the Asian
+department of the Ethnographical Museum of Geneva. They have a very
+beautiful collection of rare and old saris they plan to exhibit this
+summer. So if any member of the list is in Geneva during summer, please
+visit it. They have a web site on
+http://www.ville-ge.ch/gve_guid/musgal/ethno/methno.htm.
+
+Thanks again.
+
+Francois Voegeli
+Fac. des lettres
+Section de langues et civilisations orientales
+Universite de Lausanne
+BFSH 2
+CH-1015
+
+Tel.: (41.21) 692-2721
+Fax.: (41.21) 692-3045
+E-mail: Francois.Voegeli at orient.unil.ch
+
+
+
+
+
+

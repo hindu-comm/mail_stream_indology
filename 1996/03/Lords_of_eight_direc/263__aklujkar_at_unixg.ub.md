@@ -1,0 +1,22 @@
++++
+title = "263 aklujkar at unixg.ubc.ca"
+date = "1996-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004588.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004588.html)
+
+The following message was returned to me as one that could not be
+delivered. Hence I am posting it again.
+
+On 28 Mar 1996,  dmenon at pacific.net.sg (Das Menon) asked: "Does anyone know
+the sloka that is used to describe (or help remember) the Lords of the
+eight directions like indra, vAyu etc.?"
+
+The Amara-ko;sa (6.4 or verse 149) has: indro vahni.h pit.r-patir nair.rto
+varu.no marut / kubera ii;sa.h pataya.h puurvaadiinaa.m di;saa.m krammat //
+
+
+
+
+

@@ -1,0 +1,37 @@
++++
+title = "416 Jo Kirkpatrick"
+date = "1998-03-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011487.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011487.html)
+
+May I humbly inquire, only because there seems to be some illogic going
+on here: considering nomadic cultures, how can one postulate a "more
+compact source of origin"? I assume one can hypothesize a geographical
+area which is traversed by a nomadic culture, but if that area is
+extremely large, a vast expanse of teritory,  then what?  How does one
+identify in this case a "compact source of origin", especially since
+nomads leave a less concentrated archaeological record of their presence
+than do settled people.
+
+Cautiously yours,
+J. Kirkpatrick
+
+*********************
+Edwin Bryant wrote:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>{cut]
+ Kenoyer argues that nomads were constantly
+criss-crossing this area to and fro resulting in a common language
+family.
+While this might work archaeologically, and is convenient in so far as
+it bypasses the need for refuting either an 'into' or 'out of' India
+model I suspect that most linguists would say that a language family
+needs a more compact source of origin for its members to develop
+significant shared morphological and lexical features (based on the
+geographical history of other language families that are presently
+known).   Regards,
+> Edwin
+
+
+

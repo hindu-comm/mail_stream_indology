@@ -1,0 +1,50 @@
++++
+title = "352 David Magier"
+date = "1999-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015861.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015861.html)
+
+The following job announcement (reposting) is being forwarded to your
+mailing list or listserv from the ACADEMIC POSITIONS section of SARAI
+<http://www.columbia.edu/cu/libraries/indiv/area/sarai>
+Please contact the posters directly for any further information.
+PLEASE DO NOT SEND JOB APPLICATIONS TO ME (OR TO SARAI)!
+          ^^^
+
+Thanks.
+David Magier
+
+===================================================
+University of Chicago: Hindi (reposting)
+
+Appointment in Hindi
+
+The Department of South Asian Languages and Civilizations at the
+University of Chicago invites applications for an assistant professor,
+tenure-track position in Hindi language and literature, to begin in AY
+1999-2000.  We are looking for someone with competence and interest in
+teaching modern Hindi as well as one or more of the pre-modern
+literary languages of North India, such as Brajbhasa and Avadhi.  The
+position entails the responsibility for periodically teaching
+humanities courses included in the College's general education
+curriculum.
+
+Applicants are requested to send a detailed letter describing their
+current research project and teaching interests, a representative
+sample of their scholarly writing, and three letters of
+reference. Review of applications will begin February 1, 1999. The
+University of Chicago is an Affirmative Action Equal Employment
+Opportunity employer.
+
+Please direct all correspondence to:
+
+Hindi Search Committee
+Dept. of South Asian Languages and Civilizations
+University of Chicago
+1130 E. 59th St.
+Chicago, IL 60637-1543, USA
+
+
+

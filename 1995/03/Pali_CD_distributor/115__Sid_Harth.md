@@ -1,0 +1,56 @@
++++
+title = "115 Sid Harth"
+date = "1995-03-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002217.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002217.html)
+
+On 19-MAR-1995 17:00:23.8 BUDDHA-L%ULKYVM.BITNET said to BAKULA
+
+     In reply to some private inquiries for the details about my Pali CD
+post, I have following:
+
+Thanks to the original post content and what follows to:
+     Kaare Lie (kaare.lie at euronetis.no)
+
+
+   > Darika Nantiya wrote:
+   > DN>        Could you please tell me where I can get this CD both in
+   >the US. >and in Thailand? I'm from Thailand. I know that Mahidol
+   >University has been >doing good work in Buddhism both on the
+   >theoritical level and its practical >application. Do you happen to
+   >know Dr. Phinit Ratanakul by chance? He is a >philosopher and I
+   >believe is still the chair of the Department of >Humanities and
+   >Linguistics there.  Is he the one who helped put the >Tipitaka into
+   >the CD format?
+   > I ordered my copy from the US distributors:
+   > Scholars Press
+   > Electronic Publications
+   > P.O.Box 15399
+   > Atlanta, GA 30333-0399
+   > E-mail: scholcomm at aol.com
+   > The Bangkok address given in the manual, is:
+   > Dr. Supachai Tangwongsan
+   > Mahidol University Computing Center
+   > Faculty of Science
+   > Rama VI Rd., Bangkok
+   > Thailand 10400
+   > Tlph: (662) 247-0333
+   > Fax : (662) 246-7308
+   > E-mail: ccstw at mucc.mahidol.ac.th
+   > I could not find Dr. Phinit Ratanakul among the names of the
+   > contributors, as given in the manual.
+   > Yours,
+   > Kaare Lie
+   > ---
+   > * 1st 1.11 #1403 * Sabbe satta sukhitatta hontu!
+
+Sid Harth
+
+`[1;32;45mRainbow V 1.12 for Delphi - Registered
+
+
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "477 Erik Hoogcarspel"
+date = "1998-12-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014812.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014812.html)
+
+Hi Sergio,
+
+maybe you read the 'Celestine promiss' lately?
+
+Op woensdag, 23-dec-98 schreef Sergio Mascarenhas:
+
+
+SM> The worst thing that can be done is to think that you can define a
+place
+SM> for science, and a place for nonsense. That's the best way to ensure
+that
+SM> nonsense keeps prevailing.
+
+
+Is this a scientific observation or a nonsensical or both? You puzzle me
+here.
+ BTW I know perfect places for nonse: the pub around the corner and the
+church two blocks dwon the road. And a place for science would be the
+university, am I missing something? ;-)
+
+Regards
+--
+erik
+
+
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+  Erik Hoogcarspel           <    jehms at kabelfoon.nl     ><
+Boerhaaveln 99b     >
+                             <    tl+31.(0)104157097    ><       3112 LE
+Schiedam    >
+                             <    fx+31.(0)842113137    ><       Holland
+        >
+ *===================================================================================*
+
+
+

@@ -1,0 +1,19 @@
++++
+title = "02 LEHMANN at VAX2.CONCORDIA.CA"
+date = "1994-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-December/001643.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-December/001643.html)
+
+I would like to echo Dr. Deshpande's communication about Prof. Tokunaga's
+fantastic contribution to Indology with publication of the E-texts of the two
+great Inidan epics. What a feat and a feast for Indologists. frankly, I believe
+that these files should be placed at strategic sites around the world, meaning
+at Indology and at Coombsquest. After communicating with David Magier at
+Columbia he agrees. Maybe Dr. Wujastyk and Dr. Ciolek could comment.
+
+
+
+
+

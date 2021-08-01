@@ -1,0 +1,34 @@
++++
+title = "54 Vidhyanath K. Rao"
+date = "1996-10-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005918.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005918.html)
+
+The statement that the mode of wearing a piece of cloth over the left
+shoulder and under the right shoulder should be traced to the
+Indus Valley civilization because a statue with such a depiction was
+found there troubles me. If X is found in IVS and X is found in latter
+India, does that mean the line of transmission is from IVS to latter
+India?
+
+For example, if we find that women are depicted carrying babies on
+the left in IVS and since it is the dominant mode of carrying babies
+today, does that imply the influnece is from IVS to modern day India,
+not due to some common feature that is not even neccessarily cultural?
+
+To get back on topic, how wide spread is this mode of wearing a
+piece of cloth, either on the bare body, or on another piece of
+clothing? If memeory serves right, both Roman (toga?) and the
+Scots wore some piece of cloth over the left and under the right.
+How did this travel from IVS to Rome and Scotland?
+
+-Nath
+
+
+
+
+
+
+

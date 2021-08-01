@@ -1,0 +1,45 @@
++++
+title = "76 jpo at uts.cc.utexas.edu"
+date = "1997-04-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007604.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007604.html)
+
+We really do not know the type of loom that forms the basis of the
+metaphor. It appears that the weaver was located not behind the warp (as in
+modern hand-looms) but on the side where she (and it is mostly women!) can
+pass the shuttle back and forth. I have seen one reference that speaks of a
+pair of women weaving (can't think of the source); if so there may have
+been two women on either side of the loom passing the shuttle back and
+forth
+Patrick
+
+
+>If I am not mistaken, in the looms I have seen in Tamilnadu, the movement  of
+>the shuttle is sideways with respect to the weaver, and not towards and away
+>from the weaver. The width of the cloth is fixed by the size of the loom and
+>it is the length of the cloth which is variable. In fact, it is because of
+>this nature of looms, all the words for cloth in Tamil/Dravidian are derived
+>from words meaning 'to cut'. Cf. words 'tuNi', 'tuNTu', 'kURai', 'aRuvai',
+>etc. Is the Indo-European loom conceptually different?
+>
+>Regards.
+>
+>S. Palaniappan
+
+***********************************
+Patrick Olivelle
+Director, Center for Asian Studies
+Chair, Department of Asian Studies
+WCH 4.134 (Mail Code G9300)
+University of Texas
+Austin, TX 78712-1194
+USA
+***********************************
+
+
+
+
+
+

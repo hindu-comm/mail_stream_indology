@@ -1,0 +1,29 @@
++++
+title = "03 Vickie.Banks"
+date = "1991-06-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-June/000082.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-June/000082.html)
+
+Status: RO
+
+When I was in India last summer I consulted with a private group who wanted to
+direct email to the U.S.  We tried to get access to one of the BITNET or UUCP
+sites, but found it very difficult.  They wanted you to be an educational
+institution and pay a high yearly fee for the privilege.  Essentially they
+didn't want to deal with individuals who where not on their staff at all.
+What finally worked was getting a private MCI Mail account (available
+throughout India). With that one had to get a packet switching account from
+the PTT and license the modem, but compared with trying to become an
+educational institution and pay fees, it was workable.  MCI Mail gateways to
+the Internet, so it's easily reachable to and from BITNET.  MCI Mail customers
+only pay for sending (not receiving) mail, so charges weren't bad except for
+the packet switching, which is probably unavoidable in some form or another
+anyhow. Compuserve also works well from India, though because of connect time
+charges, it tendsto be a bit more expensive than MCI Mail.  Anyhow perhaps
+this will be helpful
+
+
+
+

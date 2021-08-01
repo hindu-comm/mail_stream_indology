@@ -1,0 +1,36 @@
++++
+title = "101 Sreenivas Paruchuri"
+date = "1997-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009541.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009541.html)
+
+Greetings!
+
+I am looking for the following title, published twice by BVB (am
+quoting both). Are you aware of a recent edition of this title, or
+about the availability of it in the market?
+
+Thanks and Regards,
+Sreenivas
+
+==============
+Bhartrhari. The epigrams attributed to Bhartrhari, including the Three
+centuries. ed. with principal variants and an introduction by D. D. Kosambi.
+Bombay, Bharatiya Vidya Bhavan, 1948
+Series title:  Singhi Jain series v. 23.
+
+Bhartrhari. Sataka-trayam. of Bhartrhari. (The southern archetype of the
+three centuries of epigrams ascribed to Bhartrhari); for the first time
+critically edited by D. D. Kosambi, with an anonymous Sanskrit commentary
+ed. Krishnamoorthi Sharma.
+Bombay, Bharatiya Vidya Bhavan, 1946
+Series title:  Bharatiya vidya series ; v. no. 9.
+==============
+
+--
+E-Mail: sreeni at ktp.uni-paderborn.de
+
+
+

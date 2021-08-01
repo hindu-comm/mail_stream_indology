@@ -1,0 +1,37 @@
++++
+title = "03 thompson at jlc.net"
+date = "1996-08-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005524.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005524.html)
+
+In the absence of a more detailed response from Graham Shaw [via Jerry
+Losty] or from Richard Salomon, and while we are waiting for for the
+picture forthcoming  on OIOC's home-pages on the British Library's WWW link
+PORTICO...
+
+perhaps the best source of public information for now is a rather detailed
+article in the New York Sunday Times, July 7, 1996 [p.3], by John Darnton
+[unfortunately, or rather fortunately, it is too long to append here].
+Besides asserting directly that the language of these texts is indeed
+Gandhari, the article is accompanied by a nice photograph of a fragment of
+a ms in Kharosthi script.  The article also goes on to quote Salomon rather
+extensively.  For example:
+
+"The importance of these new manuscripts for the study of Buddhism  is
+potentially  comparable to that of the Dead Sea Scrolls to Judaism and
+early Christianity...."
+
+Besides other interesting remarks by Salomon, the article also quotes a
+verse from a poem called "The Rhinoceros Horn", found on one of the mss,
+which I will not quote, however, so as to tantalize....
+
+Best wishes,
+George Thompson
+
+
+
+
+
+

@@ -1,0 +1,76 @@
++++
+title = "15 Dominik Wujastyk"
+date = "1993-09-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-September/000670.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-September/000670.html)
+
+
+This message from Christian Wittern was originally to the Text Encoding
+Initiative group, but I thought it might be of interest here in
+INDOLOGY.  I forward it with Christian's permission:
+
+------------------------------
+From: christian wittern <g53150 at SAKURA.KUDPC.KYOTO-U.AC.JP>
+Tue, 20 Jul 1993 19:22:11 CDT
+To: Multiple recipients of list TEI-L <TEI-L at UICVM.EARN>
+Subject: TEI for Buddhist Text Database??
+
+
+
+Hello,
+
+At the shaping stages for a large text database project, which eventually
+might include the whole Buddhist Canon in Chinese in several hundred
+volumes, I'm trying to establish if the TEI-Guidelines are applyable
+for our project and need some advice.
+1. After scanning through some megabytes of DOC's, DTD's and Drafts I
+   got the impression, that coding the text in Chinese Characters would
+   require the proper writing system declaration and character set
+   declaration somewhere in the beginning. Does this mean, that all the
+   rest, i.e. the tags etc. will also be in this writing system (that
+   is, in double-byte characters)? Is there any software, which can
+   handle this?
+2. For some texts, we want to incorporate a translation in the e-text.
+   Are there some special taus available for doing so, or do we have
+   to use the usual pointer-references?
+3. Apparently the part of the P2 draft, which deals with critical editions
+   is not yet released. What approach is recommended in the meantime to
+   code such texts?
+4. Are there any complete examples of TEI conformant coded texts, which
+   could be studied for reference.
+
+Any help would be appreciated,
+
+Christian Wittern,
+
+Kyoto
+
+International Research Institute for Zen-Buddhism,
+Hanazono College
+--
+Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
+
+
+Original-Received: from 
+                   ellis.uchicago.edu by midway.uchicago.edu Fri, 3 Sep 93 
+                   04:19:32 CDT
+PP-warning: Illegal Received field on preceding line
+Date: Fri, 3 Sep 93 4:18:22 CDT
+From: wendy doniger <don8 at midway.uchicago.edu>
+To: indology at liverpool.ac.uk
+Cc: "PAUL B. COURTRIGHT" <RELPBC%EMUVM1.BITNET at uchimvs1.uchicago.edu>
+Subject: Re: Death of Stella Kramrisch
+In-Reply-To: Your message of Tue, 31 Aug 93 16:12:13 BST
+Message-Id: <CMM.0.90.4.747047902.don8 at ellis.uchicago.edu>
+
+Thank you for sending on that sad message, not as sad as Raman, as she was so
+very very old, but still a great soul gone away from us.   I have many very
+happy memories of being with her in Philadelphia; she was a grand girl, as
+well as a most extraordinary scholar.   I will miss her very much. 
+
+
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "69 John Gardner"
+date = "1996-06-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005297.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005297.html)
+
+
+For various electronic citation purposes, I need to know what the best
+clearing-house nation/worldwide is for purchasing resources on Vedic
+Studies.  Specifically, where can one easily get Barend Van Nooten and Gary
+Holland's "Rig Veda: A Metrically Restored Text" (Havard University Press,
+ #50).  Preferably, the whole/re-saler should have at least a 1-800 phone
+line if in the US, and ideally, an E-mail address.  In essence, I want a
+convenient place to which I can refer people from a website for aquiring
+his RV and its included electronic edition on disk.
+
+Thank you in advance, and you may reply directly to me at:
+
+jgardner at blue.weeg.uiowa.edu
+
+John Robert Gardner
+University of Iowa
+
+
+
+

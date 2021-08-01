@@ -1,0 +1,32 @@
++++
+title = "29 Dominik Wujastyk"
+date = "1992-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-June/000286.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-June/000286.html)
+
+Status: RO
+
+This is just a point of general interest, rather than anything
+INDOLOGICAL.  But I found that some local colleagues didn't know
+that they could consult the LC catalogue directly from their
+own computer accounts.
+
+Try the following command: "telnet dra.com"
+
+On machines which support IP (internet protocol) telnet and ftp, this
+will connect you with the LC catalogue for author and title searching
+(not subject, unfortunately).  Your terminal needs to be set to
+vt100 (or above).
+
+Also, try "telnet bbs.oit.unc.edu" and follow prompts for library
+catalogues.
+
+Dominik
+
+
+
+
+
+

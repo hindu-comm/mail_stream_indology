@@ -1,0 +1,23 @@
++++
+title = "86 RABE at vaxd.sxu.edu"
+date = "1995-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002631.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002631.html)
+
+Thiru S. Kalyanaraman,
+     I AM willing to help track down Landsat maps.  By the same token, I'm
+hoping you do intend to answer my specific objections (and Dominik's?) to the
+proposed hyphenation of Indus Valley Civilization with Sarasvati.  Again, can
+you tell me which if any Harappan site along the presumed former route of the
+Sarasvati was substantial enough to be ranked on a par with Mohenjo-Daro,
+Lothal and Harappa.  Could any be considered towns, at least?
+
+Michael Rabe
+Saint Xavier University
+
+
+
+
+

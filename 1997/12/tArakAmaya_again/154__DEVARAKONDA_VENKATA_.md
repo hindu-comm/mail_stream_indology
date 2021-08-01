@@ -1,0 +1,30 @@
++++
+title = "154 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1997-12-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010212.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010212.html)
+
+At 02:45 PM 12/17/97 +0100, George V. Simson writes:
+
+>Vettam Mani seems to follow the BhAgavatapurANa.
+
+Vettam Mani does not seem to follow BhAgavatapurAnA also because it clearly
+mentions that a battle has taken place, as given below.
+
+yadA sa dEvaguruNA yAchitO~bhIkSNazO madAt
+nAtyajat tatkRtE jajJE suradAnavavigrahah. 5
+zukrO bRhaspatErdvESadagRhIt sAsurOdupam
+harO gurusutam snEhAt sarvabhUtagaNAvRtah. 6
+sarvadEvagaNOpEtO mahEndrO gurumanvayAt
+surAsurvinAzObhUt samarastArakAmayah.      7
+
+                        bhAgavatapurANa 9.14.5-7
+
+regards,
+
+sarma.
+
+
+

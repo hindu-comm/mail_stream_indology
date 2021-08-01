@@ -1,0 +1,31 @@
++++
+title = "71 Dominique.Thillaud"
+date = "1997-10-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009514.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009514.html)
+
+        We can't ignore than potters, like cooks and smithes are jobs using
+fire and secret technics.
+        Eliade says many things about smithes.
+        One of my students, Beatrice Dunoyer (alas, she leaved studies for
+a more remunerate job and never published) gave a study on the
+warrior-cooks in Medieval and Indian texts (Rainouart, Lancelot, Bhima,
+&c.) establishing a link with the early Greek 'mageiros' who is a
+sacrificer, a butcher and a cook. Remember Bhima was not only a cook at
+Viraata's palace but a warrior-butcher-sacrificer when he kills Duhzaasana.
+I believe than in India there is link with the fact that the zamitr was a
+kSatriya.
+        Probably the potters too are not ordinary men. Intervention of a
+potter-God in the cosmogony is a very common myth (I remember an Amerindian
+racist one where the men, made with earth, were cooked by God: white people
+not sufficiently, black people too much, red people perfectly).
+        Hoping to help,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+

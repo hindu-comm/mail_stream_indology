@@ -1,0 +1,51 @@
++++
+title = "231 SHARMA GHANSHYAM"
+date = "1998-01-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010487.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010487.html)
+
+Prof. Hueckstedt's suggestion is quite right. To translate the Hindi
+saying correctly, it would be useful to add "na" in the beginning of the
+sentence:
+
+"(na) aage naath na piiche paghaa (pagahaa)".
+
+Ghanshyam Sharma
+University of Venice
+
+
+On Wed, 21 Jan 1998, RAH wrote:
+
+> Mr. Jay Thakar's reply is slightly off.
+>
+> aage -- in front
+> naath -- nose rope
+> na -- not
+> piiche -- behind
+> pagahaa -- tail rope, or tether
+>
+> When the nose rope is on, the ox is led around and is not tied down "at
+> home".
+>
+> My handy-dandy _saahityik muhaavaraa-lokokti ko"s_, by Harivamsh Ray Sharma,
+> defines this proverb as:
+>
+> "sa.msaar me.m akelaa honaa" to be alone in the world, and as:
+> "koii sagaa-sambandhii na honaa" to have no friend or relation
+>
+> Then he gives an example from Renu.
+>
+> sevaa me.m,
+> Bob Hueckstedt
+>
+> Robert A. Hueckstedt, Associate Professor of Indic Languages
+> Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+> Winnipeg, Manitoba R3T 2N2 Canada
+> http://www.umanitoba.ca/faculties/arts/asian_studies
+> phone 1 204 474-6427 fax 1 204 474-7601
+>
+
+
+

@@ -1,0 +1,65 @@
++++
+title = "363 Madhav Deshpande"
+date = "1996-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005209.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005209.html)
+
+Have fun!
+	Madhav Deshpande
+
+---------- Forwarded message ----------
+Date: Tue, 28 May 1996 12:14:08 -0400 (EDT)
+From: Nicole Moss <nmoss at umich.edu>
+To: Madhav Deshpande <mmdesh at umich.edu>
+Subject: Michael Jackson and India
+
+Madhav,
+
+I thought you might find some humor in this.
+
+-Nicole
+
+---------- Forwarded message ----------
+Date: Tue, 28 May 1996 8:14:02 -0500
+From: rosen_d at supplytech.com
+To: nmoss at umich.edu
+Subject: news about mikey
+
+*File Description: Michael Jackson Scares Wild Pigs*
+
+
+Michael Jackson's songs scare away wild pigs in India
+
+Deutsche Presse-Agentur
+  New Delhi, April 3, 1995
+    "Beat it!" boomed Michael Jackson's voice from the stereo
+and the
+wild boars took it literally.
+    Maurauding wild boars and monkeys are not regaled by
+the rock
+icon, darling of millions all over the world. Instead, his voice
+scares them, as a relieved Indian farmer discovered recently.
+    Anant Patwardhan, a farmer in the southern Indian state of
+Karnataka used to beat the drum to keep the wild foragers
+away from
+his crop.  But he really hit the jackpot when he accidentally
+played
+the casette containing the number by the Peter Pan of pop.
+    Wild boars and monkeys looking for a good meal in the
+fields
+immediately took to their heels to Patwardhan's surprise, PTI
+reported
+Monday.
+    Now the farmer is a regular Michael Jackson fan, though
+for a
+different reason.
+
+
+
+
+
+
+
+

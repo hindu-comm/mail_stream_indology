@@ -1,0 +1,51 @@
++++
+title = "396 Robert Zydenbos"
+date = "1998-12-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014699.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014699.html)
+
+Partha Banerjee wrote:
+
+> I have been keeping close touch with VHP activities in USA and Europe.
+> American and European children of Indian origin DO NOT know the connection
+> of RSS, BJP, VHP, and HSC.
+
+> And they are fed with a very distorted kind of Hinduism.
+
+On the VHP in the USA (and how it cultivates an image that in some ways
+is quite different from that in India) see Arvind Rajagopal, "Expatriate
+Nationalism: Disjunctive Discourses", pp. 109-139 in Rajeshwari Ghose
+(ed.), _In Quest of a Secular Symbol - Ayodhya and After_. Perth
+(Australia): Indian Ocean Centre & South Asian Research Unit, Curtin
+University of Technology, 1996 (South Asian Issues Monograph no.2).
+
+> If the children feel alienated, it's because of the reason that capitalist
+> systems make people alienated -- adults and children alike. "American"
+> children are alienated too.[...]
+
+Since this is the _Indology_ List, we naturally discuss matters relating
+to India and Indians, and from time to time also to expatriate Indians;
+but Partha Banerjee has a point: this is _not_ merely a problem for NRIs
+in the US (and so it is not really an Indological matter, though some
+details may be of Indological interest). Basically similar, though
+perhaps less poignant examples of frantic identity searches and
+assertions can be given from European immigrant groups in North America
+(see, for example, the support for the IRA among ethnically Irish groups
+in the US).
+
+> The panacea however is not Hindutva. If there is any panacea, it's a
+> progressive thought process. Just like the Christian Coalition with its
+> separatist and isolationist right-wing Christian agenda can't solve the
+> problems of white America, the Sangh Parivar can't do it for
+> Indian-American kids or Indian-European kids.
+
+--
+
+Dr. Robert J. Zydenbos
+Mysore (India)
+e-mail zydenbos at vsnl.com
+
+
+

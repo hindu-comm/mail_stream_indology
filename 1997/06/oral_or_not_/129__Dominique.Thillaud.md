@@ -1,0 +1,65 @@
++++
+title = "129 Dominique.Thillaud"
+date = "1997-06-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008445.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008445.html)
+
+At 14:03 +0200 10/06/97, Birgit Kellner wrote:
+
+>I am quite surprised about what you think I have written. I have nowhere
+>expressed such views. Nor have I even claimed to argue for or against
+>transmission with or without writing.
+
+	It appears I have actually misunderstanded you.
+
+>My question started from the fact, which is indubitable, that we have
+>written texts of considerable length. These texts exist. Some of these
+>texts are religious, others are not. Somebody wrote them down at some
+>point. Some people claim that these texts have been transmitted orally
+>for a long time before they were written down.
+
+	I agree.
+
+>Scholars have assumed
+>that a long period of oral transmission leads to a different kind of
+>written text than a short one, or no one at all. Oral transmission
+>leaves its marks. Therefore, there must be some characteristics in the
+>final written text that can tell us something about whether, and about
+>how long (in relative terms) the text was transmitted orally before it
+>was written down. Some scholars have come up with a number of such
+>characteristics. They have done that for a number of texts which have
+>nothing to do with India.
+
+	That's right, they have done it. But the problem is the size and
+homogeneity of their corpus, both too small. And their analysis of
+repetitions, standardized formulas, &c. as mnemotecnics is nothing but an
+hypothesis. That can be just a matter of rhetoric: see Shakespeare's
+"Honourable men", see RV I, 80 with "arcann anu svarAjyam" and many others.
+The true base of their hypothesis is "mnemotecnics are necessary", perhaps
+wrong ... (but the story of Truman Capote reported here is a well known
+"tour de magie").
+
+>It's not that we have different views, but that we are taking from
+>different stages in a process of understanding or research. You appear
+>to have already formed an opinion.
+
+	Not already, but until an other one would be more credible by me.
+Firstly, I believe using statistics on a text before a stylistic and
+pragmatic study is a methodological mistake. Secondly, I'm sure (but
+perhaps I'm wrong) that using "cutting and counting" on human productions
+is a paranoical behaviour because human productions are never context-free
+...
+
+	Best regards,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "228 aklujkar at unixg.ubc.ca"
+date = "1995-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003702.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003702.html)
+
+This query is directed particularly at those Indology members who live in
+the United States, especially in the Ohio state area. 
+
+At the request of an old professor of mine, I am trying to find out   the
+precise address of Dr. Virginia M. Axline, author of Dibs in Search of
+Self. According to the 52nd edition of this book published in 1990, Dr.
+Axline "is engaged in private practice in Columbus, Ohio" and "is a member
+of the faculty at Ohio State University."  My preliminary inquiries reveal
+that Dr. Axline  is no longer at this address.  Does anyone know her
+present whereabouts? 
+With thanks and good wishes, ashok aklujkar
+
+
+
+
+
+
+
+

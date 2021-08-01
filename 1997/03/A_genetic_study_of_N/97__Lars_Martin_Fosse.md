@@ -1,0 +1,42 @@
++++
+title = "97 Lars Martin Fosse"
+date = "1997-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007248.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007248.html)
+
+At 10:57 7.03.97 GMT, you wrote:
+>
+>Hello all,
+>
+>Regarding the article on the genetic study of certain peoples of
+>North Indian provinces, It seems that this study may be the first of its
+>kind. This article got my attention because it was mentioned that these
+>studies were done on some inhabitants of Uttar Pradesh. Would anyone
+>happen to know whether certain specific groups, or castes, were tested, or
+>whether it was a random study of peoples of various caste, ethnic, etc.
+>background? Also would anyone know if the report for this study was
+>published?
+>
+>I realize that the British did much in trying to assemble ethnographic
+>data of Her Majesty's subjects and had published these records in numerous
+>Census of India volumes. But nothing like this!
+
+You may want to have a look at the following book:
+
+The History and Geography of Human Genes.
+by: L. Luca Cavalli-Sforza, Paolo Menozzi and Alberto Piazza. Princeton
+University Press, 1994. 
+
+It treats the genetic map of the world quite comprehensively, and has a fair
+amount of data on South Asia.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+
+
+

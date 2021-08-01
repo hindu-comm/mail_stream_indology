@@ -1,0 +1,29 @@
++++
+title = "126 Sid Harth"
+date = "1995-03-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002223.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002223.html)
+
+On 19-MAR-1995 04:42:01.4 BUDDHA-L%ULKYVM.BITNET said to BAKULA
+
+   > Several people have asked how to subscribe to the buddhist discussion
+   > list. The listserv address is listserv at jpntuvm0.bitnet. Send the
+   > message
+   > sub buddhist Firstname Lastname
+   > [In case your first name is something other than Firstname, you
+   > may wish to substitute your own first name. The same applies mutatis
+   > mutandis to your last name.]
+   > Virtually yours,
+   > Firstname Lastname
+     Since I posted information on Pali CD, I have been getting a constant
+flow of requests for above information. Well, have fun on "Buddha-L".
+Sid Harth
+
+`[1;32;42mRainbow V 1.12 for Delphi - Registered
+
+
+
+
+

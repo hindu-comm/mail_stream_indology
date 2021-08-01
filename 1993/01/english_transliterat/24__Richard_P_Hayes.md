@@ -1,0 +1,28 @@
++++
+title = "24 Richard P Hayes"
+date = "1993-01-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-January/000403.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-January/000403.html)
+
+>          How does one get English transliterations (with
+>          diacriticals) using TeX?
+
+The only diacritical marks that are necessary in standard romanization
+are macron for long vowels, underdot for retroflex consonants, overdot
+for the velar nasal, tilde for the palatal nasal, and acute accent for
+the palatal sibilant. The codes for these accents are given on p. 52
+of The TeXbook. They are (in the order mentioned above): \=a (long a),
+\d{t} (retroflex stop), \.n (velar nasal), \~n (palatal nasal) and
+\'s (palatal sibilant). If you encode a lot of romanized Sanskrit, you
+may get quite a few overfull hboxes, since TeX does not know much about
+hyphenation exceptions for Sanskrit. So you may have to introduce a few
+ghost hyphens \-.
+
+Richard Hayes                                      cxev at musica.mcgill.ca
+Religious Studies           McGill University           Montreal, Quebec
+
+
+
+

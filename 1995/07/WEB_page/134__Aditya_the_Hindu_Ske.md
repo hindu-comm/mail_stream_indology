@@ -1,0 +1,29 @@
++++
+title = "134 Aditya, the Hindu Skeptic"
+date = "1995-07-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002853.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002853.html)
+
+I visited it today and  I find it very informative. I liked all the 
+links that you have put in. I even visited my alma mater, Univ of 
+Penn where Dr Gambhir has a whole set of  literature on some one 
+interested in learning Hindi. I could not find his email address 
+otherwise I would have written to him also.> 
+                          .oooO
+Have a nice day            (  )   Oooo.
+     -----------------------\ (---(   )---------------------------
+                             \_)   ) /
+                                  (_/  http://pages.prodigy.com/FL/aditya
+*************************************************************************
+  Aditya Mishra          | The opinions expressed herein are absolutely *
+Phone/FAX 305-746-0442   | not immutable and might have already changed *
+Internet: aditya at gate.net| by time you read them due to the new evidence*
+Prodigy:  TVDS96A        | or data that has come to my attention.       *
+*************************************************************************
+
+
+
+
+

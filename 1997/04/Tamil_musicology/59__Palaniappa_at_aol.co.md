@@ -1,0 +1,53 @@
++++
+title = "59 Palaniappa at aol.com"
+date = "1997-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007569.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007569.html)
+
+In a message dated 97-04-02 13:29:20 EST, kichenas at math.umn.edu (Satyanad
+Kichenassamy) writes:
+
+<< 2) is mOhanam the paN which comes about in the well-known episode from
+ TiruviLaiyATaRpurANam? 
+
+ By the way, to answer N. Ganesan's query, the varieties of yAzh have been
+ described in yAzh nUl (which was referred to already by S. Pichumani) and
+ which contains several pictures. It does look like a small harp (again,
+ see this book for details). It appears to have been used as an
+ accompaniment and is attested in several places (I can't resist quoting
+
+ KuRaL 66:  kuzhal-ini ti-yAzh-ini t-enpa-tam makkaL
+            mazhalai-c-col kElA tavar
+
+          They say that the kuzhal is sweet, that the yAzh is sweet,
+          who have not heard the faltering words of their (own) children)
+
+ It seems to have been used concurrently with the `viiNai' (presumably an
+ *earlier form* of the modern viiNai) and its disappearance has been
+ attributed to changes in ornamentation and other reasons.
+  >>
+Yes, zivA in the episode of selling firewood in Madurai sang paN sAtAri or
+rAga Mohanam.
+
+As for yAz and vIna being played simultaneously, mAnNikka vAcakar in a verse
+in TiruvAcakam states:
+
+       innicai vINaiyar yAzinar orupAl
+       irukkoTu tOttiram iyampinar orupAl
+
+     on one side there were players of melodious lute and vINa
+     on one side they were chanting Rig Vedic verses and stotras
+
+Regards
+
+S. Palaniappan
+
+
+
+
+
+
+
+

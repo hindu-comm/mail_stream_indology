@@ -1,0 +1,32 @@
++++
+title = "20 RAMAN at EARN.SJC"
+date = "1992-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-June/000281.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-June/000281.html)
+
+Status: RO
+
+Thank you Mr. Gupta and Dr. Gambhir. I am making a note of your suggestions.
+My original intent of including the comic books was for exactly the same
+reasons given by Dr. Gambhir.
+As for contacting Dr. Eck, I have done so. As a matter of fact, this is the
+second year that this institute on Cities: Windows into World Culture is being
+given. Dr. Eck was contacted last year and she was very helpful. The matter
+of 'primary documents' has come up because the curriculum writing team is
+particular about a certain format for all the cities. My biggest concern is that
+   the curriculum writers neither acquaint themselves with the materials that th
+   e
+teachers are given nor do they attend the presentation of the scholar/facili-tat
+   or. They come during the special curriculum writing sessions to assist the
+teachers. Each year, we try to work on changes as best as we can within the
+constraints of a "less is more, teacher-centered innovative curriculum in social
+   studies".
+
+P.S. Please ignore the hyphen in the word 'facilitator'.
+Shyamala Raman
+
+
+
+

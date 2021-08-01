@@ -1,0 +1,36 @@
++++
+title = "220 Dominik Wujastyk"
+date = "1995-08-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/003086.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/003086.html)
+
+P.Friedlander at wellcome.ac.uk said:
+> 
+> Hello
+> Not only has every Devanagari font I have ever used has had a different 
+> encoding but also every Devanagari font I have seen uses a different 
+> encoding.
+
+Yes, but input encoding is, or at least should be, different from font
+encoding.  In other words, a well-designed editing or formatting program
+should insulate you from the nasty details of the underlying font
+layout.  So it should be possible to take a single input text and output
+it using this, that, or the other font.  That's what John Smith has
+provided with his integration of the Jaisalmer Devanagari with TeX.  Now
+one can print one's TeX files in Velthuis or Jaisalmer, without changing
+the input file at all.  The input coding is the same for both.
+
+Unfortunately, there are not many "well-designed" text processing
+systems around that achieve this ideal of font-encoding-independence,
+especially when complex ligatures such as those in Devanagari are
+concerned.
+
+Dominik
+
+
+
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Shakta Philosophy"
+
++++

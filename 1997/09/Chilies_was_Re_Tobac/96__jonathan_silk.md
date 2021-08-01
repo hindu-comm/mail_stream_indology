@@ -1,0 +1,20 @@
++++
+title = "96 jonathan silk"
+date = "1997-09-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009151.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009151.html)
+
+I *certainly* hope you are not suggesting that there are *any* scholars (!)
+who have EVER smoked ganja!  (Or, as one methodological approach has it:
+perhaps it happened in the ancient past, but certainly not anymore!)
+
+Jonathan Silk
+SILK at wmich.edu
+
+
+
+
+
+

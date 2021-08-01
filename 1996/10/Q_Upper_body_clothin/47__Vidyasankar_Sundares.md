@@ -1,0 +1,39 @@
++++
+title = "47 Vidyasankar Sundaresan"
+date = "1996-10-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005911.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005911.html)
+
+
+
+> While reading here about the fact that in southern temples removing upper 
+> clothing is a required gesture of respect, I would like to ask (Indians) 
+> how has the sense that it is otherwise a gesture of disrespect developed ?
+> 
+
+Blame the Victorian/puritanical mentality that Indian universities and
+work-places have inherited from the British. Add to it the unwritten rule
+that an office is a bastion of conservative and /or "Western" values. A
+student who attends classes dressed in a dhoti and an angavastram (or a
+kurta) would be ridiculed by his peers and punished by the
+teacher/headmaster. Jeans + kurta is quite okay in colleges (but not in
+high schools) but a dhoti + kurta is not. However, at work, you have to be
+dressed in a suit, or in the so-called "safari". Curiously enough, such
+sartorial rules apply only to men. A woman who wears a sari to work or to
+school would be readily accepted.  
+
+Indians have become quite expert at compartmentalizing these things. For 
+example, in many homes, using your left hand to serve yourself some food
+is still an absolute no-no. But the same people would use knives and forks
+and use the left hand without hesitation at an official dinner. 
+
+S. Vidyasankar
+
+
+
+
+
+
+

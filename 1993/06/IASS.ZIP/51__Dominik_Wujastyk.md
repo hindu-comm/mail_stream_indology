@@ -1,0 +1,44 @@
++++
+title = "51 Dominik Wujastyk"
+date = "1993-06-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-June/000571.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-June/000571.html)
+
+In message Fri, 25 Jun 93 23:23:55 BST,
+  Michael Everson <EVERSON at IE.UCD.IRLEARN>  writes:
+
+> Could you please explain how I get that file to my Macintosh?
+> A .ZIP file comes to me as gibberish. :-(
+
+A ZIP file is a compressed archive of one or more constituent files.  To
+get at the contents you need a program called ... UNZIP.  Your best bet
+would be to get this from a friend.  At the same time you should get some
+other programs such as binhex and uudecode which help when you start
+fetching stuff from the Net.  There is a British service called the Higher
+Education National Software Archive, which you can log on to by telnet at
+micros.hensa.ac.uk.  Read the online help files, and there is a service
+whereby they will send you a Mac disk full of such utilities for about 5
+pounds.
+
+However, I can't believe that at UCD there isn't someone within 100 yards
+of your office who doesn't already have UNZIP etc.
+
+Incidentally, the screen fonts inside iass.zip are for the PC screen (EGA
+and VGA), not Mac.  (But the file will still be useful because it contains
+documentation about the CSX scheme.)  For the Mac screen you need a Mac
+font, and I don't know much about these.  I believe Tom Ridgeway is
+preparing an outline font which will appear in
+blackbox.hacc.washington.edu:/pub/indic/outlines in due course.  Also there
+are the Pisa TT CSX fonts.
+
+Best of luck,
+Dominik
+--
+Dominik Wujastyk           Phone (and voice messages): +44 71 611 8467
+
+
+
+
+

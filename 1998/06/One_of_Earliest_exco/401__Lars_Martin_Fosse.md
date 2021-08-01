@@ -1,0 +1,44 @@
++++
+title = "401 Lars Martin Fosse"
+date = "1998-06-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/013008.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/013008.html)
+
+At 19:15 27.06.98 +0100, you wrote:
+>N. Ganesan wrote:
+>
+>> I believe the beef avoidance more due to
+>> the local habits' catalytic effect than
+>> the internal independent development.
+
+J. Baltuch wrote:
+
+>Really? Haven't you considered the possibility that
+>there are vegetarians in Norway and Sardinia also?  :-)
+
+Yes, Jacob, but Norwegian vegetarians are a fairly recent phenomenon. Until
+quite recently, fish and meat was part of every Norwegian's diet if he could
+afford such things. (People would often subsist on herring, potatoes, and
+porridge and would not necessarily be able to buy meat on a regular basis).
+I think modern vegetarianism is an imported phenomenon.
+
+Best regards,
+
+Lars Martin
+
+
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+Mobile phone: 90 91 91 45
+
+Check out: http://www.nofsa.uio.no
+
+
+

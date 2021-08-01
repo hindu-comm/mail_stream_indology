@@ -1,0 +1,30 @@
++++
+title = "191 Dominique.Thillaud"
+date = "1997-11-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009870.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009870.html)
+
+At 16:57 +0100 16/11/97, Sudalaimuthu Palaniappan wrote:
+
+>Does IE have the concept of king as a coverer?
+
+        Not exactly. The Eurindian concept of king is not clear and, I
+believe, still unsolved (if even a solution exists ;-)
+        Despite the Indian equations rAjanya = kSatriya and indra =
+devarAj, I believe the primitive 'king' was perhaps more a priest than a
+warrior (or both). If I'm right, the role of the king in the fundation of a
+town could be considered as delimiting and covering the space of the earth
+(Roma ?) or, in hierogamy, as 'covering' the queen (Athens ?) ....
+        Please, don't answer me I am wrong, that's just personal and
+unprooved intuitions based on other researches.
+        "roulez doucement, travaux en cours"
+        Namaste,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+

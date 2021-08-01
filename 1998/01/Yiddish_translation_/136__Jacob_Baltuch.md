@@ -1,0 +1,28 @@
++++
+title = "136 Jacob Baltuch"
+date = "1998-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010429.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010429.html)
+
+>My God, who on earth would be interested in reading this classical text  in
+>a german patois ? What could be the meaning of such a translation?
+
+As pretentious, snobbish and ill informed statements go, I have
+not seen many that have come close.
+
+It would be worth having a translation of the giitaa (or any work
+of universal importance) in _any_ language, patois, dialect, idiom
+or creole whatsoever.
+
+Using what kind of argument can one reasonably justify the view that
+people who speak a given language should be denied access to a signi-
+ficant text?
+
+Besides Yiddish, that mere "German patois" by some pompous ignoramuses,
+is also a language that has been the medium of several great writers
+(one of them a Nobel Prize winner) and of an important culture.
+
+
+

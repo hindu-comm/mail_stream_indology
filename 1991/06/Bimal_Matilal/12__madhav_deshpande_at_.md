@@ -1,0 +1,28 @@
++++
+title = "12 madhav_deshpande at EDU.UMICH.CC.UM"
+date = "1991-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-June/000094.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-June/000094.html)
+
+Status: RO
+
+Dear Richard,
+        I am deeply saddened by the news of Bimal's passing away.  I
+was a student of his for two years at Pennsylvania, and I count him
+among those few teachers of mine who left a permanent mark on me, not
+only as scholars, but as great human beings.  I remember that during
+a trip of mine to India, we were both at a university guest house, and
+somehow my reservation had not been confirmed.  There was no room left
+for me.  Bimal volunteered to share his room with me and I had the
+opportunity to spend the next few days in his company.  Bimal was not
+just an interpreter of Indian philosophy, but a philosopher in his
+own right, and he taught me not just how to read a text, but how to
+argue a point and how to evaluate an argument independently.  His
+untimely death is indeed a great loss.
+                                        Madhav M. Deshpande
+
+
+
+

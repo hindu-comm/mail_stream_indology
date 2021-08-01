@@ -1,0 +1,27 @@
++++
+title = "19 Jonathan.Silk at um.cc.umich.edu"
+date = "1994-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-January/000868.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-January/000868.html)
+
+I have been working on a Buddhist text (Ratnaraa"sisuutra), extant
+in Tibetan, Chinese, and portions in Skt.  I have encountered many
+problems; I ask today about only one.  In a discussion of those who
+have lost their vital strength (ojas) it is said:  "Those whose
+strength is thus robbed are not healed by medicines, incantations
+or magic spells, and finally their end will be none other than death."
+This is OK.  But, the Chinese translation adds:  "sword or staff."
+What sort of medical treatment could we have being referred to here?
+(I cannot date the text accurately; the Chinese translation in
+late 4th century.)  (By the way, ojas is of course homologized in
+the text with all sorts of ascetic virtues -- not, I think, relevant
+to the problem at hand.)
+Any help out there?
+Jonathan Silk:  jonathan.silk at um.cc.umich.edu
+
+
+
+
+

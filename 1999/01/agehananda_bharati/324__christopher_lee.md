@@ -1,0 +1,24 @@
++++
+title = "324 christopher lee"
+date = "1999-01-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015190.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015190.html)
+
+I realize this is a little late, but Sue couldn't post to the list directly.
+
+Forwarded for Susan Wadley <sswadley at maxwell.syr.edu>
+
+
+Bharati taught at Syracuse univjersity until his death from brain cancer
+in 1990.  Our dept. library is dedicated to him and we can provide other
+information about his bibliography (which is on line, actually) as needed.
+
+I just saw the other note. Bharati was Austrian, definitely, and not
+British. His "real" name was Leopold Fisher and he grew up in Vienna.
+
+s. wadley
+
+
+

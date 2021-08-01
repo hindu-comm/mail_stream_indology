@@ -1,0 +1,26 @@
++++
+title = "567 Aditya, the Hindu Skeptic"
+date = "1999-05-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017248.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017248.html)
+
+It may of interest to the subscribers of this list since the topic deals
+with people like you.
+I wonder if the author of the book is also a subscriber.
+
+http://www.rediff.com/news/1999/may/26us3.htm
+
+
+Have a peaceful and joyous day.
+
+Aditya Mishra
+Primary homepage: http://www.smart1.net/aditya
+ICQ# 1131674 Mediaring Phone # 1-954-746-0442
+Fax #:  209-315-8571
+Random thought of the day:
+        "I want something exciting, something to play with, & some chocolate."
+
+
+

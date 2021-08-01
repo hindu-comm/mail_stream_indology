@@ -1,0 +1,28 @@
++++
+title = "20 Svetislav.Kostic at ff.cuni.cz"
+date = "1994-06-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-June/001084.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-June/001084.html)
+
+Dear Dr. Van Nooten,
+I have heard that you send transliterated texts of the Mahabharata to anybody
+who asks you.
+Please, inform me which parts of the Mahabharata you have ant send to me.
+My E-mail address:
+Svetislav.Kostic at ff.cuni.cz
+
+Best regards
+S.K.
+   Svetislav Kostic
+   The Institute of Indian Studies
+   Charles University
+   Celetna 20
+   110 00 Prague 1
+   Czech Republic   
+
+
+
+
+

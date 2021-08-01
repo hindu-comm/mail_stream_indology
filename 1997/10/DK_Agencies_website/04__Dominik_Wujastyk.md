@@ -1,0 +1,30 @@
++++
+title = "04 Dominik Wujastyk"
+date = "1997-10-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009458.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009458.html)
+
+I have added a link to the D. K. Agencies website (INDOLOGY web page,
+under Publishers).  DK is now offering a booksearch service, so you can
+interactively look up books from their stock.  Searching is possible by
+author, title, isbn, etc., and by many subject categories (which may be
+the most interesting to many).
+
+Mr Ramesh Mittal met me recently in London, and told me that his company
+is looking closely at the famous Amazon.com site, and is considering
+introducing a service whereby people can request to be automatically
+emailed when a new book is published that meets certain criteria (author,
+subject, etc.).
+
+All the best,
+Dominik
+
+--
+Dominik Wujastyk               Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+
+
+

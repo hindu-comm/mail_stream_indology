@@ -1,0 +1,34 @@
++++
+title = "375 Kamal Adhikary"
+date = "1996-05-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005218.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005218.html)
+
+
+Dear Colleagues:
+	I would like to let you know that the Royal Netherlands Academy
+of Arts and Sciences has permitted ASNIC to post Prof.  Lariviere's paper
+
+		"Protestants, Orientalists, and Brhmanas: 
+
+                    Reconstructing Indian Social History" which was  
+
+first published as a part of the 1994 Gonda Lecture,Gonda Foundation,
+Netherlands.  I had posted its abstract previously. Now you can access 
+the full article at: http://asnic.utexas.edu/asnic/subject/gondalecture.html
+Thanks.
+kamal
+
+_______________
+Kamal R. Adhikary, Ph.D.
+Internet Coordinator, Asian Studies
+UT, Austin, Texas 78712
+Tel:512-475-6034
+Email:kamal at asnic.utexas.edu
+
+
+
+
+

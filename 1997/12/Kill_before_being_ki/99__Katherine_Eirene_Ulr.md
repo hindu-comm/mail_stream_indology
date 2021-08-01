@@ -1,0 +1,27 @@
++++
+title = "99 Katherine Eirene Ulrich"
+date = "1997-12-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010132.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010132.html)
+
+In a fourteenth century commentary on the Tamil Jain text NIlakEci (verse
+286), a woman decides to push her husband off a cliff before he kills her.
+She refers to a 'wise saying':
+
+taR kolliyai muR kolliya, kill before the killing of oneself.
+
+Does anyone know where this proverb comes from?  It is possible that the
+commentator took liberties with an existing proverb or even invented it,
+but it would be very useful to identify a source.
+
+(btw, she does kill him, and goes on to become a Buddhist nun)
+
+Thanks in advance for any suggestions,
+
+Katherine Ulrich
+keulrich at midway.uchicago.edu
+
+
+

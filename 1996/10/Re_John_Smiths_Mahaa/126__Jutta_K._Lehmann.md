@@ -1,0 +1,22 @@
++++
+title = "126 Jutta K. Lehmann"
+date = "1996-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/006000.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/006000.html)
+
+Well done Joel. Your sentiments match mine entirely. However, I'm a 
+little puzzled by your reference to the Mac. I downloaded the original 
+files to my Mac at home here, and after doing a bit of "search and 
+replace" I converted the files into my preferred font. You may contact me 
+by E-mail if you need any further info on this, or - since you are in 
+Toronto, you can contact me here in Montreal phone (514) 844-6267. 
+
+Cheers
+
+Julian Woods
+
+
+
+

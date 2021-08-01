@@ -1,0 +1,31 @@
++++
+title = "25 yanom at ksuvx0.kyoto-su.ac.jp"
+date = "1997-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006860.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006860.html)
+
+>Does anybody have the mailing address/ telephone/ fax
+>of Indra Gandhi National Center for the Arts, New Delhi?
+
+I sometimes got e-mails from
+kapila at ignca.ernet.in (Kapila Vatsyayan, the Academic Director)
+ranjan at ignca.ernet.in (Neena Ranjan, Secretary)
+
+but it is only one way, i.e., my messages to them do not seem to have
+been delivered even though I got no message of 'undelivered mail'. 
+
+Since I worked there last September I know the problem.  They had some
+problem in mail spool and they could not properly handle incoming mails.
+I hope they solve the problem before I get there next September!
+
+Michio YANO
+Kyoto Sangyo University
+yanom at cc.kyoto-su.ac.jp
+yanom at ksuvx0.kyoto-su.ac.jp
+..
+
+
+
+

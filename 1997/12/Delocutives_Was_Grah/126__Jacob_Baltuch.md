@@ -1,0 +1,24 @@
++++
+title = "126 Jacob Baltuch"
+date = "1997-12-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010160.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010160.html)
+
+Incidentally an apparently common set of delocutive verbs
+that wasn't mentioned is the series onomatop.+kR where onomat.
+is used as gati: khaaT+karooti, puut+karooti,... (khaaT represents
+the sound of spitting, I have not idea what puut is)
+
+Incidentally (this is a question -- if you can't stand "inane"
+questions don't read this) can the same construction apply to
+address sounds ?bhooH-karooti, ?dhik-karooti or even vocatives
+?amba-karooti and _if_ yes, will that be with a _transitive_ meaning
+or only in an intransitive meaning? (the kR compounds with onomatop.
+are intransitive of course). In other words can one say things like:
+teena saa dhik-krtaa? for he told her shame or teena saa amba-krtaa?
+for he called her mother? etc. Are such constructions possible?
+
+
+

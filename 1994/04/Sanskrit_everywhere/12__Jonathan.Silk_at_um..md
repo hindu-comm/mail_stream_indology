@@ -1,0 +1,32 @@
++++
+title = "12 Jonathan.Silk at um.cc.umich.edu"
+date = "1994-04-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-April/000991.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-April/000991.html)
+
+I deeply regret if pclaus at s1.csuhayward.edu (I am sorry I do not
+know the writers name) took offence at my message which was --
+and I naively thought this was obvious -- intended as a joke.
+I hope that neither I myself nor others, even if we work primarily
+with Sanskrit, are seen or perceived or imagined to be associated
+with attitudes apparently imputed by the writer, namely that
+it is only through Sanskrit and "Sanskritization" that value
+and worth is to be found.  I am sure that there are those who do
+believe this to be true, but among scholars I am happy to say I have
+never yet actually met such. 
+While as I understand it INDOLOGY is oriented toward so-called
+Classical India, I myself have never imagined this to imply
+any sort of prejudice toward or devaluation either of Dravidian
+on the one hand or MIA languages not derived from Skt. on
+the other. 
+So, if I offended the writer and/or others, I apologize, and hope
+that he/she understands if not what I intended at least the
+spirit in which it was intended.  Enough said?
+jonathan.silk at um.cc.umich.edu
+
+
+
+
+

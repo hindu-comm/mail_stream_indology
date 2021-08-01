@@ -1,0 +1,34 @@
++++
+title = "09 Jim Cocks"
+date = "1991-09-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-September/000132.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-September/000132.html)
+
+
+
+ >>   : i would like to have a look at a list called
+ >>     soc.culture.india on usenet, but don't know how to reach it.
+> Dear Thomas,
+>.................................................  As far as I
+>know, this is only accessible if you have an account on a networked
+>Unix machine.
+
+Usenet is based in "Unix land" but there are feeds to both DEC and
+IBM systems.  To recieve it on an IBM VM machine you need some free
+software (Penn State is one supplier) and an electronic feed.  We
+have Usenet (NetNews) here on our VAX cluster and are now testing a
+feed to our IBM VM system.  Our initial feed comes to the VAX from
+a Unix machine at another University.  Best check with your local
+sysadmin people.  If you would like any further info let me know and
+I'll dig up what I have.
+
+   --Jim Cocks   Bitnet: JACOCK01 at ULKYVM
+     University of Louisville
+ ---------
+
+
+
+
+

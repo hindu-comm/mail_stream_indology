@@ -1,0 +1,21 @@
++++
+title = "353 John Smith"
+date = "1999-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015872.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015872.html)
+
+I have received a request from Prof. Saroja Bhate for the email address of
+Prof. Oscar Botto. Can anyone provide it?
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+

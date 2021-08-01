@@ -1,0 +1,54 @@
++++
+title = "21 ucgadkw at ucl.ac.uk"
+date = "1993-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-May/000512.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-May/000512.html)
+
+THE BRITISH LIBRARY
+
+
+VACANCY FOR CURATOR OF TIBETAN COLLECTIONS, GRADE 8 (CURATOR D),
+ORIENTAL AND INDIA OFFICE COLLECTIONS, BRITISH LIBRARY.
+
+Applications are invited from suitably qualified candidates for the
+post of Curator of OIOC's Tibetan collections, the largest repository
+of such material accessible to scholars in the west.  The appointment
+is for a period of three years, for the specific purpose of compiling a
+full descriptive catalogue of the manuscripts and blockprints outside
+the Stein collection.  The post-holder will also be expected, amongst
+other duties, to deal with enquiries concerning the collections from
+scholars and the general public, and to recommend the purchase of
+Tibetan texts.
+
+Candidates should have a 1st or 2nd class honours degree or equivalent
+in Tibetan Studies, and be able to demonstrate a thorough knowledge of
+Tibetan bibliography and historiography and proven ability to work with
+manuscripts and other primary sources for purposes of descriptive
+cataloguing.  Work experience in an academic library or research in a
+relevant field would be a considerable advantage.  The appointee will
+report to the Head of the Classical South Asian Section of the OIOC.
+
+Current rates of pay are pounds 16565 - pounds 22669.  In addition you
+will receive pounds 1750 Inner London Weighting per annum.  Benefits
+include 25 days annual leave plus 10.5 days public and privilege
+holidays.
+
+Please telephone the Personnel Office, 2 Sheraton Street, London W1V
+4BH on 071-323-7147 for an application form and further details or
+contact Mr MJC O'Keefe, British Library, Oriental and India Office
+Collections, 197 Blackfriars Road, London SE1 8NG; tel: 071-412-7654.
+
+Closing date for receipt of applications is: June 1993.
+
+The British Library is an Equal Opportunities Employer
+
+The world's leading resource for scholarship, research and innovation
+
+
+
+
+
+
+

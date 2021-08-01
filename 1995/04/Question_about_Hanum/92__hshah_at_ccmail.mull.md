@@ -1,0 +1,31 @@
++++
+title = "92 hshah at ccmail.muller.com"
+date = "1995-04-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-April/002347.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-April/002347.html)
+
+
+Last Friday night I went to this Hanuman Mandir in Long Island for 
+Hanuman Jayanti celebrations. It was fun. But, I was sort of shocked 
+looking at the happenings in this temple. It brought up a lot of 
+questions in my mind. Maybe someone could address them.
+
+Hanumaji was a Brahamachari. Are women allowed to touch his idol ?
+Are women allowed to do his aarti ?
+I have never seen this happening in India. Are people in India just 
+too orthodox ? or Are people in this temple more liberal ?
+
+This temple is run by a women, who is a expert astrologer. Throughout 
+her speech she referred to Hanumanji as Baba. Have you ever heard that 
+before ?
+
+I will greatly appreciate if someone could shed some light on this 
+subject.
+
+
+
+
+
+

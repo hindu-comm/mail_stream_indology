@@ -1,0 +1,65 @@
++++
+title = "231 Anshuman Pandey"
+date = "1997-10-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009673.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009673.html)
+
+Hello,
+
+There is a discussion on the conv-dev list in regard to the
+transliteration of the Marathi repha depending on its contexts. I'm
+forwarding the message to this list in case anyone is able to address
+the question. Please send your responses to conv-dev at elot.gr
+
+Thank you.
+
+Regards,
+Anshuman Pandey
+
+---------- Forwarded message ----------
+Date: Mon, 27 Oct 1997 16:40:48 -0500
+From: Anthony P Stone <stone_catend at CompuServe.COM>
+To: Conv-Dev <conv-dev at elot.gr>
+Subject: Marathi repha
+
+Dear Colleagues
+
+Marathi has two forms of repha (r initial in a cluster): the usual
+non-spacing  form (call it R for now), and a spacing form with a flattish
+breve shape under the top line (call it R' for now).    The ALA-LC
+Romanization Tables take no notice of R'.
+
+In order to discuss whether R' requires a separate transliteration, it
+would be especially  helpful to have answers to the following questions:
+---
+Taking the Marathi words involving repha -
+
+(1) Are there some words in which there is a choice between using R' and
+using R ?
+
+IF the answer to question (1) is Yes, then:
+
+(2) How is this choice made?
+
+(3) Are there some words in which only R may be used ?
+
+(4) Are there some words in which only R' may be used ?
+---
+(The answers to these questions determine how the different sets of words
+are related.)
+
+I look forward to seeing your responses.
+
+Thanks,   Tony
+
+Dr Anthony P. Stone, Project Leader, ISO/TC46/SC2/WG12 Transliteration of
+Indic scripts.  20 Harding Close, Redbourn, St Albans, Herts, AL3 7NT, UK.
+ Tel: +44 (0) 1582 792 497
+Email: stone_catend at compuserve.com             Thinking aloud on
+transliteration at:
+   http://ourworld.compuserve.com/homepages/stone_catend/translit.htm
+
+
+

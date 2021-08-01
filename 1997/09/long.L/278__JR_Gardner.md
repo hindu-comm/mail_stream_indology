@@ -1,0 +1,38 @@
++++
+title = "278 JR Gardner"
+date = "1997-09-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009328.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009328.html)
+
+I'm just wondering why no one is looking at the identification of L^RI as
+the mother goddess, or the associations with shiva (cf. Bothlingk,
+Kurzerer Fassung, I Band, p. 265).  Also, forms in the root -kL^RIp can be
+seen.  There are uses of L^RIM and L^RiM.
+
+We have :
+
+AtharvaNadvitIyopaniSad: 394:6 (cf. also 398:6 for L^Ri);
+vanadurgopaniSad 398: 6; 4.36.4;
+tripAdvibhUtimahAnArAyaNopaniSad
+akSamAlikopaniSad (sp?) 5
+
+Perhaps Dr. Olivelle will know more about this collections of passages
+from "later" upaniSads?
+
+I've often wondered about htis vowel myself and do not have the upaniSads
+above ready to hand--
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Robert Gardner      Obermann Center
+School of Religion         for Advanced Studies
+University of Iowa       University of Iowa
+319-335-2164             319-335-4034
+http://vedavid.org       http://www.uiowa.edu/~obermann/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+It is ludicrous to consider language as anything other
+than that of which it is the transformation.
+
+
+

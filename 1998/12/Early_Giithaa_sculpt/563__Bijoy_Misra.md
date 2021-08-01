@@ -1,0 +1,52 @@
++++
+title = "563 Bijoy Misra"
+date = "1998-12-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014908.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014908.html)
+
+Should it not be fair that you post the site that you cite from?
+There are too many of these cursory observations.
+
+thank you.
+
+Happy New Year..
+
+Bijoy Misra
+
+
+On Mon, 28 Dec 1998, Ashish Chandra wrote:
+
+> I found this piece at a website. It tries to date the Bhagavat Gita.
+>
+> _________
+> [...]
+>
+> It is possible to date the bhagavadgItA, and the mahAbhArata that it is
+> part of, to a time before the advent of Buddhism. Considering that there is
+> a specific reference to the brahma-sUtra in the 'gItA, in verse XIII-5 of
+> the latter work, it is possible to date the brahma-sUtra also to a time
+> before Buddhism. In fact, bodhAyana, a scholar dated to 400 B.C., refers to
+> the bhagavadgItA and mahAbhArata. In his commentary upon the brahma-sUtra,
+> rAmAnuja refers to a varttika (explanatory text) by bodhAyana in which the
+> latter shows familiarity with both the mImAmsa-sUtra and the brahma-sUtra,
+> and in fact considers them to be two parts of a complete exposition.
+> Unfortunately, no copies of this varttika survive to the present day, and
+> it is also not quoted from by any other scholar. However, it may be
+> presumed that the text did exist in rAmAnuja's time, and combined with the
+> known familiarity of bodhAyana with the bhagavadgIta, goes to show that the
+> brahma-sUtra was definitely already accepted as a canonical text by his
+> time.
+> _________
+>
+>
+> I don't know the nature of bodhAyana's familiarity with the BG as I have
+> not read Ramanuja's Gita Bhashya. But those who have are welcome to comment
+> on whether or not bodhAyana is seen to be thoroughly familiar with BG.
+>
+> Ashish
+>
+
+
+

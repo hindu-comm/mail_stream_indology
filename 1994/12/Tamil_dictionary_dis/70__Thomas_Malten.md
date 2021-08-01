@@ -1,0 +1,28 @@
++++
+title = "70 Thomas Malten"
+date = "1994-12-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-December/001710.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-December/001710.html)
+
+
+On Aug 11, 1994, D. Wujastyk published on this discussion list allegations
+of plagiarism and copyright infringement in connection with the Tamil
+lexicographical work done at our institute without substantiating them in
+any way whatsoever. I have been waiting for him to publish a substantiation
+of these allegations, but so far have not seen any on the indology list. I
+would therefore like to ask Mr Wujastyk to explain his procedure.
+
+
+-Thomas Malten
+------------------------------------------------------------------------------
+Institute of Indology and Tamil Studies, Pohligstr.1, 50969 Koeln, Germany
+Tel 0221/4705340 Fax 0221/4705151 email ami01 at rrz.uni-koeln.de
+-------------------------------------------------------------------------------
+
+
+
+
+
+

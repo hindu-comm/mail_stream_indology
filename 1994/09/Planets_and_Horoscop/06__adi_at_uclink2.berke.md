@@ -1,0 +1,42 @@
++++
+title = "06 adi at uclink2.berkeley.edu"
+date = "1994-09-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001203.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001203.html)
+
+I have a question about casting a horoscope in the Indian astrological
+system which Kane's History of Dharmasastra and other books on the
+practicals of casting a horoscope can give me no help on. 
+
+The question is this: in preparing a chart of the positions of the planets
+at birth, can a planet inhabit two houses at once? I. e., is it possible
+for Mars to be in, say, the second house and the seventh house at the same
+time? If so, what textual documentation is there for this? If not, why not?
+
+I tend to think not, but I'll be happy to be corrected. The text I am
+reading is the Avadhi Candaayan by Maulana Daud, and its resolution depends
+on the reading of the nayaka's horoscope by a trader disguised as a
+Brahmin. I think the horoscope is a fake, just like the pandit, but clearly
+I need a real pandit to tell me whether it is so!
+
+I'd be grateful for any help in resolving this crux.
+
+Aditya Behl
+
+
+Department of South and Southeast Asian Studies,
+1203, Dwinelle Hall,
+University of California,
+Berkeley, California 94720.
+
+Electronic Mail: adi at uclink2.berkeley.edu
+Telephone: 1 (510) 642-1610 (O), 843-1264 (R) 
+FAX: 1 (510) 642-3582
+
+
+
+
+
+

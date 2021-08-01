@@ -1,0 +1,69 @@
++++
+title = "107 David Stampe"
+date = "1995-06-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002652.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002652.html)
+
+kalyans at ix.netcom.com (Srinivasan Kalyanaraman) writes
+>   Let me cite from Southworth: 
+>
+>   "For the Munda languages, we are fortunate to have 
+>   two recent articles by Arlene and Norman Zide which 
+>   deal with reconstructions of cultural vocabulary, 
+>   including cereals. They courageously suggest a date 
+>   of 3500 BP as the date for proto-Munda, and claim 
+>   that the vocabulary of the speakers of proto-Munda 
+>   included terms for 'husked (and uncooked) rice'... 
+>   *ru-kug 'uncooked husked rice (cf. Korku rum 'to 
+>   husk')(Zide, 1973:7)
+>   [other unrelated forms dispensed with - DS]
+
+As I pointed out, you cited only the second syllable of the Munda form.
+The <kug> syllable does not appear independently with the meaning `rice'.
+Despite the Korku form */rum/ there is no evidence that */ruGkug/ (where
+G is the velar nasal) is a compound form.  Here is the Munda evidence:
+
+proto-Munda */ruGkug/ `uncooked husked rice': Sora /roGko/, Gorum
+/ru~k(u)/, Gutob /ruku:/ (Ramamurti 1938), Remo /ru~ku/ (Fernandez),
+/ruGku/ (Bhattacharya), Kharia /romku'b/, Juang /ruGkub/, Mundari
+/roGko/.  [The velar to labial changes in Kharia after a labial vowel
+are paralleled in other forms, and do not point to Korku /rum/.]
+
+The forms you cited from IA and Dravidian are of the general shape
+kaNk, as you noted, not kug.  
+
+>   I am not able to access many Dravidian forms readily; 
+>   but if my recollection serves me right, konku (Tamil) 
+>   also refers to a 'cereal' [cf. also konku-nATu]. 
+
+If you mean to compare the ku syllable of the Tamil form, isn't the
+vowel simply the automatic enunciative vowel?
+
+>   Bengali (contiguous to Oriya) prefers the vowel sound 
+>   'o' to replace 'a'. 
+>
+>   kaNku, konku are permissible phonetic variants in 
+>   South asian. 
+
+But none of this gets closer to Munda */ruGkug/.
+
+>   Is it erroneous to link phonetic forms such as -kug 
+>   and konku within a semantic cluster of contiguous 
+>   linguistic sub-areas?
+
+Obviously, it's erroneous to compare only the second syllable of the
+Munda word */ruGkug/ `rice' to the second syllable of the Sanskrit
+form /kanku/ `millet', and then compare the remainder of the IA and
+Dr. forms you cite to the first syllable of the Sanskrit form.  You
+might as well compare English Here-ford `species of cattle' to English
+horse and German Pferd, and note that cattle and horses are all farm
+animals in the Germanic Kulturkreis.
+
+David Stampe, Linguistics, Hawai`i
+
+
+
+
+

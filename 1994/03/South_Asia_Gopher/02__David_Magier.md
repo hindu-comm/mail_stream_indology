@@ -1,0 +1,46 @@
++++
+title = "02 David Magier"
+date = "1994-03-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-March/000920.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-March/000920.html)
+
+I am sorry for the confusion caused by my earlier message. Here are the revised
+instructions for connecting to The South Asia Gopher:
+
+a) If you have a gopher client software, use the following pointer:
+
+Type=1
+Name=The South Asia Gopher
+Host=gopher.cc.columbia.edu
+Port=71
+Path=1/clioplus/scholarly/SouthAsia
+
+
+b) If you do not use gopher client software, please
+telnet to:
+            columbianet.columbia.edu
+
+Once connected to Columbianet, please select the menu item marked "CLIO Plus".
+Within that menu, you will find the last item on the list, which is "Scholarly
+Electronic Resources by Subject". Select that one, and within it, you will find
+The South Asia Gopher.
+
+As before, please let me know of problems (technical or conceptual), and
+reactions to the content. Remember, this is a WORK IN PROGRESS! Thank you.
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+    ____________________________      304 International Affairs
+  ///    -- David Magier --    \\\    Columbia University
+ |||   Director, AREA STUDIES   |||   New York, N.Y. 10027-7296
+ |||  S&SE Asia, Latin America, |||   212-854-8046 / FAX: 212-854-2495
+  \\\ Mid-East, Slavic, Africa ///
+    ---------------------------       magier at columbia.edu
+
+
+
+
+
+
+

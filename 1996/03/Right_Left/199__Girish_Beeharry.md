@@ -1,0 +1,35 @@
++++
+title = "199 Girish Beeharry"
+date = "1996-03-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004529.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004529.html)
+
+Hi,
+
+I think that the question needs to be refocused. Issues raised have been 
+about wives' and deities positions and the difference between the North 
+and the South. In our tradition the wife assumes either the left or the right
+position depending on the circumstances. However, I believe that the 
+question raised is not being answered. Would anyone please give an 
+explanation for the difference between the two positions described below?  
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Incidentally, the first shloka gives the position of lakshmana and the 
+marutis; would anyone please explain why they have these particular 
+positions? Many thanks beforehand.
+
+dakshine lakshmaNo yasya vaame tu janakaatmajaa |
+purato marutiryasya taM vande raghunandanam.h ||
+
+sadaa bhavaanii daahine sanmukha rahe.n gaNesha |
+paa.ncha deva rakshaa kare.n brahma vishhNu mahesha |
+
+bye,
+
+Girish Beeharry
+
+
+
+
+

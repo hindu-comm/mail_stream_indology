@@ -1,0 +1,33 @@
++++
+title = "235 Anshuman Pandey"
+date = "1995-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/002095.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/002095.html)
+
+
+I don't know whether this topic is proper for this group. I've been told 
+that there is a sufficient lack of interest on topics such as these among 
+the subscribers of this list, but since I have no other sources to turn 
+to,, I will ask my question here.
+
+I've recently read a text called "The Ethnology of Ancient Bharata" by 
+Ram Chandra Jain, in which the authour proposes that the history of the 
+Aryan migration into India and the events which took place afterward, 
+including the characters, ie. Varun, Mitr, Indr, etc, were mythologized.
+
+How widely accepted is this view?
+
+Thanks.
+
+Anshuman Pandey
+University of Washington
+Seattle, WA, USA
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "11 Dominik Wujastyk"
+date = "1992-07-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-July/000308.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-July/000308.html)
+
+
+Thanks to the continuing energy of Peter Schreiner, we now have
+the text of Sankara's Saundaryalahari.
+
+This will shortly be available for anonymous ftp as the
+file sanksaun.zip in directory pub/users/ucgadkw/indology on the
+machine ftp.bcc.ac.uk, as announced recently.
+
+Do you want me to lodge the file at Liverpool too, so that it
+can be accessed via LISTSERV?  Contact me, if so.
+
+Best wishes,
+
+Dominik
+
+
+
+
+
+

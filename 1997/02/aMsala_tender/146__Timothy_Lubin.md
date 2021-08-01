@@ -1,0 +1,38 @@
++++
+title = "146 Timothy Lubin"
+date = "1997-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006972.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006972.html)
+
+During the recent and lengthy discussion of beef-eating in ancient India,
+several people have cited the famous remark attributed to Yaaj~navalkya in
+Zatapatha BraahmaNa 3.2.1.21.  Doubtless this is evidence for eating beef in
+some context, although the very fact of the ZB discussion on the matter
+suggests that it was a subject of debate in some respect within the tradition
+by that point.
+
+My question regards the condition Y. places on his meat consumption. 
+Everyone seems to accept Julius Eggeling's translation of the term _aMsala_
+as "tender," despite the fact that Boehtlingk and Roth define it as "stark,
+kraeftig" (and thence Monier-Williams's "lusty, strong"), citing PaaNini and
+some Skt. lexicons in addition to ZB, and understanding it to be related to
+_aMsa_ "shoulder."  
+
+The term is not common, and the only early occurrence is the one in ZB, so
+far as I know.  Can we really follow Eggeling in this?  Are there any less
+circumstantial reasons for understanding it to mean tender?  Why not "firm,"
+"lean," or even--who knows?--"tough."  (There's no accounting for tastes.
+Perhaps he just prefers shoulder-meat!)
+
+Timothy Lubin
+Dept. of Religious Studies
+Cocke Hall, University of Virginia
+Charlottesville, VA 22903
+office phone: (804) 924-6314; fax: (804) 924-1467
+
+
+
+
+

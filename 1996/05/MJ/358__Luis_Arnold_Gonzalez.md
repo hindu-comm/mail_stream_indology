@@ -1,0 +1,48 @@
++++
+title = "358 Luis Arnold Gonzalez-Reimann"
+date = "1996-05-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005219.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005219.html)
+
+
+
+On Wed, 29 May 1996, Lars Martin Fosse wrote:
+
+> >In rebuttal to Leonard Zwilling's violent ad hominem attack, I would say
+> >that MJ is pANDava by varNa and paNDaka by rUpa.  I would also relate the
+> >English term panderer, which may be cognate.
+> >pace
+> >GT
+> 
+> If we are discussing pandavas here, may I remind you of the Jackson FIVE?
+> They must *all* be pandavas. The question is: Is M. J. an avatara of
+> Arjuna, Bhima, Nakula or Sahadeva? (For some reason, I don't think he is
+> the dharmaraja Yudhisthira, but I may be prejudiced).
+> 
+> LM
+
+
+You might be on the right track. If he is a pANDava, then it must be 
+Arjuna, for he disguised himself as a paNDa during the 5 brothers' stay 
+at king VirATa's court.  So maybe Thompson and Zwilling are both right.
+Besides, there is something about Arjuna and the white color...
+
+
+However, I must inform you that while studying the little known Trivya 
+PurANa this morning, I came across the following:
+This text refers to him as mAyAkAla jakSaNa (originally kSaNaja, but, 
+again, the name was altered in order to deceive).  He is said to have 
+been "born in an instant."  He was punished by the gods for playing so 
+many tricks, and he is frequently seen roaming the Indian countryside 
+yelling: pIDita! pIDita!  tormented! tormented! All animals run scared when 
+they hear his loud roars which, in his garbled pronunciation sound like 
+beat it! beat it!
+Maybe this helps explain why those monkeys ran away.
+
+LGR
+
+
+
+

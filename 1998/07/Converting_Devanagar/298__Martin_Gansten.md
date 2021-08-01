@@ -1,0 +1,26 @@
++++
+title = "298 Martin Gansten"
+date = "1998-07-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013332.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013332.html)
+
+Daniel,
+
+The name of the TTF to go with your version of Devawin is different from the
+one I bought some years ago. But if it is indeed the same font, you can
+switch the diacritic function on and off (provided Devawin is up and
+running) by pressing <Alt + ;>. (Depending on your keyboard, it may not
+actually be the <;> key, but the <,> or some other; you'll have to
+experiment with this.) Once the diacritic function is on, you get diacritics
+by using the same <;> key -- that is, ;a gives aa, etc.
+
+Once you have typed the transliterated word, sentence, etc, you cut it, run
+Devawin (by <Alt+F5>), paste it, and convert it to the Devanagari font.
+
+Best regards,
+Martin Gansten
+
+
+

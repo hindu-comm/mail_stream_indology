@@ -1,0 +1,38 @@
++++
+title = "129 Tobias Grote-Beverborg"
+date = "1997-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007254.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007254.html)
+
+Dear Members of the List!
+
+I'm looking for Urdu True Type Fonts for Windows 3.11.
+
+Could anyone recommend me a site (URL) for a free download?
+
+Thanks;
+Yours
+
+Tobias
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                //OM//
+                        SARVE BHAVANTU SUKHINAH/
+                         SARVE SANTU NIRAMAYAH/
+                        SARVE BHADRANI PASYANTU/
+                      MA KASCHIT DUKHA BHAG BHAVET/
+                        OM SHANTI SHANTI SHANTI//
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mr. Tobias Grote-Beverborg
+Theodorstr. 370, 40472 Duesseldorf, Germany
+ph/fax: 0049-211-6581306
+e-mail: grotebev at uni-duesseldorf.de
+        grotebev at uni-koeln.de
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+

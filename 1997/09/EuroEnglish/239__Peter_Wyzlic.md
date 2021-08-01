@@ -1,0 +1,52 @@
++++
+title = "239 Peter Wyzlic"
+date = "1997-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009292.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009292.html)
+
+On Tue, 16 Sep 1997, Dominik Wujastyk wrote:
+
+[...]
+>     By the fourth year, peopl wil be reseptiv to steps such as replasing
+> "th" with "z" and "w" with "v".  During ze fifz year, ze unesesary "o"
+> kan be droped from vords kontaining "ou"; similar changes vud of kors be
+> aplid to ozer kombinations of leters.
+>
+>    After zi fifz yer, ve wil hav a reli sensibl riten styl.  Zer wil be no
+> mor trubls or difikultis and evrivun vil find it ezi tu understand ech
+> ozer.
+>
+>    ZE DREM VIL FINALI KUM TRU!
+
+This is obviously a "remake" of one of Mark Twain's satires. He
+projected a "twenty-year plan" for a better English spelling:
+
+%% (fortunes)
+         A Plan for the Improvement of English Spelling
+                          by Mark Twain
+
+        For example, in Year 1 that useless letter "c" would be dropped
+to be replased either by "k" or "s", and likewise "x" would no longer
+be part of the alphabet.  The only kase in which "c" would be retained
+would be the "ch" formation, which will be dealt with later.  Year 2
+might reform "w" spelling, so that "which" and "one" would take the
+same konsonant, wile Year 3 might well abolish "y" replasing it with
+"i" and Iear 4 might fiks the "g/j" anomali wonse and for all.
+        Jenerally, then, the improvement would kontinue iear bai iear
+with Iear 5 doing awai with useless double konsonants, and Iears 6-12
+or so modifaiing vowlz and the rimeining voist and unvoist konsonants.
+Bai Iear 15 or sou, it wud fainali bi posibl tu meik ius ov thi
+ridandant letez "c", "y" and "x" -- bai now jast a memori in the maindz
+ov ould doderez -- tu riplais "ch", "sh", and "th" rispektivli.
+        Fainali, xen, aafte sam 20 iers ov orxogrefkl riform, wi wud
+hev a lojikl, kohirnt speling in ius xrewawt xe Ingliy-spiking werld.
+
+\bye
+Peter
+--
+Peter Wyzlic                                    pwyzlic at pwyz.rhein.de
+
+
+

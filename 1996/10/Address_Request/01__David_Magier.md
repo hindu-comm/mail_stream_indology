@@ -1,0 +1,38 @@
++++
+title = "01 David Magier"
+date = "1996-10-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005872.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005872.html)
+
+> I have, in the past, come across some works of Prof. Johannes
+> Bronkhorst (Univ. of Lausanne, Switzerland). Since I am right now in
+> Switzerland, I have an opportunity to call on him personally.
+> 
+> I would appreciate if someone could provide me his complete address
+> (including the Telephone and Fax numbers and possibly e-mail address
+> as well).
+
+In addition to a detailed description of Prof. Bronkhorsts research
+interests, his entry in The International Directory of South Asia
+Scholars (online) contains the following data:
+
+Prof. Dr. Johannes Bronkhorst
+Dept. of Oriental Languages and Cultures
+University of Lausanne
+BFSH 2
+CH-1015 Lausanne, Switzerland
+
+Phones: +41.21.7291636
+        +41.21.6922911
+FAX:    +41.21.6923045
+email:  johannes.bronkhorst at orient.unil.ch
+
+
+David Magier
+Columbia University
+
+
+
+

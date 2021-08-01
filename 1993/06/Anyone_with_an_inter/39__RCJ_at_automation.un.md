@@ -1,0 +1,34 @@
++++
+title = "39 RCJ at automation.university-library.cambridge.ac.uk"
+date = "1993-06-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-June/000556.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-June/000556.html)
+
+
+I have  been asked  for something  well outside  my areas of
+knowledge and  it struck  me that members of this list would
+probably have an answer close to hand.
+
+What is  the best  way of  compiling a list of current Vedic
+scholars worldwide?
+
+A published list of members of an essential society, a wide-
+ranging subject review article, a personal list, what is the
+simplest source  of such information? Any and all help would
+be appreciated...
+
+This is  unlikely to  be of general interest to the list, so
+replies to me as rcj10 at cus.cam.ac.uk, and if anyone requests
+I will post a summary to INDOLOGY.
+
+                                              Craig Jamieson
+                                     University of Cambridge
+
+CBS%UK.AC.LIVERPOOL::INDOLOGY
+
+
+
+
+

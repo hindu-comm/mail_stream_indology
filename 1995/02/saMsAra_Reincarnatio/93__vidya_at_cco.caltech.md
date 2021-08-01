@@ -1,0 +1,25 @@
++++
+title = "93 vidya at cco.caltech.edu"
+date = "1995-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/001950.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/001950.html)
+
+I would agree that it is wrong to translate reincarnation/rebirth as saMsAra.
+Etymologically, there is no doubt a connection, but in terms of usage, I very
+much doubt the effectiveness of the translation. "punarjanma" is in fact used
+quite often, but it carries with it an implied reference to "punarmaraNa" -
+redeath, if you will. 
+
+"saMsAra" as used in a Vedantic context is probably better understood as 
+worldly life, not just the world. The material, external world is never 
+called saMsAra, to the best of my knowledge. 
+
+S. Vidyasankar
+
+
+
+
+
+

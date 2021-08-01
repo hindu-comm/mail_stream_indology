@@ -1,0 +1,30 @@
++++
+title = "98 Nobumi Iyanaga"
+date = "1995-07-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002823.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002823.html)
+
+I use Nisus for several years and I am very satisfied by its features 
+(though not so much with the newest version, Nisus Writer 4.0.7, which
+ is too slow for my Mac IIci).  But I never used it for a work of 
+critical edition of text...
+There is a "Nisus mailing list": NISUS at Dartmouth.EDU
+*** To subscribe to this list:
+Send to: LISTSERV at listserv.dartmouth.edu
+Subject: subscribe
+Message: subscribe Nisus <your full name here>
+
+There is also a www homepage of Nisus Software:
+http://www.nisus-soft.com/~nisus/home.html
+
+I hope this can be of some help for you.
+Nobumi Iyanaga
+Tokyo,
+Japan
+
+
+
+
+

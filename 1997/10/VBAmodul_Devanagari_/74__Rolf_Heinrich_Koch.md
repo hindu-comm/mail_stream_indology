@@ -1,0 +1,22 @@
++++
+title = "74 Rolf Heinrich Koch"
+date = "1997-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009521.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009521.html)
+
+Hi boys (not one lady asked for the modul! the only message from a lady did
+not concern the modul but my note NO MACINTOSH - is it not lovely?)
+there is one bug: open the modul. two lines are For i = 0 To 151. Please
+change 151 into 152 otherwise your d will not be changed correct into
+devanagari.
+The modul works only with that version of WINWORD that is available since
+OFFICE97 is on the marked that came 1997 on the market. You can use the modul
+also for earlier Winword versions (which for instant do not understand the &
+meaning +) but this needs some changes in the modul. it is very easy. Give me
+a note I will do it for you.
+Heiner
+
+
+

@@ -1,0 +1,25 @@
++++
+title = "314 Somdev Vasudeva"
+date = "1996-02-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004331.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004331.html)
+
+
+A query regarding the appearance of the lunar digit on Nandaa, the first 
+tithi of the "suklapak.sa. I seem to remember that the first few digits of 
+the waxing moon in India form a lunar sickle which appears almost 
+horizontal to the horizon, resembling a smiling mouth (with which it is 
+often compared in kaavya lit.). Conversely, at the end of the waning 
+fortnight the lunar digit would resemble an unhappy face. 
+Here, (Oxford,UK) the sickle appears to slant strongly towards the upper 
+right. Since my acquaintance with astronomy is 
+infinitesimal, I would be very grateful for any information whether 
+this apparent angle is indeed related to latitude or not.
+
+Somdev Vasudeva
+
+
+
+

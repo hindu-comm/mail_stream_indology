@@ -1,0 +1,40 @@
++++
+title = "59 jayesh at hedge.hw.stratus.com"
+date = "1994-08-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-August/001188.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-August/001188.html)
+
+Hi,
+
+I am interested in doing a research paper on some aspect of Indian 
+science/technology. The time frame of the topic is preferably any time before
+the 1950's.  However, more recent the better since I have to be able to
+find some primary sources on the subject matter.  
+
+Some general topic format are:
+
+o What was the state of some technology, i.e. railroads, before and after
+  the British Empire? 
+
+o What were the Indians doing while the Greeks were inventing?
+
+o Origins of the decimal system (or something else of that nature) and its
+  effect on (western) civilization?
+
+o Attempt to prove that the Indians discovered .???. before
+  the .???. (the Romans, Greeks, etc.)
+
+o The role of some indian technology in warfare
+
+I am open to suggestions!  I'd appreciated any help.
+
+
+						Thanks!
+
+
+
+
+
+

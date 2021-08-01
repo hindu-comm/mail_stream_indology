@@ -1,0 +1,34 @@
++++
+title = "196 Allen W Thrasher"
+date = "1998-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010797.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010797.html)
+
+Dear Dr. Mueller,
+
+Would that it were so.  I have never seen OUP eds. of the Greek and Latin
+classics on sale in India (except perhaps secondhand), much less special
+versions for the Indian market.  Unfortunately there is practically no interest
+or study of the Western Classics in India, except perhaps in Christian
+colleges for the sake of studying the Greek New Testament and church
+history and theology.  But I suspect that this also is greatly reduced
+nowadays.
+
+So separate eds. for the South Asian market would scarcely be worth
+OUP's while, and they might find their way back to the West to undermine
+its full-cost market there.
+
+
+However, this raises an interesting historical question.  Has any research
+been done on the study of Greek and Latin in colonial and post-colonial
+South Asia?  They must have been taught at a great many schools and
+colleges in India for the sake of the ICS examinations, but I have seen
+nothing about the subject.
+
+
+Allen Thrasher
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "49 John.Powers at anu.edu.au"
+date = "1997-08-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-August/008961.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-August/008961.html)
+
+Thanks to everyone who responded to my query about faith in Hinduism. I'm
+sorry that it was a bit vague, but my hope in making it so was that it
+would get a range of responses, which it certainly did. My student's
+project is conceived as a sort of Geertzian approach, taking a category
+that's important in Western monotheistic traditions (faith) and asking what
+sort of role (if any) it plays in Hinduism. This is intended to reveal
+something about the internal logic and worldview of Hinduism through
+comparison and contrast.
+
+Since I mainly work on Buddhist philosophical texts, I'm not well-versed in
+devotional literature, so I recommended that the student in question speak
+to a colleague who is an expert on bhakti (Dr Richard Barz) and do a key
+word search on bhakti in the library catalogue. Of course, the Indian
+concept of bhakti has many significant differences when compared to the
+English word "faith," and the same could be said of 'sraddhaa and faith.
+
+Many thanks for the excellent suggestions of books and other sources. I've
+passed them on to my student, and if anyone thinks of anything else that
+might be relevant, please pass them on to me.
+
+John Powers
+Faculty of Asian Studies
+Australian National University
+
+
+
+
+
+
+

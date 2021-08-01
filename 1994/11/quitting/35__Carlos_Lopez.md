@@ -1,0 +1,48 @@
++++
+title = "35 Carlos Lopez"
+date = "1994-11-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001527.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001527.html)
+
+
+
+On Sat, 5 Nov 1994 yanom at ksuvx0.kyoto-su.ac.jp wrote:
+
+> Now I think I was clever when I decided to keep my old e-mail address
+> exclusively for the <indlogy> discussion group and the new one for 
+> ordinary e-mails. If I had only one address I should have missed some
+> important personal messages amid the floof of those political 
+> propagandas.
+> 
+> I wish someone like Dominik open another discussion group for
+> 'Sanskrit studies'.
+> 
+> Michio YANO
+> Professor of Sanskrit,
+> Kyoto Sangyo University
+> yanom at cc.kyoto-su.ac.jp
+> yanom at ksuvx0.kyoto-su.ac.jp (for indology only)
+>  
+> 
+I must agree with Prof. Yano.  As a graduate student in the field, I find 
+these political propagandas useless.  Since i have been on this list, i 
+have found scholarly discussions useful.  Everytime one of these 
+non-schalarly items enters the list, it generates this very same 
+discussion.  I believe, that those who monitor the list should try to 
+keep useless materials out.  This list should focus on what it was meant 
+for : a forum for discussion of scholarly material of the study of 
+ancient India.
+
+Thanks
+
+Carlos Lopez
+G4
+Harvard University
+Dept. of Sanskrit and Indian Studies
+
+
+
+
+

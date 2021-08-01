@@ -1,0 +1,47 @@
++++
+title = "440 Sudalaimuthu Palaniappan"
+date = "1999-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/016010.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/016010.html)
+
+In a message dated 2/24/99 1:57:30 AM Central Standard Time,
+sogbs at CC.NEWCASTLE.EDU.AU writes:
+
+> For example, we do not even have a proper
+>  iconographical description of the Venkatesvara cult-image in its unadorned
+>  state - Jamanadas is reduced to citing somebody else's opinion that it
+>  resembles a Padmapani image at Ajanta.
+
+
+We have a very vivid description of the deity at vEGkaTam in cilappatikAram
+(not later than 5th century AD) as given below. In that text, it was already a
+pilgrimage site. The description is very detailed in terms of his conch,
+discus, etc.
+
+vIgku nIr aruvi vEgkaTam en2n2um
+Ogku uyar malaiyattu ucci mImicai
+viri katir jnAyiRum tigkaLum viLagki
+iru marugku Ogkiya iTainilait tAn2attu
+min2n2uk kOTi uTuttu viLagku vil pUNTu
+nal niRa mEkam nin2Ratu pOla
+pakai aNagku Aziyum pAl veN cagkamum
+takai peRu tAmaraik kaiyin2 Enti
+nalam kiLar Aram mArpil pUNTu
+polam pU ATaiyin2 polintu tOn2Riya
+ceg kaN neTiyOn2 nin2Ra vaNNamum            (cil. 11.41-51)
+
+I do not know why Ramanuja had to establish (or re-establish) vaiSNava claim.
+The AzvArs had several hymns dedicated to viSNu at vEGkaTam. Of course, some
+staunch zaivites had always claimed (UVS's teacher was one of them) that the
+deity at vEGkaTam was originally ziva.
+
+But I agree with the point - the present day affiliation may not be the same
+as the one two millennia ago.
+
+Regards
+S. Palaniappan
+
+
+

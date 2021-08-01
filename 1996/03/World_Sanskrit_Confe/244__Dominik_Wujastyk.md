@@ -1,0 +1,41 @@
++++
+title = "244 Dominik Wujastyk"
+date = "1996-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004575.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004575.html)
+
+I have been informed that the list of topics being used to organize the
+1997 World Sanskrit Conference has been modified, and now stands as
+follows:
+
+  Sections
+
+  1    Agamas and Tantras
+  2    Art, Architecture and Archaeology
+  3    Buddhist Studies
+  4    Classical Sanskrit Literature
+  5    Dharma Shastra and Artha Shastra
+  6    Epics and Puranas
+  7    Hindu Studies
+  8    Jaina Studies
+  9    Manuscripts and Historical Resources
+  10   Modern Sanskrit Literature
+  11   Music and Performing Arts
+  12   Philosophies (Darshanas)
+  13   Poetics and Aesthetics
+  14   Sanskrit and Regional Languages
+  15   Sanskrit Scientific Literature
+  16   Sanskrit Medical Literature
+  17   Sanskrit and the Environment
+  18   Sanskrit and Computer
+  19   Veda and Vedangas
+  20   Vyakarana and Linguistics
+
+--
+Dominik Wujastyk
+
+
+
+

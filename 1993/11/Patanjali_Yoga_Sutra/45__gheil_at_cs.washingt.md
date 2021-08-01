@@ -1,0 +1,35 @@
++++
+title = "45 gheil at cs.washington.edu"
+date = "1993-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-November/000799.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-November/000799.html)
+
+
+
+Dear Esteemed Indologists:
+
+I am looking for a machine readable (transliterated) version of
+the Patanjali sutras. I put out a general request for same on
+talk.religion.misc and soc.religion.eastern and received no
+replies.
+
+I attempted to scan and OCR the 4 page transliteration in Konrad
+Meisig's Yogasutra-Konkordanz. Unfortunately, though the typeset
+is very clear, the font is too florid for my OCR software.
+Perhaps he, or someone else who has used this text digitally,
+could be reached by EMail?
+
+Do you know of any better source of the text? I have a few that
+would require scanning only a hundred pages or so, stillrather
+impractical for 200 odd verses!
+
+Greg Heil
+gheil at cs.washington.edu
+
+
+
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "06 David Magier"
+date = "1997-01-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006650.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006650.html)
+
+The following conference announcement is being forwarded to your
+mailing list or listserv from the EVENTS CALENDAR section of the South
+Asia Gopher (and SARAI). Please contact event organizers directly for
+any further information.    David Magier (sarai).
+
+===========================
+Conference on
+
+South Asian Economic Liberalization
+
+The Columbia Journal of International Afairs and the Southern Asia
+Institute at Columbia will be co-hosting a panel conference addressing
+economic liberalization in India, Pakistan and Sri Lanka. Panelists will
+explore the tensions between economic liberalization and social equity in
+developing nations and discuss the experiences of India, Pakistan and Sri
+Lanka. A question and answer period and reception will follow.
+
+The conference will take place on the evening of Thursday, April 3, 1997
+in the International Affairs Building (420 West 188th Street, Columbia
+University, New York).
+
+For more information, please contact:
+
+Jennifer Chang
+212-854-4775
+jyc24 at columbia.edu
+
+
+
+

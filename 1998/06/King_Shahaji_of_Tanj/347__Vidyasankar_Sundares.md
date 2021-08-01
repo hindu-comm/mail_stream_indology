@@ -1,0 +1,36 @@
++++
+title = "347 Vidyasankar Sundaresan"
+date = "1998-06-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012924.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012924.html)
+
+Check
+
+1. The Maratha rajas of Tanjore / K.R. Subramanian ; with a foreword by
+P.T. Srinivasa Iyengar.  1st AES reprint.  New Delhi : Asian Educational
+Services, 1988.
+
+2. (In Tamil) Tancai Marattiya mannar varalaru : varalarrarayccik
+kurippukkalutan / patippaciriyar K. M. Venkataramaiya = History of the
+Maratha rulers of Thanjavur. Tanjavur : Tamilp Palkalaik Kalakam, 1987.
+
+3. (In Tamil) Tancai Marattiya mannarkal araciyalum camutaya valkkaiyum
+= Administration and social life under the Maratha rulers of Thanjavur /
+K. M. Venkataramaiya. Tanjavur : Tamilp Palkalaik Kalakam, 1984.
+
+4. The resistance of Mysore to the Maratha expansion, 1726-1761 / B.
+Muddachari. [Mysore] Prasaranga, University of Mysore, 1970.
+
+5. Maratha rule in the Carnatic. Introd. by Surendranath Sen, edited by
+C. S. Srinivasachari.  Annamalai University, Chidambaram, 1944.
+Series title: India Annamalai University historical series, no. 5.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

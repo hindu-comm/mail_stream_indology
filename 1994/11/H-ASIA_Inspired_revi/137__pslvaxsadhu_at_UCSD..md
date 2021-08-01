@@ -1,0 +1,46 @@
++++
+title = "137 pslvax!sadhu at UCSD.EDU"
+date = "1994-11-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001635.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001635.html)
+
+| 
+| Frank F. Conlon wrote:
+|
+| At any rate, I have included in this posting, the copyrighted
+| introduction and editorial to the "Time Line", and instructions
+| how interested historians may e-mail for the detailed contents of
+| this production.  The ideas put forward in this publication will
+| be read, and in many instances, believed, by many.  It is NOT my
+| purpose to encourage a "flame war"--there are other venues for
+| that.  This posting is for the information of professional
+| scholars of South Asia, who may be bemused by the intelligence
+| that history is irrelevant, but must be corrected.
+| 
+
+Gentlemen:
+
+FYI, the editors of Hinduism Today welcome letters by email.   You may
+write to :
+		hinduism at mcimail.com
+
+In addition to the email server mentioned by Dr. Conlan, you can also
+access the current issue of Hinduism Today on WWW at:
+
+   http://err.ethz.ch/~kiwi/Spirit/Veda/HT/Overview.html
+
+The timeline articles are also available by anonymous FTP from the ANU
+Coombspapers archive, for which there are several well known links,
+including the SAG Gopher at Columbia.
+
+Congenial regards,
+Sadhunathan Nadesan
+HT Electronic Postmaster
+
+
+
+
+
+

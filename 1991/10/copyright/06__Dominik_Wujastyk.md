@@ -1,0 +1,32 @@
++++
+title = "06 Dominik Wujastyk"
+date = "1991-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-October/000147.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-October/000147.html)
+
+
+
+This is a very vexed issue.  But one thing I can say with reasonable
+certainty.  India is not a signatory of the International Copyright
+Convention.  The most adverse (for foreign publishers) repercussion of
+this is that foreign books can be shamelessly republished in India,
+without fear of prosecution.  But the reverse is also true, I suppose.
+We can do what we like with Indian publications.  Until India signs the
+Convention, there is nothing legal that an Indian publisher
+can do.
+
+Another point is that a book whose author has been dead for more
+than fifty years is no longer covered by copyright restrictions,
+unless the copyright is actually renewed by his legal heir(s).  What
+this means the case of critical editions of ancient texts I
+don't actually know.  I suppose the editor is the "author" since
+he is intellectually responsible for producing the book.
+
+Dominik
+
+
+
+
+

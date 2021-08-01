@@ -1,0 +1,58 @@
++++
+title = "24 Stanley Rice"
+date = "1995-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-January/001734.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-January/001734.html)
+
+***********************************************************
+
+  NEW YEAR'S GREETINGS
+  Friends and Followers of Sri Ramana Maharshi
+
+SRI RAMANA, ON THE NATURE OF "TIME" (DECEMBER 27, 1938)
+"What is time? It posits a state, one's recognition of it, and
+also the changes which affect it. The interval between two
+states is called time. A state cannot come into being unless the
+mind calls it into existence. The mind must be held by the Self.
+If the mind is not made use of there is no concept of time. Time
+and space are in the mind, but one's true state lies beyond the
+mind. The question of time does not arise at all to the one
+established in one's true nature."
+
+***********************************************************
+SOME FREE FILES, AVAILABLE FROM "RAMANA at CRUZIO.COM",
+Just reply to this and give the keyword names:
+
+>KEYWORD    >TOPIC
+NIRGUNA     Notice on Nirguna Manasa Puja by Sri Sankara (6k)
+RAYS-1      Part-book: disciple memories of Sri Atmananda (29k)
+RIBHU-1     The first 3 chapters of the new Ribhu Gita (35k)
+SAGEATMA    Life sketch of the Sage Atmananda (19k)
+SAT-INFO    Introduction to Society of Abidance in Truth (11k)
+TREAS-1P*   Books on Sri Ramana Maharshi (with prices) (37k)
+TREAS-2P*   Book list on many nondual Sages (with prices) (40k)
+WHO-1       Book: discourse on nonduality by Master Nome (17k)
+WHOISRAM    Who is Ramana? (A short introduction) (19k)
+WISE-1      "Among the Wise", a description of SAT ashram (36k)
+
+* Books from "Treasures of the Heart" (SAT book service)
+**************************************************************
+THE SOCIETY OF ABIDANCE IN TRUTH (SAT)
+1834 Ocean Street Santa Cruz, CA 95060 U.S.A. (408) 425-7287
+Internet address: RAMANA at CRUZIO.COM  (or srice at cruzio.com)
+
+"Finger" RAMANA at CRUZIO.COM for a list of free files available.
+**************************************************************
+
+-- 
+Stan Rice, Autospec Inc, srice at cruzio.com  
+
+
+
+
+
+
+
+

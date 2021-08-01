@@ -1,0 +1,44 @@
++++
+title = "100 Lars Martin Fosse"
+date = "1997-05-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008079.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008079.html)
+
+Ganeshan wrote:
+
+>   
+>    Dice and Fate
+>   **************
+>
+>Prof. David Shulman, has many papers on this subject in recent
+>years. From Sanskrit, Tamil and Telugu literatures.
+>I am amazed at his linguistic skills. In Tamil, Telugu, Sanskrit etc.,
+>
+>Let us wait for:
+>Don Handelman and D. Shulman,
+>God inside-out: Siva's game of dice.
+>Oxford UP, 1997.
+
+Thanks for the information! Would anybody out there happen to know where the
+papers have been published?
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: L.M.Fosse at internet.no
+Mobile phone: 90 91 91 45
+
+
+
+
+

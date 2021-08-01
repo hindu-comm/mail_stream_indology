@@ -1,0 +1,29 @@
++++
+title = "163 Chris Hibbard/E. Stern"
+date = "1997-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010218.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010218.html)
+
+A further reference on MadhyamakahRdaya:
+
+Chr. Lindtner, Bhavya's MadhyamakahRdaya / (Pariccheda Five) /
+YogAcAratattvaviniZcayAvatAra. The Adyar Library Bulletin volume 95 (1995),
+pages. 37-65.
+
+This consists of an edition of the Sanskrit verse text with introduction,
+notes and verse index. Prof. Lindtner used "excellent" photographs provided
+by Prof. Jiang Zhongxin. The Chinese photographs are reported to be greatly
+superior to the earlier available photographs by or available to Prof.
+Tucci.
+
+
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+USA
+
+
+

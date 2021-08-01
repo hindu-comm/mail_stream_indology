@@ -1,0 +1,59 @@
++++
+title = "196 Allen Thrasher"
+date = "1995-11-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003669.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003669.html)
+
+Brian,
+
+Great minds work in the same paths!  I have been meaning to post this 
+question.  This is a standard of greeting cards, inspirations posters, 
+collections of inspirational poems.  One idea I had is that it could be 
+ultimately derived (perhaps through several translations or 
+transcreations) from some Vedic hymn to Day or Dawn.  Does it ring any 
+bells with anyone as such?  It also occurs to me it might be an 
+English translation of one of Ruckert's translations of Sanskrit 
+literature.  LC has his trans. of the Atharvaveda; I will have a look at 
+it to see if anything therein looks like a likely source.  Is anyone out 
+there familiar with Ruckert?
+
+Allen Thrasher
+
+On Tue, 28 Nov 1995, B. Hatcher wrote:
+
+> 
+> In a short paper on Indian Buddhism one of my students quoted the 
+> following words, which she identified as a 'Sanskrit Proverb' (apparently 
+> found in _Reader's Digest_):
+> 
+> 	Look to this day
+> 	For yesterday is but a dream
+> 	And tomorrow is only a vision.
+> 	But today, well lived
+> 	Makes every yesterday a dream of happiness
+> 	And every tomorrow a vision of hope.
+> 	Look well, therefore, to this day.
+> 
+> Can anyone help me identify a source for this?  My queries have not 
+> always produced fruit, but when I saw how much help Bob Hueckstedt got 
+> with a similar problem recently, I felt emboldened.
+> 
+> Thanks in advance,
+> 
+> Brian A. Hatcher
+> Dept. of Religion
+> Illinois Wesleyan University
+> Bloomington, IL  61701
+> 
+> bhatcher at titan.iwu.edu
+> 
+> 
+>  
+> 
+
+
+
+
+

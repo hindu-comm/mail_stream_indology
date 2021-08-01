@@ -1,0 +1,47 @@
++++
+title = "442 Venkatraman Iyer"
+date = "1999-05-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017100.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017100.html)
+
+ >Vishal replies:
+ >I am not competent enough to make a call on this issue.
+
+<<<
+If so, what particularly makes you think that you are competent enough
+to dismiss Professor Thompson's hypothesis (which is firmly based on
+the wide range of Rgvedic, as well as Avestan, texts) and even call it
+"absurd"?
+         As for your own suggestions, how can you explain the fact
+that the civilization of Classical Greece in the first four or five
+centuries of its existence produced several times more texts than
+Vedic India in its whole history? (If we take into account only
+surviving texts, which is the only correct procedure). Should the
+Greeks too claim a period of several millenia for their several
+thousand titles or so? And what about China?
+>>>
+
+Shri Agarwalji,
+
+Namaskar.
+
+Greek texts are much more varied in contents than
+Vedic works - ritual priests' operation manuals usually.
+
+I understand that you do not support Rajaram who is
+of course opposed to Jan Gonda and George Thompson studying
+our holiest of the holy books. Reading Gonda and Thompson
+I do not feel they deserve the honor - "absurdity".
+
+Regards,
+V. Iyer
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

@@ -1,0 +1,22 @@
++++
+title = "116 yanom at ksuvx0.kyoto-su.ac.jp"
+date = "1995-01-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-January/001832.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-January/001832.html)
+
+As I wrote in my announcement, our Pancanga program was written by
+TurboPascal and runs by IBM and its compatible.  You can not run it
+by Mac. But if you are interested in the program itself, you can
+look at it by downloading pancang2.pas which is a plain text file.
+Anyway pancang2.uu is not BINARY but uuencoded to ASCII file so
+that you can download it as ordinary text file.
+Michio YANO
+
+PS It seems that our ftp machine is working well.
+
+
+
+
+

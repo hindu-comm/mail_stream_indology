@@ -1,0 +1,24 @@
++++
+title = "38 MDSAAA48 at GIASMD01.VSNL.NET.IN"
+date = "1996-08-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005552.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005552.html)
+
+Prof. Aklujkar,
+Yes, the word Arbu, Arubu, Arpu is Kannada meaning: crying aloud; ArbaTa =
+crying aloud, roaring; a loud note or sound; e.g. vAdyada ArbaTada permorahu
+(i.e. the loud note of the instrument); ArbaTasu = to cry aloud, to roar
+ArbATa is Telugu; in Tamil: ArppATTam. However, Arpu means valour, impetuosity.
+The root sememe is: Ar (-pp, -tt-) to shout, roar, bellow, slander, vilify
+(Tamil); The Sanskritization is: raT = to howl, roar, yell, etc. (to
+scream); AraTa = crying out (pANini); AraTi = noise; ArDA = loud bawling
+(Marathi); AraDai = cries out (Prakrt) roA-rAT = lamentation (Hindi)
+
+Regards. Kalyanaraman.
+
+
+
+
+

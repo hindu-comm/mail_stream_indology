@@ -1,0 +1,55 @@
++++
+title = "57 Pramit Bhasin"
+date = "1995-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/001918.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/001918.html)
+
+> 
+> Help, please.  The fifth and sixth grade geography classes at Pinewood Prep
+> School in South Carolina are studying India and the Himalayan Mountain
+> countries.  We would appreciate receiving any email from friends in India,
+> Tibet, Bhutan, or Nepal.  TIA
+> Chuck Stjern
+> Lower School Director    <Stjernc at Citadel.edu>
+>  
+> 
+Hello everyone,
+
+My name is Pramit Bhasin and I am a third year medical student at New Jersey
+Medical School in USA. I am also the president of the Indian Student Assoc.
+here at my school. I immigrated  to the United States  approx 7 years ago.
+Although I am not sending email from India as per the articles request ..I
+couldn't resist sending some interesting facts ....
+
+1. The highest airport in the world is in India in Leh. (Leh is the capital
+of Ladakh which is a province  in the northern most state of Jammu and
+Kashmir)
+
+2. India is the largest producer of Tea. Most of this tea is raised in the
+tea gardens of the eastern state of Assam - which is on the eastern slopes
+of the Himalayas.
+
+3. In 1994 both Miss World and Miss Universe were from India.
+
+4. The constitution of India is written in 15 different languages.
+
+5. India is also the largest producer of movies.
+
+6. India got independent in 1947.
+
+7. India is the largest democracy in the world.
+
+
+Take care and good luck to all in school.
+
+
+Sincerely 
+
+Pramit Bhasin
+
+
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "126 Satyanad Kichenassamy"
+date = "1994-09-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001315.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001315.html)
+
+In a recent message, Dileep Karanth says:
+        [...]
+	3)	The only thing that can be said conclusively is that the languages 
+	of India, and of many other countries to its west and north show many 
+	similarities. But these could equally well be due to the migration of 
+	Indians westward. I think that the Kak school is saying that there is as 
+        [...]
+
+I think he was referring to the Indo-European languages of India.
+A theory which does not take into account the existence 
+of the Dravidian group cannot be considered to be completely
+satisfactory.
+
+                                  Satyanad Kichenassamy
+                                  School of Mathematics
+                                  U. of Minnesota
+                                  kichenas at math.umn.edu
+
+
+
+
+
+

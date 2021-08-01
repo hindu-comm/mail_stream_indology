@@ -1,0 +1,30 @@
++++
+title = "238 aklujkar at unixg.ubc.ca"
+date = "1997-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008574.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008574.html)
+
+On Sun, 15 Jun 1997, JR Gardner expressed interest in gaining access to an
+article by
+C.  K.  Raja read at the V All-India Oriental Conf.  in Lahore, 1928: "The
+Relation of Accent and Meaning in the Rig Veda." Peter Wyzlic informed on
+16 Jun that the article was not published in the Proceedings, it appeared
+only in the "Summaries of Papers" and referred to some sources in which a
+bibliography of Kunhan Raja's works is likely to be found.  One should also
+note in this context that this last January a conference to celebrate the
+centenary of Kunhan Raja's birth was held in Kerala. Information on his
+writings is likely to have been collected at that time. Contact:  Dr. N.P.
+Unni, Vice Chancellor, Sree Sankaracharya University of Sanskrit, Kalady,
+Kerala.  One of the most versatile Sanskritists of our time, Dr. Kunjunni
+Raja, Adyar Library and Research Centre, Theosophical Society,
+Madras/Chennai 600 020, is a nephew of Kunhan Raja. If the latter's Lahore
+paper remained unpublished, Kunjunni Raja may be able to locate its
+manuscript or typescript.
+
+
+
+
+
+

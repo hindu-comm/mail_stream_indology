@@ -1,0 +1,54 @@
++++
+title = "111 S Krishna"
+date = "1997-05-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008120.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008120.html)
+
+
+
+
+
+Dr Jayant Bapat writes:
+>
+>>Dear Colleagues
+>>A friend of mine has recently asked me what the position of 
+>>Hinduism is in relation to Euthenesia. I do not know of any 
+>>sources within Hinduism that have embraced this topic.
+>>Can someone help?
+>>Jayant Bapat
+
+
+If I remember right, many traditional commentators on Hinduism condemn 
+euthanasia. Some seem to view it as an abrupt termination of ones Pra
+rabdha Karma, which would lead to greater grief in the next janma
+while others seem to interpret as an act of a human being playing
+God( i.e. the view that is offered by many Christian scholars).
+   Interestingly enough, the main objection to this view seems to
+have been offered by Charaka, the Ayurvedic practitioner. To the
+best of my understanding, he seems to have taken the view that
+ while falling sick can be interpreted as Karma, taking medication
+for it ( or the type of medication) is not really dictated by Karma.
+Therefore, when you had a patient suffering from a disease such that
+he/she had reached the point of no return, it was acceptable to
+reduce the suffering by termination( This was an extension of the
+principle of overcoming a curable disease through medication).
+Dr S.Cromwell Crawford, I believe also quotes Mahatma Gandhi as 
+having supported this kind of "abrupt termination" of life inspite
+of his rigid stand on Himsa vs Ahimsa, on the ground that it helped
+decrease the suffering of the patient in the long run. 
+    There is a book by Dr S.Cromwell Crawford which covers this topic in a fair 
+amount of detail ( can't recollect the name of the book
+offhand....something to do with Hindu Ethics)
+
+Krishna
+
+
+---------------------------------------------------------
+Get Your *Web-Based* Free Email at http://www.hotmail.com
+---------------------------------------------------------
+
+
+
+

@@ -1,0 +1,47 @@
++++
+title = "43 bpj at netg.se"
+date = "1997-01-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006700.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006700.html)
+
+Hello,
+
+You wrote:
+
+>Dear Dr. Jonsson,
+
+FYI it is, alas, still "Mr.", and probably going to be well into the
+future, since it's hard to get the academic position necessary to get a
+Ph.D. here in Sweden. The alternative is to be wealthy enough to be able to
+do it without a position, and that won't probably happen before my kids are
+grown up. Of course I manage well without a PhD anyway. Would like if jobs
+for editors were more available and better paid, though...
+
+Thanks for the info.
+
+Regards
+
+
+__                     __  ___   __ ___ __
+|_) |_  * | * __       (_ /_|| * (_ /_| (_ *
+|   | ) | | | |_)            |     \
+              |
+B.Philip Jonsson <bpj at netg.se>
+
+              _        _    .             _ _
+|| Gate gate paragate parasamgate bodhi svaha ||
+
+"Peace is not simply the absence of war.
+It is not a passive state of being.
+We must wage peace, as vigilantly as we wage war."
+(XIV Dalai Lama)
+
+"A coincidence, as we say in Middle-Earth"
+
+
+
+
+
+

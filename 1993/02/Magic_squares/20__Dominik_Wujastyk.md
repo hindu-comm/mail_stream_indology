@@ -1,0 +1,25 @@
++++
+title = "20 Dominik Wujastyk"
+date = "1993-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-February/000437.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-February/000437.html)
+
+Prof. David Pingree asked me many years ago to keep him informed
+of any magic squares I found in Sanskrit MSS as I catalogue.  I
+believe it was on behalf of one of his students (it may well have been
+Hayashi).
+
+Anyway, I normally record the presence of such magic squares in the
+Wellcome Sanskrit handlist(s).  I can do a list of titles if anyone
+wants.
+
+Dominik
+----------------
+Dominik Wujastyk                                  d.wujastyk at ucl.ac.uk
+                                                       +44 71 611 8467
+
+
+
+

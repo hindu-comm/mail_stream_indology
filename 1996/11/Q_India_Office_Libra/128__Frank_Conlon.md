@@ -1,0 +1,25 @@
++++
+title = "128 Frank Conlon"
+date = "1996-11-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006171.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006171.html)
+
+In addition to Sudipto Chatterjee's useful information, I would also urge
+that you contact them to ascertain the plans for shifting the India Office
+collections to the new British Library St. Pancras site.  At one point I
+was told it would likely be sometime in 1997, but my recollections of the
+move from Westminster to Orbit House, lead to the notion that it would be
+wise to check once, and check again later.
+
+Frank Conlon
+University of Washington
+
+p.s. Also, if you go, be sure to obtain information in advance regarding
+the documentation which is desirable to obtain a reader's ticket.
+
+
+
+
+

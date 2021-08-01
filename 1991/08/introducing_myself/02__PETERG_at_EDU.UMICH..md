@@ -1,0 +1,25 @@
++++
+title = "02 PETERG at EDU.UMICH.ICPSR.ICPSR"
+date = "1991-08-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1991-August/000120.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1991-August/000120.html)
+
+Status: RO
+
+My name is Peter Granda and I am at the University of Michigan.  I studied
+Tamil for a short while at Madurai University and completed a dissertation
+in the History Department using Tamil inscriptions from the 14-16th
+centuries as my principal sources.  My research was on property rights and
+agricultural production/resource control in the Tamil country during the
+Vijayanagara period.  I presently work at the Institute for Social Research
+here in Ann Arbor and am not currently doing active research in the field
+but I do like to keep in touch with developments as much as I can.
+Vanakkam and welcome to the discussion group.  P.S. I am out of town for
+the next 3 weeks.   Peter
+
+
+
+
+

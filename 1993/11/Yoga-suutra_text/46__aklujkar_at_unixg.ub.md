@@ -1,0 +1,45 @@
++++
+title = "46 aklujkar at unixg.ubc.ca"
+date = "1993-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-November/000800.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-November/000800.html)
+
+This is in response to the request fromGreg Heil (gheil at cs.washington.edu)
+for Yoga-suutra text. I do not have a transliterated version but I do have
+a computerized version in Naagarii. I prepared it as a test text for the
+dot-matrix  printer  fonts for Macintosh which I was developing in early
+1985. I wanted a short text that was truly representative of India and the
+intellectual achievements of the Sanskrit tradition -- the latter
+consideration mainly because the text to be printed was going to be the
+first or one of the first texts to be  printed in its entirety in Naagarii
+with the help of a computer. 
+
+If anyone wishes to turn the Naagarii version into a transliterated Roman
+version, I am willing to share it. 
+
+Ashok Aklujkar, Professor, Department of Asian Studies, University of B.C.,
+Vancouver, B.C., Canada V6T 1Z2. Tel: (604) 822-5185, (604) 274-5353. Fax
+822-8937.
+
+
+
+
+> From THRASHER at MAIL.LOC.GOV 30 1993 Nov GMT 11:42:11
+Date: 30 Nov 1993 11:42:11 GMT
+From: ALLEN W THRASHER <THRASHER at MAIL.LOC.GOV>
+Subject: 22 YEARS MISSIONARY WORK
+
+          Would whoever contacted me  a couple of months ago about the book 
+          Abbs, John,  22  YEARS  OF MISSIONARY WORK  IN TRAVANCORE, please 
+          contact  me  at  my  email address  below,  not  via  CONSALD  or 
+          INDOLOGY?  I have located two libraries that have it. 
+
+          Allen Thrasher 
+          thasher at mail.loc.gov                                              
+
+
+
+
+

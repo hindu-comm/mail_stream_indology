@@ -1,0 +1,44 @@
++++
+title = "196 Bapat Jb"
+date = "1996-03-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004518.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004518.html)
+
+Re Girish Behamy's querry concerning the position of the woman in 
+relation to man:
+While I cannot explain why it is so, I may offer a comment.Whether 
+the woman is on the right or left seems to depend on several factors.
+1) type of ritual involved: viz. in Maharashtra, during wedding, the 
+daughter to be married sits on the right side of her father wheras 
+her mother sits on his left. In the rituals before the actual 
+wedding, she sits(or stands) on the right side of the groom.However,
+after the exchanging of garlands, she now sits on his left as his
+newly wedded wife. Thus the wife's position in Maharashtra is always
+on the left. There are however exceptions to this rule as well.
+2)Part of India: In South India, wife sits on the RIGHT of the 
+husband during rituals.
+While according to the texts, wAmAngi is the correct position for the 
+woman, the exceptions seem to be nothing more than customs because
+the people I asked were unable to explain the reasons.
+One could advance reasons why the bride had to on the right. In olden 
+times marriages took place when the bride was essentially a child and 
+hence a virgin. A KumAri is essentially pure and can therefore sit on 
+the right.( right is the pure side)
+____________________________________________________________________
+Dr J.B. Bapat                                     Phone (03)9054510
+Chemistry Department                              Fax   (03)9054597 
+Monash University           e-mail:jayant.b.bapat at sci.monash.edu.au
+Clayton, Victoria
+Australia
+____________________________________________________________________
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
++++
+title = "13 Stephen Miller"
+date = "1992-07-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1992-July/000312.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1992-July/000312.html)
+
+
+Once again confusion between where characters are located in a font and how
+characters in a font are accessed: any font developed for the Macintosh can
+be laid down with characters conforming to the CSX coding/positions if you
+are using a tool such as Fontographer. If you want to access those characters
+by using keyboard sequences which in some way, degree, or form, relate to a
+particular character then you simply develop a keyboard driver in order to
+enable you to do so -- after all, the Macintosh comes with different keyboard
+layouts for a starter.
+
+Stephen Miller
+Oxford University Computing Services
+
+
+
+

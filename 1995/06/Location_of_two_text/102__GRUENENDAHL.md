@@ -1,0 +1,24 @@
++++
+title = "102 GRUENENDAHL"
+date = "1995-06-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002645.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002645.html)
+
+In my earlier reply I forgot to mention the reference to 
+aMzumadbheda and similar titles in the New Catalogus Catalogorum, 
+vol. 1, p. 1, s.v. aMzumat; cf. also vol. 4, p. 147, s.v. 
+kAzyapazilpa.
+
+
+Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+37070 Goettingen
+Germany
+Phone: 0551/395283
+
+
+
+
+

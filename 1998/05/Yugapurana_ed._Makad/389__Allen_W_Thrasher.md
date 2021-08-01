@@ -1,0 +1,34 @@
++++
+title = "389 Allen W Thrasher"
+date = "1998-05-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012309.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012309.html)
+
+The following title is available for exchange with any library having an
+exchange relationship with the Library of Congress:
+
+Yugapuranam / edited with the help of a new MS by D. R. Mankad
+Vallabhvidyanagar : Charutar Prakashan, 1951. 49 p.
+91-915182
+BL1140 .4 .Y87 1951 (Orien Sans)
+
+Allen Thrasher
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+101 Independence Ave., S.E.
+Washington, DC 20540-4714
+tel. (202) 707-3732
+fax (202) 707-1724
+email: athr at loc.gov
+
+The opinions expressed do not represent those of my employer.
+
+
+

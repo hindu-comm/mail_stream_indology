@@ -1,0 +1,30 @@
++++
+title = "100 Axel Michaels"
+date = "1996-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006422.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006422.html)
+
+Hello Jean,
+we did´t hera from each other for a long time. As you might know I meanwhile
+went to Berne in Switzerland and now moved to Heidelberg. All the years
+passed I asked myself from time to time what happened to the edition and
+translationof the MA which you planned. 
+As I told you once I had to withdraw prom this project because of my
+commitments at Berne. However, I never lost the interest in this text and
+still read in ir time and again. Did you make progress? Have you published
+on it recently?
+I have published an article on Sati in the Etudes Asiatique from Zurich. If
+you have not got it I would be delighted to send you a copy. Just let me
+know your adress (which I have stored somewhere, but don't ask where).
+Since long I plan to write something on the adhikaari in the MA. Did you
+work on it specifically?
+Since I am now close to A. Hoefer my sleeping interest in this text might
+awake again.
+Best wishes and greetings, Axel
+
+
+
+
+

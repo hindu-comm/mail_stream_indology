@@ -1,0 +1,29 @@
++++
+title = "430 Sudalaimuthu Palaniappan"
+date = "1998-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014330.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014330.html)
+
+Hello Lars,
+
+In a message dated 11/30/98 11:54:12 AM Central Standard Time,
+lmfosse at ONLINE.NO writes:
+
+> Hello Jacob,
+>
+>  I am sorry that you keep getting these attachments, but you seem to be the
+> only one. At least no one else reports them. However, another contact
+> yesterday received an email which not only contained the attachment that was
+> supposed to be there, but also a large section of a private letter to my
+> daughter. I haven't the faintest idea what goes on, but I just received my
+> Microsoft User Group card, and I'll call them and see if they know more.
+
+I have also been getting attachments every time you post in Indology.
+
+Regards
+S. Palaniappan
+
+
+

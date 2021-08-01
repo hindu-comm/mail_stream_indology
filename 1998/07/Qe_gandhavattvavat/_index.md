@@ -1,0 +1,4 @@
++++
+title = "Qe: gandhavattvavat"
+
++++

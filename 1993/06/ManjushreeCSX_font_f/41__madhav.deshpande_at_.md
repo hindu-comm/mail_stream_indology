@@ -1,0 +1,27 @@
++++
+title = "41 madhav.deshpande at um.cc.umich.edu"
+date = "1993-06-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-June/000561.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-June/000561.html)
+
+        After prodding from a number of people, I have created a Windows
+3.1. compatible TrueType version of my Romanized Sanskrit font: ManjushreeCSX.
+It is possible to enter the extended characters under Windows with Alt+four
+numbers.  I would like some technical advice from anyone out there about how,
+if at all, this task of entering extended characters under Windows can be
+simplified.  Personally, I have been so much taken by the ease with which
+I can use the ManjushreeCSX and the Devanagari Madhushree Fonts on the
+Mac.  Is there a way to create a somewhat similar easy-to-enter procedure
+under Windows?  This is especially crucial for using Devanagari under Windows
+with a full set of 255 characters.  Currently, I have transferred my fonts
+to the Windows environment.  However, I cannot think of any easy way to
+enter these characters.  I would welcome any suggestions, comments!
+                        Madhav M. Deshpande
+                        University of Michigan
+
+
+
+
+

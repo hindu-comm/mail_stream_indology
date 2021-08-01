@@ -1,0 +1,25 @@
++++
+title = "52 cejka at praha1.ff.cuni.cz"
+date = "1994-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-October/001441.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-October/001441.html)
+
+Help please!!!
+
+I am in an urgent need of an electronical version of at least some of the 
+buddhist j-atakas in pali. I am not able to create it myself in time.
+Any help or info is greatly appreciated. Even if someone is only working on it
+and would agree to share with me what is already done, I would be grateful.
+
+Thanks in advance
+
+
+-- 
+cejka at praha1.ff.cuni.cz
+
+
+
+
+

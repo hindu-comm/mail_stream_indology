@@ -1,0 +1,22 @@
++++
+title = "14 Mandakranta Bose"
+date = "1996-10-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/005881.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/005881.html)
+
+Some of you may be interested to learn that my late father Dr. Makhan Lal 
+Roy Choudhury, Professor of Islamic History and Culture in Calcutta 
+University, translated the Gita into Arabic, with a critical introduction 
+and notes in 1951. The title of the translation is AL-KITA.  It was 
+published in Calcutta by Mssrs. Thacker Spink & Co.
+
+Mandakranta Bose
+Religious Studies
+University of British Columbia
+
+
+
+
+

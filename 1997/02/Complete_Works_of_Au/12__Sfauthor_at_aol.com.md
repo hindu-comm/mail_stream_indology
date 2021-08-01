@@ -1,0 +1,28 @@
++++
+title = "12 Sfauthor at aol.com"
+date = "1997-02-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/006844.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/006844.html)
+
+I received today a mailing that contained this paragraph:
+
+"A new set of the complete works of Sri Aurobindo in a uniform library
+edition of 35 volumes 9.5 x 6.5 inches printed on acid-free paper will be
+published and mailed over the next five years. It will contain 2500
+additional pages of texts and revisions not included in the 1972 _Sri
+Aurobindo Birth Centernary Library._ A special prepublication price of $400
+(postpaid) is available if a check for the full amount is sent payable to
+SABDA, Sri Aurobindo Ashram, Pondicherry 605 002 India by February 21st.
+After this date, the price will be substantially higher."
+
+More information may be had from matagiri at aol.com.
+
+Brian Akers
+sfauthor at aol.com
+
+
+
+
+

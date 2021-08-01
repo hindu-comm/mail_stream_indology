@@ -1,0 +1,33 @@
++++
+title = "08 pf at cix.compulink.co.uk"
+date = "1996-06-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005336.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005336.html)
+
+In-Reply-To: <960613133237_413486994 at emout09.mail.aol.com>
+I am amazed which fascination the word 'magic' still holds over our 
+imagination. In Anthropology 'magic' has unfortunately often been treated 
+as a thing in itself. This has lead to rather muddled and, I think, 
+unfruitful debates about the relationship between 'magic' and the various 
+fields of expertise in our beloved universities. It seems more productive 
+to investigate the pragmatics of language usage in context without 
+prejudicing the results by way of labels like 'magic'.Tambiah is 
+certainly right in stressing that this task 'has still to be completed'. 
+In fact - it has hardly begun. Unfortunately Tambiah himself never really 
+investigated speech acts but confined himself to a few programmatic 
+statements along the lines of Wittgensteinian linguistic philosophy. 
+Besides: As far as I know 'The' Frankfurt School never dispensed 
+membership cards. Whether Habermas belongs to this tradition is at least 
+an open question. Certainly he made a useful contribution to the question 
+of the normative implications of speech acts. However, his Durkheimian 
+reconstruction of the genesis of conventions and norms seems questionable.
+
+Peter Fluegel
+
+
+
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Coimbatore district manual"
+
++++

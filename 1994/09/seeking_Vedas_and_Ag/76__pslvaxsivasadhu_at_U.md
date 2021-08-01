@@ -1,0 +1,34 @@
++++
+title = "76 pslvax!siva!sadhu at UCSD.EDU"
+date = "1994-09-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001260.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001260.html)
+
+To members of the list:
+
+Dear Scholars:
+
+The editors of the monthly newspaper Hinduism Today are seeking
+electronic copies of the Vedas and the Saiva Agamas, in English.
+
+Does anyone know if such texts exist?  I have been able to locate
+the Rg Veda at Oxford, in Sanskrit, but that is about all.
+
+Any help or clues would be *greatly* appreciated.
+
+By the way, the paper is available via email server.  Drop
+me a note if you are interested.  (Or I can post the information
+here if the moderator does not object.) Also available are email
+subscriptions to the Thirukkural, and the Nandinatha Sutras.
+
+
+Om Shanti
+Sadhunathan Nadesan
+HT Postmaster
+
+
+
+
+

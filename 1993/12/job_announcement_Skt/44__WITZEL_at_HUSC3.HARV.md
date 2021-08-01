@@ -1,0 +1,32 @@
++++
+title = "44 WITZEL at HUSC3.HARVARD.EDU"
+date = "1993-12-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1993-December/000849.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1993-December/000849.html)
+
+LECTURERSHIP IN SANSKRIT AND INDIAN STUDIES
+
+Harvard University announces the search for a one-year
+lecturer (renewable) in Sanskrit and Indian Studies  in the
+Department of Sanskrit and Indian Studies.
+
+We seek a scholar who is able to teach at Undergraduate and
+Graduate levels. Proficiency in at least two of the
+following areas is required: Paninean grammar, Kavya and
+poetics, Darsana.   
+
+Harvard University is an equal opportunity employer; women
+and minorities are encouraged to apply. The deadline for
+applications is Feb. 15, 1994. 
+
+Send CV and three letters  of reference to Michael Witzel,
+Chairman, Department of Sanskrit and Indian Studies,
+Harvard University, 53 Church Street, Cambridge MA 02138,
+phone (617) - 495 3295, fax 617 - 496 8571
+
+
+
+
+

@@ -1,0 +1,22 @@
++++
+title = "397 Swaminathan Madhuresan"
+date = "1999-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015365.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015365.html)
+
+Dear Chris,
+
+Most of the postings by D. V. N. Sarma, if they are replies/retorts
+to anything Tamil, can be answered the way you have done.
+
+Best regards,
+Swaminathan Madhuresan
+
+_________________________________________________________
+DO YOU YAHOO!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

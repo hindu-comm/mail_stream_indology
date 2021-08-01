@@ -1,0 +1,43 @@
++++
+title = "361 Allen W Thrasher"
+date = "1998-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011438.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011438.html)
+
+THE LIBRARY OF CONGRESS
+PRESENTS
+
+A ROUNDTABLE : LC FORGING AHEAD INTO THE 21ST CENTURY
+
+Friday, Mary 27, 1998
+2:00 to 4:00 p.m.
+Mumford Room, Madison Bldg., 6th Floor
+Library of Congress
+
+Asian Reading Room : Reader and Reference Services
+Helen Poe, Asian Division
+
+Access to LC Collections via Photoduplication Service
+Myron B. Chace, Photoduplication Service
+
+Highlights of Cataloging Issues
+Thomas Yee, Cataloging Policy Office
+
+The LC/ILS and Vernacular Data for Authority Records
+Barbara Tillett, Integrated Library System
+
+The Law Library and the Global Legal Information Network (GLIN)
+Constance A. Johnson & Janice Hyde, Law Library
+
+Acquisitions Directorate Reorganization : African/Asian Acquisitions &
+Overseas Operations Division (AFAAOVOP)
+Judy McDermott, African/Asian Acquisitions & Overseas Operations
+Division
+
+Electronic Dissemination of Information Beyond Books
+Ichiko Morita, Japan Documentation Center
+
+
+

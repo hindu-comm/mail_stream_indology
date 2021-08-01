@@ -1,0 +1,35 @@
++++
+title = "86 subrahmanya palurmallampalli"
+date = "1996-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006414.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006414.html)
+
+The following is what I remember from a conversation with my vedic
+teacher in India a while ago:
+
+Rg, Yajur and Atharva uses three svaras : udatta, anudatta and svarita
+denoted as ',  _  and ". The Saama uses 5 svaras which is why it can be
+sung and hence the term saamagaanam. The minimum number of svaras that 
+constitute a raagaa is 5.
+
+It also uses numerals to indicate the length of time over which a
+given syllable is to be chanted. If the time taken to chant
+one syllable is say 1 sec, a 2 at the end of the syllable would indicate
+that the syllable is to be chanted for 2 seconds and so on.
+A small example of this can be
+found at the very end of one of the chapters of the Taittiriiya
+upanishad (aananda valli - I think), though it is in the taittiriiya
+aaranyakaa.
+
+I am really not competent to say any of the above with authority as
+I am not familiar with it.
+
+Hope I am not misleading anybody! 
+
+Subrahmanyam Mallampalli
+
+
+
+

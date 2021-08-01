@@ -1,0 +1,26 @@
++++
+title = "316 Sudalaimuthu Palaniappan"
+date = "1998-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014625.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014625.html)
+
+In a message dated 12/16/98 2:10:42 PM Central Standard Time,
+sns at IX.NETCOM.COM writes:
+
+> It is funny that how the same data can be interpreted differently
+>  and mean different things to various people....
+>  In a message, some time ago, Palaniappan had referred
+>  to Dr.Ambedkars  writings.
+
+Since the time I mentioned Dr. Ambedkar's writings, I have come across a book,
+"Indigenous Indians: Agastya to Ambedkar" by Koenraad Elst, first published in
+1993 by Voice of India. This is a pro-Indigenous Aryan viewpoint. Has anybody
+reviewed this work? There is a chapter called "Dr. Ambedkar: A True Aryan".
+
+Regards
+S. Palaniappan
+
+
+

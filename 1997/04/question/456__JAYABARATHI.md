@@ -1,0 +1,63 @@
++++
+title = "456 JAYABARATHI"
+date = "1997-04-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007976.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007976.html)
+
+Frank Van Den Bossche wrote:
+> 
+> Dear members of the Indology list,
+> Does anyone know if the SamaraangaNa-suutra-dhaara of King Bhojadeva (ed. by
+> T. GaNapati Saastrii, GOS 25, 32) has been translated already? Where can I
+> find information on 'vimaanas' (a kind a flying etc. machines)?
+> Thanks in advance.
+> 
+> Frank Van Den Bossche
+> Ghent University
+
+	Dear Mr. Frank,
+			The following books might be useful to you
+	regarding your pursuit into  the  "VAIMAANIKA SAASTRA".
+
+			1. Vimaana in Ancient India.
+			             by
+                  	    Dilip Kumaar Kanjilaal
+                                  Published
+				     by
+			      S.P.Bhattacharjee,		
+                	      Sanskrit Pustaka Bandar,
+			      38,Bidhan Sarani,
+			      Calcutta-700 006.			
+				 1985
+
+			2.GODS and SPACEMEN in the ANCIENT EAST
+			  W.Raymond Drake
+			  Signet 
+			  1973
+			 The New American LIbrary Inc.
+			 1301 Avenue of the Americas,
+			 New York
+			 New York 10019.
+
+	There are also some other books , especially by Eric von
+	Daniken. But he makes passing mention about them.
+
+		There are many referances. But work into this field has 
+	not been in depth.
+		 Some Pauraanic details even reveal the application
+	Lorentz's Equation.
+		 Wish you luck.
+	The "Samaraangana Suutra Dhaara" has been published in
+	"Gaekwad's Oriental Studies" 1924, Baroda.
+
+	JAYABARATHI
+
+	Sungai Petani.
+	Kedah
+	Malaysia.
+
+
+
+

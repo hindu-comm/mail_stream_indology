@@ -1,0 +1,47 @@
++++
+title = "456 S Krishna"
+date = "1998-05-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012398.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012398.html)
+
+Vidyasankar Sundaresan writes:
+<<I am reading a small poem in which a number of south Indian place
+names are given. Where are the following places? Could some list member
+give corresponding modern names?>>
+
+1. mahAsurAlaya (in Kerala) - is this Sucindram?
+
+It seems to me that this place(since there is reference to kEraLa) would
+be more some place that is connected to bAli who was "Conquered" by
+vAmana....
+
+>2. anantaSayana (in Kerala) - Travancore?
+
+  ISn't this tiruvanantapuram..there is a well known padmanAbhasvAmi
+temple there where viSnu is shown to be reclining...At the same time,
+the place mentions the name "ananta" as in anantapadmanAbha or
+anantazayana...
+
+>5. pinAkinI (river in TN)
+AFAIK, this is a reference to the river "penna/pennAr" whose southern
+branch meets the sea near kaTalUr; the northern branch meets the sea
+near nellUru in Andhra pradEza.
+
+>6. payonadI (  -do-  ) - somewhere in Salem-Coimbatore area? The
+context mentions the village of Satyamangalam.
+
+Isn't this the pAlAr river, which for all it's *milkiness*( namewise)
+is perenially dry? I think this flows thru the South Arcot District..
+
+BTW, Vidyasankar, could you please share the zlOka with us?
+
+Regards,
+KRishna
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

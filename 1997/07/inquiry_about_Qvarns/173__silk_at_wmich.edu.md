@@ -1,0 +1,31 @@
++++
+title = "173 silk at wmich.edu"
+date = "1997-07-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-July/008894.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-July/008894.html)
+
+This is an inquiry for a friend of mine (who perhaps I should not name;
+anyway, it's not me!).  He tells me he has notes from an article by someone
+named "Qvarnstrom" on Bhartrhari and his connection with Buddhism.
+Unfortunately my friend has lost the reference. I suggested that it might
+have been in the Etudes Asiatiques volume dedicated to Bhartrhari, but
+neither he nor I have access to that at present.
+
+I suppose that it has happened to most of us at one time or another than we
+take notes thinking we will never forget the reference, only to lay the
+project aside for a time, and come back to it drawing a blank on certain
+vital matters.
+
+Does anyone know what this article might be?  (My friend mentioned on the
+phone that he had page references, but he did not tell them to me; sorry).
+
+Jonathan Silk
+SILK at wmich.edu
+
+
+
+
+
+

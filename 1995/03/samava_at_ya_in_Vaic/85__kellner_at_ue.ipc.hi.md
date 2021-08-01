@@ -1,0 +1,47 @@
++++
+title = "85 kellner at ue.ipc.hiroshima-u.ac.jp"
+date = "1995-03-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002190.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002190.html)
+
+
+I am currently looking for a copy of G. Patti's
+"Der Samava at ya im Nya at ya-Vaic@es at ika". Rome 1955. None of the
+libraries I know of has it. Could somebody help out?
+
+Also, if anybody knows any more recent literature especially
+on the ontological relevance of the samava at ya in early
+Vaic at es@ika, references would be highly appreciated. I just
+came across the following passage in Wilhelm Halbfass'
+"On Being and What There Is", and I am pondering over
+its accurateness and relevance with reference to the
+asatka at ryava@da: "At any rate, classical Vaic at es@ika considers
+samava at ya as a principle that is supposed to account for the cooccurrence
+and coalescence of different and ontologically distinct world
+constituents within concrete things. In a sense, it restores the
+unity and concreteness of things after their categorical decomposition."
+(p.75)
+Following this line of thought, whether a cause is inherent or not is
+utterly irrelevent, when its non-existence in the effect is stated.
+It would also mean that, for inherent causes & effects, that they
+are "ontologically distinct", although somehow co-existent. This
+could explain why none of the three commentaries (vr at tti, upa at skara and
+Thakur's anonymous c.) mention the differentiation between
+inherent and non-inherent causes while commenting upon VS 9.1.1ff.,
+where the asatka at ryava@da is explained.
+
+Confusion, as usual,
+
+Birgit Kellner
+Institute for Indian Philosophy
+University of Hiroshima
+
+
+
+
+
+
+
+

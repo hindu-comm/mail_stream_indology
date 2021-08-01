@@ -1,0 +1,28 @@
++++
+title = "140 Dominik Wujastyk"
+date = "1995-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002240.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002240.html)
+
+A big thank you to everyone who sent me their preferences for the date
+of the next World Sanskrit Conference.  Your message were read out
+before the planning committee, and formed the main plank for deciding
+the date.  The overwhelming vote was for the first week in January, 1997
+(sorry Harry).  Therefore, the date of the conference has been fixed as
+3rd-9th January, 1997.  The venue is Bangalore.
+
+This is not an official announcement, but is just meant to be an
+indicator to help advance planning.  It is not impossible, though highly
+unlikely, that the planning committee may change its mind.
+
+Towards the end of April, the first official circular will go out with
+introductory information.  A copy will also be posted on INDOLOGY.
+
+Dominik
+
+
+
+
+

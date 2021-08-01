@@ -1,0 +1,25 @@
++++
+title = "282 DESIKACHARYK at wl.aecl.ca"
+date = "1996-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004282.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004282.html)
+
+Hello,
+	I am looking for an edition of the pArijAtahraNa champu by sEshakrishna
+kavi with a good commentary either in Sanskrit or in English. I have an edition
+published by Chaukhamba publications of vAraNAsi, with a minimal commentary in 
+Sanskrit (just the anvayakramam), but I am looking for an edition with a more 
+extensive commentary. Does such a thing exist? I will be grateful for any 
+pointers towards this - by the way sEshakrishna kavi lived in vAraNAsi in the 
+16th century, and was patronized by the son of Todarmall, who was the finance 
+minster of Akbar.
+
+regards,
+K.Desikachary. 
+
+
+
+
+

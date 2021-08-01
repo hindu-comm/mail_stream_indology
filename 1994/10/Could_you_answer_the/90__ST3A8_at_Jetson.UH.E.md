@@ -1,0 +1,28 @@
++++
+title = "90 ST3A8 at Jetson.UH.EDU"
+date = "1994-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-October/001483.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-October/001483.html)
+
+Hello:
+
+I was wondering if you would be able to answer two questions for me:
+
+1) What is the research going on the city of Dwarka (the one Indian
+archaeologists claimed to be Krishna's city)?
+
+2) Is there any evidence in favor of Krishna's historicity?
+
+I have been looking for these answers intensenly in the past two to three days:
+any and all help will be greatly appreciated.
+
+Sincerely yours,
+
+Binoy K. Samuel
+
+
+
+
+

@@ -1,0 +1,23 @@
++++
+title = "18 MAMCGEE at vaxsar.vassar.edu"
+date = "1994-09-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-September/001219.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-September/001219.html)
+
+I am sure that Vivekananda must be referring to the encyclopedic dharma-
+nibandha of Hemadri (13th century minister and archivist of the Yadava kings
+of Devagiri).  Hemadri treated numerous subjects and his nibandha is con-
+sidered to be the largest; his longest treatment is of vratas, detailing
+over 900 rituals -- this particular volume would have been a rich source
+of rituals for Vivekananda.  As far as I know, not much of Hemadri has 
+been translated; however, Widener Library has several volumes of this nibandha
+(known as the Caturvargacintamani) published (in Sanskrit) in the Biblio-
+theca Indica in the late 1800s.  Let me know if you need further information.
+Mary McGee (mamcgee at vassar.edu).
+
+
+
+
+

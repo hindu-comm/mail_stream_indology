@@ -1,0 +1,107 @@
++++
+title = "98 mrabe at artic.edu"
+date = "1997-07-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-July/008804.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-July/008804.html)
+
+>Dear list members,
+>
+>Yesterday I posted two items to the list. They were "Re: How a buck/stag
+>could have become a lion!" and "Etymology of 'tanU'". After I posted the
+>items, I had some e-mail problems which prevented me from getting any e-mail.
+>So, if any of you responded to those postings, I would appreciate if you
+>could re-send them directly to me. Thanks.
+>
+>S. Palaniappan
+
+
+Dear Mr. Palaniappan,
+
+Here is a copy of my response to your welcome posting on the first item:
+
+BTW, you name always brings back fond memories of my childhood in the
+Palani hills!
+
+Best regards,
+
+Michael
+************
+
+In response to two points made yesterday by Mr. Palaniappan:
+
+Given the previous disclosures about Danielou's mistranslations of the
+Kamasutra, I'd not be surprised to learn of equally egregious errors in his
+CilappatikAram.  However, I must say, (admittedly before tracking down a
+copy of Parthasarathy's translation--thank you for the suggestion) that
+your construal of CilappatikAram12:10.1-4) is counter intuitive.
+
+ You propose the following:
+
+>cankamuJ cakkaramum tAmaraik kaiyEnti
+>ceGkaN arimAn2 cin2aviTaimEl nin2RAyAl  (12.10.1-4)
+>kaGkai muTikkaNinta kaNNutalOn2 pAkattu
+>maGkai uruvAy maRaiyEtta vEniRpAy
+...
+>This is translated as "You stood on the lion with red eyes and the angry bull".
+> This means unlike the lines (12.8.2) and (12.9.2), which describe only one
+> animal vehicle each, this describes two vehicles.
+
+However, isn't it the case that the two animals appear beneath
+Durga/Korravai for different reasons, one as vehicle and the other as
+victim? As such this reasoning is in line with Dominique Thillaud's
+observation, as expressed on Sat, 21 Jun 1997 13:47:37 BST:
+
+_From my point of view, that's not a problem. mRga and vyAghra (or simha) are
+> strongly linked as the couple prey/predator (MBh III,11,24; III,200,14 and
+> tens of others) and the hunter can be identified with both (see the greek myth
+> of Akteon): obviously mRgahan = vyAghra, but, all over the world, the hunting
+> ideology contains an identification with the prey (magical ?)._
+
+Specifically, therefore, I question your attribution of the adjective
+"angry" to the "bull", which should already be dead by the time Durga
+stands upon its severed head.  The latter motif was the subject of my
+article on the iconography of this goddess as it is found primarily in
+Tamilnadu.
+
+Secondly, there seems to be an implicit contradiction between your apparent
+rejection of my allusion to lion-riding Ishtar as a precedent, but
+acceptance of J.N. Banerjea's reference to the lion-riding goddess Nanaia
+(or simply_Nana_) on Kushana coins.  Basically, these are variant names of
+the same West Asian goddess, or goddess-type (with warlike nature, riding a
+lion) and in proof of this, I quote John Rosenfield, _The Dynastic Arts of
+the Kushanas_ (Berkeley:      University of California Press, l967), p 85:
+
+__The cult of Innana-Ishtar-Astarte persisted into the Parthian
+period,...At Dura-Europus there was a vast temple complex, its early phases
+datable roughly to the third and second centuries B.C.  In inscriptions
+there, the deity was called both Nanaia and Artemis, as she was in
+classical literary sources__
+
+Which brings me back to Mr. Thillaud, the modest _etc._ participant in this
+thread, who continued in that posting quoted above:
+
+__The two animals of the greek Huntress Artemis are the deer and the
+bear...This (doesn't) presume DurgA to be an eurindian Goddess because the
+Wild Beast's Lady (correct ? Greek: PotniA ThErOn, French: Dame des Fauves)
+is well known in many civilizations. But that can explain why, linked with
+DurgA, stags and lions are structurally the same.__
+
+Again, to conclude, and _viva le difference_, I see the Tamil Korravai as
+mounted on a deer (not hunting it per se, as does Artemis?), while the
+CilappatikAram's poet and roughly contemporary Pallava sculptors are
+acutely aware that elsewhere the same goddess rides a lion.
+
+Thank you, Mr. Palaniappan, for reviving this thread, and for the wonderful
+Tamil glosses.
+
+Michael Rabe
+
+
+
+
+
+
+
+

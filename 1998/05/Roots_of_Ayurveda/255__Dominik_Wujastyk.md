@@ -1,0 +1,33 @@
++++
+title = "255 Dominik Wujastyk"
+date = "1998-05-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012165.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012165.html)
+
+A number of friends have kindly contacted me to say that they are having
+difficulty getting my book from local bookshops.  Apparently Penguin
+outside India is not willing to supply Indian-published Penguin books
+(I'd be glad to hear people's experiences in this area, especially
+counter-examples.)
+
+If you wish to order Indian Penguin books directly from the publishers in
+India, you can send your requests
+by email to
+        penguin at del2.vsnl.net.in
+or by fax to
+        +91 11 623 4250 for
+
+All the best,
+Dominik
+
+--
+Dr Dominik Wujastyk,                FAX:        +44 171 611 8545
+Wellcome Institute for              URL:        http://www.ucl.ac.uk/~ucgadkw/
+  the History of Medicine,          Email:      d.wujastyk at ucl.ac.uk
+Wellcome Trust, 183 Euston Road,    Trust URL:  http://www.wellcome.ac.uk
+London NW1 2BE, England.
+
+
+

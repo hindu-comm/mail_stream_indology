@@ -1,0 +1,27 @@
++++
+title = "395 Dominik Wujastyk"
+date = "1998-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/011039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/011039.html)
+
+Yes, FW Ellis is indeed a fascinating figure, and if there is actually
+surviving unpublished material on or about him, it would be very
+worthwhile to follow it up.  I came across him some years back when I was
+writing a piece on the smallpox vaccination debates that were very topical
+in South India at the beginning of the nineteenth century.  I would be
+extremely interested in any writings by Ellis on vaccination.  I strongly
+suspect that he wrote pro-vaccination tracts, perhaps in Tamil and/or
+Sanskrit, but they have never been found.
+
+All the best,
+Dominik
+
+--
+Dr Dominik Wujastyk        Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk      183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                FAX: 44 171 611 8545
+
+
+

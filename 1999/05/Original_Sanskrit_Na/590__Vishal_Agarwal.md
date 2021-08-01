@@ -1,0 +1,54 @@
++++
+title = "590 Vishal Agarwal"
+date = "1999-05-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017349.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017349.html)
+
+No. Lakhan is a commonly used corruption for 'Laksmana' in Awadhi. For
+instance, the Ramacaritamanasa says:
+
+"Bihasi lakhan boley mrdubani|
+Aho mumIsu mahA bhatamani ||
+
+(Sri Laksman smiled and said- "Lo! The Munisvara Parasurama considers
+himself to be a great scholar")
+The contexts is the arrival of Lord Parsuram after Sitasvayamvara.
+
+It is commonly believed that Lucknow was founded by Sri Lakshmana. Awadh and
+Oudh are both corruptions of 'Ayodhya'. For an instance of the latter,
+remember that the pen name of the Hindi poet 'Ayodhya Singh Upadhyaya' was
+'Hari-audha' where Hari is for the word 'Upadhyaya' and Audh for Ayodhya.
+Another common corruption of Ayodhya is 'Ajodhya' (as in the famous Hindi
+song- "Rama bina mori sooni Ajodhya"). Modern Hindutvavadis want to rename
+Luknow as 'Lakshmanapuri.'
+
+Regards.
+
+Vishal
+
+----Original Message Follows----
+From: Balaji Hebbar <bhebbar at EROLS.COM>
+Subject: Re: Re : Original Sanskrit Names
+Date: Sat, 29 May 1999 10:59:54 -0400
+
+Mr. Bothra:
+
+The  word  "Lakhan"  is  itself  an  indicator  that  it  is  the
+"prAkRta"  of  the  original  Sanskrit  "LakshaNa".  The  word
+"Lakhanoudh"  itself  may  have  been  made  into  Lucknow  but
+"Lakhanoudh"  itself  was  perhaps  adopted  only  during  the  Islamic
+times.  We  have  to  go  further  back  than  that.  Probably
+"Lakhanoudh"  was  itself  a  contraction  of  "LakShaNapuri,
+AyodhyArAjya".
+
+Regards,
+B.N.Hebbar
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

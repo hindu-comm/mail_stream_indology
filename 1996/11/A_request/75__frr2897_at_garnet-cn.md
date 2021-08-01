@@ -1,0 +1,24 @@
++++
+title = "75 frr2897 at garnet.acns.fsu.edu"
+date = "1996-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006121.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006121.html)
+
+Dear Indology Members:
+        I study Sanskrit and have a life-long interest in classical India
+and the Vedic texts.  I enjoy and learn from the discussions that generate
+in this conference.  I would benefit even more if I could crack the code
+you use to write the Sanskrit in roman script without the diacritics, but I
+am a beginner in the language.  Can somebody help me out with this?
+
+Appreciatively,
+
+Francisco Rocco
+
+
+
+
+
+

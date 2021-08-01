@@ -1,0 +1,81 @@
++++
+title = "188 phijag at zelacom.com"
+date = "1997-03-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007338.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007338.html)
+
+Bill,
+Judy can be reached at: SavNavArch at aol.com
+John
+
+>I need email addresses for the following scholars, most of whom should be
+>subscribers or known to subscribers of this list. 
+>Thanks,
+>
+>Bill
+>
+>Judith Salzman
+>Cal Poly University
+>San Luis Obispo, Ca  	
+>
+>Rahul Peter Das
+>Martin Luther Universitat 
+>Halle-Wintenberg
+>Dorotheenring 525451 Quickborn, Germany 
+>
+>Guy Beck
+>Loyola University
+>6363 St. Charles Ave.
+>New Orleans, LA  70118	
+>
+>Amar Nath Chatterjee
+>E4/21 A Model Town
+>Delhi 110009, India  	
+>
+>Thomas J. Hopkins
+>Franklin And Marshall College
+>323 N.West End Ave.
+>Lancaster, Pa  17603
+>
+>Kathleen Erndl
+>Dept. Of Religion, 
+>FSU
+>Tallahassee, FL  32306/1029	
+>
+>E. Burke Rocheford
+>Middlebury College
+>Middlebury , Vermont  05753	
+>
+>Charles White 
+>1911 R.Street NW Apt. 101
+>Washinton , DC  10027	
+>		
+>		
+>		
+>		
+>		
+>
+> 	
+>
+>
+>William G Wall, Ph.D.
+>Institute for Vaisnava Studies
+>Graduate Theological Union
+>PO Box 11216
+>Berkeley CA 94712
+>(510) 849-8280 (office)
+>
+>email: wgw at dnai.com
+>Bharata.Srestha.HDG at com.bbt.se
+>
+>
+>
+>
+>
+
+
+
+
+

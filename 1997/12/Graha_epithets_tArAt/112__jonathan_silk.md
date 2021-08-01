@@ -1,0 +1,38 @@
++++
+title = "112 jonathan silk"
+date = "1997-12-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010145.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010145.html)
+
+I am entirely unable to contribute to this (interesting!) discussion of
+tAra- etc. However, one small point made by our friend Dominique requires
+correction.  He wrote, concerning delocution:
+
+>        And the English and the American know verbs as 'to hail', 'to
+>encore', 'to yes'.
+>
+As a native speaker (whether educated or not is another question) of
+American English, I am entirely unaware of any verbs such as 'to encore',
+or 'to yes'.  As to "to hail", of course it is a well-known verb, but
+whether it comes from "hail!" I wonder about. One could answer the question
+with a look at the OED, but my copy is at home.  Anyway, the concept is
+interesting, even if the English examples are not entirely correct.
+
+Cheers, jonathan
+
+
+
+
+Jonathan Silk
+Department of Comparative Religion
+Western Michigan University
+Kalamazoo MI 49008-5013
+USA
+tel. 616-387-4399
+fax 616-387-4914
+silk at wmich.edu
+
+
+
