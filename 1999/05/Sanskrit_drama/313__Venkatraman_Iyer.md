@@ -1,0 +1,29 @@
++++
+title = "313 Venkatraman Iyer"
+date = "1999-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017014.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017014.html)
+
+ >A former student of mine has expressed an interest in the Sanskrit
+ >drama; at some point in the future she would like to work in this
+ >area, and is looking for suitable scholarly contacts. Any
+ >suggestions gratefully received: I will pass them on to her.
+
+Good scholarly contacts:
+1) S. A. Srinivasan, On the composition of the Natyasastra,
+1980, Reinbeck, 153 p.
+2) Indu Shekhar, Sanskrit drama: its origin and decline,
+Leiden: E. J. Brill, 1980
+
+
+
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

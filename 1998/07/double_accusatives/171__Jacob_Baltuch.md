@@ -1,0 +1,37 @@
++++
+title = "171 Jacob Baltuch"
+date = "1998-07-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013277.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013277.html)
+
+Sandra van der Geer wrote:
+
+[analysis 1]
+>The original situation of `rAma.m pustaka.m darzayati' then is like
+>`(he) makes rama - see the book. In other words, rama as the higher
+>object, and the book as the lower object.
+
+or
+
+[analysis 2]
+>The original situation of `rAma.m pustaka.m darzayati' then is more like
+>`(he) makes the book - (so that) rAma sees (it). Much more difficult to
+>analyse in terms of (apologize) generative grammar, but more satisfactory
+>also. The analysis with rAma as the higher object goes wrong, as then
+>`see the book' as a whole also functions as a direct object. Two direct
+>obects are difficult.
+
+Sorry if this is obvious but I don't understand this. Why two direct objects?
+
+If you took as the basic analysis 'he makes/causes [Rama to see the book]'
+where the whole clause 'Rama sees the book' would be the direct object and Rama
+the subject of that clause, where would there be two direct objects?
+
+(Or, to stay closer to the Sanskrit, something like 'he CAUSATIVE [Rama
+sees the book]'
+becoming 'he makes-see [Rama -- the book]')
+
+
+

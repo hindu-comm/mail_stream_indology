@@ -1,0 +1,58 @@
++++
+title = "46 Lance Nelson"
+date = "1995-10-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003280.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003280.html)
+
+Announcement:
+
+Society for Hindu-Christian Studies
+
+Annual Meeting, in conjunction with the Annual Meeting of the American 
+Academy of Religion/Society of Biblical Literature
+
+Saturday, November 18th, 1995
+9:00-11:30
+Philadelphia Marriott Hotel
+Room 404
+1201 Market Street
+Philadelphia, Pennsylvania 19107 USA
+
+9:00-10:30
+
+I. Discussion: "Hindu Polytheism - how are we to understand it?"
+Vasudha Narayanan will make an introductory presentation, and several 
+members of the Society will respond, to open a general discussion.  For 
+those who wish to do some [optional] reading in advance of the session, a 
+small packet is available in advance from Frank Clooney, S.J. (Theology 
+Department, Boston College, Chestnut Hill, MA 02167; [617 552 3884])
+
+10:30-11:30
+
+II. Annual Business Meeting
+
+For information on the Society, contact Lance Nelson 
+(lnelson at pwa.acusd.edu) or write:
+
+Society for Hindu-Christian Studies
+c/o Centre for Studies in Religion and Society
+University of Victoria
+P.O. Box 3045
+Victoria, B.C.
+Canada V8W 3P4
+
+---------------------------
+Lance Nelson
+Religious Studies    
+University of San Diego
+lnelson at pwa.acusd.edu
+---------------------------
+
+
+
+
+
+
+

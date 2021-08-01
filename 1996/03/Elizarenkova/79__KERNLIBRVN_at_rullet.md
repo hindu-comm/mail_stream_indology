@@ -1,0 +1,32 @@
++++
+title = "79 KERNLIBRVN at rullet.LeidenUniv.nl"
+date = "1996-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004410.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004410.html)
+
+Dear Mr. Thompson,
+
+My colleague at the Kern Institute, Marianne Oort, keeps in touch with
+Prof. Elizarenkova. She gave me her adress: 
+T.V. Elizarenkova
+Russia 125315
+Moscow A-315
+uL. Sameda Varguna
+d.5, kv 49
+
+I have transcribed it following a handwritten adress on an envelope, and I am 
+not sure that I have got all the characters exactly right.
+Perhaps you should check with Mrs Oort, 
+e-mail KERNLIBORT at RULLET.LeidenUniv.NL.
+
+
+Yours,
+
+
+Ellen Raven 
+
+
+
+

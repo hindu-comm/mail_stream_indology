@@ -1,0 +1,27 @@
++++
+title = "486 Loriliai Biernacki"
+date = "1999-01-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015348.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015348.html)
+
+One point to keep in mind regarding Hindu missionaries is that it depends
+greatly upon how you define Hinduism.  Certainly brahminical smarta
+practitioners were not missionaries, (although the apocryphal story of
+Kumaarila's virulent attitudes towards Buddhists and Jains makes one think
+twice)  but the Bhakti movements were quite missionary oriented in their
+attempts to gains converts, cf. Shaivism in south India throughout the
+middle ages. And even if we define missionary to mean only "other
+countries outside India" --which is something of an anachronism and
+doesn'tmake too much sense in the context of India -- we still have to grapple
+with how a non-missionary religion made its way to Cambodia, for instance.
+
+all the best,
+
+
+Loriliai Biernacki
+University of Pennsylvania
+
+
+

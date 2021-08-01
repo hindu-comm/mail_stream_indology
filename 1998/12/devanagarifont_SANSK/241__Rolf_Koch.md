@@ -1,0 +1,28 @@
++++
+title = "241 Rolf Koch"
+date = "1998-12-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014535.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014535.html)
+
+The number of total characters possible under windows ANSI standard is
+the same as under DOS: 224, due to the number of possible combinations
+in a 8-bit byte, minus the 32 nonprinting control characters.
+The main keyboard provides keys for each of the alphabetic characters
+and punctuations marks, numbered 32 through 127.
+Additional characters are numbered from 128 to 255.
+To find out the keyboard layout of SANSKRITA font make a list.
+In each line you access a character by holding down the ALT key, typing
+the number (from 032 upto 0255) on the n u m e r i c keypad (on the
+right side - with the NumLock light on) and then releasing the ALT-key.
+ALT+0196, for example, produces the ligature t(underdot)tha(underdot).
+Print out the final list.
+To put a character on a shortcut (for easier access) see the WINDOWS
+help (catchword: producing a SHORTCUT).
+This should help you.
+Greetings
+roheko at t-online.de
+
+
+

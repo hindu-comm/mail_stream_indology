@@ -1,0 +1,30 @@
++++
+title = "108 Alok Kumar"
+date = "1998-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011665.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011665.html)
+
+I am interested in knowing ancient views (Vedic and Upanishads period) on
+the following two topics:
+
+1.       Status of women with respect to men in family and society.  In
+Hindu religion, goddesses are worshiped, indicating an influential status
+for females.  Were they also equal in status for their roles in family and
+society.
+
+2.      Relationship of humans, animals, and plants.  As I understand,
+animals, humans and plants were considered a part of prakriti.  I am
+interested in their relationship and their status with respect to each
+other, in any.
+
+Please share your thoughts and article/book on the topic.
+
+Alok Kumar
+Department of Physics
+State University of New York
+Oswego, NY 13126.
+
+
+

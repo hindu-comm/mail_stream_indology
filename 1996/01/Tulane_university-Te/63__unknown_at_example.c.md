@@ -1,0 +1,64 @@
++++
+title = "63 unknown at example.com"
+date = "1996-01-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003952.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003952.html)
+
+
+
+
+Dear Friends,
+
+Where is Tulane University-Texas? In what city of Texas?
+I believe is a Christian university, a small school
+and not the large university by the same name in New Orleans.
+
+Thanks,
+N. Ganesan
+nas_ng at lms461.jsc.nasa.gov
+
+
+
+
+
+
+> From P.Friedlander at wellcome.ac.uk 24 96 Jan EST 14:05:00
+Date: 24 Jan 96 14:05:00 EST
+From: P.Friedlander at wellcome.ac.uk
+Subject: Hindi/Panjabi/Rajasthani
+Reply-To: P.Friedlander at wellcome.ac.uk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+
+*This is a question about the relationship between grammar, literature and 
+language.*
+I have been working for some time now on a project to catalogue over a 
+thousand manuscripts in Hindi and Panjabi. They date from ca. CE 1500 
+onwards (Hindi mss) and c. CE 1700 onwards (Panjabi mss). 
+Now in the case of 20th century works it is fairly clear that Hindi and 
+Panjabi can be distinguished by their grammers. But it seems to me in 
+pre20th century works this distinction is much less clear. 
+In particular because many works are in varieties of Brajabhasa, and other 
+dialects, and can be found in both histories of Hindi and Panjabi 
+literature. Likewise, there are many instances of works that some describe 
+as Rajasthani, or Old Rajasthani, and some describe as Old Gujarati (and 
+some describe as Maru-gujari).
+
+So I would be grateful for any pointers towards contemporary academic 
+discussion of this issue, what distinguishes such SA languages. Or any 
+comments from list members on how they decide to refer to a pre-modern text 
+as being in Hindi/Panjabi/Rajasthani etc.
+
+Dr Peter G. Friedlander
+Wellcome Institute for the History of Medicine
+183 Euston Road
+London NW1 2BN
+England
+e-mail: P.Friedlander at wellcome.ac.uk
+
+
+
+
+

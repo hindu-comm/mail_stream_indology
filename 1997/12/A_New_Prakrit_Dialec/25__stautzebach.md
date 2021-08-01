@@ -1,0 +1,25 @@
++++
+title = "25 stautzebach"
+date = "1997-12-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010058.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010058.html)
+
+On "http://www.sai-uni-heidelberg.de/pub/b151-200" a creative-web-designed
+page
+listing some books published by the SAI Heidelberg I found my thesis
+titled with "Priik and Sarvasamataik". This may be considered a western
+Prakrit-Dialect omitting each non-latin letter.
+
+As you know the term "Priik" may also be written as "Paarishikshaa" or
+"Parisiksa" or something like this. Perhaps Altavista will know some day
+too.
+I hope the SAI Heidelberg (South-Asia-Institute (including indology)) will
+continue to develop western Prakrit for the benefit of indological
+research.
+
+Ralf Stautzebach (stautzebach at metronet.de)
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "130 Vaidix"
+date = "1998-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011704.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011704.html)
+
+>Ganesan wrote...
+
+> From the day Mr. Bhadriah Mallampalli started writing his
+> hypothesis/theories on Vedas, I was wondering.
+
+> Astonished to hear that one can talk of Vedas without knowing
+> Sanskrit!!
+
+To say that one has to know Sanskrit to talk of, or understand vedas is an
+insult to every other language, also insult to every other living being.  To
+understand veda all you need is identify bRhaspati in oneself.  It just takes
+a few minutes of meditation to identify, but I advise people don't try it out
+yet.  It needs some stamina.
+
+For one who knows bRhaspati whatever one speaks of is veda, and whatever
+language one speaks gets sanctified (again I am not trying impose Hindu values
+on other cultures, apologies, but to me it is a neurological fact).
+
+> Tamil, European influence etc, AryAs.
+
+That was all noise.  I do not subscribe to any opinion I expressed.  My
+intention is to impress upon people that the first thing to do is open up
+possible alternatives impartially and then start discuss the final solutions,
+instead of taking positions dictated by historians. If you start out right, I
+accept any decision.
+
+Regards
+Bhadraiah Mallampalli
+
+
+

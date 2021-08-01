@@ -1,0 +1,22 @@
++++
+title = "34 Royce Wiles"
+date = "1998-09-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-September/013487.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-September/013487.html)
+
+Do any of the indology list members know the 1) email address of Dr
+J.W de Jong and 2) where SAA conferences is being hosted next year ?
+Thanks.
+Caroline Fritsch
+
+I can only help with no. 1.
+
+Professor J. W. de Jong does not use email. His mailing address is:
+4 Jansz Crescent,
+Manuka ACT 2603
+Australia
+
+
+

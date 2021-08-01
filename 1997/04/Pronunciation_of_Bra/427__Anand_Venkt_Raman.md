@@ -1,0 +1,46 @@
++++
+title = "427 Anand Venkt Raman"
+date = "1997-04-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007934.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007934.html)
+
+Martin Gansten (mgansten at sbbs.se (Martin Gansten)) wrote:
+
+>Sweden, I often hear the -h- pronounced more or less like a German Ach-Laut,
+>which to my ears at least is an abomination (not in itself! -- only in
+>Sanskrit words). But I suspect some would frown at my own pronunciation as
+
+I think there is reason to believe that the original pronunciation of
+Brahma would have been Bruh-ma and not Brum-ma.  In this respect, I
+also think that the h would have been very close to the German
+Ach-Laut, if my understanding that it is a velar fricative is correct.
+I base this on the following two pieces of evidence.
+
+1. Greek and Roman accounts of ancient India record the related word
+Brahmana as "Bragmane" or "Brachmana", both of which indicate that
+the phoneme preceding m is a velar (I understand Greek "ch" is the X
+in TeX?)
+
+2. Sir Monier Williams' claim that the word Brahma derives from the
+root "vrih" (cf vriksha = tree) meaning to grow.
+
+Having said this, I must also say that I have seen several North Indian
+temple walls with the word Brahma written in Hindi as Bramha with the
+"mh" conjunct consonant used instead of "hm".  I was surprised when I
+first noticed that.
+
+I am of course open to correction on this point.
+
+Cheers.
+
+- &
+-- 
+Anand Raman                       Ph: +64-6-350-4186, 355-0062 (a/h)
+Dept of Computer Science          Fx: +64-6-350-2259
+http://fims-www.massey.ac.nz/~ARaman
+
+
+
+

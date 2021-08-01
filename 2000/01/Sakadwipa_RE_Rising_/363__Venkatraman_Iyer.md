@@ -1,0 +1,32 @@
++++
+title = "363 Venkatraman Iyer"
+date = "2000-01-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/020020.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/020020.html)
+
+The epic bhArata places zAkadvIpa in the east plausibly because
+Assam, Mizoram, Nagaland etc., abounds in tropical vegetation;
+Of course, Burma could be the ancient zAkadvIpa because its
+teak is world famous and probably ancient Indian geography
+around first century knew only upto Burma or so. Garuda,
+represnts the sun in many of world's myths and hence the
+solar deity Vishnu's vahana could have its home in the east.
+Few centuries later, seeing the same type of tropics as
+the northeast india, mythmakers from India could have spread
+stories about Garuda in Indonesia, etc.,
+
+Best wishes,
+V. Iyer
+
+
+
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

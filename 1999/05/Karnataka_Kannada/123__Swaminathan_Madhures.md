@@ -1,0 +1,60 @@
++++
+title = "123 Swaminathan Madhuresan"
+date = "1999-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016816.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016816.html)
+
+ The 'kuRinci' landscape in Sangam texts and its relationship to> naming places
+  has been dealt with reference to Poona by Dr. S. Palaniappan
+ before.
+
+> -------------------------------------------------------------------------
+> Date: Mon, 28 Apr 1997
+> Subject: Re: Translations of Tamil names into Sanskrit
+>
+> In a message dated 97-04-28 07:36:34 EDT, you write:
+>
+> <<      Indeed I come from Pu.yapattana or Pu.nyanagarii (= Pune, pu.ne in
+>  Marathi). I don't know how old this usage is, but it is commonly seen not
+>  only in modern Sanskrit publications from Pune, but often also in Marathi.
+>  The old pre-urbanization name of this place was punava.dii.
+>   >>
+> This is very very interesting. In an article entitled, "Etymology of
+> Place-Names PaTTi-HaTTi", in Annals of Bhandarkar Oriental Research
+> Institute, S.B. Joshi gives a Dravidian origin for words like, paTTi,
+> paTTaNa, haTTi, pADa, vADa, vADi, etc.
+>
+> As for the first portion, 'puna', DED 3558 lists " puJca" Tamil 'punam'
+> upland
+> fit for dry cultivation; 'punakkATu' shifting cultivation on the hills;
+> 'puncey' land fit for dry cultivation only, dry crop; Malayalam 'punam'  a
+> jungle, chiefly highland overrun with underwood and capable of irregular
+> cultivation; 'punakkaNTam' as hill-tract; 'puJca' dry crop; 'puJca-kkaNTam'
+> field under irrigation, yielding even three harvests. Kannada 'puNaji'
+> dust-like dry soil in which a kind of paddy is grown. Tulu 'puJca-kaNDa a
+> very good rice-field. Telugu 'punja' land cultivated without artificial
+> irrigation, high land."
+>
+> In Classical Tamil literature one of the important landscape division is
+> the
+> mountain/hill region (kuRinci) where the girls (heroines) are depicted as
+> going to 'punam' or millet-fields to protect them from birds like parrots
+> that would otherwise eat the grains. This 'punam' is the place where the
+> hero
+> meets the heroine and falls in love in the hill-country.
+>
+> Thus the old name for 'Pune' seems to have meant 'village of uncultivated
+> fields in the hills'.
+>
+> Regards
+> S. Palaniappan
+>   ------------------------------------------------------------------------
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

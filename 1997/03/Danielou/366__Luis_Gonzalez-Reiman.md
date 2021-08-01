@@ -1,0 +1,32 @@
++++
+title = "366 Luis Gonzalez-Reimann"
+date = "1997-03-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007513.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007513.html)
+
+At 02:06 PM 3/31/97 BST, Lars Martin Fosse wrote:
+
+>With all due respect, Dominique, I don't think that Jacob's question is
+>xenophobic! There are a lot of scholars out there, some of whom have
+>produced more valuable work than others. I, too, sometimes ask colleagues if
+>this or that scholar is worth my time, and I am interested in the personal
+>qualities of the individual scholar. I may ask the same question about
+>English, German or American scholars, or for that matter about scholars of
+>any nationality. 
+
+Also with due respect, I would like to point out that, as the biographical
+notes reproduced by Dominique show (which don't mention that he put together
+recordings for UNESCO), Danielou was mainly an expert on Indian music.
+
+Best,
+
+Luis Gonzalez-Reimann
+Department of South and Southeast Asian Studies
+University of California, Berkeley
+
+
+
+
+

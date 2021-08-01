@@ -1,0 +1,43 @@
++++
+title = "187 mgansten at sbbs.se"
+date = "1996-04-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004780.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004780.html)
+
+Yvette Rosser wrote:
+
+>What is the significance of the of the North and South nodes of the moon?
+>
+>How much emphasis or importance are they given in the Indian horoscope?
+>
+>Viewed by western astrology, Rahu is seen as an element of Indic astrology
+>and symbolizes karma and reincarnation.  Popular western astrology more or
+>less ignores the nodes.  How important are they  in the Indian system(s).
+
+The nodes, known as rAhu (north node) and ketu (south node), are rarely
+mentioned in what is generally considered to be the oldest stratum of
+astrological texts (such as varAhamihira's bR^ihajjAtaka), but in classical
+texts, they are no less important than the other seven 'planets', from the
+Sun to Saturn. The most universally used mehod of astrological
+prognostication, a 120-year planetary cycle based on the 'natural' life
+expectancy in kaliyuga and known as viMs'ottarIdas'A, allots a total of 25
+years to the nodes. And of course, in temples where images of the planetary
+deities are installed, there are -- to my knowledge at least -- always nine
+of them (navagraha): the Sun, the Moon, Mars, Mercury, Jupiter, Venus,
+Saturn, Rahu, and Ketu.
+
+I'm not sure if this answers your question about the 'significance' of the
+nodes, or if you had in mind their astrological connotations as well. (I
+suppose most of us on this list are in some sense governed by rAhu, who
+represents foreigners, barbarians, mlecchas -- although there may be a few
+ketu people out there, too: wise men, renunciates, mumukshus...)
+
+Martin Gansten
+mgansten at sbbs.se
+
+
+
+
+

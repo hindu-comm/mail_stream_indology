@@ -1,0 +1,33 @@
++++
+title = "279 joe at sfbooks.com"
+date = "1996-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006317.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006317.html)
+
+I've posted to the ADABIYAT mailing list, which has a lot of Persian
+specialists on it, a question about "marmot" and "ant" in ancient Persian.
+
+One subscriber to that list asked if I'd saved the previous posts, as he
+was very curious about them.
+
+Unfortunately, I hadn't.  Nor do I see them at the e-mail archive yet.
+
+Anyone who has got them saved, and could forward them to me (or directly to
+him), could you please let me know?  Please DON'T just send them right off
+(this list has enough people on it that I could end up with twenty copies
+of everything!)  But thanks if you could take the time to write and offer.
+
+He seems to have some things to contribute himself, just doesn't want to be
+uninformed about it.
+
+Joe Bernstein
+joe at sfbooks.com
+
+
+
+
+
+
+

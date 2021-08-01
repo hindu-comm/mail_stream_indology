@@ -1,0 +1,19 @@
++++
+title = "137 jonathan.silk at wmich.edu"
+date = "1996-06-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005381.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005381.html)
+
+I do not have the explanations with me here, but some time ago I received an
+e-text from Hamburg with entirely unambiguous codes which allowed one to
+write German, Skt., and seemingly anything.  Does someone have that material
+at hand?  It was not quite readable on the screen, but could be converted
+with, as I recall, zero ambiguity.
+
+JAS
+
+
+
+

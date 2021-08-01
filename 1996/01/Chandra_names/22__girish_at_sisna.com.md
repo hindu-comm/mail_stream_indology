@@ -1,0 +1,40 @@
++++
+title = "22 girish at sisna.com"
+date = "1996-01-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003906.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003906.html)
+
+There are three names of the moon that I am trying to understand.
+I was hoping someone here could help.
+
+1.  catura'sraasanaaruu.da.h
+    catur a'sra aasana aaruu.da
+    "The One mounted on a four-cornered seat."
+
+    Does someone know the significance of the "four-cornered seat?"
+
+2.  vivasvanma.n.dalaaj~neyavaasa.h
+    vivasvat ma.n.dala aj~neya vaasa
+    "The One who has an unknowable abode in the globe of the sun?"
+     or perhaps "vivasvat ma.n.dala" mean "shining globe?"
+
+3.  audu.mbaranagaavaasa.h
+    audu.mbara, audu.mbara tree or wood, or copper
+    na ga vaasa, tree dweller, peacock
+    "The peacock {of the audu.mbara tree, of audu.mbara wood, of copper}?"
+
+Thanks for any help you can provide in understanding these names.
+
+-----------------------------------------------------------
+
+Girish Sharma
+San Diego, CA
+girish at sisna.com
+
+
+
+
+
+

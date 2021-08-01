@@ -1,0 +1,56 @@
++++
+title = "93 Harold F. Arnold"
+date = "1998-10-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013722.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013722.html)
+
+Dear Witzel,
+        Today I was, for the first time ever, able to access most of the
+issues of the IJVS from the web site. I had missed several issues as I had
+switched ISPs without notifying you. The address given below, however,
+causes Netscape to behave in a most bizarre fashion. I believe the correct
+address is:
+
+        www1.shore.net /~india/ejvs
+
+isn't it? Perhaps you should let the folks on the Indology list know.
+Yrs.
+Harold Arnold
+
+>We are pleased to announce the recent publication of another issue of the
+>Electronic Journal of Vedic Studies. The journal is now in its 4th year
+>and has well over 600 subscribers.
+>
+>Vol. 4, issue 1 (August 1998)  contains the paper of Makoto Fushimi
+>(Harvard U.), our new assistant editor.
+>
+>                " Brahmana Passages in Apastamba-Srautasutra "
+>
+>         see:    www.shore.net /~india/ejvs
+>
+>This the first issue that is made available on the net at once in various
+>formats (PDF, DVI, PS). A few early issues have been available in PDF
+>format and are  readable by acroreader (downloadable from our web site).
+>
+>At present, all issues since 1995 are on our web site the way
+>they have been published, that is in simple (7 bit) ASCII format using the
+>Kyoto-Harvard transcription. They can be read and downloaded in this
+>format.
+>
+>Other formats of these earlier issues are to be added soon, as to
+>facilitate reading and printing with the usual Indological transcription.
+>
+>M. Witzel , ed.
+>
+>
+>
+>===========================================================================
+>Michael Witzel                       witzel at fas.harvard.edu
+>                                     www.fas.harvard.edu/~witzel/mwpage.htm
+>---------------------------------------------------------------------------
+>my direct line (also for messages) :  617- 496 2990
+
+
+

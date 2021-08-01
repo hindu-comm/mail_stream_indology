@@ -1,0 +1,22 @@
++++
+title = "149 LUSTHAUS at macalstr.edu"
+date = "1995-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003633.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003633.html)
+
+Just a short note on Bhart.rhari -- I-ching's dates have been the subject of
+some controversy for quite some time. Judging from the Vaakyapadiyam, and other
+facts known about Bhart.rihari, the 5th century is a more likely date for him.
+I-ching treats Bhart.rhari as a contemporary of Dharmapaala, which is clearly
+wrong, and his synopses of Bhart.rhari's works suggests he was not very
+familiar with their contents.
+
+Dan Lusthaus
+Macalester College
+
+
+
+
+

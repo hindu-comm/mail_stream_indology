@@ -1,0 +1,25 @@
++++
+title = "215 Dominik Wujastyk"
+date = "1996-11-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006257.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006257.html)
+
+The "beggar" story doesn't appear in _The Concise Yogavasistha_ tr. Swami
+Venkatesananda (Albany, New York: SUNY Press, 1984).  The story of King
+Janaka is recounted there (pp.164 ff.), but he achieves insight through
+reflection alone, and his interlocutor is not Yajnavalkya, but Vasistha.
+
+--
+Dominik Wujastyk
+Wellcome Institute for the History of Medicine
+183 Euston Road, London NW1 2BE, England.
+FAX +44-171-611-8545
+email: d.wujastyk at ucl.ac.uk
+WWW: http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
+
+
+
+
+

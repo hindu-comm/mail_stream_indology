@@ -1,0 +1,62 @@
++++
+title = "362 Vishal Agarwal"
+date = "1999-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017643.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017643.html)
+
+Respected Dr. Knudsen,
+
+I advance a simpler explanation:
+
+The Pythagoras theorem has been stated in the Baudhayana Sulba Sutras. Now
+many Hindus (like Sayanacarya) include even the Kalpasutras in the cateogory
+of Vedas, and the Hare Krishnas include even the Puranas etc. in 'Vedic
+Literature.'
+
+The fact that the theorem attributed to Pythagoras is stated in the
+Baudhayana Sulba as well is publicized in 100's of Mathematics texts
+prescribed for children in Indian schools (as also the fact that the
+'Pascal's Triangle' occurs in Pinagalacarya's Chhanda sutras and so on).
+Since one of the persons involved in the discussion is a Hare Krishna, we
+might surmise that he got his facts slightly mixed up.
+
+Regards,
+
+Vishal
+
+
+----Original Message Follows----
+From: Toke Lindegaard Knudsen <tlk at MATH.KU.DK>
+Subject: Pythagoras mentioned in Vedas?
+Date: Sat, 12 Jun 1999 23:07:27 +0200
+
+Dear all,
+
+I have followed with great interest the recent discussion on different
+flood stories in the ancient world.  In connection with the
+mentioning of Noah in the Bhavisys Purana I got to think of
+something.  Some time ago I read one book (which I since lost)
+entitled "Om Shalom."  The book was a dialogue between a person
+from the Hare Krishna movement and a Jewish rabbi.  Anyway, in
+the book there is related a story of how Pythagoras, the Greek
+philosopher and mathematician, went to India and met 12 brahmins
+who spoke to him in Greek.  Pythagoras got the name
+"Yavanacarya," teacher of the Yavanas.  I found this interesting but
+have never read anything else about this since.  Does anyone know
+about this?  Can anyone give me some references?  Is Pythagoras
+mentioned in the Vedas or Puranas?
+
+Thank you very much.
+
+Sincerely,
+Toke Lindegaard Knudsen
+
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

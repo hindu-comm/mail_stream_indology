@@ -1,0 +1,45 @@
++++
+title = "242 GHOSE,LYNKEN,MR"
+date = "1999-11-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019106.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019106.html)
+
+Dear Dr. Ganesan:
+
+According to E.H. Johnston, the 2 manuscripts for the Saundarananda
+are in the library of H.H. the Maharaja of Nepal. Now, this was a
+while back, so I'm not sure where they are now. I can't remember offhand
+where they were discovered, nor where the manuscripts for the other
+texts of As'vaghos.a were discovered. However, here's some information
+concerning editions of the texts themselves, or fragments.
+
+Saundarananda
+
+The Saundarananda of As'vaghos.a  ed. and transl. by E.H. Johnston
+(with Sanskrit as well). Delhi: Motilal Banarsidass, 1975 (1st ed.
+1928)
+
+As'vaghos.a Nanda il Bello (Saundarananda Mahaakaavya).Milano:
+Adelphi Edizioni, 1985 (only has an Italian transl.)
+
+Buddhacarita
+
+As'vaghos.a's Buddhacarita. Irma Schotsman, translator. Sarnath:
+Central Institute of Higher Tibetan Studies, 1995.
+(Sanskrit and English)
+
+As'vaghos.a's Buddhacarita. E.H. Johnston, transl. and editor (Sanskrit
+and English). First ed. 1936. Delhi: Motilal B. 1995.
+
+
+I have a lot more information if you would like to write me directly.
+There is also fragements of a play. I believe Luders published some-
+thing on this, but I'm not sure if there's been more recent work.
+
+Lynken Ghose
+McGill University
+
+
+

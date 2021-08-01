@@ -1,0 +1,36 @@
++++
+title = "89 Nik Macleod"
+date = "1999-04-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016496.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016496.html)
+
+As I understand it, Vasubandhu's master Buddhamitra (or Manoratha according
+to Hiuan-Tsang - excuse my transliteration) was defeated in debate by the
+Saa.mkhya teacher Vindhyavaasin. On Vasubandhu's return from Kashmir, where
+he had been studying the Vaibhaa"sika system, he wrote a treatise called
+Paramaarthasaptati refuting the Saa.mkhya views.
+
+Santi, Nik Macleod
+
+-----Original Message-----
+From: nanda chandran [mailto:vpcnk at HOTMAIL.COM]
+Sent: 08 April 1999 22:52
+To: INDOLOGY at LISTSERV.LIV.AC.UK
+Subject: History of Debate
+
+
+Does anyone have any information on the debate which was supposed to
+have been waged between the guru of VAsubandhu and Ishvara KrishnA,
+the author of the SAmkhya KArikAs. It's also said that it was Ishvara
+Krishna who triumphed.
+
+And how valid is the identification of Ishvara Krishna with the great
+SamskrutaM poet KAlidhAsa?
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

@@ -1,0 +1,24 @@
++++
+title = "483 Michael Witzel"
+date = "2000-03-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020754.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020754.html)
+
+>I've finally got fed up with the insulting tone of some posters on this
+>list.  From now on, I shall summarily unsubscribe any member who -- in my
+>judgement -- insults or slights another member of the list.
+
+
+diSTyA!  may zAnti reign now...
+
+
+saM gachadhvaM saM vadadhvaM saM vo manAMsi jAnatAm |
+samAno mantraH samitiH samAnI samAnam manaH saha cittam eSAm |
+samAnam mantram abhi mantraye vaH |
+samAnI va AkUtiH samAnA hRdayAni vaH |
+samAnam astu vo mano yathA vaH susahAsati ||
+
+
+

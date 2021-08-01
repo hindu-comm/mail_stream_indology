@@ -1,0 +1,42 @@
++++
+title = "97 Amos Nevo"
+date = "1998-01-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010534.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010534.html)
+
+Shalom to all,
+
+In response to my previous message, E. Harzer Clear suggested that I
+consult M. Mayrhofers etimology dictionary, for the meaning of the name
+"Naciketas". Since Mayrhofer does not deal with the name, nighter with
+the term "naci", I address you again:
+
+Charpentier (Indian Antiqary,  vol. 57, 1928, p. 205 note 38) rejects
+the traditional interpretation "na+ciketas", endorsed by Bohtlingk, as
+"without any value". He reads the name as "naci+ketas",  following Prof.
+Wackernagels observation that "naci is the form of nakra, to be used as
+the first part of a compound".  Thus he finds it parallel to Kamadeva's
+epithet - "Makaraketu", and hence similar to the name "Svetaketu" of the
+Chandogya Upanisad.
+I shall be very grateful for any comments, information and sources,
+concerning the name Naciketas, and specially for answers on two
+questions:
+1. What does the term "naci" mean, and how does it relate to nakra or
+   nakraa?
+2. How is Naciketas related to Kama, when he rejected cmpletely all
+   the pleasures of love, according to the story in Kathopanishad?
+
+Amos Nevo
+14/51 Bolivia St. Jerusalem
+96746
+ISRAEL
+fAX. 972 2 6419215
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

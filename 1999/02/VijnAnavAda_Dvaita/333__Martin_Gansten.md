@@ -1,0 +1,22 @@
++++
+title = "333 Martin Gansten"
+date = "1999-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015944.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015944.html)
+
+Mr. Hebbar,
+
+Thank you. I was just speculating idly on the effects of not differentiating
+between the various meanings of jnaana. As for the Bhagavatapurana, it has
+some heavily idealist passages that must have made tough chewing for Madhva:
+iik.seta vibhramam ida.m manaso vilaasa.m, d.r.s.ta.m vina.s.tam atilolam
+*alaatacakram* (NB the Mahayana/Advaita metaphor!) / vijnaanam ekam urudheva
+vibhaati ...
+
+Regards,
+Martin Gansten
+
+
+

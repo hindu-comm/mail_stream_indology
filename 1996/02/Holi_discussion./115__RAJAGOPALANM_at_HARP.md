@@ -1,0 +1,24 @@
++++
+title = "115 RAJAGOPALANM at HARPO.TNSTATE.EDU"
+date = "1996-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004142.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004142.html)
+
+dear moore ,
+It is not innocent when someone insists on using abusive terminology
+afterhaving been pointed out . Would you accept if a person uses abusive word against you and then says that
+it is all done with innocence.
+It is extremely unscientific attitude to insist on using incorrect and abusive
+description against any society without proofs . Many  westerners did it and do it
+against non-west societies . Some have stopped such practices after having been 
+strongly reprimanded by other societies. it is not scientific to use
+abusive words in a description of a society without justification . it is prejudice to do so
+without proof . M.rajagopalan
+
+51
+
+
+
+

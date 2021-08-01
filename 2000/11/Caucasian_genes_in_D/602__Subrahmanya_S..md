@@ -1,0 +1,42 @@
++++
+title = "602 Subrahmanya S."
+date = "2000-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024134.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024134.html)
+
+The word Caucasian is merely a PC substitute for Aryan.
+It seems to have been coined at a time of growing nationalistic
+fervor in Europe.
+It is also no wonder that the Great Indo European Homeland is
+located in the Caucasus according to present day europeanist
+academics.
+
+------------
+This is what the Merriam Websters Dictionary has to say
+on the word Caucasian:
+Main Entry: Cau·ca·sian
+Pronunciation: ko-'kA-zh&n, kä- also -'ka-zh&n
+Function: adjective
+Date: 1807
+1 : of or relating to the Caucasus or its inhabitants
+2 a : of or relating to the white race of humankind as classified according
+to physical features b : of or relating to the white race as defined by law
+specifically as composed of persons of European, No. African, or southwest
+Asian ancestry.
+---------------
+
+Also remember some time ago there were some on this list
+who were criticizing the weak Humanities in India. It must be
+pointed out that Stanley Wolpert is a senior Historian
+and his work is published by OUP. So much for the boasts of
+peer review and academic quality.
+
+Regards,
+Subrahmanya
+_____________________________________________________________________________________
+Get more from the Web.  FREE MSN Explorer download : http://explorer.msn.com
+
+
+

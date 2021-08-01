@@ -1,0 +1,40 @@
++++
+title = "26 Dominik Wujastyk"
+date = "1998-10-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013629.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013629.html)
+
+---------- Forwarded message ----------
+Date: Thu, 01 Oct 1998 22:33:08 PDT
+From: navaratna rajaram <navrajaram at hotmail.com>
+Subject: Re: Hermann Jacobi, the Indologist
+
+[...]
+
+   I have been seriously misrepresented by Srinivas Parchure. Nowhere
+have I claimed that Jacobi was influenced by Vedic Mathematics. Jacobi
+the Indologist looked at astronomical references in the Rigveda which
+pointed to dates between 4500 and 2500 BC for their composition -- or so
+he thought. Jacobi the mathematician is irrelevant.
+
+   I have no control over others misrepresenting me. My request is that
+people go to my own work and not judge on the basis of hearsay. If my
+books are not immediately accessable, they can go to my website:
+
+   <http://www.vedickalidas.home.ml.org> for an idea. But it is not a
+substitute for my books.
+
+   I am interested to learn that Hermann Grassman turned to Indology. (I
+am a mathematician myself, a former professor of mathematics at a couple
+of universities in the U.S. until I decided to devote full time to
+ancient history.)
+
+Thank you!
+
+Sincerely,
+Rajaram
+
+
+

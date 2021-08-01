@@ -1,0 +1,49 @@
++++
+title = "539 Stephen Hodge"
+date = "2000-11-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024088.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024088.html)
+
+N. Ganesan wrote:
+
+> this Persian influence
+> in Hebrew texts will be under academic scrutiny. There are 100s
+> of academic publications where Sons of Light versus
+> Sons of Darkness led by "the Black one" originating
+> in Iran. Will read them in the months ahead,
+> updates about this Indo-Iranian heritage will take time.
+
+As you will not doubt have found, the Sons of Light / Sons of Darkness
+terminology is not associated with normative / biblical Second Temple
+Judaism as far as we know but is characteristic of the sectarian
+Community linked to portions of the Qumran finds (allusions are also
+made to the terms in the Gospel of John and some of the Pauline
+epistles) .  The consensus view identifies this Community with the
+Essenes or, more likely, a breakaway sub-sect from them.  There are
+fierce debated among Qumranologists about the history and origins of
+the Community.   One view is that they evolved from the hasidim in
+Judaea around 160BCE but others see them as late ultra-orthodox
+arrivals back from Babylon around the same time or a bit earlier.
+Among their core writings are the Damascus Document and the Rule of
+the Community (using the terminology in question) which have been
+extensively analyzed by Jerome Murphy-O'Connor.  His view is that both
+these documents are composites with several literary strata but,
+importantly for your thesis, he believes that they were written in
+Babylon during the Persian period and later brought to Judaea.   A
+useful recent book that deals with aspects of Zoroastrian influences
+on the Community is "Apocalypticism in the Dead Sea Scrolls" by John
+Collins (1997) Routledge.
+
+I also suppose you have had or will have a look at the
+pseudepigraphical Book of Jubilees and Enoch I & II -- these books
+were both extremely influential although they never achieved canonical
+status but they were essential reading not only for the Qumran
+sectarians but were also known and quoted by New Testament writers.
+
+Best wishes,
+Stephen Hodge
+
+
+

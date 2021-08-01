@@ -1,0 +1,34 @@
++++
+title = "380 Peter J. Claus"
+date = "1998-06-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012960.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012960.html)
+
+Date: June 24, 1998
+
+Indology List
+indology at Liverpool.ac.uk
+
+Dear Members,
+
+We have exchanged many thoughts about horses.
+
+I wonder if the philologists on the list could speak to the words in the
+relevant language families (I-E, Dravidian, etc.) pertaining to some of
+the craft items found in the Indus Civilization Tradition: particularly
+carnelian (beads), steatite (seals, beads, and other objects), agate
+(beads), pearl and other marine shell objects.  The production sites,
+trade paths and locations of use of these items are fairly well documented
+in the archeology. It would seem to me words for them might be good
+indicators of who was in contact with whom, when and where.
+
+
+
+Peter J. Claus
+fax: (510) 704-9636
+pclaus at csuhayward.edu
+
+
+

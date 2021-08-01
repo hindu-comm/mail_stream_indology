@@ -1,0 +1,49 @@
++++
+title = "69 Miguel Carrasquer Vidal"
+date = "1998-07-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013355.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013355.html)
+
+Vidhyanath Rao <vidynath at MATH.OHIO-STATE.EDU> wrote:
+
+>And nobody has even touched .s, the most commonly retroflexed sound in
+>Sanskrit. I see no way of getting there from s-hacek.  And why would
+>Dravidian, with prominent lack of sibilants in the earliest stages
+>lead to a split in sibilants? I am yet see any one pick up this
+>gauntlet.
+>
+>In sum, it is quite premature to assume that Dravidian origin of
+>retroflexes is established fact. If you have not explained .s, you have
+>explained nothing about the origin of retroflexes in IA.
+
+Certainly the development of <s^> (Ascii-IPA [S]) out of PIE *s after
+, <u>, <r>, <k> has nothing to do with Dravidian, as it also
+happened in Iranian, Slavic, Baltic and possibly Armenian.  The
+development of this <s^> ("sh") to <s.> (retroflex) has nothing to do
+with Dravidian either, but with the development of PIE *k^ to the
+palatal shibilant <s'>.  This, as has happened relatively recently in
+Polish, Russian and Mandarin Chinese, caused the old shibilant to be
+backed to <s.> (Polish sz vs. s', Russian sh vs. shch, Mandarin sh
+vs. x).  In Proto-Slavic RUKI /s^/ was backed to /x/ (velar
+fricative) [except when palatalized] instead.  In Baltic RUKI /s^/
+was allowed to merge with /s^/ < *k^.  In Iranian *k^ appears as /s/,
+presumably by way of k^ > c^ ("ch") > c ("ts") > s [without a stage
+as s^].   In tabular form:
+
+        *s^ (RUKI)  *k^ (SATEM)
+Skt.    s.          s'
+Iran.   s^          s < c
+Slav.   x           s < s^
+Balt.   s^          s^
+
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+

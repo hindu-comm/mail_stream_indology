@@ -1,0 +1,23 @@
++++
+title = "271 Dominik Wujastyk"
+date = "1998-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014620.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014620.html)
+
+On Mon, 14 Dec 1998, jonathan silk wrote:
+
+> how about BOOKS!!!
+
+Garn!  Of course, you are right.  I was thinking of computer media.
+However, maybe only books printed on acid-free paper will be around in 50
+years.  Most of what is published in the 20th century will not survive the
+acid and chlorine in its own fibres.   Talk to librarians about this if
+you feel like getting seriously depressed.
+
+All the best,
+Dominik
+
+
+

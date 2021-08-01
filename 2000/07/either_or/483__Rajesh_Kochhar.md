@@ -1,0 +1,26 @@
++++
+title = "483 Rajesh Kochhar"
+date = "2000-07-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022226.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022226.html)
+
+Did the Aryans invade India?
+Suppose the answer is no. Then does it automatically follow that India is the original habitat of the Aryans?
+The answer must be an emphatic NO.
+Very often the two questions are seen as two sides of a coin, which they are not. It is iimportant to address these questions separately
+
+Rajesh Kochhar
+++++++++++++++++++++++++
+
+Prof Rajesh Kochhar
+Director
+National Institute of Science, Technology and Development Studies
+Pusa Gate , K S Krishnan Marg , New Delhi 110012
+ph + 91 11  5764064 / 5743227   fax 5754640
+altenative email rkochhar2000 at yahoo.com
+web site  http://nistads.res.in
+
+
+

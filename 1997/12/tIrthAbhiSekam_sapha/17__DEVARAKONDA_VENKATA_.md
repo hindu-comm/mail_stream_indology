@@ -1,0 +1,74 @@
++++
+title = "17 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1997-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010051.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010051.html)
+
+At 10:15 AM 12/1/97 +0100, Dominique.Thillaud writes:
+>At 18:14 +0100 30/11/97, DEVARAKONDA VENKATA NARAYANA SARMA wrote:
+>>As far as I know abhiSEka to an idol is done with water, milk, clarified
+>>butter
+>>(ghee), honey, curds, sometimes cocoanut water etc. being poured on the
+idol.
+>>Usually a waist cloath is tied to a male idol and female idol is fully
+>>covered during abhiSEka. abhiSEka is done to ziva linga every day. The
+>>saying is
+>>`alankAra priyO viSNur abhiSEka priyO zivah'.
+>>
+>>Even rAjyAbhiSEka for kings is not done with a few drops because purANAs
+>>describe that water from the holy rivers is brought with kalazAs.
+>
+>        I thank you for this precisions but it seems that was not the
+>unique form of the abhiSEka. See MBh I, 206 where YudhiSThira is going to
+>the 'puNyAni tIrthAni' of Hardwar. It is said (v.11):
+>abhiSekAya kaunteyo gangAm avatatAra ha
+>and, immediatly after:
+>tatra abhiSekam kRtvA sa ...
+>        Is it impossible to understand from the use of ava-tR- that he goes
+>himself in the GangA's water ?
+>        And the mahezvara's declaration (MBh XIII, 18, 36) I've used for
+>the subject seems to going towards the same interpretation.
+>        I was perhaps misoriented by the English word 'bath' (in French,
+>the 'bain' suppose an immersion of the body in the water, not just a
+>superficial cleaning) but my question is:
+>        in ANCIENT Indian religion, the ritual performed at places such
+>saras or tIrtha:
+>        - can suppose complete immersion ?
+
+What one does in a tIrtha is snAna. One immerses his whole body including
+head under water. In current usage(?) this is not called abhiSEka. abhiSEka
+is usally performed by some body else to the person who is undergoing it.
+It is snapana rather than snAna. But the slokas you have quoted from MBh
+about arjuna (not ydhiSThira) have to be carefully gone into. It looks as
+though the word abhiSEka has been used for snAna. But the following slokas
+from a slightly earlier chapter clarify what I am saying. ( I am not giving
+chapter and verse because I do not have the critical edition)
+
+dhRtarASTra uvAcha
+abhiSEkasya sambhArAn kSattarAnaya mA chiram
+abhiSiktam kariSyAmi adya vai kurunandanam
+..........................................
+aSTottarasahasram tu brAhmNAdhiSTitA gajAh
+jAhnavIsalilam zIghramAnayantu purOhitaih
+abhiSEkOdakaklinnam sarvAbharaNabhUSitam
+.......................................
+dRsTvA kuntIsutam jyESThamAjamIDham yudhiSThiram
+prItAh prItEna manasA prazansantu purE janAh.
+
+
+>        - can be named abhiSeka ?
+
+See above.
+
+>        - can be used for statues of Goddesses as it happens in ancient
+>Greece ?
+
+I am not wellversed in the Greek religion. I cannot say.
+
+regards,
+sarma.
+
+
+

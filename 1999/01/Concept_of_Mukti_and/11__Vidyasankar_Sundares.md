@@ -1,0 +1,43 @@
++++
+title = "11 Vidyasankar Sundaresan"
+date = "1999-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015382.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015382.html)
+
+I'm entering this discussion rather late. Prof. Arjunwadkar raises
+important points. The question boils down to, "how is a jIvanmukta
+supposed to behave?".
+
+One answer, provided by Sankara himself, may be found in his
+bRhadAraNyaka bhAshya 1. 4. 7, where he says, "samyag-jnAna-prAptAv apy
+avaSyam bhAvinI pravRttir vAN-manaH-kAyAnAm ..... tasmAt
+tyAga-vairAgyAdi sAdhanabalAvalambena Atma-vijnAna-tat-smRti-saMtatir
+niyantavyA bhavati"
+
+Perhaps, Sankara saw himself in the above light, with some residual
+pravRtti in him. As for the traditional hagiographies, the mAdhavIya
+recognizes that even writing commentaries involves pravRtti. There is a
+story in it, regarding Hastamalaka, who rarely descended from his state
+of "Being," so that Sankara did not want to ask him to write
+sub-commentaries on his own works. So, he is said to have asked
+Suresvara and Padmapada to do this work.
+
+As for the question about a stock-broker being qualified for mukti, yes
+and no. Theoretically, every being is qualified for mukti, and from a
+higher perspective, every being is in reality already liberated.
+Alternately, there is no mukti and there are no mumukshus, as gauDapAda
+puts it. Practically speaking, one could look at the ranking that each
+man gives to the purushArthas in his life. Clearly, the Advaitin would
+rank dharma above artha and kAma, although he would rank moksha above
+dharma also.
+
+Regards,
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

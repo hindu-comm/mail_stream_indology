@@ -1,0 +1,36 @@
++++
+title = "172 Venkatraman Iyer"
+date = "1999-05-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016863.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016863.html)
+
+     Didn't F. Hardy write a paper something like:
+     "Madhavendra Puri, a link with south indian vaishnavism".
+     Is there a temple, a subshrine that is old enough
+     to Alvars, Andal, etal.,? Sure, Dr. V. Narayanan
+     would know.
+
+
+In a message dated 5/6/99 6:22:29 PM Central Daylight Time,
+vishalagarwal at HOTMAIL.COM writes:
+
+<< As is the case with most North Indians, we do not have any
+  strong sectarian affiliations (except the Arya Samajists) and are quite
+  catholic in our religious practices.>>
+
+I would like to know if you or members of your devotional community
+trace any spiritual lineage to somebody like Ramanuja. If so, who are
+the links in this chain? Since you mentioned AzvArs in one of your
+earlier postings, among the Agarwals  how widespread is the knowledge about
+AzvArs?
+
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

@@ -1,0 +1,36 @@
++++
+title = "379 Sreenivas Paruchuri"
+date = "1998-06-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012966.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012966.html)
+
+                [Posting on behalf of an acquaintance]
+
+---------------------------------------
+Could you pl. provide any information on Bhuleswar temple near Pune,
+where I could see, for the first time, Goddess Vinayaki - the female Ganesha,
+and also female Shiva (not ardhanariswara!), female Garuda, female Vishnu ...
+I find it fascinating. Are there any scholarly studies on this interesting
+temple?
+
+Meanwhile I could find 3 monographs on _Vinayaki_, and references to her
+in matsya & skanda purana-s. What about others?
+
+Thanks!
+
+mfG,
+R.Braun
+
+---------------------------------------
+
+Regards,
+Sreenivas
+
+--
+E-Mail: sreeni at ktp.uni-paderborn.de
+  sparuchuri at hotmail.com (in case of delivery problems at above address)
+
+
+

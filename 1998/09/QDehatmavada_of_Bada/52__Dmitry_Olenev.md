@@ -1,0 +1,30 @@
++++
+title = "52 Dmitry Olenev"
+date = "1998-09-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-September/013500.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-September/013500.html)
+
+   Dear colleagues,
+
+   more than 10 years ago Badarinath Sukla, a great naiyayika,
+propounded his theory of dehatmavada at the conference of scholars
+held at Sarnath. The text of report has been translated into English
+and published in Journal of Indian Council of Philosophical Research,
+Vol.5, No3, 1988. (Unfortunately, I don't remember the title, so I
+cannot mention it). In this connection I'd like to know whether the
+original text of the report (in sanskrit) has ever been published or
+not. Besides, I'm sure this original theory could not but cause lively
+controversy, so I'd like also to know of articles discussing
+dehatmavada.
+   Could you help me find relevant references? I'll be very grateful
+for any useful information.
+
+   Dmitry Olenev
+_________________________________________________________
+DO YOU YAHOO!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

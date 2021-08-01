@@ -1,0 +1,44 @@
++++
+title = "320 Periannan Chandrasekaran"
+date = "1999-05-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017004.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017004.html)
+
+See:
+http://www.rediff.com/news/1999/may/18us.htm
+Related to the above:
+'Is putting silicon in one's breasts better than  (studying) the Gita?'
+http://www.rediff.com/news/1999/may/12us.htm
+
+Excerpts:
+
+The editors of a conservative newspaper at the elite Duke
+University have alleged that that they were physically threatened for
+their
+ objection to make the study of Hindi a major at the liberal school.
+But South Asian students said their allegation is a continuing effort
+by cultural
+conservatives to oppose multicultural studies at major American
+universities.
+
+One Indian student, who accused the conservatives of Nazi-like
+propaganda,
+feared that even if Hindi were made a major, the area of South Asian
+not going to gain.
+
+"Simply adding the option to major in Hindi, without permanently
+improving
+course offerings and faculty scholarship in Hindi, Sanskrit and
+Hinduism, will
+do nothing for the University except give it an artificial means of
+distinguishing
+itself from peer institutions," he said.
+
+_____________________________________________________________
+Do You Yahoo!?
+Free instant messaging and more at http://messenger.yahoo.com
+
+
+

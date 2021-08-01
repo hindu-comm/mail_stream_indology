@@ -1,0 +1,4 @@
++++
+title = "heliocentrism--predating Coper"
+
++++

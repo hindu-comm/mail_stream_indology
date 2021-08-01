@@ -1,0 +1,40 @@
++++
+title = "230 Allen W Thrasher"
+date = "1999-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019089.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019089.html)
+
+It is:
+
+A.Griffiths at stu.let.leidenuniv.nl
+
+Allen Thrasher
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+LJ-150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+U.S.A.
+tel. 202-707-3732
+fax 202-707-1724
+email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+>>> Christian Lee Novetzke <cln4 at COLUMBIA.EDU> 11/16 8:01 AM >>>
+Can someone pass on Arlo Griffiths' email address?
+
+Thanks.
+
+Christian Novetzke
+Columbia University
+
+
+

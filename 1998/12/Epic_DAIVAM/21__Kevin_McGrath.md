@@ -1,0 +1,32 @@
++++
+title = "21 Kevin McGrath"
+date = "1998-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014340.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014340.html)
+
+Dear List Members,
+
+Does anyone have a good translation for epic 'daivam'?
+
+'Fate' or 'destiny' seem to be terms which have very little relation to
+pre-classical kshatriya culture.
+
+I am aware of Shulman's article in the Heesterman Festschrift, but that is
+not conclusive.
+
+Devaat Aagatam does not really help us too much in explaining what is
+action for an epic kshatriya.
+
+Thanks,
+
+
+                                Kevin McGrath.
+
+
+Sanskrit Dept.
+Harvard College.
+
+
+

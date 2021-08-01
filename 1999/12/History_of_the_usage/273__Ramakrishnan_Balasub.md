@@ -1,0 +1,58 @@
++++
+title = "273 Ramakrishnan Balasubramanian"
+date = "1999-12-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019571.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019571.html)
+
+Sudalaimuthu Palaniappan <Palaniappa at AOL.COM> wrote:
+
+> When, if ever, did mImAMsa and vedAnta come to refer to two mutually
+> exclusive entities? When is the earliest use of the term mAyAvAda?
+Was
+> zankara's philosophy known by any name which was not pre-zankaran?
+
+It is a much speculated topic when the two terms came to mean
+something exclusive. There is quite some speculation that sha.nkara
+might have been the one to start it. However, there's not much proof.
+Actually, there's some evidence against it. There was an ancient
+teacher called upavarsha, who sha.nkara calls in his bhAshhya to
+brahmasUtra 3.3.53 as "Lord upavarsha", (bhagavAn upavarsha). This
+person is even older than shabarasvAmin who also respectfully quotes
+his views in his shabarabhAshhya (again as "Lord upavarsha").
+
+This shabara seems to have written a commentary, as per sha.nkaras and
+shabaras bhAshhyas, on both the pUrva, i.e., jaiminis sUtra-s
+(mImA.nsA) and uttara (vedAnta) sUtra-s. However, since shabarasvAmin
+wrote a commentary only on the sUtras of jaimini, I think we can say
+with some confidence that the mImA.nsA and the vedAnta were separated
+by the time of shabara if not the time of upavarsha itself. shabara is
+placed circa 500, if I remember right. Regarding the dates of these
+folks and the history of the word mImA.nsA itself, please consult Jean
+Marie Verpootens monograph, "Mimamsa Literature" in the Weisbaden
+series on the history of Indian literature.
+
+The earliest recorded usage of mAyAvAda seems to be by bhaTTa
+bhAskara, a bhedAbhedavAdin, who is considered a junior contemporary
+of sha.nkara. Some details can be found in "The philosophy of
+Bhedabheda," by Srinivasachari, Adyar Library. The Buddhist writer
+bhavya uses the term vedAntavAdinaH in his madhyamakahR^idaya and the
+philosophy he describes is advaita, with the standard pot-ether
+analogy found in the gauDapAdakArikas and also seems to be quoting
+gauDapAda. See "The Vedanta Philosophy described by Bhavya in his
+Madhyamakahrdaya," V.V.Gokhale, pp.165-180, IIJ-2, 1958. bhavaya is
+placed in the 500s.
+
+The later writer shAntaraxita (placed slightly before sha.nkara) calls
+it the advaita school. See the Tattvasangraha of Shantaraxita,
+translated by Ganganatha Jha, Vol 1, Motilal 1986. From the Buddhist
+evidence, it seems that the advaita school alone was prominent enough
+among the vedantic schools to be taken up for refutation. After
+bhaTTa-bhAskara, some Buddhist writers refuted bhedAbheda in the 11th
+century. Details can be obtained from the book by Nakamura.
+
+Rama
+
+
+

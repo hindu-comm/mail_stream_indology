@@ -1,0 +1,31 @@
++++
+title = "512 André Signoret"
+date = "2000-10-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023447.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023447.html)
+
+Bonjour,
+
+In order to fill out my French-Sanskrit Dictionary I am looking for words
+like FIREMAN (pompier), POSTMAN (facteur), etc.
+I don't even know if such words existed in the past ! What about the
+sanskritization of existing Hindi words ?
+This is my first intrusion into INDOLOGY which I consider to be a very
+useful means of improving my knowledge of special vocabulary.
+I consulted all on-line dictionaries and did not find these current words.
+The same for CHERRY (cerise) and many others.
+
+Many thanks in advance.
+
+André Signoret
+Les Romarins
+84460 CHEVAL-BLANC
+Tél. +33(0)490710910
+Portable 0609450202
+E-mail : sanskrit at club-internet.fr
+Site Web : http://asignoret.free.fr/index.html
+
+
+

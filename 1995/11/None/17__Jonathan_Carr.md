@@ -1,0 +1,23 @@
++++
+title = "17 Jonathan Carr"
+date = "1995-11-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003500.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003500.html)
+
+   I am trying to locate MELFORD E. SPIRO who carried out field research
+in Burma in 1961. He is the author of at least two books on Buddhism
+       1. Buddhism & Society 1970
+       2. Burmese Supernaturalism 1978 Philadelphia, Inst for Buddhism
+                                                     and Society
+              If you know his whereabouts and can put me in touch
+              I would be very grateful to hear from you.
+
+
+                                               Jonathan Carr
+
+
+
+
+

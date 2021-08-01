@@ -1,0 +1,36 @@
++++
+title = "434 Keisuke NAGATA"
+date = "1999-06-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017816.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017816.html)
+
+Dear list members.
+
+
+I'm Keisuke Nagata, graduate student of Kyoto University.
+
+I have an interest in king's chronology of ancient/medieval
+India.(ex. RaajataraGgiNii, vaMzaavaliis)
+
+I'm now studying vaMzaavalii, and inscriptions of Chambaa
+state,  collected by J.Ph.Vogel. But I'm suffring from
+insufficiency of informations about this field.
+
+Would you tell me about some instractive advice, or
+specialist about this matter ?
+
+I'll welcome any information about (Chambaa)vaMzaavaliis.
+
+
+Sincerely yours.
+------------------------------------
+Keisuke NAGATA (DC 2)
+Dept.of History of Indian Philosophy
+Graduate School of Letters
+Kyoto University
+e-mail: knagata at bun.kyoto-u.ac.jp
+
+
+

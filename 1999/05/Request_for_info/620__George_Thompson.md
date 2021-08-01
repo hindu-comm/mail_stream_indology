@@ -1,0 +1,28 @@
++++
+title = "620 George Thompson"
+date = "1999-05-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017332.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017332.html)
+
+Dear Indology List Members,
+
+As a sincere student of Old Indo-Iranian literature, I am seeking an e-mail
+list devoted to the dispassionate scholarly [that is, philological] study
+of Old Indo-Iranian texts like the Vedic Rgveda and the Avestan Gathas.
+
+I know that this sort of thing is not appropriate on your list, devoted as
+it is to partisan personal attacks, but since it is *fairly close* to your
+stated interests, I thought that some of you might be aware of *other*
+lists where people like myself might find informed discussion of relevant
+matters.
+
+I'd be grateful for any and all recommendations,
+
+Sincerely,
+
+George Thompson
+
+
+

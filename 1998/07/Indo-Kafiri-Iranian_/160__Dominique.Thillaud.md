@@ -1,0 +1,49 @@
++++
+title = "160 Dominique.Thillaud"
+date = "1998-07-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013155.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013155.html)
+
+Dear Caroline,
+        Bernard Sergent, in his new book "Gene`se de l'Inde", Paris 1997
+(Payot), give a  full analysis of your problem.
+        Regards,
+Dominique
+
+>Sorry maybe I should clarify my question:
+>
+>When did the Dardic languages diverge from the Indian or Prakit
+>languages,  if we accept a provisional date for the rise of
+>Prakit/Indian languages in the mid-second millennium B.C when they
+>apparently existed as spoken idioms alongside Vedic Sanskrit ?
+>
+>Is there a chronological framework for the divergence of
+>Nuristani/Kafiri languages from the Proto-Indo-Iranian family ?
+>
+>Is there any substantial evidence for whether Nuristani predates the
+>arrival of Dardic languages in the subcontinent ?
+>
+>As an archaeologist,  I am finding the literature contradictory,  and
+>there seems to be little interest in the question of when the
+>Nuristani/Kafiri languages spread to the sub-continent and there
+>spatial relationship to Dardic and Iranian languages.
+>
+>Caroline Fritsch.
+>School of Fine Arts,  Classics and Archaeology.
+>University of Melbourne.
+>Parkville VIC 3052
+>Australia
+>
+>
+>_________________________________________________________
+>DO YOU YAHOO!?
+>Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+

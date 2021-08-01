@@ -1,0 +1,38 @@
++++
+title = "216 Vidyasankar Sundaresan"
+date = "1998-10-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013810.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013810.html)
+
+>Is this a common theme that temples of a particular Deity represent the
+>abode of the particular Deity, or different parts of the cosmology
+
+Yes. The Srirangam Ranganatha temple is said to represent Vishnu's abode
+in Vaikuntha, and the Puri Jagannatha temple is Krishna's palace. Devi
+temples are also built in the form of the SrIyantra, sometimes also
+called SrIpura.
+
+>correspond to structures within a temple?  Are there papers or
+>books on this subject?  Or do you know people who have studied it?
+
+Do not forget the people who populate the abode of the deity. The king
+or queen does not rule over an empty court. And no Hindu cosmology is
+complete without including man. For studies of the priests, the most
+important courtiers, and other temple servants, read Arjun Appadurai
+(Triplicane Parthasarathi temple), Carol Breckenridge and Chris Fuller
+(both on the Madurai Minakshi temple).
+
+As an aside, being a Tamilian, I'm happy that most of these studies are
+on Tamil Nadu temples. However, I can't help wonder if a larger
+perspective is lost, by not studying temples from other parts of south
+and north India.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

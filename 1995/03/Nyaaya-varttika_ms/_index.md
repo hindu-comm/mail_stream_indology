@@ -1,0 +1,4 @@
++++
+title = "Nyaaya-varttika ms"
+
++++

@@ -1,0 +1,41 @@
++++
+title = "444 Timothy C. Cahill"
+date = "2000-03-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020685.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020685.html)
+
+Disputants!
+
+   I came across a nice line attributed to a Naiyaayika by the
+Vaiyaakaranas:
+
+"asmaakuunaaM naiyaayikezaam arthani taatparyam zabdani kozcintaa!"
+
+(It seems to lose something in transliteration...)
+This reminded me just a bit of the ongoing debates on the list between
+scientists and Indologist/philologists. The following 'exchange' is also
+supplied as a parody of a fruitless debate between the same two:
+
+Vaiy: "Naiyaayikaah pazavah!"
+
+Naiy: "VaiyaakaraNaas tRNavah!"
+
+Vaiy: "tRNava iti katham?!"
+
+Naiy: "pazava iti yatham!!"
+
+Vaiy: "azuddham iva vakSyase."
+
+Naiy: "mahe raNaaya cakSase."
+
+The latter was declared the winner, which just goes to show what can
+happen if you shout a Vedic mantra loud enough --and at just the right
+moment.
+
+sham,
+Tim Cahill
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "100 Girish Beeharry"
+date = "1998-09-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-September/013547.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-September/013547.html)
+
+Hi,
+
+As you may know the navaraatrii (religious ceremonies for
+goddess durgaa) has started with the new moon. I have been
+looking at some of the available texts for the durgaasaptashaTii
+(or chaNDii) and I am bewildered by the variants in the shlokas.
+As example, I have seen three different 'versions' of both the
+argalaastotra and the kiilakamantra! I haven't looked at the
+kavacha or the text proper in any detail yet. Metrically, the
+differing shlokas seem ok.
+
+My rather naive questions are: Is this 'normal'? Has anyone who
+has worked with the mss seen many variants? Is there any
+critical edition of the text?
+
+Many thanks beforehand for your help.
+
+Bye,
+
+Girish Kumar Beeharry
+
+
+

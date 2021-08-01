@@ -1,0 +1,43 @@
++++
+title = "226 Dominik Wujastyk"
+date = "1999-10-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018838.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018838.html)
+
+On Wed, 27 Oct 1999, george9252 wrote:
+
+> Well, doesn't it show that the Hindu ("Arabic") numeral system is, at least
+> in this respect, much more efficient (and more clear) than the Roman and the
+> Egyptian systems?
+
+Aargh.  That is a real old chestnut.  It all depends on what you are used
+to, and what you are doing.
+
+        I + II = III
+or
+        CXI + IX = CXX
+
+are certainly simpler than
+
+        1 + 2 = 3
+or
+        111 + 9 = 120
+
+There are other operations which make me blench in Roman, which I am very
+used to doing in Hindu-Arabic.  But the main point is that all these
+systems are and were embedded in educational systems which interpreted
+them and made them usable.  Their "ease" "efficiency" etc. can only be
+judged (if at all) by examining the ... [drum roll] social context of
+their use.
+
+Best,
+Dominik
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "152 Erik Hoogcarspel"
+date = "1999-05-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016849.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016849.html)
+
+Hi nanda
+
+Op donderdag, 06-mei-99 schreef nanda chandran:
+
+nc| Does anybody have information on the quality of the translations of ShAnti
+nc| Deva's BodhicAryavatAra?
+
+sorry I just misread your request
+--
+erik
+
+
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+  Erik Hoogcarspel           <    jehms at kabelfoon.nl   ><       Boerhaaveln 99b     >
+                             <    tl+31.(0)104157097    ><       3112 LE Schiedam    >
+                             <    fx+31.(0)842113137    ><       Holland             >
+ *===================================================================================*
+
+
+

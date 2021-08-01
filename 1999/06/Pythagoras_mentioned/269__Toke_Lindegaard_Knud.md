@@ -1,0 +1,31 @@
++++
+title = "269 Toke Lindegaard Knudsen"
+date = "1999-06-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017625.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017625.html)
+
+Dear all,
+
+I have followed with great interest the recent discussion on different
+flood stories in the ancient world.  In connection with the
+mentioning of Noah in the Bhavisys Purana I got to think of
+something.  Some time ago I read one book (which I since lost)
+entitled "Om Shalom."  The book was a dialogue between a person
+from the Hare Krishna movement and a Jewish rabbi.  Anyway, in
+the book there is related a story of how Pythagoras, the Greek
+philosopher and mathematician, went to India and met 12 brahmins
+who spoke to him in Greek.  Pythagoras got the name
+"Yavanacarya," teacher of the Yavanas.  I found this interesting but
+have never read anything else about this since.  Does anyone know
+about this?  Can anyone give me some references?  Is Pythagoras
+mentioned in the Vedas or Puranas?
+
+Thank you very much.
+
+Sincerely,
+Toke Lindegaard Knudsen
+
+
+

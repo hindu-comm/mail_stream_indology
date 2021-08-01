@@ -1,0 +1,59 @@
++++
+title = "310 GANESANS at cl.uh.edu"
+date = "1997-03-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007432.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007432.html)
+
+
+
+
+3/27/97
+
+Hi Friends,
+
+I have a tamil poem by Kirubananda Variyar in the identical tune of 
+"Jana Gana Mana Adhinaayaka ...", India's national anthem.
+Variyar praises Murugan of six paDai veeDu temples in that song.
+Of course. who else will he sing?
+
+In the high school days, I have heard a spoof on our national anthem.
+It has words like " ... iDli, vaDai, saambaar ..." in the tune of 
+"Jana gana mana ...". A gentle mocking imitation.
+
+If anyone remembers, please mail it to me.
+
+Thanks,
+N. Ganesan
+nas_ng at lms420.jsc.nasa.gov
+
+
+***********************************************************************
+
+This morning, I translated a classic haiku.
+
+A child is crying,
+asking, "Get it down for me!"
+- the full moon hanging.
+                          Issa, (1763-1823), Edo period poet of Japan
+
+
+azhutha kuzhanthai vizhainthathu - "vaanil
+ezhuthingaL thaa, thanakku" enRu.
+
+                     kuRal by N. Ganesan
+
+nilaac cORu uuTTal, ambuliyai viLaiyaaDa azhaiththal - 
+nam marabukaL allavO?!
+
+
+**********************************************************************
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
++++
+title = "503 Bijoy Misra"
+date = "2000-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023432.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023432.html)
+
+One of the analytic critical comments I have
+seen in this forum.  Good food for discusion
+and insight.  congratulations..
+
+BM
+
+
+On Thu, 26 Oct 2000, Bob Peck wrote:
+
+> C.R.Selvakumar evidences a more fundamental problem in understanding other
+> cultures or times in stating that Tamil writings only include the brain as
+> the center of being.
+> This countering statement to mine of separate centers may be based upon
+> differences in experiencing the identity of the �self� with the brain. In
+> the States the separation of mind and brain was rejected by many who
+> insisted that the mind and brain were one and the same. The discovery of
+> memory and action centers in other organs has diminished this school of
+> thought however, as well as the failure of the computer to replace many
+> mental functions. Modern psychology likewise generally ignores the mind
+> aspect of thought and has generally thrown out the concept of the earlier
+> accepted term of conation that was similar to many Indian views of thought.
+> As I read original religious documents, one common theme seems to be to
+> teach the methods for finding the separation of mind and brain. In the
+> States, many individuals are introduced to what is called �yoga and
+> meditation� wherein many classes introduce the idea of tat tvam asi.
+> Supposedly the practices offered by the class will assist the student in
+> �feeling� the truth of the expression.
+> It is interesting to observe that many original Christian writings seem also
+> to point to the separation of mind and brain although the majority of modern
+> Christian churches seem to stress only the brain.
+> Perhaps my concern can be stated as two questions. How can a culture be
+> understood with a bias based upon a different conditioned religious or
+> experiential relationship of the self and world. How can Indology be truly
+> objective without religious or spiritual (and scientific) considerations?
+> Another concern of mine is the seemingly difference in the inner vital
+> forces of early writings and modern interpretation.
+> 
+> Regards
+> Bob Peck
+> 
+
+
+

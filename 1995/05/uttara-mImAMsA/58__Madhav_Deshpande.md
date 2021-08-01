@@ -1,0 +1,48 @@
++++
+title = "58 Madhav Deshpande"
+date = "1995-05-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002439.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002439.html)
+
+The terms 'puurva' and 'uttara' Miimaamsaa should also be compared with 
+the terms Hiinayaana and Mahaayaana.  Indeed, those who used the term 
+'puurva' miimaamsaa to refer to the 'other' system wanted to imply that 
+theirs was the 'uttara' or higher system.  No texts referred to 
+themselves as belonging to Hiinayaana or Shraavakayaana.  This is 
+probably also true of 'puurva' Miimaamsaa.  
+	Perhaps someone could elaborate on the earliest use of these terms.
+		Madhav Deshpande
+
+On Thu, 11 May 1995, Lance Nelson wrote:
+
+> A question for those familiar with the literature of advaita vedAnta: Do 
+> any of the classical advaitins refer to what they are doing, or to 
+> themselves as a school of thought, as uttara-mImAMsA?  It is often 
+> pointed out that the pUrva- and uttara-mImAMsAs are sister sytems, and 
+> were perhaps originally a single system.  But I don't recall coming 
+> across the term uttara-mImAMsA in any of the readings in advaita I've 
+> done.  Has anyone?  How about the vedAntasUtras, a.k.a. brahmasUtras?  Has 
+> anyone seen them being referred to as the uttaramImAMsAsUtras?
+> 
+> I know the term zArIraka-mImAMsA, but that is something else.
+> 
+> Thanks for your thoughts,
+> 
+> LN
+> ---------------------------
+> Lance Nelson
+> Religious Studies 
+> University of San Diego
+> lnelson at pwa.acusd.edu
+> ---------------------------
+> 
+> 
+>  
+> 
+
+
+
+
+

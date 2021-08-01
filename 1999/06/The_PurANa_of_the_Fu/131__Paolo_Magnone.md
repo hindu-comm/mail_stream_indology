@@ -1,0 +1,60 @@
++++
+title = "131 Paolo Magnone"
+date = "1999-06-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017495.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017495.html)
+
+In reply to Michael Rabe's message of 5 Jun 99, 17:14:
+
+> Thanks to Paolo Magnone, BTW,  for the rich number of citations from his
+> forthcoming article: especially to the
+>
+> >.... well known BhaviSya PuraaNa
+> >passage referring to the Nyuuha (i. e., Noah) myth!
+>
+> Is it also the case that that purana of the future _foretells_ the reign
+> of queen Victoria? Chapter and verse citations would be appreciated for
+> both passages.
+
+The Noah myth is found in BhSP III, 1, 4, 45 ff. NyUha's name is
+even provided with an etymology:
+
+nirgatastUha (?) eva saH / tasmAd nyUhaH smRtaH
+
+He has three sons: SIma, Zama and BhAva and is a fervent
+ViSNubhakta. ViSNu appears in a dream announcing the
+forthcoming pralaya in seven days and directing him to escape with
+his kin. NyUha builds a ship (measuring as in the Genesis) and
+boards it, while the SaMvartaka clouds pour water for 40 days
+submerging the whole of BhAratavarSa. The survivors praise the
+goddess, ViSNu's mAyA, the waters subside, and in the distance
+(ArAt !) are seen the Himalayan slopes called ZiSiNA where the
+ship finally lands.
+
+As for queen Victoria, the passage in question must be BhSP III, 4,
+22, 72 ff., which is, however, quite unclear. It is about the monkey-
+faced (!) GuruNDas, the progeny of VikaTa (an ape ally of RAma),
+come for the purpose of trade, followers of the BauddhamArga and
+adherents of the creed of Izaputra (i. e. Jesus). Entrusted by Hari
+with the charge of the people, they settled in KalikAtA.VikaTAvatI,
+the queen (tatpanI = tat-patnI ?) of the western island of VikaTa,
+set up a royal counsel by way of the 8 Kauzala, and its king
+(tatpati) PulomArci went to KalikAtA...
+
+Any historians on the list who can offer a detailed explanation of
+the references?
+
+
+
+
+----------------------------
+Paolo Magnone
+Catholic University of Milan
+pmagnone at mi.unicatt.it
+Jambudvipa - Indology and Sanskrit Studies
+http://www.agora.stm.it/P.Magnone/jambu.htm
+
+
+

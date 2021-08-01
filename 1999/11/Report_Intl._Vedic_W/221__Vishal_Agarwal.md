@@ -1,0 +1,43 @@
++++
+title = "221 Vishal Agarwal"
+date = "1999-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019086.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019086.html)
+
+Respected Dr. Witzel
+
+Thank you for this important information. A few quick Q's
+
+From: Michael Witzel <witzel at FAS.HARVARD.EDU>
+"other texts of the Paipp. tradition (Paddhatis of the
+Paithinasi GS and the Angirasakalpa also have been filmed for editorial
+work)."
+
+VA: Paithinasi GS or Dharmasutra? Are these the same Paddhatis which
+Durgamohan Bhattacharya mentioned ("Fundamental themes of the Atharvaveda")?
+Will the complete oral recordings of Paippalada Samhita be used for
+preparing the critical edition? Any manuscipts of the Agastya Kalpa
+(mentioned as the Kalpa of Paippaladins in 'Prapancahridaya')? Paippalada
+Brahamana? Any new manuscripts of the Parisishatas?
+
+___________________
+MW: "followed up her earlier studies on the concept of the Brahmacarin by an
+investigation of Paipp. Samh. 20 and Taittiriya Upanisad"
+"from the Paippalada Atharvaveda to the complete giving up
+of wealth  of the  Katha Upanisad."
+
+VA: Any new light on the supposedly Atharvanic origins of the TU and KU?
+(Eg. "Sumantu and Kashyapa are the seers of the Brahmana and the Aranyaka":
+Carayaniya Mantrashadhyaya)
+
+Thank you in advance for the replies
+
+Vishal
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

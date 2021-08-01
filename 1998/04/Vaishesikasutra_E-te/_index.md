@@ -1,0 +1,4 @@
++++
+title = "Vaishesikasutra E-text"
+
++++

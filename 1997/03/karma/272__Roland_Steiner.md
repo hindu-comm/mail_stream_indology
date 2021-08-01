@@ -1,0 +1,30 @@
++++
+title = "272 Roland Steiner"
+date = "1997-03-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007418.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007418.html)
+
+Dear Mr March,
+I don't think that this article is available on the internet. The "Berliner 
+Indologische Studien" is an indological journal edited by the "Institut f!r 
+indische Philologie und Kunstgeschichte der freien Universit!t Berlin". You 
+may send your order to the publisher:
+Dr. Inge Wezler, Verlag fuer Orientalistische Fachpublikationen, Bernhard-
+Ihnen-Str. 18, D-21465 Reinbeck, Germany (Tel.: +40-7226731; Fax: +40-
+7229320).
+
+The address of Priv.-Doz. Dr. Klaus Butzenberger runs:
+Institut fuer Indische Philologie und Kunstgeschichte
+Freie Universitaet Berlin
+Koenigin-Luise-Str. 34a
+D-14195 Berlin
+Germany
+
+All the best,
+Roland Steiner.
+
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "70 John Gardner"
+date = "1996-05-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/004893.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/004893.html)
+
+
+Dear Members,
+
+I am hoping not to breach netiquette with this follow-up.  If so, please 
+forgive my persistence.  I am still hoping, however, to learn from any of 
+you who have worked with the Nirukta about resources dealing with 
+yaaska's choice of shruti examples, and the overall place Nirukta holds 
+in later commentatorial traditions.  The information in response to 
+kaarikaa has been most enlightening considering I had not even initiated 
+the request.  I imagine, in turn, others may find information re. Nirukta 
+of interest as well.
+
+Again, in advance, my thanks,
+
+John Robert Gardner
+University of Iowa
+
+
+
+
+

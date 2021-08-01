@@ -1,0 +1,46 @@
++++
+title = "72 Lars Martin Fosse"
+date = "1998-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011181.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011181.html)
+
+George Thompson wrote:
+
+>To return to Lars Martin's Norwegian examples: are the retroflexed forms
+>/ka.t/ and /ma:.t/ found to be in competetion with variants /kart/ and
+>/malt/? And if so is one form considered standard over against the other?
+
+As I said, retroflexion is an East Norwegian/West Swedish phenomenon
+(disagreeing Swedes out there, please protest!) ma:.t (= standard ma:lt,
+"painted") is decidedly dialect/sociolect (rural or lower class). The
+opposition kat (cat) : ka.t (map) (written katt/kart) is heard in standard
+East Norwegian and is, as far as I can see, part of educated speech. It is
+my impression that extended use of retroflexion is part of rural or lower
+class speech. But I am not the best of informers here. I am a South
+Norwegian, and my own dialect has no retroflexion. Incidentally, Norwegian
+makes a difference between aspirated and unaspirated stops: kh/k, ph/p,
+th/t. These sounds, however, are true allophones. The aspirated stop is used
+in syllables with stress, the unaspirated in unstressed syllables. This
+creates a lot of trouble for us when we try to learn French!
+
+Historically, the retroflexes come from the combination of r/l + t,d.
+
+
+Best regards,
+
+Lars Martin
+
+
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+Mobile phone: 90 91 91 45
+
+
+

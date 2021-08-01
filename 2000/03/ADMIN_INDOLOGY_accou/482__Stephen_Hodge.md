@@ -1,0 +1,28 @@
++++
+title = "482 Stephen Hodge"
+date = "2000-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020740.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020740.html)
+
+Dear Dominik,
+
+> I've finally got fed up with the insulting tone of some posters on
+this
+> list.  From now on, I shall summarily unsubscribe any member who
+> in my judgement -- insults or slights another member of the list.
+
+And not too soon, in my opinion.  I had begun to wonder if you had be
+away on holiday and were unaware of the barrage of vituperative msgs.
+I subscribe to a number of Buddhist acdemic lists but have not
+encountered anything like the recent spate of unpleasantness on  the
+Indology list.  I would have unsubscribed but for the members who
+provide information and discussion that is useful and presented in a
+friendly and courteous manner.
+
+Best wishes,
+Stephen Hodge
+
+
+

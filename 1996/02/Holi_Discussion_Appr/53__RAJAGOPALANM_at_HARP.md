@@ -1,0 +1,27 @@
++++
+title = "53 RAJAGOPALANM at HARPO.TNSTATE.EDU"
+date = "1996-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004084.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004084.html)
+
+Dear Gardner ,
+No matter how you cut it an apple is an apple and a thorn is a thorn .
+in the past many racists have used a bad word to describe a non- white 
+culture and when strong opposition was presented by facts they either
+withdrew without honestly accepting their bad actions or tried to
+justify by devious means by connecting to subjects , scientific but
+which unfortunately do not connect with the word used in the context
+of describing a society . For example would you describe your community as the sladering word R - c - s -t  by stating that in sports the word race is
+a very good and acceptable term ? it is not honest scientific approach 
+to keep on insisting to use a word that dewscribes a society wrongly
+saying that that wordhas a different connotation in different areas .
+	words which give a wrong connotation to the readers and which have
+demeaning implications should not be used by scientists in describing
+a society unless that demeaning nature of the society is firmly
+established first . M.Rajagopalan.
+
+
+
+

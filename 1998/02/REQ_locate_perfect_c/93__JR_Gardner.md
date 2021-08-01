@@ -1,0 +1,39 @@
++++
+title = "93 JR Gardner"
+date = "1998-02-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010710.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010710.html)
+
+I think UIOWA's copy had the same problem.  I'll double check.
+If any listmember has a good copy, can you let both of us know?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Robert Gardner      Obermann Center
+School of Religion         for Advanced Studies
+University of Iowa       University of Iowa
+319-335-2164             319-335-4034
+http://vedavid.org       http://www.uiowa.edu/~obermann/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+It is ludicrous to consider language as anything other
+than that of which it is the transformation.
+
+On Thu, 5 Feb 1998, Vidhyanath Rao wrote:
+
+> I am currently reading ``The nominal sentence in Sanskrit and Middle
+> Indo-Aryan'' by A.~Breunis, published by E. J. Brill [ISBN: 90-04-09123-8].
+> The copy at the Ohio State University Libraries has blank pages where the
+> following pages should appear: 153, 156, 157, 160, 161, 164, 165, 168. If
+> your library has a copy without this defect, I will appreciate knowing
+> about it so that I can try to get copies of these pages. Or, better yet,
+> if anyone knows an e-mail addr of the author.
+>
+> Thanks in advance
+>
+> Regards
+> Nath
+>
+
+
+

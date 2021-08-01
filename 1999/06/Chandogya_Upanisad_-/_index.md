@@ -1,0 +1,4 @@
++++
+title = "Chandogya Upanisad -- mathemat"
+
++++

@@ -1,0 +1,33 @@
++++
+title = "98 Frank Conlon"
+date = "1996-07-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-July/005479.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-July/005479.html)
+
+
+With reference to Howard Resnik's query:
+
+According to our on-line books in print, the following seems to be the
+situation on Sharpe's _Universal Gita_:
+
+
+Author:       Sharpe, Eric J.
+Title:        The Universal Gita
+Publisher:    Open Court Publishing Company
+Year:         1985
+Pages:        188p.
+ISBN/Price:   0-8126-9001-X Trade Cloth $38.95
+              0-8126-9129-6 Trade Paper $17.95
+
+There is no annotation indicating that it is out of print.
+
+Frank Conlon
+University of Washington
+Co-editor of H-ASIA
+
+
+
+
+

@@ -1,0 +1,34 @@
++++
+title = "33 cfynn at sahaja.demon.co.uk"
+date = "1995-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/001900.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/001900.html)
+
+The Tibetan "so.ma ra.tsa"  or  "so.ma r'a.dz'a" 
+(soma raajaa) is the word commonly used there 
+for Indian hemp. 
+
+bod rgya tshig mdzod chen mo (pg 2956) has:
+
+SO.MA R'A.DZ'A
+(legs) zla ba'i rdul te shing sman gyi rigs
+shig /  ro tsha zhing kha/ zhu rjes snyoms/
+nus pas srin nad dang/  pags nad/ chu ser
+gyi nad bcas sel /
+
+[Syn]
+ming gi rnam grang la 'dab bzang dang/ 
+b'a gu dz'i/  'bras nag po/  mdze 'joms/
+zla ba'i lchug ma/ zla ba'i ri mo/
+zla tshe kyi rdul/ lug nag  
+su ri pha l'i/ so ma blli ka bcas so/  
+
+-- 
+Christopher J Fynn <cfynn at sahaja.demon.co.uk>
+
+
+
+
+

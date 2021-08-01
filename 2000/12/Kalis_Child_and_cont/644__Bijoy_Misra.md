@@ -1,0 +1,36 @@
++++
+title = "644 Bijoy Misra"
+date = "2000-12-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024798.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024798.html)
+
+Friends,
+I happened meet Swami Tyagananda here in Boston today and
+he was kind enough to give me a copy of his rebuttal to
+"Kali's Child" of Jeffrey Kripal.  I spent this afternoon
+going through Swami's notes and the paper he presented at AAR.
+
+I have not read "Kali's child".  What appears to me
+it's a product of ignorance and immature knowledge in
+Sanskrit and Bengali.  It's not clear if the book is written
+with a bias or ran out of hand.
+
+Have people read this book?  Do you have an opinion?
+Is it an example of Rajaram on the other side?
+The greater scare is how many such books are in the making
+with cursory knowledge and borrowed translations?
+
+Let 2000 end with these thoughts and let's aim for
+cultural research without bias in the coming century!
+
+I will like to hear if anyone has read the book and
+has an opinion.
+
+Best regards,
+
+Bijoy Misra
+
+
+

@@ -1,0 +1,43 @@
++++
+title = "188 Jakub Cejka"
+date = "1996-08-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005702.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005702.html)
+
+> It would be very valuable to have a consolidated scheme of typing for all Indian
+> languages.   As well as the problem of consonants, there is also the question of
+> how to type the short vowels e, o of Dravidian languages where the long vowels
+> are the ones in Sanskrit (also Malayalam half short-u).   What about using  e",
+> o", (and u") for these short vowels (or will some computers have problems)?
+> 
+> Regards,  Tony Stone
+> 	
+Yes, I would be very happy to have such scheme, particularly if it is 
+accepted by most of the list members. That would make this never ending 
+discussion much more fruitful.
+
+In that context I'd like to ask Lars Martin Fosse and other users of the 
+Tubingen Zurich formate (TZ) for Sanskrit (which I really prefer to the 
+other ones proposed here):   Has there been any attempt to type Dravidian 
+languages by extending the repertory of TZ format for the above mentioned 
+peculiar phonemes (while preserving the already-defined-for-Sanskrit way 
+of marking phonemes identical with Skt) ?  If so, share it with us ...
+
+This should count in the fights which scheme is "better"; it will 
+obviously be the one allowing one smoothly combine lggs of all the Indian 
+language groups.
+
+______________________________________________________________________________
+Mr. Jakub Cejka
+Dept. of Sanskrit, University of Pune
+Ganeshkhind, Pune, India  411 007
+
+e-mail:  jakub at unipune.ernet.in   (till July 97 the latest)
+
+
+
+
+
+

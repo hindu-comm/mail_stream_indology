@@ -1,0 +1,42 @@
++++
+title = "42 Palaniappa at aol.com"
+date = "1997-07-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-July/008754.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-July/008754.html)
+
+Can anybody give the correct translation of RV 10.146.6? I have seen four
+versions.
+
+"AraNyAnI is lauded by the worshipper as the mother of wild, the
+unctuous-scented, the fragrant, who fields abundance of food though has no
+hinds to till her."  Translated by V. Muir
+
+"Now have I praised the Forest Queen, 
+sweet-scented, redolent of balm,
+The Mother of all sylvan things, who tills 
+not but hath stores of food." Translated by R. T. Griffith
+
+"Adorned with fragrant perfumes and balms, 
+she needs not to toil for food.
+Mother of untamed forest beasts,
+Sprite of the wood, I salute you." by Translated by R. Panikkar
+
+"Now I have praised the Lady of the Forest, 
+who is perfumed with balm, and fragrant,
+who is well-fed, although she tills not,
+the mother of all things of the wild."  Translated by A. L. Basham
+
+Is there a translation accepted by Vedists as the best translation? Thanks in
+advance.
+
+Regards
+
+S. Palaniappan
+
+
+
+
+
+

@@ -1,0 +1,43 @@
++++
+title = "48 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1998-06-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012654.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012654.html)
+
+At 04:11 AM 6/2/98 -0600, you wrote:
+>Friends,
+>
+>A fellow-instructor at The School of the Art Institute of Chicago--someone
+>who has been practicing ashtangi-yoga far longer than Madonna, I might
+>add--is currently researching the iconography of yoga-straps in Indian art
+>and contemporary meditational practice.  Though I am able to direct him to
+>numerous visual occurences instances of the motif [from the North torana at
+>Sanchi to the 16th c.Caurapanchashika mss. illuminations] neither of us
+>have been able to locate any textual references to this accouterment.
+>
+>Here is Monier-Williams's citation: yoga-paTTa[ka] (HarSa-carita, PadmaP):
+>m. the cloth thrown over the back and knees of a devotee during meditation.
+>
+>And the obvious query: if any one can direct us to a chapter and verse in
+>either cited work, or elsewhere, we'd be much obliged.
+>
+>Much Thanks,
+>Michael Rabe
+>Assoc. Prof. of Art History
+>Saint Xavier University
+>&
+>The School of the Art Institute of Chicago
+>
+>
+
+If you can get hold of a calender depicting Lord Ayyappa you
+can easily know what it is.
+
+regards,
+
+sarma.
+
+
+

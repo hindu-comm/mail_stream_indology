@@ -1,0 +1,42 @@
++++
+title = "269 mgansten at sbbs.se"
+date = "1997-05-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008262.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008262.html)
+
+George Thompson writes (first quoting Howard Resnick):
+
+>>As scholars, we should first admit that there is no feature or
+>>aspect of an
+>>academic education that qualifies one, as a scholar, to say that there is, or
+>>that there is not, a god of fire. This is a religious issue, and only a
+>>hopeless logical positivist would argue that we must reject a god of fire on
+>>"scientific" grounds. [...]
+
+>First, Howard says that questioning the existence of a god is off-limits
+>for scholars. Second, he says that anyone who adopts the religious view
+>that there is no such thing as a god of fire must be "a hopeless logical
+>positivist." 
+
+I hope you'll see, George, that you are very clearly misrepresenting Howard
+here. The epithet "hopeless logical positivist" in his view (and, I may add,
+in mine) goes *not* to someone who denies a god's existence on *religious*
+grounds, but to someone who tries to do so on *scientific* grounds. Science
+has no say on matters which are beyond investigation; a scientist may
+certainly speak on them (as may anyone else), but he does so (like everyone
+else) from a perspective of personal belief. Such a statement is of a
+religious or metaphysical nature, not scientific, and I believe that is what
+Howard wished to point out.
+
+The rest of the "unintelligible" comments you quote appeared quite clear and
+intelligible to me. Is there some personal ill-feeling that makes you not
+want to see his point?
+
+Martin Gansten
+
+
+
+
+

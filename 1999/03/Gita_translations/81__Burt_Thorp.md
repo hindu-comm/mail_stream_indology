@@ -1,0 +1,36 @@
++++
+title = "81 Burt Thorp"
+date = "1999-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016215.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016215.html)
+
+Barbara Stoler Miller, *The Bhagavad-Gita: Krishna's Counsel in Time of
+War* Bantam Books, copyright 1986.
+
+At 12:49 PM 3/6/99 +0300, you wrote:
+>One can get good idea what the major English translations of the GItA look
+>like from the review by Gerald James Larson "The song celestial: Two
+centuries
+>of the Bhagavad GItA in English" (Philosophy East and West, vol. 31, no. 4,
+>October 1981, pp.513-541).
+>It contains parallel translations of some passages by different authors,
+their
+>stylistic, pedagogical, interpretive  and motivational characteristics being
+>analysed and evaluated.
+>There is no mention of Barbara Miller's translation. Did it appear later than
+>1981? I would be very grateful to Burt Thorp if he gives more exact reference
+>to this particular translation of the GItA.
+>        Thanks in advance,
+>                                        Yaroslav Vassilkov
+>
+>
+
+Burt Thorp
+English Department
+University of North Dakota
+Grand Forks ND 58202-7209
+
+
+

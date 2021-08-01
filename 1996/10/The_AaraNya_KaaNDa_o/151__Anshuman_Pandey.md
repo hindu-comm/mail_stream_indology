@@ -1,0 +1,40 @@
++++
+title = "151 Anshuman Pandey"
+date = "1996-10-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/006020.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/006020.html)
+
+
+Hello Gentlemen - 
+
+Please pardon my changing the topic from copyright laws and ethics to the
+Saamaveda.
+
+In his translation of the Saamaveda (Veda Pratishthana, New Delhi,
+1991-1992), Satya Prakash Sarasvati mentions that the aaraNya
+kaaNDa/arcika of the puurvaarcika is comprised of four separate parva-s,
+namely the arka parva, dvandava parva, vaacovrata parva, and the shukriya
+parva. But in doing so, he fails to mention the verse numbers at which
+these parvas begin and end.
+
+Can anyone provide me with information regarding these divisions of the
+AaraNya KaaNDa, or lead me to sources which could?
+
+Thank you.
+
+Regards,
+Anshuman Pandey
+
+---
+Anshuman Pandey | apandey at u.washington.edu | University of Washington
+
+  "Life is an impossible scheme, and love an imperceptible dream. 
+   Face the facts, that's what it's always been. Relax. What you 
+   see is what you've seen, What you get is a new philosophy."
+
+
+
+
+

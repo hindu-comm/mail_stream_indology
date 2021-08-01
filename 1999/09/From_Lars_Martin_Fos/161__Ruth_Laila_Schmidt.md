@@ -1,0 +1,54 @@
++++
+title = "161 Ruth Laila Schmidt"
+date = "1999-09-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018370.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018370.html)
+
+Dear members of the list,
+
+Lars Martin Fosse has asked me to forward this message, which was sent
+before he sent an "unsubscribe" request, but which was blocked by his
+unsubscribing.
+
+With best wishes,
+
+Ruth Schmidt
+
+************************
+
+
+Dear members of the list,
+
+I am unsubscribing from Indology. Those of you who would like to get in
+contact
+with me, please use my personal email address.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone/Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+
+************************
+
+
+***********************************************
+Ruth Laila Schmidt
+Dept of East European and Oriental Studies
+University of Oslo
+P.O. Box 1030 Blindern
+N-0315 Oslo, Norway
+Phone: (47) 22 85 55 86
+Fax: (47) 22 85 41 40
+Email: r.l.schmidt at east.uio.no
+
+
+

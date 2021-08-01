@@ -1,0 +1,33 @@
++++
+title = "537 Erik Hoogcarspel"
+date = "2000-12-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024779.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024779.html)
+
+Vidyasankar Sundaresan wrote:
+
+> . It
+> is not clear to me on what basis one can classify "double-
+> truth" theories into types, and say that this type is
+> different from that one. Each such theory presents its own
+> unique features.
+
+I agree with mr. Zydenbos here, as I understand the point of view of the
+prasangika-madhyamakas: language refers to things and a world which
+isn't there. So all speech and thinking is based on an unjustified
+'belief in a world' (Merleau-Ponty). This is simply our condition
+humaine. So for practical purposes this ontic illusion is necessairy,
+however form an ontological perspective it's an illusion and desastrous
+for our self-understanding and this keeps us from inner peace. This
+duplex ordo is a keystone in madhyamaka philosophy, it's very different
+from a multiple truth system based on upa-ya kaus'alya as f.i. can be
+found in the Saddharma Pun.d.ari-ka, Bhagavad Gïta and other rethorical
+texts.
+
+
+Erik Hoogcarspel
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "228 Mahoney, Richard B"
+date = "1999-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019098.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019098.html)
+
+Dear Readers
+
+Over the last week or so I've been fumbling with the processes of a couple
+of Textual Analysis programmes: "TACT" and "Lexa".  From what I can gather
+so far it seems that it is probably worth persevering.
+
+What is clear though is that neither programme is going to make up for my
+ignorance - much as I'd like them to.  Before I can do anything, I'm going
+to have to "tag" or "mark-up" a digital text.  Here I'm in need of
+assistance.
+
+I've read that Sidney Greenbaum has developed a tagging system for modern
+English grammar for University College, London.  What I would like to
+have access to - if such a thing exists - is a similar scheme for
+Classical Sanskrit and Tibetan.
+
+Have any readers been over this ground before?  And if so, would any be so
+good as to give me some much needed advice?
+
+--
+Regards  Richard Mahoney
+
+
+

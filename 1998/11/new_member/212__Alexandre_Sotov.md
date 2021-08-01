@@ -1,0 +1,27 @@
++++
+title = "212 Alexandre Sotov"
+date = "1998-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014063.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014063.html)
+
+To: INDOLOGY list members
+
+My name is Alexandre Sotov; I am a student of St Petersburg State
+University, Indo-Arian Dpt. I am glad to join the Indology mailing
+list. Since a lack of study materials on Indology is experienced
+in St Petersburg I thought of this list to be a help and a kind of
+compensation of what I could miss here ;-)
+
+And btw have anyone seen something on Hindi and/or Sanskrit laying
+around in the net?
+
+---
+Alexandre Sotov
+
+mailto: as at AS3442.spb.edu
+Sun, 08 Nov 98 13:06 +0300 MSK
+
+
+

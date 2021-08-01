@@ -1,0 +1,27 @@
++++
+title = "78 kharimot at sas.upenn.edu"
+date = "1995-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002616.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002616.html)
+
+Anothe question regarding (La)TeX.
+
+I wonder whether dvng program has been updated so that it can be used 
+with LaTeX2e.  When I first tried to use it with the new LaTeX, I found 
+one or some of commands used in the preprocessed document are no longer 
+valid, even in its compatible mode.
+
+I tried to find a workaround for this problem.  But it turned out to be 
+very difficult for a casual user of TeX like me.  I would much appreciate 
+if somebody acknowledges me the way to use that beautiful Devanagari font 
+in a document compiled with LaTeX2e.
+
+-- Kengo
+
+
+
+
+
+

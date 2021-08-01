@@ -1,0 +1,47 @@
++++
+title = "224 Mittal Sushil"
+date = "1997-04-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007714.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007714.html)
+
+
+
+From: Sushil Mittal
+      <mittals at magellan.umontreal.ca>
+
+
+A website for the _International Journal of Hindu Studies_ is now
+available at the following URL address: 
+
+<http://www.clas.ufl.edu/users/gthursby/ijhs/>
+
+The site contains the following:
+
+1. Aims and Scope
+2. The Board of Editors
+3. Contents of the Inaugural Issue
+4. Information for Subscribers
+5. Information for Authors
+6. Information for Advertisers
+7. Library Recommendation Form
+8. Editorial and Publisher Address
+9. Please Send Us Your Comments
+
+_International Journal of Hindu Studies_ (ISSN 1022-4556) is published
+three times a year through World Heritage Press Inc by the International
+Institute of India Studies.
+
+The website has been prepared by Gene Thursby of the University of
+Florida. Permission is freely given to link to other web pages without
+change to its contents. Links should acknowledge the source. 
+
+
+
+
+
+
+
+
+

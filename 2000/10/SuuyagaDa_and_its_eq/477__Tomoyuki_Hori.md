@@ -1,0 +1,42 @@
++++
+title = "477 Tomoyuki Hori"
+date = "2000-10-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023402.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023402.html)
+
+Dear list subscribers,
+
+I read on p.38 of N.N.Bhattacharyya's "Jain Philosophy: Historical
+Outline" (2nd revised edition, New Delhi, 1999, Munshiram Manoharlal) that
+the Sanskrit title of the second anga of the Zvetaambara canon,
+SuutrakRta, is a wrongly Sanskritised form. He does not state why he
+thinks so.
+
+I am aware that Schubring in The Doctrine of the Jainas (English
+translation p.87; original German p.60) mentions attested forms such as
+SuutrakRdaGga and SuddagaDa. He also questions the possibility of
+rendering suuya as suutra since suutra in AMg only appears as sutta. He
+then shows the possible development of suuya < suui < suuci and suggests
+rather suspiciously, I think, that suucii/suuci might here mean dRSTi,
+probably basing it on Monier-Williams's small entry as a lexicographical
+definition: 'sight, seeing'. Personally I don't buy this suggestion
+since it is difficult to read into the word dRSTi a new meaning of wrong
+views or wrong opinions as usually meant by this Jain text.
+
+I do not know whether Bhattacharyya is alluding to this passage of
+Schubring or something else, but considering how widely the Sanskrit
+title SuutrakRta is accepted and used both by Indian tradition and
+modern Indologists, I do not know what to make of this. I am a complete
+novice in this field so I would appreciate any further reference or
+elucidations which I may well have missed.
+
+All the best,
+Tomo
+--------------------
+Tomoyuki Hori
+Wolfson College, Oxford
+
+
+

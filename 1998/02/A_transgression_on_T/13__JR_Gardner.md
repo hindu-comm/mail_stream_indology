@@ -1,0 +1,28 @@
++++
+title = "13 JR Gardner"
+date = "1998-02-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010741.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010741.html)
+
+I've been hesitant to thank Yarosslav, George, Jan, et al; for theier
+follow-up on my original Transgression question b/c I did not want to put
+this most interesting thread to bed.  Nonetheless, else I otherwise seem
+ungrateful, please know that I have enjoyed everyone's comments, found
+them useful, and hope that any further info continues to come to light.
+
+jrg
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Robert Gardner      Obermann Center
+School of Religion         for Advanced Studies
+University of Iowa       University of Iowa
+319-335-2164             319-335-4034
+http://vedavid.org       http://www.uiowa.edu/~obermann/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+It is ludicrous to consider language as anything other
+than that of which it is the transformation.
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "225 Somayaji Rajagopala"
+date = "1999-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018479.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018479.html)
+
+In a message dated 9/16/99 4:04:40 PM EST, abhinav at DEL3.VSNL.NET.IN writes:
+
+<< The distinction for women as kulavadhuus
+ (meant for akam) and  vaarivadhuus (puram) is found in the all post Vedic
+Sanskrit
+ vaangamaya. >>
+------------------------------------------------------------------------------
+--------------------------------------------
+Kulavaduu is Not Aham and Vaarivadhuu is Not Puram---the equivalents of 4
+Purushaarthas-Dharmam-Artham-Kaamam-Moksham(in Sanskrit)-are-
+Aram-Porul-Inbham-Veedu(in Tamil)---Inbham(Kaamam)is Aham(canbe shared
+exclusive between the two only)--Artham/Moksham are Puram(can be shared with
+outside world ) .Aram(Dharmam) is common to both Aham and Puram.The syllable
+Kaamam does not have the same connotation in Tamil as it has in
+Sanskrit.Thiruvalluvar has divided his 1330 verses of Thirukural into 3 parts
+only to discuss Aram(Dharmam)-Porul(Artham) and Inbham(Kaaamam).He does not
+discuss about Veedu(Moksham)-this has been discussed very elaborately in many
+Research Works.He just devotes 10 verses for Initial Prayer.Tamil language
+can very independently stand without any support what so ever from Sanskrit
+language-it is so rich in vocabulary.
+
+
+

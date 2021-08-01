@@ -1,0 +1,36 @@
++++
+title = "20 KERNLIBRVN at rullet.LeidenUniv.nl"
+date = "1997-06-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008363.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008363.html)
+
+Leiden, June 3, 1997
+
+I have seen and studied many images of Garuda (and the more anonymous species 
+of garudas not specifically associated with Vasudeva-Visnu and Krsna) and 
+the myths related with these birds. 
+
+I have not come across references to the idea that Garuda 'never 
+alights'. In fact, there are many tales in which Garuda (and garudas) are 
+coming down to earth. 
+
+Most images of Garuda (and of garudas, for that matter) show the bird's legs 
+and feet. But there are (more rare) images in which he/it is shown as actually 
+flying, while carrying Visnu or Krsna.
+
+A beautiful flying Garuda (carrying Krsna) in terracotta once adorned 
+a Gupta period brick temple, perhaps at Bhitargaon (U.P.). 
+This panel is now in the Brooklyn Museum (illustrated by a.o. Pratap Pal in 
+'The ideal image' (1978), fig. 28.
+
+
+Ellen Raven
+Instituut Kern
+Leiden University
+e-mail: kernlibrvn at rullet.LeidenUniv.NL  
+
+
+
+

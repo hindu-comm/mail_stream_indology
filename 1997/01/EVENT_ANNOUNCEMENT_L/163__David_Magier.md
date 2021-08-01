@@ -1,0 +1,44 @@
++++
+title = "163 David Magier"
+date = "1997-01-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006803.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006803.html)
+
+The following event announcement is being forwarded to your mailing
+list or listserv from the EVENTS CALENDAR section of SARAI (South Asia
+Resource Access on the Internet), at the request of event
+organizers. Please attempt to contact Library of Congress directly for
+any further information. I have no further information on this event.
+
+David Magier
+SARAI
+
+====================================================
+AREA STUDIES COLLECTIONS and PROGRAMS FOR SCHOLARS
+
+A special program of the US Library of Congress
+
+Saturday, February 15, 1997
+2:00-4:00pm
+Hispanic Reading Room (LJ-205)
+Thomas Jefferson Building
+Library of Congress
+Washington, DC
+
+In 1997, three area studies divisions of Library of Congress (Asian,
+European, and African and Middle Eastern) will be joining a fourth
+division (Hispanic) in new reading rooms in the Thomas Jefferson Building.
+Come and hear about plans for these remarkable collections in their
+resplendant new quarters. Learn about the Federal Research Division, which
+produces the popular "country studies" books. Get a briefing on special
+research opportunities at the Library of Congress and the projects of
+Scholars Programs. Selected items of unique interest from the area studies
+collections will be displayed, and informational brochures made available.
+
+
+
+
+
+

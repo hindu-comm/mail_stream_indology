@@ -1,0 +1,31 @@
++++
+title = "17 Ferenc Ruzsa"
+date = "1999-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015678.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015678.html)
+
+Dear Lars,
+
+I think several of the articles by Madhav M. Deshpande collected in his book
+_Sanskrit & Prakrit. Sociolinguistic Issues_ might be interesting for you.
+(Motilal Banarsidass, Delhi 1993. ISBN 81-208-1136-4.) Especially relevant
+might be _RAjazekhara on ethnic and linguistic geography of India_,
+originally published in _Dr. D. N. Shastri Felicitaton Volume: Indological
+Studies_, Vimal Prakashan, Ghaziabad 1982. [In the legend of Map 3 the
+colors are inverted.]
+Yours,
+Ferenc
+--------------------------------------------------------
+Ferenc Ruzsa
+assistant professor of metaphysics
+Eötvös Loránd University, Budapest
+e-mail: f_ruzsa at isis.elte.hu
+-----Original Message-----
+>>I am looking for bibliographic references to "aryavarta"/bharata varsha",
+>>particularly in the Puranic context
+>>Lars Martin Fosse
+
+
+

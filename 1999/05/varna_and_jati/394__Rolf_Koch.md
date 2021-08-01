@@ -1,0 +1,46 @@
++++
+title = "394 Rolf Koch"
+date = "1999-05-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017125.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017125.html)
+
+Regarding the term jAti I came across the following TRSTubh stanza
+in the KuNAlAvadAna from the DivyAvadAna (v.l. = KalpanAmaNDItikA of
+KumAralAta, probably the
+early source for the DivyAvadAna):
+jAtiM bhavAn pazyati zAkya-bhikSuSv-
+antar-gatAMs-teSu guNAn-na ceti (v.l. na vetti : na veti) /
+ato bhavAn jAtimad-AvalepAd-
+AtmAnam-anyAMz-ca hinasti mohAt  //3//
+AvAha-kAle'tha vivAha-kAle
+jAteH parIkSA na tu dharma-kAle /
+dharma-kriyAyA hi guNA nimittA
+guNAz(v.l. guNaiz)-ca jAtiM na vicArayanti //4//
+
+...Not in regards to the guNa-related Dharma it is necessary to consider the
+jAti,
+but in case of any marriage the jAti has to be taken into consideration.
+
+roheko
+
+Richard Barz wrote:
+
+> A student who is writing a thesis in political science in international
+> relations would like to translate the terms jati and varna into English.
+> She would like to know the currently accepted academic translations for
+> these terms.
+>
+> She would also like to know if there is any academic precedent for
+> referring to scheduled tribes as 'dalit'.
+>
+> Any help would be greatly appreciated.
+>
+> Richard Barz
+> ANU
+> Canberra
+> richard.barz at anu.edu.au
+
+
+

@@ -1,0 +1,30 @@
++++
+title = "301 gthursby at religion.ufl.edu"
+date = "1997-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007108.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007108.html)
+
+I've long been amazed at my textual and philological colleagues in academic
+life, but never more so than currently.  It seems to me that some of the
+great textual scholars have been tenacious if not obsessed in their focus on
+philological, linguistic, and/or historical problems that emerge from (for
+the most part) written records.  These qualities somehow seem slightly less
+attractive when the topic is chauvinism -- whether real, perceived,
+imagined, or wholly invented to generate responses in others.  I trust that
+the discussion will move along from this topic within my lifetime.
+
+With respectful regards,
+Gene Thursby
+U. of Florida
+
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                      <gthursby at religion.ufl.edu>
+                http://www.clas.ufl.edu/users/gthursby/
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+

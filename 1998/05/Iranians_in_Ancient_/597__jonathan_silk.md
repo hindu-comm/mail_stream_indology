@@ -1,0 +1,44 @@
++++
+title = "597 jonathan silk"
+date = "1998-05-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012592.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012592.html)
+
+I could not send this earlier because  my change of email address forbade
+me from sending to the list -- sorry!
+
+**************
+Having just moved, I've been out of the email loop for a while, so perhaps
+I missed it, but with regard to Iranians in India, I did not notice
+reference to the considerable work on the Sun Priests, mostly in the West
+if I recall correctly. See among others:
+
+H. v. Stietencron, _Indische Sonnenpriester_
+A. Weber Ueber die Magavyakti des Krishadasa Micra (_Monatsberichte Kgl Ak
+Wiss Berlin_ 1879)
+A Weber Ueber zwei Parteischriften... ibid 1880
+H Humbach Iranische Sonnenpriester in Indien, _XVII Deutscher
+Orientalistentag 1968_
+
+There are also a number of books on Sun Worship in Ancient India, and see
+also a few articles in the journal _Purana_ 11, 12, 13.
+
+I hope I have not misunderstood the discussion. The question discussed by
+the works above deals with the Zaakyadviipiiya BraahmaNa, and the
+BhaviSya-puraaNa and the saamba-puraaNa.
+
+hoping it helps (and anyway, it is I think an issue of inherent interest,
+even if off the original point ;-)
+
+jonathan
+
+Jonathan SILK
+
+****Note New Email Address***:
+
+jonathan.silk at yale.edu
+
+
+

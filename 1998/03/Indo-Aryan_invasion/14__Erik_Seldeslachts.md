@@ -1,0 +1,38 @@
++++
+title = "14 Erik Seldeslachts"
+date = "1998-03-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011156.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011156.html)
+
+Jacob Baltuch wrote:
+
+> After you folks are done discussing retroflexion and other alleged
+> Dravidian substratum influence, could you please turn your attention
+> to another argument for IE not to have been in India for "too long"
+> (which I was reminded of in an interesting email discussion) and
+> which is quite independant of the Dravidian influence question,
+> namely the relative lack of linguistic depth of the IA family.
+>
+> In other others, that if IA represented the development in situ of
+> PIE we should notice in IA a linguistic diversity about equal
+> to the diversity noticed in the whole of the IE area outside India
+> combined, and that this is not the case. While somewhat impressionistic
+> and not easy to make completely rigorous (how do you measure
+> "linguistic depth" and "diversity"?), I think this point would
+> nonetheless also deserve some attention from you.
+
+The relative lack of linguistic diversity in Indo-Aryan is due to a
+great extent to the unifying action of standard languages in combination
+with political and cultural configurations, which for a very long period
+have counteracted all disintegrating factors there may have been. This
+happened not only for a much longer period than was the case in Europe
+but also on a larger geographical scale.
+
+Erik Seldeslachts
+Universiteit Gent
+Gent, Belgium
+
+
+

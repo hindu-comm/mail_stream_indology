@@ -1,0 +1,36 @@
++++
+title = "306 Yashwant Malaiya"
+date = "1999-12-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019601.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019601.html)
+
+Vidyasankar wrote:
+
+>Some people have questioned whether such a record of a grant even exists.
+
+>Assuming that there is indeed such a copperplate recording a grant, there
+>are important questions -
+>1. Is it an original record of what Sudhanva gave, or a copy?
+>2. What script was it written in? In 6th century BCE, it had to have been
+>pre-Asokan Brahmi or Kharoshti.
+>3. Who deciphered it? Where are the details published?
+>4. Were copperplates used to record events in the 6th c. BCE?
+
+The oldest known texts in India are a few, extremely rare
+pre-Ashoka texts, among them the Sohgaura copper plate and
+the Mahasthan inscription, perhaps from Chandragupta Maurya's
+period. Sohgaura copper plate has been stolen and is in some
+private collection.
+
+Thus if the Sudhanva plate exists, it would be an extremely
+important object.
+
+Is the text in Sanskrit? All known inscriptions well until about
+first cent. BCE or so are in Prakrit (Pali).
+
+Yashwant
+
+
+

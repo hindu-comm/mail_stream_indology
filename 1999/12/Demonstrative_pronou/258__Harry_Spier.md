@@ -1,0 +1,36 @@
++++
+title = "258 Harry Spier"
+date = "1999-12-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019539.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019539.html)
+
+Dear list members,
+
+Macdonell in his vedic grammar for students section 110, Whitney 495 b note
+that the demonstrative pronoun sasmAd occurs once and only once in the
+sanskrit literature and that the occurance is in the Chandogya Upanishad.
+Brugmann in his comparative grammar section 409 mentions the occurance of
+sasmin instead of tasmin in the vedic but doesn't mention sasmAd as far as I
+can see.
+
+Can someone give me the verse in the Chandogya Upanishad where this occurs.
+(A search on string "sasm" in the itrans version on the sanskrit documents
+page didn't turn up anything)
+
+Also does anyone have an explanation/theory why this lone occurance of
+"sasmAd" in the sanskrit literature and that occuring in the stage of the
+literature that it does.
+
+Many thanks,
+
+Harry Spier
+371 Brickman Road
+Hurleyville, New York
+USA 12747
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

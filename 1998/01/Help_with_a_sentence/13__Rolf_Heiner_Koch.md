@@ -1,0 +1,72 @@
++++
+title = "13 Rolf Heiner Koch"
+date = "1998-01-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010284.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010284.html)
+
+sva is a so called reflexiv pronomina and in your
+zited sentence
+related to kah and therefore is the gen. correct
+svayoor is without sense
+
+-----Ursprüngliche Nachricht-----
+Von: Jacob Baltuch <jacob.baltuch at EURONET.BE>
+An: INDOLOGY at LISTSERV.LIV.AC.UK
+<INDOLOGY at LISTSERV.LIV.AC.UK>
+Datum: Sonntag, 4. Januar 1998 07:45
+Betreff: Re: Help with a sentence?
+
+
+>Thanks to all for your help. Evidently if sva-
+can also be exactly
+>synonymous to aatman- then that clears all
+problems. I didn't know
+>that and I didn't know that (I did check whatever
+grammar, and text-
+>books I own and they do not signal that usage of
+sva-, at least
+>not explicitly, insofar as I didn't miss
+anything, obviously).
+>
+>So, if I understand you all well
+>
+>``sveena maataa-pitroor api sarvam caritram
+jJaatum na zakyam''
+>
+>would be just as correct (``the whole life of
+even a father and
+>a mother it is impossible for one to know''), or
+is the equivalence
+>of sva- and aatman- restricted to when sva- is
+used in the genitive?
+>
+>Incidentally, the former would mean that ``svasya
+maataa-pitroor api
+>sarvam caritram jJaatum na zakyam'' could also be
+translated that
+>way, i.e. as if the genitive ``svasya'' was not
+depending upon
+>``maataar-pitroor'' but upon ``zakyam'' with
+``svasya...jJaatum
+>na zakyam (asti)'' meaning ``(there is) not a
+possibility for one
+>to know'', couldn't it?
+>
+>Note that if indeed the equivalence of (one of
+the meanings of) sva-
+>and aatman- is complete then that raises a
+curious terminological
+>question: are the sva- compounds (sva-ziras)
+tatpuruSa (sva- used as
+>pronoun synonymous to aatman-) or are they
+karmadhaaraya (sva- used
+>as an adjective). In other words, is sva-ziras
+equivalent to
+>``svam zirah'' or to ``svasya zirah''? :) What do
+the grammarians say?
+>
+
+
+

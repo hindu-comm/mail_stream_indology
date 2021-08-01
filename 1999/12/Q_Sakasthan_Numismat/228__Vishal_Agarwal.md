@@ -1,0 +1,24 @@
++++
+title = "228 Vishal Agarwal"
+date = "1999-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019499.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019499.html)
+
+Mr. Samar Abbas asked
+Q1: A historian called Gandassa has claimed on Usenet that the term
+`Sakasthan' is to be found on Indo-Scythic coins and inscriptions
+scattered over Punjab, Rajasthan and Gujarat, although he does not
+provide.....
+
+VA responds: The following book is very useful
+Kushana Numismatics; Satya Shrava; Pranava Prakashan; Delhi; 1985
+By the same author,the following book studies the information on Shakas
+available from the Hindu texts:
+The Sakas in India; Satya Shrava; Pranava Prakashan; Delhi; 1981
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

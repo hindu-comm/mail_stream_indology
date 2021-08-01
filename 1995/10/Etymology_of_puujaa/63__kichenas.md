@@ -1,0 +1,37 @@
++++
+title = "63 kichenas"
+date = "1995-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003309.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003309.html)
+
+This is with regard to M. Witzel's remarks:
+``...
+Further, the root occurs in names in Katha and Maitr. Samhita. It becomes
+more common only in the Vedic Kalpa Sutras. The old meaning seems to be "to
+honor" (also in early grammarians: Patanjali or Katyayana [I don't
+remember which]: rajnaam puujitah) .-- not anything like "to smear" as
+suggested by Dravidian.
+You don't smear your teacher or guests (at least not in India)  -----  not
+even with ointment.
+...''
+
+This by itself does not necessarily contradict an evolution out
+the idea of `smearing.' One might think of the notion of
+ `anointing.' Also, the idea of abhishEkam could be relevant here
+(to suggest that the two semantic fields might conceivably be related, 
+in an Indian context).
+Would it be possible to give more decisive arguments?
+
+
+                                Satyanad Kichenassamy
+                                School of Mathematics
+                                University of Minnesota
+                                E-mail: kichenas at math.umn.edu
+
+
+
+
+
+

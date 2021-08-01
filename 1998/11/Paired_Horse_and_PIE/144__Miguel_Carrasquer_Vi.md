@@ -1,0 +1,42 @@
++++
+title = "144 Miguel Carrasquer Vidal"
+date = "1998-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014114.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014114.html)
+
+"C.R. Selvakumar" <selvakum at VALLUVAR.UWATERLOO.CA> wrote:
+
+[my explanation of how different Hittite is..]
+>    How was Hittite then classified as IE ?
+
+Because other things are not different.  Hittite *has* a nominative
+in -s, acc. in -n (< -m), plural in -es, verbal endings -mi, -si,
+-ti, etc.  What put Hrozny on the track of Hittite as an IE language
+was the word <watar>, which means "water".
+
+As a crude measure, if we take the Swadesh list of the 100 most basic
+words, we find some 13 (and a few doubtful ones) which are cognate
+between Classical Greek and Hittite.  Not much, but about the same as
+between Classical Greek and Modern English (I don't have
+Greek-Sanskrit handy, but Latin-Sanskrit is about 45 matches).
+
+>    What are the other
+>    IE languages which don't have the gender but
+>    have animate/inanimate ?
+
+Well, animate and inanimate are genders too, grammatically speaking.
+What happened after the split-off of Hittite, is that the other
+languages divided the animate gender into "masculine" and "feminine"
+words, which resulted in a 3-gender system (masc., fem. and inanimate
+(neuter)).  It is tempting to see that in the context of a
+"masculinization" of society, but I doesn't necessarily follow.
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+

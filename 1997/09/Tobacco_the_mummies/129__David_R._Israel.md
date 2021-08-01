@@ -1,0 +1,42 @@
++++
+title = "129 David R. Israel"
+date = "1997-09-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009154.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009154.html)
+
+Anshuman Pandey wrote --
+
+> I recall watching an episode on Discovery titled "The Curse of the
+> Cocaine Mummies" which discussed the controversy surrounding the
+> data that some Egyptian mummies were found to have traces of
+> nicotine and cocaine in their hair. . . .
+
+anyone who happened to take in (intern alia) any of the 
+evidentiary debate (or drift, exempli gratia) from O.J. Simpson's 
+public science show (so to say) might at least passingly wonder about 
+the nicotine and/or cocaine use of whatever archeologists (etc.) through 
+whose hands said mummies may've happed to pass . . .
+
+(too obvious an idea to be overlooked by august producers of 
+*Discovery* perhaps, -- but still, accidents can happen . . . )
+
+d.i.
+ .
+ .....
+ ............
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/////\\\\\
+   >    david   raphael   israel    <
+   >>      washington  d.c.      <<
+ |  davidi at mail.wizard.net   (home)
+ |  disrael at skgf.com       (office)
+ =========================
+ |   thy centuries follow each other
+ |   perfecting a small wild flower
+ |                                       (Tagore)
+ //////////////////////////////////////////\\\\\/////
+
+
+
+

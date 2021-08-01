@@ -1,0 +1,27 @@
++++
+title = "125 Gene Thursby"
+date = "1996-07-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-July/005516.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-July/005516.html)
+
+        In response to the inquiry from Leslaw Borowski, there is a summary
+of the history of the Siddha Yoga movement in Timothy Miller, ed., _When
+Prophets Die: The Postcharismatic Fate of New Religious Movements_ (Albany:
+State University of New York Press, 1991) in a chapter titled "Siddha Yoga:
+Swami Muktananda and the Seat of Power," pp. 165-81 & 232-38.
+        Were the chapter to be written today, it would require considerable
+revision in order to take into account subsequent developments and to be
+freed from uncritically reliance on points of view put forward by the SYDA
+Foundation.
+        However, it is a useful starting point for further research.
+Gene Thursby
+		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+		Gene Thursby <gthursby at religion.ufl.edu>
+		http://www.clas.ufl.edu/users/gthursby/
+
+
+
+
+

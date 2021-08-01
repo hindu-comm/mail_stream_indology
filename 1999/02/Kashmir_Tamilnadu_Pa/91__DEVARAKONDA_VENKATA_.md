@@ -1,0 +1,48 @@
++++
+title = "91 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1999-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/016021.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/016021.html)
+
+Some people think that the best way to solve a problem is to complicate it
+further. Here is an another identification of a Potalaka.
+
+BUDDHIST CHINA by Reginald Fleming Johnston
+Published by JohnMurray, Albermarle Street,  London W. 1913.
+Pages 270 ff.
+------------------------------------------------------------------
+Chinese Buddhists acknowledge that the original seat of Kuan-yin
+was at a great distance from China. According to one interpretation of
+Avalokitesvara, it means the Lord (Isvara) who looks down from a height.
+The "height" is the sacred mountain of Potalaka, a place which is always
+associated with the worship of this Bodhisat. Where the original Potalaka
+is a disputed question. It is usually assumed to have been a rocky hill to
+the east of Malaya mountain, southern India near the harbour of Cape
+Komorin. If this identification is correct, it seems highly probable that
+the deity worshipped there was of non-Buddhist origin and there is evidence
+to associate her (or him) with Siva.
+______________________________________________________________________
+
+
+In support of placing Potalaka at Cape Komorin we have this note of S.Beal.
+Hiuen Tsang travels ( Record of....) Vol.2, Page 233, Note 130.
+------------------------------------------------------------------------
+The symbol used implies "a division of the sea" as though it were at a point
+where it is devided into an eastern and western ocean.
+------------------------------------------------------------------------
+
+Kuan-yin is a child carrying godess and is supposed to be modelled after
+a similar Taoist godess. Now the question is whether Chinese first
+identified Avalokitesvara with KanyAkumAri and afterwards equated
+her to Taoist godess or they first modelled Kuan-yin after Taoist godess
+and then identified her with the supposed Avlokitesvara ( or rather
+Avalokitesvari) at KanyAkumAri?
+
+regards,
+
+sarma.
+
+
+

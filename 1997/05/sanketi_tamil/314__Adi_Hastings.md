@@ -1,0 +1,27 @@
++++
+title = "314 Adi Hastings"
+date = "1997-05-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008274.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008274.html)
+
+
+I'm looking for bibliographical references on Sanketi Tamil, a dialect
+spoken in parts of Karnataka. I've uncovered one or two essays (by H. S.
+Ananthanarayana) dealing with sound changes, but is there anything of
+greater scope (a grammar, for instance)? Any assistance would be
+appreciated.
+
+Thanks,
+Adi Hastings
+Depts. of Anthropology
+  and Linguistics
+University of Chicago
+amhastin at midway.uchicago.edu
+
+
+
+
+
+

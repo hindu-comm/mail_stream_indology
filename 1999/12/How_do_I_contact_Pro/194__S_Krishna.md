@@ -1,0 +1,23 @@
++++
+title = "194 S Krishna"
+date = "1999-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019457.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019457.html)
+
+Is there any way in which Prof Vasudha Narayanan, Prof of Religion, U
+Florida can be contacted? She seems to be on a sabbatical this year and am
+not sure if her email works...
+
+Can anybody also please give me the adds(email/phone) oif Prof Paul Younger
+who authored "The Temple Of The Dancing Sivan"?
+
+Regards,
+Krishna
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

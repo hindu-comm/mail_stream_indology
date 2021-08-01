@@ -1,0 +1,25 @@
++++
+title = "98 Ulrike Niklas"
+date = "1998-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011188.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011188.html)
+
+Friends!
+
+We start now to prepare the next volume of KOLAM, which will appear at the
+end of July 1998. - We invite you to contribute papers on any aspect of
+Tamil-Culture. You can write in Dutch, English, French, German, Italian,
+or Spanish. - You find KOLAM in the Internet:
+http://www.uni-koeln.de/phil-fak/indologie/index.html (then click on
+"Kolam").
+
+Please, send your questions or suggestions - and mainly your proposals of
+papers to: kolam-list at uni-koeln.de
+
+Thanks and all the best,
+Ulrike (for all the editors)
+
+
+

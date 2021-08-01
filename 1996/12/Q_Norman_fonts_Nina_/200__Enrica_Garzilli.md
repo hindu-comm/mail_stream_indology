@@ -1,0 +1,46 @@
++++
+title = "200 Enrica Garzilli"
+date = "1996-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006502.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006502.html)
+
+Arash Zeini wrote:
+> 
+> I am searching for Devanagari fonts for Windows 95.
+> Can anybody help me to find them ?
+> It would be very good to have True Type ones.
+> Thanh you.
+
+Arch. Dr. Ludovico Magnocavallo is designing the *Nina* fonts for devanagari in Windows 
+TrueType, Macintosh TrueType, and Adobe Type 1 (both WIndows/Dos/Unix and Macintosh 
+versions), together with a set of macros for conversion to and from the CS/CSX encoding.
+
+They will be free and available in our ftp server:
+ftp://ftp.shore.net/members/india/
+
+Any suggestion from users will be more than welcomed.
+
+You can read his announcement of the Nina fonts in the last issue of the *International 
+Journal of Tantric Studies*, Vol. 2 (1996), No. 2, November 29, 
+http://www.shore.net/~india/ijts/
+
+For typing devanagari in the Windows environment see the Derick Miller, "Typing 
+Devanagari on a Standard Keyboard", in *IJTS* Vol. 2 (1996), No. 1, April 10, 
+http://www.shore.net/~india/ijts/ 
+(Mr. Miller, who is a MA in Sanskrit and worked as a Senior Quality Assurance Engineer, 
+also offers a review of the UniType International and the ILKEYB). 
+
+I hope this helps.
+-- 
+Dr. Enrica Garzilli
+Univ. of Perugia (ITALY)
+Editor-in-Chief, IJTS and JSAWS (http://www.shore.net/~india)
+*************************************************************
+
+
+
+
+
+

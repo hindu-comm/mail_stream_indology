@@ -1,0 +1,48 @@
++++
+title = "20 Ravi R. Iyer"
+date = "1997-11-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009713.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009713.html)
+
+Hi:
+I invite you to take a look at the Iyer Heritage Page at
+
+http://home.earthlink.net/~ravi/iyer.html
+
+This is just the beginning of an effort to collect and disseminate social,
+cultural, historical, genetic and economic information about Iyers in
+particular and Smarta brahmins in general.
+
+All criticism, comments & suggestions are welcome.
+
+Regards
+Ravi R. Iyer
+
+Center for Genome Research
+Albert B. Alkek Institute of Biosciences & Technology
+2121 Holcombe Blvd.,
+Houston, TX-77030
+USA
+
+WWW - http://http.tamu.edu/~rri3004/ravi.html
+WWW2- http://home.earthlink.net/~ravi/iyer.html
+Email: ravi at tamu.edu
+
+==============================================================
+Subhaashitam: (Ancient Sanskrit Couplet)
+
+||Kshamaa balam a-shaktaanaam; shaktaanaam bhUshaNam kshamaa|
+  Kshamaa vashikrte loke, kshamayA: kim na sidhyati ? | ||
+
+Subhashitasya anuvaadam (Translation):
+
+Forgiveness is the strength of the weak.
+Forgiveness embellishes the mighty.
+In a world that can be conquered by forgiveness,
+what is not possible by forgiveness?
+==============================================================
+
+
+

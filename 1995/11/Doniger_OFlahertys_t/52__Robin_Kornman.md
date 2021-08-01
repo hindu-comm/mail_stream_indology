@@ -1,0 +1,38 @@
++++
+title = "52 Robin Kornman"
+date = "1995-11-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003590.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003590.html)
+
+Responding to the letter that said that Wendy O'Flaherty's translations were
+popular because of their packaging and price:  
+
+It ain't necessarily so. I've used her translations often in Freshman and
+Sophomore general education classes. The fact is that they are readable and
+organized in a pedagogically useful way. More accurate translations are
+sometimes so hard to read. My students need clear, user friendly English and
+an apparatus which deals with their needs. These things OF providess.
+
+Inaccuracies? Well, of course, I naturally deplore inaccuracies. I'm sure
+there are none or few in my own translations. But, if there are inaccuracies
+in OF's translations, there are no in spots that cause me a problem in an
+introductory course in Asian Literature. The students are doing a quick and
+cursory reading and walk away with only the vaguest sense of what they have
+read. If I were focusing on a text with a sustained examination, I might
+choose another kind of translation. 
+
+Here's a good example of that. I like using Dorothy Sayer's translation of
+_The Divine Comedy_ in broad humanities classes. It rhymes and is fun to
+read and has a sense of spirit. The footnotes address interesting religious
+issues. I know that it is full of inaccuracies. But it can be read quickly
+and easily and enjoyed by a neophyte. For a slow, sustained reading, there
+are several much more carefully translated and more fully annotated editions. 
+
+Robin Kornman
+
+
+
+
+

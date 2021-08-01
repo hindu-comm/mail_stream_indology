@@ -1,0 +1,26 @@
++++
+title = "177 Vidyasankar Sundaresan"
+date = "1997-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006819.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006819.html)
+
+
+In April 1994, Prof. Lance Nelson posted the following references to
+INDOLOGY, re: death and dying in advaita vedanta. They should be useful. 
+
+R. Balasubramanian, "The Advaita View of Death and Immortality," in Death
+and Immortality in the Religions of the World, ed. Paul and Linda Badham
+(New York: Paragon House, 1987), 121ff.
+
+Debabrata Sinha, "On Immortality and Death--Notes in a Vedantic
+Perspective" in Perspectives on Vedanta: Essays in Honor of Professor P.
+T. Raju, ed. S. S. Rama Rao Pappu (Leiden: E. J. Brill, 1988), 170-181.
+
+S. Vidyasankar
+
+
+
+
+

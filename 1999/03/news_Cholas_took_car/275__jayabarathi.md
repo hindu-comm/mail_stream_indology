@@ -1,0 +1,43 @@
++++
+title = "275 jayabarathi"
+date = "1999-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016407.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016407.html)
+
+Hello,
+
+        Do you ahve Anjal 2.03. installed? What fonts are you using.
+Could not read the poems that you had written inthe forumhub. I think
+I saw your posting once in Tamil.net. Are still there?
+
+Regards
+
+Jayabarathi
+
+
+At 04:04 PM 2/26/99 -0500, you wrote:
+>From the Hindu On Line:
+>----------------
+>                        Resurrecting inscriptions
+>
+>
+>               Date: 27-02-1999 :: Pg: 05 :: Col: a
+>
+>               By Our Special Correspondent TIRUCHI, Feb. 26.
+>
+>               The care taken by the Chola kings during renovation
+>               of temples and how scrupulously they copied the
+>               inscriptions on the dilapidated portions on the newly
+>               constructed portions after renovation have come to
+>               light, the discovery of old and new inscriptions on
+>               the walls of the Perumal temple in Natham village,
+>               near Pullambadi, about 40 km from here.
+>-----------------
+>For a complete report see:
+>http://www.webpage.com/hindu/daily/990227/04/04272239.htm
+>
+
+
+

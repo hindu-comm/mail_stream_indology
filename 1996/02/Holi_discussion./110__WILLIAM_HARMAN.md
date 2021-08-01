@@ -1,0 +1,24 @@
++++
+title = "110 WILLIAM HARMAN"
+date = "1996-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004103.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004103.html)
+
+
+I think an analysis of New Year's eve as a chaotic interlude before the
+beginning of a new calendrical year would be more applicable than would
+the notion of a Christmas party, though the two are not necessarily
+separable. New Year's eve can vary, but in my experience involves wild
+celebration, chaotic noise making (and noise makers), the donning of
+new roles or disguises with the wearing of hats and the indiscriminate
+dissolution of normal barriers determining with whom one may be either
+familiar or affectionate. I would certainly maintain that it constitutes
+ritualized chaos. I hope I can do so without being accused of racism.
+
+					W. Harman
+
+
+
+

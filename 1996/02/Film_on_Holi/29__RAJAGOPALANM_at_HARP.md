@@ -1,0 +1,25 @@
++++
+title = "29 RAJAGOPALANM at HARPO.TNSTATE.EDU"
+date = "1996-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004039.html)
+
+Dear F.R.5.1. Philosophie,
+The word chaotic theory is a part of mathematics . i teach mathematics . So i
+say that. Chaos  in social terms is not complimentary . Many non-complimentary terms
+terms have beenforced on Hindus and their culture in the past fifty years .
+( one such word is Idols , when refering to hindu gods in temples ).
+many indian scholars on indology have used such terms about hindu culture.
+That is unfortunate that Indians did that .Such words which are insulting 
+should not be used in describing a culture unless proved .Real scholarship
+consists of knowing such difference .When such bad words have been used 
+a wrong description is already being tried to be established . that is not scientific.
+scientific.If such a traditon to use insulting words on a culture was 
+mistakenly established it is time to get it corrected by real scholars.
+M.Rajagopalan
+
+
+
+

@@ -1,0 +1,22 @@
++++
+title = "43 Christian Lee Novetzke"
+date = "1999-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016457.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016457.html)
+
+        If anyone can help, I'm looking for information in general about the use
+and significance of pots in Hinduism, in tantra, mythology, and ritual.  In
+particular, I need information about pots in Maharashtra as I'm doing a
+project on Namdev and Gora the Potter.  I'm searching for, among other
+things, discussions of the gaTasthApan ritual of Navaratra or any ritual
+moments in Maharashtra involving pots.
+
+        Thanks in advance.
+
+        Christian Novetzke
+        Columbia University
+
+
+

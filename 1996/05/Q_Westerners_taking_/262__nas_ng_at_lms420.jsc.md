@@ -1,0 +1,38 @@
++++
+title = "262 nas_ng at lms420.jsc.nasa.gov"
+date = "1996-05-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005067.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005067.html)
+
+
+5/15/96
+
+  Q: Westerners Taking Away Manuscripts (19th century)
+  ******************************************************
+
+There is a popular story current in many parts of India. As a child, 
+I have heard that Europeans took many Sanskrit manuscripts from Tanjore
+Sarasvathi Mahal and that the  knowledge embedded in them led to the
+development of lifesaving medicines, even aeroplanes!
+Last weekend, the priest at Meenakshi temple, Houston told
+me: "In Mysore, on the very week when Krishnaraja Wodayar's
+royal wedding tookplace, a manuscript library housed under tiled roof
+went up in flames. Two Germans who were there for years
+were not found later. They took away the atharvaNaveda with lot of
+yantra (machines) making plus many more."
+
+I recognize the anticolonial, nationalist undertone in this
+narration and the Indian concept that all knowledge is in Vedas
+and nothing new can be found. I would very much like to hear
+any other variants of this folklore. Any written accounts??
+
+Thanks,
+N. Ganesan
+nas_ng at lms420.jsc.nasa.gov
+
+
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "650 Vidyasankar Sundaresan"
+date = "1998-05-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012599.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012599.html)
+
+It is now almost three weeks after Pokhran-II, and a day after the most
+recent test in Chagai. I've seen no direct reference to the nuclear
+testing on this list. Maybe Sarasvati and Dravidian etymology are
+explosive enough for us here. Maybe the bomb is not one of the issues
+that Indology should bother about.
+
+If so, it would be much appreciated if indirect references to it,
+frequently in a negative/contemptuous tone, are also avoided. If there
+is to be any talk about the bombs, let it be done directly and in the
+open. The ten (or eleven) explosions in south Asia have brought us no
+further into Kaliyuga than the thousands of explosions that preceded
+them elsewhere in the world. And unbelievable as it may seem, a
+substantial portion (or all) of the newest Indian and Pakistani bombs is
+due to domestic expertise, and in spite of Western opposition, not due
+to any great assistance. This might be a bizarre thing to be proud of,
+but such is international politics.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

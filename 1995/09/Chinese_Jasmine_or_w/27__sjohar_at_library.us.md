@@ -1,0 +1,31 @@
++++
+title = "27 sjohar at library.usyd.edu.au"
+date = "1995-09-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-September/003154.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-September/003154.html)
+
+Hi everyone,
+
+I am workingon the connections of Western indian sea porets with teh rest fo
+the world from 500 B C to 1500 A D. In the course of my readings I came
+across an intersting snippet of information. Apparently, the fovourite
+flower of Western Maharashtra - known locally as Mogra, is a native of South
+China. Given that the same flower is also a favourite of Goa and western
+karnataka - in kannada it is called Mallige, I am keen to find out the
+earliest reference to this specific plant in literature. Can any one help
+me? What is it called in Sanskrit ? 
+
+It is refered to in Dnyaneshwar's famous marathi poem - Mogara phulala, but
+the date of that poem is pretty late.
+
+Thanks is advance.
+
+Sugandha
+
+
+
+
+
+

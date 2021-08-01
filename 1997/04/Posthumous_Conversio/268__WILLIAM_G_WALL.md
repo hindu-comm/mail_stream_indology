@@ -1,0 +1,48 @@
++++
+title = "268 WILLIAM G WALL"
+date = "1997-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007750.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007750.html)
+
+At 06:46 PM 4/12/97 BST, you wrote:
+>Lars Martin Fosse wrote:
+>>I never heard about a Christian saint called Napoleon!! And saint Caesar is
+>>new to me, too. Or did the missionaries simply believe that all Europeans
+>>should be regarded as saints?
+>>
+>Much like the Church of the Latter Day Saints, if you convert, and become a
+>Mormon, you can convert ALL OF YOUR ANCESTORS posthumously.
+>
+>Or, as I discovered years ago, while I was a "practicing Unitarian,"  all
+>progressives and liberal thinkers who have ever existed, are defacto or
+>retroactively Unitarians (for they would obviously and innately HAVE BEEN
+>Unitarians, had the Unitarian Church existed in their era and/or locale).
+>
+>Yvette C. Rosser
+>UTAustin
+>
+>
+>
+>
+>
+And Dante's Vergil would HAVE BEEN a Christian if he had had the opportunity!
+
+
+William G Wall, Ph.D.
+Institute for Vaisnava Studies
+Graduate Theological Union
+PO Box 11216
+Berkeley CA 94712
+(510) 849-8280 (office)
+
+email: wgw at dnai.com
+Bharata.Srestha.HDG at com.bbt.se
+
+
+
+
+
+
+

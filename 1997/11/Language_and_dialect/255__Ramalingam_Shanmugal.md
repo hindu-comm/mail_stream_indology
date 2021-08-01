@@ -1,0 +1,20 @@
++++
+title = "255 Ramalingam Shanmugalingam"
+date = "1997-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009943.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009943.html)
+
+vanhakkam Thiru Palaniappan,
+      Thank you for dealing with the linguist's part of Krishna's unwanted
+response to a simple answer to a querry. I am not a linguist, but this
+demonising of Tamil and Tamil  scholars past and present is a vocation of
+some of the "converts" or 'pUttEvar' - Earth angels as they claim. I wish I
+could reply as a linguist which I cannot and hence, I am not dignifying the
+undignified onslaught of the so called scholars who sound Tamil but not Tamil
+scholars? Or at its best pro-Sanskrit! Thanks again. Shanmugalingam November
+23, 1997.
+
+
+

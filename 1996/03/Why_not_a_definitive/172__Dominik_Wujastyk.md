@@ -1,0 +1,45 @@
++++
+title = "172 Dominik Wujastyk"
+date = "1996-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004549.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004549.html)
+
+Birgit Kellner said:
+> 
+> [...] all sorts of systems (nobody mentioned OS/2
+> as yet, [...]
+
+I have been using OS/2 as my main platform for several years, and I
+think it combines the very best qualities of Windows, DOS, and Unix in a
+single product.  It is very stable (never crashes) and a wonderful
+platform for communications of all sorts.  A happy customer.
+
+Dominik Wujastyk
+
+
+> Hence, I would strongly suggest that, until the
+> current lcd is replaced by one which allows for Devanagari, let's stick to
+> the present conventions. 
+
+Yes, indeed.
+
+The issue of Devanagari representation of Sanskrit text is, in any case,
+not of great importance in contemporary indological scholarship.
+Indologists are all used to reading and writing books, journals, and
+indeed entire Sanskrit texts, in romanization.  And historically, of
+course, Devanagari is not by any means the only script that has been
+used to record Sanskrit.  It is attractive and "natural" in a way, but
+romanization also has its advantages for representing certain linguistic
+and semantic features.
+
+I do think, however, that since Devanagari is now so easy to typeset,
+some of the journals like BSOAS, JAOS, JRAS, IIJ, etc., might consider
+admitting the use of Devanagari in some articles, if desired.
+
+Dominik Wujastyk
+
+
+
+

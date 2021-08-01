@@ -1,0 +1,23 @@
++++
+title = "217 Timothy C. Cahill"
+date = "1999-11-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019065.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019065.html)
+
+Dear Krishna,
+
+   varam eko guNI putro na ca mUrkhazatAny api/
+   ekaz candras tamo hanti na ca tArAgaNo 'pi ca//
+
+Hope this reaches you before that critical juncture.
+
+best,
+Tim Cahill
+
+Cf:
+antarjvAlA varaM zIghram na ca granthA zatAdhikAH/  (etc.)
+
+
+

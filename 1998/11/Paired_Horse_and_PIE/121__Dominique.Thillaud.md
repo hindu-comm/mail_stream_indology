@@ -1,0 +1,39 @@
++++
+title = "121 Dominique.Thillaud"
+date = "1998-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014057.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014057.html)
+
+Dear Mark,
+        You wrote (Sat, 7 Nov 1998 00:35:44 -0500):
+>Doesn't this sound a little like ...
+        But, few time before (Fri, 6 Nov 1998 23:45:21 -0500):
+>I am a computer scientist and engineer.
+        Hence, I'm able to suppose you have some knowledge of combinatories
+and statistics:
+        - assuming that for each word there is a score of synonymous or
+quasi-synonymous (lying in the same semantic field) and twice many
+metaphores.
+        - assuming that for each "sound" there is an half-dozen of "little
+like" sounds.
+        You're surely able to compute how many "good" correspondances could
+be found between any two languages: incredible!
+        With such methods and a touch of imagination, fabulous historical
+conclusions can be obtained:
+< Ancient dwellers of England were highly attracted by Roman girls and made
+< currently razzias to obtain them. That's proved by "woman < romana" and
+< "girl < clara" (fair complexion).
+        In the same way, you have good forebears: A counsellor of Hitler
+(better to forget his name) gave him a good reason to invade England: they
+were all Jewish, as proved by "Saxon < Isaac-son".
+        There is no doubt that "Turcs in Etruria" is in the same vein.
+        Regards,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+

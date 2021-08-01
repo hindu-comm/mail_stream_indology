@@ -1,0 +1,28 @@
++++
+title = "33 mhcrxlc at dir.mcc.ac.uk"
+date = "1996-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004631.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004631.html)
+
+I am happy to announce that the public domain version of the tipi.taka in
+Pali is now available in the version for DOS (files with extension .ZIP)
+from the websites of the Journal of Buddhist Ethics:
+
+U.K.
+http://www.gold.ac.uk/jbe/jbe.html
+
+U.S.A.
+http://www.cac.psu.edu/jbe/jbe.html
+
+Lance Cousins
+
+MANCHESTER, UK
+Email: mhcrxlc at dir.mcc.ac.uk
+
+
+
+
+
+

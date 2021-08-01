@@ -1,0 +1,24 @@
++++
+title = "58 Andrew Cohen"
+date = "1996-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004092.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004092.html)
+
+probably the discussion on 'chaos' has demonstrated that people in 
+various academic fields have trouble understanding terms used in their 
+disciplines than how holi is/can be interpreted.   a mathematician 
+insists that it is a term from his/her discipline, hence fixed within 
+his/her discourse.  and that it connotes negativity.  yet, in other 
+field the term is less loaded-- similar to random, or unpredicatable. 
+ even in art discussions 'chaos' has an unloaded meaning of the 
+unpredicablity of artistic outcome.  it is not uncommon for one field 
+(say literary criticism) developing a theoretical use of a term and 
+that term is assimilated into another field and takes on new weight.
+
+andrew cohen
+
+
+
+

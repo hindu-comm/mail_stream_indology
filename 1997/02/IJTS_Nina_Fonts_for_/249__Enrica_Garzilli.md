@@ -1,0 +1,37 @@
++++
+title = "249 Enrica Garzilli"
+date = "1997-02-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007034.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007034.html)
+
+Dear Colleagues,
+
+We have just posted the new encoding for the Nina Fonts for Devanagari on the 
+*International Journal of Tantric Studies*. It can be seen at: 
+
+http://www.shore.net/ijts/nina.html
+
+It has been designed by our Technical Editor, Dr. Arch. Ludovico Magnocavallo for the 
+IJTS.
+
+The Nina Fonts will be released next week in Type1 and TrueType formats for Windows. 
+The Nina Fonts for Macintosh systems will be released a few weeks later.  
+
+Please look at the new encoding and give us your feedback before Ludovico finishes up 
+the Nina Fonts. 
+
+Thank you for your consideration and your help,
+
+-- 
+Dr. Enrica Garzilli
+Univ. of Perugia (ITALY)
+Editor-in-Chief, IJTS and JSAWS (http://www.shore.net/~india)
+*************************************************************
+
+
+
+
+
+

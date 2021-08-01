@@ -1,0 +1,77 @@
++++
+title = "304 dargie at lingua.cltr.uq.oz.au"
+date = "1997-03-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007437.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007437.html)
+
+>
+>
+>I am having difficulty referencing the following three passages in the
+>Upanisads (because the translations I am working with are so different).
+>Can someone please provide the references. Thanks a lot.
+>
+>(1) from Manduka Upanisad (   ): "The syllable OM, which is the 
+>imperishable brahman is the universe."
+>
+>(2) from Manduka Upanisad (   ): "The Fourth, the Self, is OM, the
+>indivisible syllable. This syllable is unutterable and beyond mind. In it
+>the manifold universe disappears. It is the supreme good--One without a
+>second. Whosoever knows OM, the Self, becomes the Self." 
+>
+>(3) from Brhadaranyaka Upanisad (   ) : "The Self is described as not
+>this, not that." 
+>
+>
+>
+>Cordially,
+>
+>Sushil Mittal
+>IIIS/WHP
+
+
+(1)  The first passage that you quote seems to be a conflation of the first
+two verses of the Mandukya.
+
+ie. M1   ...   aum ity etad aksharam idaM sarvaM
+             ...  "Aum, this very syllable, is all this."
+
+and M2  ... sarvaM hy etad brahmA ...
+              ... "All this is verily brahma"
+(which is itself a quotation from the Brhadaranyaka II.v.19)
+
+Perhaps your first passage would be better rendered
+
+ "The syllable OM (which is the imperishable brahman) is the universe."
+
+This would then doubtless be the opening statement of Mandukya 1.
+
+
+(2)  Your second passage is certainly Mandukya 12, ie the closing statement.
+
+(3)  As for the "neti neti" passage, try Brahdaranyaka II.iii.6.
+
+
+*****************************************************************
+David Dargie
+Studies in Religion
+University of Queensland
+email: dargie at lingua.cltr.uq.oz.au
+Phone: +61 7 3365 7334
+Home: +61 7 3397 6863
+*****************************************************************
+
+*****************************************************************
+David Dargie
+Studies in Religion
+University of Queensland
+email: dargie at lingua.cltr.uq.oz.au
+Phone: +61 7 3365 7334
+Home: +61 7 3397 6863
+*****************************************************************
+
+
+
+
+

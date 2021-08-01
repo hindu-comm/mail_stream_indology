@@ -1,0 +1,53 @@
++++
+title = "170 Peter J. Claus"
+date = "1997-01-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006804.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006804.html)
+
+
+
+Date: January 28, 1997 
+
+Indology List indology at Liverpool.ac.uk
+
+Dear Members,
+
+
+ Gary Hausman wrote:
+
+
+" In the neighboring state of Tamilnadu, in Kanyakumari
+District, the Nagercoil temple is said to have snakes
+residing in it, which are fed with milk. I did not
+attempt to confirm this - but I can confirm that there
+are snake idols in the temple."
+
+I am not very familiar with Kerala temples, but the
+Naga temples in coastal Karnataka, immediately to the
+north, are Subramania temples.  There is a complete
+merger of these two identities: although the temples
+are called Subramania temples, the representation is of
+a Naga.  They are important temples, being the place
+families see as their "root", muula stana.  
+
+Besides this, the countryside is dotted with naga bana,
+'Naga forests', tiny plots of untouched forest (often
+on valuable agricultural lands) which contain naga
+shrines.
+
+Does anyone know how Subramaniam so thoroughly became
+equated with Naga?  Elsewhere in South Asia is the naga
+so closely identified with (not only fertility, but)
+family origin?
+
+ Peter J. Claus 
+fax: (510) 704-9636 
+pclaus at csuhayward.edu
+
+
+
+
+
+

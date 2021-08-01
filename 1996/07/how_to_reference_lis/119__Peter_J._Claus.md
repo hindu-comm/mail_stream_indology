@@ -1,0 +1,55 @@
++++
+title = "119 Peter J. Claus"
+date = "1996-07-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-July/005507.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-July/005507.html)
+
+Good Question!  There have been times I have wondered this too. But there 
+are several sides to this... Is it like "personal communication" or like 
+a published quote if it is on the LIST itself (rather than just email 
+correspondence between member)?  
+
+Other questions: should we ask the person for his/her permission to quote 
+off the LIST?  If not, how will it affect the LIST's correspondence to 
+think that one might be quoted in an article?
+
+If the LIST-quoted portion of an author's a reply to a specific request 
+for information, and there is a lot of this in a given article, would the 
+article then be like joint authorship?
+
+I'm sure there are lots of such questions.  I like the idea of using the 
+list to get information and thought, but I think it does create the 
+possibility of some new forms of scholarship/writting/authorship that 
+need to be discussed.
+
+Peter Claus
+
+On Wed, 31 Jul 1996, George Thompson wrote:
+
+> Date: Wed, 31 Jul 1996 01:45:46 BST
+> From: George Thompson <thompson at jlc.net>
+> To: Members of the list <indology at liverpool.ac.uk>
+> Subject: how to reference list discussions
+> 
+> Dear Indologists,
+> 
+> Perhaps rather like a hunter finishing off a wounded deer, I am presently
+> trying to put a paper that I am writing out of its misery, with finishing
+> touches such as completed endnotes and full bibliographic references. My
+> question to you is this: how does one reference an Indology List discussion
+> [for example]?  I have never referenced such a thing before, nor have I
+> ever encountered anyone else's attempt at doing so.  Is there an
+> established convention for this sort of thing?
+> 
+> Sincerely,
+> George Thompson
+> 
+> 
+> 
+> 
+
+
+
+

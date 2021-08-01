@@ -1,0 +1,44 @@
++++
+title = "115 Vidyasankar Sundaresan"
+date = "1998-03-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011203.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011203.html)
+
+Vidhyanath Rao <vidynath at MATH.OHIO-STATE.EDU> wrote -
+
+>Vidyasankar Sundaresan <vsundaresan at HOTMAIL.COM> wrote:
+>>[...] The distinction, at least
+>> between k and g exists in Tamil speech,
+>
+>Not really. It just looks that way because so many urban middle class
+>children are exposed to English and Hindi quite early. Those who aren't
+>regularly follow Tamil rules on voicing. As my wife once complained,
+>they will pronounce her name as `ladaa'. If you want to know original
+>Tamil phonology, you should visit the villages in the heartland of TN,
+>not talk to middleclass people in Madras, or totally wrongly, consult
+>those who grew up outside TN.
+
+Well, I grew up in Bombay, so I'll not quote myself as an example. I
+used to attend Tamil classes at the Bombay Tamil Sangam, where the
+teacher had recently moved to Bombay from Madurai. He knew no Sanskrit,
+and very little Hindi or Marathi, and he was not a Brahmin.
+
+In the kuRaL, kaRka kacaTaRa kaRpavai kaRRapin niRka ataRkut taka, my
+Tamil teacher distinctly enunciated D (for T), d (for t) and g (for k).
+And his pronunciation of the word "english" was something like "inkilis"
+- where k was substituted for g - suggesting that his English
+pronunciation was affected by his native Tamil, and not the other way
+round. Although this is anecdotal evidence, and the sounds are not in
+the initial position, my impression is that contemporary Tamil speech
+makes the necessary distinctions, although the script does not, and that
+this phenomenon is not limited to Brahmin speech.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

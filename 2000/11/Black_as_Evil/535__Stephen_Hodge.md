@@ -1,0 +1,41 @@
++++
+title = "535 Stephen Hodge"
+date = "2000-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024069.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024069.html)
+
+Steve Farmer wrote:
+
+> Not to turn this into a biblical studies, Stephen, but the
+> so-called first creation account in Genesis 1 ff. is ascribed to
+> the P and not E layer.
+
+I thought you would notice my mistake -- I realized my error seconds
+after I clicked on "send" and had hoped to get in a correction before
+you had time to respond but I had already used my daily quota of two
+posts.  I had hoped you would be enjoying a break over the weekend :)
+You are, of course, quite right -- the first account of the creation
+in Genesis I is P in origin and thus post-exilic in origin (some
+ascribe it to Ezra and his group).   I had momentarily confused P with
+E because of the repeated mention of "elohim" in this section -- as
+you are doubtless aware this term for God is also used by P up until
+Moses goes up Mt Sinai.  But in that case, Ganesan is perhaps on
+firmer ground when he ascribes the light/dark duality to Persian
+influences although I personally can't see any values ascribed to them
+here -- one has to look outside the Torah for a clear concept of evil
+= dark / good = light to much later para-biblical works.
+
+> There is no more consensus on which ones are valid than there is a
+consensus on stratifications in
+> Vedic documents.
+Well, perhaps not in the detail but there seems to be a reasonable
+consensus regarding the overall sitution -- after all, biblical
+scholars have been at it longer.
+
+Best wishes,
+Stephen Hodge
+
+
+

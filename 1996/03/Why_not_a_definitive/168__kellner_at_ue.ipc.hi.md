@@ -1,0 +1,30 @@
++++
+title = "168 kellner at ue.ipc.hiroshima-u.ac.jp"
+date = "1996-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004541.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004541.html)
+
+At 11:13 PM 96.3.18 +0000, Aditya, the Hindu Skeptic wrote:
+
+>Whatever may be our personal preferences, it is indisputable that MS
+>has beat all the other system. In the market place it is not always
+>the best product that succeeds and I do not have to quote the
+>examples.
+
+Whatever may be the situation on the market - the Internet is supposed to
+be a platform open to users of all sorts of systems (nobody mentioned OS/2
+as yet, or those people who still stick to their old DOS-software), and
+because, theoretically speaking, somewhere out there there might be users
+who employ their own individual operating system, it's nonsense to step up
+from a lowest common denominator-solution to one which would only apply to
+Mac or Windows-users. Hence, I would strongly suggest that, until the
+current lcd is replaced by one which allows for Devanagari, let's stick to
+the present conventions. 
+
+
+
+
+
+

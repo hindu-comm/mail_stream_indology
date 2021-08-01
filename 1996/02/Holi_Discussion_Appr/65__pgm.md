@@ -1,0 +1,20 @@
++++
+title = "65 pgm"
+date = "1996-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004128.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004128.html)
+
+I thought that being associated with chaos and the chaotic
+was a mark of post-modernist respectability.
+
+To sound a sharper note, the easy taking of unintended offence
+is surely one of the least appealing ways of following in the
+footsteps of the modern West.
+
+peter moore
+
+
+
+

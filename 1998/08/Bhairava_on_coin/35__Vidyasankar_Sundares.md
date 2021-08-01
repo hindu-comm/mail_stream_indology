@@ -1,0 +1,46 @@
++++
+title = "35 Vidyasankar Sundaresan"
+date = "1998-08-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-August/013384.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-August/013384.html)
+
+Bhujabalas
+>or Bhujavalas (literally strong armed ones).  On this coin there is
+>a legend in Kanarese/Telugu which reads :Bhairava". The question
+>is if Bahirava is the name of the ruler who issued the coin
+>or it suggest the name of deity of ruler's fancy. Alternately, do
+>we know any Telugu Choda ruler whose name or title was Bhairava?
+
+I'm not a numismatics expert, but is there concrete evidence to equate
+the bhujabalas with the Telugu Codas? It's hard to say whether there was
+a Bhairava among the Telugu Codas. In the 12th-13th c., there were names
+like Nallasiddha, Tammusiddha, Vijayagandagopala, Rajagandagopala etc.
+Still, they are a quite minor family, not very well studied, although
+they claimed descent from karikAla cozha of cankam fame.
+
+>there is a triangular motif which most likely represents temple or
+crown
+>mark with Ankush. This triangular motif was peculiar to Chalukyas of
+>Kalayani. There are no other legends.
+
+Wasn't the motif ever used by the Eastern Calukyas? They were, after
+all, cousins of the Western Calukyas, being descended through
+Vishnuvardhana, brother of Pulakesin II of Badami. And the Eastern
+branch had a more continuous history than the Western branch. The latter
+folks came under the sway of the Rashtrakutas for more than a century,
+and had to abandon Badami and regroup in Kalyani.
+
+I only find it hard to believe that the Telugu Codas in Nellore were
+feudatories of the W. Calukyas, when there were other, stronger powers
+in their own neighbourhood, who would have wanted to bring this region
+under their sphere of control.
+
+Vidyasankar
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

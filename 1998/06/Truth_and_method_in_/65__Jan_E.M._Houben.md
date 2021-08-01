@@ -1,0 +1,28 @@
++++
+title = "65 Jan E.M. Houben"
+date = "1998-06-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012640.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012640.html)
+
+On Sun, 31 May 1998,  S Krishna <mahadevasiva at HOTMAIL.COM> wrote:
+
+>  One interesting development from the discussion seems to be that
+we have *obtained* *limits* for Veda composition: The Sarasvatists( from
+what I understand) think that it happened in 8000 BC and Manansala-ists(
+after Paul Kekai Manansala) think it was composed
+in 500 BC...so why don't we just average the whole thing out?
+
+What is the value of the average of two guesses of which at least one can be
+quite easily disproved? Rather search for more satisfactory methods than for
+quick and soothing results. See end of my first *truth and method* posting for
+some hints on the methodological state of the art of the main disciplines
+involved in the issue. And see my posting *Indo-Aryan im-/e-migration
+discussion and beyond* for a suggestion how to proceed in a methodologically
+sound way.
+
+Greetings, JH
+
+
+

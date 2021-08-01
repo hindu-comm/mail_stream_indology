@@ -1,0 +1,44 @@
++++
+title = "203 Michael Pahlke"
+date = "1999-04-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016628.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016628.html)
+
+Because access to other Versions of the Tripitaka is limited in Nepal,
+it is most convinient for me to use the Tripitaka published since 1993
+by the "Vipassana Research Institute" (Igatpuri), which belongs to the
+vipassana movement of Sri Goenka. This edition reproduces the version
+decided upon at the Sixth Council held 1954 at Rangoon, i.e. the
+so-called "Burmese" or "Chattha-Sangayana" Version.
+
+Since the edition does regrettably not note alternative readings, I
+would be grateful for informed opinion on the following two points:
+
+1) As a general tendency, how to rate the readings of the Burmese
+edition from the perspective of higher textul criticism?
+2) How reliable does the Tripitaka edition published by the "Vipassana
+Research
+Institute" reproduce the Burmese edition. I.e. how frequent are typos?
+Have readings anywhere by changed on purpose?
+
+A last question in this respect, again for someone well acuainted with
+Tripitaka edition published by the "Vipassana Research Institute". :
+On p. [xviii] of the first volume (Dighanikaya, part 1), the editors
+state that their edition has been cross-referenced with that of the PTS.
+I fail, however, to find any reference to the pagination of the PTS
+edition in the running text of the Tripitaka edition published by the
+"Vipassana Research Institute". Is there a "trick" which has eluded me?
+
+Any help with the above querries would be greatly appreciated.
+
+
+
+Dr. Alexander v. Rospatt                      Tel.: 00-977-1-271018
+Nepal Research Center                         Fax:  00-977-1-474463
+PO Box 180
+Kathmandu, Nepal
+
+
+

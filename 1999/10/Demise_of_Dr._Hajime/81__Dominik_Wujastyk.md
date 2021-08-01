@@ -1,0 +1,47 @@
++++
+title = "81 Dominik Wujastyk"
+date = "1999-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018710.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018710.html)
+
+---------- Forwarded message ----------
+Date: Tue, 12 Oct 1999 01:03:48 +0900
+From: Hideaki. NAKATANI
+Subject: Demise of Dr. Hajime NAKAMURA
+
+11 Oct. 1999
+
+Dear Dr. Dominik WUJASTYK,
+
+   We have the deepest sadness to announce you the demise of Doctor Hajime
+NAKAMURA, president of the Institute of the Eastern Studies and professor
+emeritus of the University of Tokyo.
+
+   He has deceased of acute renal insufficiency in the morning of the 10th
+of October 1999, at the age of eighty-six.  In Japan, we are deeply
+saddened by the decease of the most eminent scholar who was at the same
+time an inexhaustible source of encouragement for young scholars.
+
+   The public funeral will be held on the 6th of November 1999 at the
+Tsukiji-Honganji Temple (Tokyo).
+
+With best regards,
+
+                  Yours sincerely,
+
+Sengaku MAYEDA,
+
+Professor emeritus of the Universtiy of Tokyo,
+Department of Indian Philosophy and Buddhist Studies,
+Graduate School of Humanities and Sociology,
+University of Tokyo,
+Hongo, Bunkyo-ku, 113 Japan.
+
+Hideaki NAKATANI,
+
+Professor at the University of Kobegakuin.
+
+
+

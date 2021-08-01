@@ -1,0 +1,37 @@
++++
+title = "137 Allen W Thrasher"
+date = "1999-07-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-July/018042.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-July/018042.html)
+
+Alf,
+
+He doesn't list it on the Dept. of Religious Studies homepage but the
+Department's email address is:
+
+dickshe at mcmaster.ca
+
+Allen
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+LJ-150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+U.S.A.
+tel. 202-707-3732
+fax 202-707-1724
+email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

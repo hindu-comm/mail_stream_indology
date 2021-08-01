@@ -1,0 +1,52 @@
++++
+title = "303 Vidyasankar Sundaresan"
+date = "1999-12-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019596.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019596.html)
+
+Yashwant Malaiya <malaiya at CS.COLOSTATE.EDU> wrote:
+
+>
+>Regarding Vishal's note(below), is there a copperplate of Sudhanva?
+
+Almost a hundred years ago, the Dvaraka Matha published in Devanagari
+script, the text of a grant supposedly given by a king named Sudhanva to
+Sankara himself. The date given in this grant is in the 6th century BCE.
+This grant was listed as evidence in an early 20th century court case
+involving the Dvaraka Matha, but never actually introduced during the
+hearings. It may be remembered that the succession at the Dvaraka Matha was
+under dispute at this time. Some people have questioned whether such a
+record of a grant even exists.
+
+Assuming that there is indeed such a copperplate recording a grant, there
+are important questions -
+
+1. Is it an original record of what Sudhanva gave, or a copy?
+2. What script was it written in? In 6th century BCE, it had to have been
+pre-Asokan Brahmi or Kharoshti.
+3. Who deciphered it? Where are the details published?
+4. Were copperplates used to record events in the 6th c. BCE?
+
+I suspect that some pundit got carried away in his enthusiasm, hit upon the
+name Sudhanva in the hagiographic texts, claimed that there was a
+copperplate record of his grant to Sankara, and filled in an appropriate
+date that would convert to 6th c. BCE. The late 19th century seems to have
+been a fertile time for generating such written records and attributing them
+to the distant past.
+
+Among the traditional Advaita Mathas, Sringeri is probably alone in
+accepting an 8th century CE date for Sankara. Puri, following Dvaraka, also
+relies on this Sudhanva grant. Almost all the others claim a date before
+Christ. The contemporary authorities in the Mathas know that this is a
+significant difference among them, and have candidly acknowledged it (vayaM
+matabhedinaH) in the very first sentence of their 1993 resolution on the
+Ayodhya issue.
+
+Vidyasankar
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

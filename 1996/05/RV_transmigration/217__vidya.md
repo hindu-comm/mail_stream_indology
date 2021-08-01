@@ -1,0 +1,35 @@
++++
+title = "217 vidya"
+date = "1996-05-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005034.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005034.html)
+
+> By the way, if Mani's interpretation is correct, and VAmadeva is asserting
+> his consciousness of Brahman, and thereby his unity with all things, what
+> becomes of a doctrine of transmigration and reincarnation?  Doesn't it
+> evaporate?
+
+If the doctrine of transmigration and reincarnation (at least as understood
+today) is foreign to the RV, then isn't the doctrine of brahman being
+everything also upanishadic and therefore removed from the RV itself? The
+vedAnta schools view vAmadeva's assertions as an expression of brahman-
+realization. But modern scholars, not being constrained by the brahmasUtras,
+may be able to read other meanings into it, no? 
+
+In this context, I am also reminded of Eliot Deutsch's characterization of
+karma as "a convenient fiction" for advaita vedAnta. I have always felt that
+this overlooks the detailed description of jIvanmukti and how karma operates
+in classical advaita. What happens to the doctrine of transmigration and
+reincarnation when the brahman consciousness is asserted? All karma itself
+vanishes, except for prArabdha karma. As for the doctrine, it ceases to 
+matter, because the effort of the mumukshu is not so much to understand
+karma as to find a way out of it. 
+
+S. Vidyasankar
+
+
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "307 Yaroslav V. Vassilkov"
+date = "1998-11-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014202.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014202.html)
+
+Dear Lance and Michael,
+        I would not limit the period of building bridges between science and
+Hindu world-pattern by the turn of the century only as Robert B. Langdon
+does. It went on all the time. Please don't forget such classics in the field
+as 1. What is Life? The Phisical Aspect of the Living Cell.
+By Erwin Schro(e)dinger. Dublin (?), 1945,
+   2. Works by modern "Transpersonal psychologists", such as S.Grof (Realms
+of the Human Unconscious. Observations from LSD Research. Viking Press, N.Y.,
+1975; Beyond the Brain. N.Y., 1985), Ken Wilber (The Atman Project. Wheaton,
+Quest, 1980; No Boundary. Eastern and Western Approaches to Personal Growth.
+Boston and London,Shambhala, 1989). To the same trend belonged the late
+Russian mathematician V.Nalimov (Faces of Science. Philadelphia, ISI Press,
+1981; Realms of the Unconscious: The Enchanted Frontier. Philadelphia, ISI
+Press, 1982; Space, Time and Life. The Probabilistic Pathways of Evolution.
+Philadelphia, 1985), though his religious orientation was rather Christian,
+than Hindu-Buddhist.
+        Best regards,
+                        Yaroslav
+
+______________________________
+
+Yaroslav V.Vassilkov, Ph.D.
+Department of South and SE Asian Studies
+Institute of Oriental Studies
+Dvortsovaya nab., 18,
+St Petersburg, 191186,
+Russia
+
+Home address: Fontanka, 2,
+kv. 617, St Petersburg,
+191187, Russia
+tel. +7 (812) 275 8179
+e-mail: yavass at YV1041.spb.edu
+
+
+

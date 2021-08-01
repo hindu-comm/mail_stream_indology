@@ -1,0 +1,31 @@
++++
+title = "489 Raveen Satkurunathan"
+date = "2000-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020760.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020760.html)
+
+>In my article on Toda, I suggest that this language descends from
+>that form of early South Dravidian which was later to become Old Tamil. It
+>branched off from this "pre-Tamil" mother language when the ancestors of
+>the Toda and Kota speakers moved to the Nilagiris from the plains and lost
+>contact with other pre-Tamil speakers. This "proto-Toda-Kota" then
+>developed on its own, until it branched into two, Toda and Kota, when
+>Iranian horsemen belonging to the Sakas who ruled western India entered
+>the Nilagiris around 400 AD. The newcomers, probably just men,  married
+>local "pre-Toda" speakers, and started speaking their language, but
+>the Dravidian speech of these Iranians was modified by the influence of
+>their own native Saka language, and this strange way of speaking was
+>inherited by their children. Evidence for this is the similarity of Toda
+>phonology with Iranian phonology, while it differs very much from other
+>Dravidian languages including the neighbouring and closely related
+>Kota; archaeological evidence points to the coming of Sakas to Nilagiris
+>c. 400 AD, and the physical features of the Todas as well as their
+>polyandric marriage system also point to Iranians. It remains to search
+>the Toda vocabulary carefully for possible Iranian loanwords, which could
+>provide really clinching evidence.
+With best regards, Yours, Asko Parpola.
+
+
+

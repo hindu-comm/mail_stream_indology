@@ -1,0 +1,38 @@
++++
+title = "15 Swaminathan Madhuresan"
+date = "1999-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015058.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015058.html)
+
+SNS>gosh....what a frustrated man !
+...
+SNS>Actually, the long rant is very useful.
+SNS>We get an idea of the quality and venom of the people
+SNS>who have been interpreting Indian history so far.
+
+SNS>And for the first time in a long time there is atleast the
+SNS>possibilty of responding to the venom that the so called
+SNS>"scholars" spew.
+
+SNS>Subrahmanya
+
+   Observing Indology rather shows how frustrated you are :-)
+
+   In another message, I saw - the list can do without such
+   snide remarks. The very same applies here too.
+
+   Do you have any analytical response to Prof. Smith's
+   Classifying the universe or Prof. Ganesan's
+   formulation of how varna exploitation got going?
+
+   Swaminathan Madhuresan
+   Bombay, India
+
+_________________________________________________________
+DO YOU YAHOO!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

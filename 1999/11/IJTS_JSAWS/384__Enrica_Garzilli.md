@@ -1,0 +1,41 @@
++++
+title = "384 Enrica Garzilli"
+date = "1999-11-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019271.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019271.html)
+
+Dear Colleagues,
+
+1) I am very glad to announce that Ms. Kapila Vatyasyan, the Director of
+the Indira Gandhi National Centre for the Arts (IGNCA) in New Delhi has
+accepted to become a member of the Editorial Board of the *Journal of
+South Asia Women Studies* (http://www,asiatica.org/)
+
+2) If you want to subscribe to the *International Journal of Sanskrit
+Studies* (avg. 3 msgs per year) and the *Journal od South Asia Women
+Studies* mailing lists (avg. 6 msgs per year) mailto:
+
+ijts-subscribe at asiatica.org or jsaws-subscribe at asiatica.org
+
+subject and/or body:
+
+subscribe
+
+The subscrition to both lists is free.
+
+The subscrition to each journal is US$ 35 (per life). You can submit
+papers, read abstracts, subscribe on our page http://www.asiatica.org
+
+--
+Dr. Enrica Garzilli                 University of Perugia (ITALY)
+Istituto di Linguistica                      Piazza Morlacchi, 11
+06123 Perugia                  Tel./Fax: +39-75-585 3755 (office)
+Editor-in-Chief,
+Intl. Journ. of Tantric Studies, Journal of S. Asia Women Studies
+http://www.asiatica.org/
+*****************************************************************
+
+
+

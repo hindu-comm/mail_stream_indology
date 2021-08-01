@@ -1,0 +1,28 @@
++++
+title = "145 mrabe at artic.edu"
+date = "1995-11-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003612.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003612.html)
+
+Can anyone identify the presumptive source in niti or katha literature for
+John Godfrey Saxe's poem "The Blind Men and the Elephant," first published
+in his _Clever Stories of Many Nations_ (Boston, 1865), 61-64?
+
+I had suspected that he invented the premise himself, but recently came
+across an early 19th c. painting on the subject from China. Might it then
+have an East Asian origin?
+
+Any leads or suppositions will be much appreciated.
+
+Michael Rabe
+Saint Xavier Univerity
+The School of the Art Institute of Chicago
+
+
+
+
+
+
+

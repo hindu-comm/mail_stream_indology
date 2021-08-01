@@ -1,0 +1,21 @@
++++
+title = "448 Samira Sheikh"
+date = "2000-10-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023360.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023360.html)
+
+I would be very interested if any members have information on
+
+1. The incidence or spread of leprosy/vitiligo/syphilis in pre-modern
+India.
+2. Therapeutic methods for leprosy and other skin diseases - did these
+involve mercury, as with syphilis treatment in the Islamic world and
+Europe? Also, was the cure of leprosy associated with alchemical
+experiments, and thereby with Tantrics and other esoteric groups?
+3. Leprosy contraction and cure myths, and any connection with solar
+worship.
+
+
+

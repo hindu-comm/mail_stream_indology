@@ -1,0 +1,52 @@
++++
+title = "213 Allen Thrasher"
+date = "1996-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006264.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006264.html)
+
+You might try the various "Castes and Tribes" books put out by the
+government of British India and some of the princely states.
+
+Allen W. Thrasher
+Senior Reference Librarian
+Southern Asia Section
+Library of Congress
+Washington, DC 20540-4814
+tel. (202) 707-5600
+fax  (202) 707-1724
+email: athr at loc.gov
+
+
+
+On Sat, 23 Nov 1996, Anshuman Pandey wrote:
+
+> 
+> I am wondering whether there exists some sort of text or source which
+> provides details as to which vedic school a certain clan within a
+> certain brahmanical community (specifically: Kanaujiyas, Sarayuparis)
+> belonged.
+> 
+> In regards to the Kanaujiyas and the Sarayuparis, there exist for these
+> communities documents called 'vanshavalis', but I simply cannot get ahold
+> of these documents. Surprisingly, the copy of the 'vanshavali' of the
+> Kanaujiyas is missing from the libraries here. It seems that even in Uttar
+> Pradesh - stronghold of these two groups - such documents are a rare find.
+> 
+> I immensely appreciate any leads or references to sources where I could
+> examine this issue in a greater light and in a more detailed manner.
+> 
+> Thank you.
+> 
+> Regards,
+> Anshuman Pandey
+> 
+> 
+> 
+> 
+
+
+
+
+

@@ -1,0 +1,41 @@
++++
+title = "185 Ole Alstrup"
+date = "1999-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019006.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019006.html)
+
+Did the 19th century scholar H.H. Wilson translate the
+Padma Purana?
+
+How many different sanskrit versions exists of this
+purana and how many english translations?
+
+I have been told that the issue of versions of the
+Padma Purana is complicated by
+(1) the factor of the existence of isolated extant
+texts which claim to be supplements to the Purana and
+by
+(2) the factor of verses that commentators over the
+centuries have quoted as being from the Purana that do
+not appear in any known extant text purporting to be
+part of the Purana.
+
+Also I am interested to find out if there is a
+"Upapurana" ie. subsidiary Purana, which bears the
+name of Padma Purana?
+
+Any information on this would be greatly appreciated,
+
+Thank you very much,
+
+Ole Alstrup
+
+
+__________________________________________________
+Do You Yahoo!?
+Bid and sell for free at http://auctions.yahoo.com
+
+
+

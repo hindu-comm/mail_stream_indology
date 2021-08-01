@@ -1,0 +1,23 @@
++++
+title = "495 Vidhyanath Rao"
+date = "2000-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024029.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024029.html)
+
+Looking at the text version of the TS at TITUS,
+I noticed an interesting pattern: At boundaries
+marked as ` / ' (ardhrca?) and ` // ' (actual
+breaks), there is only aH. But at the boundaries
+marked as ` \ ', sandhi rules are not applied. For
+example, the opening section has
+    k/armaNe \ <br> /A
+    -/Sa~Msas \ <br> rudr/asya
+    bahv/Is \ <br> y/ajamANasya
+Unfortunately, there is no explanation of the notation
+at the head of the file. This might reflect an editorial
+convention rather than manuscript practice.
+
+
+

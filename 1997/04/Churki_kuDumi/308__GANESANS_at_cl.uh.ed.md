@@ -1,0 +1,42 @@
++++
+title = "308 GANESANS at cl.uh.edu"
+date = "1997-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007795.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007795.html)
+
+
+RE: CHURKI
+
+   Is churki/juu.Du attested in Vedas or post-Vedic literature?
+cuuTu is to wear, in Tamil. cuuTu and juuDa look pretty close.
+
+kuDumi means mountain top, and also churki in Tamil. Sangam Tamil poems
+show warriors wearing kuDumi. Could this be a custom adapted by
+Brahmins from Dravidians and later on, came to
+be associated with Brahmanical culture?
+
+Did Jains always shave off their head? When Tiruvalluvar says,
+"mazhiththalum, nITTalum vENDaa" he seems to refer to the complete shaving 
+off by Jain monks and kuDumis of Samnyasis.
+
+By the way, the chinese tale of tying down the churki to a nail in
+the ceiling, during a long night of study for examinations is very current
+in Tamil Nadu. I heard it 30 years ago in my village. I did not know 
+it has a chinese parellel.
+
+Like the Nambudiris, the ChOziya Brahmins were also having kuDumi
+in the front (munkuDumi). Periyavaachchaan PiLLai, Vyakhyana Charavarti
+in Srivaishnavism is a ChOziya Brahmin, if my memory is right.
+There is a proverb "chOziyan kuDumi summa aaDaathu" - "The kuDumi of
+the Brahmin from Chola country does not swing without a reason".
+There is a nice story behind this proverb. If I find out, I will post.
+
+N. Ganesan
+
+
+
+
+
+

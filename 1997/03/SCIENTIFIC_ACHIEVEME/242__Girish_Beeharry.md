@@ -1,0 +1,54 @@
++++
+title = "242 Girish Beeharry"
+date = "1997-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007387.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007387.html)
+
+Hi,
+
+I have been asked to post this message on behalf of someone who is not on this
+list.
+
+Bye,
+
+Girish Beeharry
+
+------- Start of forwarded message -------
+Date: Mon, 17 Mar 1997 23:51:04 -0600
+From: sudheer_birodkar at hotmail.com
+Subject: SCIENTIFIC ACHIEVEMENTS of Ancient India
+Reply-To: sudheer_birodkar at hotmail.com
+Organization: Deja News Usenet Posting Service
+X-Article-Creation-Date: Tue Mar 18 05:45:17 1997 GMT
+
+I am a student of Indology, and  since 1980 I have been working on the
+subject "Ancient India's Contribution to Science and Technology". I have
+recently completed a book which covers among other sciences, the advances
+made in ancient India in the fields of Mechanical Engineering, Civil
+Engineering, Chemistry, Physics, Mathematics, Astronomy, Medical Science,
+Shipbuilding and Navigation, Fine Arts, etc.
+
+I believe the material in this book would be of interest to students of
+the History of Science and Technology, Indologists and Students of Indian
+society and culture.
+
+For more on this you can visit me at:
+
+http://members.tripod.com/~sudbee/index.html
+
+I am also interested in more info on the history of science and
+technology with specific relevance to ancient India. Please let me know of
+any relevant sites.
+
+I look forward to hearing from you.
+
+Regards
+
+Sudheer Birodkar
+------- End of forwarded message -------
+
+
+
+

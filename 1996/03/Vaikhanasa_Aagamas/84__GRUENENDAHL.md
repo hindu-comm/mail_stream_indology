@@ -1,0 +1,69 @@
++++
+title = "84 GRUENENDAHL"
+date = "1996-03-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004413.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004413.html)
+
+According to the New Catalogus Catalogorum you can find mss. of the 
+Anandasamhita 
+
+1)  in the Government Oriental Manuscripts Library, Madras:
+    Descriptive catalogue,, no. 14758 (20 cantos); Triennial 
+    catalogue, 3477 (b), 3825
+
+2)  in the Punjab University Library, Lahore:
+    Catalogue, vol. 2 App., p. 54 (by Marici)
+
+It may also help to enquire at the New Catalogus Catalogorum office, 
+Madras University (next door to the Government Oriental Mss. Lib.) 
+whether they have collected additional entries in the meantime.
+(I don't have their exact address with me, but I'm sure you can find 
+that out.)
+
+
+
+Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+37070 Goettingen
+Germany
+Phone: 0551/395283
+
+GRUENEN at mail.sub.uni-goettingen.de
+
+
+
+
+> Dear Colleagues,
+> 
+> Does any one know where (or in which library collection) I would be able to
+> find the manuscript of Ananda Samhita.  It is a Vaikhaanasa Aagama text.  W
+> Caland made some notes on it when he was working on it in the late 1920s.
+> I did obtain of photocopy of the printed (in Telugu script with a
+> translation into Telugu) text from Prof Witzel.  The text contains some
+> errors here and there.  I would like to compare the original manuscript
+> with the printed text.  I would deeply appreciate any leads in this
+> connection.
+> 
+> Pratap
+> 
+> +----------------------------------------------------------------+
+> Dr. P. Kumar
+> Department of Hindu Studies & Indian Philosophy
+> University of Durban-Westville
+> Private Bag X 54001
+> Durban
+> 4000
+> South Africa
+> Tel: 031-820-2194
+> Fax: 031-820-2160
+> Email: kumar at pixie.udw.ac.za
+> 
+> 
+> 
+> 
+
+
+
+

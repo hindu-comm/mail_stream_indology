@@ -1,0 +1,49 @@
++++
+title = "190 Narayan S. Raja"
+date = "1999-09-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018436.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018436.html)
+
+On Fri, 10 Sep 1999, Sudalaimuthu Palaniappan wrote:
+
+> raja at IFA.HAWAII.EDU asked:
+>
+> > Could he just have been stating a simple fact,
+> >  i.e., that ceGkuTTuvan2 was mATalan2's king,
+> >  rather than "articulating a  case of linguistic
+> >  nationalism"?
+>
+> No, because mATalan2's king is a Chola  while ceGkuTTuvan2 is a Chera king.
+> The conversation takes place on the bank of the river gaGgA.
+
+
+Thanks for the clarification.
+I will try to find "silappadhikaram"
+in our University library and
+understand who said exactly what
+to whom, and in what context.
+
+I believe that most Tamilians, if asked
+to identify the main characters of
+"silappadhikaram", would name
+Kannagi, Kovalan, the Pandya King
+(Nedunchezhiyan?), maybe the Queen,
+and Madhavi, probably in that order.
+I actually have no clue who Matalan
+is; certainly, he is not a major figure.
+I will rectify my ignorance regarding
+him.  Anyway, though, drawing conclusions
+about "linguistic nationalism" from one
+of the least important characters in
+"silappadhikaram" seems to be questionable.
+More later.
+
+Regards,
+
+
+Raja.
+
+
+

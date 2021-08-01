@@ -1,0 +1,30 @@
++++
+title = "11 Vidhyanath K. Rao"
+date = "1995-08-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/002882.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/002882.html)
+
+
+A few days back, there was a question about how to send the replys only to
+the person who posted the message rather than all the members. After
+some experimentation, I think that I have one possible solution. This
+basically consists of using a perl script to change the "Reply-To"
+field to be the same as the "From:" field. This will work only if you
+are using an Unix system; it is best if you filter your incoming mail
+to seperate the mailing list messages from others. Let me know if you
+want to take a look at the script.
+
+Of course, you can always mail a message manually to the address given in
+the "From:" field :-).
+
+It would be nice if the Reply-To field is set by the list software itself.
+We can reply to the list by using the "replyall" command or its equivalent.
+
+Nath Rao (natharao+ at osu.edu)		614-366-9341
+
+
+
+
+

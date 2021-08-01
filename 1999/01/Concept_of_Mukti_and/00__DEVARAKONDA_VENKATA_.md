@@ -1,0 +1,25 @@
++++
+title = "00 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1999-01-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/014972.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/014972.html)
+
+Please give some references.
+
+regards,
+
+sarma.
+At 07:36 AM 12/31/98 +0530, K.S.Arjunwadkar wrote:
+>Thus, at times, he dubs his opponent who solely relies on
+>logic/reason as a bull without a tail and horns, ridicules him as speaking
+>with an unrestrained mouth, and so on. While concluding his criticism of
+>the philosophical doctrines of the Buddha, he remarks that the Buddha was
+>either insane or one who hated the mankind to the extent of taking pleasure
+>in misguiding it. I can, if required, quote from his works to support my
+>statements.
+>
+
+
+

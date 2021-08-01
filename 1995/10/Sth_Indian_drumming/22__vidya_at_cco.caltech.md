@@ -1,0 +1,26 @@
++++
+title = "22 vidya at cco.caltech.edu"
+date = "1995-10-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003267.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003267.html)
+
+To begin with, the practice of having music concerts is itself 
+a fairly recent phenomenon, about 100 - 150 years old. As far as 
+I am aware of, there were no separate tAla vAdya kacceris till the
+later 60's - early 70's. I haven't heard of the stalwart Palghat 
+Mani Iyer performing any tAla vAdya kacceris in the modern format.
+He did play once with the tabla maestro Tirakhwa, if I remember
+right. 
+
+Thus, I would think that it is indeed a recent phenomenon to have
+tAla vAdya ensembles performing concerts, roughly 25-30 years old. 
+
+S. Vidyasankar
+
+
+
+
+
+

@@ -1,0 +1,23 @@
++++
+title = "169 aklujkar at unixg.ubc.ca"
+date = "1996-05-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/004973.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/004973.html)
+
+Dear Allen,
+
+Thanks for the reference to the Guruparamparacarita by Ramakrsnasomayajin
+(Bombay: Sri Venkatesvara Press, 1907-08). Actually, I was looking for
+Jagad-guru-ratna-maalaa... a few months ago. I got to see a copy that book
+in Madras. The title you have specified also seems interesting. I hope to
+be able to look at it one of these days. -- ashok
+ashok aklujkar
+Professor, Dept. of Asian Studies, University of British Columbia,
+Vancouver, B.C., Canada V6T 1Z2
+
+
+
+
+

@@ -1,0 +1,41 @@
++++
+title = "36 RAH"
+date = "1995-07-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002744.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002744.html)
+
+This message may be of interest to some of you.
+
+Robert A. Hueckstedt, Associate Professor of Indic Languages
+Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+Winnipeg, Manitoba R3T 2N2 Canada email: hueckst at cc.umanitoba.ca
+fax 1 204-275-5781 phones 1 204-474-8964, 1 204-488-4797
+
+---------- Forwarded message ----------
+Date: Wed, 5 Jul 1995 00:26:57 -0400 (EDT)
+From: Dana Stein <steinda at UMDNJ.EDU>
+To: hueckst at CC.UManitoba.CA
+Subject: Indic languages
+
+
+I have a question for you. Do you know anyone [or more than one person] 
+who might be willing to translate about 6 lines of non-technical English 
+into Indic languages?
+
+I have a book project which involves the translation of these lines into 
+as many of the world's languages as we can obtain, and then also to get 
+the native script and an audio rendition if possible. We are up close to 
+70 languages and are still looking for more. 
+
+Can you suggest anyone?  Thanks for your help.
+
+Rickey Stein
+steinda at umdnj.edu
+
+
+
+
+
+

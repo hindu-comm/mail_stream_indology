@@ -1,0 +1,35 @@
++++
+title = "106 Chandrasekaran, Periannan"
+date = "1999-01-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/054076.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/054076.html)
+
+I apologize for leaving out this in the previous posting.
+
+The book says later:
+item #7 (page 368):
+[I have transliterated exactly the text incluidng punctuation...in that item
+since the text
+seems ambiguous to interpretation]
+---------------------------
+7. 'paarththan than thEr mun ninRaanai' iththalaththuk kaNtEnenRum,
+'theLLiya singkamaagiyath thEvaith thiruvallik kENi kaNtEnenpathum'
+thirumangkaiyain paauraikkum avathaara n-inaivUttukaLaagum.
+----------------------------
+
+If you read closely, the the first pair of apostophes ends before the phrase
+"iththalaththuk" (meaning "at this site"). As the text appears, the author
+of
+the chapter seems to quote a text by the aazvaar in a potentially different
+context to relate to this temple. But we need to explore this fruther.
+
+Even otherwise, the book seems to be referring to a text by
+thirumangkai aazvaar that talks about "he who stood in front of
+the chariot of paarthan".
+No coordinates of that text supplied in the chapter. Also
+it says he stood in front of the chariot and of "paarththan"
+
+
+

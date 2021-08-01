@@ -1,0 +1,34 @@
++++
+title = "28 Vaidix"
+date = "1998-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011622.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011622.html)
+
+Dear list members,
+
+The syllable Om is said to be same as uthgItha (chandogya upaniSat).
+
+uthgItha is the last portion of inhalation when free and unconstrained
+inhalation takes place (as per comparision of breathing cycle with other
+cycles described therein, such as rain, seasons etc.  uthgItha is the last
+portion of ArohaNA.
+
+The meditation on last portion of inhalation sounds like Om.
+
+It can be concluded that meditation regarding uthgItha is superior to spelling
+out the word 'OM' because meditation is superior to rite as per zaGkarA's
+commentary.
+
+uthgItha represents the leadership within.
+
+If we consider uthgItha is a brick, all the vedic gods such as indra,
+brhaspati, viSNu &c are made up of this brick.  They are all different forms
+of uthgItha.
+
+Hope this helps.
+Bhadraiah Mallampalli
+
+
+

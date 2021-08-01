@@ -1,0 +1,35 @@
++++
+title = "10 yanom at ksuvx0.kyoto-su.ac.jp"
+date = "1995-05-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002400.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002400.html)
+
+Dear colleagues,
+
+I have put the e-text of KauTilya's Arthazaastra
+at the ftp site of my university: 
+ccftp.kyoto-su.ac.jp.
+You can ftp it by anonymous login.
+The file is located at the directory:
+pub/doc/sanskrit/dharmas
+by the name kaz.dhz.Z
+
+As the extension '.Z' indicates the file was compressed
+by the 'compress' command of unix, so you can uncompress
+it on your host machine.
+The attribute of the file is
+
+-rw-r--r--  1 yanom        1066 May  2 12:35 readme.001
+-rw-r--r--  1 yanom      213873 May  2 12:24 kaz.dhz.Z
+
+Michio YANO
+Professor of Sanskrit
+Kyoto Sangyo University
+yanom at cc.kyoto-su.ac.jp
+
+
+
+
+

@@ -1,0 +1,61 @@
++++
+title = "648 S Krishna"
+date = "1998-05-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012598.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012598.html)
+
+>From:         "Jan E.M. Houben" <JHOUBEN at RULLET.LEIDENUNIV.NL>
+
+>        In fact Mueller's guess was subdivided into smaller ones, which
+brought him to 1000 B.C. as the latest date for the Rgveda. His
+'firmest' starting point was the date of the Buddha at ca. the 6th
+century B.C. In his time this was either a guess or a naive acceptance
+of Buddhist sources; it would take much philological research and the
+testing of several diverging hypotheses>?>
+
+Is this the way he established the date of the Vedas?...I remember
+reading Dr Thomas Trautmann's comments about work in the late 18th
+century which centred around the meeting between Alexander and Porus
+( which was historically verifiable and had been recorede by both
+sides)...the chronology was then back -calculated according to the
+Christian calender and the date of the Veda arrived at...I believe that
+Mueller's  estimates for the date of the Veda are simply a more detailed
+examination of guesstimates that were already existing by then....
+
+A request:  How about requesting archeologists involved in IVC research
+to come forward and present their views...We've seen rephrasings of
+their words by people who are Vedicists, philologists
+or others..I think that if the concerned gentlemen were brought in
+themselves, then a more meaningful( or atleast a more spirited debate:-)
+would result, which is infinitely better than some of the
+latest postings full of one-liners aimed at tearing down the other
+person's post rather than bringing in anything new....
+
+  One interesting development from the discussion seems to be that
+we have *obtained* *limits* for Veda composition: The Sarasvatists( from
+what I understand) think that it happened in 8000 BC and Manansala-ists(
+after Paul Kekai Manansala) think it was composed
+in 500 BC...so why don't we just average the whole thing out( Earlier
+on, there were complaints by some nettors that results were obtained
+thru unscientific methods and that Seidenberg's papers/methodology
+should be emulated) and say that the Vedas were composed in 3750 BC?:-)
+
+ Back to whipping the dead horse again....:-)
+
+
+Regards,
+Krishna
+
+
+
+
+
+>
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "354 Gautama Vajracharya"
+date = "1997-05-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008343.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008343.html)
+
+Those who are interested in the Indian concept of gestation may like to read
+my recent article on the frog hymn (RV. 7. 103) which has been accepted for
+the upcoming issue of the Electronic Journal of Vedic Studies.  I will quote
+a paragraph from the article:
+
+"In general the word saMvatsara means a year, but originally it denoted only
+ten lunar months of gestation.  The original meaning, however, remained
+intact throughout the history of Vedic literature when the word is used in
+the context of pregnancy, in particular atmospheric pregnancy, which begins
+in autumn and ends with the birth of a rain child... Some Vedic statements
+mention ten lunar months as the normal duration of pregnancy, and others
+merely use the term saMvatsara to denote the same period of time."
+
+Any comments or criticism will be highly appreciated.
+
+Gautama Vajracharya
+
+
+
+
+

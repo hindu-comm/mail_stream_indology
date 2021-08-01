@@ -1,0 +1,24 @@
++++
+title = "75 RAJAGOPALANM at HARPO.TNSTATE.EDU"
+date = "1996-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004395.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004395.html)
+
+Dear Tritsch,
+As I said before in my posted letters  those figures on the temple do not
+have the purpose of having sexuality as a message. So do not go to khajuraho
+with the hope of a good nice sexy show if that is your intention. As I 
+posted earlier the verses on the walls of the temple indicate that the
+temple stands for  the noblest of human values . Some viewers do not want
+the same story repeated again and again . But I could not help it
+since you brought it up. The age old writngs  which started with some westerners
+who gave their interpreyretation about the temple stands for does seem to be 
+valid .The  purpose of the temple is well interpreted by its users and
+the hindu literature on temples in general and the writing on the wall in
+particular.   M. Rajagopalan 
+
+
+
+

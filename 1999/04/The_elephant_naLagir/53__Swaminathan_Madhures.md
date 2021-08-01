@@ -1,0 +1,33 @@
++++
+title = "53 Swaminathan Madhuresan"
+date = "1999-04-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016486.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016486.html)
+
+ >Turner's CDIAL 6936 for 'naDa' suggests :'possibly through contact with
+ >Dravidian Kannada naLLu 'reed' , Tamil nel 'hollow' and cites
+ >Thomas Burrow.
+ >There are many words in Tamil like noLLai, nALam  etc. which will
+ >show that the a hollow or tubular structure is the root sense.
+
+   There are two meanings for 'naL-' present always in Tamil literature,
+   naL- = black as well as center. By the L -> D change, observe
+   'naDu' = center or middle. We call the 12 noon as 'naL pakal' (naNpakal
+   with sandhi) or 'naDu pakal'. Any reed with hollow hole through the
+   "middle"(naL) axis is called Ka. naLLu or Ta. naLam, nALam, coined from
+   naL = middle. Sanskrit 'naDa/naLa' representing 'reed' may stem
+   from Ta. naDu/naL- 'center'.
+
+   To me, MBh. Nala/NaLa and NaLagiri/Nalagiri in Jataka myths appears
+   to represent 'black' in contrast to 'good'(Emeneau), 'reed', 'roaring'.
+
+   SM
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

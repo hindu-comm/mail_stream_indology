@@ -1,0 +1,18 @@
++++
+title = "79 Madhav Deshpande"
+date = "1999-08-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-August/018119.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-August/018119.html)
+
+        Currently I am looking into origin myths about different Brahman
+communities.  There are the famous stories in works like the
+Sahyaadrikha.n.da about the origins of the Chitpavan, Karhade, and
+Sarasvata Brahmins of Maharashtra and Goa.  Are there any origin stories
+about the Brahman communities in Tamilnad, Andhra and Karnataka?
+        Best,
+                                Madhav Deshpande
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "536 Vidyasankar Sundaresan"
+date = "2000-12-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024757.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024757.html)
+
+>Is this not a confusing of two different types of "two-truth theories"?
+>In the case of Newton and Einstein, the later theory includes the
+>earlier without declaring the earlier theory false. (This is rather
+
+I don't mean to say that relativity vs. Newtonian physics
+corresponds to absolute vs. relative truth in philosophy.
+I just pointed out that this is *a* kind of two-truth view,
+in a body of knowledge that developed independently of old
+schools of philosophy, and that was uninterested in textual
+exegesis. Still, Newtonian theory would not be considered
+true when you have a situation where velocity nears that of
+light. There are different takes on the hierarchy implied
+in this. As Gupta pointed out, relativity is, in its turn,
+really an approximation of a higher-level theory. Whether
+one sees syAdvAda/anekAntavAda or mAyAvAda/advaitavAda in
+this is a function of one's own original philosophical
+inclinations. See for example, Nancy Cartwright's "How the
+Laws of Physics Lie" 1983, NY: OUP.
+
+L. Cousins did mention Kundakunda once, but the point that
+most still seems to miss is that the paramAttha-sammuti
+distinction in madhyamaka is quite different from the
+advaita distinction between paramArtha and vyavahAra. It
+is not clear to me on what basis one can classify "double-
+truth" theories into types, and say that this type is
+different from that one. Each such theory presents its own
+unique features.
+
+Best,
+Vidyasankar
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

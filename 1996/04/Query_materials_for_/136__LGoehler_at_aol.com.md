@@ -1,0 +1,71 @@
++++
+title = "136 LGoehler at aol.com"
+date = "1996-04-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004797.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004797.html)
+
+Dear Ms Kellner
+
+
+  it may be possible that the discussion of ZabdanityatA was not continued at
+all after KumArila. Himself he considered the topic of utmost importance. But
+he made clear that the controversy was about different things: The
+:NaiyAyika's considered zabda as sound. But in :MImAMsA it meant quite a
+another thing. In that sense a refutation of zabdanityatA would hardly make
+any sense.  A good representation of this is still Emil Abegg: Die Lehre von
+der Ewigkeit des Wortes bei Kumarila. In: Antidoron Festschrift fuer Jacob
+Wackernagel. Goettingen 1923
+  If you should come across later NyAya texts that discuss this I will be
+interested to get to know them viz. to read your article on that topic.
+
+Lars Goehler
+
+
+> From indology-l at pwyz.rhein.de 23 1996 Apr +0100 00:40:00
+Date: 23 Apr 1996 00:40:00 +0100
+From: indology-l at pwyz.rhein.de (Peter Wyzlic)
+Subject: Re: Wikner preprocessor
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Reply-To: Peter at pwyz.rhein.de
+
+Hello ucgadkw,
+
+In your
+message: <9604221508.AA0123 at DJM3P9.wellcome.ac.uk>
+date: <22 Apr 96>
+
+You wrote on "Re: Wikner preprocessor":
+
+>Girish Sharma said:
+>>
+>> I have been trying to get setup to try the new Wikner Devanagari font
+>> but my software tools are not up to compiling the preprocessor "skt.c".
+>
+>Please do write to Mr Wikner and tell him you need the executable.  I
+>tried to convince him to put one into his distribution, but he wanted to
+>keep his zip file as small as possible.  However, if he hears from some
+>people who need the .exe, he may put one in a future distribution.
+
+But the compiled program searches the file "skt.opt" in the path you have to
+specify in the source code. This, however, may vary. So, in a precompiled
+version you have to work always in the directory where your *.skt files are
+located. Else the program "skt" will end in an error message longing for
+your input where to find skt.opt. The result may be that you have everywhere
+"skt.opt" files. The problem becomes even worse if you consider a DOS system
+in a network where you have to consider different disk drives.
+
+I think the program distribution with the source code is the best solution
+to face these problems. 
+
+\bye
+Peter Wyzlic
+
+
+
+
+
+

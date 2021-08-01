@@ -1,0 +1,29 @@
++++
+title = "125 Enrica Garzilli"
+date = "1997-10-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009573.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009573.html)
+
+Jacob Baltuch wrote:
+>
+> Did anyone ever write anything on zankarAcArya and parmenides? Thanks.
+> (Note: by "and" I mean similarities, parallels, and so on)
+
+Yes Prof. Donna Giancola (who does not uses Internet), at Suffolk
+University (Boston, MA, USA) is writing on it.
+She is a philosopher, Parmenides specialist, and she teaches Eastern
+Religions over there.
+
+--
+Dr. Enrica Garzilli             University of Perugia (ITALY)
+Istituto di Linguistica                  Piazza Morlacchi, 11
+06100 Perugia               Tel/Fax: +39-75-585 3755 (office)
+Editor-in-Chief,
+Intl. Journal of Tantric Studies  (www.shore.net/~india/ijts/)
+Journal of S. Asia Women Studies (www.shore.net/~india/jsaws/)
+**************************************************************
+
+
+

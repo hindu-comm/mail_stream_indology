@@ -1,0 +1,32 @@
++++
+title = "293 Vidyasankar Sundaresan"
+date = "1999-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017710.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017710.html)
+
+>As far as Tamil works, Saiva Siddhantam and Sri Vaishnavism
+>are only ancient. May be, TattuvarAyar (17/18th century),
+>Pirabodha Candrodayam's translation (18th cent.), kaivalya
+>navaneetham are the only advaita works in Tamil compared
+>to several 100 times of Saiva Siddhanta and Sri Vaishnava
+>works.
+
+Perhaps, but this may simply be due to the preference for Sanskrit when it
+comes to composing works. Certainly, the influence of Advaita was seen in
+Tamil country from very early times, and it was not restricted to Smarta
+Brahmins. From more recent times, we have the Koviloor Math
+(www.koviloor-madalayam.org), established and maintained totally by
+non-Brahmins till the present day. The founder was from the Nagarattar
+community, and his guru was a weaver (caste?). The motivations behind this
+institution seem purely religious, with no political agenda.
+
+Vidyasankar
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

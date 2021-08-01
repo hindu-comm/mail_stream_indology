@@ -1,0 +1,40 @@
++++
+title = "65 nas_ng at lms420.jsc.nasa.gov"
+date = "1995-06-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002607.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002607.html)
+
+
+June 13, 1995
+
+
+Vidyavacaspati Dr. R. Nagaswamy is in Houston until June 15, 1995. 
+Tel: 713-777-2800. He is a famous art historian, archaeologist,
+Sanskrit scholar, was Director, Dept. of Archaeology, Govt.of
+Tamilnadu for 22 years. Wrote around 25 books in english, tamil and
+sanskrit and 300 articles in a span of 35 years.	
+
+His most recent book, "Roman Karur" is beautifully produced.
+There many color plates of Roman coins, rings, artefacts, etc found at Karur.
+The are also plates of a treasure trove (292 big, gold coins from Rome)
+found at Tirukkoyilur in 1992
+
+Then he is on his way to Pittsburgh and Toronto. Going back to Madras
+around June 27th.
+
+Before 15th, he is at 713-777-2800
+After June 15, if interested please send an e-mail or call me.
+I will give his tel. no.
+
+n. ganesan
+nas_ng at lms461.jsc.nasa.gov
+713-480-4141 (5pm - 7am)
+713-280-2511 (w)
+
+
+
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "124 Palaniappa"
+date = "1998-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011218.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011218.html)
+
+In a message dated 98-03-05 08:54:55 EST, rbalasub at ECN.PURDUE.EDU writes:
+
+<< But, there is no "sa" in thamiz. Is there some rule for changing ca to sa
+also?
+ The most common example is paci (hunger). I have never heard it being
+ pronounced as paci. And isn't it an original thamiz word, I mean not a loan
+ from the Sanskrit? >>
+
+Intervocalically (if you look in the word "paci", "c" occurs between the
+vowels "a" and "i"), "ca" is pronounced as "sa" all over Tamilnadu except in
+some brahmin dialects where it is pronounced as "za". The alternation between
+"ca" and "sa" occur only in the word-initial position.
+
+Regards
+
+S. Palaniappan
+
+
+

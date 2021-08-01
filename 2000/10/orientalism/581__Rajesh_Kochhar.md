@@ -1,0 +1,18 @@
++++
+title = "581 Rajesh Kochhar"
+date = "2000-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023510.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023510.html)
+
+Permit me to quote from my The Vedic People (Hyderabad:Orient Longman,2000) on orientalism:
+
+Following Said(1978),we may define orientalism as an ideological and operational paradigm consciously created by the west to define and describe the east in such a manner as to facilitate and justify control by the west.{note 26,page 228)
+
+Orientalism,which became confrontationist in the Islamic world,was persuasive and seductive in India.It took the form of Indo-Europeanism.It is thus not surprising that Friedrich Max Mueller's (1823-1900)researches at Oxford were funded by the East India Company.{page 9}
+
+Rajesh Kochhar
+
+
+

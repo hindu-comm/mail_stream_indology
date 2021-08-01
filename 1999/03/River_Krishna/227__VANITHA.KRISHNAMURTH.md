@@ -1,0 +1,22 @@
++++
+title = "227 VANITHA.KRISHNAMURTHY"
+date = "1999-03-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016374.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016374.html)
+
+    Referring to the ongoing discussion on R.Kishna, while it is no doubt
+the term pennai means the palm tree-now commenly known as panaimaram,it is
+baffling to associate pennai/panai with riverbanks and rivers as pnai is
+aquintessential arid region vegetation.
+  Pennai appears to be back formation of pennar-like Kovai,Thanjai etc.
+rather than other way round.
+  The name pennai for these 3 rivers may therefore need further looking
+into.Perhaps it could have derived from veni(Krishnaveni) as veni
+also means river both generic as well as specific.
+
+  Krish.
+
+
+

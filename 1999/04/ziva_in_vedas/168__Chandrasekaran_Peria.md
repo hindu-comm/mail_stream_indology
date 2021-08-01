@@ -1,0 +1,28 @@
++++
+title = "168 Chandrasekaran, Periannan"
+date = "1999-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/054120.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/054120.html)
+
+I had buried this question in a different thread.
+Apologies if I am repeating it but thought worth doing so
+as the statement from the Lexicon is intriguing.
+
+I checked the Colgne Digial Sansrit Lexicon  at
+http://www.uni-koeln.de/phil-fak/indologie/tamil/mwd_search.html
+
+for the entry "rudra" and got the following:
+".....
+in the later mythology the word %{ziva} , which  does not occur as a %{name}
+in the Veda ,..........".
+
+Is this supposed to be taken to mean that the word
+"ziva" does not occur in the vedas at all?
+
+Thanks,
+Chandra
+
+
+

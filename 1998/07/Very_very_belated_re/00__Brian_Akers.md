@@ -1,0 +1,27 @@
++++
+title = "00 Brian Akers"
+date = "1998-07-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013045.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013045.html)
+
+About a year ago, I received an e-mail from someone on Indology who had
+written an alternate history of India featuring word play from Hobson-Jobson.
+I kept meaning to reply, didn't, and now can't find the e-mail. I checked the
+Indology archives and wasn't able to find it, which leads me to think it was a
+privately sent e-mail.
+
+So if that someone would care to resend it, I'll be more careful this time
+around.
+
+Brian
+
+
+--------------------
+Brian Dana Akers
+www.pipeline.com/~sfauthor/
+sfauthor at aol.com
+
+
+

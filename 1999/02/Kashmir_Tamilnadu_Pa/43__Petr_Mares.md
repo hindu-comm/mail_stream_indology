@@ -1,0 +1,41 @@
++++
+title = "43 Petr Mares"
+date = "1999-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015867.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015867.html)
+
+Dear Colleagues
+In fact when I see the claims about the antiquity of some texts in
+their entirety, I have to mention the case of the pre-Han Chinese
+manuscripts from 3rd and 4th cent BC. These 2000 and more
+years old manuscripts often on silk have ussualy counterparts in
+the received versions. In the course of times they were often made
+into the stone and yet they are in many parts different from what
+we have in their received versions. Although China was even more
+united then India with single script and single official language, we
+still can see some major differencies even in the case of such
+honoured documents as ZhouYi, which was found recently in the
+silk manuscript from 2nd cent. BC in MaWangDui.
+
+I am really wonder if texts steming from the 2nd cent. A.D. such as
+GV are remaining same even in their exact wording up to now
+through numerous rewriting before the invention of printing
+(especially while there were probably many versions due to the
+difficoulty of communication in the early times).
+
+Sincerely
+
+Petr Mares
+Petr Mares
+Lengqie Research
+Hlavacova 1163
+182 00, Prague 8
+Czech Republic
+Fax:420-2-2423-9157
+Tel: 420-2-2422-9755
+email: lengqie at gmx.net
+
+
+

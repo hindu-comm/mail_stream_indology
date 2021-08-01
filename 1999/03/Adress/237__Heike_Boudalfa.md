@@ -1,0 +1,31 @@
++++
+title = "237 Heike Boudalfa"
+date = "1999-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016357.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016357.html)
+
+Dear Daniel,
+I don't know if this is what you want, but I got the adress of Prof. Saroja
+Bhate of the University of Pune - I don't know exactly what he's doing, but
+he might be a professor of the Sanskrit Department.
+His adress is: saroja at unipune.ernet.in
+Maybe he can help you.
+Heike
+
+----------
+> Von: Daniel Stender <uzstzm at UNI-BONN.DE>
+> An: INDOLOGY at LISTSERV.LIV.AC.UK
+> Betreff: Adress
+> Datum: Freitag, 19. Mdrz 1999 23:41
+>
+> Can anybody tell me, if they have an e-mail-adress at
+> the executive director, international student4s cell at the
+> university of pune ?
+> Thanks for any advice.
+>
+> Daniel Stender
+
+
+

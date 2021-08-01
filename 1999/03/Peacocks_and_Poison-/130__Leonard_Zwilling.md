@@ -1,0 +1,24 @@
++++
+title = "130 Leonard Zwilling"
+date = "1999-03-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016257.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016257.html)
+
+Having put this query out some time ago and not having received any
+repsonses, I'd like to try  one last time in the hope that perhaps a more
+recent arrival to the list might be able to help me out. In a Tibetan text
+I'm working with, "The Antidotal Peacock", which purports to be a
+translation from the Skt (which I doubt), peacocks are said to thrive on
+poisonous plants which they prefer for their food, and the ingestion of
+which is said to be the cause for the brilliance of their tail feathers.
+This theme of the poison ingesting peacock is found elsewhere in Tibetan
+literature, most significantly in Sakya Pandita's
+SubhASitaratnanidhi and, as R.A. Stein has written, that as Sakya
+Pandita was, among Tibetan scholars, the  most steeped in Sanskritic
+learning, it is likely to be an Indian tradition. Is anyone familiar with
+this bit of peacock lore?
+
+
+

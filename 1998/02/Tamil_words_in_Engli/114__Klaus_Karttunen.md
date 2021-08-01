@@ -1,0 +1,40 @@
++++
+title = "114 Klaus Karttunen"
+date = "1998-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010801.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010801.html)
+
+On  9 Feb 98 at 9:45, N. Ganesan wrote:
+
+> Date sent:      Mon, 9 Feb 1998 09:45:04 -0600
+> Send reply to:  Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
+> From:           "N. Ganesan" <GANESANS at CL.UH.EDU>
+> Subject:        Re: Tamil words in English
+> To:             INDOLOGY at LISTSERV.LIV.AC.UK
+
+> >>Are rice and tamil 'arici' related?
+>
+> >I am sure it is a Tamil loanword appearing not only in English but also in
+> >other European languages (e.g. Czech ryze via Greek oryza).
+>
+> Greetings, Prof. Filipsky. This is not widely known.
+
+It is, at least among those interested enough in these things to read
+what has  been written. They key is Greek oryza, which clearly seems
+to be related to Dravidian arici, though the position of Sanskrit
+vrIhi is problematic. I think this relationship arici : oryza has
+been suggested at least as early as the 18th century (in Hallische
+Missionsberichte) and commonly accepted in the 19th. In the 1920s J.
+Bloch wrote an article about it, and for scholars of Greek the
+question has been discussed e.g. in the etymological dictionary of
+Frisch. I have myself said a few words on this in my India in the
+Early Greek Literature. Unfortunately I have no references at hand.
+
+With best wishes
+
+Klaus Karttunen
+
+
+

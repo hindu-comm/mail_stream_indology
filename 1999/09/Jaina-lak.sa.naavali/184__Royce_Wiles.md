@@ -1,0 +1,22 @@
++++
+title = "184 Royce Wiles"
+date = "1999-09-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018402.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018402.html)
+
+Jaina-laksanavali ; Jaina paribhasika sabda-kosa / sampadaka Balacandra
+Siddhantasastri. Dilli : Vira-Seva-Mandira, Vi. Ni. samvat 2498-99, Vikrama
+samvat 2028-36. San 1972-79. 3 v. ; 27 cm. (Vira-Seva-Mandira granthamala ;
+granthanka 15).
+
+v.1 a-au: 15, 88, 312, 22 p.
+
+v. 2 Vi. Ni. samvat 2499. Vikrama samvat 2030. San 1973. kakva-pausnak¡la:
+8, 313-730, 22 p.
+
+v. 3 prakaranasamajati-hrasva: 8, xii, 48, 729-1220 p.
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "26 John Gardner"
+date = "1996-01-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003914.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003914.html)
+
+one further question after my last re. Sahota's Kyoto dissertation on 
+purusha.
+
+does anyone know anyone doing sanksrit--transliterated or 
+otherwise--online, on CDROM, and--especially--in hypertext mark-up 
+language?  I know that George Landau out of Brown Univ. in Rhode Island 
+has marked himself as the trend-setting guru of the electronic 
+soon-to-be-revolution in academia.  What of indology and html?  please 
+also specify if you know of any good software for importing the tedious 
+array of devanagari diacritics into/onto html and the WEB.
+
+many thanks and happy 1996
+
+john robert gardner
+
+
+
+
+
+

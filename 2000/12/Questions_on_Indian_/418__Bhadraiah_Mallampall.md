@@ -1,0 +1,40 @@
++++
+title = "418 Bhadraiah Mallampalli"
+date = "2000-12-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024612.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024612.html)
+
+>From: Vidyasankar Sundaresan <vsundaresan at HOTMAIL.COM>
+
+>This is simply the pUrNam adaH pUrNam idam verse in the
+>bRhadAraNyaka, and it can be interpreted otherwise. More
+>important sources for a two truths theory in Vedanta are
+>the phrase "neti, neti" in BU 2. 3. 6, ...
+
+I prefer pUrNam adaH approach because it forces people (especially beginners
+and outsiders to advaita) to use advaita more responsibly, as it needs some
+extra home work, because people have to collect other objects that are part
+of the model.
+
+Using the popular neti, neti also it is possible to dismantle the object in
+question directly (without attracting mArjAla nyAyam, unlike what I said in
+my last mail, sorry for this contradiction!). But this can only be done by
+going after the direct cause of perception of the object in question. This
+direct cause is associated with the perceiver himself or herself, and this
+turns out to be a rigorous introspective approach closer to prANAyAma or
+psychology more than logic. I generally prefer use of pUrNam adaH before
+neti, neti.
+
+Thanks a lot for the correction of transliterations.
+
+Regards
+Bhadraiah
+
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+
+

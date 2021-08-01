@@ -1,0 +1,37 @@
++++
+title = "229 Bharat Gupt"
+date = "1999-09-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018486.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018486.html)
+
+Swaminathan Madhuresan wrote:
+
+>    Notion of Chastity in Tamil sangam poems is of paramount importance:
+> Sangam poems mostly (> 90%) describe `interior landscape' (love) poems.
+> In the Tamil poetics of Tolkaappiyam, Life is divided into interior/love/akam
+> and exterior/puRam components.
+
+Isnt this identical with Valmikiiya Ramayana, Mahabharat, Naat.yas.aastra, Kaamsuutra,
+Arthas.aastra and the succeeding literature. The distinction for women as kulavadhuus
+(meant for akam) and  vaarivadhuus (puram) is found in the all post Vedic Sanskrit
+vaangamaya.
+
+This distinction should not be taken as linguistic/regional but as pan Indian social
+behaviour. Chastity is for "family-women" only, never for men or bulls. It holds true
+all over India even now, even among tribals. Raama and Yudhishth.ara are icarnations
+of the dhrama-purushas,  they are rather dull for artha and kaama, good for dharma and
+moksha. They eventually fail in protecting their wives.
+
+By the way Sita's chastity was given a new dimension in medieval times in India,by
+saying that Ravana was able to abduct only the maayaa Sita not the real Sita.
+Valmiki makes no such apology.  However, the Greeks have a tradition as old as Euripides
+who postulates that a maayaa Helen was abducted by Paris not the real one.
+So is the supra-chastity notion of the deep  South or the far North?
+Best wishes,
+Bharat Gupt
+Associate Professor, DU
+
+
+

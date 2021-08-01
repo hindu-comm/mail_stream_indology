@@ -1,0 +1,24 @@
++++
+title = "31 James McDermott"
+date = "1995-07-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002735.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002735.html)
+
+Can anyone provide assistance with the Pali term "gabbhaparihaara" 
+(lit. "he protection of the embryo")? PED defines it as "a ceremony 
+performed when a woman became pregnant." Other translators, sticking 
+more closely to the literal meaning, use it in a more general sense 
+to refer to what we today might call pre-natal care. PED further 
+equates the term with "gabbhapariharana", which at Vism 500 in fact 
+seems to me closer in meaning to "gestation". My question is whether 
+there is in fact a formal gabbhaparihaara ceremony? If so, what is 
+the Hindu/Sanskrit equivalent? Any additional references to such a 
+ritual would be appreciated. [Note: I don't have access to 
+Trenckner's Critical Pali Dictionary.]
+
+
+
+
+

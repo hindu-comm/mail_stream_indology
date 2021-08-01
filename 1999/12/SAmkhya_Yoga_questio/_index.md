@@ -1,0 +1,4 @@
++++
+title = "SAmkhya/Yoga question"
+
++++

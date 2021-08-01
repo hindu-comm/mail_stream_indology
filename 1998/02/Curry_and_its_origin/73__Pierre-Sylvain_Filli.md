@@ -1,0 +1,22 @@
++++
+title = "73 Pierre-Sylvain Filliozat"
+date = "1998-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010695.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010695.html)
+
+Knowledge about curry came in Europe right from the beginning of 16th
+century through the Portuguese, most probably from Goa region. The name in
+Kanna.da is ka.di. There is a kind of cookery book in medieval Kanna.da,
+entitled Suupa 'saastra, composed by Mangaarasa in the 15th century. It
+describes ka.di as a preparation consisting of balls of uLu.n.du (Phaseolus
+radiatus) and rice well ground, mixed in equal quantity with salt, pepper,
+cumin, curry-leaves and coriander; the ball is fried in oil; and when
+cold,it is dripped in butter-milk.
+Vasundhara Filliozat
+
+Pierre-Sylvain Filliozat
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "158 Richard Cohen"
+date = "1998-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012039.html)
+
+I require some information about the practices and beliefs of the Kathmandhu
+valley's Sakyas. Either direct answers or references for further research
+would be most appreciated.
+
+1) Though Buddhist, do the Sakyas perform zraadha ceremonies in honor of the
+dead akin to those performed by the valley's Hindu population?
+
+2) Does Sakyamuni receive mention in the course of the Sakyas' funerary
+rites, in his capacity as a member of the clan rather than as a buddha? In
+other words, is he treated as an ancestor, or even clan-deity?
+
+3) Does Dipankara have any place in the Sakyas' funerary rites? In other
+words, is he treated as an ancestor, or even clan-deity?
+
+4) How is inhertance distributed upon the death of a father? How do the
+Sakyas' inheritance practices compare with those of other groups in the valley?
+
+Thanks in advance,
+
+Richard Cohen
+University of California, San Diego
+
+
+

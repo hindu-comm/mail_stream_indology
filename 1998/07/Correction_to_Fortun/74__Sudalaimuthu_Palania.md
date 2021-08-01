@@ -1,0 +1,31 @@
++++
+title = "74 Sudalaimuthu Palaniappan"
+date = "1998-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013066.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013066.html)
+
+In a message dated 98-07-02 22:59:20 EDT,I wrote:
+
+<< But he does say, "While this paper does not try to deal in full with the
+split
+ in Dravidian which has been referred to here, it should also be noted in this
+ context in passing that this split is also paralleled in Indo-Aryan by such
+ interchanges which occur in Pali and the Prakrits as between D, L and l.
+ >>
+
+Sorry, some words were left out in the above. Here is the full text.
+
+But he does say, "While this paper does not try to deal in full with the split
+ in Dravidian which has been referred to here, it should also be noted in this
+ context in passing that this split is also paralleled in Indo-Aryan by such
+ interchanges which occur in Pali and the Prakrits as between D and l as well
+as between r and L and by occasional alternation in Old Indo-Aryan forms
+between D, L and l."
+
+Regards
+S. Palaniappan
+
+
+

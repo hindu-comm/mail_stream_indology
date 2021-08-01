@@ -1,0 +1,41 @@
++++
+title = "426 Subrahmanya S."
+date = "2000-07-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022154.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022154.html)
+
+Steve Farmer in his attack against Dr.Rajram on his
+website writes:
+"Jha Rajaram make much of a supposedly anamalous
+genital placement in 453 claiming that the animal on
+the seal is supposedly a horse and not a bull unicorn.
+But Michael Witzel has found a better photo of the
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+same seal impression or a strikingly similiar one (note
+^^^^^^^^^^^^^^^^^^^(#1)
+identical inscription) in A.Parpola Corpus of Seals and
+Inscriptions 1991, p.63,#772-A. Here we find the genitals
+exactly where expected in a bull unicorn seal (cf. seal #773a
+^^^^^^^^^^^^^^^^^^^^^^^(2)
+on far right)"
+
+
+#1. Note how Mr.Farmer first says "same seal impression" and then
+adds "or a strikingly similiar one".
+
+#2. Mr. Farmer writes "Here we find the genitals exactly where
+expected" - by implication admitting that the the other seal
+does NOT have "the genitals exactly where expected" - Thus
+strengthening Rajarams arguments.
+
+
+Regards,
+Subrahmanya.
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

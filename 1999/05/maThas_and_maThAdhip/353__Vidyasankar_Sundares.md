@@ -1,0 +1,37 @@
++++
+title = "353 Vidyasankar Sundaresan"
+date = "1999-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017042.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017042.html)
+
+>  Normally,  a  maTha  does
+>not  move  with  its  reigning  abbott.  Because  RAghavendra  TIrtha
+>happened  to  be  a  extraordinarily  charismatic  abbott,  this
+
+There is always some background of political conflict behind a move in the
+first place, especially if the maTha has come to develop close relationships
+with local rulers. And influential maThas rarely lack for charismatic
+maThAdhipatis. The hand-picked succession tries to ensure this. For example,
+there was a period of more than ten years during the rule of Hyder Ali in
+Mysore, when the Sringeri maTha moved to Nasik in Maharashtra. It
+"returned," so to speak, only in the middle of Tipu Sultan's rule.
+
+What I'm saying is that when discussing the history of such institutions,
+the large amount of flux that is possible, especially in the formative years
+and in times of war, should be properly accounted for. Of course, modern
+scholars have hardly studied the institutions of Dvaita and Visishtadvaita
+critically, while greater attention has been paid to the Advaita
+institutions. It seems to me that Paul Hacker and Hermann Kulke have not
+appreciated the significance of these factors in their discussions of the
+Advaita institutions.
+
+Vidyasankar
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

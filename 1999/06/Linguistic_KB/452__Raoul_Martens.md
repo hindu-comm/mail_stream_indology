@@ -1,0 +1,35 @@
++++
+title = "452 Raoul Martens"
+date = "1999-06-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017853.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017853.html)
+
+On Tue, 22 June 1999 Paul Kekai Mansala wrote:
+
+> MtDNA and Y chromosome data both agree that modern humans descend
+> from populations established from about 100,000 to 150,000 years ago
+
+Acc. to A Brief History of Science 1998 ISBN 0-7607-1065-1 'the latest
+estimate for the origin of Homo Sapiens, based on sequences from the
+entire mitochondrial genome, is more precise at about 140,000 years.'
+
+However, there are also other methods (and opinions) re. this matter:
+the 10 authors of 'Minisatellite diversity supports a recent African
+origin for modern humans' in Nature Genetics, June 13, 1996, state:
+'Computer simulations with the measured mutation rate of 0.4% (ref.24)
+showed that the rate of decay of allele sharing between diverging pop-
+ulations was largely independent of population size above 1,000, being
+driven by mutation rate rather than genetic drift. Decay to the obser-
+ved level of three instances of African/non-African allele sharing re-
+quired an average of 770 generations (15,000 years; 95% upper confidence
+limit 22,000 years). This estimated divergence time for the split bet-
+ween African and non-African populations is much more recent than other
+estimates, for example based on mitochondrial DNA.'
+
+Sincerely
+Raoul Martens
+
+
+

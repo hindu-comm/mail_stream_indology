@@ -1,0 +1,29 @@
++++
+title = "574 Kendra Crossen Burroughs"
+date = "2000-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024074.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024074.html)
+
+Greetings. I have joined this List mainly to ask this question.
+
+Can anyone offer comments on the meaning and derivation of the name of
+Arjuna's bow? I could not find anything in the Skt.-English dictionary. An
+internet search turned up an entry in a glossary prepared under the
+direction of William Q. Judge, a founder of Theosophy, and in it it said
+that Arjuna's bow was made of a plant called gandi. But I have not been able
+to verify this or to find out what kind of plant gandi is or was.
+
+I became curious about this question while compiling annotations for a
+Bhagavad Gita that will be published in April by SkyLightPaths Publishing, a
+small publisher in New England. I am not a scholar, obviously, merely a
+researcher and writer. In my annotations  I am mainly quoting from the
+well-known commentators. None of the commentators seems to have anything to
+say about the word Gandiva.
+
+Kendra Crossen Burroughs
+North Myrtle Beach, South Carolina
+
+
+

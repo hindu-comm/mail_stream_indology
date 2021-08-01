@@ -1,0 +1,33 @@
++++
+title = "150 Gene Thursby"
+date = "1996-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004152.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004152.html)
+
+	I respond to one tangent along the thread proposed by Y. Rosser,
+specifically to the comment re "eye of the beholder, i.e, that: 
+
+> Certainly, if beauty is in the eye of the beholder, a Christian missionary
+> in U.P. in the1880s would view this Tantric/erotic art differently than
+> would a Dharma Bum of the 1960s, or an Indologist in 1995.
+
+	Comment: A true Arya in the activist, radical, or Lekh Ram wing 
+of the Arya Samaj (at least at any time from the 1880s through the 1920s) 
+would have -- and did -- react to most religious use of imagery in India, 
+and especially to murti puja and all tantric imagery, as keenly and 
+negatively as any Christian missionary or tobacco missionary such as 
+Senator Jesse Helms.  There are little-known polemical writings against 
+"puranic Hinduism" by Arya Samaj authors that include -intentionally- 
+obscene illustrations that are intended to inflame the sentiments of 
+their readers against images and religious practices presumable connected 
+with them.  In short, "reformers" of Indian descent in India have in some 
+instances propagated and actively debased what they sought to efface.
+	International, cooperative scholarly study of these phenomena, 
+however, would be limited if not prevented by the new USA legislation.
+Gene Thursby <gthursby at religion.ufl.edu> 
+
+
+
+

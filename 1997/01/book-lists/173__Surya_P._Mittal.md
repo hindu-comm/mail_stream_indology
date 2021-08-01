@@ -1,0 +1,42 @@
++++
+title = "173 Surya P. Mittal"
+date = "1997-01-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006811.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006811.html)
+
+Dear INDOLOGISTS,
+
+On request of some researchers we had recently created lists
+of books on:
+        1)   NYAYASUTRA and NYAYABHASYA
+        2)   SAIVA SIDDHANTA
+        3)   Studies on EUNUCHS IN INDIA
+As the lists (1) and (2) above are quite long ones, I have not posted
+them to LIST, though the researcher had asked so. Interested 
+readers are requested to send an email to me so that I may send the 
+same to them.
+
+We shall have no problem in sending the paper-version, if so 
+desired.
+
+Regards,
+                                            Yours sincerely
+                                            Surya P. Mittal
+                                            surya at pobox.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+From:
+D.K. AGENCIES (P) LTD.       Fax: (+91-11) 5598898, 5558898
+A/15-17 Mohan Garden         Phones: (011) 5598897, 5598899
+Najafgarh Road               E-mail: dka at pobox.com
+New Delhi - 110 059.         E-Mail: custserv at dkagencies.com
+
+           Our Webpage     http://www.dkagencies.com
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+

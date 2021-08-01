@@ -1,0 +1,50 @@
++++
+title = "613 Vielle Christophe"
+date = "2000-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024136.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024136.html)
+
+Forwarded message about a venerable publisher, whose books, esp. editions,
+have a lot of time been reprinted by others (and even presented as "new"
+books) without any mention about the original publication.
+
+>From: "Sanjay Bajaj" <khemraj at vsnl.com>
+>To: "Vielle Christophe" <vielle at ori.ucl.ac.be>
+>Subject: Indian Books!
+>Date: Wed, 29 Nov 2000 03:02:37 +0530
+>MIME-Version: 1.0
+>X-Priority: 3
+>X-MSMail-Priority: Normal
+>X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4133.2400
+>
+>    Dear Mr. Vielle,  I am sending you the below mentioned  letter that
+>I have been sending to all Indological sites &  now  request you too to
+>see if you can get some good Indological  sites to add my web site & also
+>please go through the site & send me  your opinion & suggestions.   Sanjay
+>Bajaj
+>
+>Dear Sir,
+>We are the oldest Publishers of Indian books (EST.1871)  namely M/S
+>Khemraj Shrikrishnadass prop: Shri Venkateshwar Steam Press, Bombay  & now
+>are launching a web site.   www.khemraj.com   This is to enquire & request
+>you to please  guide me as I am the fourth generation of the Khemraj
+>family looking after the  same business & my name is Mr. Sanjay Bajaj &
+>enable me to show to the  world the treasures of India & our books
+>ofcourse with your little  help.   Please tell me how do I include my URL
+>to your site  & listing & oblige.   Thanking You!   For M/S Khemraj
+>Shrikrishnadass   Sanjay Bajaj   Email: sanjay at khemraj.com
+http://www.khemraj.com/
+
+Dr. Christophe Vielle
+Centre d'Etudes de l'Inde et de l'Asie du Sud
+Institut orientaliste
+Place Blaise Pascal 1
+B - 1348 Louvain-la-Neuve
+BELGIUM
+Tel. +32-(0)10-47 49 54 (office)/ -(0)2-640 62 66 (home)
+E-mail: vielle at ori.ucl.ac.be
+
+
+

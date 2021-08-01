@@ -1,0 +1,31 @@
++++
+title = "294 Das Menon"
+date = "1997-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007471.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007471.html)
+
+In an earlier posting Max Langley referred to the scratchiness of the bowing 
+of Indian violinists.
+
+Perhaps he should listen to  a virtuoso like Kunnakudi Vaidanathan who has 
+demonstrated the full extend of the capability of the Violin in Indian music. 
+Many purists (all?) would object to Mr. Vaidanathan's style of playing. I 
+have watched a couple of his live performances and has listened to a 
+number of his recordings, and I have not noticed any scratchiness in his 
+bowing, even at his highest speed of playing. I am sure that even the best 
+western violinist will be hard pressed to play the violin without scratchiness 
+at the speed with which Mr. Vaidanathan plays.
+
+What I wish to point out is that it is certainly possible to play the violin in 
+the style of the Carnatic music without any scratchiness. I mentioned Mr. 
+Vaidanathan, because he is well known, I have watched a number of other 
+men and women musicians (from age 15 to 73) who plays without any 
+scratchiness.
+
+Regards...Das
+
+
+
+

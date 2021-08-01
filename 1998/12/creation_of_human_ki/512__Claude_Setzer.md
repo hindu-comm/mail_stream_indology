@@ -1,0 +1,45 @@
++++
+title = "512 Claude Setzer"
+date = "1998-12-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014843.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014843.html)
+
+Partha Banarjee said:
+-
+>Mathematical reasoning can't "prove" the existence of God. Only
+>spirituality and beliefs can.
+
+Do you know what mathematics is????
+In fact, mathematics is every bit as much human as "spirituality"
+and it would seem to me much more so.
+
+Mathematics can only "prove" human models of nature and are rarely very
+accurate.
+For example, Bohr's theory changed the whole scientific description of
+nature,
+but it just barely approaches an accurate description of even the simplest
+atom, Hydrogen,
+ and is far too complicated to describe anything else in nature.
+Yet most of our modern "understanding" of the microscopic world came out of
+this.
+If we look closely, we might find that "scientists" take just as
+many leaps of  faith as those who accept the existence of God, may be a lot
+more!!
+
+In fact even the concept of "proof" is only human imagination.
+ At least "spirituality" has some aspect of divinity to it,
+and would be a much more reasonable tool for use of
+describing the existence and nature of God. In fact it
+very often seems that experience of God is far easier and more practical
+than
+experience of certain mathematical proofs.
+
+I don't understand why you think your beliefs should over ride every one
+else's.
+
+Claude Setzer
+
+
+

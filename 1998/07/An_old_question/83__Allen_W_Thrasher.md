@@ -1,0 +1,27 @@
++++
+title = "83 Allen W Thrasher"
+date = "1998-07-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013241.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013241.html)
+
+Robert Zydenbos said:
+
+"In his little book _Lateinisches Mittelalter:
+Einleitung in Sprache und Literatur_ Karl Langosch wrote about mediaeval
+Latin as the European "father tongue" ("Vatersprache", next to
+"Muttersprache"), which I think is a beautiful and accurate expression.
+Sanskrit is the Indian Vatersprache. And are fathers less 'living' than
+mothers?"
+
+Walter Ong throughout his works has a lot of valuable information and
+insight on learned languages as part of male socialization, taught in
+circumstances of separation from mothers and other females, and with
+considerable infliction of corporal pain, and so not unlike male initiation
+rituals in 'tribal' societies.
+
+Allen Thrasher
+
+
+

@@ -1,0 +1,37 @@
++++
+title = "267 Swaminathan Madhuresan"
+date = "1999-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017780.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017780.html)
+
+There was a relative decline in social status of the
+sangam era bards with time- KaaLamEkam sings "pANarkkuc collvatum tai"
+indicating that pANars(bards) have become tailors. Also, there are groups
+nowadays going by the title "narambu kaTTi". Could be vestiges of
+ancient pANar.
+
+When there is a break in tradition, new meanings are imported
+by changing "r" to "R". Read R. P. Sethu Pillai, Urum Perum
+where RPS describes how "maraik kADu" (deer forest) was
+changed to "maRaik kADu" which is rendered as "vEdAraNyam".
+Similar to "yAzh muri" changing to "yAzh muRi".
+
+A humorous change within Tamil itself. Tevaram sings the
+Goddess of a town as "yAzhaip pazhitta moziyAL" (veenavAdavidhuushani).
+Over time, "yaazhaip pazhittAL" transforms to "vAzhaippazhattAL".
+A naivedhya ritual was started to offer bananas (vAzhaip pazham)
+to the Goddess. Like saltless offering at Oppiliyappan temple
+taking him to be "uppu ili" (without salt).
+
+Regards,
+SM
+
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "175 George Cardona"
+date = "1996-03-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004557.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004557.html)
+
+Since Madhav Deshpande has mentioned my work in connection with this
+discussion, let me add a few words.  Although I do not say this explicitly, my
+practice has been this: sutras and examples are given both in Devanagari and
+Roman script.  The former is intended for those scholars who, even though they
+read English, prefer to read Sanskrit text in Devanagari; the latter is for
+those linguists and others who are not primarily Sanskritists but are
+interested in rules and examples.  For other citations, of commentators'
+discussions, for example, only   Devanagari is used, under the assumption that the
+material in question is of interest primarily to the Indologist.  As for
+journal practices: given that a journal like the JAOS routinely uses Arabic and
+Cyrillic and Chinese scripts, there is no reason in principle why Indian
+scripts too should not be used.  For communicating on a network such as this,
+on the other hand, it may well be simplest to stick to transliterations, most
+of which are not all that hard.  The audience is such that this would appear
+adequate.  George Cardona
+
+
+
+
+
+
+
+

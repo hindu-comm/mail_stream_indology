@@ -1,0 +1,45 @@
++++
+title = "43 SILK at AC.GRIN.EDU"
+date = "1995-05-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002425.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002425.html)
+
+        I know that in principle new book announcements are frowned upon
+here, but I thought the following of sufficient interest to the direct
+audience of this list to mention.  A few days ago I received a catalogue
+from Harvard UP, in which is announced:
+
+_Rig Veda: A Metrically Restored Text with an Introduction and Notes_, by
+Barend van Nooten and Gary Holland.  ISBN  0-674-76971-6.  685pp, $50.00.
+Harvard Oriental Series 50
+
+        Since it is not my turf at all, I wrote to Prof. Witzel about this,
+suggesting that he announce it on this list.  He urged me instead to do so,
+and noted:
+
+"It contains a disk with the samhita and the metrical text, and useful
+search programs."
+
+        He then suggested:
+
+"Perhaps you could add : " on inquiry with Witzel I learned that this will
+be announced, together with other news, in the new electronic Vedic
+Journal (ejvs-list at husc.harvard.edu) within a week or so."
+
+        I have yet not seen the work, but assume that it is one that will
+be of deep interest to many members of this list.  The advertisement notes
+that the text is in Roman letters, and "in its original metrical
+arrangement and in a form that most closely approximates the pronounciation
+of the time of its original composition."
+
+Jonathan Silk
+SILK at AC.GRIN.EDU
+
+
+
+
+
+
+

@@ -1,0 +1,72 @@
++++
+title = "444 Bijoy Misra"
+date = "2000-10-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023350.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023350.html)
+
+Michael,
+I am sure you are not in the same league of India-bashing
+as Steve Farmer is.  Can we give the country some credit
+that's due?  To extrapolate that a faking Rajaram was
+a product of failing Indian science is just dangerous
+and is extremely subjective.
+
+Again I am repeatedly told that this forum is not for
+political opinions.  So why are these statements made
+and as Dominic would say "needs airing"?  Do they really
+to help the cause of "Indology"?
+
+I would continue to say that the discipline in Indian
+educational system is superior to many other systems.
+However I believe thay are not matters for discussion
+here.  Can we refrain?
+
+Let us fight inobjective scholarship, but not a people!
+All of us should examine our hearts for any bias in
+reaching a conclusion.
+
+Regards,
+
+Bijoy Misra
+
+On Mon, 23 Oct 2000, Michael Witzel wrote:
+
+> >A total of 39 Science/Technology Institutes...
+> >... eight (the largest number from any single country) are from India.
+> >Five of the top eight schools are from India.
+>
+> >Even Japan .... has only five schools ....
+>
+>
+> So sorry, fuzzy math!
+>
+> If Japan had the population of India, it should have/would need 8 times as
+> many top institutions, thus c. 40  ....
+>
+> But, not with just 120 million people: for whom would they produce all
+> these engineers/technocrats? For export?
+>
+> India has five schools and should have, in comparison to Japan's
+> population, c. 40
+
+>
+> China (minus HK, Taiwan) with just 5 is roughly comparable.
+>
+> Simple absolute numbers don't do it. Otherwise, what about relatively small
+> countries/units,
+> Singapur and Hongkong, having one each??  Or, Thailand, etc. etc. etc.
+> ========================================================
+> Michael Witzel
+> Department of Sanskrit & Indian Studies, Harvard University
+> 2 Divinity Avenue, Cambridge MA 02138, USA
+>
+> ph. 1- 617-496 2990 (also messages)
+> home page:  http://www.fas.harvard.edu/~witzel/mwpage.htm
+>
+> Elect. Journ. of Vedic Studies:  http://www1.shore.net/~india/ejvs
+>
+
+
+

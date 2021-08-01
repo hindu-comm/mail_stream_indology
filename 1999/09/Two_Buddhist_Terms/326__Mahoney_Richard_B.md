@@ -1,0 +1,28 @@
++++
+title = "326 Mahoney, Richard B"
+date = "1999-09-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018543.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018543.html)
+
+Dear Readers
+
+I have been looking at one of E. Conze's essays on the
+PrajJApAramitaratnaguNasaMcayagAthA (Rgs) and have found a couple of terms
+I am unable to track down in M-W.  I assume they are in Edgerton's BHS but
+as I do not have a copy on hand I thought I would ask you for help.  The
+two terms I need defined are:
+
+aniketacArI (Rgs: I.6 & 10; II.3)
+
+anupAdadhI (Rgs: I.9, 10, 24 etc.)
+
+Any help you could give would be much appreciated.
+
+Many thanks in advance.
+
+-- Regards Richard Mahoney
+
+
+

@@ -1,0 +1,58 @@
++++
+title = "310 Muneo Tokunaga"
+date = "1997-02-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007146.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007146.html)
+
+
+Dear Indology Subscribers,
+
+  My e-files of the MahAbhArata and the RAmAyaNa still contain 
+many typing errors, as a matter of course.  It is indeed a lifelong job 
+to perfect an e-file of such a huge text like the epic. I thought 
+it was my obligation to continue doint it and I was just preparing 
+a new version for the net in cooperation with my student M. Sugita 
+when I heard about a commercial disc of them from a company 
+in Munich. Now I realize that good-will is simply a source of unexpected 
+troubles in this world. So I have decided to make future versions of 
+my files available only in a limited circle in order not to cause further
+complexity. Those who are satistied with an imperfect version of 
+the e-file are free to buy that disc.
+
+                         ===============================================
+                                        Muneo TOKUNAGA 
+                                 Professor of Indian Philosophy 
+                           Graduate School of Letters, Kyoto University
+                             Kyoto, Japan (606-01). Tel. 075-753-2778
+                             email: g53772 at sakura.kudpc.kyoto-u.ac.jp
+                         ===============================================     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

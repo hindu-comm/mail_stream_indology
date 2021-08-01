@@ -1,0 +1,31 @@
++++
+title = "64 Luis Gonzalez-Reimann"
+date = "1999-01-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015128.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015128.html)
+
+At 02:46 PM 1/9/99 PST, Ganesan wrote:
+
+> Is Maitreyi Devi related to S. N. Dasgupta?
+> What is the connection to Eliade?
+
+_____
+
+A quote from Berger (p. 456):
+
+"During his stay at Dasgupta's house he [Eliade] became romantically
+involved with Dasgupta's sixteen-year-old daughter, Maitreyi, causing him to
+be thrown out of Dasgupta's house. Heartbroken, Eliade spent a few months in
+the Himalayas, where he practiced Yoga in an ashram.  Returning to Romania,
+he published in 1933 the novel Maitreyi, based on the diary he had kept in
+India."
+
+Best regards,
+
+Luis González-Reimann
+University of California, Berkeley
+
+
+

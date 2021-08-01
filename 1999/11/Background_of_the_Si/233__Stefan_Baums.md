@@ -1,0 +1,26 @@
++++
+title = "233 Stefan Baums"
+date = "1999-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019101.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019101.html)
+
+Hello all.
+
+A friend of mine has to write an article for the Danish National
+Encyclopaedia (Gyldendal) about the Indian (Sikh?) name `Singh'.
+While the Sanskrit etymology and the fact that the name is widespread
+among Sikhs is obvious, any additional information (and/or references)
+would be highly appreciated (one question that comes to mind: Are all
+those Singhs named after some important person in the history of
+Sikhism?).
+
+Many thanks in advance,
+Stefan
+
+--
+PGP-ID: 4AF752D0
+
+
+

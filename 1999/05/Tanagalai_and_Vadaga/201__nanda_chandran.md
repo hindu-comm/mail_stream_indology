@@ -1,0 +1,23 @@
++++
+title = "201 nanda chandran"
+date = "1999-05-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016886.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016886.html)
+
+Isn't the word pronounced as "kazhlai" rather than "kalai", in Tengalai and
+Vadagalai. If so, wouldn't it refer to the Tamizh world "kazhlai" which
+means "branch" ie the Northern branch and the Southern branch of
+Vishistadvaitam.
+
+And isn't one of the major differences between the two streams, the
+acceptance of scriptures only in Samskrutam (by the Northerners) to the
+rejection of the works in Tamizh accepted by the Southerners?
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

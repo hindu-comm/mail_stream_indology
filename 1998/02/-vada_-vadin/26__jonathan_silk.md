@@ -1,0 +1,25 @@
++++
+title = "26 jonathan silk"
+date = "1998-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010647.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010647.html)
+
+I recently "corrected" the draft of a friend's paper, and suggested that
+the usage Sarvastivada was correct for the sect, and Sarvastivadin for a
+follower of said sect. The same for Vibhajyavadin. However, in looking
+through some sources my friend tells me that the actual usage in texts
+seems to be inconsistent. Is this possible, grammatically speaking?  In
+other words, can we take 'Sarvastivadin' as the name of the sect and
+'Sarvastivada' is an adjective form (as the 'Mulasarvastivada-vinaya')?
+Apparently both Frauwallner and Bareau use Sarvastivadin as the name of the
+sect.
+
+Any comments welcome!
+
+Jonathan Silk
+SILK at wmich.edu
+
+
+

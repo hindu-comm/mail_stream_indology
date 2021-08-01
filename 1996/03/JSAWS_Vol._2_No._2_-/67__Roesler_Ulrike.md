@@ -1,0 +1,46 @@
++++
+title = "67 Roesler Ulrike"
+date = "1996-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004393.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004393.html)
+
+On Wed, 21 Feb 1996 18:34:13 GMT, Enrica Garzilli wrote:
+
+>The   *JOURNAL OF SOUTH ASIA WOMEN STUDIES*
+>  VOL. 2, NO. 1 (JANUARY 26, 1996) -- ISSN 1085-7478
+>
+>has just been published on our WWW pages:
+> 
+>http://www.shore.net/~india/jsaws/
+>
+>CONTENTS:
+>
+>- Note from the Editor
+>- How to submit a contribution?
+>- Copyright Notice
+>- News
+>- The Kyoto-Harvard Transcription
+>- Paper: *StrIdhana: To Have and To Have Not*, by Enrica
+>  Garzilli
+>
+>
+>If you want to subscribe to the JSAWS mail to:
+>
+>jsaws at shore.net
+>
+>with the subject and/or the body:
+>
+>subscribe <your name>
+>
+>
+>Enjoy the reading!
+>
+>Enrica Garzilli
+>Harvard Law School
+>Editor-in-Chief
+
+
+
+

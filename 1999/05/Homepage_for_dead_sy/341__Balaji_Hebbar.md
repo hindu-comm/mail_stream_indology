@@ -1,0 +1,31 @@
++++
+title = "341 Balaji Hebbar"
+date = "1999-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017033.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017033.html)
+
+Thanks  Nanda  Chandran  your  special  efforts  on  the  homepages  for
+all  the  darshanas.  Indologists  everywhere  need  to  be  grateful
+to  you  for  this  most  thoughtful  and  useful  service.  I  am
+especially  interested  in  the  dead  darshanas.  I  shall  look
+forward  to  reading  them.  Thanks  again.
+
+By  the  way,  we  haven't  tangled  "tarka-style"  in  a  while.  I  am
+keen  on  a  Advaita-Dvaita  debate  "continuing  the  tradition  of
+the  NyAyAmRta  and  the  Advaitasiddhi"  as  my  good  friend  Shrisha
+Rao  put  it.   Are  you  willing  to  come  and  debate  with  our
+scholars?  Of  course,  it  all  depends  where  you  are  India,
+US-Canada,  Europe?  How  good  is  your  oral  Sanskrit  and  at  what
+level  would  you  consider  yourself  for  tarka.  If  you  are
+amenable  to  a  debate,  kindly  let  me  know.  I  will  discuss  the
+matter  with  the  members  of  the  Vishva  Madhva  Sangha  during  our
+convention  in  Detroit  about  to  take  place  during  the  last
+weekend  in  May.
+
+Regards,
+B.N.Hebbar
+
+
+

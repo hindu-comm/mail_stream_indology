@@ -1,0 +1,23 @@
++++
+title = "42 Alberto Pelissero"
+date = "1998-10-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013642.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013642.html)
+
+Dear members of the List, does anyone know anything about a figure derived
+from bhairava, namely pa~NjaramahAkAla, who in Tibet is known under the
+name of mgur.mgon? Any news about this character would be useful to me.
+Thank You
+
+Alberto Pelissero
+via Belvedere 51
+10028 Trofarello (TO)
+I T A L Y
+tel. +39-11-649.03.03 (home)
+tel. +39-11-670.3757 (Dept. of Oriental Studies, Turin Univ.)
+fax +39-11-670.3604 (Dept. of Oriental Studies, Turin Univ.)
+
+
+

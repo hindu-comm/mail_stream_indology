@@ -1,0 +1,23 @@
++++
+title = "147 Leonard Van Der Kuijp"
+date = "1995-11-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003615.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003615.html)
+
+
+Reading through biographies of two Tibetans who had studied in Bihar and 
+Nepal in the 1180s and 1190s, I came across titles of two Sanskrit 
+grammars which, despite looking into the standard reference works, 
+Scharfe, Cardona etc., I am not able to identify. The titles of the texts in 
+question are given in the following Tibetan transcription (sans 
+diacritics): Rajashri and Vyakaranalamkara. Is there anyone out there who 
+could help me out in their identification? An anticipatory many thanks.
+
+Leonard W.J. van der Kuijp
+
+
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "185 Martin Gansten"
+date = "1999-03-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016307.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016307.html)
+
+>Barbara Rossi, _From the Ocean of Painting: India's Popular Paintings, 1589
+>to the Present_ (NY: Oxford Univ Press, 1998)
+>wherein catalog entry no. 92 is a pulse (nadi) palm leaf mss. Citations in
+>corresponding footnotes are to personal communications only [including
+>yours truly, as an intermediary only]...so apparently nothing else has been
+>published in English on the subject.
+
+To my knowledge, that is correct. I am working on a Ph.D. diss. on the
+subject of naa.dii-jyoti.sa (despite the name no connection to pulse
+reading, so far as I know), but that won't be out until 3-4 years from now
+at the earliest. (And yes: I am in contact with Barry Pittard.) If anyone
+knows of any scholarly publication on this subject, in whatever language,
+I'd be very interested to hear of it.
+
+Regards,
+Martin Gansten
+
+
+

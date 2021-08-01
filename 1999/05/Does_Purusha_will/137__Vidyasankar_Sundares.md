@@ -1,0 +1,53 @@
++++
+title = "137 Vidyasankar Sundaresan"
+date = "1999-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016885.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016885.html)
+
+Ferenc Ruzsa <f_ruzsa at ISIS.ELTE.HU> wrote:
+
+>The MBh preserved several widely different "sAMkhya" versions, and clearly
+>the conceptual framework in the gItA is far from uniform. It seems that the
+>later chapters (after the twelfth) represent a terminology closer to
+>classical sAMkhya; and this must have been more familiar for zaGkara. So
+>the
+>reason why he preferred the list in ch.13 might well be because this was
+>the
+>standard sAMkhya version.
+>
+
+It is not very clear to me that Sankara either preferred or was more
+familiar with the standard sAMkhya version. For example, he refers to very
+non-standard versions of vaiSeshika and pAncarAtra in his sUtrabhAshya. One
+should, in fact, expect that Sankara was more familiar with the various
+versions of the one school of thought that he was most interested in
+contesting. We require a more thorough analysis of Sankara's undisputed
+works, which is best left alone for the purposes of this discussion.
+
+.......
+
+>[On the number of the indriyas:]
+> > The kArikAs opt for thirteen.
+>No: in the SK there are clearly eleven indriyas, see SK 24-27, 49. Thirteen
+>is the number of the components of the antaHkaraNa.
+
+Well, it seems as if the SK leaves one with a choice, but itself prefers
+thirteen. The term trayodaSa-karaNa is found in SK 32 and explicated in SK
+33-36. See also SK 40 (linga). The yuktidIpikA attributes a view of eleven
+organs to vindhyavAsin, who was pre-SK. However, the two numbers, eleven and
+thirteen, do not necessarily exclude one another. It is eleven if you count
+the antaHkaraNa as one, and thirteen if it is counted as three-fold, as in
+SK 33. It is known that other numbers (ten and twelve) were proposed by
+other pre-SK thinkers.
+
+Regards,
+Vidyasankar
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "62 Enrica Garzilli"
+date = "1997-11-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-November/009753.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-November/009753.html)
+
+For the many who keep asking me about Sati, and about something new on
+that, it has just been published in the Indo-Iranian Journal (vol. 40,
+no. 3 and no. 4 -- 1997) the paper
+
+*First Greek and Latin Documents on Sahagamana and Some Connected
+Problems*, in 2 parts.
+
+Enrica
+
+p.s. It's mine.
+--
+Dr. Enrica Garzilli             University of Perugia (ITALY)
+Istituto di Linguistica                  Piazza Morlacchi, 11
+06100 Perugia               Tel/Fax: +39-75-585 3755 (office)
+Editor-in-Chief,
+Intl. Journal of Tantric Studies  (www.shore.net/~india/ijts/)
+Journal of S. Asia Women Studies (www.shore.net/~india/jsaws/)
+**************************************************************
+
+
+

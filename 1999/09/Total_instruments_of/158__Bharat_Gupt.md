@@ -1,0 +1,56 @@
++++
+title = "158 Bharat Gupt"
+date = "1999-09-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018395.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018395.html)
+
+George Thompson wrote:
+>
+> In a message dated 9/8/99 1:32:42 PM Eastern Daylight Time,
+> abhinav at DEL3.VSNL.NET.IN writes:
+>
+> > GTSorry , George , that is not true even traditionally. Mantras are
+> effective
+> > only if you
+> >  belief in them to "call upon" the gods and pusue "rituals". They are for
+> > believers only.
+> >  For indologists and academics of any place or country, there are no
+> mantras,
+> > there are
+> >  only verses or poetical/metrical texts for historical study or any other
+> > agenda. ....
+>
+> With all due respect, Bharat, please look at RV 1.152.2. There you will see
+> how mantras are used in the RV
+>
+> Best,
+> George ThompsonDear George,
+Here is the translation of the mantra/verse. This is not expound it to anybody else but
+only to give an account of my reading of that mantra:
+
+Tva (One out of many), Eshaam (out of these), viciketat (has understood properly),
+Etat (this), mantrah (mantras,meaning mantras, in plural), kavishasta (praised by
+creators), Rghaavaan (inspired), Satya (and truthful).
+
+Ugro (The brilliant knower), Caturarshri (having four-fold understanding),  Hanti
+(Excels, defeats),  Devanido (those who slight or ridicule the gods), Trirashrim (and to
+the three-foldness [of means] attains).  Ha (Indeed) , Prathama(the leaders [of this
+sort]) , Ajuryan (do not decay).
+
+I do not see here mantra being defined in the sense of "ultimate weapon" in debate or
+even for war as a "brahmaastra". It emphasises the esoteric nature of understanding
+which is  every student is not able to cultivate and thus the superiority in excellence
+of the one who has arrived at it. In all ages the best "defeat" the mediocre.
+The whole sukta is dedicated to mitra and varuna asking them for deeper understanding of
+rta or truth.
+
+Yes, one may  if so pleases reduce it to its grossest sense, that one who knows the
+secret of using mantras can kill non-belivers by incanting them. But I think, Vedas are
+not black magic.
+Bharat Gupt
+Associate Professor, Delhi Univ.
+
+
+

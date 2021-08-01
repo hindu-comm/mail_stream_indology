@@ -1,0 +1,67 @@
++++
+title = "320 Michael Witzel"
+date = "1999-09-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018537.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018537.html)
+
+At 7:25 +0000 9/21/99, S.Kalyanaraman wrote
+Cholistan:
+
+>In Punjabi, choa = water-fall in drops or a stream (as trickling down the side
+>of a rock or from a leaking roof), water oozing from an orifice; water
+>stratum; choa channan;
+
+Sorry, choa ( = coA )  is from Skt. cyota 'oozing, sprinkling'   (from cyut)
+and is not connected with choli  (coli/ colii).
+There is no way to explain the -l- that way. (Turner, CDIAL 4947)
+
+At best, you have coli-stAn 'country of bodices' -- which is, of course,
+not exactly a likely etymology.  We have to look for another etymon.
+
+
+>Dravidian cognates: Ta. kul.am = tank, reservoir, lake;
+>Ka. kol.a, kol.ahe, kon.a pond; Te. kolanu; kollu = deep pond ....
+; Sanskrit: ku_la =>pond, pool.
+
+Skt. kUla Rgveda 8.47.11 ' gradient, river bank',  has no good etymology
+(according to Mayrhofer, EWA at least);
+
+However, Skt.  kulyA (kuliya)  RV 3.45.3, 5.83.8 , 10.43.7  'rivulet,
+channel'   belongs to a different root (kul :: kUl)  and also has no clear
+etymology; some IE cognates have been proposed (in Lithuanian).
+Turner CDIAL 3352 has Drav origin.
+
+The Tamil and Rgvedic words look similar enough to suppose early
+loans/adaptations. But they do not help at all in the case of Choli-stan.
+----
+
+Choli-  has no connection at all with Drav. kuLam etc.  (Burrow-Emeneau
+DEDR 1828),
+which seems to belong to a root meaning  'water, washing, cool' .
+Tamil etc.  k- des not change into c- in Indo-Aryan and certainly NEVER
+before -u- ;
+(nor the other way round, Vedic c-  to Drav. k-;
+the best you get is Proto-Drav. k > c  in Tamil.)
+
+What we badly need is an etymological dictionary  of Panjabi and Sindhi
+(NIA people listen up!)  -- NONE is in sight--- which are based on proper
+rules of sound changes from Vedic/Old Indo-Aryan through Middle IA to
+modern IA  (Panjabi/Sindhi).
+
+-- see EJVS, forthc. this month.
+
+
+
+MW.
+
+ ==========================================================================
+Michael Witzel                          Elect. Journ. of Vedic Studies
+Harvard University                  www1.shore.net/~india/ejvs
+---------------------------------------------------------------------------
+my direct line (also for messages) :  617- 496 2990
+home page:     www.fas.harvard.edu/~witzel/mwpage.htm
+
+
+

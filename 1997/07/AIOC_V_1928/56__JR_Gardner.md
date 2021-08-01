@@ -1,0 +1,46 @@
++++
+title = "56 JR Gardner"
+date = "1997-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-July/008762.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-July/008762.html)
+
+Some while back I'd posted in hopes of getting C.K. Raja's "The Relation
+of Accent and Meaning in the Rig Veda."  It is not in the Proceedings
+volumes of AIOC V (but another article by CKR is-- re. the nirukta). 
+Ashok Aklujkar kindly noted that the article appears only as a summary in
+the summary papers of AIOC V, 1928, and that I should write CKR's nephew
+in Chennai.  Having done so, I recieved a fax from Kunjunni Raja which
+notes that the paper exists only as a short abstract blurb in the Summary
+Papers.  If someone has access to this collect of Summaries, could they
+please be so kind as to fax it to me? I doubt it could be more than a page
+or two from the reports I've received. 
+
+I thank the list for their continued support and indulgence of my quest on
+this issue.
+
+Fax:
+319-335-4077
+Attention J.R. Gardner
+OCAS
+
+As usual, return reimbursement or favor guaranteed.
+
+jrg
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Robert Gardner      Obermann Center
+School of Religion         for Advanced Studies
+University of Iowa       University of Iowa
+319-335-2164             319-335-4034
+http://vedavid.org	 http://www.uiowa.edu/~obermann/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+It is ludicrous to consider language as anything other 
+than that of which it is the transformation.
+
+
+
+
+

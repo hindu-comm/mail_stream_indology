@@ -1,0 +1,21 @@
++++
+title = "526 Steve Farmer"
+date = "2000-10-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023450.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023450.html)
+
+Those questioning the impact of Hindutva views of history on
+Indology should look at this story in the 28 October (Saturday)
+issue of The Times of India. The story discusses the
+controversial new Harappan Gallery in the National Museum in New
+Delhi. Much more will be published on this story in other
+publications in the next few weeks.
+
+Note the ringing endorsement of the new exhibit by N.S. Rajaram.
+
+http://www.timesofindia.com/today/28home6.htm
+
+
+

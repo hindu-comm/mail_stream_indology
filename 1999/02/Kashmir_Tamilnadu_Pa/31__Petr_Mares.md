@@ -1,0 +1,70 @@
++++
+title = "31 Petr Mares"
+date = "1999-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015857.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015857.html)
+
+Dear Mr. Ganesan
+
+> All Chinese and Tibetan Potalaka are secondary derivatives of
+> Mt. Potalaka, the abode of Avalokitezvara mentioned in
+> GaNDavyUha sUtra for the first time. (2nd century AD).
+Is there such old manuscript of GaNDavyUha. I have very
+convincing experience that text verysignificantly change  through
+the centuries. Unless there is a manuscript or the passage is
+repeated in the text that has that old manuscript we should not
+claim that it is from from 2nd century. There are very convincing
+examples of the Sanskrit Buddhist texts that have counterparts in
+much older Chinese mansucripts. I would like to hear some other
+experiences and shere the examples.
+
+
+> "Chinese like to shorten Potalaka as P'u t'o.
+Chinese shorten everythink, for example Beijing DaXue (BeiJing -
+the city DaXue - university) becomes BeiDa etc..
+
+> They mean one and the same. Even though P'u t'o is an island,
+> Chinese always call it Mount P'u t'o" - Chun-fang Yu,
+> Prof. of Religion, Rutgers University
+
+Many of the island off the coast of Shanghai are called by name
+ending on "Shan" - mountain, but that is the name, it probably
+does not suggest there is a mountain there.
+>
+> "Ganesan, I don't think there is much point in trying to
+> distinguish between Potala and Potalaka" - Geoffrey Samuel,
+> author of Civilized shamans: Buddhism in Tibetan societies, 1993
+> (which I immensely enjoy reading).
+
+The Chinese Are masters of shortening, there is no doubt. Even
+Buddha (FuoTa) become just Fuo.
+
+>
+> Pl. note the Saivaite link to Mt. Potala here also.
+> Potala and Potalaka are one and the same.
+
+Pl;ease note that many Buddhist text were growing through the
+centuries and now we have in the Sanskrit manuscripts of Lanka
+persons, like Shiva, Ravana, Indra, Katyayana etc.very often
+mentioned. But even in the older versions there are many Hindu
+gods and godesses, rakshasas etc. The buddhist were certainly
+influenced by the cultere that surrounded them. Buddha in
+Bhagavat in Lankavatara often identifies himself with Buddha, Indra,
+Shiva etc..
+
+Sincerely
+
+Petr Mares
+Petr Mares
+Lengqie Research
+Hlavacova 1163
+182 00, Prague 8
+Czech Republic
+Fax:420-2-2423-9157
+Tel: 420-2-2422-9755
+email: lengqie at gmx.net
+
+
+

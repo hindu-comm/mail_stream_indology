@@ -1,0 +1,38 @@
++++
+title = "297 Gabriele Zeller"
+date = "1997-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007785.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007785.html)
+
+Subject:       Re: Elegy Literature
+
+ (...)
+Dear list-members,
+Tuebingen university library has acquired the follwing PhD thesis. 
+Its shelf number is: 1 G 3178 -
+So long,
+Gabriele
+--------------
+ Yoshitaka Terada, Multiple interpretations of 
+a charismatic individual: the case of the great Nagasvaram musician, 
+T. N. Rajarattinam Pillai. PhD thesis, 1992, Univ. of Washington, 
+Seattle, 361p.
+-------------------
+
+(...)
+----------------------------------------------------------
+Dr Gabriele Zeller
+Universitaetsbibliothek Tuebingen
+Wilhelmstr. 32
+72016 Tuebingen
+Tel:+49-7071-2974030
+Fax:+49-7071-293123
+
+http://www.uni-tuebingen.de/ub
+----------------------------------------------------------
+
+
+
+

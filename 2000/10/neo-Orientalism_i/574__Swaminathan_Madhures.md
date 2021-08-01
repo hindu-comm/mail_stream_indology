@@ -1,0 +1,41 @@
++++
+title = "574 Swaminathan Madhuresan"
+date = "2000-10-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023493.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023493.html)
+
+> (Perhaps we can coin another word: 'Occidentalism'.)
+
+This has already been done.
+
+Occidentalism
+Images of the West; Edited by James G. Carrier,
+
+This is an investigation of Western cultural identity. It shows how people's
+images of themselves and others reflect the power that different groups in a
+society have to shape these images. The contributors describe these images in
+Western academic writing, popular Western culture, and societies outside the
+West, in this counterpart to Edward Said's Orientalism.
+
+
+One lady advocates using "Occidentalism" for profit in capitalist China.
+Occidentalism
+
+A Theory of Counter-Discourse in Post-Mao China
+Xiaomei Chen, OUP, 1995
+After Edward Said's celebrated Orientalism in which he characterized
+cross-cultural appropriation as being intrinsic to Western imperialism, Xiaomei
+Chen argues that the appropriation of Western discourse - what she calls
+`Occidentalism' - can have an artistically and politically liberating effect in
+contemporary non-Western culture. Using China as a focus for analysis, Chen
+examines various cultural and political East and West interrelations.
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Messenger - Talk while you surf!  It's FREE.
+http://im.yahoo.com/
+
+
+

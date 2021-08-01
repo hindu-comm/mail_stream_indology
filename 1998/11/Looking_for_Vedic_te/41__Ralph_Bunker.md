@@ -1,0 +1,93 @@
++++
+title = "41 Ralph Bunker"
+date = "1998-11-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/013927.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/013927.html)
+
+Dear List members,
+
+Does anyone know where I can get hold of any of the following texts? Do any
+of these texts have other names or not exist at all? Please e-mail me if you
+can help.
+Thanks,
+--ralph
+
+A. zikSA
+        vyali zikSA
+        vedasUtraparibhASA zikSA
+        amarezI zikSA
+B. kalpa
+        mAnava gRhyasUtram
+        hiraNyakezIya gRhyasUtram
+        kAThaka gRhyasUtram
+        agnivezya gRhyasUtram
+        nidAna  zrautasUtram
+        kAThaka zrautasUtram
+        jaimini zrautasUtram
+        vAdhUla zrautasUtram
+        puSpa zrautasUtram
+        vasiSTha zrautasUtram
+        anupAda zrautasUtram
+        hiraNyakezIya dharma sUtram
+        vaikhAnasa dharma sutram
+        zAGkhalikhita dharma sUtram
+        prajApati dharma sUtram
+        vasiSTha dharma sUtram
+        zaGka dharma sUtram
+        nArada dharma sUtram
+        hiraNyakezIya zulbasUtram
+        mAnava zulbasUtram
+        vArAha zulbasUtram
+        maitrAyaNIya zulbasUtram
+        vAdhUla zulbasUtram
+        kAThaka zulbasUtram
+        bhAradvAja zulbasUtram
+        nakSatra zulbasUtram
+        zAnti zulbasUtram
+        AGgirasa zulbasUtram
+C. jyotiSa
+        SaT paJcazikha
+        muhurta cintAmaNi
+D. sthApatya veda
+        vizvakarma vAstu zAstra
+        manuzyAlaya chandrikA
+        asumad bheda vAstu zAstra
+        kAmikAgama
+        sUkSmAgama
+        yogajAgama
+        chintyAgama
+        ajitAgama
+        dIptAgama
+        sahasrAgama
+        aMsumANAgama
+        suprabhedAgama
+        vijayAgama
+        nizvAsAgama
+        svAyambhuvAgama
+        analAgama
+        vIrAgama
+        vimalAgama
+        bimbAgama
+        prodgItAgama
+        lalItAgama
+        siddhAgama
+        santAnAgama
+        sarvoktAgama
+        kiraNAgama
+E. AraNyaka
+        maitrAyaNI AraNyaka
+        kaTha AraNyaka
+        sAmaveda AraNyaka
+F. brAhmaNa
+        vaMza brAhmaNa
+        kaTha brAhmaNa
+        saMhitopaniSad brAhmaNa
+        chAndogyabrAhmaNa
+        paiGgi brAhmaNa
+        maitrAyaNIya brAhmaNa
+        bhallava brAhmaNa
+
+
+

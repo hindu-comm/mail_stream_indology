@@ -1,0 +1,20 @@
++++
+title = "115 Vijay K. Dhar"
+date = "1999-10-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018728.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018728.html)
+
+I have an old book written in Sharada script and was wondering if someone
+could help in having this translated into Devanagri.  Can anyone help point
+me in the right direction?
+Secondly, is anyone aware of Sharada script-fonts for PC or Mac?
+
+Thank You
+Vijay K. Dhar
+KSF
+Mill Valley, CA
+
+
+

@@ -1,0 +1,23 @@
++++
+title = "250 Vidyasankar Sundaresan"
+date = "1997-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007729.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007729.html)
+
+
+
+Here is one of my pet peeves. There is an increased tendency in many
+Sanskrit publications from India, to form the past tense by addition of
+sma to the present. Sometimes, whole paragraphs are filled with
+constructions like karoti sma, vasati sma, ...... Does this reflect an
+unconscious desire among many Indians to recast their past in terms of the
+present?!!
+
+S. Vidyasankar
+
+
+
+
+

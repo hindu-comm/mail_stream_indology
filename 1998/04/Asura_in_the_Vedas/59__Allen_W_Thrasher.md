@@ -1,0 +1,44 @@
++++
+title = "59 Allen W Thrasher"
+date = "1998-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011640.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011640.html)
+
+This is the dissertation Bob Hueckstedt recalled:
+
+        TITLE:  ASURA--IN EARLY VEDIC RELIGION.
+       AUTHOR:  HALE, WASH EDWARD
+       DEGREE:  PH.D.
+         YEAR:  1980
+  INSTITUTION:  HARVARD UNIVERSITY; 0084
+       SOURCE:  ADD, VOL. X1980, , 00001 Pages
+
+
+This was published as:
+
+ACCESSION: 16219224
+   AUTHOR: Hale, Wash Edward, 1947-
+    TITLE: Asura- in early Vedic religion /
+  EDITION: 1st ed.
+    PLACE: Delhi :
+PUBLISHER: Motilal Banarsidass,
+     YEAR: 1986
+ PUB TYPE: Book
+   FORMAT: xvi, 226 p. ; 22 cm.
+    NOTES: Includes passages in Sanskrit (Sanskrit in roman)
+           Originally presented as the author's thesis (Ph. D.--Harvard
+           University, 1980)
+           Includes index.
+           Bibliography: p. [205]-217.
+     ISBN: 8120800613 :
+  SUBJECT: Asura (The Sanskrit word)
+           Vedic language -- Etymology.
+           Asuras (Hindu deities)
+
+
+Allen Thrasher
+
+
+

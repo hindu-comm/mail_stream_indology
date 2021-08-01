@@ -1,0 +1,23 @@
++++
+title = "298 Martin Gansten"
+date = "1998-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010947.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010947.html)
+
+My thanks to those who responded to my question about scholarly works on
+Hindu divination. Despite Georg von Simson's optimism, the bottom line (at
+least so far) seems to be that very little has been done in this area.
+General books on Hinduism do of course contain stray references to
+divination, but since the two works cited by Prof. v. Simson were published
+in 1912, the real action seems to have been elsewhere. The recently
+published "Light on Life" by deFouw and Svoboda, mentioned by Dominik, is a
+balanced and readable introduction to jyoti.hshaastra by two practitioners,
+but not the sort of thing I was looking for. In any case, thanks again to all.
+
+Best regards,
+Martin Gansten
+
+
+

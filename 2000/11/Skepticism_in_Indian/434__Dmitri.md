@@ -1,0 +1,34 @@
++++
+title = "434 Dmitri"
+date = "2000-11-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024089.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024089.html)
+
+It occured to me that Pirrho's maxim of suspending judgment as an ultimate
+goal of inquiry and reliance on directly percieved data is quite similar
+to the yogic masters insistence that true knowledge is acquired through
+direct experience only: "No matter how many scriptures you read, unless
+you've experienced samaadhi yourself -- you don't know." (That is taken
+from Swami Rama's "Living with the Himalayan Masters" -- so I don't really
+know this.)
+
+As a question of comparative history, was there ever an attempt to
+correspond Pirrho's views with traditions of self-inquiry existing
+in Himalayas?
+
+The legend has it that Pirrho travreled with Alexander the Great to India.
+So, there might have been a direct exchange of phylosophical ideas
+between sages of India and greek intellectuals.
+
+Back to the original post, my question was more specific:
+
+Is there in any Indian phylosophical school
+a  system of inquiery, similar to that of Descartes.
+It is not the scepticism as general paradigm that is my interest, but
+a system. Descart formulated his system of inquiry in "Rules for the
+direction of Mind". Is there any similar set of rules?
+
+
+

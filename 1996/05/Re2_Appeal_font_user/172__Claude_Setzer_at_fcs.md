@@ -1,0 +1,39 @@
++++
+title = "172 Claude_Setzer at fcsmtp.mum.edu"
+date = "1996-05-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/004980.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/004980.html)
+
+Dear Indology list members:
+
+The problem mentioned regarding fonts is not limited to Sanskrit fonts, nor is
+it the same for different systems and printers.
+
+The basis of the confusion is that printers (and operting systems) reserve
+some character positions for control codes. Since most fonts traditionally do
+not use characters above 128, some printers assume that they can use them, and
+do. Many printers use the code 160, for example.
+
+The more intelligent word processors, like MS Word, know that the printer
+cannot use a paricaular character position and thus show you what will print,
+a blank space. On the other hand, more simple ones, like Write, will show
+characters even if they will print as a blank space. 
+
+Some font packages, like Adobe, will actually allow you to use the character
+position and change it to another position when it is sent to the printer.
+
+Claude Setzer   claude_setzer at fcsmtp.mum.edu
+
+
+--
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+         Sent via ExpressNet/SMTP(tm), Internet Gateway of the Gods!
+               ExpressNet/SMTP (c)1994-95 Delphic Software, Inc.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+

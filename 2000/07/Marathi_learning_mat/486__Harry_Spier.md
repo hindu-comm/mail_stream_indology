@@ -1,0 +1,36 @@
++++
+title = "486 Harry Spier"
+date = "2000-07-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022227.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022227.html)
+
+Dear list members,
+
+1) Is there any good Marathi learning material in english?
+- A good reference grammar to modern spoken and written Marathi.
+- A good dictionary.
+- introductory colloquial "how to speak Marathi" material.
+- audio or video cassettes.
+
+2) Can someone tell me if the language spoken by the tribal peoples in the
+Tansa valley (I think this is about 50 km. from Bombay) is different from
+standard Marathi?  Would this information be available in Grierson's
+Linguistic Survey of India (and if so has the language and dialect
+distribution in Maharashtra changed substantially since the survey was
+done)?
+
+Many thanks,
+
+
+Harry Spier
+371 Brickman Rd.
+Hurleyville, New York
+USA 12747
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

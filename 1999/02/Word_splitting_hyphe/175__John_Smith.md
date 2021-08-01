@@ -1,0 +1,44 @@
++++
+title = "175 John Smith"
+date = "1999-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015708.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015708.html)
+
+On Tue, 9 Feb 1999, Rolf Koch wrote:
+
+> the standard is in my opinion:  tat hi or taddhi or in roman tad-dhi but
+> as fas as I have learned never tad dhi.  All publications just do not
+> accept the writing tad dhi. Some prefer taddhi (sandhi), others tad-dhi
+> (problem)  and others tat hi (without sandhi)  greetings
+
+This is simply wrong.
+
+The form "taddhi" has nothing to do with sandhi but is an attempt to
+reproduce Nagari word-splitting conventions in a script where they are not
+appropriate.
+
+The form "tad-dhi" could only be taken as meaning that the two elements
+have been joined into a compound, where in fact they are separate words.
+
+The form "tat hi" is a pre-sandhi form, useful perhaps in a context of
+elementary language instruction, but with no wider currency.
+
+As I said earlier, cases of this sort have been written "tad dhi" by
+professional Sanskritists (to whom the original question was directed)
+for maybe a century and a half. This is also the only usage sanctioned by
+the incoming ISO standard.
+
+These are not my opinions; they are facts.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+

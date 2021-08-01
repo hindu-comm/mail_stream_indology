@@ -1,0 +1,27 @@
++++
+title = "86 Dominik Wujastyk"
+date = "1996-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005329.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005329.html)
+
+I heartily concur with Jonathan's suggestion, and I would like to offer
+the INDOLOGY web site as a host for such a service.  The only proviso is
+that I do not have the resources to do the actual work of compiling,
+editing, and maintining such a resource myself.  So if someone wishes to
+take on the work, I can provide the locus.   I think INDOLOGY would be a
+very appropriate site for such an ongoing "current awareness" service.
+
+Dominik
+
+--
+Dominik Wujastyk               Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+
+
+
+
+
+

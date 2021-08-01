@@ -1,0 +1,24 @@
++++
+title = "240 tantrapl at hektor.umcs.lublin.pl"
+date = "1996-05-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005061.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005061.html)
+
+Dear List Members,
+It seems to me there is a tendency among neohinduistic gurus not to mention
+their own family background, jati their parents belong to. I think people in
+the West don't know much about jati connections of great contemporary gurus
+because neither them nor gurus themselves who reject importance of jati are 
+interested in the subject. However, it seems highly probable that Indian people are
+generally more sensitive to the problem of the family background could give
+me information about the social place of parents of gurus who deny the
+importance of jati division of society. So, please, could anybody give me
+any info on at least varnas of parents of gurus? 
+				Thanking in advance
+						Leslaw Borowski
+
+
+
+

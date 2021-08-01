@@ -1,0 +1,52 @@
++++
+title = "54 Vidyasankar Sundaresan"
+date = "1997-06-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008424.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008424.html)
+
+
+Frank Conlon wrote:
+
+> On the other hand, I have to appeal to my Sanskritist colleagues for a
+> view of the Skanda Purana and its various associated texts.  My
+untutored
+> sense is that like Skanda himself, the purana is one of many different
+> faces.   Whatever else one may draw fromthe existence of the Sahyadri
+> Khanda, it must be comforting to know that its composers were hard at
+> the task well in advance of the colonial ethnographers who have been
+> endowed with such agency in "inventing" caste by some recent scholars
+
+
+As a general note of caution, it is well known among traditional circles
+that Skanda Purana and Brahmanda Purana are stock texts to which various
+compositions have been added over vast periods of time. Diverse sthala
+mAhAtmyas and Puranas are typically assigned to one of these two. Even
+among traditional Brahmin communities, not everybody takes the claims of
+these texts seriously. 
+
+Some portions of these texts can easily be traced to rivalries between
+different groups. These groups can be sub-castes, as in the case of the
+Sahyadri Khanda, or they may be rival religious institutions. If one
+follows the development of these rivalries, one finds that the opposite
+side hotly contests the text. 
+
+For example, a well-respected figure in recent times, Sri
+Chandrasekharendra Saraswati of the Kanchi math, quotes from one
+Markandeya Samhita of the Brahmanda Purana. However, Sri Jnanananda
+Bharati, who was affiliated with the Sringeri math, completely denies that
+there even exists something called the Markandeya Samhita in that Purana. 
+He says that such a text has not been found in any of the different 
+rescensions of that Purana, and cautions that if it is found in the
+future, it will very likely be a recent addition written by somebody at
+the Kanchi math. This sort of rivalry is generally not well-known outside
+a few small groups, and it is hard to find authentic evidence one way or
+the other.  
+
+Vidyasankar
+
+
+
+
+

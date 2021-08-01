@@ -1,0 +1,32 @@
++++
+title = "137 Chad Steven Lauritsen"
+date = "1995-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003849.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003849.html)
+
+Ladies and Gentlemen:
+
+Are any of you aware of any Sanskrit resources available in electronic 
+format, particularly a lexicon/dictionary?
+
+Please respond if you have any information--your assistance would be 
+greatly appreciated.
+
+Chad S. Lauritsen
+Linguistics Student
+University of Nebraska, Lincoln
+Lincoln, Nebraska  U.S.A.
+
+-- 
+"He is no fool who gives what he cannot keep, to gain what he cannot 
+lose."  --Jim Elliot, missionary to Ecuador
+Chad S. Lauritsen              Lincoln,68502       00087979 at bigred.unl.edu
+1701 S. 24th St. Apt. 2	       (402) 438-4005	   
+
+
+
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "186 nas_ng at lms420.jsc.nasa.gov"
+date = "1996-05-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/005012.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/005012.html)
+
+
+5/11/96
+
+    Query: Buddhist/Jain refutation of Hinduism
+   *********************************************
+
+we see several polemical writings against Jains & Buddhists.
+This is one component of priest-peasant alliance proposed by Burton Stein
+which successfully drove out these heretic religions.
+
+I want to learn how Buddhism/Jainism refuted Brahmanical Hinduism
+in early stages and its evolution? What are the main arguments of
+Sramanas for rejecting Vedas? I am intrigued to hear of Buddhist homas. 
+I have heard these religions preferred prakrits to vedic sanskrit.
+Any references will be appreciated.
+
+Thanx,
+N. Ganesan
+nas_ng at lms420.jsc.nasa.gov
+
+
+
+

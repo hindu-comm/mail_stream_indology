@@ -1,0 +1,28 @@
++++
+title = "56 pbilimor"
+date = "1995-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/002909.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/002909.html)
+
+
+
+Sorry to use the space for this message, but I am getting understandably 
+frustrating notes from friends and colleagues sent via my Australian 
+e-mail address as the L.A. address works only .76 times and I don't have 
+remote access to it. I am in Berkeley, folks, at the Dept of South & 
+South-east Asian Studies/Philosophy. continuing my visiting function, 
+etc. the e-mail address is:
+
+pbilimor at garnet.berkeley.edu
+
+Cheers
+
+
+Purushottam Bilimoria
+
+
+
+
+

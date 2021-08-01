@@ -1,0 +1,29 @@
++++
+title = "87 Robert J. Zydenbos"
+date = "1998-08-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-August/013448.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-August/013448.html)
+
+Royce Wiles <Royce.Wiles at ANU.EDU.AU> wrote:
+
+> A colleague working on Indian dating has asked me the questions below,
+> any information would be welcome.
+>
+> >I am working from L. Rice's Mysore inscriptions (Bangalore, 1879) ...
+
+He should not be working with that antiquated edition! Since 1971 a
+_very_ enhanced edition has been brought out by the University of Mysore
+as _Epigraphia Carnatica_. (To give one example: vol. 2, the epigraphs
+from Sravanabelagola, contained 144 insciptions. The revised version
+(1973) contains 573.) All the inscriptions are given in Kannada script,
+the more interesting ones also in Latin transliteration, and
+translations are given at the back of the volume.
+
+RZ
+
+
+
+
+

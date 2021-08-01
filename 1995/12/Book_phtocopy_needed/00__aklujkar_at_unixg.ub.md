@@ -1,0 +1,32 @@
++++
+title = "00 aklujkar at unixg.ubc.ca"
+date = "1995-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003708.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003708.html)
+
+I am trying to locate a copy of the book Vedaanta-panca-prakara.nii,
+printed at 
+Sri Vidya Press of Kumbhakonam. M. Hiryanna refers to it an old article in
+the Indian Historical Quarterly but does not give any more particulars. 
+The part of Vedaanta-panca-prakara.nii which interests me specifically is
+Guru-ratna-maalikaa by Sadaa;siva Brahmendra. 
+
+It is possible that the Guru-ratna-maalikaa is available also as a separate
+publication and is known also asJagad-guru-ratna-maalaa-stava. 
+
+If your responses reach me before 2 Dec I shall try to respond them before
+leaving for a trip to India. Otherwise, kindly wait until 9 January to hear
+from me. 
+
+Ashok Aklujkar, Professor, Department of Asian Studies, University of B.C.,
+Vancouver, B.C., Canada V6T 1Z2. Tel: O: (604) 822-5185, R: (604) 274-5353.
+ Fax O:
+822-8937
+
+
+
+
+
+

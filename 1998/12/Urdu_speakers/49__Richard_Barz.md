@@ -1,0 +1,25 @@
++++
+title = "49 Richard Barz"
+date = "1998-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014464.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014464.html)
+
+Perhaps the most straightforward way of looking at the linguistic genealogy
+of Hindi and Urdu would be to say that Urdu is a development of the
+Indo-Aryan spoken language of Delhi with an addition of Persian vocabulary
+(which includes a large proportion of Arabic words).  Hindi stems from 19th
+century Urdu written in Devanagari script with the replacement of much
+Persian vocabulary with borrowings from Sanskrit.
+
+To the pre-modern literary languages of North India mentioned by  Ruth
+Schmidt one should add Maithili.
+
+Richard Barz
+ANU
+Canberra
+>
+
+
+

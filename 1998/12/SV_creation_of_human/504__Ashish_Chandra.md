@@ -1,0 +1,29 @@
++++
+title = "504 Ashish Chandra"
+date = "1998-12-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014808.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014808.html)
+
+Erik Hoogcarspel:
+
+This is open for discussion. There are quite a few philosophers of science
+who think science does disprove the existence of God. Wasn't it Laplace who
+said 'I don't need this hypothesis'?
+And why do you think Nietzsche declared God dead? I know even theologians
+who think the belief in the existence of God is outdated.
+_____
+
+Dear Erik,
+
+Which science has been able to prove the non-existence of God ? Which
+science has actually been able to define God ? Have you heard of
+Yajnavalkya Smriti ? Yajnavalkya in his dialogue with his wife Maitreyi
+describes Aatman(Brahma(God)) as Net Neti. (Not this, Not this). It(God) is
+an experience, not an object of perception that can be known.
+
+Ashish
+
+
+

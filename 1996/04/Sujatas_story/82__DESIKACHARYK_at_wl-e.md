@@ -1,0 +1,24 @@
++++
+title = "82 DESIKACHARYK at wl.aecl.ca"
+date = "1996-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004666.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004666.html)
+
+
+Dear friends,
+
+	I am looking for reference(s) where the story of SujAta, the noble
+lady who had a dream about the fasting SiddhArtha, and fed him at the conclusion
+of his fast with food served in a golden plate. I am sure, this episode must be
+described in some buddhist literature, but I don't know where. I will be
+grateful if someone points me the right direction. Thanks.
+
+regards,
+Desikachary
+
+
+
+
+

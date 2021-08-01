@@ -1,0 +1,28 @@
++++
+title = "163 Mani Varadarajan"
+date = "1998-11-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/013954.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/013954.html)
+
+Vidyasankar Sundaresan wrote:
+> Yes. The Srirangam Ranganatha temple is said to represent Vishnu's abode
+> in Vaikuntha ...
+
+At least for Srirangam, this equivalence is more symbolic
+and metaphorical than actual.  Vishnu in Srirangam is reclining
+on the serpent AdiSesha (tiru-anantAzvAn), which corresponds
+to his pose in kshIrAbdhi (tirup-pArkaDal), not in Vaikuntha.
+Vishnu in Vaikuntha is said to be in a sitting pose, with one leg
+folded, one leg on the ground, with Lakshmi at his side.
+Typically, Vishnu is known in this form as parama-pada-nAtha.
+There is a shrine dedicated to the parama-pada-nAtha form in
+many large Vishnu temples.
+
+It is true, however, that Srirangam is known as bhUloka-vaikuNTha.
+
+Mani
+
+
+

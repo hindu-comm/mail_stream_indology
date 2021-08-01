@@ -1,0 +1,54 @@
++++
+title = "527 Vidyasankar Sundaresan"
+date = "2000-12-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024622.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024622.html)
+
+>Clear evidence from the Brahmanas, Nirukta, and a lot of other
+>exegetical texts (including the Vedic Sutras) can be raised
+>against your last point, Vidyasankar. Exegetical concerns like
+
+What I mean is this = A few upanishad texts stratify parA
+vidyA and aparA vidyA, clubbing everything from Rgveda to
+kalpa as a lower kind of learning, partly subsumed by and
+partly rendered secondary by the higher brahmavidyA.
+
+True, they are embedded within the brAhmaNa portions that
+have exegetical concerns, but for the teaching offered in
+the upanishad itself, the primary motive is not exegetical.
+The two-truths scheme embedded in parA vs. aparA arises
+from the karma vs. jnAna approach to religious value, which
+in turn is correlated with pravRtti vs. nivRtti dharmas as
+ways of life. Rather than reconciling pre-existing points
+of contradiction, the upanishads present a *source* of the
+contradiction with regard to earlier strata of Vedic texts.
+Nevertheless, these texts already present what they have
+to say in terms of a two-truth approach. It then becomes
+the job of the later vedAntic exegetes to reconcile this
+contradiction. The brahmasUtras weave together the diverse
+upanishad texts, reconciling various views, taking chAndogya,
+and to a slightly lesser extent, the bRhadAraNyaka, as the
+primary guiding texts.
+
+It seems to me that some kind of two-truths theories serve
+a very different function from reconciliation of diverse
+viewpoints. Rather, some of these theories seem to be the
+source of the perceived contradictions, or a strategy to
+co-opt and/or marginalize others, e.g. New Testament vs.
+Old, and the idea of a new covenant that invalidates the
+old. One also has to ask how much accumulation of diverse
+material is necessary to reach a "critical mass", before
+an exegesis that seeks reconciliation becomes necessary.
+The tolerance for high degrees of diversity within the
+same broader tradition seems to have been much higher in
+India than elsewhere.
+
+Vidyasankar
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

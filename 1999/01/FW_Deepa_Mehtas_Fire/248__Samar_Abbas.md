@@ -1,0 +1,44 @@
++++
+title = "248 Samar Abbas"
+date = "1999-01-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015185.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015185.html)
+
+On Sat, 9 Jan 1999, Paul Kekai Manansala wrote in reply to the 2-Siva
+theory,
+> Among Siva's dark manifestations are
+> Mahakala "The Great Dark One,"  Asitanga "black-limbed," Nilalohita
+> "blue-red" and Babhru "brown."
+
+Thanks, Paul. Could there be any connection between these manifestations
+and African `Siva-like' gods ? As far as I know, the Guineans worship the
+mother-goddess and practice matriarchy, while the Bantu and Sudanic
+traditional religions involve a `Siva-like' god and are male-dominated
+societies. Do you have any thougths on this ?
+
+> Many Puranas state that Siva at the creation was in the form of a red
+> and blue, or simply red colored boy who appeared before Brahma.  In the
+> Brahmananda Purana it states:
+>
+>         "Many years ago, Brahma desired to create a son who would
+> be             just like him in appearance.   While he was thus
+> pondering ,
+>          a boy suddenly appeared on his lap.  The boy was partly
+> blue          and partly red in complexion and was known as
+>          Nilalohita (blue-red)...'Please give me a name,' said the
+> boy.          "The word 'rud' means to cry and since you have been
+> crying.  I          give you the name of Rudra," said Brahma."
+
+ Your nice quote proves what has been evident all along.  The
+identification of Rudra with Siva was made in an attempt to subsume the
+non-Aryan gods into the Aryan pantheon. This identification is highly
+ddubious, and the attempt failed. From the above quote we see that Rudra
+was blue-red, the Tibetic Siva white and the Old Dravidian Shiva black.
+They were separate gods.
+
+Samar
+
+
+

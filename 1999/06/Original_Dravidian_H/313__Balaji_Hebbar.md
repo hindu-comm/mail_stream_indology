@@ -1,0 +1,40 @@
++++
+title = "313 Balaji Hebbar"
+date = "1999-06-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017631.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017631.html)
+
+Dear  Dr.Fosse:
+
+Thanks  for  your  prompt  reply.  So,  does  that  mean  there  are  4
+theories  now  on  this  whole  issue;
+
+1.  The  Indians  are  ONE  people  and  this  whole  Aryan-Dravidian
+thing  is  just  a  farce.  (Hindutva  crowd)
+
+2.  The  Dravidians  were  the  original  people  of  India  and  the
+Aryans  came  from  the  outside.  (Max  Muller  et  al)
+
+
+3.  The  Aryans  were  the  original  people  of  India  and  the
+Dravidians  came  from  the  outside.  (know  not  who  espouses  this?)
+
+
+4.  Both  the  Aryans  and  Dravidians  entered  India  from  the
+outside.  (again,  know  not  who  advocates  this?)
+
+Perhaps,  there  are  more  combination  theories.  Since  I  am  not
+yet  a  "catuShkoTi  vinirmukta"  I  will  stick  with  these  four.  It
+is  confusing  enough.  Which  one  these  theories  or  any  other  has
+the  greatest  scholarly  support  and  why?  Kindly  clarify.
+
+Also,  I  am  given  to  understand  that  all  mankind  once  come  out
+of  an  "Adi-Fred  Flintstone"  in  Africa,  why  just  the  Dravidians?
+
+Regards,
+B.N.Hebbar
+
+
+

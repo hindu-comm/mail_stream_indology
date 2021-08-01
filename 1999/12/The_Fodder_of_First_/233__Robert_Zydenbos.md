@@ -1,0 +1,34 @@
++++
+title = "233 Robert Zydenbos"
+date = "1999-12-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019522.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019522.html)
+
+On Sat, 18 Dec 1999 16:50:50 -0500, Edwin Bryant wrote:
+
+> If the Jiva is distinct from an eternal Isvara in so far as the jiva is
+> subject to maya while the former is not, then how did jiva find itself
+> under the influence of Maya? If Isvara placed it there (and Madhva is
+> indeed peculiar here in his extreme position of jivas being placed in
+> samsara for eternity), then Isvara is cruel.
+
+At the risk of nit-picking, maybe I should add that (a) Madhva's notion
+of maayaa differs from the Advaitic, to such an extent that he wrote a
+text titled _Maayaavaadakha.n.dana_ (i.e., a refutation of Advaitic
+illusionism); (b) only one of three categories of jiivas is termed
+nityasa.msaarin (the other two being muktiyogya and tamoyogya);
+(c) this 'jiivatraividhya' is considered simply the way things are, and a
+notion of 'cruelty' is a projection of human sentiments where they are
+not appropriate (this kind of explanation is also found in other theistic
+traditions).
+
+The question of a first cause could also be explained away in a
+similar manner as (c). Perhaps not intellectually satisfying, but it's a
+possibility.
+
+RZ
+
+
+

@@ -1,0 +1,47 @@
++++
+title = "252 Sudalaimuthu Palaniappan"
+date = "1999-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017763.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017763.html)
+
+Paul Younger's paper, "Singing the Tamil Hymnbook in the Tradition of
+Ramanuja The Adyayanotsava Festival in Srirangam", (pp.12-109 - 12-128,
+proceedings of the 1981 International Tamil Conference in Madurai ) also
+brings out the language-based origin of the terms vaTakalai and ten2kalai.
+
+Younger says, "In other festivals of the temple the Tenkalai priests and the
+Vatakalai priests appear to be roughly equal in number and when they go in
+procession with the image of the deity the Tenkalais go before the image of
+the deity chanting Tamil hymns while the Vatakalais come behind chanting
+Sanskrit hymns. This arrangement is widely followed in Srivaisnava temples
+where both groups are represented, and it is generally thought to date back
+to the fourteenth century -- when the priesthood split into two groups with
+the Tenkalai or "Southerners" wanting to emphasize the Tamil hymns and the
+doctrine of pirapatti or surrender, while the Vatakalais or "Northern sect"
+wanted to emphasize Sanskrit and the need for devotion or bhakti to be
+manifest in self-discipline... Most accounts of the origin of the dispute
+tace it to differing theological emphases among the followers of Ramanuja who
+were based respectively in the temples of Sri Rangam (Tenkalai) and
+Kancipuram (Vatakalai) between the time of his death (1137?) and the Muslim
+invasions (1313-23)...The heart of the Vatakalai argument was that their
+teaching had the authority of the Veda, the revealed Sanskrit
+scripture...While all the Srivaisnavas agreed that Ramanuja's system
+continued to make temple worship essential, the Vatakalais contended that
+there should be greater emphasis on the Sanskrit Veda in the light of the
+teachings of Ramanuja himself. This emphasis, if followed, would have given
+less attention to the Tamil hymns  and their characteristic teaching of
+devotion  as abject surrender or pirapatti, and would have allowed for a
+lesser role for the goddess Lakshmi as an intermediary between the soul and
+the highest Lord, and for the saints. Tenkalais of the fifteenth century
+recognized the need to ackknowledge the authority of the Veda, but they felt
+that the heart of Ramanuja's contribution had been that it maintained the
+traditional system of worship while providing it with intellectual support
+through the introduction of a particular form of Vedic interpretation."
+
+Regards
+S. Palaniappan
+
+
+

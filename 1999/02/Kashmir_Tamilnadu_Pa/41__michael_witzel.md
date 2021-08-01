@@ -1,0 +1,39 @@
++++
+title = "41 michael witzel"
+date = "1999-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015859.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015859.html)
+
+>I believe we have to differentiate between Early Chinese
+>Translations and Early Manuscripts of Early Chinese Translations!
+>It is specially visible for those found in China where scholars deal
+>with manuscripts from the centuries BC times very often!! And
+>compare them to the received versions!!
+
+
+Precisely.
+I noticed  the same difference between the old Xinjiang MS of the
+Sardulavikritia Avadana (at Bodleian Libr., Oxford -- the other part is at
+St.Petersburg)  and the printed version in the Avadana coll. , which is
+based on relatively late (17th /18th c.) MSS from Nepal.
+Over c. 1000 years a lot has been added  to the text in South Asia/Nepal...
+A comparison of the fairly early Chinese transl . (3rd cent. I recall?) may
+help, of course. There are several Chin. transl....
+
+Michael Witzel
+
+DEPARTMENT OF SANSKRIT AND INDIAN STUDIES
+HARVARD UNIVERSITY
+2 DIVINITY AVENUE
+CAMBRIDGE, MA  02138, U.S.A.
+
+(617) 495-3295   FAX:  (617) 496-8571
+direct: 496-2990
+email witzel at fas.harvard.edu
+
+home page: www.fas.harvard.edu/~witzel/mwpage.htm
+
+
+

@@ -1,0 +1,25 @@
++++
+title = "229 Samar Abbas"
+date = "1999-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019508.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019508.html)
+
+Q1: A historian called Gandassa has claimed on Usenet that the term
+`Sakasthan' is to be found on Indo-Scythic coins and inscriptions
+scattered over Punjab, Rajasthan and Gujarat, although he does not provide
+any concrete examples. Would any experts familiar with Saka numismatics
+know in which inscription and on which coins is the word `Sakasthan' to be
+found ? What about the terms `Gangasthan' and `Aryasthan' which Gandassa
+uses ? `Aryavarta' is abundantly attested, but what about `Aryasthan' ?
+Or are these terms in fact absent in the epigraphic record ?
+
+Q2: As far as I am aware, the only term the Indo-Muslim kings had engraved
+on their coins is `Hindustan'. Are the modern terms, `Islamistan',
+`Mughalstan' & `Urdustan' in fact absent in the Mughal numismatic record?
+
+Samar
+
+
+

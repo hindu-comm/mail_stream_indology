@@ -1,0 +1,46 @@
++++
+title = "141 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1999-01-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015314.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015314.html)
+
+TRIKUTA
+
+In the commentry of bElArAja on vAkyapadIya 2.486
+
+we have
+
+"paravatAt trikUTaikadEzavat(varti?) trilinga dEzAditi"
+
+The fact that there is a place by the name trikUTa in the Guntur District
+of Andhra Pradesh, the area in which dhAnyakaTaka and zriparvata are located,
+can be seen from the inscriptions of kings of AnandagOtra and the
+viSNukuNDinas who ruled this area. These people who ruled from 300 A.D.-
+400 A.D. had their kingdom confined to Guntur, Krishna and Godavari
+Districts of Andhra Pradesh and could not have been kings of any other
+trikUTa except that which lies in their realms.
+
+One of the inscriptions of the viSNukuNDina kings says,
+
+"zrI dEvavarmNaH priyaputras trikUTamalayAdhipatir nayasattvasaMpannO
+                             ^^^^^^^^^^^^^^^^^^^^^
+bhagavac crIparvatasvAmipAdAnudhyAtO...."
+
+Epigraphia Indica, vol 18, page 338.
+
+AnandagOtra kings also said they were trikUTAdhipatis.
+
+Malaya mandala is identified as Kovvur and Nidudavole taluks
+of West Godavari District of Andhra Pradesh.
+
+trikUTa is provisionally identified with the well known
+saiva kshetra kOTappa konDa in Guntur District.
+
+regards,
+
+sarma.
+
+
+

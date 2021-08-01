@@ -1,0 +1,42 @@
++++
+title = "88 Petr Mares"
+date = "1999-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016206.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016206.html)
+
+Dear Colleagues
+
+Can anybody please tell me where to look for some older Sanskrit manuscripts or editions of laNkAvatAra sutra. So far I have located those mentioned bellow (and I heard that there are no manuscripts of laNkAvatAra older than 17th. century in NGMPP catalogue.), but none of them is older then few hundred years.
+
+1.    Manuscript in Royal Asiatic Society, London
+2.    Manuscript in University Library, Cambridge
+3.    Sarat Chandra Das and Satis Chandra Acharya VidyAbhUSana laNkAvatAra fragments published in Darjeeling 1900 in Calcutta Buddhist Text Series
+4.    Kawaguchi's manuscript from Nepal
+5.    Rajendralala Mitra's "The Sanskrit Buddhist Literature of Nepal"'s transcribed fragment
+6.    Prof. J. Takakusu's manuscript from Nepal
+7.    Raghuvira's Nepali manuscript published by Lokesh Chandra
+8.     Nanjio's edition of LaNkAvatAra
+9.     Vaidya's edition of laNkAvatAra
+10.   corrections of Nanjio's edition by Kosai Yasui appended to his BonBun Wayaku Nyuryogakyo, 1976
+
+Another question I have is: does anybody know whether the project of publishing the Sanskrit laNkAvatAra
+by E. J. Rapson in Bibliotheca Buddhica Series, St. Petersburg and the same by
+prof. Minayeff early in this century has ever yield in any results?
+
+Thank you for any comment
+
+Petr Mares
+Lengqie Research
+Hlavacova 1163
+182 00, Prague 8
+Czech Republic
+Fax:420-2-2423-9157
+Tel: 420-2-2422-9755
+email: lengqie at gmx.net
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/19990307/eb94a7f0/attachment.htm>

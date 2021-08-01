@@ -1,0 +1,38 @@
++++
+title = "48 Miguel Carrasquer Vidal"
+date = "1998-11-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/013937.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/013937.html)
+
+Miguel Carrasquer Vidal <mcv at WXS.NL> wrote:
+
+>"Bh.Krishnamurti" <bhk at HD1.VSNL.NET.IN> wrote:
+
+etc.
+
+Oops, I hadn't noticed the switch in mailing lists...
+
+For puzzled Indology members, I should explain that this was a
+discussion on the Nostratic list about Kusunda, a (recently extinct,
+it seems) language of Nepal, which, together with Nahali and
+Burushaski, is one of the three language isolates [single languages
+or small language families which have not been shown to be related to
+any other language] on the Indian subcontinent (four if we count
+Andamanese).   In that context, Jacob had mentioned Elfenbein about
+Brahui, and had subsequently consulted prof. Krishnamurti.  My
+response had gone to the Nostratic list, and I thoughtlessly failed
+to add prof. Krishnamurti to the recipient list, for which I
+apologise.
+
+I hope that clears it up.
+
+
+=======================
+Miguel Carrasquer Vidal
+mcv at wxs.nl
+Amsterdam
+
+
+

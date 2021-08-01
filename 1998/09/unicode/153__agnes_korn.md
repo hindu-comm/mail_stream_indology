@@ -1,0 +1,31 @@
++++
+title = "153 agnes korn"
+date = "1998-09-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-September/013602.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-September/013602.html)
+
+Dear list-members,
+
+those who are interested in the development of Unicode are invited to
+visit our test pages
+(http://titus.uni-frankfurt.de/unicode/unitest.htm). The devanagari
+characters officially provided can be found in the upper half of block
+09 (0900 through 0970), and the additional ones proposed by us are in
+block E9. A font to go with all that is under preparation.
+
+Agnes Korn
+
+--
+
+.........................................................................
+
+ Agnes Korn
+ Vergleichende Sprachwissenschaft  :      Tel.  + 49 - 69 - 798 22 847
+ Universitaet Frankfurt            :      Fax   + 49 - 69 - 798 22 873
+ PF  11 19 32                      :      a.korn at em.uni-frankfurt.de
+ D - 60054 Frankfurt               :      http://titus.uni-frankfurt.de
+
+
+

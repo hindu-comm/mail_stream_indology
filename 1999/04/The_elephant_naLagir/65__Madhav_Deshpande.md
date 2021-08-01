@@ -1,0 +1,35 @@
++++
+title = "65 Madhav Deshpande"
+date = "1999-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016558.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016558.html)
+
+        Some clarification on nara -> nArAyaNa may be useful.  While such
+a derivation of the word nArAyaNa from nara- may be theoretically
+possible, cf. dak.sa -> daak.saaya.na, the tradition does not derive
+naaraaya.na from nara-.  It derives the word naaraaya.na from the word
+naaraa (f. 'water', cf. aapo naaraa iti proktaa.h) by adding ayana.
+        While the derivation of nALAyaNI from naLa, on the face of it, may
+be similar to the derivation of daak.saaya.nii from dak.sa, the derivation
+of naa.laa in naa.laagiri from na.la does not seem so straight forward.
+        Also the meaning 'black' for nala- is not known in its Sanskrit
+usage.  Sorry for using different notations for diacritics.
+                                Madhav Deshpande
+
+On Wed, 14 Apr 1999, Georg von Simson wrote:
+
+> Swaminathan Madhuresan asked:
+> >The jAtaka usage is nAlAgiri. Does IA grammar allow
+> >for this development from naLa/nala-giri?
+> >Ie., like nara -> nArAyaNa and naLa -> nALAyaNI,
+> >could the jAtaka 'nAlA-giri' can be developed from 'nala-giri'?
+>
+> There is no such direct way from nala-giri to nAlAgiri. This latter form of
+> the name seems to presuppose a feminine nAlA, known by some sanskrit
+> lexicographers beside nAlI with the meaning "hollow stalk", "reed".
+>
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "174 Dominik Wujastyk"
+date = "1996-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006514.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006514.html)
+
+
+On Wed, 11 Dec 1996, Anshuman Pandey wrote:
+
+> I would like to know whether anyone here who uses ITRANS/SKT/etc. has
+> found a successful method which allows for automatic hyphenation of
+> devanaagarii in the LaTeX environment. 
+
+Both the Velthuis and the Wikner systems for using Devanagari with TeX and
+LaTeX support the hyphenation of Devanagari.  Jun Takashima is doing very
+interesting work on creating TeX hyphenation tables for transliterated
+Sanskrit, and aims to bring this into the fold of Babel.
+
+On the Velthuis hyphenation support, see
+ftp://ftp.ucl.ac.uk/pub/users/ucgadkw/indology/software/
+and the file devanagari-with-hyphenation.readme
+
+
+Best wishes,
+Dominik
+
+
+--
+Dominik Wujastyk               Wellcome Institute for the History of Medicine
+email: d.wujastyk at ucl.ac.uk          183 Euston Road, London NW1 2BE, England
+<URL: http://www.ucl.ac.uk/~ucgadkw/>                    FAX: 44 171 611 8545
+
+
+
+
+
+

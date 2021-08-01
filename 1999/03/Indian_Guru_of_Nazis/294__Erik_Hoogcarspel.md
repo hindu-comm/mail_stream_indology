@@ -1,0 +1,33 @@
++++
+title = "294 Erik Hoogcarspel"
+date = "1999-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016418.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016418.html)
+
+Hallo Zesheng
+
+Op zondag, 28-maa-99 schreef Zesheng He:
+
+
+ZH| Indologists. Does anybody know of folks/works working on the European
+ZH| appropriation of theAryan racist ideal in 19th century and the employment of
+ZH| the Aryan ideal and Sanskrit by Nazi-like politicians later.
+
+You may ask Herman de Tollenaere (Foundadion SIMPOS) lokabaal at dsl.nl
+and Wouter Hanegraaff wouterha at xs4all.nl
+
+Met vriendelijk groet
+--
+erik
+
+
+ *~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+  Erik Hoogcarspel           <    jehms at kabelfoon.nl   ><       Boerhaaveln 99b     >
+                             <    tl+31.(0)104157097    ><       3112 LE Schiedam    >
+                             <    fx+31.(0)842113137    ><       Holland             >
+ *===================================================================================*
+
+
+

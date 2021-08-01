@@ -1,0 +1,33 @@
++++
+title = "54 pclaus at s1.csuhayward.edu"
+date = "1995-10-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003312.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003312.html)
+
+In the previous several comments on yoga, esp. hatha yoga,
+there seems to be something of a tenor of discrediting it
+as part of a health practice in ayurveda because of its
+late inclusion.  Might this better be thought of as a 
+further development, an enhancement, in line with the larger
+'philosophy' (ie. not just medicines, diagnosis, surgery,
+etc.) and prevention of ill-health implied in ayurveda from
+the start?  Need there be value only in that which was 
+"passed down the various lineages of gurus since time immemorial"?
+To imply that with regard to Indian sciences is to treat
+them very differently than the expectations that we have
+of Western (so-called) sciences, where the latest developments
+are more highly valued than what the ancients practiced and
+the folk medicines past down through family lineages.
+
+Is not ayurveda and yoga such a living, dynamic, growing 
+set of sciences?  Don't practioners see it that way?  Shouldn't
+we?
+
+Peter Claus
+
+
+
+
+

@@ -1,0 +1,26 @@
++++
+title = "148 Dominique.Thillaud"
+date = "1997-09-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-September/009201.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-September/009201.html)
+
+        As Jonathan Silk and S.Krishna have understand it about Argentina
+and Arjuna, 'that's true' was just a joke.
+        One thing is clear: leaving numerous and structured phonetical,
+morphological and semantical correspondancies, thousands of good links can
+be found just by the effect of the great numbers' law, hence without any
+serious proof.
+        The phonetical laws fail when a word is borrowed, but borrowing of
+words is rare and, usually, a word is borrowed when the thing is borrowed,
+just because it was unnamed before. Hence, universal words are unlikely to
+be borrowed.
+        Regards,
+Dominique
+
+Dominique THILLAUD
+Universite' de Nice Sophia-Antipolis, France
+
+
+

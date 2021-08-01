@@ -1,0 +1,35 @@
++++
+title = "10 Allen Thrasher"
+date = "1996-01-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003896.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003896.html)
+
+I badly need to know the literal meaning of the name of the Mising 
+political 
+group Mising Bane Kebang.  There seems to be no dictionary of the Abor 
+(a.k.a. Mising, Adi, Miri) language to English or another language, only 
+from other languages to Mising.  Is there anyone out there who knows Abor 
+or who has studied the movement and can give me a translation?  I am of 
+course paging and consulting all the books on the Mising for this 
+information.
+
+Thanks awfully and Happy New Year,
+
+
+Allen W. Thrasher
+
+Senior Reference Librarian
+Southern Asia Section
+Library of Congress
+Washington, DC 20540-4744
+tel. 202-707-5600
+fax  202-707-1724
+Email: athr at loc.gov
+
+
+
+
+
+

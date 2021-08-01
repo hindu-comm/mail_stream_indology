@@ -1,0 +1,39 @@
++++
+title = "226 Adrian Burton"
+date = "1998-10-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013877.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013877.html)
+
+Excuse me for not giving all the details about English translations of the
+Tattva Sandarbha (I don't keep all these books here at my office).  Please
+note a third version by Swami B.V. Tripurari (which I have not personally
+read but which has been commended to me and which is apparently in use in
+some universities in the US):
+
+"Jiva Goswami's Tattva Sandarbha: a study in the sectarian development of
+the Gaudiya Sampradaya"
+tr. Stuart Elkmann
+published: Motilal Banarsi Dass  (1986)
+
+"Sri Tattva Sandarbha of Srila Jiva Goswami"
+tr. Satya Narayana Dasa and Kundali Dasa
+published: Jiva Intitute, Brindavan?  (1995)
+
+"Tattva-sandarbha; Sacred India's Phliosophy of Ecstacy"
+tr. Swami B.V. Tripurari
+published:Calrion Call,(1995)
+
+
+______________________________________________________________
+
+Adrian Burton                           tel:(61) (2) 6279 8240
+South and West Asia Centre              fax:(61) (2) 6279 8326
+Faculty of Asian Studies
+
+Australian National University
+0200    ACT     Australia
+
+
+

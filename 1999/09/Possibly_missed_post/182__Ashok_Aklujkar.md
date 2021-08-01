@@ -1,0 +1,20 @@
++++
+title = "182 Ashok Aklujkar"
+date = "1999-09-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018388.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018388.html)
+
+Between 31 August and 8 September, I had problems in accessing my e-mail.
+It is possible that some of the responses to my queries posted on this list
+have not reached me. I will try to recover them from the Archieves.
+However, I would be grateful if the respondents could once again e-mail
+(privately) the information they tried to make available to me.  I have
+been able to see Dr.Roland Steiner's message of  1 Sep 1999 on "Place and
+year of a remark by Kielhorn," for which I thank him heartily.  I
+appreciate the time he spent on providing precise information through a
+relatively long post.  -- ashok aklujkar
+
+
+

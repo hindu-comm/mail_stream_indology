@@ -1,0 +1,27 @@
++++
+title = "496 Kupfer"
+date = "2000-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024031.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024031.html)
+
+The notation of the TITUS version becomes clear, if you look up the
+htm-file. The txt-file contains only a transcription for private use.
+Instead of the htm-file you can also download the WordCruncher viewer
+and then open that version.
+
+Regards, KK
+--
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Katharina Kupfer                        kupferka at uni-freiburg.de
+Sprachwissenschaftliches Seminar        k.kupfer at em.uni-frankfurt.de
+Albert-Ludwigs-Universitaet Freiburg
+Werthmannpl. 3                          Phone: +49/761/203-3167
+D-79085 Freiburg                        Fax: +49/761/203-3203
+ http://titus.fkidg1.uni-frankfurt.de/personal/kupfer.htm
+       http://www.uni-freiburg.de/indogerm/kupfer.htm
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+

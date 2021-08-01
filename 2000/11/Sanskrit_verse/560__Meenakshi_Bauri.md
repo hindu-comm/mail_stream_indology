@@ -1,0 +1,31 @@
++++
+title = "560 Meenakshi Bauri"
+date = "2000-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024055.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024055.html)
+
+Respected members,
+I apologise before hand if my simple posting disrupts a scholarly discussion
+list, but I would like to get some information on a Sanskrit verse.   I
+remember only one line which is as follows
+
+  ....."Nirmalam Komalam kavyam".....
+
+I do not remember the other lines of the couplet /verse.
+
+If you could give some details as to the complete verse, the author, source
+ etc it would be very helpful.
+thanking you,
+Sincerely,
+M. Bauri
+
+Graduate Student
+Carleton University
+Dept. of Applied Language Studies and Linguistics
+Ottawa Canada
+e-mail: mbauri at home.com
+
+
+

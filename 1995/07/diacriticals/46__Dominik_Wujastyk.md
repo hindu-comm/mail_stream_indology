@@ -1,0 +1,74 @@
++++
+title = "46 Dominik Wujastyk"
+date = "1995-07-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002772.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002772.html)
+
+Srinivasan Kalyanaraman said:
+> The following information may be useful.
+> 
+> Subject: Devanagari
+> 
+> (this is a font for use with Sanskrit, Hindi, etc.)
+> Created by Frans Velthuis in 1987/88 and is available 
+> from him (Velthuis%hgrrug5.earn at cunyvm.cunyvm.edu) 
+> for a small charge.
+
+Through generous financial support from the Computing Centre of
+Groningen University and the Wellcome Institute for the History of
+Medicine, there is no longer any charge for the use or distribution of
+this font or its ancilliary files and programs.
+
+> Also available as part of his Devanagari 
+> transliteration package:
+> ftp: june.cs.washington.edu tex/devnag.tar.Z, or 
+> devnag.zip
+
+> You could also try, these, although I don't know if
+> they are the same:
+> ftp: BLACKBOX (see 
+> introduction):/pub/indic/outlines/vnagari.*
+> 
+> ftp: ctan: tex-archive/language/devanagari/*
+
+
+The font is not at the site june.cs.washington.edu, and the other site
+where it might have been, blackbox, closed last November.  But it will
+be found on the TeX CTAN sites under ../language/devanagari, as
+mentioned.  However, as far as I can see, CTAN only publishes the fonts
+and the source code for the (essential) preprocessor, but not the
+executables.  The original distribution from Frans does have these.
+I'll have to do something about this.
+
+Dominik
+
+
+
+
+Original-Received:  by bronze.ucs.indiana.edu 
+PP-warning: Illegal Received field on preceding line
+Date: Mon, 10 Jul 1995 11:59:02 -0500
+From: edeltraud harzer clear <eclear at bronze.ucs.indiana.edu>
+To: indology at liverpool.ac.uk
+Subject: Re:  Dating the Santi parvan and Anusasana parvan.
+Message-ID: <"mailhub.live:067590:950710165932"@liverpool.ac.uk>
+
+Hello Steven,
+		I certainly could recommend two additinal 
+authors for the study of the Mbh. You may already seen
+these, still one is van Buitenen's translation of the 
+first 5 bks with an extensive introduction, which may
+be of some help (although he did not get as far as 12th
+book).  The other is work by Alf Hiltebeitel who in some
+respect he challenging the work of van Buitenen. Again
+I am not absolutely sure whether you may gain any
+concrete information from his work such as The Ritual
+of Battle, but I hope it will be at least interesting.
+Good luck, Edeltraud.
+
+
+
+
+

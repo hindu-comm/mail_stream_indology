@@ -1,0 +1,31 @@
++++
+title = "237 Periannan Chandrasekaran"
+date = "1999-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019093.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019093.html)
+
+http://www.indiaserver.com/thehindu/stories/0417223l.htm
+
+"...
+Though statues of Lord Buddha have been found in Kuzhumani,
+Pettaivaithalai, Thathayankaranpettai, Vellanur, Ariyalur, Veppur and
+Jayamkondam in Tiruchi region, this is the first inscription that has
+been found relating to Buddhism in the region.
+.....
+The inscriptions which runs on all the four sides of the pillar, is in
+Tamil, and it was indeed unique that the sacred symbols relating to
+Buddhism are round on all the four sides of the rectangular pillar. At
+the bottom portion of the pillar are seen two `poornakumbhams' with
+decorated lamps on either side. ...
+"
+
+=====
+
+__________________________________________________
+Do You Yahoo!?
+Bid and sell for free at http://auctions.yahoo.com
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Michigan-Lausanne Internationa"
+
++++

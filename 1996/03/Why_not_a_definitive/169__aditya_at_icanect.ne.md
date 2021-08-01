@@ -1,0 +1,29 @@
++++
+title = "169 aditya at icanect.net"
+date = "1996-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004538.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004538.html)
+
+kellner at hws.ipc.hiroshima-u.ac.jp (Birgit Kellner)  has  recently
+written as follows:
+>Mac or Windows-users. Hence, I would strongly suggest that, until the
+>current lcd is replaced by one which allows for Devanagari, let's stick to
+>the present conventions. 
+That is no convention at all. We do not have any means of
+communicating in Devnagri at all. What you propose translates into "If
+I cannot have it my way :no one else should have it either"
+Have a nice day. 
+---------------
+Aditya Mishra  
+http://www.icanect.net/~aditya   
+***********************************************************
+The opinions expressed herein are continually mutating and*
+might have already been changed  by the time you read them* 
+owing to the more recent information that became available*
+***********************************************************
+
+
+
+

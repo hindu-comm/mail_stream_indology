@@ -1,0 +1,29 @@
++++
+title = "124 tantrapl at hektor.umcs.lublin.pl"
+date = "1996-07-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-July/005508.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-July/005508.html)
+
+Dear List Members,
+I am collecting materials on Swami Muktananda and Siddha Yoga. I lack
+materials on:
+1) the organisation ie SYDA Foundation, its statut, goals, structure,
+financing etc. Members of SY don't want to say anything about such
+earthly matters;
+2) the transmission of power from Swami Muktananda to Swami Chidvilasananda
+and Swami Nityananda. Members of SY don't want to say anything about it
+because Swami Nityananda resigned from his function in strange (and partly
+unknown to me) circumstances; (I quess I could find materials on that in Shree-Gurudev
+Vani but SY members don't want to give them)
+3) the position of swamis in SY: their obligation and privileges.
+Also, I don't have complete information on
+4) Muktanandas trips to the West.
+If anybody could point to me the sources for the said subjects I would be
+extremely grateful
+			Leslaw Borowski
+
+
+
+

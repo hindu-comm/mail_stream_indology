@@ -1,0 +1,24 @@
++++
+title = "125 Sudalaimuthu Palaniappan"
+date = "1999-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016832.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016832.html)
+
+In a message dated 5/6/99 5:58:58 AM Central Daylight Time,
+naga_ganesan at HOTMAIL.COM writes:
+
+<< kalnADu gets sanskritized as karnATaka. >>
+
+I do not think this is correct. Before agreeing with this suggestion
+concerning kan2n2ATu and karunATU, one will have to explain the pair nen2n2al
+and nerunal, occurring in CT. Also, is the underlying process different from
+cases where, for example, Tamil naturalizes Sanskrit karNa, and varma as
+kan2n2an2, and van2man2 respectively?
+
+Regards
+S. Palaniappan
+
+
+

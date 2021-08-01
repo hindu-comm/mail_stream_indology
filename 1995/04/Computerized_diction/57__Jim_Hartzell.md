@@ -1,0 +1,29 @@
++++
+title = "57 Jim Hartzell"
+date = "1995-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-April/002313.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-April/002313.html)
+
+	Has anyone found a good program that interfaces with the PC version
+of Wordperfect and is suitable for recording vocabulary/terms in an 
+index-able format.  The program would need to be able to handle Sanskrit
+diacritics in its indexes.  I looked at the card-file program included
+in MS Works, yet it's not designed to handle diacritics, and doesn't seem
+to be interface-able with Wordperfect.  I suppose that such a PC-based
+lexicographic program would not HAVE to interface with WP.....
+	On a related question:  although it's possible to create a 
+full set of diacritics for Sanskrit using the Wordperfect macros, these
+do not convert to ASCII or DOS texts when you run the conversion--the
+diacritic-modified-letters either disappear, or turn into nonsense
+characters.  Has anyone solved this already while still using Wordperfect?
+	Ideally answers to both these problems would involve simple,
+and inexpensive solutions.
+Thanks in advance,
+Jim Hartzell		jh at cubsps.bio.columbia.edu
+
+
+
+
+

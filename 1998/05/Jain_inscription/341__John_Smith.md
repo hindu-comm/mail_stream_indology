@@ -1,0 +1,33 @@
++++
+title = "341 John Smith"
+date = "1998-05-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012308.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012308.html)
+
+On Sat, 16 May 1998, riccardo garbini wrote:
+
+> My name is Riccardo Garbini, and I deal with Indian Epigraphy. This subject
+> is very hard. Now I am trying to understand a Jain inscription dated on VS
+> 1349 from Pindawara (Sirohi district). Could someone help me? Thank you .
+> Riccardo.
+>
+> sincerely yours,riccardo
+>
+
+I don't think anyone can say whether they can help you without knowing a
+bit more. Is your problem script-, language-, or content-related? If
+language, what language are we talking about, or don't you know? Could you
+not post (a portion of) the inscription so we can see what it looks like?
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+

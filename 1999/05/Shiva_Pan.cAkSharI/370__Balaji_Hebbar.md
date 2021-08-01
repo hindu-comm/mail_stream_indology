@@ -1,0 +1,28 @@
++++
+title = "370 Balaji Hebbar"
+date = "1999-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017052.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017052.html)
+
+The  Shiva  Pan.cAkSharI  "namaH  ShivAya"  is  essentially  emphasized
+(as  far  as  I  know)  in  both  Tamil  Shaivism  and  the  SmArta
+SampradAya.  Is  there  any  reason  why  the  praNava  (OM)  is  left
+out.  The  only  Shaivas  that  I  know  who  say  the  ShaDAkSharI
+mantra  (with  OM  included)  is  better  than  Pan.cAkSharI  are  the
+VIrashaivas  of  KarnATak.  In  fact,  a  speaker  made  a  recent
+emphasis  of  this  in  the  Basava  JayantI  celebrations  that  took
+place  last  weekend.
+
+In  fact  the  OM  is  included  in  both  the  ViShNu  aShTAkSharI
+mantra  "Om  namo  nArAyaNAya"  as  well  as  the  ViShNu
+dvAdashAkSharI  mantra  "Om  namo  bhagavate  vAsudevAya".  I  am
+curious  to  know  why  the  emphasis  is  on  Pan.cAkShara?  Thanks  to
+any  response.
+
+regards,
+BNHebbar
+
+
+

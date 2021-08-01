@@ -1,0 +1,31 @@
++++
+title = "182 Lars Martin Fosse"
+date = "1997-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007061.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007061.html)
+
+
+>Yes, please do drop "the English...".  Of course, like anyone, I would be
+>proud of the assumption of Polish nationality, but actually my sense of
+>national affinity is weak to the point of non-existence.  Most of my early
+>life was spent in Madeira, Lisbon, Khartoum, Malakal, Entebbe, and finally
+>Mgarr (a village in Malta).  I came to England for university, and I do
+>hold a British passport, it is true.  But my wife was born in Dar es
+>Salaam, her father in Shanghai, her mother in Sri Lanka, my sister-in-law
+>in Aden, my father in Lublin, my step-brother in Germany, my mother in
+>Kent, etc., etc.  Make of that what you will.  Although I like Britain
+>very much as a place to live and work, I've also had extremely enjoyable
+>sojurns in America, India, and Germany. 
+
+Dear Dominik, you are not only a versatile scholar, you are also a composite
+scholar. I shall refer to you as the "the multinational scholar Dominik
+Wujastyk". 
+
+Lars Martin
+
+
+
+
+

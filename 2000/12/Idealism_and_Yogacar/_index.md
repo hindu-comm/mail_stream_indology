@@ -1,0 +1,4 @@
++++
+title = "Idealism and Yogacara"
+
++++

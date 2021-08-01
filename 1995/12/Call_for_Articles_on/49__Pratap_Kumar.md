@@ -1,0 +1,40 @@
++++
+title = "49 Pratap Kumar"
+date = "1995-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003761.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003761.html)
+
+
+Dear Colleagues:
+
+I am writing to request articles on any topic relating to Indology to be 
+published in our two journals-- Nidaan -- publilshed by the Department of 
+Hindu Studies and Indian Philosophy; and Journal of the Indological Society 
+of Southern Africa -- published by the Indological Society of Southern 
+Africa, Durban.  We have our next annual conference in May 1996 and I 
+will post details of it soon.  These two journals are published every 
+year in November/December.  If any of you wish to send in your articles 
+to be published in one of them, Pease send them to me in Hard copy first 
+and then after it is refereed I will request you for a disk copy.  We use 
+Indic Times font on Mac for diacritics.  Others using fonts on PCs are 
+encouraged to send a hard copy with diacritics so as to enable us to use 
+it as our master copy for verifications.  Look forward to receiving great 
+stuff.  Cheers
+
+Pratap Kumar
+Department of Hindu Studies and Indian Philosophy
+University of Durban-Westville
+Private Bag X54001
+Durban
+4000
+South Africa
+Tel 031-820-2194
+Fax 031-820-2160
+Email: Kumar at pixie.udw.ac.za
+
+
+
+
+

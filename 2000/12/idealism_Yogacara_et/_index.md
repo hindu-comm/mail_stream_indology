@@ -1,0 +1,4 @@
++++
+title = "idealism, Yogacara etc."
+
++++

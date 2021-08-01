@@ -1,0 +1,37 @@
++++
+title = "49 Douglas R. Brooks"
+date = "1995-04-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-April/002301.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-April/002301.html)
+
+Today is Hanuman Jayanti, or so I have
+been told.
+My question (why don't I know this?) is:
+why are the gods birthdays sometimes called
+jayanti-s, other times navaami-s (like Rama's
+last week)?
+There must be some simple explanation that gets
+to the heart of the matter, other than
+the "day" of the lunar month answer...
+
+Also, does anyone know why there are _two_
+Navaratri-s?  And why they are on the calender
+where they are?
+
+Thanks, to all, in advance.
+
+If someone should like to reply to me
+personally rather than to the list, please
+feel free.  
+
+Douglas R. Brooks
+University of Rochester
+
+dbrk at troi.cc.rochester.edu
+
+
+
+
+

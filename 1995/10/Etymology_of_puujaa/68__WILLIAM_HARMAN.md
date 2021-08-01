@@ -1,0 +1,28 @@
++++
+title = "68 WILLIAM HARMAN"
+date = "1995-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003357.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003357.html)
+
+
+While we are discussing possible -- and theoretical -- etymologies of
+"puuja" in Tamil, it may be of interest to note a widespread folk
+etymology of the term I found in the Tirunelvelli and Madurai Districts
+of Tamilnadu. Priests frequently insisted that the word comes from a
+compound of the Tamil terms "puu" (flower) and "cey" (to do or make).
+Doing puja, they insisted, derives from worship that involved an offering
+of flowers. My own disclaimer is that I never ceased to be amazed by
+the creative etymologies that Tamil chauvinism managed to find. The
+orange, for example, was regarded as originally a Tamil word, describing
+the "six" or "five"  ("aaru" or "ainju) sections of that fruit.
+So, beware..;a<OY|0
+
+					W. Harman
+					DePauw University
+
+
+
+
+

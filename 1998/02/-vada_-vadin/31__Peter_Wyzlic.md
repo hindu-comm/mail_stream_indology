@@ -1,0 +1,38 @@
++++
+title = "31 Peter Wyzlic"
+date = "1998-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010911.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010911.html)
+
+On Wed, 18 Feb 1998, L.S.Cousins wrote:
+
+> I wish someone would make a handlist of the names of Buddhist sects
+> occurring in inscriptions to update Lamotte's avowedly incomplete
+> list.  It would be extremely useful.  Actually, it's the sort of
+> thing that would be well-done on the Net, perhaps as a collective
+> effort.
+
+There is already a Japanese work:
+        Shizutani, Masao: Indo bukkyo himei mokuroku.
+        Kyoto : Heirakuji shoten, 1979
+        (Catalogue of Indian Buddhist inscriptions)
+
+It is said to contain a comprehensive (but not exhaustive) list
+of inscriptions. It was unavailable in the German interlibrary
+system, so I haven't seen it directly, though. In the late
+eighties I contacted a bookseller in Tokyo who gave me the
+information that it is out of print.
+
+Perhaps it may serve as a good starting point -- even if one does
+not read Japanese.
+
+All the best
+Peter
+
+--
+Peter Wyzlic                                    pwyzlic at pwyz.rhein.de
+
+
+

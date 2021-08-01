@@ -1,0 +1,44 @@
++++
+title = "640 Jan E.M. Houben"
+date = "1998-05-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012606.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012606.html)
+
+More than a month ago, Fri 20 Mar 1998  Edwin Bryant wrote:
+
+>You are right that no serious scholar talks of invasions anymore (although
+>see Allchin as late as 1993 in Possehl's "Harappan Civilization").
+>However, we should be aware that many people (including scholars in many
+>universities in India) do not have access to state-of-the-art material
+[ . . . ]
+
+This is a sympathetic position, but:
+If Indian universities and institutions make serious efforts to get the latest
+information and get trained in the best methods in medical and technical
+disciplines and establish international exchanges etc. in order to acquire the
+ability to make reliable decisions in these fields
+(and to make atom bombs that WORK . . . ),
+why should much lower standards be accepted if someone claims to make reliable
+statements about the cultural and linguistic past of South Asia ? After all,
+this past contains a rich 'cultural capital' (to speak with Bourdieu), and its
+own potentially explosive material.
+
+The quality of statements in this area depend on the quality of the methods and
+that of the data, and the quality of the latter again depends on methods. Let
+Indian scholars hold dear their cultural past, and let them challenge accepted
+hypotheses: if their methods have become solid by international training and
+exchange (one may think of e.g. Sukthankar and Dandekar having been partly
+trained in Germany, Subrahmanya Iyer having studied in Paris, etc.) the results
+of their research are on the long term more valuable for both Indian and
+international scholarship. It is said that a rice-plant grows better if
+replanted in another bed: something similar could very well apply to
+academicians, including philologists and archeologists.
+
+These are just some reflections on: how to proceed in a better way?
+
+Greetings, JH
+
+
+

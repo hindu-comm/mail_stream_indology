@@ -1,0 +1,34 @@
++++
+title = "132 HEIJSTEE at rullet.LeidenUniv.nl"
+date = "1996-08-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005689.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005689.html)
+
+"This has, IMHO, a great drawback: Using sequence aa for long vowel
+makes it impossible to type also Prakrit in the same way."
+
+{\dn namaste ji,}
+
+If we use TeX or LaTex with the Velthuis Devnag font no such
+problems occur. If you want to type Prakrit vowel sequences which
+should not be interpreted as diphtongs, you simply use curled
+brackets: {}. F.ex.: ai is interpreted as a diphtong, while {a}i
+or alternatively a{i} is not.
+An immense adventage of using TeX and Dviscreen as screen editor is
+that you simply type roman letters with . " ~ as the only diacritics
+(before the letter, a fact which is natural at least for me), and
+the capitals to indicate the aspirated consonants and the long vowels.
+Long vowels can also be typed as gemelli (aa, ii, etc.). And on the
+screen, yes, the lovely devanAgarI script!!!!!!!!!! The same applies
+to the printed version.
+
+Sandra Van der Geer
+CNWS - Centre for Non Western Studies
+University of Leyden
+The Netherlands
+
+
+
+

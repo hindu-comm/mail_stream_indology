@@ -1,0 +1,31 @@
++++
+title = "34 Edwin Bryant"
+date = "1997-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010059.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010059.html)
+
+Dear all,
+
+I would like to suggest the following possible topic for a future AAR (or
+Madison) panel: "Dating of Sanskrit texts: old assumptions, new
+evaluations" (or some such thing).
+
+Dennis Hudson has been doing very interesting and innovative work
+based on his analysis of the iconography of the Vaikuntha
+Perumal temple at Kanchipuram (which suggests a more ancient date for
+parts of the Bhagavat Purana than has generally been accepted by critical
+scholarship) and is willing to present some of his conclusions.  I would
+like to present a paper on how scholars ascertained the commonly accepted
+dates for the early Vedic literature and discuss some of the challenges
+to such dating (especially focusing on an analysis of the
+astro-chronological claims in this regard).
+
+Anyone else interested in presenting a paper connected with textual dating
+that might resonate with the above two topics?
+
+Hope you are all well,   Edwin Bryant
+
+
+

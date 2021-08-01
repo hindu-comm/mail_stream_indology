@@ -1,0 +1,38 @@
++++
+title = "232 Bharat Gupt"
+date = "1999-12-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019511.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019511.html)
+
+>Obviously, first causes
+> are a problem for everyone throughout the history of human thought.
+>
+> Edwin Bryant
+
+
+I think the problem has been summed up very well.
+
+I would like it to be pondered upon:
+
+1. Are the First Causes really first in the numerical or empirical sense ?
+
+2. Is the Sankrit term aadi or anaadi not more appropriate as it is not first but
+original or premium , as in the Aristotelian Premium Mobile, the Initial Mover ?
+
+3. If the first cause was really the first, then which is before the first? And hence
+how does one solve the problem of endless regression?
+
+ Therefore, what is more important are attributes (upadhiis) of the first as eplained
+in a given system, be it Purusha, Brahma, or Nature (Physiki in the ancient Greek or in
+the modern scientific sense).
+
+The remarkable phenomenon about Saamkhya, Yoga and Vedanta is that they have been put to
+a practical unification in Saadhanaa. Some would even say that there is no difference
+(taatvika) among them, as the Giitaa too stated it.
+
+Bharat Gupt
+
+
+

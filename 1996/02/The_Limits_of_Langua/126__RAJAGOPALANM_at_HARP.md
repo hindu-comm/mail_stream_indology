@@ -1,0 +1,29 @@
++++
+title = "126 RAJAGOPALANM at HARPO.TNSTATE.EDU"
+date = "1996-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004140.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004140.html)
+
+Dear dan white,
+It is not insult anybody. But since you want to know about holy academically
+it can be simply asked ' can we learn about holi '.
+there is no need to attach the damaging word ' chaos 'in the
+description.
+Holy is not anything to do with varna or caste. Many die- hard missionaries have
+tried to misrepresent and wound the the feelings of many many good hindus.
+as you have said you have met (andwill meet) many good hindus . the hindus
+will help you learn about holi . the only request i have to make is not to be derogatory
+in the description of hinduism though it has been wrongly practised for masny
+many years .Let us try to appreciate each other,not try to find out ways
+to put down each other , let us study together and learn to use respectable words to
+describe each other in culture person and in every way . That way friendship will
+grow. 
+        i am lookiing for the growth i the correct understanding among indologists
+about hinduisms and hence i think it is neccessary to use the correct words in the 
+description for otherwise the very purpose of being scientific is defeated . m.rajagopalan
+
+
+
+

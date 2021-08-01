@@ -1,0 +1,29 @@
++++
+title = "170 Martin Gansten"
+date = "1999-12-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019425.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019425.html)
+
+With apologies if this question has already been dealt with in the recent
+fonts thread (which, unfortunately, I didn't follow): A colleague recently
+asked whether I knew of any fonts which --
+        (a) work with Macintosh computers;
+        (b) contain the diacritics necessary to transliterate classical Sanskrit;
+        (c) still retain the Scandinavian diacritics (primarily å, ä, ö) in their
+standard positions (so that they will work with a normal Scandinavian
+keyboard); and
+        (d) look nice. (This last point is admittedly a subjective one, but some
+Mac fonts I've seen have decidedly ugly features, like a macron placed
+above the dot of a long 'i' rather than replacing it, etc.)
+
+Being a PC user myself, I couldn't really help. If someone else can, please
+email me privately at <martin.gansten at teol.lu.se> (unless you deem the
+question to be of public interest).
+
+Thanks in advance,
+Martin Gansten
+
+
+

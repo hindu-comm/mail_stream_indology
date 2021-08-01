@@ -1,0 +1,32 @@
++++
+title = "368 Balaji Hebbar"
+date = "1999-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017130.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017130.html)
+
+Mr. Balasubramaniam:
+
+Yes,  I  am  aware  of  the  practice  among  certain  Tamil  SmArtas
+who  wear  "gopIcandana"  in  the  day  time  and  "bhasma"  in  the
+evenings.  I  had  a  good  friend  PaNDitaratna  Candramouli  Iyer  who
+did  this.  In  TuLunAD  also,  a  small  section  of  TuLu  brahmins
+who  still  follow  the  SmArta  sampradAya  do  the  same.  I  am  not
+surprised  at  all  because  Shankara  included  the  ShaNmatas
+(Shaivas,  ShAktas,  BhAgavatas,  GANapatyas,  KaumAreyas  and  Sauras)
+within  the  aegis  of  his  SmArta  sampradAya.  TyAgarAja,  the
+famous  17th  century  Carnatic  music  composer  was  a  Telegu  SmArta
+of  the  BhAgavata  sampradAya  and  he  wore  gopicandana.  However,  I
+do  not  find  such  a  practice  among  the  KannaDiga  smArtas  of
+the  Deccan  hinterland.
+
+With  regard  to  your  other  question  the  MAdhva  praxis  of  the
+samidhAdhAnam,  I  will  find  out  for  you.  Thanks  for  your
+comments.
+
+Regards,
+B.N.Hebbar
+
+
+

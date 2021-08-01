@@ -1,0 +1,46 @@
++++
+title = "148 vidya at cco.caltech.edu"
+date = "1996-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004156.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004156.html)
+
+Prof. Witzel wrote: 
+
+
+> Malla-Veda,  and to the recent `discovery` of  `Vedic mathematics`  
+> in ONE manuscript (since, vanished!), allegedly forming an appendix  
+> to the 72 appendixes (Aatharva PariziSTaani) of the 
+
+> Atharvaveda...>> 
+
+
+A clarification - I don't think Sri Bharati Krishna Tirtha ever  
+claimed to have found any manuscript containing the sUtras of "vedic  
+mathematics". As far as I am aware of, he wrote down his sUtras,  
+after a period of meditation. As such, the "discovery" that is  
+mentioned in the preface to the available editions of "Vedic  
+Mathematics", is one of "mystical intuition". There is no talk of  
+having discovered a manuscript of the atharva veda that has since  
+vanished. What is said to have been lost in an accident (fire ?) is  
+the collection of unpublished sUtras that suposedly cover more  
+advanced fields like calculus. The assertion that "vedic mathematics"  
+is in one of the Atharva pariSishTas seems to be the standard one by  
+which various assorted subjects are ascribed to this veda. One may  
+take it or leave it, as per one's predilections. Sometimes I think  
+that even those who make such assertions with regard to the atharva  
+veda want you to take their claims with a pinch of salt!
+
+Sri Bharati Krishna Tirtha was a Sankaracharya of Puri maTh, and was  
+well respected as an advaitin. It may be pertinent, therefore, to  
+understand how advaita vedAnta views Sruti, and the process by which  
+Sruti was first revealed to the mantra-drashTas. But that is a  
+completely different issue of mImAmsA. 
+
+
+S. Vidyasankar
+
+
+
+

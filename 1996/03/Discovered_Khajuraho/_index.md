@@ -1,0 +1,4 @@
++++
+title = "\"Discovered\" Khajuraho inscrip"
+
++++

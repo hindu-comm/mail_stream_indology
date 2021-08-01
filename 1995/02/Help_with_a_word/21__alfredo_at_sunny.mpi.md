@@ -1,0 +1,26 @@
++++
+title = "21 alfredo at sunny.mpimf-heidelberg.mpg.de"
+date = "1995-02-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/001886.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/001886.html)
+
+Dear Indologist,
+        Does anyone knows if the word channel (like irrigation channel,
+german: Kanal) exist in Sanskrit. Some people has told me that channel is a
+semitic word which mean Cane. In Pali I have seen the word "udaka" which is
+translated as irrigator, or ingenieur (the person). 
+I am interested in something that has the meaning: A fixed entity used to
+carry water. I have examined the words "udabhaara" and "udakaadhaara."  The
+first one mean water-carrier which is not fix (as a cloud), and the second
+mean reservoir (the meaning of water transport is not there).  
+Thanks in advance,
+
+A.Villarroel
+
+
+
+
+
+

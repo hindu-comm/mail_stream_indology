@@ -1,0 +1,27 @@
++++
+title = "215 Ferenc Ruzsa"
+date = "1999-05-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016899.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016899.html)
+
+Friends,
+
+can anybody help me with the e-mail address of a respectable sanskritist at
+the Sampurnanand Sanskrit University in Benares? (The name may be misspelt
+as I have never seen it written.)
+
+The general idea is that a colleague and I want to spend a few months in
+India studying the still living Sanskrit tradition: how it is spoken, how it
+is traditionally taught, how different kinds of texts are recited etc. A
+friend suggested the above-named university as a good starting-point;
+however I would be also grateful for alternative ideas, provided the
+suggested institute has e-mail. (I must get some reply from them very fast
+because of the grants deadlines here.)
+
+Thank you in advance,
+Ferenc
+
+
+

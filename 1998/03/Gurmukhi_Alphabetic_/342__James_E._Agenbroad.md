@@ -1,0 +1,23 @@
++++
+title = "342 James E. Agenbroad"
+date = "1998-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011415.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011415.html)
+
+                                       Thursday, March 19, 1998
+Could someone tell my why in the Gurmukhi script 'sa' and 'ha' come
+before 'ka' instead at the end as with other Brahmi based scripts? I do not
+plan to interfile Panjabi with other scripts soon; it's just an anomaly
+I'd like to understand if possible.  Thank you.
+
+     Regards,
+          Jim Agenbroad ( jage at LOC.gov )
+     The above are purely personal opinions, not necessarily the official
+views of any government or any agency of any.
+Phone: 202 707-9612; Fax: 202 707-0955; US mail: I.T.S. Dev.Gp.4, Library
+of Congress, 101 Independence Ave. SE, Washington, D.C. 20540-9334 U.S.A.
+
+
+

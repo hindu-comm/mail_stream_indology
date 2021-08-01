@@ -1,0 +1,21 @@
++++
+title = "338 Vaidix"
+date = "1998-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011420.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011420.html)
+
+My apologies for mention of anthropology new group in an earlier letter.
+
+In that news group at one time I saw a group of people post many racial
+arguments but never willing to come to an agreement.  I got so fed up I quit
+that group.  When there is a difference, one can find the reason why there is
+a difference, and work on understanding from other's point of view.
+mAvidviSAvahai is a good idea to follow. Looks like I am wrong.  I revisited
+that group today and find it is back to professional.
+
+Bhadraiah Mallampalli
+
+
+

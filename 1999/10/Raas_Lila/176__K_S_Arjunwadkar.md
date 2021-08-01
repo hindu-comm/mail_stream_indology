@@ -1,0 +1,44 @@
++++
+title = "176 K S Arjunwadkar"
+date = "1999-10-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018796.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018796.html)
+
+Date sent:              Sun, 24 Oct 1999 11:33:52 -0400
+Send reply to:          Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
+From:                   "Harsha V. Dehejia"
+<hdehejia at CCS.CARLETON.CA>
+Subject:                Raas Lila
+To:                     INDOLOGY at LISTSERV.LIV.AC.UK
+
+> Fellow Indogisists:
+>
+> The central episode of the Bhagavata Purana and especially of
+the tenth chapter, is the Raas Lila. This has considerable aesthetic
+and religious implications. While the influence of the Tamil poets,
+both secular and sacred (Aham and Alvar), is well known, were
+there any other influences that have shaped this Purana? For
+instance did the Sufis or the Tantrics shape the Raas Lila in any
+way?
+>
+> I will be grateful for any comments.
+>
+> Harsha V. Dehejia
+>
+>
+>
+>
+I do not think that Raas Lilaa is the central theme of the Puraana,
+or even of its tenth book. The said Puraana is an integration of
+mythology, philosophy and poetry, and is woven around the central
+theme of Vishnu as the supreme principle and his ten incarnations
+for the rescue of the world from evil forces. The tenth book has an
+epic character with Krishna and his exploits as its theme.
+Proofs of the influence of south Indian devotional cults are found in
+the text itself; but other influences are questionable.
+KS Arjunwadkar/25-10-99
+
+
+

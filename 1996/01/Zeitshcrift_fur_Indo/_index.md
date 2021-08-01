@@ -1,0 +1,4 @@
++++
+title = "Zeitshcrift fur Indologie"
+
++++

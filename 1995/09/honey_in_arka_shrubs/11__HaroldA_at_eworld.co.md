@@ -1,0 +1,43 @@
++++
+title = "11 HaroldA at eworld.com"
+date = "1995-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-September/003138.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-September/003138.html)
+
+On Tue, 29 Aug 1995, H. Isaacson wrote:
+
+> The following subhaa.sita is often quoted (eg. "Sabara's Bhaa.sya
+> 1.2.4; Yuktidiipikaa ad Saankhyakaarikaa 2;
+> Saardhatri"satikaalottaravrtti ad 8.12;
+> Nyaayavaarttikataatparya.tiikaa ad Nyaayasuutra 1.2.1 etc.):
+> 
+> arke cen madhu vindeta kimartham parvata.m vrajet|
+> 
+> i.s.tasyaarthasya sampraaptau ko vidvaan yatnam aacaret||
+
+After receiving several replies informing him that the plant in question was
+really "arka" and not "akka," and identifying it, he wrote, on 30 Aug.:
+
+" . . .  If, however, arka is really correct, the verse is still puzzling. 
+Is the situation hypothetical?  I can hardly imagine that honey
+could ever be found in the wasteland shrub.  On the other hand the
+contexts in which the verse is usually quoted are about avoiding
+complicated ways of doing things when much simpler ones actually
+exist."
+
+I have not checked the references he gives, but in a Mimansa context, the
+usual intent of such a sloka would be that if something desirable, like
+heaven, or honey, could be gained without effort, then no intelligent person
+would do something difficult, like performing Vedic sacrifices, or going to
+the mountain, to obtain it. One can no more gain heaven without performing
+Vedic sacrifices than he can obtain honey from the arka plant.
+
+Yrs. Harold Arnold 
+
+
+
+
+
+

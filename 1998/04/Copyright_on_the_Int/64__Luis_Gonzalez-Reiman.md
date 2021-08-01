@@ -1,0 +1,28 @@
++++
+title = "64 Luis Gonzalez-Reimann"
+date = "1998-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011642.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011642.html)
+
+Dear list members,
+
+There is a new copyright law (HR2281) making its way through the U.S.
+Congress that could make it illegal to share certain published materials
+through the internet.  A strong opponent of this law is Pamela Samuelson, a
+law professor at the University of California, Berkeley.  A conference on
+these proposed changes will take place in UC, Berkeley, towards the end of
+April, and there is a Web site for the conference that explains aspects of
+the law.
+
+For those interested, the url is:
+
+http://www.sims.berkeley.edu/BCLT/events/ucc2b/
+
+
+Luis Gonzalez-Reimann
+University of California, Berkeley
+
+
+

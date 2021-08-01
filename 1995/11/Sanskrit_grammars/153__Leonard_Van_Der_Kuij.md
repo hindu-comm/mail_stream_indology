@@ -1,0 +1,26 @@
++++
+title = "153 Leonard Van Der Kuijp"
+date = "1995-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003678.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003678.html)
+
+Hello all of you and Peter in particular.
+
+Thanks for the reply concerning my query about a Sanskrit grammatical text 
+entitled *Rajashri*. Peter Verhagen's note via Bu ston ultimately goes 
+back to Khro phu Lo tsa ba Byams pa'i dpal's autobiography in which he 
+writes that, while in the Kathmandu Valley in the mid 1190s, he studied 
+this work with Buddhashri. Being the recipient of all the transmissions 
+that issued from Khro phu Lo tsa ba, it is likely that the autobiography 
+was Bu ston's source for this title. Still going round in circles!
+
+Again, merci for the time taken,
+
+Leonard
+
+
+
+
+

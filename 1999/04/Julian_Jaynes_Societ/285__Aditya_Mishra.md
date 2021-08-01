@@ -1,0 +1,57 @@
++++
+title = "285 Aditya Mishra"
+date = "1999-04-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016692.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016692.html)
+
+Have you heard about this author?
+At least, I had not, till last week when some one told me about him but
+now I am excited about it that I want to share it with you.
+
+It seems that he had a theory about religious experiences that is
+supported by the latest research as shown in the following reference.
+Although his research was based mostly on the western religious text but
+in my view, they apply equally well to the Indian religious texts.
+
+If you want more references you can do a search on the internet or send
+me an email to send you results of my recent search.
+
+I am sure that most of you will enjoy reading and discussing what he has
+to say and apply it to your interests or research areas.
+
+
+Articles related to Jaynes' bicameral mind and related theories:
+
+                   Religion: Is It All In Your Head?
+                   Talan, Jamie
+                   Psychology Today, 1998, April, Vol. 31 (2): 9
+                   Vilayanur Ramachandran, M.D., a neurologist, believes
+that somewhere in the brain's
+                   temporal lobes there may be neural circuitry for
+religious experience; he points to the fact that
+                   about 25 percent of patients with temporal lobe
+epilepsy are obsessed with religion. He
+                   thinks that these patients' seizures caused damage to
+the pathway that connects two areas of
+                   the brain: the one that recognizes sensory
+information and the one that gives such information
+                   emotional context.
+
+--
+
+Have a peaceful and joyous day.
+©1998 Aditya Mishra
+ homepage: http://www.smart1.net/aditya
+ ICQ Pager: 1131674
+Random thought of the day:
+ People often find it easier to be a result of the past than a cause of
+the
+future.
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/19990425/c5fefc5c/attachment.html>

@@ -1,0 +1,50 @@
++++
+title = "595 Francois Obrist"
+date = "2000-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024148.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024148.html)
+
+ATLA donne les references suivantes :
+
+Pour Hamilton : "The middle way", 72 : 171 -173, N 1997, reviewer Maurice
+Walshe.
+
+Pour Boisvert : "Studies in religion / Sciences religieuses" 26, no 4 : 485
+- 486, 1997, reviewer Leslie S. Kawamura.
+et
+"Religiologiques" no 13 : 225 - 227, Spr. 1996, reviewer Andre Couture.
+
+Hope this help.
+
+Francois
+
+ At 11:25 29.11.2000 +0100, you wrote:
+>Dear Members of the list,
+>
+>I am in search of reviews of the following two books:
+>
+>Sue Hamilton, Identity and Experience, London, Luzac, 1996;
+>Mathieu Boisvert, The Five Aggregates, Waterloo (Ontario), Wilfred Laurier
+>University Press, 1995.
+>
+>Is there anyone who can help me?
+>
+>Bruno Lo Turco
+>bloturco at katamail.com
+>
+>
+--------------------------------------------
+Francois Obrist
+Bibliotheque cantonale et universitaire (BCU)
+Section de langues et civilisations orientales
+CH-1015 Lausanne
+email: Francois.Obrist at bcu.unil.ch
+tel. : +41 21 692 4836
+Fax : +41 21 692 4845
+
+                :
+
+
+

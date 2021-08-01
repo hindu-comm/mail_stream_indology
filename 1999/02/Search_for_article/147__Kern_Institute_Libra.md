@@ -1,0 +1,24 @@
++++
+title = "147 Kern Institute Library"
+date = "1999-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015650.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015650.html)
+
+Dear members,
+We are looking for an article by T.R. Chintamani, 'Edition of fragments of
+Paithinasi Dharmasutra' whcih was published in the Annals of Oriental Research
+(Univ. of Madras), vol. IV (1939-40), i, 40ff.
+If anybody knows where this journal is available or if there is another way
+to get a copy of this article, please contact:
+        Arlo Griffiths
+        e-mail: A.Griffiths at stu.let.leidenuniv.nl
+Thanking you,
+
+Dory Heilijgers
+librarian of the Kern Institute
+Leiden University
+
+
+

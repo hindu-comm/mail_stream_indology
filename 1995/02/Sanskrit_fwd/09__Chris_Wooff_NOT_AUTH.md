@@ -1,0 +1,26 @@
++++
+title = "09 Chris Wooff *NOT AUTHENTICATED*"
+date = "1995-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-February/001876.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-February/001876.html)
+
+>Dear Chris. I wonder if you can help me find mac shareware for Sanskrit. I am
+>a doc student in SFO CA in East/West philosophy and religion at CIIS. Thank
+>you. Namaste.
+>J Purfield
+>1761 Page
+>San Francisco CA94117USA
+I haven't a clue as I'm not an Indologist but I'm copying this to the list as there is
+doubtless someone on Indology who knows the answer.
+
+-------------------------------------- 
+Chris Wooff (C.Wooff at liverpool.ac.uk)    
+Sent from home with ECSMail V3 Beta 7    
+
+
+
+
+
+

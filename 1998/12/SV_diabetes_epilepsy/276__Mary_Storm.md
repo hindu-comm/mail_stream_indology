@@ -1,0 +1,20 @@
++++
+title = "276 Mary Storm"
+date = "1998-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014575.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014575.html)
+
+A while ago J. Baltuch wrote asking about hedgehogs, diabetes, epilepsy
+and gypsies (sounds like a new age rock group).
+I  don't know if this helps, but:  Epilepsy is sometimes considered a
+blessing of the goddess (or god). A while back I was checking out some
+Newari ladies who were considered to be devata chadne or deo maju, they
+would "channel" the goddess Hariti. One woman in particular knew that
+she had epilepsy, but considered it a lucky coincidence that her
+epileptic seizures also allowed her to be accessible to Hariti Ma.
+Mary
+
+
+

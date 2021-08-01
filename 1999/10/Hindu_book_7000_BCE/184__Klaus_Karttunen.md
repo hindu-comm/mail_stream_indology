@@ -1,0 +1,40 @@
++++
+title = "184 Klaus Karttunen"
+date = "1999-10-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018860.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018860.html)
+
+>
+>       French philosopher and Le Monde journalist, Jean-Paul
+>       Droit, recently wrote in his book The Forgetfulness of India
+>       that ``The Greeks loved so much Indian philosophy that
+>       Demetrios Galianos had even translated the Bhagavad Gita''.
+>
+>       Many western and Christian historians have tried to nullify this
+>       Indian influence on Christian and ancient Greece, by saying...
+
+Demetrios Galanos (sic) did indeed translate the Gita into Greek, but
+Galanos lived in 1760-1833 and has thus nothing to do with ancient Greece.
+He came to India as a young man as tutor of the children of a Greek
+merchant living in Calcutta. Later he settled down in Varanasi and lived
+there studying and translating Sanskrit works until his death. His
+translations, Gita included, were published in Athens in the 1840s and
+1850s. See U. P. Arora (ed), Graeco-Indica. India's Cultural Contacts with
+the Greek World. In Memory of D. G. (1760-1833), A Greek Sanskritist of
+Benares. Heritage of Ancient India 26. New Delhi 1991. There is also a
+French biography of Galanos published in the 1980s.
+
+Regards
+
+Klaus
+
+
+Klaus Karttunen
+Institute for Asian and African Studies
+Box 59, 00014 Helsinki, Finland
+tel. +358-9-191-22224, fax. +358-9-191-22094
+
+
+

@@ -1,0 +1,50 @@
++++
+title = "70 Frank Conlon"
+date = "1996-01-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003956.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003956.html)
+
+From: Frank Conlon <conlon at u.washington.edu>
+
+I take the liberty of forwarding to Indology, a post from H-ASIA
+concerning the Maharashtra Studies Group, an affiliate of the
+Association for Asian Studies.
+
+Frank Conlon
+University of Washington
+
+To: Multiple recipients of list H-ASIA <H-ASIA at msu.edu>
+Subject: H-ASIA: CFP Maharashtra Studies Group at A.A.S. 4/12/96
+
+                                H-ASIA
+                           January 24, 1996
+
+Call for participation: Maharashtra Studies Group conference at A.A.S.,
+Honolulu, April 12
+************************************************************************
+From: EZELLIOT at carleton.edu
+
+The Maharashtra Studies Group will hold a conference meeting in
+Honolulu during the Association for Asian Studies annual
+conference on Friday, April 12, 9 to 11 a.m. in Iolani 7 at the Hilton
+Hawaiian Village (the AAS conference hotel).
+
+The format involves introductions of all participating scholars and
+reports on new books and new projects and new people, and general
+conversation arising therefrom.
+
+All scholars with interests in Bombay/Mumbai, Maharashtra and adjacent
+areas, are cordially invited to attend.
+
+Eleanor Zelliot
+Carleton College
+ezelliot at carleton.edu
+========================================================================
+
+
+
+
+
+

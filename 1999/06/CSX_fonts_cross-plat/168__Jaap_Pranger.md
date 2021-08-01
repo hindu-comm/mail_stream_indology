@@ -1,0 +1,61 @@
++++
+title = "168 Jaap Pranger"
+date = "1999-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017702.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017702.html)
+
+On Mon, 14 Jun 1999 13:25:30 +0200 Jan Seifert wrote:
+
+>=80 anyone out there with experience of the indianlangkit for mac? (and is
+>there a difference between the build in kit in OS 8.5 and the langkit?)
+
+You may find out at: <www.apple.com/macos/multilingual/indian.html>
+
+
+Two recent postings from the Nisus mailing list:
+
+
+*----------------------------------------------------------
+* At 10:06 PM +0300 5/26/99, raymond wrote:
+* >I use OS 8.6 on 6400/200 and, AFAIW, I don't use the hebrew language kit,
+* >which is no more necessary since 8.5., and I write lot of hebrew.
+* >
+* This is true, sort of. If you have the HLK, 8.5 and 8.6 come with an
+* updater which updates the various resources needed for HLK. OR you can run
+* the multi-lingual internet access and select Hebrew, which does the same
+* thing. If you have no HLK, you really don't need it, accept you get TWO
+* (count 'em 2) fonts. The full version of HLK comes with several more fonts,
+* although even these are not what you would call elegant. Bottom line: with
+* 8.5 and 6 you don't need HLK, although its still for sale, if you wish all
+* the fonts which come with it.
+* ----------------------------------------------------------
+
+* ----------------------------------------------------------
+* Zarlengo wrote:
+* > Is their an Arabic - Farsi update for Mac OS 8.6.  The fonts are not acking
+* > correctly as I type!
+* > D. Zarlengo, Ph.D.
+* > Vice President of Information Technology & Telecommunications
+*
+* The following information is from Apple:
+*
+* * Apple language kits and Mac OS 8.6
+* Apple's language kits require an updater for full functionality with Mac
+* OS 8.6. If you have language kits installed on an older system you are
+* updating, or if you install a language kit after installing Mac OS 8.6,
+* be sure to run the Language Kit Updater, located in the CD Extras folder
+* of your Mac OS 8.5 CD. This is the same version of the Language Kit
+* updater for Mac OS 8.5. If you are updating from Mac OS 8.5, and have
+* already updated your Language Kit, you do not need to run the Language
+* Kit Updater again after updating to Mac OS 8.6.
+* ------------------------------------------------------------
+
+
+Jaap Pranger
+
+--
+
+
+

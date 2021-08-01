@@ -1,0 +1,44 @@
++++
+title = "110 MILESM at ibm3090.computer-centre.birmingham.ac.uk"
+date = "1995-09-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-September/003235.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-September/003235.html)
+
+Use of iodine-bearing seaweed / sponge in goitre treatment is documented
+from antiquity in China, and from c.12th C. in Europe. One might expect
+some early reference to it in Northern Indian / Himalayan history; but I
+have found nothing before 1826, when Ainslie mentioned 'sponge' being
+sold in the bazars of Lower India.  Subsequent writers (e.g. Traill,
+Royle, Honigberger, Cope and many later) identified a N.Indian remedy *
+gillur-ke-patta *  (many variant transliterations) as Laminaria
+saccharina.  Nobody was sure whether merchants brought it from China,
+Tibet, the Aral Sea or the Red Sea.
+
+Any suggestions for earlier seaweed / sponge dates?  Persian, Kashmiri
+or Tibetan sources?    Whatever ??
+
+Apart from Susruta on the variety of goitres, and a probably goitrous /
+possibly cretinous  figure in a Gandhara frieze of the Buddha,  goitres
+seem hardly conspicuous in S.Asian history and literature.  Before 1750,
+they are mentioned by Marco Polo and Abul Fazl...
+
+Who else?
+
+M.Miles, Birmingham
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

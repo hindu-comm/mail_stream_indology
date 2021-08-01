@@ -1,0 +1,28 @@
++++
+title = "454 Chris Wallis"
+date = "2000-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020726.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020726.html)
+
+> >> Because inner-city schools display the racial and cultural tensions that
+> >> we see exhibited on the list.
+> >> C.W.
+> Sorry for getting off topic again, I consider this "ignorance" (?). Inner city
+> schools are more or less homogenous minority dominated; the "racial" problems
+> are in �transitional� neighborhoods and suburbs where the minorities are moving
+> into.
+
+Could anyone possibly miss the point more completely, please? ;]
+C.W.
+
+
+______________________________________
+	Christopher D. Wallis   
+President, Religion & Classics Council 
+      Intern, Interfaith Chapel 
+       University of Rochester
+
+
+

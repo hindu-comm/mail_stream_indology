@@ -1,0 +1,53 @@
++++
+title = "166 Sybil Kruegel"
+date = "1999-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016295.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016295.html)
+
+Michael Rabe schrieb:
+>
+> >Im looking for the following films, most of them produced by the
+> >University of Wisconsin:
+>
+> Center for South Asia
+> University of Wisconsin-Madison
+> 203 Ingraham Hall, 1155 Observatory Drive
+> Madison, WI 53706 USA
+> Phone:(608) 262-4884 Fax: (608) 265-3062
+> E-mail: sasianctr at macc.wisc.edu
+>
+> SA Studies; program assistant
+> Sharon L. Dickson
+> sdickson at facstaff.wisc.edu
+> S.A. Dept (608) 262-3012
+> (608)-262-9690
+> FAX 608-265-3062
+> South Asia, Center for
+> 226 Ingraham Hall, 1155 Observatory Dr, 53706
+> sasianctr at macc.wisc.edu
+>   Information                                26 2-4884
+>   Outreach/Films                             26 2-4884
+>   Asst Dir-Sharon Dickson                    26 2-3209
+>   Dir-Joseph Elder                           26 2-3209.
+> >
+> >-Four Holy Men
+> >-Pilgrimage to Kashi
+> >-Dadi and her Family
+> >-
+> >-Wedding of the Goddess (Minakshi)
+> >-Holi
+> >-Ram ke Nam (Ayodhya)
+> >
+> >Does anyone know where to get those films??? I'm looking forward to a=
+> >ny
+> >advice. Thank you.
+> >Sybil Kruegel, Institut fuer Religionswissenschaft, Universitaet Ber=
+> >n,
+> >Switzerland
+
+Thank you. Sybil Kruegel
+
+
+

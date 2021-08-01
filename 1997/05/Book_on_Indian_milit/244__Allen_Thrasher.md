@@ -1,0 +1,42 @@
++++
+title = "244 Allen Thrasher"
+date = "1997-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008233.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008233.html)
+
+A book that is being produced locally and distributed by the author
+outside ordinary commercial channels may be of interest:
+
+Christopher Peterson
+Uparalleled danger, unsurpassed courage : Recipients of the Indian Order
+of Merit in the Second World War
+N.p., Christopher Peterson, 1997
+ix, 201 p.
+US $19.95, UK L12.50, handling and postage extra
+
+available from:
+Christopher Peterson 
+11456 Orchard Lane
+Reston, VA 20190
+tel. (703) 437-7150
+
+
+Allen Thrasher
+
+Senior Reference Librarian
+Southern Asia Section
+Library of Congress
+LJ150
+101 Independence Ave, S.E.
+Washington, DC 20540-4814
+tel. (202) 707-3732
+fax  (202) 707-1724
+email: athr at loc.gov
+
+
+
+
+
+

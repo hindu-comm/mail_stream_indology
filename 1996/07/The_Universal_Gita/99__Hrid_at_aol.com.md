@@ -1,0 +1,23 @@
++++
+title = "99 Hrid at aol.com"
+date = "1996-07-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-July/005481.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-July/005481.html)
+
+I would deeply appreciate information on a book that I would like to use for
+my course on the Bhagavad-gita, which I will teach this fall at the Graduate
+Theological Union, Berkeley.
+The title is "The Universal Gita, Western Images of the Bhagavad Gita, a
+bicentenary survey," by Eric J. Sharpe. I have what is apparently a pre-press
+copy of this book that was supposed to have been published in 1985 by Gerald
+Duckworth and Co. Ltd., London.
+   Does anyone know if this book is for sale, and if so where? Thank you very
+much for any help.
+Sincerely,
+Howard Resnick
+
+
+
+

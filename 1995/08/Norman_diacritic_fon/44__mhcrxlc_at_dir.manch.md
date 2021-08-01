@@ -1,0 +1,31 @@
++++
+title = "44 mhcrxlc at dir.manchester-computing-centre.ac.uk"
+date = "1995-08-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/002904.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/002904.html)
+
+Professor K.R. Norman's diacritic fonts for Macintosh have now been added
+to John Smith's ftp server. They can be obtained by anonymous ftp from:
+bombay.oriental.cam.ac.uk. They are currently to be found at:
+/pub/john/software/fonts/norman/NORM.SEA.HQX.
+
+I understand from Dominik Wujastyk that they will shortly be copied to:
+gopher-server.bcc.ac.uk.
+
+Both the postscript and truetype versions of the fonts Normyn and Mytymes
+are included. (These supersede the older Norman and Mytimes fonts for most
+purposes.)
+
+Lance Cousins
+
+MANCHESTER, UK
+Email: mhcrxlc at dir.mcc.ac.uk
+
+
+
+
+
+
+

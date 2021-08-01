@@ -1,0 +1,46 @@
++++
+title = "193 Balaji Hebbar"
+date = "1999-05-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/016866.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/016866.html)
+
+Mr. Satyanarayana:
+
+It  is  first of  all  "Tengalai"  (Tamil  for  DakShiNakala)  not
+"Tanagalai".  The  "AShTAdashabhedanirNaya"  is  a  Sanskrit  work  that
+deals  quite  extensively  about  the  18  principal  differences  in
+doctrine  between  the  Tengalai  and  the  VaDagalai  branches  of  the
+Shri-VaishNava  SampradAya.  It  has  been  published  by  the  French
+Indological  Institute  at  Pondicherry.  Also,  Prof.  Patricia  Mumme
+(PhD. Univ.  of  Pennsylvania)  did  her  dissertation  on  this  whole
+issue.  I  think  her  work  is  entitled  "Shri-VaishNava  Theological
+dispute".  It  has  also  been  published  in  India.  Really  speaking,
+these  18  can  reduced  to  some  4  super  important  ones.  They
+are:
+
+1.  T:  God's  Grace  is  Sovereign.  It  cannot  be  "bought"  by  good
+works.
+    V:  Good  works  invoke  the  Grace  of  God.
+
+2.  T:  Prapatti  is  mandatory  as  a  means  to  mokSha.
+    V:  Prapatti  is  an  optional  means  to  mokSha.
+
+3.  T:  ShrI  does  not  share  in  the  Divine  Essence.
+    V:  ShrI  is  inseparable  from  God  and  shares  the  Divine
+Essence.  (a  la  Tengalai  this  is  Duotheism  not  Monotheism)
+
+4.  T:  Salvific  powers  belong  to  God  only.
+    V:  ShrI  shares  in  the  salvific  powers  of  God.
+
+Regards,
+B.N.Hebbar
+Adjunct  Professor  of  Eastern  Religions
+George  Washington  University  (Washington  DC  USA)
+Lecturer  of  Indology
+University  of  Maryland  Honors  Program
+PaNDitaratna,  ShAstrasavyaSAchI,  VedAntavyAghra
+
+
+

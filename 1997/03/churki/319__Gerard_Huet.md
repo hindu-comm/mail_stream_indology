@@ -1,0 +1,23 @@
++++
+title = "319 Gerard Huet"
+date = "1997-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007462.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007462.html)
+
+Hello. I am interested in knowing the origins of churki, the tuft of hair
+traditionally worn by some brahmins. Is there a mythological tradition,
+e.g. with K.r.s.na, is there a ritual usage, was its use restricted to 
+certain brahmin gotras or to certain sectarian or local traditions, etc. 
+Was wearing a churki a sign of opposition to modernism in this century,
+was there any discrimination towards people wearing it, is there a revival
+of its usage in certain circles, does it mean anything today?
+Also, what is the linguistic origin of the word? What is the sanskrit 
+equivalent?
+Thank you for pointing me to relevant sources, and I'll summarize.
+Gerard Huet
+
+
+
+

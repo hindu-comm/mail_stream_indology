@@ -1,0 +1,33 @@
++++
+title = "08 kalyans at ix.netcom.com"
+date = "1995-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002722.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002722.html)
+
+Enrica Garzilli;
+
+Re: the price of the material.
+
+1. Correspondence course, Bangalore: Fees; Rupees 100 
+(one hundred only) for each part plus postal charges. 
+Audio cassettes are also available at a reasonable 
+price.
+
+2. The cost of the album of cassettes from Mr. R. 
+Sundaracharlu, Madras is approximately Rupees 1,500 
+(one thousand five hundred only; I assume that the 
+postal charges will be extra). Mr. Sundaracharlu and 
+his wife have devoted quite a bit of time in the 
+preparation, which has received a very good review 
+from Sanskrit scholars in Madras.
+
+Best wishes. Dr. Kalyanaraman.
+
+PS. 1 USD = 31.3 Indian rupees.
+
+
+
+
+

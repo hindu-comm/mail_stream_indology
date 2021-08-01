@@ -1,0 +1,45 @@
++++
+title = "42 Dominik Wujastyk"
+date = "1996-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004380.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004380.html)
+
+Mani Varadarajan said:
+> 
+> 
+> One of the problems with Velthuis's otherwise excellent
+> Devanagari font is the lack of hyphenation tables.
+
+
+Actually, Velthuis's devnag.c pre-processor was updated several years
+ago to insert discretionary hyphenation points after all syllables.  The
+skt.c pre-processor from Charles Wikner does the same.  My dev2e.sty
+(q.v. for documentation) package for LaTeX2e contains [hyphenation] as
+an option when loading.
+
+Unfortunately, Frans hasn't been very pro-active in promoting the latest
+changes to his system.  But the INDOLOGY supplementary gopher has the
+new version.
+
+Incidentally, this scheme for hyphenation may seem rudimentary, but it
+works surprisingly well, in my view.  It also reflects accurately the
+line-breaking habits of manuscript scribes.
+
+In transliterated Sanskrit, scholars have implicitly developed
+etymologically-based hyphenation rules, which are much harder to encode
+for an automatic system.  (But work on this problem for German and other
+languages has been reasonably successful.)  But while, say,
+"buddhava-cana" looks very odd in romanization, it looks okay in
+Devanagari (in my view), and it is in the tradition of manuscript and
+early book production.
+
+Best wishes,
+Dominik
+
+
+
+
+
+

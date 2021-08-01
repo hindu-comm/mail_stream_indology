@@ -1,0 +1,35 @@
++++
+title = "239 Jaroslav Strnad"
+date = "1998-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-November/014112.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-November/014112.html)
+
+Hindi from Japan:
+Hindi Electronic Dictionary
+http://www3.aa.tufs.ac.jp/~kmach/hnd_la-e.htm
+Hindi Full-Text Search (Premcand=B4s Godan)
+http://www3.aa.tufs.ac.jp/~kmach/kw_gdn-e.htm
+
+Hindi from India:
+Indian Media : Regional Languages:
+http://www.mahesh.com/india/media/regional.html#hindi
+(on-line Hindi journals and newspapers)
+Hindustan - Search India
+http://hindustan.net/
+
+Hindi from US:
+Hindi Links
+http://www.cs.colostate.edu/~malaiya/hindilinks.html
+
+Of course, there may be more.
+
+Regards,
+                                        PhDr.Jaroslav Strnad
+                                        Oriental Institute,
+                                        Czech Academy of Sciences,Prague
+                                        strnad at orient.cas.cz
+
+
+

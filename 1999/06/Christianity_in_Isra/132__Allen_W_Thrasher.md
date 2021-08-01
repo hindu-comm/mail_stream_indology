@@ -1,0 +1,47 @@
++++
+title = "132 Allen W Thrasher"
+date = "1999-06-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017491.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017491.html)
+
+I missed this error in an earlier posting by Balaji Hebbar and noted
+it in a subsequent exchange.  I think it should not go uncorrected
+thought it is not strictly Indology material and do not wish to open a
+new chain:
+
+<<Similarly,  though  Christianity  was  born  in  Israel,  it  is
+today found  in  Europe  and  not  in  Israel.>>
+
+I do not have figures at hand but a significant percentage of the
+populations of Israel and the Palestinian Liberation Authority
+territory are Christian, though they are tending to leave both
+jurisdictions because of economic and other pressures both from the
+Israelis (which the local leaderships will complain about openly) and
+from the Muslims (about which they feel they have to be more
+discreet).  Of course they are a minority but not a tiny one.  They
+also form about %10 of the populations of Egypt, Syria, and Iraq.
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+LJ-150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+U.S.A.
+tel. 202-707-3732
+fax 202-707-1724
+email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

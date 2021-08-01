@@ -1,0 +1,47 @@
++++
+title = "226 Charles Wikner"
+date = "1997-03-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007368.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007368.html)
+
+
+ANNOUNCE: Update of Sanskrit Introductory sktintro.ps
+
+The Sanskrit Introductory course has been updated (minor rephrasing 
+and typo correction, but substantially the same).  The "compress" 
+option of dvips has been used: this make the file marginally slower 
+to print but the result is a 75% reduction in file size (from 5.7Mb 
+to 1.3Mb). It is also both viewable under ghostscript and directly 
+printable on a printer with a PostScript interpreter.
+
+The original announcement message giving the Table of Contents and
+Preface in ASCII text is also available.
+
+The files are available by anonymous ftp at:
+
+      ftp://ftp.nac.ac.za/wikner/sktintro-announce.txt
+      ........................../sktintro.ps600-letter-march97
+      ........................../sktintro.ps600-a4paper-march97
+
+The difference between the last two files is that the former is 
+optimised for double-sided printing on U.S. letter paper, and the 
+latter for European A4 size paper.
+
+The above site is rather overloaded: you may find the Jaguar 
+temporary site more accessible:
+
+      ftp://t.ms.uky.edu/incoming/sktintro-announce.txt
+      .........................../sktintro.ps600-letter-march97
+      .........................../sktintro.ps600-a4paper-march97
+
+Regards,
+Charles Wikner.
+wikner at nacdh4.nac.ac.za
+18-March-1997
+
+
+
+
+

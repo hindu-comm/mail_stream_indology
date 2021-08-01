@@ -1,0 +1,31 @@
++++
+title = "153 South Asia Section"
+date = "1998-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012044.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012044.html)
+
+On Wed, 6 May 1998, N. Ganesan wrote:
+
+> It will be wonderful to have a website with
+> all the place names of every Indian state.
+>
+
+In the meantime why not use the Thesaurus of Geographic Names presented by
+the Getty Information Institute.
+http://www.ahip.getty.edu/tgn_browser/
+
+BTW India is Bharat on this site.
+
+South Asia Section
+Irene Joshi, M.L.S.
+South Asia Librarian
+University of Washington Libraries
+Box 352900
+Seattle, Washington, 98195-2900
+U.S.A.
+http://weber.u.washington.edu/~souasia/
+
+
+

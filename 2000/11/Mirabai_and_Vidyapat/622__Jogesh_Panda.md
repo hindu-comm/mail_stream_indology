@@ -1,0 +1,40 @@
++++
+title = "622 Jogesh Panda"
+date = "2000-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024149.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024149.html)
+
+Daniela Rossella <ghezziem at TIN.IT> wrote:
+Dearest Colleagues, I am looking for the most recent translation in any
+Western languages (Italian, too) of the Mirabai's Padavali (with the Hindi
+text) and Vidyapati's Padabali (translation and original text).
+Can anyone help me?
+Many Thanks,
+Daniela
+
+
+There are at least a dozen translations of Mirabai's poems into English. I do
+not remember if any of these has the original as well except for the
+translation [not always reliable] by S. Futehally which contains a romanized
+text. I have seen the translations of Pritish Nandi [a dear friend, but a very
+creative translator], K.P Bahadur [ Mr. Bahadur is a prolific translator of
+many Indian texts], A.J. Alston [good], Andrew Schelling [most recent].
+N.Balbir's translation into French is much appreciated.
+
+Vidyapati has been translated by the great Aurobindo [which I have seen, no
+original], a Mr. Datta in the 1930s or 1940s [I have not seen the book], and
+by Deben Bhattacharya [most recent]. For bibliographical details, you might go
+to the very useful LOC  web site.
+
+Hope this helps.
+
+Best wishes,
+Jogesh Panda
+
+____________________________________________________________________
+Get your own FREE, personal Netscape WebMail account today at http://home.netscape.com/webmail
+
+
+

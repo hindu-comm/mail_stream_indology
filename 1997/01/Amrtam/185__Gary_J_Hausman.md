@@ -1,0 +1,71 @@
++++
+title = "185 Gary J Hausman"
+date = "1997-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-January/006828.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-January/006828.html)
+
+The relation between external alchemy (gold deposits in the earth, etc.)
+and internal alchemy (the alchemy of the body) is quite explicitly
+articulated in Chinese medicine, as well as South Indian Siddha practices.
+For an entire volume on this topic, see part V, of Volume 5, of Science
+and Civilization in China by Joseph Needham on 'Physiological Alchemy.'
+Joseph Needham argues that Chinese 'physiological alchemy' was deeply
+influenced by Indian yogic practices.
+
+			Gary Hausman
+			Columbia University
+
+On Fri, 31 Jan 1997, Patricia Meredith Greer wrote:
+
+> You would be very interested to see a new book by David G. White,
+> _Alchemical Body_, U Chicago.  He deals with the issue you mention, and
+> much more!
+> Patricia Greer
+> UVA
+> On Fri, 31 Jan 1997, Dr. S. Kalyanaraman
+> wrote:
+> 
+> > This subject of death in ancient India, brings to mind one nagging lexical issue:
+> > amrtam.
+> > 
+> > amrtam has alchemical overtones; it seems to refer
+> > to the imperishable nature of gold as the early seekers
+> > found means to smelt rocks, extract and purify the metal.
+> > And hence, extension of the concept of imperishability
+> > to the body...??
+> > 
+> > Regards, Kalyanaraman.
+> > 
+> > 
+> > At 12:53 AM 1/31/97 GMT, you wrote:
+> > >
+> > >In April 1994, Prof. Lance Nelson posted the following references to
+> > >INDOLOGY, re: death and dying in advaita vedanta. They should be useful. 
+> > >
+> > >R. Balasubramanian, "The Advaita View of Death and Immortality," in Death
+> > >and Immortality in the Religions of the World, ed. Paul and Linda Badham
+> > >(New York: Paragon House, 1987), 121ff.
+> > >
+> > >Debabrata Sinha, "On Immortality and Death--Notes in a Vedantic
+> > >Perspective" in Perspectives on Vedanta: Essays in Honor of Professor P.
+> > >T. Raju, ed. S. S. Rama Rao Pappu (Leiden: E. J. Brill, 1988), 170-181.
+> > >
+> > >S. Vidyasankar
+> > >
+> > >
+> > >
+> > >
+> > 
+> > 
+> 
+> 
+> 
+> 
+> 
+
+
+
+
+

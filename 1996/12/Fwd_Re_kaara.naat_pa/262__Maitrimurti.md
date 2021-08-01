@@ -1,0 +1,77 @@
++++
+title = "262 Maitrimurti"
+date = "1996-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006598.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006598.html)
+
+Forwarded message:
+From:     Self <RRZ-CIP-1/FO4A007>
+To:       "Robert J. Zydenbos" <zydenbos at giasbg01.vsnl.net.in>
+Subject:  Re: kaara.naat paapam
+Date:     Mon, 16 Dec 1996 11:56:58
+
+> Date sent:      Thu, 12 Dec 1996 21:55:19 GMT
+> Send reply to:  indology at liverpool.ac.uk
+> From:           "Robert J. Zydenbos" <zydenbos at giasbg01.vsnl.net.in>
+> To:             Members of the list <indology at liverpool.ac.uk>
+> Subject:        kaara.naat paapam
+
+> mm> Prof. S.A. Srinivasan [...] is interested in sources for and
+> mm> information and clarification regarding the terms kaara.naat
+> mm> paapa.m and kaara.naat pu.nya.m. The terms are encountered in the
+> mm> commentary by Samaradivaakara to the Jain text Niilake"sii.
+> 
+> I do not know that particular text, but it seems to me a technical term
+> from Jaina karmasiddhaanta. I came across it in my study of Jaina
+> ritualism.
+> 
+> There are three ways in which both kinds of karmic influx (pu.nya as well
+> as paapa) are bound: through doing (kara.na), causing to be done by
+> somebody else (kaara.na) and approval of somebody else's doing
+> (anumodana). [Recently I have written a little about this in a note in my
+> article on "The Ritual Giving of Food to a Digambara Renunciant", which is
+> about to appear in the volume of collected papers of the conference
+> "Approaches to Jaina Studies: Philosophy, Logic, Rituals and Symbols" held
+> in Toronto last year. This book should appear with the Univ. of Toronto
+> press.]
+> 
+> The phrase "kaara.naat paapam" would therefore mean that the person in
+> question accumulates bad karma not through any act which he himself has
+> committed, but because he has made somebody else commit that act. (Please
+> ask Prof. Srinivasan whether this makes sense in the context of his
+> reading.)
+> 
+> Robert Zydenbos
+> 
+
+        Thanks for your help. There is no doubt at all as to what 
+kaara.naat paapa/pu.nya mean. They intend indirect causation in the 
+sense, for example, respectively, of not slaying yet eating meat with 
+the result that the meat eater accumulates the paapa of slaying, and 
+of worshipping the bodhi tree -- because it evokes veneration of the 
+Buddha -- with the result that the worshipper obtains the pu.nya of 
+Buddha worship. What I wanted to know was whether the expressions 
+<<as such>> are found elsewhere, and it seems that they aren't. 
+Samayadivaakara becomes intelligible only on the assumption that the 
+terms were so well known that they called for no comment, though he 
+(he? somebody else? he himself in an after thought?) does define them 
+in the above sense at a <<later>> point, but <<not>> at their first 
+mention.
+
+Srinivasan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

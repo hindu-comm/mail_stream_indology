@@ -1,0 +1,36 @@
++++
+title = "73 Joel Tatelman"
+date = "1997-07-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-July/008782.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-July/008782.html)
+
+Regarding the Puraa.nic description of the Buddha as kaa.saayavastra, 
+mu.n.dita and 'sukladanta:
+
+I don't know why white teeth is significant to the author of the puraa.na 
+- but I do recollect that, as part of their general ascesis, certain 
+Brahmanical ascetics did not brush their teeth. Perhaps in at least some 
+times and places a Pepsodent smile on a renunciant was a sure-fire way of 
+identifying him or her as Bauddha.
+
+Also, for what it's worth, su'sukladanta (or -da.m.s.tra) is one of the 
+32 mahaapuru.salak.sa.na (see BHSD, p. 459b, no. 26).
+
+Hope this helps.
+
+Regards,
+
+Joel.
+
+
+Dr. Joel Tatelman,
+31 Grenadier Road, Toronto, Canada M6R 1R1
+Tel.: (416) 535-4997
+E-mail: tatelman at total.net
+
+
+
+
+

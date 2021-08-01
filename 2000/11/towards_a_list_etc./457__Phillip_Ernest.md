@@ -1,0 +1,34 @@
++++
+title = "457 Phillip Ernest"
+date = "2000-11-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023973.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023973.html)
+
+On Fri, 17 Nov 2000, Ven. Tantra wrote:
+
+> Sir, this is simply not the appropriate arena for
+> accomplishing private jihad.
+>
+In fact, I've been struck by the decency with which this proposal has been
+discussed on the list.  Maybe the tone of the discussion is owed to the
+fact that the inspiration for a professional list came from the split of
+the Buddhology list: that process seems to have been conducted very
+decently, probably because some Buddhologists are also practicing
+Buddhists.
+
+The proposed criteria for admission are certainly breathtaking: the new
+list will probably be as sparsely populated as the Calvinist heaven.
+Still, if there are people who feel that all but five percent of the posts
+to this list are irrelevant to them, another one definitely needs to be
+founded.  I hope that the members of this list will be told how they can
+obtain 'lurker' status.
+
+May these on-list negotiations continue to be conducted with compassion
+for us mere streamwinners.
+
+P. Ernest
+
+
+

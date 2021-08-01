@@ -1,0 +1,38 @@
++++
+title = "152 DEVARAKONDA VENKATA NARAYANA SARMA"
+date = "1999-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015606.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015606.html)
+
+NAGARJUNKONDA/POTALAKA -1
+
+In the time of ikSvAku kings what is now called nAgArjunakoNDa could have
+been known as siripavata. In one of the inscriptions obtained here it is said
+
+        "ziripavatE vijayapuriya puvadisAbhAgE vihArE culadammagrIyaM
+        cetiyagharaM."
+                                        EI, vol XX, No.1
+
+nAgArjunakoNDa is a part of the zrIparvata range and therefore there is
+nothing strange in its being called zrIparvata. vijayapuri was the capital
+of ikSvAkus.
+On nAgArjunakoNDa there are temples dedicated to puSpabhadra(ziva), mahAsEna
+(skanda), aSTabhujasvAmi(viSNu) and harIti(sakti). These are besides the
+buddhist caityaAs and vihArAs.
+
+Very close to nAgArjunakoNDA is waterfalls called "etti pOtala". The word
+"pOtala" means waterfalls and "etti" means "lifted high". Perhaps the
+naGarjunakoNDA mountain was also known among bhikkus as "pOtalaka", a mountain
+in the vicinity of "pOtala" (=waterfalls) "ka" being a  sanskrit pratyaya
+hiving the meaning "related to". This is the identification I am proposing.
+This waterfalls can be seen from the nAgArjunkoNDa is only a few kilometers
+from it.
+
+regards,
+
+sarma.
+
+
+

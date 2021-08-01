@@ -1,0 +1,48 @@
++++
+title = "81 Leo Facq"
+date = "1995-10-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003324.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003324.html)
+
+
+
+----------
+From: 	indology-request at liverpool.ac.uk on behalf of Leo Facq
+
+Sent: 	dinsdag 26 september 1995 19:19
+To: 	Members of the list
+Subject: 	
+re my request of 19 september on a translation of Shankara's 
+
+We learnt 
+from Europe's leading bookshop on Asean litterature Otto 
+Harrassowitz in 
+Wiesbaden-Germany that A.G. Krishna Warner's book 
+(Ramakrishna Math, Madras 
+1983) is out of print and is no longer on the 
+second hand market. Could 
+anyone put us in touch with a bookseller 
+(i.e.provide us with name and 
+address on E-mail??) who would still stock it, 
+first or second hand? We 
+have a rather urgent need for it.
+Many thanks 
+ahead.
+
+Note added on 
+October 10,1995:
+Is there perhaps any chance of borrowing it from a library? 
+Please inform undersigned of conditions of loan of books to Europe/Belgium
+
+Many Thanks ahead
+Leofacq
+
+
+
+
+
+
+
+

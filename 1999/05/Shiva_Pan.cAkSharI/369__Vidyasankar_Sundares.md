@@ -1,0 +1,40 @@
++++
+title = "369 Vidyasankar Sundaresan"
+date = "1999-05-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017049.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017049.html)
+
+Three possible reasons -
+
+1. The SatarudrIya has namaH SivAya ca SivatarAya ca, without the praNava
+before the five syllable mantra. The traditional praise of this mantra says
+that among the three vedas (leaving out the atharva), the yajurveda is in
+the middle, in this veda, the SatarudrIya is in the middle, in the
+SatarudrIya, the pancAksharI is in the middle.
+
+2. From a non-Vedic perspective, the number five is specially associated
+with Siva, so that there would have been a tendency to get a mAntric
+equivalent.
+
+3. Leaving out the praNava opens the field for non-dvijas. Perhaps, the
+story about the conservative opposition to Ramanuja's shouting out the
+eight-syllable mantra for all to hear was because of the presence of the
+praNava.
+
+As for the vIraSaivas, the six-syllable mantra, along with the praNava,
+allows an equivalence with their doctrine of shaT-sthala, so that may be why
+they say this is superior to the five syllable one. But such variations of
+the same mantra is nothing new. The SrIvidyA mantra has a fifteen syllable
+version and a sixteen syllable version. The Goddess of the latter is
+specifically called shoDaSI, in addition to being called tripurasundarI.
+
+Vidyasankar
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

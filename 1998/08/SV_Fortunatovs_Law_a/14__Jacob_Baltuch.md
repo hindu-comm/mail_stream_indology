@@ -1,0 +1,30 @@
++++
+title = "14 Jacob Baltuch"
+date = "1998-08-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-August/013411.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-August/013411.html)
+
+Miguel Carrasquer Vidal wrote:
+
+>Indeed.  We know that for instance the change *k(w)e > c^e is
+>independent in Slavic (c^etyre), Indo-Iranian (catva:ra-) and
+>Armenian (c^'ork') [PIE *kwetwores "4"].  This is very common sound
+>change, which makes it unsurprising that it should have happened
+>independently many times over.  The "satem"-change (*k^ becomes some
+>kind of s(h)ibilant) is just as common and trivial, but there are
+>reasons to believe that this change was not independent, but affected
+>a single dialect of IE.  This has to do with the fact that the
+>"satem" languages have several other things in common, things that
+>less trivial.  One of them is the RUKI-rule (*s > /s^/ after i, u, r,
+>k (and H?)).  This makes it more likely that we are dealing with a
+>set of shared innovations, and that it is probably justified to speak
+>of a "satem" subgroup of IE (on the other hand, there is no "centum"
+>group: those are just the languages that fail to be "satem").
+
+Wouldn't it be better then to speak of "rooky" IE? (since satm includes
+Albanian)
+
+
+

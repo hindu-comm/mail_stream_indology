@@ -1,0 +1,28 @@
++++
+title = "593 Rosati"
+date = "2000-12-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024721.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024721.html)
+
+From:
+
+http://www.infinityfoundation.com/ECITkalichildframeset.htm
+
+"Later in the book (see note #144) the author inexplicably translates
+"Shiva-linga" as "Shiva's penis." Perhaps this is because Kripal views Shiva
+as one who is "known for his erotic exploits." All I can say on this point
+is that this is not the kind of image a practicing Hindu carries in his or
+her heart. I have worshipped Shiva my entire life and not once when I gazed
+upon the Shiva linga did "Shiva's penis" enter my mind. I can assure you
+that this is the same for millions of other practicing Hindus."
+
+Is the author of this statement in deep denial, or am I misinformed? I
+always thought a Shiva-linga >was< a phallic symbol, probably the most
+famous phallic symbol in existence?
+
+Dante
+
+
+

@@ -1,0 +1,22 @@
++++
+title = "42 Sudalaimuthu Palaniappan"
+date = "1998-02-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010674.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010674.html)
+
+In a message dated 98-02-02 14:49:38 EST, vasur at CCAT.SAS.UPENN.EDU writes:
+
+<< (vanjaan is used mostly in harijan and padayaacci dialects. vaisaan is used
+ in other dialects.)
+  >>
+The person who used the form "vassAn2" (with two "s"es) is a brahmin. Does
+brahmin dialect around man2n2ArkuTi use this form? Thanks in advance.
+
+Regards
+
+S. Palaniappan
+
+
+

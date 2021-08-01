@@ -1,0 +1,21 @@
++++
+title = "29 John Smith"
+date = "1998-09-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-September/013477.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-September/013477.html)
+
+Does Wendy Doniger use email? If so, could someone kindly let me know her
+email address? Thanks.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+

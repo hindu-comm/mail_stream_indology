@@ -1,0 +1,37 @@
++++
+title = "104 JR Gardner"
+date = "1998-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-May/012033.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-May/012033.html)
+
+Our library is missing Mayrhofer's recent __Etymologisches Worterbuch des
+Altindoarischen__(1992/6), Band I, page 164 re. aatma'n:  how doe sthis
+line read (my fax is blurred rather worrisomely and final deposit of my
+dissertation is tommorrow-- BTW, yes, I passed, and thanks to everyone for
+their help . . . copies forthcoming . . .):
+
+"stehen 'schwache' von tmaan"
+
+or
+
+"stehen 'schwache' von tma'n"
+
+Needless to say, a VERY important distinction!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+John Robert Gardner, Ph.D.  Obermann Center
+School of Religion           for Advanced Studies
+University of Iowa          University of Iowa
+319-335-2164                319-335-4034
+http://vedavid.org          www.uiowa.edu/~obermann/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"Now, at some point you may encounter the Devil's Bargain.  Any old soul
+is worth saving, at least to a priest, but not  every soul is worth
+buying.  So consider the offer a compliment."
+                                --William S. Burroughs
+                                "Words of Advice for Young People"
+
+
+

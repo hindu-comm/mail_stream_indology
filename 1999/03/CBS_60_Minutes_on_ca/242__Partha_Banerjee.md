@@ -1,0 +1,36 @@
++++
+title = "242 Partha Banerjee"
+date = "1999-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016356.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016356.html)
+
+The CBS news program 60 Minutes will be airing a piece titled The Untouchables
+on caste violence and untouchability in India this Sunday, March 21, at 7:00
+p.m.  Human Rights Watch provided much background information for this
+broadcast and is publishing a report on caste violence in India to be
+released mid-April 1999.
+
+(Info source: sec-dem-sa, etc.)
+
+________________________
+
+There was a long article in New York Times, March 15 (Monday) on violence
+on "dalits/untouchables" in Bihar (India).
+
+That article might have prompted this upcoming show on CBS.
+
+The NYT article didn't have any mention of how dalits and the poor were
+killed and tortured during the past Congress regimes in India (Congress
+party is now led by Sonia Gandhi, a favorite of the US and Western govts
+and media). People are being led to believe by the media that oppression
+and killing of the poor and "lower castes" is just a recent phenomenon in
+India and it has only started during the fascist/supremacist BJP/RSS/VHP
+regime.
+
+
+-Partha Banerjee
+
+
+

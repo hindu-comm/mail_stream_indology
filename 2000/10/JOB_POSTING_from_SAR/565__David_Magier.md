@@ -1,0 +1,53 @@
++++
+title = "565 David Magier"
+date = "2000-10-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023491.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023491.html)
+
+The following job announcement is being forwarded to your listserv or
+mailing list from the ACADEMIC POSITIONS section of SARAI. Please
+contact posters directly for any further info.
+David Magier (SARAI)
+http://www.columbia.edu/cu/libraries/indiv/area/sarai
+
+====================
+POSITION: Cultural Anthropologist - Tenure Track (Syracuse University)
+
+NOTICE OF CULTURAL ANTHROPOLOGIST POSITION
+
+SYRACUSE UNIVERSITY
+DEPARTMENT OF ANTHROPOLOGY
+
+SYRACUSE UNIVERSITY, Department of Anthropology, seeks an applied
+cultural anthropologist for a tenure-track appointment for the
+position of an assistant or associate professor, effective Fall
+2001. Specializations are open, but applied field experience in Latin
+America (including the Caribbean) or in South Asia is required.
+Preference will be given to candidates with a completed PhD,
+excellence in teaching and publications, and who can mesh with
+existing strengths of faculty in the Department and in the Maxwell
+School of Citizenship & Public Affairs.  Syracuse University
+encourages applications from women and men of diverse racial, ethnic,
+and cultural backgrounds.
+
+Please send a cover letter that includes a statement of professional
+goals, research and teaching interests, and names of three references
+ALONG WITH A CV to:
+
+ Professor Hans Buechler, Chair
+ Cultural Anthropology Search Committee
+ Department of Anthropology
+ Syracuse University
+ Syracuse, NY 13244-1090
+
+DEADLINE FOR APPLICATIONS IS DECEMBER 30, 2000, but early submissions
+are encouraged, and will be reviewed as they are received. Preliminary
+interviews may be conducted at the AAA meeting in San Francisco THIS
+NOVEMBER.  Syracuse University is an EO/AAE and prohibits
+discrimination on the basis of sexual orientation, preference and
+gender identity/expression.
+
+
+

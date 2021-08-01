@@ -1,0 +1,36 @@
++++
+title = "81 Shrisha Rao"
+date = "1999-05-29"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017323.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017323.html)
+
+On Tue, 25 May 1999, Hans Henrich Hock wrote:
+
+> Something to ponder:  If the Vedas are apauruSeya, what can they tell us
+> about pauruSeya history?
+
+Who says they can, by the way?  As far as I know, the Vedas do not speak
+of historical persons (in the sense that history is commonly understood,
+as referring to "a systematic, written account of events," etc.).  They
+refer to legendary or otherwise-unknown persons like Vishwamitra, etc., or
+to strange beings called Indra, Mitra, etc.  The only exception to this
+one is aware of is the reference to Madhva (1238-1317) in RV I.141-3 and
+elsewhere, but this is not universally accepted as indeed referring to
+him, and indeed, one doubts that a student of history would find much
+worth or value in studying the Vedic descriptions to learn about Madhva.
+
+The latter, however, could be counted on to assert that the references to
+transient beings such as Vishwamitra, or even he, in the RV is because of
+their being repeated in endless cosmic cycles (`dhAtA yathA pUrvaM
+akalpayat.h' -- Black Yajur Veda).
+
+Regards,
+
+Shrisha Rao
+
+> Hans Henrich Hock
+
+
+

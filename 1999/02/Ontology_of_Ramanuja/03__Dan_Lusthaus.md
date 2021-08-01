@@ -1,0 +1,40 @@
++++
+title = "03 Dan Lusthaus"
+date = "1999-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015611.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015611.html)
+
+>1. Can anyone point me to a place in the writings of Ramanuja (or Yamuna)
+>which explicitly supports not only the reality of the world, but its
+>objective existence outside and independently of consciousness?
+>
+>2. If not, has there ever been a scholarly attempt to scrutinize the
+>ontological position of Ramanuja, possibly calling his 'objective realist'
+>status into question?
+
+Two places to look (also secondary literature, but containing citations and
+references to primary sources) are
+
+1. Anima Sen Gupta's _A Critical Study of the Philosophy of Ramanuja_
+Varnasi: Chowkhamba Sanskrit Studies Series Vol. LV, 1967, esp. concerning
+the notion of acit (pp. 78ff and passim); and
+
+2. John Chethimattam's _Consciousness and Reality_ London: Geoffrey
+Chapman, 1971, esp. ch. 5 (though drawing mostly on R's Sri Bhasya).
+
+Gupta's treatment is much more thorough.
+
+In short, the world as acit has reality apart from consciousnesses because
+the  ultimate cause of materiality is Brahman, which is also the ultimate
+cause of consciousness (cit). Both cit and acit are produced from the same
+ultimate cause, while each operates within the causal dynamics of its own
+sphere. The material world functions through its own causal operations.
+
+
+Dan Lusthaus
+Florida State University
+
+
+

@@ -1,0 +1,45 @@
++++
+title = "407 Satya Upadhya"
+date = "2000-12-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024542.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024542.html)
+
+Theory of "Two truths" does not, so far as i understand, mean visible and
+invisible Brahman. It means truth from the provisional practical point of
+life (what Advaitists call "vyahvarika satya"), and truth at the ultimate
+metaphysical level ("parmarthika satya"). Thus the food you eat exists at
+the level of "vyahvarika satya", but at the higher metaphysical level
+("parmarthika satya") it is just a phantom conjured up by mortal illusion,
+according to both the Advaita Vedantists and the Mahayana Budhists.
+[ Two fundamental of the Advaita are: 1. Brahman is the only reality.
+2. Brahman is pure consciousness that is devoid of any attributes.]
+
+Futher to this, i may mention just some of the several sources who accuse
+Advaitists of being disguised Mahayana Budhists:
+
+1. Vijananabhikshu, who coins the phrase "pracchanna baudha" to refer to the
+Advaitists (in his intro to the Sankhyapravanbhasay from the Padmapurana).
+2. Madhva on Brahma Sutra ii.2.29, when he says that the Brahman of the
+Advaitists is nothing but the "sunya" of the Sunyavadins. [Rememember that
+according to Advaita, the Ultimate Reality is devoid of any attributes, and
+this is the position of the sunyavadis too as far as i know.]
+3. Parthasarathi Mishra [the famous commentator on Kumarila] in
+Sastra-dipika, Nir.ed. pg. 111; and Jayanta Bhatta in Nyayamanjari, Ch.ed.
+ii.96 also (sarcastically) refer to the basic similarity between the Advaita
+and Mahayana Budhism.
+4. From the Advaita point of view, Sriharsa frankly acknowledges his
+indebtedness to the sunyavadis [Madhyamikas].
+
+Now, what i want to know is whether any work has been done in modern times
+on the parallels between the Advaita and Mahayana Budhism.
+
+Rgds
+Satya
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

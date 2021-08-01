@@ -1,0 +1,41 @@
++++
+title = "54 kalyans at ix.netcom.com"
+date = "1995-07-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-July/002763.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-July/002763.html)
+
+Piotr Michalowski wrote recently in sci.archaeology 
+usenet: "As Gelb and others pointed out, the type of 
+refernces we have from third millennium and early 
+second millennium Mesopotamia indicate that Meluhha 
+was for them a vague term for areas along the north 
+coast of the Persian Gulf and extending east, 
+possibly as far as Beluchistan, but probably no 
+further."
+
+A series of articles and counters had appeared in the 
+Journal of the Economic and social history of the 
+Orient, Vol.XXI, Pt.II, Elizabeth C.L. During Caspers 
+and A.Govindankutty countering R.Thapar's dravidian 
+hypothesis for the locations of Meluhha, Dilmun and
+Makan; Thapar's A Possible identification of Meluhha, 
+Dilmun, and Makan appeared in the journal Vol. XVIII, 
+Part I locating these on India's west coast. Bh. 
+Krishnamurthy defended Thapar on linguistic grounds 
+in Vol. XXVI, Pt. II: *mel-u-kku = highland, west; 
+*teLmaN (= pure earth) ~ dilmun; *makant = male child 
+(Skt. vIra = male offspring.
+
+Have there been any further explorations on these 
+lines to locate Meluhha?
+
+Dr. S. Kalyanaraman
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
++++
+title = "27 Sid Harth"
+date = "1995-05-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002415.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002415.html)
+
+On  4-MAY-1995 06:52:40.0 indology said to BAKULA
+
+     Stuff deleted..
+
+   > >Elizabeth Hole
+   > >Ph.D. Student, Cultural and Religious Anthropology
+
+     Stuff deleted..
+
+   > May I remind Ms Hole that this is not a moderated list. This means that
+   > anybody can send *any* message to the list. In other words, we depend
+   >upon the sense of responsibility of the list member. I my opinion,
+   >there is no reason that some light relief should not pass our way.
+   >Personally, I don't feel offended.
+
+   > Best regards,
+
+   > Lars Martin Fosse
+
+     Stuff deleted...
+
+     "Let the chips fall where they may".
+
+     Lars, the best scatological revelation to the anal retentatives
+ (au Freud) of the world, otherwise known in these United States of America
+as "S*U*A*H". No pun intended on honorable Ms. Hole's last name.
+
+Sid Harth   "My prose is gross, my verse is worse"
+
+
+
+
+
+
+

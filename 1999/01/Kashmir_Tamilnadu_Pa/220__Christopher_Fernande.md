@@ -1,0 +1,38 @@
++++
+title = "220 Christopher Fernandez"
+date = "1999-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015113.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015113.html)
+
+In a message dated 1/6/99 10:26:05 PM Central Standard Time,
+narayana at HD1.DOT.NET.IN writes:
+
+> I wonder whether Asok Aklujkar meant it. But since this is based
+>  on translation of sanskrit passages and sanskrit does not have
+> articles "a", "an" and "the", I think drawing any conclusions
+> from it will be misleading.
+
+This does not make sense. If what you say is true, more than
+ 200 years of Indological scholarship has been a waste of time.
+In other words, according to you, when the Sanskrit texts are
+translated into English, articles 'a', 'an', and 'the' do not
+ carry any semantic specificity! They have been thrown about
+here and there for no reason!
+
+Every language has its own set of "tools" to convey the correct
+ meaning. So it is immaterial if Sanskrit does not have a, an, the,
+etc. as English does.  What Aklujkar has written is clear enough.
+ If you question Aklujkar's understanding of the Sanskrit texts,
+please give your interpretation of the relevant texts he has
+referred to, and explain why your interpretation is better than his.
+
+Chris
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

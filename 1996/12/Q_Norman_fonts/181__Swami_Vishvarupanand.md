@@ -1,0 +1,40 @@
++++
+title = "181 Swami Vishvarupananda"
+date = "1996-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-December/006511.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-December/006511.html)
+
+Arash Zeini wrote:
+> I am searching for Devanagari fonts for Windows 95.
+> Can anybody help me to find them ?
+> It would be very good to have True Type ones.
+
+There are many companies in India who sell Devanagari font (True Type), but
+most of them are not very beautiful. One really very nice Company I found
+at a recent exhibition in Delhi is LEAP. They have a lot of beautiful True
+Type fonts for many if not all Indian Languages and they even offer a
+Software in which automatically the right ligatures are formed while typing
+as on a Hindi-typewriter. Moreover, text can be directly (merely by
+changing the font formatting) transcribed into international roman
+transliteration or into any other Indian script. The software and fonts are
+available both for MS-Windows & Macintosh. I was really impressed by their
+demonstration.
+
+The Software:
+	1. Leap: Indian Language Word Processor on Windows
+	2. ISM: ISFOC Script Manager (needed for proper Sanskrit)
+The Address of the company:
+	Gist Group,
+	Centre for Development of Advanced Computing,
+	Pune University Campus, Ganesh Khind, 
+	Pune 411 007, INDIA
+
+	e-mail: 	gist at cdac.ernet.in
+	Fax:	+91-212-357551
+
+
+
+
+

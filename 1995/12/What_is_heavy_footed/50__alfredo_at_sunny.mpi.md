@@ -1,0 +1,42 @@
++++
+title = "50 alfredo at sunny.mpimf-heidelberg.mpg.de"
+date = "1995-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003763.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003763.html)
+
+>a heavy footed freie Universitat obsessive mind. We do not need political
+
+Dear Serge, Dear Indologists,
+        Even though I am no interested in politics, I do have a great
+interest in language. Does any any one knows what 'heavy footed' mean, and
+what is the origen of such expression.
+
+freie Universitat correspond to the german expresion 'freie Universitaet'
+and it mean free university. So 'freie Universitat obsessive mind' could
+means the members of a  university whose mind is obsessed with freedom. A
+bahub.rhi compound. Alternatively,the expression could mean a mind obsesed
+through the freedom of the university, and at the same time 'heavy footed.'
+Could this mean heavy rooted, or deeply rooted ?
+In any case I still not knowing what heavy foot is . . .
+Thanks,
+
+A.V.
+
+
+______________________________________________________________
+Alfredo Villarroel
+Max-Planck-Institut fuer medizinische Forschung
+Jahnstr. 29
+D-69120 Heidelberg
+e-mail alfredo at sunny.mpimf-Heidelberg.mpg.de
+FaX: (06221) 486-459
+______________________________________________________________
+
+
+
+
+
+
+

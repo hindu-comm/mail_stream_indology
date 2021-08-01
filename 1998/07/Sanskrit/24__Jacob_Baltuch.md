@@ -1,0 +1,28 @@
++++
+title = "24 Jacob Baltuch"
+date = "1998-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013079.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013079.html)
+
+Regarding my question to Sandra van der Geer on her examples
+of indirect object to subject, what do she and others think
+of the following examples:
+
+indraayudhaM na kasya cid darzayati
+              '(he) does not show the rainbow to anyone'
+indraayudhaM na kaz cid darzyate
+              as 'no one is shown the rainbow'?
+
+aabharaNaM suutasyaa \rpayati
+              '(he) hands over his insignia to his driver'
+aabharaNaM suuta arpyate
+              as 'the driver is handed over the insignia'?
+
+(Both (pairs of) examples are with causatives which have
+lost their causative meaning. The active examples I know
+they're good. It's the passive examples I'm asking about)
+
+
+

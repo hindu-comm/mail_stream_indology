@@ -1,0 +1,54 @@
++++
+title = "315 Martin Bemmann"
+date = "1997-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007805.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007805.html)
+
+Dear list members,
+
+I would like to draw your attention to our recent publication on rock
+carvings and inscriptions from the upper Indus valley in the Northern
+Areas of Pakistan:
+
+Die Felsbildstation Shatial by G. Fussman and D. Koenig with
+contributions by O. von Hinueber, Th.O. Hoellmann, K. Jettmar and N.
+Sims-Williams in collab. with M. Bemmann. Mainz (Verlag Philipp von
+Zabern) 1997. (Materialien zur Archaeologie der Nordgebiete Pakistans 2)
+427 pages and 136 plates, hb., price less than 200 DM.
+ISBN 3-8053-2027-2
+
+
+The second volume of "Materialien zur Archaeologie der Nordgebiete
+Pakistans" is dealing with the petroglyph site Shatial, 60km west of
+Chilas in the upper Indus valley of Pakistan. As manifested in the rock
+carvings this place was a traffic junction where, during the first
+centuries AD, influences from Central and South Asia met. The most
+remarkable feature of this site is the unique concentration of more than
+550 Sogdian (and other Iranian) inscriptions. Besides there are more
+than 400 inscriptions in Brahmi, Kharosthi, Proto-Sarada and Chinese and
+many representations of stupas of particular quality. Some of the other
+engravings like tamgas, fire altars and animal drawings, too, refer to
+the Sogdians, a lot of other carvings show other cultural influences.
+
+Key words: Rock Art, Buddhism, Archaeology South Asia, Iranian
+Epigraphy, Indian Epigraphy, Onomastics.
+
+
+-- 
+Martin Bemmann
+
+Heidelberger Akademie der Wissenschaften
+>Felsbilder und Inschriften am Karakorum Highway<
+Karlstrasse 4
+Postfach 102769
+D-69017 Heidelberg  -- Germany
+
+phone: ++49-6221-543276  fax: ++49-6221-543355
+e-mail: martin.bemmann at urz.uni-heidelberg.de
+
+
+
+
+

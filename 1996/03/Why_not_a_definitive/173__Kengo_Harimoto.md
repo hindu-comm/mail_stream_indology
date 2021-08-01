@@ -1,0 +1,38 @@
++++
+title = "173 Kengo Harimoto"
+date = "1996-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004550.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004550.html)
+
+Dear Members of the list:
+
+There was an annnoucement a few weeks ago that Adobe, Apple (and 
+Netscape?) are developing a technology that enables users to transfer 
+documents that include font information and fonts themselves (as current 
+pdf) over Internet.  Although this technology is primarily meant to be 
+used by web publishers, it seems poosible to attach such documents to an 
+e-mail and read them using future version of Netscape Navigator or any 
+other MIME compliant e-mailer.  I think vast majority of users are now 
+using Netscape Navigator especially those who are at educational 
+institutes since it is free to them. 
+
+Even now, if one is not afraid of sending huge size of e-mail, 
+PostScript file that include font can be sent and viewed/printed on most 
+of platforms.  I believe the above mentioned new technology is an 
+extension of this technology.
+
+So, I think the future is rather bright.
+
+By the way, Apple is reportedly planning to release Indian Language Kit 
+(at last).
+
+It seems that software developers are not as stupid as to neglect nearly 
+billion population.
+
+-- Kengo
+
+
+
+

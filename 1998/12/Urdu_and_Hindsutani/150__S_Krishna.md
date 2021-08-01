@@ -1,0 +1,42 @@
++++
+title = "150 S Krishna"
+date = "1998-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014460.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014460.html)
+
+Samar Abbas writes:
+
+>
+>> You have the gall to call the invaders "liberators" ? How dare you.
+>
+> Most indologists agree in calling the few centuries preceding the
+Delhi Sultanate as a `dark age'. This was after the fall of the mighty
+empries of the Mauryas and Guptas, after the Huns had invaded India.
+Many features of post-Gupta society are considered barbaric by many.
+Thus they were in a sense liberators.>>
+
+
+My dear Samar, I am genuienly confused now...It is true that the Gupta
+period is called the "Golden Age of the Guptas" but which historian
+has classified the few centuries preceding the Delhi sultanate as
+"The Dark ages"? What exactly do you have in mind when you say "features
+of post-Gupta period were considered barbaric"? If, by barbaric, you are
+refering to the ravages of worthies like Mahmud of Ghazni, then I would
+agree:-)...About the only place where I have seen something along the
+lines of the stuff you have written is in Nehru's "Glimpses of World
+History", but then Nehru can hardly be called an interpreter of
+history....
+
+  Regards,
+Krishna
+
+
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

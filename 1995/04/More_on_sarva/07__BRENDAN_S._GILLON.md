@@ -1,0 +1,30 @@
++++
+title = "07 BRENDAN S. GILLON"
+date = "1995-04-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-April/002268.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-April/002268.html)
+
+Though one is inclined to try to find non-redundancy in any 
+apparently redundant construction, I have been unable to find 
+anything to show in the few cases that `sarva' is anything other 
+than redundant. Consider this sentence from Dharmakiirti's 
+Pramaa.navaartika (Gnoli p. 5 line 9).
+
+yaavaan ka'scit prati.sedha.h sa.h sarva.h anupalabdhe.h.
+Any (form of) denial whatsoever arises from non-apprehension.
+
+Brendan S. Gillon
+
+Department of Linguistics       email:   gillon at langs.lan.mcgill.ca 
+McGill University                 
+1001 Sherbrooke Street West      tel.:   514 398 4868
+Montreal, Quebec
+H3A 1G5   CANADA                 fax.:   514 398 7088
+
+
+
+
+
+

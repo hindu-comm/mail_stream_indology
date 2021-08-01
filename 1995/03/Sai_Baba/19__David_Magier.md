@@ -1,0 +1,44 @@
++++
+title = "19 David Magier"
+date = "1995-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002126.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002126.html)
+
+Mr. Barker inquired about anyone working on Sai Baba. Here is an entry
+from The International Directory of South Asia Scholars (avail. online
+via The South Asia Gopher), for a scholar who does some work on this
+topic. Hope this helps.  David Magier   magier at columbia.edu
+
+----------entry from Directory------------
+Morton Klass
+Professor of Anthropology
+Barnard College, Columbia University
+
+Mailing Addr: Department of Anthropology
+              Barnard College, Columbia University
+              New York  NY 10027  USA
+
+phone:  212-854-4314 office
+        212-927-2131 residence
+FAX:    212-854-7491
+email:  mklass at barnard.columbia.edu
+
+DESCRIPTION OF WORK:
+Cultural anthropologist  
+   areas: South Asia (West Bengal, general North India); 
+          Overseas South Asian peoples (most research in Caribbean: 
+          Trinidad, Martinique)
+          subjects of research / writings: caste (nature / history);
+          religion (village level); community structure / change;
+          cultural persistence / change (particularly among emigrant
+          populations); village response to industrialization;
+          Sathya Sai Baba religion (particularly in Trinidad)
+
+[migration / diaspora]
+
+
+
+
+

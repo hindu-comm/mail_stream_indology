@@ -1,0 +1,28 @@
++++
+title = "12 Srinivas Sunder"
+date = "1995-04-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-April/002270.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-April/002270.html)
+
+A friend of mine wants to know if it is possible to obtain, from the
+e-texts of the RaamaayaNa and the Mahabhaarathaa, `pullouts' of sections
+that have philosophical/religious significance, such e.g. the bhagavadgiita, 
+vishhNusahasranaama, shivasahasranaaMa, the stories of Nalaa & Damayantii,
+the viduraniiti, yakshaprashna, etc. 
+
+As I understand it, his question is, given an on-line copy of the e-text of the 
+Mahabhaarathaa, would it be possible to find these sections w/o having to scan 
+the entire text.
+
+Responses by e-mail OR to the list, please.
+
+Thanks
+
+Srinivas Sunder
+
+
+
+
+

@@ -1,0 +1,26 @@
++++
+title = "298 Allen Thrasher"
+date = "1997-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007107.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007107.html)
+
+A patron has asked for the addresses of antiquarian or out of print
+booksellers in Pune or elsewhere in Maharashtra, particularly those
+specialising in Marathi.  Could anyone help me?
+
+Allen W. Thrasher
+Senior Reference Librarian
+Southern Asia Section
+Library of Congress
+Washington, DC 20540-4814
+tel. (202) 707-5600
+fax  (202) 707-1724
+email: athr at loc.gov
+
+
+
+
+
+

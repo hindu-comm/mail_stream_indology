@@ -1,0 +1,52 @@
++++
+title = "50 David Magier"
+date = "1996-03-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004367.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004367.html)
+
+The following event announcement is being forwarded to your listserv
+or mailing list from the EVENTS CALENDAR section of The South Asia
+Gopher. Apologies for any cross-posting. Please contact event
+organizers (not me) directly for further information.
+
+David Magier <The South Asia Gopher>
+
+============================================================
+
+THE ROLE OF THE WOMAN DURING CONCEPTION
+ACCORDING TO ANCIENT INDIAN MEDICAL LITERATURE
+
+A talk by Dr. Rahul Peter Das
+          Professor of Modern Indic Languages
+          University of Halle, Germany
+
+co-sponsored by
+
+Dharam Hinduja Indic Research Center
+and
+Southern Asian Institute
+Columbia University
+
+MONDAY, March 25, 1996
+4:00-6:00pm
+Lindsay Rogers Room, 7th Floor
+International Affairs Building
+420 West 118th Street
+Columbia University
+New York, NY
+
+Coffee, tea and cookies will be served
+
+For more information:
+dhirc at columbia.edu
+
+
+
+
+
+
+
+
+

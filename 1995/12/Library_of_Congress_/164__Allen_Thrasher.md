@@ -1,0 +1,33 @@
++++
+title = "164 Allen Thrasher"
+date = "1995-12-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003874.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003874.html)
+
+The Library of Congress is not among the US government institutions 
+affected by the current furlough of employees.  Its budget was passed and 
+signed as part of the budget of the legislative branch shortly after the 
+first furlough.  It is open for business at its usual hours.
+
+Visitors to the Asian division should note that the 3rd Street 
+East door, the only one open for several years, has been closed and the 
+2nd Street East door has been opened as the only entrance.  This is the 
+one that faces the Jefferson ("main") Building.
+
+
+Allen W. Thrasher
+
+Senior Reference Librarian
+Southern Asia Section
+Library of Congress
+Washington, DC 20540-4744
+tel. 202-707-5600
+fax  202-707-1724
+Email: athr at loc.gov
+
+
+
+
+

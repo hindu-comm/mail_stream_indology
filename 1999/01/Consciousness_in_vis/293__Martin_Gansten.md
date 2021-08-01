@@ -1,0 +1,21 @@
++++
+title = "293 Martin Gansten"
+date = "1999-01-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015307.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015307.html)
+
+John,
+
+Thanks for your input. I think it may prove difficult for me to get hold of
+that article from here, but I'll try. In the meantime, would you know if
+Prof. Balasubramanian based his critique on any particular passages of
+Ramanuja's own writings, where this division of consciousness (into
+substantive and attributive) is explicitly stated?
+
+Best regards,
+Martin Gansten
+
+
+

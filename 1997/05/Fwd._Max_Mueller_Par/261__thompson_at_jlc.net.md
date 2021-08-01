@@ -1,0 +1,43 @@
++++
+title = "261 thompson at jlc.net"
+date = "1997-05-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008242.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008242.html)
+
+In response to Howard Resnick's remarks:
+
+>        As scholars, we should first admit that there is no feature or
+>aspect of an
+>academic education that qualifies one, as a scholar, to say that there is, or
+>that there is not, a god of fire. This is a religious issue, and only a
+>hopeless logical positivist would argue that we must reject a god of fire on
+>"scientific" grounds. To affirm or deny a particular proposition places one
+>in the identical realm of discourse. An algebra teacher that marks a
+>student's answer right or wrong requires the same knowledge. To affirm that
+>Agni is the god of fire is no more a religious utterance than to deny that he
+>is and thus proceed to a discussion of how and why a community "created" this
+>notion.
+>Howard Resnick
+>Adjunt Professor
+>Graduate Theological Union,
+>Berkeley, California
+
+It seems to me that if a Vedic poet, say DIrghatamas, is capable of
+doubting the existence of Agni, among a number of other gods, then we
+should be able to be a little tolerant of Greg Downey's apparent doubts,
+especially since he hedges them with a parenthesis: "(for the sake of the
+argument)."
+
+Also, if I recall, it is very Vedic to be polite to guests.
+
+Sincerely,
+
+George Thompson
+
+
+
+
+
+

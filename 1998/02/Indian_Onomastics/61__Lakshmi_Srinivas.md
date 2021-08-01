@@ -1,0 +1,38 @@
++++
+title = "61 Lakshmi Srinivas"
+date = "1998-02-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010708.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010708.html)
+
+Dear Members of the List
+
+The library to which I have access i.e., the Grad Lib at U of Michigan
+does not have Hilka's Altindische Personnamen.
+
+Can somebody let me know if it's available at your library, so I could
+try an inter-lib loan.
+
+Thanks in advance.
+
+
+
+
+
+
+
+
+==
+Lakshmi Srinivas
+
+
+
+
+
+_________________________________________________________
+DO YOU YAHOO!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

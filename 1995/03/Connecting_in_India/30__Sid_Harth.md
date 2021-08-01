@@ -1,0 +1,34 @@
++++
+title = "30 Sid Harth"
+date = "1995-03-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002135.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002135.html)
+
+Further to Noel Evans' posting on this topic I have following:
+**   UUNET
+     Mr. Narsimhan
+     Mr. Sitaram
+     A-37/F, D.D.A. Flats
+     Minirka
+     New Delhi
+     Phone: (011) 654608
+     e-mail: root at delhi.uunet.in
+**   Business India Information Technology Ltd.
+     Internet: postmaster at axcess.net.in
+     B 3/86 Safdarjang Enclave
+     New Delhi, 110029
+     Phone: 91-11-6883225
+            91-11-6883181
+            91-11-6883223
+     Fax:   91-11-6883226
+Thanks to: B.G.Mahesh  e-mail: mahesh at evb.com; mahesh at mahesh.com
+Sid Harth
+
+`[1;36;40mRainbow V 1.11 for Delphi - Test Drive
+
+
+
+
+

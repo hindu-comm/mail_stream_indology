@@ -1,0 +1,27 @@
++++
+title = "59 Elliot Stern"
+date = "1998-07-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013097.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013097.html)
+
+The reference to the facsimile of Bartolomei's Sanskrit grammar that Jacob
+Baltuch requested is:
+
+Paulinus a S. Bartholomaeo, Dissertation on the Sanskrit language. A
+reprint of the original Latin text of 1790, together with an introductory
+article, a complete English translation, and an index of sources by Ludo
+Rocher. Amsterdam Studies in the Theory and History of Linguistic Science.
+Series III - Studies in the History of Linguistics. Volume 12. (Amsterdam:
+John Benjamins B.V., 1977)
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+USA
+
+telephone: 215 747 6204
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "76 Jacob Baltuch"
+date = "1998-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-July/013068.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-July/013068.html)
+
+I personally think it is more interesting to ask when Sanskrit
+ceased to have native speakers, not when it ceased to be "spoken"
+(which incidentally may mean a number of different things)
+
+Or rather: "During which periods did it have have native speakers?"
+
+(Since examples of languages which ceased to have native speakers
+and then later started to have native speakers again are rare but
+not unknown that leaves that possibility open. Of course I don't
+know and I'm not implying that anyone has argued that in the case
+of the Vedic/Skt. continuum)
+
+Another question one can ask is whether the liguistic processes
+which led to the evolution of Classical Skt. from Vedic Skt. are
+are the kind of processes normally exhibited in "normal" first
+(native) language transmission.
+
+(Whether Ashok Aklujkar makes that distinction in his quick answer
+to the old question  and whether we'll know I don't know but I do
+think it is a useful one to make)
+
+
+

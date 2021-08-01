@@ -1,0 +1,34 @@
++++
+title = "250 Dominik Wujastyk"
+date = "1999-04-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016647.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016647.html)
+
+Dr.K.Maheswaran Nair, swantham at techpark.net, has posted an advertisement
+to the INDOLOGY list for the publisher Swantham Books.
+
+Two of the books listed are actually by Dr.K.Maheswaran Nair, which is
+indeed the kind of information which we like to encourage INDOLOGY members
+to share.
+
+However, the posting is cast as a blatant advertisement for the commercial
+services of a publisher, and I am afraid I have to cancel Dr.K.Maheswaran
+Nair's INDOLOGY subscription, since he has so clearly contravened the
+guidelines for INDOLOGY membership and use.
+
+This is *not* a suitable place for company advertisements.
+
+On the other hand, if you have yourself written books etc., please feel
+free to mention them as a collegial communication to other members.
+
+Publishers may contact me directly to discuss providing a link to their
+information via the INDOLOGY website.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

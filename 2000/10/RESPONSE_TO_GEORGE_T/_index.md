@@ -1,0 +1,4 @@
++++
+title = "RESPONSE TO GEORGE THOMPSON"
+
++++

@@ -1,0 +1,36 @@
++++
+title = "27 Nicholas Sterling"
+date = "1995-03-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-March/002132.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-March/002132.html)
+
+Indology subscribers,
+        I was referred to this list by someone responding to the following
+question which I posted on the CLASSICS list from U. of Washington:
+
+        Currently I am a fourth-year graduate student studying Sanskrit. I am
+considering possibly writing a dissertation including both Greek and Sanskrit
+or Latin and Sanskrit. Some of those with whom I have spoken about this suggest
+to me that there are few positions available in general for Sanskrit, and that
+attempting to market a dissertation combining *two* languages is just about
+impossible.
+
+        Would anyone here be willing to shed light on this? Where is Sanskrit
+taught? Is it really a dry well out there as I have been told? Any insights
+would be greatly appreciated.
+
+        My apologies if this is the wrong forum for this question. I am doing
+this at someone else's suggestion.
+
+Nicholas Sterling
+P.O. Box 1856, Classics Dept.         weekends:
+Brown University                      77 Elder Road
+Providence, RI 02912                  Needham, MA 02194
+(401)-273-0218                        (617)-449-1743
+
+
+
+
+

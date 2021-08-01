@@ -1,0 +1,47 @@
++++
+title = "76 Dan Lusthaus"
+date = "1999-01-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015195.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015195.html)
+
+Robert Zydenbos, in a bit of defensive revisionism, argues against the
+charge of Jung's nazi affiliations.
+
+>Je pense que non.
+
+Sadly, for all those so enamored of Jung, he was indeed a virulent nazi who
+wrote position papers for the nazis, believing that his notion of
+collective unconscious and the nazi aryan ideal were of the same stuff.
+
+This is not an idle charge, but well documented and well known among Jung
+scholars and practitioners - though, understandably, not the sort of thing
+they broadcast far and wide.
+
+One place to begin catching up on this is the introduction to the
+translation of Jung's lectures on Nietzsche's Zarathustra. The intro is
+written by a British Jungian therapist, who, while conceding the disturbing
+contents of those lectures as part of a study group meeting in the later
+1930s, pleads that we not throw out the baby with the bathwater.
+
+What is more disturbing, to me, is that Bollingen Princeton Univ Press,
+which publishes everything else by Jung and the Eranos group in affordable,
+easily available editions, has made this particular book difficult to
+obtain. Its price was $100 when first issued, and now somewhat higher, if
+one can find it at all.
+
+If one examines Freud's writings on Jung, including his diary entries, one
+will note that even at their very first meeting, Freud was struck by Jung's
+antisemitism, and continuously over the course of their relationship,
+vainly encouraged Jung to drop it. While Freud never slept with his
+patients, Jung did, even though Freud also warned him against that as well.
+
+Simply put, Carl had a darker side.
+
+
+Dan Lusthaus
+Florida State University
+
+
+

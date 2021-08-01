@@ -1,0 +1,27 @@
++++
+title = "14 Anshuman Pandey"
+date = "1996-01-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003902.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003902.html)
+
+
+As I read through David Frawley's "God, Sages, and Kings," I came upon a 
+reference to the Alla Upanisad. Frawley mentioned that it was probably 
+composed after Islam had formally entered India, and I assume that it is a 
+rather minor Upanisad, but I cannot find any books which offer more detailed 
+information about it, nor can I find it listed in any collections of 
+Upanisadic texts or in any library catalogues (at least those which I 
+can access through this University's system). Does anyone know if such 
+an Upanisad exists, and possibly where it may be found?
+
+Thank you.
+
+Anshuman Pandey
+
+
+
+
+
+

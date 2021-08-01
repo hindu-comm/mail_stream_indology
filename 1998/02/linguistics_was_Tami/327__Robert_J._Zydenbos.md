@@ -1,0 +1,70 @@
++++
+title = "327 Robert J. Zydenbos"
+date = "1998-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010935.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010935.html)
+
+J.B. Sharma wrote:
+
+> Social Science - gen held to include sociology, psychology,
+> anthropology, economics, political science and history.
+>
+>  If Indology is just 'Humanities', history and  chronology is not
+> in its domain and the debate is moot in this forum. This is
+> operationally not the case. This is a severe contradiction.
+
+Your quote said "gen held" ("generally", I presume), and I do not
+know who holds this. In my alma mater, history was in the faculty
+of humanities, not social sciences, and from a methodological view
+there is a good deal to be said in favour of that. So it is not
+evident that we have a contradiction here. And history is, very
+happily, a part of Indology.
+
+>  If indeed Indology ligitimately involves historical science (which
+> it does) then it involves the scientific method as well. This is a
+> legitimate domain for scientists to comment;
+
+Interesting as this is, this would involve a fundamental debate on
+what 'science' and 'knowledge' and 'truth' are. That the human
+sciences (or 'humanities') cannot follow the same methods as the
+natural sciences ('sciences' in the Anglo-Saxon world) and yet give
+access to truths was already established a long time ago by
+theoreticians such as W. Dilthey, and we need not go through all
+that again here.
+
+> And models being able to withstand Popperian
+> falsification  are more believeable.
+
+I imagine that a publicly accessible time machine would be still
+better, so that anyone can go have a look at history in the making.
+But this too may be just a bit too unrealistic.
+
+> Furthermore, and curiously enough, does biology, management, engg.
+> etc prepare a person to contribute to 'humanities' as
+> 'math-physics' does not ?
+
+Certainly not; I think we could also add farming, hairstyling, and
+a host of other things to the list of non-preparatory professional
+activities. But I think Dominik singled out those two particular
+fields for special mention on the basis of personal experience with
+the Indology List, and they should be thought of more as examples
+than as an exhaustive list.
+
+I hope you will understand that the remarks in my earlier message,
+to which you responded, were in response to repeated immature and
+irritating remarks about linguistics in particular, made by a
+person who is charmed by mathematics. That is why my remarks
+concerned linguistics and why I quoted that particular passage by
+Dominik Wujastyk. I have nothing against archaeologists /
+historians / mathematicians / physicists (nor farmers and
+hairstylists). But before criticising what e.g. mathematicians do,
+I would first seriously study mathematics -- but I notice that some
+people with 'scientific' pretensions do not similarly respect
+linguists and their discipline.
+
+RZ
+
+
+

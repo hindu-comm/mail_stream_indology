@@ -1,0 +1,42 @@
++++
+title = "133 Dominik Wujastyk"
+date = "1996-03-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004458.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004458.html)
+
+
+I had to give a lecture recently on "traditional indian medicine and the
+state", and the only thing I was able to find along the lines you
+mention was a brief passage in Kautalya's _Arthasastra_, in which
+punishments are laid down for medical malpractice (4.1.56).  The main
+offence seems to be a doctor doing something life-threatening to a
+patient without informing anyone.
+
+I too would be very interested in any more information along these
+lines.
+
+Also, does anyone have any evidence from Sanskrit or Tamil literature
+about ancient plagues or epidemics?
+
+Dominik Wujastyk
+
+
+-- 
+
+Dominik Wujastyk,
+Wellcome Institute,
+183 Euston Road,
+London NW1 2BE.
+
+FAX: +44 171 611 8545
+email: d.wujastyk at ucl.ac.uk
+
+For my PGP public key etc., see my WWW home page:
+http://www.ucl.ac.uk/~ucgadkw/wujastyk.html
+
+
+
+
+

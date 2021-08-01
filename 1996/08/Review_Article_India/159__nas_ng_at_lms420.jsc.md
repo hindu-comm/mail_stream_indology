@@ -1,0 +1,48 @@
++++
+title = "159 nas_ng at lms420.jsc.nasa.gov"
+date = "1996-08-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005654.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005654.html)
+
+
+   Re: Review Article (Indian script)
+  ************************************
+
+Two recent articles are relevent here.
+
+1) Iravatham Mahadevan, 
+Ancient Tamil contacts abroad: Recent epigraphical evidence,
+Jl. of the Institute of Asian Studies, Madras,
+p. 136-155, XII, 1, Sep. 1994.
+(Earlier delivered as Father X. S. Thani Nayagam Memorial Lecture,
+Colombo, Sri Lanka, 1994)
+
+2) Iravatham Mahadevan, 
+Recent trends in early Tamil epigraphy: An overview,
+Jl. of the Institute of Asian Studies, Madras,
+p. 1-32, XIII, 1, Sep. 1995.
+
+Tamil Brahmi is a linguistic variant of the Brahmi script adapted to
+tamil phonetic pattern. Short Tamil Brahmi inscriptions
+on potsherds with letters special only to tamil/dravidian have been found
+in Poonagari and Kantarodai regions of Northern Sri Lanka.
+Photographs are given in Dr. Mahadevan's papers. His conclusions
+are in line with Prof. Falk's statement earlier:
+"The developments of Brahmi regarding the shape of characters, 
+the orthography, layout of text etc. all point to North India, 
+followed by the adaptation in Tamil/Telugu speaking areas  to the 
+needs of Dravidian languages, and then the adapted forms come to Ceylon."
+
+I heard that Dr. I. Mahadevan is writing a book on early
+tamil epigraphy. He is National Fellow, Indian Council of Historical
+Research and his reading of Pukalur inscriptions fixed the dates of
+Tamil Sangam era.
+
+N. Ganesan
+nas_ng at lms420.jsc.nasa.gov
+
+
+
+

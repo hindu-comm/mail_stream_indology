@@ -1,0 +1,54 @@
++++
+title = "264 Toru Tomabechi"
+date = "1997-03-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007412.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007412.html)
+
+
+Dear list members,
+
+
+                CONFERENCE ANNOUNCEMENT
+
+The Twelfth Conference of the International Association of Buddhist Studies
+will be held in Lausanne, Switzerland from August 23rd until August 28th.
+For information please write to the following address:
+
+        XIIth IABS Conference
+        Dept. of Oriental and Languages and Cultures
+        University of Lausanne
+        B.F.S.H. 2
+        CH-1015 Lausanne, Switzerland.
+
+        E-mail: iabs99 at orient.unil.ch
+
+The First Announcement, giving information on panels, abstracts,
+registration fees, etc., has been sent out to members of the Association.
+However, for those who have not received the announcement, it is also
+readily obtainable from the above address or via the Conference web page: 
+
+        http://www.unil.ch/orient/IABS/1ST-CIRC.HTM.
+
+Information updates will also be given on the web page.
+
+Tom J.F. Tillemans
+President of the Organizing Committee
+
+Toru Tomabechi
+Secretary of the Organizing Committee
+
+(This message is cross-posted to:
+  BUDDHA-L, INDOLOGY and TIBET-L mailing lists)
+
+      ==============================================================
+      Toru TOMABECHI, Section de langues et civilisations orientales
+              Faculte des Lettres, Universite de Lausanne
+                    Toru.Tomabechi at orient.unil.ch
+                      QWG03371 at niftyserve.or.jp
+      ==============================================================
+
+
+
+

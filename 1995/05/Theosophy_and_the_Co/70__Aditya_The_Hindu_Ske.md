@@ -1,0 +1,32 @@
++++
+title = "70 Aditya, The Hindu Skeptic"
+date = "1995-05-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-May/002445.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-May/002445.html)
+
+There is a very remarkable article in the Smithsonian Magazine (5/95) p.111
+detailing the birth of theosophy and how such important figures as 
+Mahatama Gandhi and Dayanand (Founder of Arya Samaj) were duped into the  
+game played by Madam  Blavatsky.
+It reminds me of the game played by Sai Baba who was finally caught red 
+handed by a TV cameraman.
+I was waiting for some one else to discuss such an important issue but it 
+seems that it has missed the desired audience.
+I wish I could post the entire article but it is too long for me to type.
+Please get hold of the magazine and post your responses.
+
+*************************************************************************
+  Aditya Mishra          | The opinions expressed herein are absolutely *
+Phone/FAX 305-746-0442   | not immutable and might have already changed *
+Internet: aditya at gate.net| by time you read them due to the new evidence*
+Prodigy:  TVDS96A        | or data that has come to my attention.       *
+*************************************************************************
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "50 Krishna P Konduru"
+date = "1998-10-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013638.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013638.html)
+
+hi all
+
+I am working on the great poet KALIDASA and his
+works in sanskrit.
+
+Can anybody help in finding out the Translation for
+his poetic work
+
+'SYAMALA DANDAKA'.
+
+I need a soft copy of it (or if it is available
+on any web site that will be helpful)
+
+thanks in advance.
+
+krishna
+
+
+

@@ -1,0 +1,36 @@
++++
+title = "432 Toke Lindegaard Knudsen"
+date = "1999-06-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017813.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017813.html)
+
+Dear listmembers,
+
+I have been looking at references to manuscripts of different
+Sulbasutras and maybe someone can help me out in this respect.
+In their 1983 translation of Baudhayana, Apastamba, Katyayana
+and Manava Sulbasutras Sen and Bag mention other Sulbasutras
+in their introduction.  Amongst those other Sulbas mentioned are
+the Varaha and Vadhula Sulbasutras.  Later Sen and Bag writes
+that they have not been able to locate manuscripts for other
+Sulbasutras and the 4 above-mentioned and that the other Sulbas
+are known only through references.
+
+Now, this confuses me, because N.K. Mazumdar mentions in a
+1922 article two manuscripts of the Varaha Sulbasutra and that the
+Vadhula Srautasutra was discovered in Madras.  Also in his book
+"Science of the Sulba" B. Datta mentions one manuscript of the
+Varaha Sulba.
+
+Does anyone know of these manuscripts and the reason why Sen
+and Bag writes they were unable to locate them?
+
+Thank you very much.
+
+Sincerely,
+Toke Lindegaard Knudsen
+
+
+

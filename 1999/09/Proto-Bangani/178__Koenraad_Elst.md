@@ -1,0 +1,28 @@
++++
+title = "178 Koenraad Elst"
+date = "1999-09-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018390.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018390.html)
+
+Prof. Hock,
+
+Thanks for your kind advice.  I will do my best to abide by it.
+
+Now that I have the opportunity to address the great Prof. Hock (words of a
+former student of yours, also a list member), one thing I've been wanting to
+ask you for a while, concerns what is tentatively called proto-Bangani.
+Though the data are controversial as well as very limited in quantity, you
+might perhaps have developed an opinion (and if it is in writing, the
+reference will do) on whether such a proto-Bangani Kentum language did
+indeed exist, and whether it was indeed spoken in India while still a living
+language?  In particular, do you think it has any relevance to the Aryan
+invasion debate?
+
+Yours sincerely,
+Koenraad Elst
+http://members.xoom.com/KoenraadElst/
+
+
+

@@ -1,0 +1,23 @@
++++
+title = "409 Narayan R. Joshi"
+date = "2000-10-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023297.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023297.html)
+
+It is proposed that the Sanskrit word"Mekhala" is the import from the sub-
+stratum languages (Tamil, Munda, Gond, Santhal)of the ancientIndia. This is
+important from the point of view of the technical knowledge of the ancient
+Dravidian Indians. The pair"MaNi and Mekhala" is the mechanical engineering
+pair"Bolt and Nut".Dravidian words"Krakara and ParNa" form another pair of
+mechanical engineering words "Rack and Pinion". The ancient Indian
+linguistics has importance in the Indological Studies.The ancient Indian
+linguistic scholars proposed different doctrines-Sphota by Vedic
+Grammarians, Apoha by Buddhists and Sound atoms by Jains.To the best of my
+knowledge, these theories discussed the Semantics of Sanskrit and not of
+Dravidian languages. Were there similar efforts in the ancient India in
+regards to the Semantics of Tamil, Munda, Gond, Santhal etc.? Thanks.
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "32 manu bhagavan"
+date = "1995-10-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003290.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003290.html)
+
+In addition to the URL just posted in Kamal's address, I think the one 
+posted below will also work if the slash between asnic and htl is 
+corrected to a <.>. So:
+http://asnic.utexas.edu/asnic.html
+
+Manu Bhagavan
+
+
+On Fri, 6 Oct 1995 Reganch at aol.com wrote:
+
+> I have also tried the address http://asnic.utexas.edu/asnic/html and received
+> the error message "unknown addressee."
+>  
+> 
+
+
+
+
+

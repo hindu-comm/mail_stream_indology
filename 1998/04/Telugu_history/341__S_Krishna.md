@@ -1,0 +1,44 @@
++++
+title = "341 S Krishna"
+date = "1998-04-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-April/011950.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-April/011950.html)
+
+I had said:
+
+>>*by the 12th century, when the maNipravALam style held sway,
+>>*samskrtization had taken root so firmly that there were Tamil
+>>*works with more Samskrt words than Tamil words.
+
+>Mr Ganesan says:
+>>I do not know what works are being referred here.
+
+  When I said "works", I had specific pieces in mind, not the whole
+corpus of writing in Tamil. Kamil Zvelebil for example,("Smile of
+murukan") gives us an analytical break up of Tamil vs Samskrt words in
+the poems of aruNagirinAtar, the 14th/15th century Tamil poet. He
+specifically quotes two verses ( one of which starts as "nAta pintu
+kalAti namO nama") in which more than 50% of the words are Samskrt. I
+believe that this is a very generic feature of aruNagirinAtar's works.
+
+  We also have the savant and grammarian cuvAminAta dEcikar, who
+supports writing in a samskrtized style; though he himself was from the
+17th-18th centuries,I think that the works used by him in order to
+formulate his views date back to the 12th-14th centuries.
+
+  Lastly, I have read this statement in the works of Dr M.VaratarAjan2
+ who lists( from what I remember) tamil zrIvaiSNava works where
+over-Samskrtization is a feature. (I unfortunately donot remember the
+names of the works he lists).
+
+ REgards,
+Krishna
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

@@ -1,0 +1,48 @@
++++
+title = "221 Vishal Agarwal"
+date = "1999-06-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017554.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017554.html)
+
+Dr. Allen Thrasher wrote:
+I will be looking at Watt's old publications on
+economic products of India and books on Aryurvedic materia medica.
+
+VA writes: An old Ayurvedic Materia Medica is the 'Nighantu' of Dhanvantari
+(not to be confused with the Vedic Thesaurus). Refere also relevant sections
+of Varahamihira's Brhatsamhita, Arhtasastra etc. For a modern publication,
+following is the reference (I think it is a pertty good reference):
+
+Thanks,  VA
+_______
+
+Author:         Nadkarni, Krishnarao Mangeshrao, 1864-
+
+Title:          Indian materia medica. With Ayurvedic, Unani-tibbi, Siddha,
+                   allopathic, homeopathic, naturopathic & home remedies.
+
+Edition:        3d ed. rev. & enl. by A. K. Nadkarni. Foreword by Sir R. N.
+                   Chopra.
+
+Published:      Bombay, Popular Book Depot <1955?>
+
+Description:    2 v. 22 cm.
+
+Subjects, Library of Congress :
+                 Materia medica, Vegetable.
+                 Botany, Medical.
+                 y of Congress :
+                 Botany--India.
+
+Contributors:   Nadkarni, A. K.
+
+Notes:          First published, 1908, under title: Indian plants and drugs.
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

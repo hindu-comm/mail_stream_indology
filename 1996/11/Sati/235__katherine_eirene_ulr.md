@@ -1,0 +1,18 @@
++++
+title = "235 katherine eirene ulrich"
+date = "1996-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006282.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006282.html)
+
+There are extensive lists of references to the story of Sati's dismemberment
+in (1) _Hindu_Myths_ (the Penguin Classics edition, trans. by Wendy Doniger
+O'Flaherty); and (2) _The_Sakta_Pithas_ , by D.C. Sircar (Motilal
+Banarsidass, 1973; the entire book is about the pilgrimage sites that sprang
+up where the parts
+of Sati's body fell).
+
+
+
+

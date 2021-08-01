@@ -1,0 +1,47 @@
++++
+title = "58 Luis Gonzalez-Reimann"
+date = "1998-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011167.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011167.html)
+
+At 08:11 PM 3/1/98 PST, Vidyasankar wrote:
+
+>On the other hand, someone without credentials in a humanistic field may
+>say things that may be worthwhile to listen to, at least once in a
+>while. That the someone holds a degree in science/engineering need not
+>always be held against him or her. Do not summarily dismiss everyone who
+>has had scientific training. You can see that I am making this statement
+>with a selfish motive in mind. :-)
+---------
+
+
+Vidyasankar,
+
+
+I am not summarily dismissing anyone from anything.   What I was reacting
+against (as, I think, were Dominik, et al) is the notion that a "respectable
+degree" from one field confers some kind of authority in another field.
+Common sense and good judgement don't necessarily come with a degree (just
+as they don't necessarily require one).
+
+Because Indology is more on the humanities side of things, the sciences
+(physics, enginnering) are the areas whose degrees are foreign to the
+discussion, but the argument can, of course, also work in the opposite
+direction.
+
+It is probably generally more common, however, for people to brandish
+"scientific" degrees or achievements as proof of sound judgement.  This is,
+unfortunately, not always the case.  Even a Noble price in chemistry says
+nothing about someone's ability to discuss Indological matters.  And I have
+seen many physicists (and other scientists) become followers of different
+gurus and take for granted the wildest assertions about Indian history,
+philosophy, religion, lingustics,...
+
+All the best,
+
+Luis Gonzalez-Reimann
+
+
+

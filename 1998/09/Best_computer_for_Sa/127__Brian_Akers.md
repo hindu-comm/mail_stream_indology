@@ -1,0 +1,34 @@
++++
+title = "127 Brian Akers"
+date = "1998-09-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-September/013575.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-September/013575.html)
+
+Please post your responses to the list--I'm sure I'm not the only person in
+this situation.
+
+I'm nursing a six-year-old Macintosh computer that is at the end of its useful
+life. I am going to buy a new computer by January, 1999. While the Apple
+Computer Corporation certainly seems to be coming back to life, I am undecided
+whether to stick with the Mac or switch to Windows.
+
+What do members of this list feel is the best platform for multilingual
+computing--esp. Indic languages and, most particularly, Sanskrit?
+Who is doing the best job of implementing Unicode?
+Which platform has the best Devanagari fonts?
+Is WorldScript now a cutting-edge technology, average, or obsolete?
+
+Thank you all for your input. I am looking forward to reading your comments.
+
+Brian
+
+
+--------------------
+Brian Dana Akers
+www.pipeline.com/~sfauthor/
+sfauthor at aol.com
+
+
+

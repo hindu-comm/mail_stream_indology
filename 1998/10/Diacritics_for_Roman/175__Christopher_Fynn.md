@@ -1,0 +1,34 @@
++++
+title = "175 Christopher Fynn"
+date = "1998-10-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013751.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013751.html)
+
+Subscribers to INDOLOGY who use diacritics for Romanised Indic
+text on their web sites (or with Word '97) may be interested
+looking at a page I've written on using these characters in
+HTML 4.0 with the ISO/IEC 10646 character set:
+
+<http://www.users.dircon.co.uk/~cfynn/sanskrit.html>
+
+Regards
+
+- Chris
+
+P.S. although I've been very careful on that page to use only
+plain HTML 4.0, with no non-standard tags, and verified it -
+Netscape 4 occasionally seems to have problems with this page.
+IE 4 works fine.
+
+If you have a browser which doesn't understand HTML 4.0
+tags you should still be able to load the page, though
+you won't see the Unicode characters used in the tables
+properly.
+
+--
+<cfynn at dircon.co.uk>
+
+
+

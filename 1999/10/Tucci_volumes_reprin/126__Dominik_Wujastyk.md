@@ -1,0 +1,22 @@
++++
+title = "126 Dominik Wujastyk"
+date = "1999-10-19"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018743.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018743.html)
+
+It has come to my attention that Giuseppe Tucci's great work "Tibetan
+Painted Scrolls" is about to be reprinted, in three vols. Many of the
+original b/w repros of thangkas will now appear in color as the small
+Bangkok-based publisher has secured many color slides from the current
+owners.
+
+Further enquiries to: Asian Rare Books <arbs at erols.com>
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list
+
+
+

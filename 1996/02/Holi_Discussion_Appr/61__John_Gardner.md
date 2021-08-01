@@ -1,0 +1,31 @@
++++
+title = "61 John Gardner"
+date = "1996-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-February/004105.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-February/004105.html)
+
+english seems laiden with racism, totalitarianism, 19th-century myopia, 
+20th-century bitterness, and cynical coyness.  
+
+enough
+jrg
+
+
+On Thu, 8 Feb 1996 Bridgman at aol.com wrote:
+
+> In a message dated 96-02-07 17:13:05 EST, you write:
+> 
+> >whether or not this was the case with the usage of the word which has 
+> >brought forth this controversy, i suggest consideration of these term 
+> >pools related to chaos theory as they are perhaps quite reflective of the 
+> >various ineffables entailed in study or discovery of the 
+> >cultural/temporal/ethnic "other".
+> 
+> Could you please translate this into English?
+> 
+
+
+
+

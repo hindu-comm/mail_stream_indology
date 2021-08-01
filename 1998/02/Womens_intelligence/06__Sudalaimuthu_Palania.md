@@ -1,0 +1,27 @@
++++
+title = "06 Sudalaimuthu Palaniappan"
+date = "1998-02-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010721.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010721.html)
+
+In a message dated 98-01-31 22:35:50 EST, aklujkar at UNIXG.UBC.CA writes:
+
+<< However, at least at present
+ I cannot recall any remark that can mean without doubt or without being
+ contextually circumscribed in some way that women are born with a lower or
+ inferior intelligence. >>
+
+An interesting thing to look into regarding the attitude about women's
+intelligence may be the gender classification in Central Dravidian vs. South
+Dravidian. Telugu apparently has male and non-male (which includes femininine
+as well as neuter) classification for singular while Tamil has persons (where
+males, and females are included) and non-persons classification.
+
+Regards
+
+S. Palaniappan
+
+
+

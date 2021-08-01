@@ -1,0 +1,43 @@
++++
+title = "402 Allen W Thrasher"
+date = "1999-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017748.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017748.html)
+
+<<Could anyone let me know if any copy of this book exists in the
+United
+States?
+
+Bharadvajavrttibhasya on the Vaiseshika sutras; Gangadhar Kaviratna
+Kaviraja
+(or Gangadhar Rai); Calcutta; 1869 (or 1870); Published by the
+Baptist
+Missionary Press (Serampore)>>
+
+This title does not show up in OCLC or on LC's database.
+
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+LJ-150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+U.S.A.
+tel. 202-707-3732
+fax 202-707-1724
+email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

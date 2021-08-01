@@ -1,0 +1,54 @@
++++
+title = "160 Ramakrishnan Balasubramanian"
+date = "1999-12-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019525.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019525.html)
+
+Krishna Kalale <kkalale1 at SAN.RR.COM> wrote:
+
+> There may be some tamil works on this topic, which I am not familiar
+with.
+>  Personally I prefer sanskrit books since I am not comfortable in
+tamil.
+
+The following may be useful:
+
+1. Sivadvaita of Srikantha, by S.S.Suryanarayana Sastri, University of
+Madras, 1972.
+
+2. The Sivadvaita Nirnaya of Appayya Dikshita, Edited with an
+Introduction, Translation and Notes, by S.S.Suryanarayana Sastri,
+University of Madras, 1974.
+
+3. Saivaparibhasa of Sivagrayogin, English translation by
+S.S.Suryanarayana Sastri, University of Madras, 1982.
+
+Generally, Saivite authors (at least in the Sanskrit) are more
+inclusivistic than Vaishnavite authors. This fact has been noted for
+eg., by Jan Gonda. For example, the Saiva Nilakantha, who has also
+written a brahmasUtrabhAshhya, considers vishhNu to be the cit-shakti
+of shiva and hence fit to be adored. The same view point is adopted
+(previously held?) by bhaTTa-bhAskara mishra in his
+taittirIya-AraNyaka bhAshhya. Prof. S.S.Suryanarayana Sastri gives the
+relevant details about the astounding similarities between Srikantha's
+views and Bhatta bhAskara's views in his books.  bhaTTa bhAskara
+mishra's commentary on the yajur-veda has been edited and published by
+Alladi Mahadeva Sastri. It has been reprinted by Motilal also. The
+above books have some details about the supremacy of shiva over
+vishhNu, but not too much.
+
+A more polemical author seems to be haradatta shivAchArya. I have not
+read any of his works.  A brief summary of his life and the relevant
+polemical works can be found in:
+"Haradatta misra and Haradatta Sivacarya," Collected Papers of
+S.S.Suryanarayana Sastri, pp. 375-380, University of Madras, 1961.
+
+If you have any other references on this topic, I'd appreciate it if
+you could post them.
+
+Rama
+
+
+

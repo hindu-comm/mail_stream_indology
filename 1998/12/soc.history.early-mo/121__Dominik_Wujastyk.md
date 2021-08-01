@@ -1,0 +1,48 @@
++++
+title = "121 Dominik Wujastyk"
+date = "1998-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014405.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014405.html)
+
+---------- Forwarded message ----------
+Date: Wed, 02 Dec 1998 18:52:00 -0600
+From: Curt Emanuel <cemanuel at accs.net>
+To: editor at chass.utoronto.ca, ingrao at omni.cc.purdue.edu,
+    jim.cocks at louisville.edu, k_besio at colby.edu, saillant at pilot.msu.edu,
+    SMintz at uh.edu, d.wujastyk at ucl.ac.uk, barkerp at ou.edu,
+    blackflag at mindspring.com, bcj at psu.edu
+Subject: soc.history.early-modern
+
+Dear Listowner,
+
+Please pass the following message on to your mailing list.
+
+And a big thank you to all of you for your assistance with getting the
+word out to your respective mailing lists. It IS appreciated.
+
+Curt
+
+-----------------------------------------------------------------------
+
+For those of you who are interested, the proposed Usenet group
+soc.history.early-modern passed its vote. The group has appeared on some
+news servers.
+
+I encourage mailing list members to join in on the discussion - there's
+not much yet, but I'm confident that will change.
+
+If you look for the group and don't find it, then your news server
+probably hasn't started carrying it yet. Sometimes it takes a couple of
+weeks for new groups to show up, however you may want to drop a note to
+your news administrator asking them to start carrying it.
+
+Thanks to all of you who participated in the news.groups discussions and
+cast a vote.
+
+--
+Curt Emanuel  (cemanuel at accs.net)
+
+
+

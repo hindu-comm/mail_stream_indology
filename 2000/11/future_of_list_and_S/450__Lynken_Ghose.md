@@ -1,0 +1,27 @@
++++
+title = "450 Lynken Ghose"
+date = "2000-11-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023957.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023957.html)
+
+Hello Indology members:
+
+I'm not really in favor of excluding people who are not formally in
+Indology. Some postings from non-Indologists are quite informative and
+useful.
+
+But, I would be in favor of a whole list devoted to issues in the study of
+Sanskrit.
+
+Lynken Ghose
+Iowa State University
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

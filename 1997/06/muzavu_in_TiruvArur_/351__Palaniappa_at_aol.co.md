@@ -1,0 +1,23 @@
++++
+title = "351 Palaniappa at aol.com"
+date = "1997-06-26"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008670.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008670.html)
+
+A few years ago, someone told me of a huge muzavu (drum) in the TiruvArur
+temple. I do not recollect the details. Apparently, it is so big that it is
+either sunk into the ground or has a ladder to climb on for playing. Also,
+the only person who knows how to play that is in his 80s and after him the
+knowledge of playing may be gone. Does anybody in the list have factual
+details? R. Ghose does not talk about this in her book. (I am not talking
+about the panca-mukha drum.) Thanks in advance.
+
+Regards
+
+S. Palaniappan
+
+
+
+

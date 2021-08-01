@@ -1,0 +1,47 @@
++++
+title = "79 Luis Gonzalez-Reimann"
+date = "1997-08-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-August/008978.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-August/008978.html)
+
+A common name of Draupadii in the Mahaabhaarata is K.ri.s.naa, 'the black one.'
+
+
+Luis Gonzalez-Reimann
+University of California, Berkeley
+
+
+At 09:45 PM 8/18/97 BST, you wrote:
+>While I have heard of a (highly argued over) Black Athena, I only today 
+>read of a Black Draupadi. It occurs on p. ix of _Imaginary Maps_, which 
+>is a translation of three stories by Mahasweta Devi, translated from the 
+>Bengali by Gayatri Chakravorty Spivak and published by Routledge USA and 
+>Thema Calcutta in 1995. The stories are preceded by a section called "The 
+>Author in 
+>Conversation". Here is where Mahasweta Devi mentions that Draupadi was 
+>black. She says, "Remember, Draupadi in the _Mahabharata_ is a black 
+>woman. She must have been a tribal." 
+>
+>I haven't finished reading the _Mahabharata_ yet, and I don't remember 
+>everything I have read of it, but I don't recall Draupadi being black 
+>or a tribal. Does anyone else?
+>
+>Gratefully,
+>Bob Hueckstedt 
+>
+>Robert A. Hueckstedt, Associate Professor of Indic Languages
+>Asian Studies Centre, 328 Fletcher Argue, University of Manitoba
+>Winnipeg, Manitoba R3T 2N2 Canada
+>http://www.umanitoba.ca/faculties/arts/asian_studies
+>fax 1 204-261-4483 phones 1 204-474-8964, 1 204-488-4797
+>
+>
+>
+>
+
+
+
+
+

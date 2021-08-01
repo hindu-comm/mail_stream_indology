@@ -1,0 +1,29 @@
++++
+title = "94 Raymond Crawford"
+date = "1995-12-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003792.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003792.html)
+
+My two cents, if possible.
+
+I am uneducated, everything I think I know or have learnt is from reading.  
+If what I am reading is factually incorrect, then how can my learning be of 
+any use whatsoever?
+
+It is all very well to say read the translations, but each translation, most 
+of the time, is not a translation but an interpretation coloured by the 
+translators own beliefs.  For example, just read any number of translations 
+of the Bhagavad-geeta and see how many of them are the same.
+
+Perhaps, for you, the educated, such differences are of no meaning, but for 
+the uneducated such as myself, they mean a heck of a lot.  In other words, if 
+translations are not correct then what is the use of them?
+
+Raymond
+
+
+
+
+

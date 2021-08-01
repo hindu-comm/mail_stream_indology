@@ -1,0 +1,24 @@
++++
+title = "144 Mary McGee"
+date = "1998-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-October/013706.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-October/013706.html)
+
+DARTMOUTH COLLEGE, Department of Religion, invites applications for a
+tenure-track appointment in INDIC RELIGIONS (including South Asian
+Buddhism) at the Assistant Professor level beginning Fall, 1999.
+Qualifications include recent or near completion of Ph.D. and demonstrated
+teaching abilities.  Linguistic competence and training in approaches and
+methods in the Study of Religion are essential. Courses to be taught will
+include a team-taught Introduction to the Study of Religion, and
+Introduction to Hinduism and an Introduction to South Asian Buddhism.
+
+The application process requires an application letter, a c.v., and three
+letters of recommendation.  Please send dossier with references to Chair,
+Search Committee, Department of Religion, Dartmouth College, 6036 Thornton
+Hall, Hanover, NH 03755-3572.
+
+
+

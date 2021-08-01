@@ -1,0 +1,35 @@
++++
+title = "80 Mikael Aktor"
+date = "1996-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004678.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004678.html)
+
+Dear members,
+
+This is a triffle, and probably one that has been discussed a lot before.
+Nevertheless ...
+
+It's irritating that initial capitals in mames look ambiguous when used
+together with the Kyoto-Harvard convention. Like for instance: GaGgA,
+JJAnezvara, etc. But it is also problematic to skip them in for instance
+kRSNa, when this is a name and not only a color. Could we agree upon a
+common marker put before initial capital, for instance ":" ? The above
+examples would then be: :GaGgA, :JJAnezvara, and :KRSNa. The choice has to
+bee a sign which is not taken as a part of the word by various search
+programs, and which can not be mistaken for other signs that one may want to
+use before a word, for instance quotation marks. Other suggestions? Or is
+ASCII-Sanskrit already too weird for further complications?
+
+Regards
+
+Mikael Aktor,
+Institute for History of Religions, University of Copenhagen,
+Njalsgade 80, DK-2300 Copenhagen S, Denmark.
+aktor at coco.ihi.ku.dk
+
+
+
+
+

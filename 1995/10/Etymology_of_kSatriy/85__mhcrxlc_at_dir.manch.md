@@ -1,0 +1,43 @@
++++
+title = "85 mhcrxlc at dir.manchester-computing-centre.ac.uk"
+date = "1995-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003332.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003332.html)
+
+DR.S.KALYANARAMAN said:
+
+>I suppose, lexemes are not inventions but are based on meanings derived
+>from usage in sentence or pithy epigraphs. Some languages of course
+>boast of even poems.
+
+But some lexemes are indeed inventions - that is precisely the problem. For
+example many Sanskrit words were created on the basis of mistaken
+backformations from Prakrit. In some cases the correct Sanskrit form was
+not recognized; in others the Prakrit form did not derive from
+Indo-European at all, but from languages of other  groups, some of which
+are probably no longer extant.
+
+Again, sometimes words are used erroneously. If this happens in a well-read
+work, the error may find its way into the lexicographical literature and be
+perpetuated.
+
+Sometimes words are simply invented for literary or other purposes.
+
+Sometimes a copyist's error creates a new word or word meaning which is
+subsequently repeated by others.
+
+And so on.
+
+Lance Cousins
+
+MANCHESTER, UK
+Email: mhcrxlc at dir.mcc.ac.uk
+
+
+
+
+
+
+

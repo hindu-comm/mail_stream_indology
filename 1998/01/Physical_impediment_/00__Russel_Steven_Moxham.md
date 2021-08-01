@@ -1,0 +1,19 @@
++++
+title = "00 Russel Steven Moxham"
+date = "1998-01-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-January/010270.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-January/010270.html)
+
+Dear Sarma!
+        Actually I can't read Sanskrit--even if it's romanized. Also I figure
+there's a font I'm lacking to be able to read your transcription as I think
+it must have been intended. However, I can see from the Drono references
+that you've sent me the right stuff--so thanks a lot! I'd best be off to
+the library...
+        Regards,
+                Russ
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "334 Harry Spier"
+date = "1999-02-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015826.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015826.html)
+
+The sanskrit text of the Bhagavad Gita reproduced by J.A.B. Van Buitenen
+in  "The Bhagavadgita in the Mahabharata" is reportedly taken from  S.K.
+Belvalkar ed., bhiSmaparvan (1) (fascicule 15) (Poona:Bhandarkar
+Oriental Research Institute, 1947) pp. 74-203.
+
+In Van Buitenen's book the last line of verse 28 is (I'm transliterating
+in HK convention):
+
+dRSTvemAn svajanAn kRSNa yuyutsUn samavasthitAn ||
+
+In all the other sources I've checked: Radhakrishnan, Winthrop Sargeant,
+Swami Tapasyananda, Divine Life Society, Gita Press, Warrier, Dr.
+Shakuntala Rao Sastri, they all have:
+
+dRSTvemaM svajanaM kRSNa yuyutsuM samupasthitam ||
+
+Does anyone know if the line in Van Buitenen's book is an accurate
+rendition of the BORI critical edition? Is this a genuine variation or
+errata?
+
+Many thanks
+
+
+Harry Spier
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

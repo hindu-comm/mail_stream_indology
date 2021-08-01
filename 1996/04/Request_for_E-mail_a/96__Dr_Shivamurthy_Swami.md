@@ -1,0 +1,98 @@
++++
+title = "96 Dr Shivamurthy Swamiji"
+date = "1996-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004689.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004689.html)
+
+================================================
+Xth WORLD SANSKRIT CONFERENCE, BANGALORE, INDIA
+(3-9 January 1997)
+================================================
+
+Dear Indologists,
+
+We are in need of the e-mail address of the following scholars for quick communication.  We have checked the indology group and did not find these in the list.
+
+We earnestly request you to inform us as many e-mail addresses as you can in the field E-MAIL provided against the names below. The names are given in the alphabetical order
+
+Thank you in advance for sparing your valuable time.
+
+Dr S Siddaiah
+Co-ordinator
+_____________________________________________________
+
+
+==========================
+BELGIUM, NETHERLANDS
+==========================
+
+
+______________________________________________________________
+2669  	
+Dr  Verpoorten Jean-Marie, Lecturer (in Buddhism), University of Liege
+BELGIUM
+
+E-MAIL : 
+______________________________________________________________
+4096  	
+Dr  Emmie te Nijenhuis
+Director
+Saraswati Bhavan
+NETHERLANDS
+
+E-MAIL : 
+______________________________________________________________
+4384  	
+Prof Dr  Hendrik Wilhelm Bodewitz
+Professor of Sanskrit
+Kern Institute
+NETHERLANDS
+
+E-MAIL : 
+______________________________________________________________
+4327  	
+Dr  Indu Srivastava
+Guest Lecturer
+Ripa school of Indian Arts
+NETHERLANDS
+
+E-MAIL : 
+______________________________________________________________
+4469  	
+Dr  Victor Albert van Bijlert
+Lecturer
+Institut Kern
+NETHERLANDS
+
+E-MAIL : 
+______________________________________________________________
+
+
+Thank you !
+
+
+==============================
+Secretariat
+Xth World Sanskrit Conference
+TARALABALU  KENDRA
+3rd Main, 2nd Block, RT Nagar
+BANGALORE - 560 032 
+India
+
+Tel:  +91-80-3430017
+       +91-80-3332759
+Fax: +91-80-3334541
+E-mail: swamiji at giasbg01.vsnl.net.in
+http://www.ucl.ac.uk/~ucgadkw/indnet.wscx.html
+======================================
+
+
+
+
+
+
+
+
+

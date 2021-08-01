@@ -1,0 +1,24 @@
++++
+title = "256 aklujkar at unixg.ubc.ca"
+date = "1997-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007046.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007046.html)
+
+While I am not aware of any text on cooking ascribed to Bhiima, I would
+like to point out that the association of Bhiima with cooking is old. The
+Mahaabhaarata itself depicts Bhiima as working as a cook for Viraa.ta. The
+Paa.n.davas are then living incognito. Bhiima assumes the name Ballava. (MB
+4.2.1-7).
+
+The other well-known MB character associated with cooking skills is Nala.
+One comes across attribution of texts to him too.
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
++++
+title = "271 Avinash Sathaye"
+date = "1999-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016402.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016402.html)
+
+Original query by Harry Spier:
+>In the english translation of the Jnaneshvari.  (translated from the
+>Marathi by V.G. Pradhan and edited by H.M. Lambert) in chapter 10
+>between Jnaneshwars verses 203 and 208 are inserted verses 22 and 23 of
+>the Bhagavad Gita (from Radhakrishnan's translation)  but they are in
+>the reverse order that they appear in the Bhagavad Gita proper.  This
+>makes them agree with Jnaneshwar's verse commentary as written in this
+>edition.
+>
+>Could someone possibly tell me. If verses 204 through 208 in this
+>translation agree with the Marathi original.  And also in the Marathi
+>original are the sanskrit verses from the Bhagavad Gita usually inserted
+>and if so is it usual to reverse verses 22 and 23 in chapter 10.
+
+"K. S. Arjunwadkar" wrote:
+March 27, 1999
+Reply
+In V. K. Rajwade's edition of Jnaneshvari supposed to be linguistically the
+oldest, I find that
+(i) the order of the Sanskrit verses 22 and 23 is reversed when compared to
+the Sanskrit text tradition, and
+(ii) Jnaneshvara's Marathi commentary agrees with the reversed order.
+KSA
+>>> My reply>>>
+My copy - the so-called sAkhare-mahArAja edition (original from 1901) seems to
+be different in this aspect. The gItA verses are in proper order as well as the
+marAThI commentary is consistent with it. The j~nAneshvarI verses are numbered
+223-227. This is considered to be one of the authentic traditional editions,
+although Rajwade - a historian as well, is said to have made extensive research
+and claimed to have corrected many errors from the traditional editions. As the
+history goes, his edition was not accepted by the "believers" and he was
+unhappy about that. The detailed story is interesting!
+
+As to the last questions of Harry spier: YES the marAThI commentary does
+include all the gItA verses in proper order interspersed throughout the text.
+There are occasional mistakes - presumably made by the copy-writers. I hope
+this answers all the questions.
+--
+With best regards,
+Avinash Sathaye sohum at ms.uky.edu Web Page: www.ms.uky.edu/~sohum
+
+
+

@@ -1,0 +1,30 @@
++++
+title = "219 Gene Thursby"
+date = "1997-02-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-February/007014.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-February/007014.html)
+
+In addition to the recently cited reference by Dr. Enrica Garzilli, there is
+some interesting earlier work, perhaps along similar lines but starting from
+an anthropological fieldwork perspective, by Lawrence A. Babb in his _The
+Divine Hierarchy: Popular Hinduism in Central India_ (New York: Columbia
+University Press, 1975) and, developed in a psychoanalytic direction, by
+Stanley W. Kurtz in _All the Mothers are One_ (New York: Columbia University
+Press, 1992).  [Possible they have something of an unintended non-dravidian
+bias.]
+
+In any case, my own view is that all this is an unfortunate Indoeuropean
+quirk. :-)
+
+Gene Thursby
+U. of Florida
+       		~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	        Gene Thursby <gthursby at religion.ufl.edu>
+	   	http://www.clas.ufl.edu/users/gthursby/
+
+
+
+
+

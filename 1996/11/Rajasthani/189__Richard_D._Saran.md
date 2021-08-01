@@ -1,0 +1,42 @@
++++
+title = "189 Richard D. Saran"
+date = "1996-11-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-November/006228.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-November/006228.html)
+
+You might try
+
+	BIBLIA IMPEX PRIVATE LIMITED
+	Booksellers, Publishers, Exporters
+	2/18 Ansari Road,
+	New Delhi-110 002 (India)
+
+They list Sita Ram Lalas's Brhad Rajasthani Kosh, vols. 1, 3 (pts 1-3),
+4 (pts. 1-3) at a reasonable price ($4-l2 per pt. or vol.).  Lalas is
+invaluable; there is also the recent Rajasthani-Hindi-English dictionary
+by Bhamvaralala Suthara (Jodhpur, 1995), which is the only Rajasthani to
+English dictionary available.
+
+Badriprasad Sakariya's Rajasthani Hindi Sabda Kosa (3 vols.; Jaypur,
+1977-1984) is another valuable tool.
+
+All the above dictionaries tend to underrepresent Arabic and Persian terms
+found in Rajasthani; for these Platts is more useful.
+
+On Wed, 20 Nov 1996, Peter Flugel wrote:
+
+> In-Reply-To: <199611191032.LAA19649 at xs2.xs4all.nl>
+> Does anybody know where to get a Rajasthani (Marvari) dictionary. If 
+> available at all?
+> 
+> Peter Fluegel
+> 
+> 
+> 
+
+
+
+
+

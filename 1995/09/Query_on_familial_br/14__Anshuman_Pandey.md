@@ -1,0 +1,53 @@
++++
+title = "14 Anshuman Pandey"
+date = "1995-09-06"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-September/003142.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-September/003142.html)
+
+
+Members:
+
+I am doing some personal research on the Sarjuparia Brahmans and the
+clans to which these Brahmans belong. I am having considerable
+difficulty in my progress because the collection of such topics at
+my university's library is scant. By turning to you, I am hoping
+you will be able to assist me.
+
+My predicament centers around identifying the branch to which the
+Brahman belong. From what I have read, I have come to the assumption
+that the branch identification may come from the Veda the family studies.
+But is the identification taken from the school to which the family 
+belongs, or from the author of the books the family traditionally
+follows? 
+
+In his "Hindu Castes and Tribes", Matthew A. Sherring, writes about 
+a system whereby Brahmans are classified as follows:
+
+     <name> is a Tri-, Panch-, or a Sat- prawa Brahman of the
+     <a> branch of the <b> clan, of the <c> rank, of the <d>
+     gotra, of the <e> division, of the <f> tribe of <g> 
+     Brahmans.
+
+        An example is:
+        Vishnu Narayana is a Satprawa Brahman of the Apabmasta
+        branch of the Brihadgram clan of the Upadhyay rank, of
+        the Bharadvaj gotra, of the Chitpavam division, of the
+        Maratha tribe of Dravira Brahmans.
+
+I have been able to find every variable except for the branch. Is 
+there any text, perhaps a Purana, which provides lists of the
+schools, or branches, of the Vedas?
+
+Thank you.
+
+Anshuman Pandey
+
+
+
+
+
+
+
+

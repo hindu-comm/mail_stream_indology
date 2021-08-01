@@ -1,0 +1,33 @@
++++
+title = "370 Miroslav Rozehnal"
+date = "1999-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019253.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019253.html)
+
+>Ulrich T. Kragh wrote:
+>
+> >Dear List-members,
+> >I am in need of computer fonts for writing both diacritics as well as
+> >Devanaagarii.
+> >
+> >I am using a PC and have to write in MS Word 97 and MS Access.
+> >
+> >I have so far been using the Transliteration Vijay diacritics font, but
+> >have discovered that it is not fully compatible with MS Word 97, since the
+> >spaces between the letters are not recognized as such but as characters,
+> >which gives problems with line wrapping, etc.
+> >
+> >Can you share your experiences with me? Which fonts are the best to use
+> >with these PC programs?
+
+As for transliteration, we are using the Foreign1 font. You can download it at
+
+http://ccbs.ntu.edu.tw/SANSKRIT/foreign1.zip
+
+Miroslav Rozehnal
+The Institute of Buddhist Studies
+
+
+

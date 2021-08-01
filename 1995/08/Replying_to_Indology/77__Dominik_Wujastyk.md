@@ -1,0 +1,54 @@
++++
+title = "77 Dominik Wujastyk"
+date = "1995-08-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-August/002932.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-August/002932.html)
+
+
+Further to the issue of replying to INDOLOGY messages (whether the reply
+goes to INDOLOGY or to the individual correspondent), Chris Wooff
+recently said:
+
+Forwarded message:
+> From: Chris Wooff <C.Wooff at liverpool.ac.uk>
+> Subject: Re: Replying to Indology messages (fwd)
+> To: d.wujastyk at ucl.ac.uk
+> Date: Fri, 11 Aug 1995 08:54:32 +0100 (BST)
+> 
+> Dominik, sorry for the delay in replying I'm only recently back to
+> work after a holiday.
+> 
+> I'm happy to change it if that is what the majority really want.
+> Personally I'd recommend leaving it the way it is. People who
+> don't check the to: field of mail they are sending will cause
+> problems regardless. In the present scenario this will cause
+> some personal messages to get sent to the list. If we change
+> reply-to: to point to the individual then you'll find some mail which
+> *is* relevant to the list gets sent to one individual. 
+> 
+> You pays your money........
+> 
+> Chris
+
+For my money, I think I'd rather leave things as they are.  I "reply"
+more often to INDOLOGY at large than to the individual poster of the
+message.  I am prepared to be careful about posting private messages to
+the full membership by accident.
+
+Could we vote?  Send me a message at d.wujastyk at ucl.ac.uk, with your
+vote as the subject line.  Say either
+
+  "public replies" .... to keep replies going to the whole membership, or
+  "private replies" ... to change the system so that replies go to
+                        individuals by default.
+
+Dominik
+
+
+
+
+
+
+

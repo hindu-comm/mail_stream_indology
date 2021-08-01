@@ -1,0 +1,27 @@
++++
+title = "75 ORACLE at wl.aecl.ca"
+date = "1995-11-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-November/003544.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-November/003544.html)
+
+Dear Jaroslav Strnad
+
+	There is program called KEYMAN3.1 that is publically available from the
+Summer Institute of Linguistics, Mexico which you can FTP and use to write 
+your own keyboard driver under Windows 3.1 and 3.11 with a very little effort.
+I wrote one for Telugu in 8 hours. This software has a built in Keyboard driver
+writing editor which lets you test the keyboard as you develop it.  It is the
+best utility I have first hand experience with that is available in Public
+Domain, and it works. This can be FTP-ed from Internet, although I don't readily
+have their internet address. If you have difficulty in finding this address by
+tomorrow, I will find lookup the adress myself and let you know tomorrow.
+
+Regards,
+Desikachary.
+
+
+
+
+

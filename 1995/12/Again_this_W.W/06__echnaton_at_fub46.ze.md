@@ -1,0 +1,28 @@
++++
+title = "06 echnaton at fub46.zedat.fu-berlin.de"
+date = "1995-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003719.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003719.html)
+
+Dear Colleagues,
+If there is anybody who is waisting time and space of others and
+espeacially of those giving time and space for free to others who are
+trying to do good work with that,herewith and to say 'This is my time and
+space also and if you, espeacially W.W., can't imagine or don't want to do
+so,that you are wasting our space and time,I am calling herewith the
+Inquisition to raise force against this.
+Please give me all your pardon for not having other words to handle with this.
+Yours faithfully
+Ulrich
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
++++
+title = "162 Jan Brzezinski"
+date = "1997-10-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-October/009615.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-October/009615.html)
+
+In Christopher Queen's (ed.) volume of essays on Engaged Buddhism, you may
+find an article on TBMSG, an organization based in the Mahar Buddhists who
+converted at Ambedkar's instigation. Under the banner of 'right livelihood',
+it is engaged in organizing these poorest members of society into
+cooperatives and training them in various trades. It is fascinating to note
+that TBMSG has its roots in the Friends of the Western Buddhist Order, based
+in Great Britain.
+
+Jan.
+
+
+

@@ -1,0 +1,54 @@
++++
+title = "96 Kumar at pixie.udw.ac.za"
+date = "1996-05-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-May/004985.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-May/004985.html)
+
+Dominik Wujastyk wrote--
+
+>Many people live and work in a language other than their mother tongue.
+>This is a pretty normal situation, and the fact that Sanskrit was not
+>"mother", isn't as important as understanding the other socio-linguistic
+>issues surrounding it, that have been so well described in Madhav
+>Deshpande's studies.
+>
+>Secondly, I don't think medieval Latin was particularly artifical in any
+>meaningful sense.  In fact, one reason why it is so difficult is that it
+>is heavily coloured by the vernacular languages of the countries in which
+>it was used, and this is because it was growing closer to the vernaculars,
+>and being used for more secular writings.  Medieval Latin was certainly a
+>great deal less artificial than Ciceronian Latin.
+>
+
+Isn't it possible to say precisely the same thing about Sanskrit language
+because I believe it is also heavily coloured by Indian vernaculars.  For
+instance, we know Caland (identified in his notes on Ananda Samhita the
+influence of South Indian Syntax on Sanskrit) , Emenau and George Hart have
+made substantial comments in this regard.  Although this is not my special
+area of study, from my reading of Sanskrit texts composed in the South I
+can tell how clsoe the syntax is to my mother tongue Telugu.  I am not
+convinced that Telugu syntax is influenced by Sanskrit but I have a strong
+feeling that Sanskrit syntax is influenced by many South Indian languages.
+
+Pratap
+
+
++----------------------------------------------------------------+
+Dr. P. Kumar
+Department of Hindu Studies & Indian Philosophy
+University of Durban-Westville
+Private Bag X 54001
+Durban
+4000
+South Africa
+Tel: 031-820-2194
+Fax: 031-820-2160
+Email: kumar at pixie.udw.ac.za
+
+
+
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "108 Dominik Wujastyk"
+date = "1998-09-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-September/013558.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-September/013558.html)
+
+Further to the ROCKLAND incident, it now appears that the perpetrator
+joined INDOLOGY, posted the spam, and then unsubscribed.  This is more
+callous than we had at first realized, and has resulted in the perp. being
+banned from any future membership of the list.  The listserv operators are
+pursuing this person, with a view to instigating punitive procedures.
+
+I and the Liverpool support team take this sort of misuse of the list
+rather seriously.
+
+All the best,
+Dominik
+
+--
+Dr Dominik Wujastyk,                FAX:        +44 171 611 8545
+Wellcome Institute for              URL:        http://www.ucl.ac.uk/~ucgadkw/
+  the History of Medicine,          Email:      d.wujastyk at ucl.ac.uk
+Wellcome Trust, 183 Euston Road,    Trust URL:  http://www.wellcome.ac.uk
+London NW1 2BE, England.
+
+
+

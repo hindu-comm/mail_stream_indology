@@ -1,0 +1,27 @@
++++
+title = "33 Vaidix"
+date = "1998-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-March/011212.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-March/011212.html)
+
+Prof Bryant
+
+There has never been any bad scholarship.  All work done for Indology was
+greatly helpful in preserving the subject.
+
+There are many known portions of the subject, which have been treated
+exceedingly well by all scholars traditional or modern (starting from sayana
+till date), but many of these scholars did a poor job when they met with
+unknowns or forgotten symbols.  Leaving the unknown as unknown would be more
+appropriate and leaves a chance for future scholars to develop better
+interpretations.
+
+Rewriting the history of IE/PIE/IA/IAD is welcome but we are not looking for
+any quick results.
+Regards
+Bhadraiah Mallampalli
+
+
+

@@ -1,0 +1,40 @@
++++
+title = "127 S Krishna"
+date = "1998-06-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-June/012705.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-June/012705.html)
+
+>From:         Klaus Karttunen <Kjkarttu at ELO.HELSINKI.FI> says:
+
+
+>My book, India and the Hellenistic World, came out a few months ago as
+number 83 of our series Studia Orientalia. It contains 10+459 pages
+>and the price is 200 Finnish Marks (about the same as French Francs).
+>>
+
+
+Could you please tell us:  1. What was the Indian way of keeping track
+of time( i.e. in terms of days, weeks etc) when Alexander came to
+India? I've read that the modern European system of classifying
+everything into weeks, months etc was a Greek concept borrowed by the
+Indians when the Greeks came to India( never minded if the Greeks
+themselves obtained the concept of the minute, second etc from the
+Babylonians:-).
+
+2. Is there any critique of the Arthasastra by the Greeks? If so, how
+did they compare Chanakya with their own political thinkers?
+
+
+Any reply would be appreciated
+
+Regards,
+Krishna
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

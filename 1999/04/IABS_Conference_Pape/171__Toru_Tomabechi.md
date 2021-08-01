@@ -1,0 +1,27 @@
++++
+title = "171 Toru Tomabechi"
+date = "1999-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016578.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016578.html)
+
+Dear list-members,
+
+Recently we have been receiving more and more panicky messages
+concerning the deadline for submitting abstracts for the Conference of
+the International Association of Buddhist Studies in Lausanne
+(Aug. 23-28). We had earlier specified Apr. 15 as the deadline for
+the abstracts -- this seems to have had a stimulating effect.
+
+We would like to inform you now that we will still be accepting
+abstracts for a *few* weeks.
+
+Best,
+
+Toru Tomabechi, Secretary
+The XIIth IABS Conference
+University of Lausanne
+
+
+

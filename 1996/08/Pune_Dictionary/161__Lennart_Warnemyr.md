@@ -1,0 +1,38 @@
++++
+title = "161 Lennart Warnemyr"
+date = "1996-08-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-August/005661.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-August/005661.html)
+
+Michael Coulson wrote the following in "Sanskrit -- An Introduction To
+The Classical Language" (Teach Yourself Books), Appendix 1 p. 277:
+"All present dictionaries are grossly out of date: Sanskrit studies
+will be revolutionised when the vast work at present [1976?] under
+preparation in Poona finally sees the light of day."
+
+At the Navrang site (http://catalog.com/navrang/) i found the
+following item in their "Indian Books on Sanskrit" catalogue:
+
+"DECCAN COLLEGE, Pune. 
+
+ An Encyclopedic Dictionary of Sanskrit on Historical Principles:
+Vol:V,Pt.II. Pune: The author,1995. 2607-2686p. $22.50(Pb)"
+
+I have few questions about this:
+1) Is the statement of Dr. Coulson true?
+2) Is the Navrang item a part of the Poona dictionary that Dr. Coulson
+mentions? 
+3) If so, 
+   a) how much has been done?
+   b) when are they expected to be finished?
+   c) where can I find rewievs of the already finished volumes?
+   d) is there an electronic version forthcoming? 
+
+Many thanks for any learned response,
+Lennart Warnemyr
+
+
+
+

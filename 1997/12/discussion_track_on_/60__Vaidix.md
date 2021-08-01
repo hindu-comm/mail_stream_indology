@@ -1,0 +1,32 @@
++++
+title = "60 Vaidix"
+date = "1997-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010092.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010092.html)
+
+Hello everyone,
+
+Why not establish a procedure to "loan" a document to a different country or
+organization temporarily? Let one copy of this document be submitted to a
+voluntary organization and/or a state department and/or  a university within
+the country in which that mss or artifact originates.
+
+This at least gives the originating country a legal chance to get back its
+documents and copyrights when it is ready to take care of them.  Let someone
+who knows the legalese draft a form and circulate it widely.  The originating
+country must also make a law that such forms must be filled before the mss or
+artifact is transported out of the country otherwise it can be considered as
+piracy or theft.  This simple procedure can make it easy for the flow of
+material without guilt at the same protecting the rights of originating
+country.
+
+Efforts must be made to make such legislation at all possible levels
+national/state/province/district so that even if a state has no law, the
+district law can prevent the movement without a documentary support.
+
+B. Mallampalli
+
+
+

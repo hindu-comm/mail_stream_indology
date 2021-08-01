@@ -1,0 +1,29 @@
++++
+title = "433 Vidyasankar Sundaresan"
+date = "2000-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020787.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020787.html)
+
+Thanks to Profs. von Simson and Hiltebeitel for their responses. My query
+was provoked by reading a recent attempt to date the Mbh war on astronomical
+grounds. The author claims that the episode where Krishna made the sun
+disappear for a while, so that Arjuna could kill Jayadratha, is a reference
+to a solar eclipse. Apparently, no one else  knew that there was going to be
+an eclipse that day. However, as a solar eclipse can happen only on a new
+moon day, and as the war started on a new moon day, this seems totally
+impossible. Unless, of course, the war lasted for more than 30 days...
+
+Another example of a false application of science. Sadly, the said author is
+a reasonably well-known scientist himself. He also places the composition of
+the Rgveda somewhere in Turkey, but puts its date around 7000 BCE, based on
+astronomical information. So I don't think he is going to be well-received
+by anybody involved in the debate on Indo-Aryan origins.
+
+Vidyasankar
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

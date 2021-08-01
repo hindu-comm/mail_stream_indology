@@ -1,0 +1,24 @@
++++
+title = "301 Asian Rare Books"
+date = "1998-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010872.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010872.html)
+
+We have these four South Asian titles published in the
+late 18th c. at Rome by the Sac. Congregation de Propag. Fide
+as follows:
+     Alphabetum Grandonico-Malabaricum (1772)
+     Alphabetum Tangutum sive Tibetanum (1773)            all very good
+     Alphabetum Brammhanicum seu Indostanum (1771)        wrappers bound into
+     Alphabetum Barmanorum seu Regni                      new cloth
+             Avensis    (1787)
+
+These are available for sale by Asian Rare Books.
+Please inquire and we will email you details of price, etc.
+Stephen Feldman/ASIAN RARE BOOKS     http://www.erols.com/arbs/
+FAX 1 212 316 3408
+
+
+

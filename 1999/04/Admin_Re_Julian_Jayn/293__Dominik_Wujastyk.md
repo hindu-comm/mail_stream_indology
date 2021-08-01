@@ -1,0 +1,31 @@
++++
+title = "293 Dominik Wujastyk"
+date = "1999-04-27"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016716.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016716.html)
+
+Dear Aditya Mishra,
+
+It is nice to see another person discovering the interesting writings of
+Jaynes.  Like you, I have often thought that aspects of his thought could
+be applied in the Indian context.
+
+However, I must ask you not to post long postings to the INDOLOGY list.
+Your attached html file made your posting over 28k, the longest by anyone
+this month.  The attached html file did not include any reference to the
+root website, so it was necessary to search via altavista to find the
+links in the page you posted.  Altogether it was a bad idea, and against
+the explicit policy of the INDOLOGY list.
+
+Next time, please just post the URL.  That is absolutely all that is
+necessary. (For those interested in Jaynes, it is
+http://home.sprintmail.com/~marcel1/index.html)
+
+--
+Dominik Wujastyk
+INDOLOGY founder.
+
+
+

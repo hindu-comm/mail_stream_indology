@@ -1,0 +1,31 @@
++++
+title = "24 Gabriele Zeller"
+date = "1997-06-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-June/008368.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-June/008368.html)
+
+As a special collection of South Asian material we naturally have 
+several suppliers. Among the best worldwide I can name DK Agencies. 
+They are very efficient, still friendly and with open ears to 
+problems and special wishes. As a firm they are open to new 
+developments to which they react in a most professional way. You can 
+search and order new books online now via their homepage:
+http://www.dkagencies.com/page2.htm
+
+Gabriele
+----------------------------------------------------------
+Dr Gabriele Zeller
+Universitaetsbibliothek Tuebingen
+Wilhelmstr. 32
+72016 Tuebingen
+Tel:+49-7071-2974030
+Fax:+49-7071-293123
+
+http://www.uni-tuebingen.de/ub
+----------------------------------------------------------
+
+
+
+

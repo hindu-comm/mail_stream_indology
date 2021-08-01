@@ -1,0 +1,43 @@
++++
+title = "99 wagers at iglobal.net"
+date = "1996-06-20"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-June/005340.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-June/005340.html)
+
+
+My web suite for scholars entitled "ousia" has acquired a European mirror
+site in Germany courtesy of Inca. The server seems very stable. This should
+greatly decrease response times for our European friends. I would
+appreciate being notified personally of your experiences with the new mirror.
+
+The mirror is accessible from the ousia home page. Then you can adjust
+your links or bookmarks to point to it, if it represents a shorter route to
+your site.
+
+I will take this opportunity to remind you that although you may find items
+of interest in other modules, only the four modules are complete:
+
+        for the Compositor ...
+        for the Egyptologist ...
+        for the Indologist ...
+        for the Mayanist ...
+
+I am currently on the lookout for an Asian mirror site.
+
+Regards,
+
+
+Will wagers at iglobal.net        Reality is the best metaphor.
+
+http://www.iglobal.net/pub/wagers/ousia/Egyptologist.html
+http://www.iglobal.net/pub/wagers/ousia/Indologist.html
+http://www.iglobal.net/pub/wagers/ousia/Mayanist.html
+Egyptology Web Ring: http://www.iglobal.net/pub/wagers/ousia/KMT.html
+
+
+
+
+
+

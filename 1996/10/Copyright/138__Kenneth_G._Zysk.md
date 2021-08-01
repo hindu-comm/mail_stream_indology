@@ -1,0 +1,33 @@
++++
+title = "138 Kenneth G. Zysk"
+date = "1996-10-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-October/006004.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-October/006004.html)
+
+
+I would like some clarification about "copyright" in the case of
+electronic files.
+
+In the USA, one cannot just say that a piece of written work is
+"copyrighted". There is the process that must take place. If I recall, an
+application must be made to the Library of Congress, accompanied by two
+copies of the work. The copyright is then issued by the LC. I assume that
+a similar procedure occurs in the UK via the British Library, and other
+places as well. 
+
+Two questions arise out of this:
+
+1. Do electronic materials follow the same procedure for copyright?
+2. Where would the copyright be issued? The country of the author or the
+country of the publisher. In the former case, it would be Japan, in the
+latter, the UK.
+
+Best,
+Ken Zysk
+
+
+
+
+

@@ -1,0 +1,41 @@
++++
+title = "266 Allen W Thrasher"
+date = "1999-11-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019127.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019127.html)
+
+Does anyone know anything about these related topics:
+
+1. The history of the manufacture of paper with European techniques
+in India?
+
+2. The import of European paper into India?
+
+3. Watermarks in paper made or used in India?
+
+Thanks for any help.
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+LJ-150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+U.S.A.
+tel. 202-707-3732
+fax 202-707-1724
+email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

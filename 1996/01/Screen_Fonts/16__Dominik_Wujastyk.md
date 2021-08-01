@@ -1,0 +1,40 @@
++++
+title = "16 Dominik Wujastyk"
+date = "1996-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003938.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003938.html)
+
+Lance Nelson said:
+> 
+> Question: Why do the screen fonts designed for Sanskrit transliteration 
+> look so unfinished in Windows programs?
+> 
+> I've downloaded two fonts: Dominic's CS Bitstream Charter and Jamie 
+> Hubbard's Sanskrit Times New Roman GE.  I've also tried Linguist's 
+> Software's TransIndic LS.  All true type for Windows, in Word Perfect 
+> 6.1, also tried in WinWord 6.0.  All of them print nicely, but look very 
+> uneven on screen, with some letters fatter than others, etc.  Am I doing 
+> something wrong?  Any advice appreciated.
+
+I think the problem here is probably to do with font hinting.  I can't
+speak for Jamie's fonts, which I haven't seen, but when Peter and I were
+looking at the Bitstream Charter, we used a font editing tool that
+allowed one to copy characters to new positions, and then fiddle with
+them.  However the copied characters lost the hinting that was there for
+the originals.  It is possible to put the hinting in, but it's pretty
+tedious.  Since the printed results at 300dpi and above is fine, I
+personally haven't had the oomph to do anything about the hinting.
+
+But as soon as I have some time ... (aaah ha ha ha ... crazed, maniac
+laughter ...).
+
+Dominik
+
+
+
+
+
+
+

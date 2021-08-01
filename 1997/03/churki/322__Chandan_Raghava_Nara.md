@@ -1,0 +1,31 @@
++++
+title = "322 Chandan Raghava Narayan"
+date = "1997-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007465.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007465.html)
+
+
+In Kannada, or at least our particular brand of it, the top knot is called
+ju.tu . Any true Kannada speakers can correct me....
+In my own Upanayanam, which happened twelve years ago in Chikamagaluru, I
+was spared this ritual, but endured a "symbolic" cutting of a few
+strands of hair by the village barber, phew.
+Amongst many  Iyengars, and Madhavas, the top knot is still worn, but
+differently than the "run-of-the-mill" tail at the top of the head.
+Instead, the front of the scalp is shaved and the rest of the hair is
+allowed to grow long, and then tied up. 
+If anyone can explain this in a more thorough manner, please do so...I
+would love to hear it!
+
+cheers!
+Chandan Narayan 
+
+
+
+
+
+
+
+

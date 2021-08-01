@@ -1,0 +1,22 @@
++++
+title = "387 Vidyasankar Sundaresan"
+date = "1999-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017722.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017722.html)
+
+While on the subject, may I also point out one more thing? The Hindutva
+brand of nationalism owes very little to advaita philosophy or to
+contemporary advaitins. Those who think otherwise should perhaps interview
+the Madhva, Ramanandi and Gorakhpanthi monks who are at the forefront of the
+Masjid-Mandir controversy and other VHP activities today.
+
+Vidyasankar
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

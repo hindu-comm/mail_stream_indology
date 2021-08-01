@@ -1,0 +1,61 @@
++++
+title = "265 Raven, E.M."
+date = "1999-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-January/015131.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-January/015131.html)
+
+Nobumi Iyanaga wrote:
+>
+> Hello,
+>
+> I find in A. K. Coomaraswami, Yaksa, II, pl. 8-1, a photography of "Trinity
+> of Fortune": Laksmi seated between Ganesa and Kubera (about eighth century,
+> University Museum of Philadelphia).
+>
+> M. K. Dhavalikar, "Ganesa: Myth and Reality", in Robert Brown, ed., Ganesh.
+> Studies of an Asian God, SUNY Press, 1991, p. 58-59, writes about some
+> Mathura sculptures of the same "trinity".
+>
+> Is there any other example(s) of such "trinity" in the Indian iconography?
+>
+> I also heard that there is a sculpture of sixth century (?) of Navagraha in
+> the Museum of Sarnath, in which Laksmi is flanked by Ganesa (at left) and
+> Sarasvati (at right).  I would like to know if this is true, and if there is
+> any reference on this sculpture.
+>
+> Thank you very much in advance!
+>
+> Best regards,
+>
+> Nobumi Iyanaga
+> Tokyo,
+> Japan
+
+
+Dear Nobumi Iyanaga,
+
+Dr. Gouriswar Bhattacharya has recently published an article entitled
+`The trio of prosperity : a Gupta terracotta plaque from Bangladesh' in
+South Asian Studies 12 (1996): 39-47.
+I quote the abstact with the entry on this publication in the ABIA South
+and Southeast Asian Art and Archaeology Index, an annotated bibliography
+and database, of which vol. 1 has just been published:
+
+`Presents a terracotta plaque from the Gupta period in the Bangladesh
+National Museum Dhaka with a seated Gaja-Laksmi flanked by a two-armed
+Ganesa and perhaps Kubera. Dates it to the 5th century A.D. Shows the
+iconographic development of such triads by comparisons to similar, 7th
+to 12th-century pieces from North Bengal and Rajasthan.' (ABIA Index
+1996, entry no. 138).
+
+
+Ellen Raven
+
+coordinating editor for South Asia
+ABIA Index, IIAS, Leiden
+abiaraven at rullet.leidenuniv.nl
+
+
+

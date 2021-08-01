@@ -1,0 +1,23 @@
++++
+title = "232 VANITHA.KRISHNAMURTHY"
+date = "1999-03-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016380.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016380.html)
+
+    It is quite possible that veni might be the sanskritised form
+of pennai.Nor the historical referrances to pennai rivers are in
+question. the point is it does appear to be logical to associate
+panaimarams to river banks-no poet can drool over panai-lined rivers.
+Besides, the geo-physical characters are so different as to have
+panai/pennai as a common factor!
+  There are two villages -Pennagaram and pennathur-not far from
+the river course of Thenpennai.perhaps, the origins of these
+place names can lead somewhere.
+Regards,
+
+ Krish.
+
+
+

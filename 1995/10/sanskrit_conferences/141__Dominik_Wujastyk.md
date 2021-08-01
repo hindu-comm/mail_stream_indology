@@ -1,0 +1,26 @@
++++
+title = "141 Dominik Wujastyk"
+date = "1995-10-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003393.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003393.html)
+
+KWEGMAN at vax1.miu.edu said:
+> 
+> seeking information on upcoming sanskrit conferences for 1995, 96, and 97; in
+> particular the World Sanskrit Conference or, in general, any conference whose
+> primary subject matter is sanskrit or the Vedic literature.  Your response is
+> much appreciated in advance.  Please send to:   kwegman at mum.edu
+
+The next World Sanskrit Conference is 3-9 January, 1997, Bangalore.  For
+information, contact the organizers at FAX: +91-80-3334541.
+
+Dominik Wujastyk
+
+
+
+
+
+
+

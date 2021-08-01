@@ -1,0 +1,43 @@
++++
+title = "303 John Smith"
+date = "1997-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007803.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007803.html)
+
+On Mon, 14 Apr 1997, J. Kingston Cowart wrote:
+
+> I wonder if anyone is thinking of a way to create software by which one
+> might universally apply all possible diacriticals to any existing font?
+
+I have written a program to do more-or-less this. "All possible
+diacriticals" is perhaps a bit strong, but it will place one or more
+*existing* accents on any *existing* character in a given font. Since
+high-quality lookalikes for Times, Palatino, and many other fonts are now
+available as free software (as part of the Ghostscript package), it should
+soon be posible to create and distribute legal, free fonts with any
+desired set of accented characters.
+
+> It would be a formidable undertaking--and a most welcome development. 
+
+When you get down to it, it isn't all that formidable, and I'm surprised
+it hasn't been done before. My program is still under development, but you
+may expect a beta release within weeks. I also intend to make free fonts
+available in various suitable encodings -- CSX and Norman, for example.
+This may take a little longer, as it will be necessary to prepare
+different versions for different requirements -- PC and Mac, Truetype and
+PostScript.
+
+John Smith
+
+--
+Dr J. D. Smith                *  jds10 at cam.ac.uk
+Faculty of Oriental Studies   *  Tel. 01223 335140 (Switchboard 01223 335106)
+Sidgwick Avenue               *  Fax  01223 335110
+Cambridge CB3 9DA             *  http://bombay.oriental.cam.ac.uk/index.html
+
+
+
+
+

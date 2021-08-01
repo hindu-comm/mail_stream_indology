@@ -1,0 +1,31 @@
++++
+title = "74 Bridgman at aol.com"
+date = "1996-01-25"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/003963.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/003963.html)
+
+Greetings fellow indologists,
+I have been chanting the Guru Gita for about 15 years and have always
+wondered what verse # 34 truly means...
+
+It translates:  Salutations to that Shree Guru, by whom with the collyrium
+stick of knowledge, the eyes of one who is blinded by the darkness of
+ignorance, are opened.
+
+I have always wondered what a collyrium stick is?  Is it something like the
+philosophers stone?  I have heard references to this stick in Jnaneshwars
+Gita as well.  Is there any one out there who can enlighten me in this? 
+
+Another question, does anyone know any details about the celebrations in
+Alandi this year in honor of the 700th year since Jnanadev's Mahasamadhi ?
+
+Thank you,
+
+bridgman at aol.com
+
+
+
+
+

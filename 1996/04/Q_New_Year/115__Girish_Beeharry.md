@@ -1,0 +1,49 @@
++++
+title = "115 Girish Beeharry"
+date = "1996-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-April/004739.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-April/004739.html)
+
+Hi,
+
+>I'm still not sure the indology list is the right forum for this discussion,
+>but anyway: the northern and southern courses of the sun (the ayanas) are
+>not really related to the rAs'is; they are related to the summer and winter
+>solstices, which no longer coincide with the sidereal saMkrAntis. Any
+>paNDita worth his salt surely knows this. Like the equinoctial points, the
+>solstice points are slowly regressing through the zodiac; in a few hundred
+>years, they will coincide with dhanuH- and mithuna-saMkrAntis, respectively.
+
+
+You are right, the Indology list is not really meant for this discussion.
+The ayanas are related to the raashis in the sense that the raashis 
+provide one of the axes of reference for the motions of the grahas. The 
+grahas describe curves whose trajectories are projected on the celestial 
+sphere. Therefore, as we are dealing with a motion in three dimensions, 
+we need two other axes of reference to describe completely how grahas 
+move. One of these axes is found by doing some maths on the points where, 
+say the Sun, starts the uttarAyaNa & the dakshinAyana. Therefore these two
+concepts, ayanas and rAshis, are intimately connected. The third 
+reference is trivial; as we are working on the surface of a sphere, we do 
+not have to worry about distances.
+
+The whole problem of the ayanAMsha lies in defining accurately the 
+precise set of spherical rotations that will map the sidereal system onto the
+tropical one.
+
+I am sorry if this sounds like sci.astro.research! :-) Members wishing to
+continue this interesting discussion are invited to do so privately.
+
+Bye,
+
+Girish Beeharry
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "472 Lubomir Ondracka"
+date = "2000-07-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022201.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022201.html)
+
+An annual buffalo-sacrifice takes place during DurgApUjA (on vijayadazamI)
+at several zAktapIThas in Eastern India, e.g. in Guwahati - KAmAkhyA mandir.
+
+--
+ Lubomir Ondracka
+=============================================
+ Institute of Philosophy & Religious Studies
+ Charles University
+ Namesti Jana Palacha 2
+ 116 38 Prague 1
+ Czech Republic
+---------------------------------------------
+ e-mail:   ondracka at tiger.vscht.cz
+---------------------------------------------
+ phone:    00420-2-21619356
+=============================================
+
+
+

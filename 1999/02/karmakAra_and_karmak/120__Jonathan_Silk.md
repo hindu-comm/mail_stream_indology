@@ -1,0 +1,27 @@
++++
+title = "120 Jonathan Silk"
+date = "1999-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-February/015622.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-February/015622.html)
+
+At least as far as the terms appear in stock lists in Buddhist texts
+(according to my memory -- I have no notes to hand), they *seem* to be
+distinguished from dAsa-dAsI, so perhaps the designation is not exactly
+sociologically the same, hence slave may not be the best understanding. But
+sometimes or even often such stock lists seem to try to pile as many
+possible or near synonyms as they can together, so it is hard to get a
+sense of when true distinctions lurk.
+Jonathan Silk
+
+jonathan.silk at yale.edu
+
+Dept. of Religious Studies
+320 Temple St.
+New Haven CT 06520
+
+tel. 203-432-0828
+
+
+

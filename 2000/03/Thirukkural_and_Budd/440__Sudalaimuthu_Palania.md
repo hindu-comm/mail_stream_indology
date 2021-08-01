@@ -1,0 +1,36 @@
++++
+title = "440 Sudalaimuthu Palaniappan"
+date = "2000-03-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020782.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020782.html)
+
+On    Sat, 18 Mar 2000 13:04:15 -0700, Yashwant Malaiya
+<malaiya at CS.COLOSTATE.EDU>
+wrote:
+
+<<Because of reasons I mentioned before, Thirukkural
+is the work of a Jain.>>
+
+One cannot be that certain. There is an important philosophical difference.
+It has to do with the concept indicated by the Tamil word "Uz" dealt with in
+the verses 371-380 by vaLLuvar. Dr. R. Vijayalakshmi has shown that it is not
+the equivalent of karma as found in Jainism or Buddhism. Rather, it is
+equivalent to niyati (destiny or fate) as expounded by Ajivikas. (See
+"tamizakattil AcIvakarkaL" by Dr. R. Vijayalakshmi, 1988, International
+Institute of Tamil Studies, Madras-600113)
+
+It is difficult to neatly categorize tiruvaLLuvar as an adherent of any
+particular religion.
+
+Regards
+S. Palaniappan
+
+
+
+
+Yashwant
+
+
+

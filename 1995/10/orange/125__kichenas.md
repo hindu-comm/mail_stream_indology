@@ -1,0 +1,26 @@
++++
+title = "125 kichenas"
+date = "1995-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-October/003365.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-October/003365.html)
+
+
+Further to my comment on `orange' and nArtta.nkAy,
+I'd like to mention that Webster's derives orange
+from a Dravidian origin, via Skt, Arabic, Persian, 
+Old Provencal, French, and finally, Middle English.
+I refrained from reproducing the entry due to possible
+copyright problems.
+
+
+                                Satyanad Kichenassamy
+                                School of Mathematics
+                                University of Minnesota
+                                E-mail: kichenas at math.umn.edu
+
+
+
+
+

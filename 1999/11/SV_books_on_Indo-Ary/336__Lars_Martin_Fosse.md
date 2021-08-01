@@ -1,0 +1,36 @@
++++
+title = "336 Lars Martin Fosse"
+date = "1999-11-21"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019207.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019207.html)
+
+Edwin Bryant [SMTP:ebryant at FAS.HARVARD.EDU] skrev 23. oktober 1999 23:33:
+>
+> --- and Patton, Laurie. The Indo-Aryan Controversy: Evidence and Inference
+> in Indian History.  Richmond: Curzon Press, forthcoming.
+
+Hello Edwin,
+
+just a question: How far has the process come? Laurie Patton told me that we
+would get some kind of contract in connection with this book, but so far, I
+have not received anything. BTW, the Norwegian book to which I am contributing
+on the same subject is being published these days. So scriptorial work does
+bear fruit, eventually!
+
+Best regards,
+
+Lars Martin
+
+
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone/Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+
+
+

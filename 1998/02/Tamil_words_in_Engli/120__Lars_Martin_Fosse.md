@@ -1,0 +1,64 @@
++++
+title = "120 Lars Martin Fosse"
+date = "1998-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-February/010883.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-February/010883.html)
+
+At 15:45 17.02.98 -0600, you wrote:
+>Mr. Subrahmanya wrote:
+>> As the Aryan Invasion/Migration theory chokes,sputters and dies, so will its
+>> other face, the artificial Aryan(or the PC indo-european)/Dravidian language
+>> divide die under the weight of its own contradictions and distortions.
+
+Ganesan wrote:
+
+>Even after revisionist attempts, majority of academics are confidant
+>and write that Aryans migrated into India and not the other way around.
+>That is., Aryans did not spread out from India.
+>
+>If there is no divide between Indo-Iranian languages and Dravidian
+>languages, can Tamil (for eg.,) be derived from Sanskrit?
+
+
+I am afraid Mr. Subrahmanya is dreaming a happy dream. I am reading
+Navaratna Rajaram and David Frawley's book "Vedic Aryans and the Origins of
+Civilazation" now, and if the academic quality of that book is typical of
+the revisionist scholarship, the chances of the revisionist theory in
+Western Academia are as as great as the chances of a snowball in hell. The
+best that can be said for the Rajaram/Frawley oeuvre, is that it is
+extremely entertaining. If I engineered aircraft the way Rajaram writes
+about history, planes would come crashing down like raindrops. (R. is an
+aircraft engineer, and he should have stuck to what he understands).
+
+But having said this, it seems clear that theories about the Aryan
+invasion/migration into South Asia need constant revision according to the
+latest information. Even if the basic model remains fixed, there are lots of
+details that are debatable. The somewhat misguided debate in India
+concerning these questions may have the positive effect of a) forcing
+Western academics to brush up their theories and b) show politicos and
+others in the West that the study of the distant past is not such an
+innocent matter after all. God knows, Indological debates might become
+fashionable with the educated public again, as they were a 100 years ago!
+
+And by the way: It is not possible to derive Tamil from Sanskrit. Nor is it
+possible to derive English from Finnish, or Basque from Chinese. We are
+simply dealing with different language families.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+
+Tel: +47 22 32 12 19
+Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+Mobile phone: 90 91 91 45
+
+
+

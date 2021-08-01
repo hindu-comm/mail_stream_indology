@@ -1,0 +1,29 @@
++++
+title = "190 Sergei Schmalz"
+date = "1999-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019020.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019020.html)
+
+Dear Indology members,
+please accept my respectful greetings.
+
+        A friend of mine asked me once about Sanskrit words in Mongolian language.
+I have no knowledge of Mongolian, thus I redirect his question to the rishis
+assembled in this conference.
+
+        One thing is very important: these words must be not those generally
+accepted equivalents used by Mongoilan Buddhists in their translations of
+e.g. Tibetan works, rather PURE, so to say, Sanskrit words, which came to
+Mongolian either directly from Sanskrit or via Tibetan or other languages.
+
+        Any help in this regard is very much welcome. Thanks everyone in advance.
+
+Your ever well-wisher,
+Sergei Schmalz.
+
+Institute of Indology, Johannes Gutenberg University, Mainz, Germany.
+
+
+

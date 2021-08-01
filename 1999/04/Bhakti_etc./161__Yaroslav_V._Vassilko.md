@@ -1,0 +1,39 @@
++++
+title = "161 Yaroslav V. Vassilkov"
+date = "1999-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016572.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016572.html)
+
+Many thanks to Harry Spier (I overlooked van Buitenen's note) and Mikhael
+Witzel (I have Minoru Hara's article; will you kindly check about Hacker?).
+I have found very useful information on *bhagavat* and related words in:
+
+E. Washburn Hopkins. The Epic Use of bhagavat and bhakti. JRAS, 1911, pt. 2,
+pp. 727-738 (exhaustive and especially important),
+M.Dhavamony. Love of God according to Saiva Siddhanta. Oxford, 1971 (esp. pp.
+13-14),
+The Bhagavad-Gita  with a commentary based on the original sources by
+R.C.Zaehner. Oxford Un. Press, 1969, p. 181 (the analysis of the semantics
+of bhaj- and bhakti was done for R.C.Zaehner by Fr.M Dhavamony).
+        Best regards,
+                                        Yaroslav Vassilkov
+______________________________
+
+Yaroslav V.Vassilkov, Ph.D.
+Department of South and SE Asian Studies
+Institute of Oriental Studies
+Dvortsovaya nab., 18,
+St Petersburg, 191186,
+Russia
+
+Home address: Fontanka, 2,
+kv. 617, St Petersburg,
+191187, Russia
+tel. +7 (812) 275 8179
+e-mail: yavass at YV1041.spb.edu
+        vassilkov at hotmail.com
+
+
+

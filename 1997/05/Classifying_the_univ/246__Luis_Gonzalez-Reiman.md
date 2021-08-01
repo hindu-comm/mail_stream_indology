@@ -1,0 +1,68 @@
++++
+title = "246 Luis Gonzalez-Reimann"
+date = "1997-05-24"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-May/008234.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-May/008234.html)
+
+At 11:17 PM 5/23/97 BST, Lars Martin Fosse wrote:
+>Dear netters!
+>
+>I am looking for reviews of Brian K. Smith's book "Classifying the
+>Universe", but I have been unable to locate any so far. Any suggestions?
+
+
+Here goes,
+
+Luis
+
+Search request: F TW CLASSIFYING THE UNIVERSE
+Search result:  6 citations in the CC article database
+
+1. Kak, S.
+     Classifying the universe: The ancient Indian varna system and the origins
+   of caste, by B.K. Smith.
+     CONTRIBUTIONS TO INDIAN SOCIOLOGY, 1996 JUL-DEC, V30 N2:333-334.
+     Pub type:  Book Review.
+
+
+2. Hatcher, BA.
+     Classifying the universe: The ancient Indian Varna system and the origins
+   of caste, by B.K. Smith.
+     JOURNAL OF THE AMERICAN ACADEMY OF RELIGION, 1996 WINTER, V64 N4:863-866.
+     Pub type:  Book Review.
+
+
+3. Smith, FM.
+     Classifying the universe: The ancient Indian Varna system and the origins
+   of caste, by B.K. Smith.
+     JOURNAL OF THE AMERICAN ORIENTAL SOCIETY, 1996 APR-JUN, V116 N2:344-346.
+     Pub type:  Book Review.
+
+
+4. ZYSK KG.
+     CLASSIFYING THE UNIVERSE - THE ANCIENT INDIAN VARNA SYSTEM AND THE ORIGINS
+   OF CASTE - SMITH,BK.
+     JOURNAL OF ASIAN STUDIES, 1996 AUG, V55 N3:770-771.
+     Pub type:  Book Review.
+
+
+5. HERTEL BR.
+     CLASSIFYING THE UNIVERSE - THE ANCIENT INDIAN VARNA SYSTEM AND THE ORIGINS
+   OF CASTE - SMITH,BK.
+     JOURNAL FOR THE SCIENTIFIC STUDY OF RELIGION, 1995 JUN, V34 N2:283-284.
+     Pub type:  Book Review.
+
+
+6. SMITH BK.
+     CLASSIFYING THE UNIVERSE - ANCIENT INDIAN COSMOGONIES AND THE VARNA
+   SYSTEM.
+     CONTRIBUTIONS TO INDIAN SOCIOLOGY, 1989 JUL-DEC, V23 N2:241-260.
+
+
+
+
+
+
+

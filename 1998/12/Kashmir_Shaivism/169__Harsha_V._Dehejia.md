@@ -1,0 +1,28 @@
++++
+title = "169 Harsha V. Dehejia"
+date = "1998-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014489.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014489.html)
+
+Dear Indologists:
+
+This is in response to Prof. Ganesan's recent querry about Kashmir Shaivism.
+
+There are many features about this sytem of philosophy which makes it appealing to moderns and that includes those in the West.
+
+While reatining its Idealist (spiritual) stance it maintains a joyous and life affirming position as opposled to Shankara's Advaita Vedanta. The prototypical experience it advocates is an aesthetic experience and thereby includes art objects, both sacred and secular, as objects of contemplation.
+
+The icon it celebrates most is the ardhanarisvara and regards Nataraja as a form of ardhanarisvara as well. The Nataraja sports a female earring (kundala) in his left ear and this is the only give away of its female aspect.
+
+Prof. Harsha V. Dehejia
+256, Elgin Street, Ottawa, ON
+Canada. K2P 1L9.
+Telephone 613-233-3103
+Facsimile   613-829-2560 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/19981205/5c1ee422/attachment.htm>

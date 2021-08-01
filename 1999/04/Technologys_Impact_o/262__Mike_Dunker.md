@@ -1,0 +1,34 @@
++++
+title = "262 Mike Dunker"
+date = "1999-04-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016664.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016664.html)
+
+Dear Indology List Members:
+
+I am doing graduate work in Sanskrit at the University of Iowa. I'm also
+involved in a research project investigating the impact of technology on
+South Asian linguistics. Any experience you could share on the impact of
+electronic media, computers, networks, the Internet or any other digital
+technology on your work or the discipline in general, would be very
+appreciated.
+
+Examples of appropriate areas would be: lexicography, OCR, the use of
+electronic texts in research, hypertext in research or teaching,
+collaborative writing over networks, and the use of multimedia in pedagogy;
+but information on other related areas would be welcomed, as would any
+references you have to others who have accomplished things in the field.
+
+
+I can be contacted at either of the following:
+mdunker at blue.weeg.uiowa.edu
+dunkerm at physiology.uiowa.edu
+
+Thank you very much.
+
+Michael Dunker
+
+
+

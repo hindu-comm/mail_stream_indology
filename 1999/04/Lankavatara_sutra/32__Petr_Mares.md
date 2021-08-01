@@ -1,0 +1,27 @@
++++
+title = "32 Petr Mares"
+date = "1999-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016456.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016456.html)
+
+> I think we are getting close to the place of origin of
+ >Lankavatara Sutra.
+
+Dear Sir
+
+I really do not know what you mean
+
+Of course Nan2 would refer to the South. It has no other common meaning in Chinese. And Nan2 Tian1Zhu2 in medieval times when India was called Tian1Zhu2 certainly refered to that place - but how that relates to origin of LaGkAvatAra was my question.
+
+In any case you are citing the text that speaks about period when laGkAvatAra sUtra already existed three or four hundred years even in translations what it has to do with its origin?
+
+
+Petr Mares, Lengqie Research
+Hlavacova 1163,  Prague 8, PSC 182 00, Czech Republic
+Fax:420-2-2423-9157, Tel: 420-2-2422-9755
+email: lengqie at gmx.net
+
+
+

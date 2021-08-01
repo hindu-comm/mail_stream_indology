@@ -1,0 +1,23 @@
++++
+title = "353 Madhav Deshpande"
+date = "1999-09-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018558.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018558.html)
+
+Another feature I have noticed in the execution of this particular sandhi
+in its Paninian/commentarial usage is that the doubling of the final
+dental n is followed more consistently, e.g. san+anta > sannanta.
+However, the final .n and G (velar nasal) are not seen doubled, e.g. iko
+ya.n aci and not iko ya.n.n aci in the reading of the Astadhyayi, and
+tiG+anta > tiGanta and not tiGGant, except in the reading of P.8.1.28
+(tiGG atiGaH).  But again the expressions like tiGanta and yaGanta are
+more commonplace.  Within this irregularity, the doubling of the final n
+is more or less regular.  Perhaps this has to do with the frequencies with
+which these consonants occur in the word-final position in normal
+Sanskrit.  Sorry about the mixed notation above.
+                                        Madhav Deshpande
+
+
+

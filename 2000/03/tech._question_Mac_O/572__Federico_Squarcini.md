@@ -1,0 +1,24 @@
++++
+title = "572 Federico Squarcini"
+date = "2000-03-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020901.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020901.html)
+
+Dear members,
+I hope the following can be of some help.
+It seems from my works on Mac (since System 6.5 until 9.0.4), that this
+problem stand with Microsoft Word, mainly between the key of Word 5.1 and
+the ones of Word 98. This last version use by default some of the key for
+some of his functions (that you can manage from the Word 98 menu "option")
+that in the previous version were free and so used by the previous creators
+of "alternative" keyboards layout.
+So, what to do now: or you can deal with the menu "option" of Word 98 and
+get free those key combinations that you need to tape the sanskrit fonts,
+or try to find a new keyboard layout made on the new setting of Word 98.
+That's my view,
+Federico Squarcini
+
+
+

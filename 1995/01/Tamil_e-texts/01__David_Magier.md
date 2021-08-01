@@ -1,0 +1,18 @@
++++
+title = "01 David Magier"
+date = "1995-01-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-January/001716.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-January/001716.html)
+
+Regarding Prof. Malten's announcement of the KWIC Concordances of
+Classical Tamil Texts: these can be found on The South Asia Gopher
+under the ELECTRONIC TEXTS menu. (Please contact me if you have
+questions about accessing or using the SAG).   David Magier
+                                               magier at columbia.edu
+
+
+
+
+

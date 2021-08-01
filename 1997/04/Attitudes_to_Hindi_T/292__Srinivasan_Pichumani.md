@@ -1,0 +1,36 @@
++++
+title = "292 Srinivasan Pichumani"
+date = "1997-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-April/007786.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-April/007786.html)
+
+
+	Sounds like the Hindi-speaking states at least pretend to 
+	study a third language, while we great and glorious Tamils 
+	have dropped even the pretence of studying any language 
+	other than Tamil and Hindi.  Which one sounds more fanatical ?
+			     ^^^^^
+			     English ?
+
+Pretension is just swell, eh ?
+
+	I think more people in the world would study Tamil if we 
+	Tamilians would achieve something remarkable.  Many people 
+	are now learning Japanese and Korean.  It's because of those 
+	peoples' achievements.  Not because of their boasting, quarreling,
+  								^^^^^^^^^^
+	and being just plain unpleasant.  You can't even sell a Big Mac by being 
+	confrontational.  Much less convince people to study your culture.
+
+Its' interesting that you get most quarrelsome and pontificating
+whenever someone brings up this issue... earlier, it was Robert
+Zydenbos and others discussing the very real marginalization of
+other Indian languages.
+
+-Srini.
+
+
+
+

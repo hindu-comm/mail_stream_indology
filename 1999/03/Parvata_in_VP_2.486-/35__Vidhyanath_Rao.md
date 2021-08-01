@@ -1,0 +1,32 @@
++++
+title = "35 Vidhyanath Rao"
+date = "1999-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016157.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016157.html)
+
+>mAM mOdakais[mA+udakaiH] tADaya.  etc.
+
+This is a bum rap. This is what really happened.
+
+The king, unlike the queen, was actually well versed in Paninean
+Sanskrit. He intended to point out, in a jovial way, that the queen
+should have said ``maa modakena tiitaDaH.'' However the joke went over
+the heads of the queen and many of the courtiers who spoke the Pali
+influenced Sanskrit of Buddhists and their fellow travelers. Then the
+king decided to learn this new-fangled Sanskrit so that he could
+converse with them on their terms (he was quite pragmatic) and studied
+Kaatantra. This explains how he could do this in six months. He had to
+learn just the new bits.
+
+This story got distorted over time, especially among those who didn't
+understand that the queen's Sanskrit was faulty. But the true story was
+preserved in the Potiyil tradition --- the king's original Sanskrit
+teacher came from there --- and has come down (karNaparampara) to some
+pandits of the area. In fact I learned the true story from one of them.
+
+-Nath
+
+
+

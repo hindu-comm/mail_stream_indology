@@ -1,0 +1,46 @@
++++
+title = "358 Gary J Hausman"
+date = "1997-03-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-March/007516.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-March/007516.html)
+
+With reference to "Twilight Language,' if you check out one of Ganesan's
+references  - T.N. Ganapathy's _The Philosophy of the Tamil Siddhas_ - you
+will find an entire chapter on this topic: Chapter 7 entitled 'The
+Twilight Language of the Tamil Siddhas.' Actually, this was originally an
+article by Ganapathy, and he constructed his book around it.
+
+			Gary
+
+On Mon, 31 Mar 1997, George Thompson wrote:
+
+> I'm pretty sure that the source of Waldman's remarks is Eliade's "Yoga:
+> Immortality and Freedom", since it refers briefly to sandhyA-bhASA [in the
+> Kyoto-Harvard transcription system], and since all of the Beats were
+> reading Eliade [besides the book on yoga, there was a lot of interest in
+> his book on Shamanism].
+> 
+> You might check out the now classic study of S. Das Gupta [upon which
+> Eliade depended greatly], "Obscure Religious Cults" [3rd edit., 1969], who
+> by the way suggests that the alternation between sandhA- [i.e.,
+> "intentional" language] and sandhyA- [i.e., "twilight" language; cf.
+> "sandhi"] is not due to scribal error but to intentional double-sense.
+> 
+> There is a lot of more recent literature on this, which specialists might
+> want to recommend, but these two books seem to me to have the best chance
+> of being the ones that Waldman, Kerouac, et al., were familiar with.
+> 
+> Best wishes
+> George Thompson
+> 
+> 
+> 
+> 
+> 
+
+
+
+
+

@@ -1,0 +1,40 @@
++++
+title = "143 Stephen"
+date = "1998-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014475.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014475.html)
+
+>Samar Abbas wrote:
+>
+>>   You have questioned the relevance of my repost of Ved Acharya's
+article.
+>> Ved Acharya's views are NOW BEING TAUGHT IN INDIAN SCHOOLS. Yes,
+>> - "Homer and Shakespeare copied Sanskrit classics" is now taught in UP
+>>    schools, and forms part of the syllabus
+>> - "Germans and Anglo-Saxons are emigrants from the Indus Valley." is also
+>>    taught to kids.
+>> - "Out-of-Africa is wrong, the Aryans evolved in India" is also taught.
+>> - "Dravidian and Indo-European languages are derived from Sanskrit" are
+>>    also taught.
+>>
+>>   These were recently introduced into the syllabi of UP schools, and an
+>> attempt is being made to introduce these teachings into all Indian
+>> textbooks.
+
+What kind of evidence are the above based on? This seems to be another kind
+of baseless theory? If this is being taught in Indian schools, the students
+are the losers. Two wrongs do not make a right.
+
+Veering off topic, in most videos on evolution (of course these are backed
+by years of research and renowned scientists) out of Africa the early man is
+always dark with no sharp features (i.e., more negroid)  whereas the modern
+man is fair, tall, sharp featured (i.e., more caucasian). To me these
+programs seem to be spreading a subtle message that negroid=less evolved.
+Has anyone noticed this? Does it bother you?
+
+Sujatha Stephen
+
+
+

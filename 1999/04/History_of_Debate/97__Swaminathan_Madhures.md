@@ -1,0 +1,27 @@
++++
+title = "97 Swaminathan Madhuresan"
+date = "1999-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016574.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016574.html)
+
+Given that even the Great Goddess, benign and peaceful,
+has not established Herself in 3-4th centuries A.D.
+within the Sanskrit orthodoxy and the Rise of the Goddess
+in the Hindu tradition manifests fully only after
+few centuries, a `devotee of Kali' is an intersting name.
+In Tamil literature, hundreds of works by non-brahmins are available
+praising varnashrama system. May be a lip service to suit
+the All India pattern. Praising varnashrama alone does not
+point to brahminship, I guess.
+
+SM
+
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+
+
+

@@ -1,0 +1,69 @@
++++
+title = "294 Narayan S. Raja"
+date = "1998-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/1998-December/014601.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1998-December/014601.html)
+
+On Tue, 15 Dec 1998, N. Ganesan wrote:
+
+>   Compare 'Siva and Avalokitezvara: Both have
+>   nrttezvara, nIlakantha, hAlahAla forms.
+
+I have not made a special study of this,
+so I'm relying on daily experience.
+
+I have seen hundreds of images/pictures of
+Avalokitesvara/Kuan Yin/Kwanseum Posal/Kannon.
+I can assure you that
+"nrttezvara, nIlakantha, hAlahAla forms"
+are rare (in fact, I don't remember a
+single one).  I don't doubt that they
+exist.  But they are untypical.  You
+will have to search hard for them.
+
+There is a famous picture of Mao in his
+sixties, swimming across the Yangtze river
+in winter.  This is an untypical aspect of
+Mao.  On the basis of this untypical aspect
+of Mao, we cannot conclude that he is closely
+related to the "baiji" or Yangtze river dolphin.
+  :-)  :-)  No offence, can't resist.   :-)
+
+
+>   Both sport 20 common weapons.
+
+Many Indian, esp. Tantric, deities do.
+Why, my own 11-year old nephew... well,
+let me leave it at that.
+
+
+> Both teach
+>   grammar to Panini and Agastya.
+
+This is a really interesting link, one
+that I din't know about.  Thank you.
+Would like to know more...
+
+
+> Both are drishti gurus.
+
+Pardon my ignorance, but what's that?
+Is it an astrological term?
+
+
+> Both have siva-sakthi, maNi-padma unions, ....
+
+Many Tantric deities do.  Why, I myself...
+well, let's stop here.
+
+
+Best regards.  No offence intended by
+the silly jokes.
+
+
+Raja.
+
+
+

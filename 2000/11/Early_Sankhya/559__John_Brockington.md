@@ -1,0 +1,26 @@
++++
+title = "559 John Brockington"
+date = "2000-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/024073.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/024073.html)
+
+Try the issue 53.3 (1999) of Asiatische Studien / Etudes Asiatiques, which contains the
+papers presented at an International Conference on Samkhya, held in Lausanne in November
+1998; several of the papers dealt with early Samkhya and will also give you further
+bibliographical references.
+
+John Brockington
+
+Professor J. L. Brockington
+Sanskrit, School of Asian Studies
+University of Edinburgh
+7-8 Buccleuch Place
+Edinburgh   EH8 9LW     U.K.
+
+tel: +131 650 4174
+fax: +131 651 1258
+
+
+

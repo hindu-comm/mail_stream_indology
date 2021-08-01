@@ -1,0 +1,52 @@
++++
+title = "433 Narayan Sriranga Raja"
+date = "2000-10-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023327.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023327.html)
+
+My apologies.  That was only to grab your attention.
+No whines here.
+
+Instead of speculating about the wretched state of
+Science/Engineering education in India, let's look
+at some unbiased rankings:
+
+Every year, "Asiaweek" (a member of the "Time"
+family of magazines) publishes a ranking of
+"Asia's Best Science and Technology Schools".
+
+Please take a look at the Year 2000 rankings at:
+
+http://www.cnn.com/ASIANOW/asiaweek/features/universities2000/scitech/sci.overall.html
+
+
+A total of 39 Science/Technology Institutes from
+all over Asia (including Australia and Japan)
+are ranked.  Of these, eight (the largest number
+from any single country) are from India.
+Five of the top eight schools are from India.
+
+Even Japan (which, nobody can deny, produces
+excellent engineers) has only five schools on
+the list.
+
+But can one really rely on magazine articles
+to make sweeping judgements about contries?
+Well, at least some of us can.  This is for
+their benefit.
+
+Regards,
+
+
+Narayan Sriranga Raja.
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

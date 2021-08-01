@@ -1,0 +1,32 @@
++++
+title = "141 Jan Filipsky"
+date = "1996-03-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-March/004462.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-March/004462.html)
+
+CALL FOR PAPERS
+Dear Netters,
+I am commissioned to edit a special thematic volume of the Indo-British
+Journal - A Journal of History, published by the Indo-British Historical 
+Society in Madras, with the (provisional) working title "Reconstructing 
+South Indian History" and I call upon all scholars interested in South 
+Indian (Dravidian) studies, be it political or social history, linguistics,
+literary history or history of religion, to contribute. I would like the
+original research papers to concentrate on lesser known, even obscure 
+aspects of SI history, which have something relevant to say about the topic 
+at hand, viz. to contribute towards reconstructing the history (both early 
+and modern) of Andhrapradesh, Karnataka, Tamil Nadu and Kerala. I would 
+appreciate any contributions and suggestions. The papers not exceeding 20 
+pages should reach me not later than by July 31, preferably by e-mail, or 
+by s-mail on a floppy disc in a PC compatible format (Word Perfect, MS Word 
+and the like). I am afraid we do not go in for Mac too much down here! 
+Looking forward to your response, I remain, sincerely Yours, Jan Filipsky
+
+Jan Filipsky, Oriental Institute, Pod vodarenskou vezi 4,
+182 08 Praha 8
+
+
+
+

@@ -1,0 +1,35 @@
++++
+title = "20 Muneo TOKUNAGA"
+date = "1997-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1997-December/010053.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1997-December/010053.html)
+
+(Please allow me once only to use Indology for personal
+communication.)
+
+Dear Prof. Bh.Krishnamurti,
+
+You complain that you do not get a reply from
+Japan. Something is wrong about the connection between India
+and Japan. I have sent my mail repeatedly, but every time it
+has been rejected.
+
+I am trying to find the e-mail address of Kodama-kun.
+Please be patient a little more.
+
+It was very nice to hear from you anyway.
+
+With best regards,
+
+                         ===============================================
+                                         Muneo TOKUNAGA
+                                 Professor of Indian Philosophy
+                           Graduate School of Letters, Kyoto University
+                             Kyoto, Japan (606-01). Tel. 075-753-2778
+                             email: g53772 at sakura.kudpc.kyoto-u.ac.jp
+                         ===============================================
+
+
+

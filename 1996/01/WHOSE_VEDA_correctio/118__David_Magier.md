@@ -1,0 +1,34 @@
++++
+title = "118 David Magier"
+date = "1996-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/1996-January/004008.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1996-January/004008.html)
+
+The organizers of the symposium entitled "WHOSE VEDA?" (February 16-18
+at University of Florida, Gainesville), which was announced to your
+listserv yesterday, have asked me to forward the following correction
+of a typo. Please contact event organizers directly for further
+information.  David Magier, South Asia Gopher
+
+===========================
+CORRECTION: the contact information for Professor Vasudha Narayanan
+(the organizer of the Symposium entitled "WHOSE VEDA?") was listed
+incorrectly due to a typo in the earlier announcement. Professor
+Narayanan's correct contact information (including the proper email
+addresses) is as follows:
+
+        Professor Vasudha Narayanan
+        Dept. of Religion
+        University of Florida
+        Gainesville, Flordia  USA
+
+        ph: 904-392-1625
+        email: vasu at clas.ufl.edu
+        or     vasu at religion.ufl.edu
+
+
+
+
+

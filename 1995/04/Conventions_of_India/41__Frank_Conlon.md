@@ -1,0 +1,37 @@
++++
+title = "41 Frank Conlon"
+date = "1995-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-April/002299.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-April/002299.html)
+
+
+Friends:
+
+I am attempting to recapture something which I once learned, but have 
+managed to forget concerning systems of dating in India.  I think I 
+recall that in the definition of months, in north India and south India 
+(roughly) there was a difference as to whether the month began with the 
+bright (shukla) half or the dark (krishna) half.
+
+Would some of you be so kind as to refresh my memory as to whether
+
+(1) I am correct in my recollection?
+(2) Which region has shukla or krishna first?
+(3) Can we identify a sort of calendrical frontier where practice changes?
+(4) Does this really mean that if we use a date of shukla 10th of one 
+month that in another part of India that day would be recorded as krishna 
+of the adjacent month?
+
+My own perspective on time as my seniority grows is being reduced to one 
+principle--"the farther south you go, the later it gets."
+
+Thanks
+
+Frank Conlon
+
+
+
+
+

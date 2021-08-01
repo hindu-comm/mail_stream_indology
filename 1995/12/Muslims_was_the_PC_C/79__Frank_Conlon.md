@@ -1,0 +1,36 @@
++++
+title = "79 Frank Conlon"
+date = "1995-12-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-December/003793.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-December/003793.html)
+
+
+It is sometimes observed that America has no real problem with race 
+because of individuals in high places, such as General Colin Powell.
+
+Colleague J. B. Sharma responds to my comment by noting that India has 
+its share of Muslims in high places.  I am sorry to say I think that 
+misses the point, and very much like many white Americans, suggests that 
+Indians who happen to be Muslim should be damn grateful.  
+
+Sharma's shift to invoke "permanent population displacements" is a rather
+transparent rhetorical device to renew the assault upon the undifferentiated
+identity called "Muslim" and to invoke the undifferentiated identity 
+"Hindu" as a having a special claim to status of victim.
+
+Gary Tartakov's post (just received) strikes me as an eloquent and 
+adequate comment on this.
+
+Perhaps it is again time to return the list to the blood sports of indologists 
+vs. comparative religionists, the PC-wallahs vs. the Mac-wallahs,...
+
+
+Frank Conlon
+
+
+
+
+
+

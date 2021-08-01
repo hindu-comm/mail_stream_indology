@@ -1,0 +1,22 @@
++++
+title = "398 Rajesh Kochhar"
+date = "2000-10-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023280.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023280.html)
+
+Steve Farmer's assertion  (18 October) that the pseudo-indological endeavours of U S -based Indian engineers might be due to their defective education back home raises some pertinent questions:
+
+(1) If the fault lies with the education, then the class-fellows of the U S-based engineers who have remained back in India should also show similar traits. Is this the case?
+
+(2) If we look at engineer graduates from England, Scotland ,France and Germany,is the cultural spread among them of the same order of magnitude as the spread in their education system?
+
+(3) What are the factors that may in principle go into making a cultural man? Can one say that all factors other than technical education  are irrelevant or immaterial?
+
+(4) What role does geographical displacement from one's natural  habitat play in shaping the cultural perception of an individual or a group?
+
+rajesh kochhar
+
+
+

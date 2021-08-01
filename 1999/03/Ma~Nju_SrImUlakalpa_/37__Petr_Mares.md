@@ -1,0 +1,33 @@
++++
+title = "37 Petr Mares"
+date = "1999-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-March/016164.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-March/016164.html)
+
+correction:
+K. P.  Jayaswal also says that Ma~Nju/SrImUlakalpa seems to
+have been written from one pen and it did not grow from generation
+to generation - and as it discusses the pAla period of 750A.D. it is
+propably much older and not related to la.NkAvatAra (not to the
+la.NkAvatAra's early layers at least) neither to South India as I
+hoped.
+
+I made a typo:
+
+I meant that Ma~Nju/SrImUlakalpa is of course much younger (not
+older) than the la.NkAvatAra's early layers as  early version of
+la.NkAvatAra has been translated already in the early 5th cent. to
+Chinese.
+Petr Mares
+Lengqie Research
+Hlavacova 1163
+182 00, Prague 8
+Czech Republic
+Fax:420-2-2423-9157
+Tel: 420-2-2422-9755
+email: lengqie at gmx.net
+
+
+

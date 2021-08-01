@@ -1,0 +1,45 @@
++++
+title = "391 Yaroslav V. Vassilkov"
+date = "1999-05-22"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-May/017124.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-May/017124.html)
+
+>> Varna (`colour') is `race' or `caste', meaning skin colour.
+>> Jati is `professional guild'.
+
+>I respectfully disagree. While 'varNa' does mean 'social caste',
+>and literally also means color, it does *not* mean skin color,
+>nor does it mean race. Or at least, it doesn't unequivocally mean
+>so.  Translating (or even footnoting) as such would be misleading.
+
+
+I agree with Mr.Varadarajan. 'VarNa' never meant 'skin colour'
+or 'race' - such interpretation seems to be a survival of XIX century
+racist or "colonial" ideas. "VarNa' is a 'social class' or 'estate' and
+its link with 'varNa' - 'colour' is very special: not the 'skin colour'
+was meant, but rather the symbolic hierarchy of colours, as they were
+connected with occupations and psychological characteristics of respective
+social groups. Priesthood - the varNa of Brahmans - was associated with
+the white colour which symbolized ritual purity, holiness; red colour -
+associated with the KSatriyas - is psychologically linked with anger and blood
+I can not be sure about the meaning of the Vaizyas' yellow varNa (colour
+of the field?), but the black colour as marking ZUdras is perfectly clear:
+it is the colour
+of dirty and hard work, ritual pollution, spiritual 'darkness'. These 'colour
+characteristics' of the social strata are probably universal, or at least
+common for the peoples speaking Indo-European languages (Iranians and Celts
+give us the closest parallels). Later this hierarchy of 'social colours'
+was correlated by the Indian thinkers with the *guNa* system (brAhmana -
+white - sattva; kSatriya - red - rajas; vaizya - yellow - mixture of the two;
+zUdra - black - tamas).
+        By the way, in the old, traditional Russia the nobility was designated
+by the metaphoric expression "white bone", and the peasantry - as 'black bone',
+with no racial shades of meaning, of course, both expressions being motivated
+by the notions of 'clean - unclean' and psychological characteristics.
+        Best regards,
+                                        Yaroslav Vassilkov
+
+
+

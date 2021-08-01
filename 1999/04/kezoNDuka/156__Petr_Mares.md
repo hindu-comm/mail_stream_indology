@@ -1,0 +1,36 @@
++++
+title = "156 Petr Mares"
+date = "1999-04-13"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016549.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016549.html)
+
+Dear coleagues
+
+Doe anybody know what experience exactly term:
+"kezoNDuka"
+describes.
+Boehtlingk says: "ringförmige lichterscheinungen vor  geschlossenen augen"
+i.e. "circular optical phenomena before closed eyes"
+
+Monier says:: "m. a sling  or knot of hair, suzr.; net-like apparitions seen while the eyes are shut, aitAr".
+
+Edgerton's Buddhist Hybrid Sanskrit Dict. cites Boehtlingk without even translating it to English and criticizes Suzuki's rendering "hair-net"
+
+Chinese either translate it as chiu2fa4 which is probably misunderstanding or mao2lun2 which is literal but does not tell me about the experience I can relate it to.
+Can anybody tell me where this term came from or what phenomena it is in detail?
+
+Thank You
+
+Sincerely
+
+Petr Mares
+
+Petr Mares, Lengqie Research
+Hlavacova 1163,  Prague 8, PSC 182 00, Czech Republic
+Fax:420-2-2423-9157, Tel: 420-2-2422-9755
+email: lengqie at gmx.net
+
+
+

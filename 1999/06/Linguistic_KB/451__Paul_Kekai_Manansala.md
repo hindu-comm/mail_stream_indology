@@ -1,0 +1,43 @@
++++
+title = "451 Paul Kekai Manansala"
+date = "1999-06-23"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017833.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017833.html)
+
+Raoul Martens wrote:
+>
+
+> 4. As often reported in the media mitochondrial DNA indicates that the
+> whole world population descends from not very distant African ancestors.
+>
+
+MtDNA and Y chromosome data both agree that modern humans descend from
+populations established from about 100,000 to 150,000 years ago:
+
+Hammer MF, Karafet T, Rasanayagam A, Wood ET, Altheide TK, Jenkins T,
+Griffiths RC, Templeton AR, Zegura S "Out of Africa and back again:
+nested cladistic analysis of human Y chromosome variation." _Mol Biol
+Evol_ 1998 Apr;15(4):427-41
+
+ Jorde LB, et al. " Using mitochondrial and nuclear DNA markers to
+reconstruct human evolution." _Bioessays_. 1998 Feb;20(2):126-36.
+Review.
+
+> In view hereof and as the Cro-Magnons are commonly held to have had the
+> ability of speach 40.000 BC no (re)constructed 'proto-language' apply-
+> ing to 4000 BC appears to reflect the 'homeland' of any
+> languagegroup.
+
+Even Neaderthals may have had speech ability.  The developed hyoid bone
+occurs very far back in human history:
+
+ Lieberman P. "Silver-tongued Neandertals?" _Science_. 1999 Jan
+8;283(5399):175.
+
+Regards,
+Paul Kekai Manansala
+
+
+

@@ -1,0 +1,23 @@
++++
+title = "46 Kalyans at aol.com"
+date = "1995-06-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1995-June/002588.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1995-June/002588.html)
+
+Lest there be any misapprehensions on my intent, let me state this
+emphatically: I have the greatest regard for the accumulated treasure of
+scholarship and to all the scholars who have contributed to the advancement
+of an understanding of our past linguistic and cultural heritage. One of the
+greatest achievements of scholarship during the last two hundred years is the
+decipherment of the Rigveda and enormous insights into Munda family of
+languages. My interests are indus script and civilization, comparative
+linguistics of south asia and soma-alchemy studies. I do not intend to, nor
+do I have the competence to,  enter into polemics on other politicized
+topics. S. Kalyanaraman
+
+
+
+
+

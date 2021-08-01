@@ -1,0 +1,36 @@
++++
+title = "406 S Krishna"
+date = "1999-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019287.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019287.html)
+
+Shourie, I thought was from Lakshmi..in Punjab and/or UP, it is not
+unocommon to see names of Gods/Rsis became family names -Krishna, Vashishth,
+Bharadwaj etc are examples..
+
+Krishna
+
+
+>Dear listers,
+>
+>How is the last name Shourie as in Arun Shourie explained from
+>Punjabi? Is it related to Kuru country?, k & sh are interchangeable
+>in Vedic and Tamil (s/sh written in ta. as 'c')? Is it connected with
+>kulUTa, ulUTa, kuli(/u)dhara in Vedas? How is panchAla toponym
+>and pancha-jana in RV explained? In tamil, ko.lu = plough share,
+>u_lu = "to plough", u_lavar = farmer, ... (These words of farming
+>are several orders of magnitude important in CT than nAJcil).
+>
+>Regards,
+>N. Ganesan, PhD
+>
+>______________________________________________________
+>Get Your Private, Free Email at http://www.hotmail.com
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

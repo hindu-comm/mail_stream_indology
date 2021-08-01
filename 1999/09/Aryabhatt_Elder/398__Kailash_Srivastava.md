@@ -1,0 +1,40 @@
++++
+title = "398 Kailash Srivastava"
+date = "1999-09-28"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018608.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018608.html)
+
+Let me introduce myself.
+
+My name is Kailash Srivastava and I come from India. I live in Sweden and
+work for a multinational company. By profession, I am a research engineer
+and have a PhD degree in electrical engineering.
+
+I have recently got interested in reading about ancient India's achievements
+with respect to science and technology. I usually get some questions which I
+can not answere. Usually, news groups like soc.cultre.indian etc. do not
+appear to be a serious place for my questions. I am not sure if this is
+right place for me but I am sure there are people knowledgeble enough to
+answer my stupid questions.
+
+My first question is on Aryabhatt (elder).
+
+I read in "India's Contribution to World Culture" that AryaBhatt was the
+first to propound heliocentric theory of gravitation much before Copernicus.
+However, I do not find such reference anywhere else including MS-Encarta. He
+also gave various mathematical formulas that too do not find a place
+anywhere.
+
+What are the possible reasons for this?
+
+This is all for time being.
+
+Thanx/Kailash
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+
