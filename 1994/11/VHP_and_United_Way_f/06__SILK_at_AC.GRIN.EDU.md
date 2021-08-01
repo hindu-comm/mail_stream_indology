@@ -1,0 +1,54 @@
++++
+title = "06 SILK at AC.GRIN.EDU"
+date = "1994-11-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1994-November/001522.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1994-November/001522.html)
+
+        I agree strongly with Peter  Claus's recent posting, and most
+especially his comment that:
+
+> Given the history of the
+>discipline, many members of the LIST, I suspect, are ... concerned
+>with the collective damage silent association with conservative
+>groups can do to the discipline...
+
+        I think we might go farther, and say that as scholars and therefore
+-- at least in theory! -- potentially voices of authority in our local
+communities and in the world community, there are many areas in which we
+must, as responsible members of society, speak out.  I would modify Claus's
+statement, however, and suggest that it is not only association with (some)
+conservative groups that might be problematic, but with various groups of
+all sorts of stripes and colors.
+        Not to be extreme, but if we are honest we must, I think, recall
+the stands taken by many Indologists in Hitler's Europe, and in post-war
+Germany, Austria, etc. -- and recall this with shame if not with outright
+anger and indignation.  (I hasten to add that I do NOT mean to claim that
+the VHP should be compared to the Nazi party or any such thing; I am
+entirely ignorant of the nature of the VHP, its stands, history, etc.  My
+point has only to do with the necessity of scholars informing themselves
+and, once informed, taking public and visible stands on issues of concern
+not only to us as scholars who -- concentrating our lives on classical
+India -- to some extent live in a distant past , but also as individuals
+who live very much in the present and will (we hope) live in a future -- a
+future that it is up to us to shape.
+        I am sorry if this sounds too much like a civics lecture or a
+sermon, but I cannot fathom how it should be possible for us, as putative
+specialists in the culture and civilization of India, to say "it is none of
+our business."
+
+(By the same token, as my posting of earlier today suggested, I hope we
+also do not forget that we are here *also* for the purposes of scholarly
+exchange, which has been sorely lacking of late.)
+
+
+Jonathan Silk
+SILK at AC.GRIN.EDU
+
+
+
+
+
+
+
