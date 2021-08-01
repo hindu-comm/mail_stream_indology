@@ -1,0 +1,63 @@
++++
+title = "18 onians at GOOGLEMAIL.COM"
+date = "2009-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-July/033406.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-July/033406.html)
+
+In response to enquiries about the destiny of CSL printed volumes:
+
+Yes, the books are still very much on sale from NYUP and their 
+affiliates (http://www.claysanskritlibrary.org/order.php), as will be 
+the 9 volumes (including 2 reprints) to appear this summer 
+(http://www.claysanskritlibrary.org/volumes.php?show=12).
+
+
+
+>All--
+>
+>How terribly unfortunate for Indologists and general readers alike!  These
+>volumes are so useful.  I had planned to order one as a course-text for a
+>class I'm teaching in the fall, so I hope it's still available.  Will the
+>press continue to print and sell the final 56 volumes indefinitely?
+>
+>Tracy Coleman
+>Colorado College
+>
+>
+>-----Original Message-----
+>From: Indology on behalf of isabelle onians
+>Sent: Fri 7/3/2009 5:11 AM
+>To: INDOLOGY at liverpool.ac.uk
+>Subject: Re: Aditya Behl on the Clay Sanskrit Library
+>
+>Dear Colleagues,
+>
+>The TLS review of the CSL is available on the press page of our CSL
+>website:
+>http://www.claysanskritlibrary.org/press.php.
+>
+>Aditya Behl's piece (
+>http://www.claysanskritlibrary.org/press/CSL_TLSReview_200906.php) does
+>not
+>actually say that the series is being discontinued because of poor sales,
+>although one can see how that inference might have been drawn from his
+>adjacent mention of the quarrel between Lakshmi and Sarasvati.
+>
+>The series has indeed now been closed down, as of June 30 just gone,
+>although we are still sending a last clutch of new titles to press to
+>appear
+>on bookshelves in September (
+>http://www.claysanskritlibrary.org/volumes.php?show=12).
+>
+>The final list will comprise 56 volumes:
+>http://www.claysanskritlibrary.org/volumes_current.php.
+>
+>Yours truly,
+>
+>Isabelle
+>(Onians)
+
+
+

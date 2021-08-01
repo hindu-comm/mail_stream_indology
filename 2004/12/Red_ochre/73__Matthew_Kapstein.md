@@ -1,0 +1,25 @@
++++
+title = "73 Matthew Kapstein"
+date = "2004-12-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028890.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028890.html)
+
+Red ochre and other red mineral substances, especially
+cinnabar or vermilion, have played an important cultic
+role in many societies, frequently in connection with
+rites of the dead. For some aspects of the question
+in early medieval Tibet, with reference also to selected
+Chinese data, one may refer to my *The Tibetan Assimilation
+of Buddhism,* ch.3, "The Mark of Vermilion."
+
+Perhaps an additional point of comparison, pertinent in the
+present context, is the later medieval ritual use of sinduura powder
+in India -- in Buddhist tantric contexts it is a substance
+particularly consecrated to the .daakinii.
+
+Matthew Kapstein
+
+
+

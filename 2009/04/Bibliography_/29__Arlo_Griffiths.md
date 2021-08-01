@@ -1,0 +1,116 @@
++++
+title = "29 Arlo Griffiths"
+date = "2009-04-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/032919.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/032919.html)
+
+Sorry, I hope I am not duplicating any information if I point out that a look at the online South and Southeast Asian Art & Archaeology Index (ABIA) might be useful too: . There are also the two derived book publications mentioned on that site, which will be available in Delhi at the IGNCA at least.
+Arlo GriffithsEFEO / Jakarta
+
+
+----------------------------------------
+> Date: Tue, 7 Apr 2009 21:13:23 +0530
+> From: mnstorm at MAC.COM
+> Subject: Re: Bibliography ?
+> To: INDOLOGY at liverpool.ac.uk
+>
+> Yes! That would be splendid.
+>
+>
+> Mary Storm, Ph.D.
+> Academic Director
+> North India Arts and Culture
+> and
+> Himalayan Buddhist Art and Architecture
+> SIT Study Abroad
+> School for International Training
+> www.sit.edu
+>
+> Mobile +91 98106 98003
+> F-301 Lado Sarai
+> 2nd Fl
+> New Delhi 110030 India
+>
+> On 07-Apr-09, at 8:41 PM, jkirk wrote:
+>
+>>
+>> What I had in mind wasn't their old bibliography, but suggestions
+>> of recent sources.
+>> Cheers, JK
+>> --------------
+>>
+>> I think I am ACSAA lapsed... I should rejoin. I know ACSAA had a
+>> bibliography YEARS ago (the late 70's!), I am looking for
+>> something recent...
+>>
+>> Thanks!
+>> Mary
+>>
+>>
+>> Mary Storm, Ph.D.
+>> Academic Director
+>> North India Arts and Culture
+>> and
+>> Himalayan Buddhist Art and Architecture
+>> SIT Study Abroad
+>> School for International Training
+>> www.sit.edu
+>>
+>> Mobile +91 98106 98003
+>> F-301 Lado Sarai
+>> 2nd Fl
+>> New Delhi 110030 India
+>>
+>> On 07-Apr-09, at 6:45 PM, jkirk wrote:
+>>
+>>> Dear Mary Strong
+>>>
+>>> If you are not a member of ACSAA, want me to post your query on
+>> their
+>>> list? I usually get results from posting qeuries there.
+>>>
+>>> Cheers, Joanna Kirkpatrick
+>>> www.artsricksha.com
+>>>
+>>>
+>>>
+>>> -----Original Message-----
+>>> From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of
+>> Mary
+>>> Storm
+>>> Sent: Tuesday, April 07, 2009 2:31 AM
+>>> To: INDOLOGY at liverpool.ac.uk
+>>> Subject: Bibliography ?
+>>>
+>>> Dear Indologists,
+>>>
+>>> Is anyone familiar with an updated bibliography on Indian art
+>> history/
+>>> archaeology?
+>>>
+>>> Thank you so much for your help!
+>>>
+>>> Mary Storm
+>>>
+>>>
+>>> Mary Storm, Ph.D.
+>>> Academic Director
+>>> North India Arts and Culture
+>>> and
+>>> Himalayan Buddhist Art and Architecture SIT Study Abroad School
+>> for
+>>> International Training www.sit.edu
+>>>
+>>> Mobile +91 98106 98003
+>>> F-301 Lado Sarai
+>>> 2nd Fl
+>>> New Delhi 110030 India
+
+_________________________________________________________________
+Express yourself instantly with MSN Messenger! Download today it's FREE!
+http://messenger.msn.click-url.com/go/onm00200471ave/direct/01/
+
+
+

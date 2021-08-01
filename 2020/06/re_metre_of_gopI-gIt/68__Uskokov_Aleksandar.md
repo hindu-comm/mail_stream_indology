@@ -1,0 +1,222 @@
++++
+title = "68 Uskokov, Aleksandar"
+date = "2020-06-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-June/052771.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-June/052771.html)
+
+Thank you, yes, I see your point.
+
+Best wishes
+Aleksandar
+
+
+Aleksandar Uskokov
+
+Lector in Sanskrit
+
+South Asian Studies Council, Yale University
+
+203-432-1972 | aleksandar.uskokov at yale.edu
+
+________________________________
+From: Nagaraj Paturi <nagarajpaturi at gmail.com>
+Sent: Friday, June 12, 2020 9:38 AM
+To: Uskokov, Aleksandar <aleksandar.uskokov at yale.edu>
+Cc: Harry Spier <vasishtha.spier at gmail.com>; indology at list.indology.info <indology at list.indology.info>
+Subject: Re: [INDOLOGY] Metre of gopī-gītam
+
+A training to sing meters in this pattern as bhajan can be found here where Upadesa Saram by Ramana Maharshi is being sung with the title, "Learn to Chant Upadesa Saram"
+
+https://www.sriramanamaharshi.org/resource_centre/learn-to-chant-upadesa-saram/<https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sriramanamaharshi.org%2Fresource_centre%2Flearn-to-chant-upadesa-saram%2F&data=02%7C01%7Caleksandar.uskokov%40yale.edu%7Cc1460f5848cb4508ccba08d80ed5eea7%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637275659281118069&sdata=u2pLFJ3WHS7%2F0c3SIRKkJdC80PIToPGWLl%2FYIm5duh0%3D&reserved=0>
+
+The same style is applicable to Gopee Geetam too.
+
+Upadesa Saaram has no consistent gurulagu pattern. But the pattern of maatraa gaNas is uniform. 8 + 8 which comes under chaturasra gati Taala-wise.
+
+Kanakamanjaree, Vainasam , Nirasikaa --all have the same 8 + 8  chaturasra gati rhythm.
+
+On Fri, Jun 12, 2020 at 6:40 PM Nagaraj Paturi <nagarajpaturi at gmail.com<mailto:nagarajpaturi at gmail.com>> wrote:
+PFA Renukaa Geetam by Sri Kaavyakantha Vaasishtha Ganapati Muni
+
+The only consistency is the singing style. Meters are all variegated.
+
+On Fri, Jun 12, 2020 at 5:54 PM Nagaraj Paturi <nagarajpaturi at gmail.com<mailto:nagarajpaturi at gmail.com>> wrote:
+Yes. There are musical renderings. But the instrumental music and the raagas may make this point get overlooked.
+
+https://youtu.be/QzifRy_CPtw<https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FQzifRy_CPtw&data=02%7C01%7Caleksandar.uskokov%40yale.edu%7Cc1460f5848cb4508ccba08d80ed5eea7%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637275659281128064&sdata=nhPEdMFCNVP9NY%2FFZAJejORCHg1xKPOOSlnfe0vTEo4%3D&reserved=0>
+
+If necessary , I will send my rendering to make the point clear.
+
+On Fri, Jun 12, 2020 at 5:43 PM Uskokov, Aleksandar <aleksandar.uskokov at yale.edu<mailto:aleksandar.uskokov at yale.edu>> wrote:
+Very interesting. Are there recordings to share?
+
+Get Outlook for iOS<https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fo0ukef&data=02%7C01%7Caleksandar.uskokov%40yale.edu%7Cc1460f5848cb4508ccba08d80ed5eea7%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637275659281128064&sdata=Shkyoyp1R1wpHRCRxjogNlg%2BNPWEvJhm2e9sBf43dnY%3D&reserved=0>
+________________________________
+From: Nagaraj Paturi <nagarajpaturi at gmail.com<mailto:nagarajpaturi at gmail.com>>
+Sent: Friday, June 12, 2020 8:06:56 AM
+To: Harry Spier <vasishtha.spier at gmail.com<mailto:vasishtha.spier at gmail.com>>
+Cc: Uskokov, Aleksandar <aleksandar.uskokov at yale.edu<mailto:aleksandar.uskokov at yale.edu>>; indology at list.indology.info<mailto:indology at list.indology.info> <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: Re: [INDOLOGY] Metre of gopī-gītam
+
+The pattern here is
+
+III UIU UIU IU
+
+If you change the first two laghus into a guru , it turns into
+
+UI UIU UIU IU
+
+which can also be written as
+
+UIU IU UIU IU
+
+There is a repetition of  UIU IU
+
+or there are two symmetrical halves  UIU IU and  UIU IU
+
+UIU IU UIU IU is वैनसम्‌
+
+We can say that by replacing the initial guru of  वैनसम्‌  with two laghus , we get कनकमंजरी .  This makes  वैनसम्‌  and कनकमंजरी have the same singing pattern.
+First UIU IU  in आरोहण ascending tone and second UIU IU in अवरोहण descending tone. / नानना नना - नानना नना  \
+
+In  कनकमंजरी,  III UIU UIU IU is the same as  IIIU IU UIU IU and the singing is IIIU IU   in आरोहण ascending tone and  UIU IU in अवरोहण descending tone.
+ / ननन नानना  - नानना नना  \  or  / नननना नना  - नानना नना  \
+
+-------------------------------------------------------------------------------------------------------------------------
+We have many such pairs.
+
+शार्दूलविक्रीडितम्‌ changes into  मत्तेभविक्रीडितम्‌ by replacing the initial guru of  शार्दूलविक्रीडितम्‌   with two laghus , we get मत्तेभविक्रीडितम्‌ . That is the reason why viraamasthaana shifts one number from  शार्दूलविक्रीडितम्‌ to  मत्तेभविक्रीडितम् .  Reason is the singing style and singing pattern.
+
+That is the reason why in Telugu Satakams , they consider  inclusion of शार्दूलविक्रीडितम्‌ and  मत्तेभविक्रीडितम् both in the same s'atakam as no violation of uniformity of meter. Reason is the uniformity in singing style and singing pattern.
+
+Same with उत्पलमाला and चंपकमाला in Telugu. Replacing the initial guru of  उत्पलमाला with two laghus changes it into  चंपकमाला . Here too, viraamasthaana of champakamaalaa is one number higher than that of utpalamaalaa.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+That is the reason Gopee geetam is called geetam.
+
+On Fri, Jun 12, 2020 at 9:26 AM Harry Spier via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+Thank you Aleksandar.  I've also been informed offlist that this meter  but with the names  Rājahaṃsī and Vibhūṣaṇā is in the  three volume 1959 edition published in Pune by Prasad Prakashan, with editors P. K. Gode and C. G. Karve. . I was looking in Apte's 1890 edition where it didn't appear.  Apparently the modern editors expanded  the metrical section.
+Regards,
+Harry Spier
+
+On Thu, Jun 11, 2020 at 11:21 PM Uskokov, Aleksandar <aleksandar.uskokov at yale.edu<mailto:aleksandar.uskokov at yale.edu>> wrote:
+Dear Harry,
+
+Vaṁśīdhara in his comment on the first verse writes: kanakamañjarī naś ca rau lagau iti sūtrāt. The definition scans right, so to his mind the meter is Kanakamañjarī. I don’t know which sūtra he has in mind.
+
+Best wishes,
+Aleksandar
+
+
+
+Aleksandar Uskokov
+
+Lector in Sanskrit
+
+South Asian Studies Council, Yale University
+
+203-432-1972 | aleksandar.uskokov at yale.edu<mailto:aleksandar.uskokov at yale.edu>
+
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of Harry Spier via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
+Sent: Thursday, June 11, 2020 10:05 PM
+To: indology at list.indology.info<mailto:indology at list.indology.info> <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: [INDOLOGY] Metre of gopī-gītam
+
+Dear list members,
+
+Can anyone identify the meter of the gopī-gītam (Bhāgavata X, chapter 31).
+See this link: https://iskcondesiretree.com/page/gopi-gita<https://nam05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fiskcondesiretree.com%2Fpage%2Fgopi-gita&data=02%7C01%7Caleksandar.uskokov%40yale.edu%7Cc1460f5848cb4508ccba08d80ed5eea7%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637275659281128064&sdata=CLBrhl%2FBarHQgMeEGwqXsOe7n4b0IXLRTO8CazIdbgk%3D&reserved=0>
+
+It is 11 syllable's per line but as far as I can see it is different from the 11 syllable metres in Apte's dictionaries appendix.
+Thanks,
+Harry Spier
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<https://nam05.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&data=02%7C01%7Caleksandar.uskokov%40yale.edu%7Cc1460f5848cb4508ccba08d80ed5eea7%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637275659281138057&sdata=lPZj1Sw9SkaM8xJ9w3RYrA%2FAtUZEYg6afsI9OFCLays%3D&reserved=0> (where you can change your list options or unsubscribe)
+
+
+--
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+Director,  Inter-Gurukula-University Centre , Indic Academy
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+BoS Veda Vijnana Gurukula, Bengaluru.
+Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+Former Senior Professor of Cultural Studies,
+FLAME School of Communication and FLAME School of  Liberal Education,
+Hyderabad, Telangana, INDIA.
+
+
+
+
+
+--
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+Director,  Inter-Gurukula-University Centre , Indic Academy
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+BoS Veda Vijnana Gurukula, Bengaluru.
+Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+Former Senior Professor of Cultural Studies,
+FLAME School of Communication and FLAME School of  Liberal Education,
+Hyderabad, Telangana, INDIA.
+
+
+
+
+
+--
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+Director,  Inter-Gurukula-University Centre , Indic Academy
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+BoS Veda Vijnana Gurukula, Bengaluru.
+Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+Former Senior Professor of Cultural Studies,
+FLAME School of Communication and FLAME School of  Liberal Education,
+Hyderabad, Telangana, INDIA.
+
+
+
+
+
+--
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+Director,  Inter-Gurukula-University Centre , Indic Academy
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+BoS Veda Vijnana Gurukula, Bengaluru.
+Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+Former Senior Professor of Cultural Studies,
+FLAME School of Communication and FLAME School of  Liberal Education,
+Hyderabad, Telangana, INDIA.
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200612/58ab75ac/attachment.htm>

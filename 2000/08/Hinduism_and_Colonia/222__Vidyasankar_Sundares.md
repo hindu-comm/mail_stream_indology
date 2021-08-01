@@ -1,0 +1,44 @@
++++
+title = "222 Vidyasankar Sundaresan"
+date = "2000-08-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022444.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022444.html)
+
+>Tamil data do not agree with this. Not only some forms of
+>democracy and ballot casting were prevalent (uttaramErUr, etc.,).
+
+Maybe so, but was Athenian democracy in 200 BCE similar to
+British or American democracy 22 centuries later? And were
+these ballot-casting traditions around when the Cola empire
+was expanding overseas?
+
+>Many CT poems are highly egalitarian, and the authors - both
+>men and women, were drawn from all castes. Valluvar in his kuRaL
+>declares, "in birth, all are equal". Prof. T.P.M. wrote a
+>book on CilappatikAram with the title, "kuTimakkaL kAppiyam"
+
+Well, there are people who read socialism and/or communism
+into the philosophical stance that everything is the one
+Brahman, from the god brahmA to a blade of grass. But was
+that the intention of the original texts and authors?
+
+>('kAvya of the people'). Early Tamil bhakti poetry, at the
+>fountainhead of a mass cult that swept all across India,
+>was egalitarian in intent. It too drew inspiration and poets
+>from all the castes. After some centuries, Ramanujar made a
+>bold attempt to mitigate the caste effects through democratization.
+
+That again is the stuff of myth, of which there is plenty,
+from all over India, and about different people at different
+times. To read democratization in the modern sense into these
+stories is still revisionistic, wouldn't you say?
+
+Vidyasankar
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

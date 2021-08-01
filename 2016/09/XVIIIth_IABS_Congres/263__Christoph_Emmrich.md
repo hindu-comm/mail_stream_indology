@@ -1,0 +1,1111 @@
++++
+title = "263 Christoph Emmrich"
+date = "2016-09-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044031.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044031.html)
+
+Dear Colleagues,
+
+
+This is a quick and brief reminder meant for all those who may like to be reminded of the date and who are still considering to present at the XVIIIth IABS Congress in Toronto, August 20-25, 2017. The deadline for individual paper submissions is October 1, 2016, and hence not too far away. For context, I am recirculating the Second Circular: please find it pasted below.
+
+
+Looking forward to hearing from you, with warm regards,
+Christoph Emmrich
+
+
+----
+
+XVIIIth Congress of the International Association of Buddhist Studies (IABS): Second Circular
+
+
+Dear Colleagues, Dear Friends:
+
+
+Preparations are well underway for the XVIIIth Congress of the International Association of Buddhist Studies (IABS), which takes place at the University of Toronto, August 20th to the 25th, 2017. On behalf of the IABS, my university, and the conference’s Planning Committee, I kindly send you this Second Circular to share the panels that will be presented, to invite individual papers for the panels and sections here proposed, and to encourage all IABS members and supporters to attend the Congress in Toronto.
+
+
+General Information
+
+This Congress is a unique opportunity for Buddhist Studies scholars from around the world to convene and celebrate the excellence of our field. As Chair of the Planning Committee, I enthusiastically encourage you to circulate this Second Circular to colleagues, students, on message boards, electronic forums and on social media. This Second Circular is sent to all current IABS members, those who have filled out the electronic ‘Mailing List’ request form on the website, and to those who wrote me directly. We strive to convene as inclusive a Congress as possible, and welcome the attendance of a diverse range of scholars, students and supporters.
+
+
+I would once again kindly remind everyone that they must be a fully paid member of IABS for the year 2017 in order to attend the event, deliver a paper, or sit on a panel in Toronto. To be a member of the association in 2017, those wishing to participate in the Congress will need to pay their IABS dues by December 31, 2016. All participants will also need to pay a Congress registration fee used to help us cover the cost of hosting the event, stipulated below. IABS membership can be secured through the online form at the IABS website: www.iabsinfo.net<http://www.iabsinfo.net>. Kindly keep in mind that on registration, to complete the process aspiring participants will be required to provide proof of payment of their IABS dues for 2017. Initial enquiries about eligibility should be sent to the association’s Secretary General, Dr. Ulrich Pagel (up1 at soas.ac.uk<mailto:up1 at soas.ac.uk>).
+
+Submission of panel proposals for the Congress has already closed, and I, along with the Planning Committee, would like to generously thank all those who took time to submit their panel proposals. Given the high volume of submissions—an IABS record—not every panel was accepted, though all were of superior quality and testify to the wide-ranging excellence of our field.
+
+
+Submission of individual paper abstracts for both panels and sections (each of which is outlined below) opens May 15th, 2016, and closes October 1st, 2016. Please note that individual paper abstracts cannot be accepted after October 1st, 2016, so be sure to take note of the deadline.
+
+
+Congress registration opens October 1st, 2016, and closes just prior to the start of the proceedings, August 18th, 2017. Registration any time between these dates is permitted. Please see below for further details on how to register, as well as to the amenities covered by the fee.
+
+
+Though our field spans a myriad of linguistic regions and our members represent the most diverse language backgrounds, it is IABS policy that official Congress proceedings, including papers and presentations, be conducted in an English-language medium.
+
+
+As all future communication will be distributed via email, I encourage those who wish to attend or stay abreast of Congress news to fill out the electronic “Mailing List” request form found at our website: http://www.iabs2017-uoft.ca/contact/. Please write to me, Christoph Emmrich, directly, if you have any questions or concerns about future communication. My address is found at the bottom of this circular under ‘Correspondent,’ or at the above website address.
+
+
+Academic Program
+
+In following with past Congresses, the proceedings in Toronto will consist of both panel presentations and paper sections. Panels have been proposed by their respective convenors, and will consist of no more than six papers, each 20 minutes in length, each followed by a 10 minute discussion period. All told, panels will last half a day, including a coffee and tea break after the first three papers. The organizers and I will strive to ensure that papers in each panel begin and end in unison to allow participants to attend select papers from multiple panels.
+
+
+Sections, in contrast, have been chosen in accordance with past Congresses and are to be compiled from individual paper submissions. They will follow the same format as panels in terms of time and duration: 20 minutes for delivery and 10 minutes of question and answer period immediately following each paper. Please be advised that in the event an insufficient number of qualified entries are made to a given section, the Planning Committee and I reserve the right to decide to cancel the said section and reassign the papers accepted to another, thematically equivalent section as well as the time slot to another section with a surplus of submissions.
+
+
+Individual Paper Proposals
+
+I cordially invite scholars, students, and independent researchers from across the spectrum of Buddhist Studies to submit abstracts for individual papers, starting May 15th, 2016. Paper abstracts should be no more than 500 words, and preferably in both word and PDF format. In order to contribute a paper to an individual section, please upload abstracts to the Congress website at http://www.iabs2017-uoft.ca/, indicating which section the abstract will address. Please limit your selection to one section. The list of sections is found below. It has been chosen with the aim of being both representative of the traditional profile of the Congress and as inclusive as possible. Some submissions might fit under several section headers, though only one presentation per participant is permitted.
+
+
+Indeed, to ensure a smooth and balanced program that allows for maximum participation, attendees are limited to act in only one official capacity at the Congress: this limit extends to presenting a paper, convening a panel, or acting as designated discussant. If one has any questions pertaining to this limit, please contact me directly at the correspondence address listed below.
+
+
+The following are the sections proposed for the XVIIIth IABS Congress:
+
+
+Āgama and Nikāya Studies
+
+Abhidharma Studies
+
+Buddhism and Gender
+
+Buddhism and Its Relation to Other Religions
+
+Buddhism and Its Relation to Science
+
+Buddhism and Society
+
+Buddhism and the Śramaṇas
+
+Buddhist Art and Architecture
+
+Buddhist Hermeneutics, Scholasticism, and Commentarial Techniques
+
+Buddhist Literature
+
+Buddhist Music
+
+Buddhist Places
+
+Buddhist Sciences
+
+Contemporary Buddhism
+
+Early Buddhism
+
+Epigraphy, Manuscripts, and Codicology
+
+Epistemology and Logic in Buddhism
+
+Information Technologies in Buddhist Studies
+
+Mahāyāna Buddhism
+
+Mahāyāna Sūtras
+
+Śrāvakayāna Buddhism, incl. Theravāda
+
+Tantric Buddhism
+
+The Canonical Languages of Buddhism
+
+Vinaya Studies
+
+
+
+Panels, unlike sections, are organized by their respective convenor(s), who are responsible for their academic standard, thematic cohesion, and timely submission. Should you wish to contribute a paper towards the conference that in your eyes may fit one of the announced panels, you should contact the convenor(s) directly through the email addresses provided below, before submitting a paper proposal to one of the sections. All decisions regarding acceptance of paper proposals are made by the convenor(s). Once panels have been filled, their convenor(s) can close the panels and direct further submissions to paper sections instead. We welcome convenors to also present on their respective panels (this being the only exception to the one-capacity rule stated above), but also request them to ensure that no more than six papers constitute any one panel and to remind their panelists that they may not commit to joining other panels. Convenors should email a complete package of paper abstracts directly to me no later than October 1st, 2016.
+
+
+Below is a list of accepted panels for the XVIIIth IABS Congress in Toronto:
+
+Title
+
+
+Convenor(s)
+
+
+Email(s)
+
+
+A New Study of Ratnākaraṡānti’s Prajñāpāramitopadeśa
+
+
+Katsura, Shoryu
+
+Hong, Luo
+
+
+shoryukatsura at nifty.com
+
+
+
+Approaches to the Bodhicaryāvatāra
+
+
+Gold, Jonathan C.
+
+
+jcgold at princeton.edu
+
+
+Bell Inscriptions Across the Buddhist World
+
+
+Doney, Lewis
+
+Bretfeld, Sven
+
+
+doney.lewis at gmail.com
+
+sven.bretfeld at ntnu.no
+
+
+Brahmin Buddhists
+
+
+Walser, Joseph
+
+
+joseph.walser at tufts.edu
+
+
+Buddhism from the Margins: Using Manuscript Sources to Re-examine the Rituals and Routines of Medieval and Early Modern Buddhist Communities in Japan, Korea, and China
+
+
+Keyworth, George A.
+
+
+george.keyworth at gmail.com
+
+
+Buddhism in the Sātavāhana Empire: The Languages of the Sātavāhanas and the Languages of Buddhism
+
+
+Ollett, Andrew
+
+
+andrew.ollett at gmail.com
+
+
+Buddhist Conceptions of History
+
+
+Thompson, Luke
+
+
+lnt2106 at columbia.edu
+
+
+Buddhist Cosmology and Astral Science
+
+
+Mak, Bill M.
+
+
+bill.m.mak at gmail.com
+
+
+Buddhist Landscapes Made and Remade
+
+
+Carbine, Jason A.
+
+
+jcarbine at whittier.edu
+
+
+Buddhist Studies and the Scientific Study of Meditation
+
+
+Braun, Erik
+
+McMahan, David
+
+
+ecb2j at eservices.virginia.edu
+
+david.mcmahan at fandm.edu
+
+
+Buddhist Tourism: Sacred Sites within Global Networks
+
+
+Bruntz, Courtney
+
+Schedneck, Brooke
+
+
+bruntzc at oregonstate.edu
+
+brooke at iseaa.org
+
+
+Buddhist Ways of Reading
+
+
+Heim, Maria
+
+Gummer, Natalie
+
+
+mrheim at amherst.edu
+
+gummern at beloit.edu
+
+
+Concepts and Techniques of Prognostication
+
+
+Guggenmos, Esther-Maria
+
+Scheuermann, Rolf
+
+
+rolf.scheuermann at fau.de
+
+esther-maria.guggenmos at fau.de
+
+
+Conventional Reality, Conventional Truth
+
+
+McClintock, Sara
+
+
+slmccli at emory.edu
+
+
+Deeds of a Buddha
+
+
+Tournier, Vincent
+
+Luczanits, Christian
+
+Sernesi, Marta
+
+
+vt6 at soas.ac.uk
+
+cl46 at soas.ac.uk
+
+ms153 at soas.ac.uk
+
+
+Dhāraṇī Literature and Textual Cultures
+
+
+Davidson, Ronald M.
+
+
+rdavidson at fairfield.edu
+
+
+Discipline, Agency, Inquiry: Vinaya Reception in Women’s Monastic Communities Past and Present
+
+
+Langenberg, Amy Paris
+
+
+langenap at eckerd.edu
+
+
+Does Candrakīrti Offer Any Epistemology (pramāṇa)?
+
+
+Westerhoff, Jan
+
+Thakchoe, Sonam
+
+
+jan.westerhoff at theology.ox.ac.uk
+
+sonam.thakchoe at utas.edu.au
+
+
+Early Buddhist Manuscripts from Gandhāra: New Discoveries and Research
+
+
+Baums, Stefan
+
+Strauch, Ingo
+
+
+baums at lmu.de
+
+ingo.strauch at unil.ch
+
+
+Images and Practices of Buddhist Kingship across Asia
+
+
+Berkwitz, Stephen
+
+Dotson, Brandon
+
+
+sberkwitz at missouristate.edu
+
+dotson.brandon at gmail.com
+
+
+Insights into Gandhāran Buddhist Narratives through Art and Texts
+
+
+Neelis, Jason
+
+
+jneelis at wlu.ca
+
+
+Literatures of Contemplation
+
+
+Quintman, Andrew
+
+Schaeffer, Kurtis
+
+
+andrew.quintman at yale.edu
+
+ks6bb at virginia.edu
+
+
+Monastic Espionage in East Asia: Medieval Period
+
+
+Chen, Jinhua
+
+
+jinhuachen2013 at gmail.com
+
+
+Monastic Espionage in East Asia in the Age of Isolationism, 14th to 19th Century
+
+
+Bingenheimer, Marcus
+
+
+m.bingenheimer at gmail.com
+
+
+Monastic Espionage in East Asia: Modern Period
+
+
+Brose, Benjamin
+
+
+bbrose at umich.edu
+
+
+New Approaches to Wŏnhyo and His Thought – A Panel in Commemoration of the  1400th Anniversary of His Birth
+
+
+Cho, Eun-su
+
+Buswell, Robert
+
+
+cho.eunsu at gmail.com
+
+buswell at humnet.ucla.edu
+
+
+New Research on Newar Buddhism
+
+
+Bühnemann, Gudrun
+
+
+gbuhnema at wisc.edu
+
+
+New Trajectories in the Study of Buddhism and Law
+
+
+Lammerts, D. Christian
+
+Schonthal, Ben
+
+
+dcl96 at rci.rutgers.edu
+
+ben.schonthal at otago.ac.nz
+
+
+Recent Approaches in Vinaya Studies
+
+
+Borgland, Jens W.
+
+
+jwborgland at gmail.com
+
+
+Recent Research on the Dīrghāgama
+
+
+Melzer, Gudrun
+
+Choi, Jinkyoung
+
+
+g.melzer at lmu.de
+
+precioussunshine at gmail.com
+
+
+Reconstructing the History of Late Indian Buddhism (Part III)
+
+Relationship between Tantric and Non-tantric Doctrines
+
+
+Kyuma, Taiken
+
+
+kyuma at human.mie-u.ac.jp
+
+
+Ritual, Doctrine, and Monasticism: Buddhist Practices in Dunhuang
+
+
+Liu, Cuilan
+
+Chen, Huaiyu
+
+
+cuilanliu at post.harvard.edu
+
+huaiyu.chen at asu.edu
+
+
+Stories Behind the Story: Revisiting the Buddha’s Hagiography
+
+
+Sasson, Vanessa
+
+
+v.sasson at marianopolis.edu
+
+
+The Avadānaśataka: The Uses of Narrative
+
+
+Appleton, Naomi
+
+Muldoon-Hules, Karen
+
+
+naomi.appleton at ed.ac.uk
+
+kmuldoon at unex.ucla.edu
+
+
+The Buddha’s Footprint in Asian Cultures
+
+
+Handlin, Lilian
+
+
+lilioscar at aol.com
+
+
+The Manuscript Tradition of the Pāli Texts in South and Southeast Asia
+
+
+Yamanaka, Yukio
+
+
+yukio916 at icloud.com
+
+
+The Roles of Iconic Imagery in South Asian Buddhist Architectural Contexts: Reconstructions and New Perspectives
+
+
+Morrissey, Nicolas
+
+
+nmorriss at uga.edu
+
+
+Transmission and Transformation of Buddhist Logic and Epistemology in East Asia (I): Around Dignāga’s Logic and Fallacies of Debate
+
+
+Ono, Mitoi
+
+Inami, Masahiro
+
+
+ono at logos.tsukuba.ac.jp
+
+
+Transmission and Transformation of Buddhist Logic and Epistemology in East Asia (II): Around Yogācāra and Madhyamaka Texts in Chinese Translations
+
+
+Moriyama, Shinya
+
+Moro, Shigeki
+
+
+smoriyam at shinshu-u.ac.jp
+
+
+Transparent, Translucent, or Opaque: Chinese Translations of Indic Texts as Windows onto Indian Buddhism
+
+
+Witkowski, Nicholas
+
+
+nwitkows at alumni.stanford.edu
+
+
+Travel, Transmission, and Affiliation: Lineage in the Buddhist Crossroads of Inner Asia
+
+
+King, Matthew W.
+
+
+matthew.king at ucr.edu
+
+
+Vinaya Commentaries
+
+
+Clarke, Shayne
+
+
+clarsha at mcmaster.ca
+
+
+What Makes a Monastery a Great Monastery? Textual, Art Historical, and Archaeological Evidence from India to [the Borders of] China
+
+
+Forte, Erika
+
+
+erika.forte at univie.ac.at
+
+
+Yogācāra Across Asia: India, Tibet, and East Asia
+
+
+Yao, Zhihua
+
+Bayer, Achim
+
+
+zyao at cuhk.edu.hk
+
+bayer_achim at yahoo.com
+
+
+Zones of Contact: Facets of Buddhist Interactions in Eastern Central Asia During the 9th-14th Centuries
+
+
+Meinert, Carmen
+
+
+carmen.meinert at rub.de
+
+
+
+
+Conference Schedule
+
+Date
+
+
+Morning
+
+
+Afternoon
+
+
+Evening
+
+
+Sunday, August 20, 2017
+
+
+Registration
+
+
+Registration
+
+
+Opening Reception
+
+
+Monday, August 21, 2017
+
+
+Panels and Sections
+
+
+Panels and Sections
+
+
+Evening Presentations
+
+
+Tuesday, August 22, 2017
+
+
+Panels and Sections
+
+
+Panels and Sections
+
+
+Evening Presentations
+
+
+Wednesday, August 23, 2017
+
+
+Panels and Sections
+
+
+Panels and Sections
+
+
+Evening Presentations
+
+
+Thursday, August 24, 2017
+
+
+Panels and Sections
+
+
+Excursions
+
+
+
+
+Friday, August 25, 2017
+
+
+Panels and Sections
+
+
+Panels and Sections
+
+
+Closing Reception
+
+
+
+Registration Fee
+
+
+To assist the organizers in hosting the event, we have set the Congress fee at $330 CAD. This fee includes attendance, coffee, tea and hot lunch during the academic programming, meals at both the Opening and Closing Receptions, as well as printing costs for paper programs. Not included in this fee are meals outside of the academic program and Opening and Closing Receptions, such as breakfasts and dinners, as well as travel, accommodation, excursions, and special events.
+
+
+Those registering before March 31st, 2017 will enjoy a discounted fee of $300 CAD, while graduate students are entitled to a rate of $250 CAD with confirmation of enrollment status. Students from countries with low currency exchange rates when compared to the Canadian Dollar may request a fee reduction by writing to me directly at the address provided below. Decisions on fee reduction will be made on a case-by-case basis, and I regret that only a limited number of such reductions can be granted.
+
+
+Fee payment will be made online through our website, where, as mentioned above, you will be expected to provide proof of payment of your IABS membership fee for 2017. Please visit the website on October 1st, 2016 to complete your online Congress registration.
+
+
+Posters and Exhibits
+
+
+In addition to panels and paper sections, we welcome the submission of project presentations from scholars and organizations who wish to display their work to the Congress at large. We regret that only a limited number of presentations can be selected. Please write to me directly to inquire about presenting your project at the XVIIIth IABS Congress.
+
+
+Exhibitors providing professional services or products such as books are also invited to contact me directly to inquire about renting space during the Congress proceedings.
+
+
+Visa Requirements
+
+
+As the Congress will attract scholars and students from all over the world, it is not possible for the organising team to advise or assist with securing visas to Canada, since the process varies widely depending on the country of origin of each attendee. Potential attendees are encouraged to consult the Canadian Embassy or Consulate in their home country or country of residence as early as possible. Travel agencies are also possible sources of information on the visa process. We can, however, provide letters indicating that an individual is in fact registered to attend or present at the Congress. Please write to me directly if you wish to request such a letter.
+
+
+Airline
+
+
+I wish to gently remind everyone that Congress attendees are responsible for covering all travel to and from Toronto. Currently we are trying to secure a discounted rate for travel by air, and updated information will appear on the website once registration begins, October 1st, 2016. Please check the website after this date for update travel information.
+
+
+Accommodation
+
+Congress participants are responsible to secure their own accommodation and pay all attendant costs. Below is a list of accommodations near the University of Toronto, St. George Campus, some of which have granted discounted rates to Congress attendees. When booking, please inform them of your attendance at the XVIIIth Congress of the International Association of Buddhist Studies, 2017. A range of options has been provided to suit the different needs of our Congress attendees. Please be advised that the University is located in downtown Toronto, and August is one of the busiest times of the year, so kindly book early if possible.
+
+
+
+Budget
+
+
+Single Occupancy
+
+
+Double Occupancy
+
+
+Admiral St. George: BB and Guesthouse
+
+305 St. George St. / 416-921-1899
+
+
+$50/Student
+
+$95/1 Bedroom
+
+$125/Big room
+
+
+
+
+Annex Quest House
+
+83 Spadina Road / 416-922-1934
+
+
+$95/night
+
+$545/week
+
+
+
+
+Medium
+
+
+
+
+
+
+Howard Johnson Hotel: Toronto-Yorkville
+
+89 Avenue Road / 416-964-1220
+
+
+$95/1 Double Bed
+
+$143/King Bed
+
+
+$109/2 Double Beds
+
+
+Comfort Hotel Downtown
+
+15 Charles St. E. / 416-924-1222
+
+
+>From $119
+
+
+
+
+Eaton Chelsea
+
+33 Gerrard Street West
+
+1-800-243-5732 / 416-595-1975
+
+
+>From $169*
+
+
+>From $169*
+
+
+Holiday Inn Toronto: Downtown
+
+30 Carlton Street / 416-977-6655
+
+
+$177/1 Bed Executive
+
+
+$177/ 2 Double Beds
+
+
+Beverley Place
+
+226 Beverley St / 416-977-0077
+
+
+$180/Single, $290/Queen
+
+
+
+
+High End
+
+
+
+
+
+
+The Grande: Hotel and Suites
+
+225 Jarvis Street / 416-863-9000
+
+
+$229 Grand Deluxe*
+
+
+
+$389 Two Bed Junior
+
+
+Park Hyatt Toronto
+
+4 Avenue Road / 416-925-1234
+
+
+>From $309/Night
+
+
+
+
+Intercontinental Toronto-Yorkville
+
+220 Bloor Street West / 416-960-5200
+
+
+$235/Night*
+
+
+
+
+
+Windsor Arms Hotel
+
+18 St. Thomas Street / 416-971-9666
+
+
+$325/Junior Suite*
+
+
+$395/Junior Suite 2 Beds
+
+
+The Hazelton Hotel
+
+118 Yorkville Ave / 416-963-6300
+
+
+>From $525/Night
+
+
+
+
+Four Seasons Hotel Toronto
+
+60 Yorkville Avenue / 416-964-0411
+
+
+>From $565/Night
+
+
+
+
+
+*Special discounts for Congress attendees. Some of these rates will expire as the date of the Congress moves closer, so make sure to book at least a month in advance of the proceedings.
+
+
+An updated list of accommodations will be available on the Congress website after registration begins, so please check the website regularly after this date. The Third Circular, due in April, 2017, will also contain more information about accommodations.
+
+
+Conference Travel Grants
+
+
+Unfortunately we are not able to provide any grants or scholarships to participants or presenters for this Congress.
+
+
+Website
+
+
+I urge you to consult our website regularly for updates and practical information about the upcoming Congress at http://www.iabs2017-uoft.ca/. We will be sure to update it regularly.
+
+
+Third Circular
+
+
+In a year from now, April 2017, I will send forth the Third Circular, the final notice before the Congress proceedings in August of that same year. The Third Circular will include a detailed academic program, further information about evening events and excursions, as well as up to date travel and accommodation information.
+
+
+I truly look forward to seeing everyone in Toronto, 2017.
+
+
+My warmest regards
+
+Christoph Emmrich
+
+
+
+Planning Committee of the XVIIIth IABS Congress
+
+ President:
+
+
+Anne MacDonald
+
+
+ Chair:
+
+
+Christoph Emmrich
+
+
+
+ Members:
+
+
+Wendi Adamek, University of Calgary
+
+
+
+
+James Apple, University of Calgary
+
+
+
+
+Dan Arnold, University of Chicago
+
+
+
+
+James Benn, McMaster University
+
+
+
+
+Lara Braitstein, McGill University
+
+
+
+
+Chen Shen, Royal Ontario Museum
+
+
+
+
+Jinhua Chen, University of British Columbia
+
+
+
+
+Shayne Clarke, McMaster University
+
+
+
+
+Deepali Dewan, Royal Ontario Museum
+
+
+
+
+David Drewes, University of Manitoba
+
+
+
+
+Frances Garrett, University of Toronto
+
+
+
+
+Amanda Goodman, University of Toronto
+
+
+
+
+Nam-Lin Hur, University of British Columbia
+
+
+
+
+Chiara Letizia, Université de Québec
+
+
+
+
+Jessica Main, University of British Columbia
+
+
+
+
+Jason Neelis, Wilfrid Laurier University
+
+
+
+
+Mark Rowe, McMaster University
+
+
+
+
+Alicia Turner, York University
+
+
+
+
+Jeff Wilson, University of Waterloo
+
+
+ Advisory Board:
+
+
+Collett Cox, University of Washington
+
+
+
+
+Birgit Kellner, Austrian Academy of Sciences
+
+
+
+
+Ulrich Pagel, University of London
+
+
+
+
+Tom Tillemans, University of Lausanne
+
+
+
+ Academic Coordination:
+
+
+Anthony Scott, University of Toronto
+
+
+
+
+
+
+
+Correspondent
+
+Dr. Christoph Emmrich, Associate Professor
+
+Chair, Planning Committee of the XVIIIth IABS Congress
+
+University of Toronto, Department for the Study of Religion
+
+170 St. George Street, Toronto, Ontario M5R 2M8
+
+Canada
+
+E-mail: christoph.emmrich at utoronto.ca
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160908/df2a3440/attachment.htm>

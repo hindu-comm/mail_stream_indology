@@ -1,0 +1,42 @@
++++
+title = "360 Srini Pichumani"
+date = "2000-09-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022915.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022915.html)
+
+vAriyars are one of several castes or groups collectively called
+"ambalavaasi".  As this name implies,  they are associated with the temples
+and are involved in various activities.  I believe one of the vAriyars'
+traditional responsibilities is the collection of flowers,  making garlands
+etc.  NambiyArs are another group who are classified as "ambalavaasi" (only by
+some ?) -  they have a more prescribed "ritual" role in that only they can
+play the mizhavu drum in the temple for KoodiyATTam,  cAkyar kUttu
+performances,  and their womenfolk called Nangyars can take on female
+character roles in the kUttu performances.  I am not sure if cAkyars,  who are
+traditionally the sole custodians of KoodiyATTam,  are also included under the
+"ambalavaasi" category.
+
+The vAriyar OS is of the unthreaded variety,  while cAkyar OS is threaded ;-)
+
+-Srini.
+
+ps:  KripAnanda vAriyAr,  in one corpozhivu,  mentioned that he hailed from
+the Arcot district (N or S ? Kankeyanallur?) and mentioned that there are
+vAriyArs in Kerala... but didn't explicitly say that his group or family was
+or was not related to the Kerala vAriyars.
+
+nanda chandran wrote:
+
+> Would anybody have any information on the caste affiliations/profession of
+> the WArriers? I hear they represent a small group in Kerala. And is there
+> any such parallel caste in Tamil Nadu - KripAnandavAriAr?
+> _________________________________________________________________________
+> Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+>
+> Share information about yourself, create your own public profile at
+> http://profiles.msn.com.
+
+
+

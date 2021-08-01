@@ -1,0 +1,20 @@
++++
+title = "29 Richard Thomas"
+date = "2000-04-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/020927.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/020927.html)
+
+I am trying to determine whether the constellation Ursa Major has any
+connection with the figure of a bear in Indian astrology/ astronomy. The
+only references I can find re to the constellation as the Seven Rsis or
+Saptashayah. However as Ursa Minor is Largha Balu and therefore clearly has
+a bear association I was wondering of the same held true for the Great
+Bear. The bear is represnted figuratively in a Buddhist temple in Vietnam
+dating from the 10th century and an association with the constellation of
+the Great Bear would tie up a few loose ends regrading the inscriptions
+associated with the site.
+
+
+

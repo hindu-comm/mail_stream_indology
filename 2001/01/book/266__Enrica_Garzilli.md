@@ -1,0 +1,32 @@
++++
+title = "266 Enrica Garzilli"
+date = "2001-01-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025067.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025067.html)
+
+Dear Colleagues,
+
+Do you know how to get the following book since I was informed that it
+is not possible to buy it.
+
+Akira YUYAMA, *Eugène Burnouf. The Background to his Research into the
+Lotus Sutra*, Bibliotheca Philologica et Philosophica Buddhica vol. III,
+Editor-in-chief Yuichi Kajiyama, The International Research Institute
+for Advanced Buddhology, Soka University, Hachioji, Tokyo, 2000, xiv+
+192 p.
+
+Thank you,
+
+Enrica
+
+***********************************************************
+Dr. Enrica Garzilli
+University of Perugia, ITALY
+Editor-in-Chief, Intl. Journal of Tantric Studies
+Journal of South Asia Women Studies http://www.asiatica.org
+***********************************************************
+
+
+

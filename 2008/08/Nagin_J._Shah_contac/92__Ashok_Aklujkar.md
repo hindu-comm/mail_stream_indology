@@ -1,0 +1,25 @@
++++
+title = "92 Ashok Aklujkar"
+date = "2008-08-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-August/031958.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-August/031958.html)
+
+Dear Deepak,
+
+I do not think that Dr. NaginJ. Shah uses email. If he is still active in
+the field (I hope he is), you may be able to reach him by non-email at:
+L.D. Institute of Indology
+Near Gujarat University, Navarangpura,
+Ahmedabad 380 009. 
+91-79-2-630 [644?]-2463   Fax  91-79-2-630 [644?]-7326.
+
+Another way would be to request Dr. Jitendra B. Shah, the current director
+of the L.D. Institute, to give you Dr. Nagin Shah's contact details (home
+address, tel. no.) by emailing at <Jitendrabshah at yahoo.com>.
+
+a.a.
+
+
+

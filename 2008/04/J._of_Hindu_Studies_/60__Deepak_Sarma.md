@@ -1,0 +1,66 @@
++++
+title = "60 Deepak Sarma"
+date = "2008-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-April/031583.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-April/031583.html)
+
+JOURNAL OF HINDU STUDIES
+
+FINAL CALL FOR SUBMISSIONS
+
+Colleagues,
+
+The editorial board of the Journal of Hindu Studies would like to invite
+submissions of articles and reviews to be considered for publication in the
+journal's 2008 open issue. The Journal of Hindu Studies is a new, fully
+refereed journal published by Oxford University Press and the Oxford Centre
+for Hindu Studies. The journal publishes two issues a year, one guest edited
+and one open for submissions, on the same broad annual theme. For this
+issue, we invite submissions on the theme of hermeneutics.
+
+Hindu culture adopts and demands an array of approaches to interpretation of
+its many types of ³text.² Hermeneutic practice raises a range of questions
+over issues such as the social context and implicit power of hermeneutic
+rules, the inter-weaving of different traditions and methods in interpretive
+practice, the position of the observer in respect to both created and lived
+Hindu ³texts,² the application of contemporary hermeneutic theory to Indian
+culture, and the history of its different discourses (linguistic, visual,
+social, etc.).
+
+All submissions should be sent to
+jhs at oxfordjournals.org by July 1, 2008. For more
+information about the journal and the submission process, please visit
+
+www.jhs.oxfordjournals.org
+
+Thank you.
+
+Deepak Sarma
+Associate Editor
+Journal of Hindu Studies
+
+
+
+
+Dr. Deepak Sarma
+
+Associate Professor of Religious Studies
+Associate Professor of Philosophy
+Asian Studies Faculty
+
+
+Mailing Address:
+Department of Religious Studies
+111 Mather House 
+11201 Euclid Avenue
+Case Western Reserve University
+Cleveland, OH 44106-7112
+     
+office: 216-368-4790
+fax: 216-368-4681
+deepak.sarma at case.edu
+
+
+

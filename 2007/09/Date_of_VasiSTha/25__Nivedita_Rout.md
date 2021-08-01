@@ -1,0 +1,49 @@
++++
+title = "25 Nivedita Rout"
+date = "2007-09-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-September/031141.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-September/031141.html)
+
+I think these following books would be helpful for the subject:
+1. Vasistha as religious conciliator by R.N Dandekar
+2. The Visvamitra and the Aasistha: an exhustive historical study: Vedic and post-vedic by Umesh Chandra Sharma
+
+Thank you,
+Nibedita Rout,
+EFEO, Pondicherry.
+
+
+
+
+
+
+
+----- Original Message ----
+From: Jenni Cover <jenni.cover at URNET.COM.AU>
+To: INDOLOGY at liverpool.ac.uk
+Sent: Monday, 24 September, 2007 12:22:10 PM
+Subject: Date of VasiSTha
+
+
+Dear Scholars,
+
+A colleague is interested in the approximate date of VasiSTha (RAma's
+teacher). What is the current thinking on the date of VasiSTha? Are there
+any relevant papers, books on this subject?
+
+Thankyou in anticipation,
+Jenni Cover
+University of Sydney
+
+No virus found in this outgoing message.
+Checked by AVG Free Edition. 
+Version: 7.5.488 / Virus Database: 269.13.30/1025 - Release Date: 23/09/2007
+1:53 PM
+
+
+      Meet people who discuss and share your passions. Go to http://in.promos.yahoo.com/groups
+
+
+

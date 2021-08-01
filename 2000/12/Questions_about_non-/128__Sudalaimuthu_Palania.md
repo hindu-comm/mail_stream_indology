@@ -1,0 +1,30 @@
++++
+title = "128 Sudalaimuthu Palaniappan"
+date = "2000-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024234.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024234.html)
+
+Dear list members,
+
+I would appreciate information from non-Tamil sources on the following
+questions.
+
+1.What did the Jains (2000-1500 years ago) believe  regarding the karmic
+reward for butchers, hunters, sacrificing priests, prostitutes, and
+meat-eaters?
+
+2.What did the Buddhists believe (2000-1500 years ago) believe  regarding the
+karmic reward for butchers, hunters, sacrificing priests, prostitutes, and
+meat-eaters?
+
+3. Were the Ajivikas' beliefs different from the above?
+
+Thanks in advance.
+
+Regards
+S. Palaniappan
+
+
+

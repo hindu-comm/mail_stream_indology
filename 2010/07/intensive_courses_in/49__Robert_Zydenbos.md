@@ -1,0 +1,46 @@
++++
+title = "49 Robert Zydenbos"
+date = "2010-07-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-July/034594.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-July/034594.html)
+
+Since a few years we offer "Almindologie": intensive courses in Indian  
+languages in a mountain chalet south of Munich, at approximately one  
+hour's travel by train or car from the city. This time the  
+Almindologie will last for 8 days. In this period, participants in our  
+courses receive learning materials, lodging, and three freshly  
+prepared meals a day in quiet, beautiful, peaceful surroundings that  
+optimize learning, without urban disturbances. The costs vary  
+according to the number of courses in which one wishes to participate.
+
+This year we again offer an intensive course in Kannada for beginners  
+(August 2nd-9th, with 4 hours of teaching per day). Experience shows  
+that in this one intensive period one learns more than during a whole  
+semester of regular teaching at the university. The supplied learning  
+manual is in English, and teaching has till now been in German  
+(because all the participants till now have been German speakers), but  
+if at least a significant minority prefers English, it will be  
+English. Besides Kannada, there is also a first introduction to Telugu  
+(August 2nd-5th ) and an advanced course in Sanskrit (August 5th-9th).
+
+As the number of participants is limited due to the available lodging  
+facilities, it is recommended that interested persons register soon.
+
+More information can be found at http://www.manya-institut.de/almindologie/almindologie-2010.html 
+  or requested by e-mail at almindologie [at] manya-institut.de
+
+RZ
+
+
+Prof. Dr. Robert J. Zydenbos
+Department für Asienstudien - Institut für Indologie und Tibetologie
+Universität München
+Deutschland
+Tel. (+49-89-) 2180-5782
+Fax  (+49-89-) 2180-5827
+Web  http://www.lrz-muenchen.de/~zydenbos
+
+
+

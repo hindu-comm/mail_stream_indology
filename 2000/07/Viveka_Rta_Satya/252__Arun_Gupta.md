@@ -1,0 +1,38 @@
++++
+title = "252 Arun Gupta"
+date = "2000-07-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022094.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022094.html)
+
+S. Palaniappan wrote :
+
+While such a speech in that forum would not normally belong in Indology, the
+"70 centuries" of brahminic contribution proudly mentioned by one of the
+leading neurosurgeons of India should be of some concern to Indologists.
+
+
+The traditional date for the start of the Mahabharata war puts it at
+3000 BC.  So 70 centuries is in line with tradition.
+
+If you object to a leading neurosurgeon of India believing in this,
+I hope you are equally concerned about neurosurgeons who believe that
+God created Adam, that Moses parted the sea, the Virgin Birth, the
+Resurrection and other such varieties of superstitious belief.
+Admittedly, Indology would not be the right place to raise such a
+concern.
+
+If you make an argument that the former variety of belief is oppressive,
+there is an equally strong argument that the latter variety of belief is
+oppressive as well.
+
+My point simply is that "70 centuries" is a variety of religious belief,
+one that takes the chronology of the Puranas literally, exactly as the
+Christian beliefs I mentioned take the word of the Bible literally.
+
+
+-arun gupta
+
+
+

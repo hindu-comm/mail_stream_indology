@@ -1,0 +1,43 @@
++++
+title = "03 Michaels, Axel"
+date = "2015-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-February/040729.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-February/040729.html)
+
+Dear Colleagues,
+
+The department of Cultural and Religious History of South Asia (Classical Indology) is again organising:
+
+ *   Summer School in Spoken Sanskrit (Dr. Sadananda Das)
+
+ *   Nepali Intensive Course (Laxmi Nath Shrestha)
+
+from 3rd – 28th August 2015 at the South Asia Institute, Heidelberg.
+
+
+More information is available at:
+http://www.sai.uni-heidelberg.de/abt/IND/en/summerschool/summerschool.php
+
+We would be very grateful if you could inform your colleagues and students about this opportunity.
+
+
+--------------------------------------------
+Julie Pusch
+Sekretariat Kultur- und Religionsgeschichte Südasiens (Klassische Indologie)
+Im Neuenheimer Feld 330, 69120 Heidelberg
+Tel. 06221 54-8817, Fax -6338
+sek-michaels at uni-heidelberg.de<mailto:sek-michaels at uni-heidelberg.de>
+http://www.sai.uni-heidelberg.de/abt/IND/index.php
+
+Mo, Mi, Do 10 – 12 Uhr, Di 9 – 12 Uhr & 13 – 15 Uhr
+
+[cid:02935BAE-9556-40CE-AEF2-6FD455969931]<http://www.facebook.com/KlassischeIndologieHeidelberg>
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150217/a9b0a83f/attachment.htm>

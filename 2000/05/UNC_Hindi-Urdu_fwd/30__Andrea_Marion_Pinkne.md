@@ -1,0 +1,52 @@
++++
+title = "30 Andrea Marion Pinkney"
+date = "2000-05-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021224.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021224.html)
+
+---------- Forwarded message ----------
+Date: Thu, 4 May 2000 09:20:16 -0400 (Eastern Daylight Time)
+From: Niklaus Steiner <nsteiner at email.unc.edu>
+To: Andrea Marion Pinkney <amp65 at columbia.edu>
+Subject: Re: UNC Hindi-Urdu
+
+
+
+Summer Intensive Hindi-Urdu
+University of North Carolina, Chapel Hill
+
+Hindi-Urdu 101 (no prerequisite): May 23  June 27 (Summer Session I)
+Hindi-Urdu 102: June 29  August 4 (Summer Session II)
+
+Aimed at beginners in Hindi-Urdu, this course will cover the material
+for first- year Hindi-Urdu in two separate five-week sessions.
+Foundations of grammar, listening comprehension, common idioms and
+conversation will be supplemented with various audio-visual materials
+including films, music, comic books and magazines, accordingly
+gradated to match the grammatical progress of the students. For those
+with some background in Hindi, this course will also provide an
+excellent grammatical review and an opportunity to develop strong
+writing skills in Hindi-Urdu. 
+
+The course will be taught by Andrea Pinkney, currently in the Ph.D.
+program in Religion at Columbia University. During 1995-1998, Ms.
+Pinkney lived in Varanasi, U.P and Pune, Maharashtra studying
+Sanskrit, Hindi and Urdu, in addition to conducting M.A. fieldwork on
+Sikh pilgrimage sites in Punjab, H.P. and U.P. In 1998, Ms. Pinkney
+completed a three year program in Hindi-Urdu from Banaras Hindu
+University, obtaining an Advanced Diploma in Hindi-Urdu. 
+
+Although the two courses are meant to be taken in sequence, special
+arrangement may be made with the instructor to accommodate those
+interested in joining SSII in mid-stream. 
+
+For further course information, please contact the instructor:
+amp65 at columbia.edu
+For registration information, please contact: Patricia Maroney,
+Departmental Administrator, Curriculum in Asian Studies,
+pmaroney at email.unc.edu, (919) 962-4294
+
+
+

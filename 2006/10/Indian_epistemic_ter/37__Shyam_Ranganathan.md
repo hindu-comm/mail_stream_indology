@@ -1,0 +1,34 @@
++++
+title = "37 Shyam Ranganathan"
+date = "2006-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030048.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030048.html)
+
+Dear Indologists
+
+I'm interested in a survey of technical and nontechnical epistemic terms
+employed in Indian philosophical literature. My rather informal impression is
+that the Indian tradition has made an art of discussing epistemology that makes
+the standard analytic "S knows that P" talk look rather dry. Specifically I am
+interested in:
+
+(a) whether there is any secondary material that has surveyed this issue and
+produced some type of list of terms employed in such discussions, and
+
+(b) whether there are standard cross-theoretic terms (perhaps "pramana" and
+"jnana") that are used in most all traditions in epistemic discussions, or
+whether the majority of the discourse is really technical and only accessible
+to those who are experts in the relevant darsana.
+
+Thanks in advance
+
+Shyam Ranganathan
+
+PhD Candidate
+Department of Philosophy
+York University (Toronto)
+
+
+

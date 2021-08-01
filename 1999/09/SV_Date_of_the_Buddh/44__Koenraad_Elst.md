@@ -1,0 +1,33 @@
++++
+title = "44 Koenraad Elst"
+date = "1999-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018292.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018292.html)
+
+Prof. Fosse,
+
+The remarkable continuity between Vedic and Harappan culture, given
+susbtance by ever more discoveries, is a cornerstone of Asko Parpola's
+explanations of stellar lore in Harappa: more often than not, he explains
+seemingly astronomical data from Harappa with related data in vedic
+literature, on the assumption that the Vedas have incorporated native
+Harappan knowledge and beliefs.  However, this seems to be a case of
+multiplying entities beyond necessity.  If Vedic and Harappan have so much
+in common, why not assume that they are two instances of one single
+civilization?  One possible argument for multiplying the entities and
+positing the non-kinship of Vedic and Harappan would be any proof that the
+Harappans spoke a non-Indo-Aryan language; this language would then
+obviously show up in the Vedas, esp. in the cultural lore borrowed from the
+Harappans.  But that borrowed cultural vocabulary (e.g. in names of
+constellations and astronomical concepts) is conspicuously missing in Vedic
+literature (much in contrast with e.g. the Greek loanwords in later
+astrological treatises).
+
+Yours sincerely,
+Koenraad Elst
+http://members.xoom.com/KoenraadElst/
+
+
+

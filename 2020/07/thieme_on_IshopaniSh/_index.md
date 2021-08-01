@@ -1,0 +1,4 @@
++++
+title = "Thieme on Īśopaniṣad"
+
++++

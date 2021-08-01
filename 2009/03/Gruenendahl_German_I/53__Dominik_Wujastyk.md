@@ -1,0 +1,25 @@
++++
+title = "53 Dominik Wujastyk"
+date = "2009-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032816.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032816.html)
+
+Dear Dr van Bijlert,
+
+May I draw your attention to my posting of yesterday, in which I asked all 
+members of this forum to refrain from discussing this topic for at least a 
+week.  Possibly you did not see it.
+
+I must insist upon this restriction, for the sake of this forum as a 
+useful arena for discussion of academic matters.
+
+My posting of yesterday can be checked here: http://tinyurl.com/d7pm52
+
+-- 
+Dr Dominik Wujastyk
+INDOLOGY committee
+
+
+

@@ -1,0 +1,26 @@
++++
+title = "08 Toke Lindegaard Knudsen"
+date = "2001-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-December/026512.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-December/026512.html)
+
+Many thanks to George Hart, Dominik Wujastyk, Edwin Bryant,
+Fred Smith and Christophe Vielle for their kind help with trying to
+identify our MS of a commentary on the BhP.  We have now, with
+some help, checked the text of the MS against almost 20 BhP
+commentaries (printed editions), but without finding a match.
+Christophe Vielle's comment was valuable, and I will try to follow up
+on it.
+
+One brief colophon is preserved in the manuscript:
+"ityekatri.m;sodhyaaya.h".  So the MS numbers of the chapters of
+the tenth book of the BhP in the traditional way, without rejecting
+three chapters as the Vallabhis do.
+
+Sincerely and with many thanks,
+Toke Lindegaard Knudsen
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "64 Allen Thrasher"
+date = "2015-10-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-October/042178.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-October/042178.html)
+
+I entered Harvard as a freshman in 1963, received the A.B. in 1967 and the Ph.D. in 1972, and do not remember any honor code. I seem to recall that two proctors who monitored most finals were careful to tell us they had ways of knowing if anyone used "blue books" that they themselves brought in rather than those that they handed out. In other words, they trusted their methods rather than students' honor.In some American universities (e.g. University of Virginia) traditionally the honor code was administered by a group of students rather than the faculty or administration. This is discussed in a not particularly thorough Wikipedia article "Academic honor code."
+I hope this topic is from October 2015 rather than an earlier year. I have been tidying up my Yahoo account (which Yahoo does not do very well), and find the date notation ambiguous.
+Allen 
+
+
+     On Thursday, July 16, 2015 2:55 PM, Sudalaimuthu Palaniappan via INDOLOGY <indology at list.indology.info> wrote:
+
+
+ In light of the current discussion about plagiarism, I looked up Honor Codeat Harvard University. Apparently this code was adopted in 2014 and will go into effect in Fall 2015. I have a couple of basic questions regarding this. Is this code applicable to doctoral students? Was there any such honor code in the 1960s at Harvard?
+Thanks in advance
+Regards,Palaniappan
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151017/afbd348d/attachment.htm>

@@ -1,0 +1,26 @@
++++
+title = "28 Dominik Wujastyk"
+date = "2005-12-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-December/029513.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-December/029513.html)
+
+Historians of mathematics may be interested to see that the computer 
+scientist Emeritus Prof. Don Knuth, Stanford, has written a short "History 
+of Combinatorial Generation" in which he deals with a number of early 
+combinatoric systems, including those in Pingala's Chandahsutra, Kedara's 
+Vrttaratnakara, in the Prakrita Paingala, and Narayana Pandita's work.
+
+The pre-publication fascicle is available as a PostScript file at:
+
+   http://www-cs-staff.stanford.edu/%7Eknuth/fasc4b.ps.gz
+
+Prof. Knuth will pay you a cheque if you find errors in his work.  See
+   http://www-cs-staff.stanford.edu/%7Eknuth/news.html
+
+Best,
+Dominik
+
+
+

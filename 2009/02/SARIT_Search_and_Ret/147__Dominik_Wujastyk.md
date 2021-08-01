@@ -1,0 +1,45 @@
++++
+title = "147 Dominik Wujastyk"
+date = "2009-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032577.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032577.html)
+
+I am pleased to announce a new service that is now available through the 
+INDOLOGY website.
+
+SARIT is a freely-available online facility that enables you to search 
+through an online library of Sanskrit texts for keywords, 
+word-collocations, and other linguistic strings.  The system is based on 
+the well-known ARTFL software, and is exceptionally powerful.  It can 
+handle many forms of query and output, including KWIC indexes.  Your 
+imagination is the limit.
+
+The texts are presented on screen using standard scholarly roman 
+transliteration (Unicode), and searches can be constructed in 
+transliteration or in a plain ASCII equivalent.
+
+As of today the SARIT library includes the full texts of the 
+Manavadharmasastra and the Arthasastra.  We expect the library to expand 
+in the future as funding, time, and expertise allow.
+
+SARIT is available here:
+
+   http://sarit.indology.info
+
+The SARIT service has been discussed and planned by myself and Richard 
+Mahoney, and implemented by Richard.  Financial support for part of the 
+work has been received from the British Association for South Asian 
+Studies (www.basas.org.uk), to whom we are most grateful.
+
+Enjoy,
+
+Dominik Wujastyk
+
+
+-- 
+Dr Dominik Wujastyk
+
+
+

@@ -1,0 +1,63 @@
++++
+title = "100 Gruenendahl, Reinhold"
+date = "2014-01-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-January/038784.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-January/038784.html)
+
+Both the 1901 and 1905 Report can now available for downloaded as searchable PDFs:
+
+https://opac.sub.uni-goettingen.de/DB=1.BBK/FAM?PPN=775848824
+
+
+>From tomorrow, they can also be downloaded from the GRETIL e-library:
+
+https://opac.sub.uni-goettingen.de/LNG=EN/DB=1.20/
+
+
+Regards,
+R.G.
+
+
+
+
+
+
+________________________________
+Von: INDOLOGY [indology-bounces at list.indology.info]" im Auftrag von "Bill Mak [bill.m.mak at gmail.com]
+Gesendet: Samstag, 21. Dezember 2013 16:17
+An: indology at list.indology.info
+Betreff: [INDOLOGY] Shastri's 1901 Report on the Search for Sanskrit Manuscripts (1895-1900)
+
+Dear colleagues,
+
+Would anybody have a pdf scan of the following work? I could only find the 1905 Report. The 1901 Report is not available anywhere here in Japan and I have searched through archive.org<http://archive.org>, hathitrust.org<http://hathitrust.org> and Wujastik's mss catalogue site but to no avail.
+
+Shastri, Haraprasad. Report on the Search for Sanskrit Manuscripts (1895-1900). Calcutta: Asiatic soc. of Bengal, 1901.
+
+The work appears to have only 25pp. So it should be light enough to send through private email.
+
+Many thanks in advance and best wishes for the festive season,
+
+Bill Mak
+Kyoto Sangyo University / Kyoto University
+
+
+Bill M. Mak
+
+University of Kyoto
+Graduate School of Humanities, Faculty of Letters
+Department of Indological Studies
+Yoshida-Honmachi, Sakyo-ku,
+Kyoto, 606-8501, Japan
+
+bill.m.mak at gmail.com<mailto:bill.m.mak at gmail.com>
+
+http://www.billmak.com
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140108/709dd91e/attachment.htm>

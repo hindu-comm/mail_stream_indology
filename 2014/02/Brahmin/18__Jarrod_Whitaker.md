@@ -1,0 +1,48 @@
++++
+title = "18 Jarrod Whitaker"
+date = "2014-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/039030.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/039030.html)
+
+Dear Colleagues:
+When does the word "B/brahmin" ("priest, priestly class") with a final 
+"-in" begin to be used/appear? I have always assumed that it appeared 
+with the colonial encounter and thus it was a Anglocized (perhaps 
+Franco-cized?) way of representing the final short schwa sound of 
+"brahman". Does it have an older history in Arabic/Mughal writing? It 
+surely is not a final Sanskrit "-in" stem (I have never heard of a 
+Brahmii priest), but perhaps it has a regional/dialect use somewhere in 
+India...
+
+Silly question but frustrating nonetheless when trying to unpack the 
+complex use of the term brahman and its various meanings to students and 
+the fact that textbooks are not uniform in how they represent the term 
+and its derivatives (B/braahmaan.a [and more rarely Braahman. with final 
+retroflex "n," which is curious in and of itself], B/brahman, or, of 
+course our current Brahmin....[throw into the mix lower case, sometimes 
+italicized brahman from Upanishads and god Brahmaa and students think 
+you are just messing with them]).
+
+Cheers
+JW
+
+Jarrod Whitaker, Ph.D.
+Associate Professor, South Asian Religions
+Zachary T. Smith Faculty Fellow
+Graduate Program Director
+
+Wake Forest University
+Department of Religion
+P.O. Box 7212
+Winston-Salem, NC  27109
+whitakjl at wfu.edu
+p 336.758.4162
+
+
+
+
+
+
+

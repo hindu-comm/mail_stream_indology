@@ -1,0 +1,35 @@
++++
+title = "30 Deshpande, Madhav"
+date = "2010-06-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-June/034551.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-June/034551.html)
+
+Amazing wonders of INDOLOGY!  I have already received a pdf of the article I was looking for.  Thanks.
+
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, Michigan 48104-1608, USA
+________________________________________
+From: Indology [INDOLOGY at liverpool.ac.uk] On Behalf Of Deshpande, Madhav [mmdesh at UMICH.EDU]
+Sent: Tuesday, June 29, 2010 10:17 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: [INDOLOGY] Looking for an article by Richard Salomon
+
+Dear Colleagues,
+
+     I am looking for Richard Salomon's 1998 article "Kharosthi manuscript fragments in the Pellior collection, Bibliotheque Nationale de France" which was published in vol 16 (pp. 123-60) of Bullitin d'etudes indiennes.  I don't see any electronic access to this journal, and the Univ of Michigan library conveniently starts its collection of this journal from the year 1999.  If anyone can provide me a digital or a print copy of this article, please write to me at:  mmdesh at umich.edu.  Thanks.
+
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, Michigan 48104-1608, USA
+
+
+

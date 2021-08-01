@@ -1,0 +1,36 @@
++++
+title = "261 Tieken, H.J.H."
+date = "2019-04-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049793.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049793.html)
+
+I hope this is ironic. If not, I think we have exhausted the topic.
+
+Herman
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info] namens Simon Brodbeck via INDOLOGY [indology at list.indology.info]
+Verzonden: vrijdag 5 april 2019 10:35
+Aan: indology at list.indology.info
+Onderwerp: Re: [INDOLOGY] Sexism and Bias on INDOLOGY governing committee
+
+
+In the context of this discussion, if the financial generosity of certain individuals is to be announced on the list, perhaps it would be appropriate for this to be accompanied by details about how much those individuals get paid, and how much they imagine they would get paid if they were of a different gender.
+
+
+Simon Brodbeck
+
+Cardiff University
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190405/b636e2c5/attachment.htm>

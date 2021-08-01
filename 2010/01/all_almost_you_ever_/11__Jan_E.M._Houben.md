@@ -1,0 +1,65 @@
++++
+title = "11 Jan E.M. Houben"
+date = "2010-01-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033886.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033886.html)
+
+As Louis Renou and Jean Filliozat clearly understood long ago in 1953,
+indian studies and indology is much in need of  "répertoires décrivant le
+vocabulaire propre à telle ou telle des grandes disciplines qui composent
+l'indianisme classique" (avant-propos to Collection de vocabulaires
+techniques du sanskrit in vol. 1: Vocabulaire du rituel védique). One of
+these grand disciplines is indian alchemy for which now, finally, a
+woerterbuch of technical terms is available.
+
+Author: Oliver Hellwig.
+Title: Woerterbuch der mittelalterlichen indischen Alchemie.
+(eJIM supplements 2)
+Eelde: Barkhuis, 2009.
+
+Between 900 and 1500 C.E., the knowledge of Indian alchemy
+was codified in a group of Sanskrit texts that deal with the
+ideas and the methods of this scientific tradition. The dict-
+ionary explains about 400 technical terms and names of sub-
+stances that are mentioned in these texts. Apart from trans-
+lations of central passages of the alchemical treatises the
+dictionary offers an extensive collection of texts references,
+which makes it posible to examine the intellec3tual cross-
+links in the alchemical tradition in detail. The dictionary
+is supplemented by indices of Sanskrit terms as well as of
+text references and topics.
+
+***
+
+eJIM - the eJournal of Indian Medicine - has just published eJIM Supplement
+2:
+
+
+
+Oliver Hellwig
+
+Wörterbuch der mittelalterlichen indischen Alchemie
+
+
+
+Please visit our website at www.indianmedicine.nl.
+
+
+
+eJIM is an Open Access publication and makes no charge either to authors or
+to readers. Users have to register if they want to read the full articles.
+Registration is free and carries no obligations. Registered users will be
+notified by email on publication of an issue of the journal.
+
+
+
+eJIM currently has around 370 registered readers.
+
+***
+
+(apologies for cross-posting)
+
+
+

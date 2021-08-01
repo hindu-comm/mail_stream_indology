@@ -1,0 +1,30 @@
++++
+title = "09 Vidyasankar Sundaresan"
+date = "2000-02-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020089.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020089.html)
+
+Re: ArAdhya brAhmaNas and vizvakarmas - the former group is expressly
+associated with the vIrazaivas, but they intermarry with other brAhmaNa
+groups. The ArAdhyas do not intermarry with other vIrazaivas.  Perhaps their
+origins lie among the brAhmaNa relatives of Basava himself. The vizvakarmas,
+on the other hand, are not all of them vIrazaiva, and they do not intermarry
+with other brAhmaNas. Nor do others consider them to be brAhmaNas. It is
+perhaps understandable that among vIrazaiva authors, the vizvakarmas have a
+high representation, but one must account for the fact that members of these
+skilled artisan castes were also the most likely to be literate.
+
+One must distinguish between caste identity, mostly guaranteed by birth, and
+a religious identity, adopted by considering oneself a follower of Basava.
+Take the case of the kOmaTis in Andhra, another skilled artisan and trader
+group. There are ordinary zaivas, vIrazaivas, zrIvaishNavas and mAdhvas
+among them, but they all have a fairly coherent caste identity as kOmaTis.
+
+Vidyasankar
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

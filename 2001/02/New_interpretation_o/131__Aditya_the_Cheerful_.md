@@ -1,0 +1,23 @@
++++
+title = "131 Aditya, the Cheerful Hindu Skeptic"
+date = "2001-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025318.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025318.html)
+
+Dmitri <dmitris at PIPELINE.COM> has written as follows:
+
+>verecundiam
+did you mean verrecundiam?
+
+Have a peaceful and joyous day.
+Aditya Mishra
+Primary email: a018967t at bc.seflin.org
+Primary homepage: http://www.pompano.net/~aditya
+ICQ # 1131674 Phone #: (954)746-0442  Fax # (209)315-8571
+Random thought of the day:
+        Real Programmers don't play tennis, or any other sport that requires you to change clothes. Mountain climbing is OK, and real programmers wear their climbing boots to work in case a mountain should suddenly spring up in the middle of the machine room.
+
+
+

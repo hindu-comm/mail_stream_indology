@@ -1,0 +1,43 @@
++++
+title = "88 Jeffery Long"
+date = "2017-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-March/045384.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-March/045384.html)
+
+Congratulations, Elaine! I promptlydownloaded and devoured this excellent, insightful work of yours, and look forward to the print edition as well.
+With best wishes and regards,JeffDr. Jeffery D. Long
+Professor of Religion and Asian Studies
+Elizabethtown CollegeElizabethtown, PA
+https://etown.academia.edu/JefferyLong
+Series Editor,Explorations in Indic Traditions: Theological, Ethical, and PhilosophicalLexington Books
+"One who makes a habit of prayer and meditation will easily overcome all difficulties and remain calm and unruffled in the midst of the trials of life." (Holy Mother Sarada Devi)
+"We are a way for the Cosmos to know itself." (Carl Sagan)
+
+
+    On Sunday, March 5, 2017 6:43 AM, ELAINE FISHER via INDOLOGY <indology at list.indology.info> wrote:
+
+
+  <!--#yiv3911775120 P {margin-top:0;margin-bottom:0;}-->Dear colleagues,
+My apologies for the cross-posting:I am pleased to announce the publication of my book, Hindu Pluralism: Religion and the Public Sphere in Early Modern South India, published by the University of California Press (South Asia Across the Disciplines). Better yet, I am delighted that UC Press has made the book accessible to all through a free download of the open-access E-book (link below). Print copies will be available shortly.
+http://www.luminosoa.org/site/books/10.1525/luminos.24/
+Please feel free to download and share.
+With best wishes,
+Elaine Fisher
+
+
+Elaine M. FisherAssistant ProfessorDepartment of Religious StudiesStanford University
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170306/9b323a2a/attachment.htm>

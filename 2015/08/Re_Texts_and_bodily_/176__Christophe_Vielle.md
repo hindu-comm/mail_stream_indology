@@ -1,0 +1,108 @@
++++
+title = "176 Christophe Vielle"
+date = "2015-08-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-August/041949.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-August/041949.html)
+
+The bodily metaphor apparently referring to the Vedas (not named as such) is also attested in 1600 in
+João de Lucena, Historia da vida do padre Francisco de Xavier, p. 95 (col. 1, after his account of the Gerodam language ; the rest of the passage is also interesting). To be read at:
+http://purl.pt/14775
+or
+https://books.google.be/books?id=xpboetFBU5cC
+or
+https://books.google.be/books?id=t3pJAAAAcAAJ
+(the work was reprinted in facsimile in 1952; cf review in French:
+url : /web/revues/home/prescript/article/hispa_0007-4640_1953_num_55_3_3373_t1_ )
+
+Le 25 août 2015 à 16:45, Christophe Vielle <christophe.vielle at uclouvain.be> a écrit :
+
+> Dear Will,
+> 
+> Here is in Fenicio the relevant passage (differing from the one mentioning ueda mantiram = veda-mantra) referring to the four Vedas: [Livro VII, §1] p. 150 ed. Charpentier:
+> "Tem Bramâ quoatro cabeças authoras de quoatro leis [Brahma has four heads authors of four laws], iréa, ueressa [cf. Charpentier p. 251, the sequence has to be read : iréauer (= .rgveda) + essa ("T. eççam = yajña, yajus, cp. Ezour-Vedam")], samam, edaruna…", with the note by Charpentier p. 217-8 (VII n. 2): "Brahmaa and the four vedas: this is one of the oldest passages in European literature mentioning by name the different Vedas (cp. on older European lit. dealing with the Vedas [W.] CALAND Ontdekkungsgeschiedenis [van de Veda, In: Verslagen en Mededeelingen der Koninklijke Akademie van Wetenschappen, Afdeeling Letterkunde, Vijfde Reeks, vol. III, pp. 261-334, Amsterdam, 1918 - not seen]; [Th.] ZACHARIAE GGA. [Göttingische gelehrte Anzeigen] 1921 [ https://archive.org/details/GoettingischeGelehrteAnzeigen1921 ], 148 sq. (transl. by [H.] HOSTEN JIH. [Journal of Indian History - not seen] II, 127 sq.); CHARPENTIER JIH. III, 161 sq. [not seen]). Cp. also VINCENZO MARIA [di S. Caterina da Siena, Il Viaggio all'Inide Orientali, Venetia, 1683] 305 sq.; [E.A.] TERRY Voyage [to East India, London, 1777] 329 sq. (very confuse tradition) etc."
+> 
+> I add in attachment for the list the English translation by I. Zupanov (a .pdf publication which was available on-line, linked to the Conference Portugal Índico held in Brown University in May 2002) of an extract of the Treatise (Tratado) by Father Gonçalo Fernandes Trancoso s.j. (1541-1621), a colleague of de Nobili who lived on the Fishery Coast and in Madurai, dealing also with the four Vedas in more details. The treatise refers elsewhere to brahmins experts in Girantao (grantha), to Vedic texts of Baudhâyana (Potuien... doutor grave "important doctor"), Âçvalâyana, Apastamba (Abasten), Âra.nyaka (Arenako), Yajurveda (Eihirvedao), and to several Vedic rituals. See J. Wicki, Die Schrift des P. Gonçalo Fernandes S.J. über die Brahmanen und Dharma-Śastra (Madura 1616), Münster, 1957, Veröffentlichungen des Instituts für Missionswissenschaft der Westfälischen Wilhelms-Universität Münster Westfalen Hft 6, and by the same the annotated critical edition of the whole Tratado do Pe Gonçalo Fernandes Trancoso sobre o hinduísmo, Maduré 1616, Lisbon: Centro de Estudos Históricos Ultramarinos, 1973 (cf. also on Trancoso, Sweetman's Mapping Hinduism, pp. 56 sq.)
+> <Zupanov-Portugal Indico 2003 Fernandes.pdf>
+> About the Marathi version of the  Giitaa, the identification attributed to Zupanov & Barreto Xavier (2015, p. ? - I have not the book yet) was already made by J. Wicki (cf. Documenta Indica IV, Roma, 1958, Monumenta Historica  Societatis Iesu vol. 78, p. 802 fn. 37 of his edition of the Portuguese original text of the Jesuit 1560 letter, with reference to his article "Aelteste portugiesische Uebersetzungen aus der Marâthî-Literatur", In: Neue Zeitschrift für Missionswissenschaft 11, 1955, p. 145; cf. also Halbfass 1988, pp. 37, 464).
+> 
+> Best wishes,
+> Christophe
+> 
+> Le 13 août 2015 à 01:49, Will Sweetman <will.sweetman at GMAIL.COM> a écrit :
+> 
+>> Thanks, all, for your comments. 
+>> 
+>> Christophe — I think Fenicio mentions the term Veda only in relation to a Vedic mantra recited while consuming panchagavya (I think - I have only my notes on Charpentier's edition (does anyone have a pdf?), which in any case according to Paolo Aranha omits a large part of the original ms). But Ludo Rocher argues (Puranas, 1986: 11) that Fenicio's primary sources were puranic, and that this is even made explicit in the title of a Latin translation of Fenicio: Collectio omnium dogmatum & arcanorum ex Puranis seu libris Canonicis paganorum Indianorum... 
+>> 
+>> Part of my argument in the article I'm preparing is that despite many references to the Vedas as the most authoritative Indian sacred texts, other texts were almost invariably the actual source. Azevedo, for instance, having mentioned the Vedas as the original texts then goes on to cite exclusively Tamil sources (Tirumantiram, Tiruvācakam, Tivākaram, Tirukkuṟaḷ and another Tamil text on caste). 
+>> 
+>> Thanks also for the references to the texts acquired by the Jesuits (stolen on their behalf by a convert, it appears) in the 1550s. On the basis of fragments of translations of these done by the convert (a Brahmin baptised as Manuel Olivera) which were sent to Europe and are extant in Portugal and Goa, Ines Zupanov and Angela Barreto Xavier have identified these as Jñāneśvara’s Marathi version of Bhagavad-Gītā, a purana by Nāmdev, and parts of the Mahābhārata.  Also in Portugal are three manuscripts containing parts of the Mahābhārata and Rāmayāṇa in Konkani prose and Marathi verse, transliterated into Roman script by Jesuits around the same period. I think there is likely some connection here, but I'm not aware of anyone who's explored it. 
+>> 
+>> Best wishes
+>> 
+>> Will
+>>   
+>> 
+>> On 12 August 2015 at 20:25, Christophe Vielle <christophe.vielle at uclouvain.be> wrote:
+>> Thank you for this reference (with Geredão rendering grantha).
+>> 
+>> So (I have not here the book at hand), nothing on the Vedas in J. Fenicio's work (1609? He arrived in India in 1584) ? (cf. The Livro da Seita dos Indios Orientais (Brit. Mus. MS. Sloane 1820) of Father Jacobo Fenicio , s.j., edited with and introduction and notes by Jarl Charpentier, Uppsala : Almqvist & Wiksells, 1933, Arbeten utgivna med undestöd av Vilhelm Ekmans Universitetsfond 40). 
+>> 
+>> Note that the (Bhagavad-)Gîtâ (with the Avadhûta-Gîtâ) is already presented and discussed as the most sacred book of the brahmins in a Jesuit letter of 1560. 
+>> See https://books.google.be/books?id=qP87AAAAcAAJ
+>> pp. 376 sq. ("Guitaa & Detatriaa") (cf. Charpentier p. xliv)
+>> 
+>> Best wishes,
+>> 
+>> Christophe Vielle
+>> 
+>> Le 11 août 2015 à 02:03, Will Sweetman <will.sweetman at GMAIL.COM> a écrit :
+>> 
+>>> Dear all
+>>> 
+>>> I'm working on some early European accounts of the Vedas including what I think is the very first reference to the Vedas in a European text. This was published in Couto's Da Asia, but is in fact taken from another work written by an Augustinian friar Agostinho de Azevedo in 1603. Azevedo (in my translation) says that the Brahmins:
+>>> 
+>>> "have many books in their Latin, which they call Geredão which contain everything they are to believe, and all the ceremonies they are to perform. These books are divided into bodies [corpos], limbs [membros] and joints [articulos], whose originals are those they call Veados, which are divided into four parts, and these further into fifty-two parts in the following manner: six which they call Xastra, which are the bodies, eighteen which they call Purana, which are the limbs, twenty-eight called Agamon which are the joints."
+>>> 
+>>> This formulation, with variations, is repeated in many subsequent European sources. The terms for the divisions (corpos,membros, articulos), which are not so often repeated, have usually been translated more literally as bodies, members and articles (or articulations). 
+>>> 
+>>> I'm curious as to whether anyone is aware of an Indian source which uses these metaphors. I'm aware, of course of the Vedāṇgas, but I think the six here are clearly meant to be the śāstras/darśanas. This may indicate some muddling—or sheer invention—on Azevedo's part, but in other instances I've found it best to look first for an Indian source or idea an early European writer may be following rather than immediately assuming error or invention, so I'd welcome any leads and/or comments on translating membros as limbs and articulos as joints. "Articles" for the latter seems to me to be a particularly unilluminating translation.
+>>> 
+>>> Best
+>>> 
+>>> Will
+>>> 
+>>> 
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing committee)
+>>> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>> 
+>> –––––––––––––––––––
+>> Christophe Vielle
+>> Louvain-la-Neuve
+>> 
+>> 
+> 
+> –––––––––––––––––––
+> Christophe Vielle
+> Louvain-la-Neuve
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+–––––––––––––––––––
+Christophe Vielle
+Louvain-la-Neuve
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150825/fb64a6a2/attachment.htm>

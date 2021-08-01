@@ -1,0 +1,15 @@
++++
+title = "63 Dean Michael Anderson"
+date = "2010-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/034004.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/034004.html)
+
+Based on my experience living in Vaaraanasi for a while, the natives always pronounce it that way. Only the foreigners pronounce it Vaaranaasi.
+But many of the natives also use the Hindi (Urdu?) form of Banaaras which, of course, puts the accent on the second to last syllable like the mispronounced form. It may have something to do with it but it's more likely simply due to English accent habits. Unless there is an Urdu/Persian rule I don't know about.
+Best,
+Dean Michael Anderson
+
+
+

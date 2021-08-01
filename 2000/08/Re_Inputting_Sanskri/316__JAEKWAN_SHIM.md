@@ -1,0 +1,45 @@
++++
+title = "316 JAEKWAN SHIM"
+date = "2000-08-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022554.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022554.html)
+
+Once more on copyright.
+We surely have to keep(or have possibly been kept in the Buddhist sense :-))
+the distance from the ORIGINALITY or creativity a dictionary has, which,
+however, does not simply comes from the FACT of the exchangeable value of
+meaning between the two different languages, I think.
+
+Jaekwan Shim
+Dept. of Philosophy
+Kangnung National Univ.
+South Korea
+
+
+
+
+Dominik Wujastyk <ucgadkw at UCL.AC.UK> wrote:
+On Sat, 26 Aug 2000, Stephen Hodge wrote:
+
+> As far as I know the Bon-Wa Jiten is still copyrighted.  As I
+> understand the situation, unless you have explicit permission from the
+> publishers, it will be illegal under international copyright law to
+> publish this electronically -- I assume Korea is a signatory to this
+> law.
+
+It is a breach of copyright law to make the copy in the first place, not
+just to distribute it.  Even in private, for one's own use.  Still not
+legal.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=1
+
+
+

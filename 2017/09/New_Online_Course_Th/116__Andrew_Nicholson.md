@@ -1,0 +1,42 @@
++++
+title = "116 Andrew Nicholson"
+date = "2017-09-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046548.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-September/046548.html)
+
+Dear Colleagues,
+
+Now that the semester has begun to get rolling, I wanted to share with you
+a possible resource for you or your students. The University of Texas at
+Arlington in conjunction with edX is offering a MOOC (massive open online
+course) on “The Science and Practice of Yoga.”
+
+My understanding is that this course will feature recent research from
+scholars of contemplative neuroscience and positive psychology. I am no
+neuroscientist, but I have also contributed to the course a short
+discussion about the history of yoga and yoga’s relation to some pre-modern
+Indian religious traditions.
+
+The course begins on October 16, 2017. It is free for all who wish to
+enroll. More information and a button to enroll is here:
+https://www.edx.org/course/science-practice-yoga-utarlingtonx-link-bw-1x#!
+
+All best wishes,
+Andrew
+
+Andrew J. Nicholson
+Associate Professor
+Graduate Studies Director
+Asian & Asian American Studies
+Stony Brook University
+Stony Brook, NY 11794-5343  USA
+(631) 632-4030
+http://philosophicalrasika.com/
+<http://sbsuny.academia.edu/AndrewNicholson>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170906/b681a5e3/attachment.htm>

@@ -1,0 +1,4 @@
++++
+title = "gāyatrī meter"
+
++++

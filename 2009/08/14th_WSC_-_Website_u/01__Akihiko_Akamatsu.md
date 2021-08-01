@@ -1,0 +1,30 @@
++++
+title = "01 Akihiko Akamatsu"
+date = "2009-08-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033556.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033556.html)
+
+Dear Colleagues,
+
+The web-site of the 14th World Sanskrit Conference has recently
+been updated. The address is still the same, i.e. the following:
+
+http://www.indology.bun.kyoto-u.ac.jp/14thWSC/
+
+The pages contain a detailed programme of each section and
+a provisional timetable of the conference week. The list of
+participants, titles of their papers, and their abstracts are
+contained in the following pages:
+
+http://www.indology.bun.kyoto-u.ac.jp/14thWSC/programme/index.html
+
+We plan to update more practical informations within a few days.
+
+We are sorry for our delay.
+
+Akihiko Akamatsu
+
+
+

@@ -1,0 +1,18 @@
++++
+title = "250 Rajesh Kochhar"
+date = "2001-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025805.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025805.html)
+
+There is a small book on Rahim, written by Vijayendra Snatak,and published by Sahitya Akademi,New Delhi,1990. It contains the following couplet by Rahim:
+
+Ochhon kaam barhey karen,to na barhai hoye
+Jyon Rahim Hanumant ko, Giridhar kahe na koye.
+
+
+Is the first line correct?
+
+
+

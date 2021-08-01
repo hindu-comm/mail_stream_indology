@@ -1,0 +1,50 @@
++++
+title = "29 Christian Coseru"
+date = "2004-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-November/028723.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-November/028723.html)
+
+Some additions to the works already mentioned by others:
+
+
+Rocher, Rosane, Alexander Hamilton, 1762-1824; A Chapter In The Early 
+History Of Sanskrit Philology, New Haven, American Oriental Society, 
+1968.
+
+Windisch, Ernst, Geschichte der Sanskrit-Philologie und Indischen 
+Altertumskunde / von Ernst Windisch Berlin : De Gruyter, 1992
+
+Indianisme et bouddhisme, mélanges offerts à  Mgr Etienne Lamotte, 
+Institut Orientaliste Louvain la Neuve  1980
+
+Raghavan, V, Sanskrit and allied Indological studies in Europe, with 
+foreword by A.L.Mudaliar Univ. of Madras, Madras. University. Sanskrit 
+Series no.22  1956
+
+Helmut Eimer, Indology and Indo-Tibetology : thirty years of Indian and 
+Indo-Tibetan studies in Bonn = Indologie und Indo-Tibetologie : 
+dreissig Jahre indische und indo-tibetische Studien in Bonn
+
+Sengupta, Gauranga Gopal, Indology and its eminent western savantas : 
+collection of biographies of western Indologists foreword by A.L. 
+Basham Calcutta : Punthi-Pustak, 1996
+
+Henri de Lubac, Le rencontre du bouddhisme et de l'occident (giving a 
+catholic perspective but quite informative on the early missionary 
+works)
+
+
+and on the philosophical side
+
+Roger-Pol Droit,  L'oubli de l'Inde : une amnésie philosophique, Paris 
+: Presses Universitaires de France, 1989
+
+
+
+
+Christian Coseru
+
+
+

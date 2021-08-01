@@ -1,0 +1,34 @@
++++
+title = "216 George Thompson"
+date = "2000-06-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021740.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021740.html)
+
+In a message dated 6/30/00 5:04:52 AM Eastern Daylight Time,
+hbd at DDIT.ERNET.IN writes:
+
+> I find you have not answered my questions. Are you following the Japanese
+> method
+>  of "killing a question" by silence?  Or, that I (i.e. HBD) can not be a
+>  philosopher or a (what you call) vipra.h ?  Incidently I am  a vipra.h (at
+> least
+>  by birth and profession, though I do not have any certificate about it from
+>  INDOLOGY list)
+>  Best wishes,
+>
+>  --  Himanshu
+>
+It is quite clear to me, Himanshu, that you are indeed both a philosopher and
+a vipra.  But I am not.  So I will have to withdraw from further discussion.
+
+I do not know whether this is the Japanese method or not, but in any case it
+will save the list members from another headache.
+
+Best wishes,
+
+George
+
+
+

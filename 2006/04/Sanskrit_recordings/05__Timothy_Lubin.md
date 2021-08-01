@@ -1,0 +1,62 @@
++++
+title = "05 Timothy Lubin"
+date = "2006-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-April/029757.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-April/029757.html)
+
+I hereby make good on my promise to make available a recording of Prof.
+Nagaraja Rao reciting stanzas in a variety of meters:
+
+http://home.wlu.edu/~lubint/texts/index.htm
+
+There you will find the whole recording (24 MB, uncompressed), plus the
+first 2/3 divided into smaller segments.
+I also have a similar but shorter recording of S. S. Janaki reciting,
+which I will try to get done as well.
+
+Tim
+
+Timothy Lubin
+Associate Professor, Department of Religion
+Washington and Lee University
+Lexington, Virginia
+
+lubint at wlu.edu   |   http://home.wlu.edu/~lubint
+
+Tel : (office) 540.458.8146; (home) 540.463.6833
+Fax: 540.458.8498
+
+>>> Earlier I wrote: >>>
+
+> I possess a privately made cassette of Prof. Nagaraja Rao, of
+Mysore,
+> illustrating various meters in a quite beautiful style of chanting. 
+> Most of the examples are from the works of Kaalidaasa and from
+> Bhart.rhari's "Satakatraya.  In the course of this he also recounts
+some
+> amusing anecdotes about Appayadiik.sita.
+>  
+> I will see about getting these recordings transferred to digital
+format
+> so that it can be made readily available if anyone else is
+interested.
+>  
+> Tim Lubin
+> Washington and Lee University
+> 
+> >>> mkapstei at UCHICAGO.EDU 12/29/05 7:48 PM >>>
+> 
+> Can anyone recommend some goods sources for digital
+> recordings of spoken Sanskrit, Sanskrit poetry and dramatic
+> recitation, etc.? Examples of the chants used for
+> reciting various meters would be of particular interest.
+> A recorded anthology of Sanskrit poetry, I suppose, is too
+> much to hope for just yet.
+> 
+> Matthew Kapstein
+> 
+
+
+

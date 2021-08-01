@@ -1,0 +1,48 @@
++++
+title = "07 Sudalaimuthu Palaniappan"
+date = "1999-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-April/016449.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-April/016449.html)
+
+In a message dated 3/31/99 6:56:53 AM Central Standard Time,
+venkatraman_iyer at HOTMAIL.COM writes:
+
+> The AlavAy myth
+>  as the snake encircling Madurai, a fine analysis in
+>  D. Shulman, Tamil temple myths, 1980;
+
+On the contrary, David Shulman and following him William Harman have simply
+missed the mark in understanding the true history of the name AlavAy.
+
+William Harman (Sacred Marriage of a Wedding Goddess, p. 39) says, "Shulman
+(1980, 125) theorizes that this etymology may accurately reflect the ancient
+origins of the association of Madurai with a serpent, and that ziva's role
+came later. Specifically, he presents the possibility that before ziva's
+explicit association with the snake of Madurai, there may have been a temple
+dedicated to a snake in that city. The four early temples associated with
+Madurai were those to the virgin (kan2n2i), viSNu (kariyamAl), kALi, and the
+Serpent (AlavAy). Given ziva's frequent association with serpentine
+symbolism, it would have been a simple matter to identify a temple dedicated
+to a serpent with ziva, the hypothetical latecomer of the group of four."
+
+They seem to have been unaware of the following verse from nampi's
+tiruviLaiyATal.
+
+pAkam aGkayal nOkkiyAr parivum aGku ayal nOkki Ar
+mOkam nantuRa an2pin2 nAl mun2ivar nantuRa van2pin2Al
+mAkam on2Riya AymaiyAl vantu ilaGkiya vAymaiyAl
+Akamam pakar AlavAy amutaman2 tiru AlavAy
+
+(tiruvAlavAyuTaiyAr tiruviLaiyATal purANam, tirunakarac ciRappu-11)
+
+The original temple in the Madurai area associated with a snake was a viSNu
+temple where AdizeSa was worshipped. That temple was different from the ziva
+temple. Both are mentioned in the poems of paripATal tiraTTu.
+
+Regards
+S. Palaniappan
+
+
+

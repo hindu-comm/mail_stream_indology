@@ -1,0 +1,37 @@
++++
+title = "19 Gruenendahl, Reinhold"
+date = "2009-06-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-June/033314.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-June/033314.html)
+
+GRETIL is pleased to be able to report the following addition(s) to its
+collection:
+
+
+Jayatirtha: Nyayasudha, a commentary on Madhva's Anuvyakhyana [and subcomm.
+on Brahmasutra], Adhyaya 1, Pada 1:
+
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#JayNysu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#JayNysu> 
+
+
+
+__________________________________________________________________________
+
+"GRETIL is intended as a cumulative register of the numerous download sites
+for electronic texts in Indian languages." (from the 2001 "mission
+statement")
+
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+<https://vs.exc.top.gwdg.de/exchweb/bin/redir.asp?URL=https://vs.exc.top.gwdg
+.de/exchweb/bin/redir.asp?URL=https://vs.exc.top.gwdg.de/exchweb/bin/redir.as
+p?URL=http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm> 
+
+
+
+
+

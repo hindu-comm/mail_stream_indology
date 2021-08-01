@@ -1,0 +1,28 @@
++++
+title = "130 Arun Gupta"
+date = "2001-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026088.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026088.html)
+
+Elst's book "Update on the Aryan Invasion Debate" is available on-line,
+at http://www.voi.org/books/ait/
+
+so it is possible to check what debate is meant.
+
+As Rohan Oberoi pointed out, the debate is political in nature;
+
+http://www.voi.org/books/ait/ch12.htm
+
+discusses Elst's view of the political debate in India.
+
+The debate was hardly over three decades ago, if, as quoted by Elst,
+in 1991 a ex-member of Parliament could write "Sanskrit should be deleted
+from the Eighth Schedule of the Constitution because it is a foreign
+language brought to the country by foreign invaders - the Aryans."
+
+-Arun Gupta
+
+
+

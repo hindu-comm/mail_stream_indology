@@ -1,0 +1,26 @@
++++
+title = "97 Viktoria Lysenko"
+date = "2014-11-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-November/040199.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-November/040199.html)
+
+
+Dear members of the list,
+I  need a scan or pdf of the  book The Buddhist Philosophy of Thought: Essays in Interpretation by Alexander Piatigorsky.
+ I am preparing a book of his early buddhological papers in Russian and I have to write an introduction with the account of his later works in English.
+Warm regards,
+Victoria
+
+-- 
+Victoria Lysenko, dr.hab.philos.
+Head, Department for Oriental philosophy studies
+Institute of Philosophy, Russian Academy of Sciences
+Moscow, Volkhonka, 14
+Professor, Russian State University for Humanities
+Russia
+
+
+
+

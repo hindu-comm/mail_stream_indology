@@ -1,0 +1,68 @@
++++
+title = "102 Lars Martin Fosse"
+date = "2007-01-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030314.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030314.html)
+
+Whitney Cox wrote:
+
+> research.  The complaints from administrative types that I 
+> have most frequently encountered about the study (especially 
+> the linguistic study) of premodern India are
+> two: low student enrollment beyond the most elementary level, 
+> and the lack of high-profile, income-generating research 
+> projects.  
+
+This is at the core of the matter. In Oslo, and presumably elsewhere,
+subjects are funded according to enrollment and the production of "study
+points". It is also difficult to see how Sanskrit could generate
+income-generating research projects on a large scale. 
+
+Nor is it ever likely that there will be a large number of Sanskrit
+students. This is simply because there are no jobs for them outside a
+university. If the authorities invented a position of "municipal Indologist"
+and required every municipality to have one, there would be lots of Sanskrit
+students. As it is, most students study Indology as a companion to some
+other line of study (again, Oslo experience). E.g. history of religion,
+Sanskrit's hottest customer in Oslo after comparative linguistics were
+abrogated. 
+
+Thus, the study of Sanskrit must be justified through its intellectual
+merits. Sanskrit is a key to understanding not only India's past, but also
+its present. Any justification of Sanskrit directed at political authorities
+and university administrations must in my opinion emphasize this connection
+between India's ancient traditions and the political issues of today (e.g.
+Hindutva).
+
+I don't want to demonize anybody, I realize that university administrations
+must live with the directives they get from their governments. But it is
+clear to me that subjects with many students and relatively few teachers
+will try to "catch" positions occupied by scholars with few students - such
+as Sanskrit. This is normal Darwinism and not very shocking, but it is not a
+"good thing". 
+
+Thus, it is a good idea to create position papers and other material that
+are available on the Indology site. We need clear presentations of what
+Indologists do, and what their contribution is to society.
+
+Lars Martin Fosse
+
+
+
+From: 
+Dr.art. Lars Martin Fosse 
+Haugerudvn. 76, Leil. 114, 
+0674 Oslo - Norway 
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250 
+Mobile phone: +47 90 91 91 45 
+E-mail: lmfosse at chello.no 
+http://www.linguistfinder.com/translators.asp?id=2164
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
++++
+title = "38 Gruenendahl, Reinhold"
+date = "2010-07-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-July/034605.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-July/034605.html)
+
+GRETIL is pleased to be able to report the following addition(s) to its
+collection:
+
+Civaravastu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vinv07> 
+
+
+Karmavastu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vinv10> 
+
+
+Kathinavastu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vinv08> 
+
+
+Kosambakavastu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vinv09> 
+
+
+Parivasikavastu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vinv13> 
+
+
+Posadhasthapanavastu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vinv14> 
+
+
+Pudgalavastu
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vinv12> 
+
+__________________________________________________________________________ 
+
+"GRETIL is intended as a cumulative register of the numerous download sites
+for electronic texts in Indian languages." (from the 2001 "mission
+statement") 
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages: 
+
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+

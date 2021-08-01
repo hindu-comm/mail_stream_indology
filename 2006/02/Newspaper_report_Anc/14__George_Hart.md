@@ -1,0 +1,107 @@
++++
+title = "14 George Hart"
+date = "2006-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-February/029603.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-February/029603.html)
+
+For more on this, including some wonderful pictures, see
+
+hhttp://www.hinduonnet.com/fline/fl2213/stories/20050701000106500.htm
+
+Tamil Brahmi writing should be recognizable as such -- since it is  
+somewhat different from the Indo-Aryan variants.
+
+Another article says
+
+The centrepiece contained Tamil writing in very rudimentary Tamil  
+Brahmi, engraved inside an urn. Epigraphists have tentatively read  
+the writing as "ka ri a ra va [na] ta."
+
+(see http://www.hindu.com/2005/04/03/stories/2005040301931400.htm)
+
+I don't know what that would mean (in Tamil or Prakrit), but it would  
+certainly not be surprising to find an inscription in old Tamil  
+Brahmi dating from about 200 BCE.
+
+George Hart
+
+On Feb 15, 2006, at 10:12 AM, Ashok Aklujkar wrote:
+
+> Some list members may find the following news item useful,  
+> particularly
+> because of its mention of iron and a Brahmi Tamil inscription  
+> ("Brahmin" in
+> the news item seems to be a typo for Brahmi; it is not clear to me  
+> how the
+> inscription was determined to be Tamil and incomplete if it is not yet
+> decoded; perhaps "decoded" is to be understood as 'not fully  
+> deciphered')
+>
+> ashok aklujkar.
+>
+> From The Statesman, Monday, !3 Feb 06
+>
+> Ancient sea link discovered by ASI
+>
+> Press Trust of India
+>  CHANDIGARH, Feb. 12. — Unraveling some facts buried in history,  
+> experts
+> from Archaeological Survey of India said the possibility of a sea link
+> between south India and the rest of Asia about 3,800 years ago  
+> could not be
+> ruled out.
+>  Mr Arun Malik, an archaeologist with ASI, Chennai, while throwing  
+> light on
+> Adichannallur civilisation, said here that the observation of human
+> morphological types based on the cranial evidences point to the  
+> existence of
+> more than one racial and ethnic group in that region during the  
+> period of
+> the civilisation’s long geo-historic period. “Occurrences of  
+> intermediate
+> and pure traits of yellow race of South–east and Far-east Asia and  
+> typical
+> ethnic and tribal Indians on the external morphology of the skulls  
+> and bones
+> give credence to the fact that a sea trade may have been there,”  
+> said Mr P
+> Raghavan, a bio-anthropologist currently assisting ASI, Chennai, in  
+> studying
+> geo-morphological aspects.
+>  Mr Malik said the latest excavations at the Adichanallur’s pre- 
+> historic
+> site along the coast of Tuticorin in Tamil Nadu have yielded more  
+> than 160
+> urns, many of which contained hundreds of different-sized  
+> potteries. Husk,
+> paddy and other cereals have also been found in the urns.
+>  He said the people of Adichanallur were agrarian in nature who also
+> mastered blacksmithery and made a variety of iron implements.
+>  “The engraved drawings on the clay urns narrate the decoded  
+> ecological,
+> environmental and cultural significance. For example, a fascinating  
+> art
+> showing a tall dancing female with a large-sized reptile, probably a
+> crocodile, and a member of a deer group explain the pre-historic  
+> faunal and
+> floral wealth. An incomplete ancient Brahmin Tamil script engraved  
+> on inner
+> surface of urn is yet to be decoded,” said Mr Malik. On the  
+> practice of
+> burying their dead, Mr Malik said most of the burials were in  
+> association
+> with iron and copper metallic objects like swords, knives and bangles.
+>  Mr Raghavan said he had identified a unique pre-historic discovery  
+> of a
+> stillborn baby. “The foetus is about 3-5 months old, which I found  
+> from one
+> of the urns. Association of fossilised bird bones and domesticated  
+> cattle
+> teeth further throw light on the pre-historic domestication of  
+> animals,” he
+> said.
+
+
+

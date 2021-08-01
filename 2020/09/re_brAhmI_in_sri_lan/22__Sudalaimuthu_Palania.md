@@ -1,0 +1,86 @@
++++
+title = "22 Sudalaimuthu Palaniappan"
+date = "2020-09-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-September/053306.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-September/053306.html)
+
+In this lecture at Harvard University in 2016, Prof. Nayanjot Lahiri seems to support Rajan’s dates.
+
+
+
+https://www.youtube.com/watch?v=R6545ZZ2LCo
+
+
+
+Regards,
+
+Palaniappan
+
+
+
+From: Sudalaimuthu Palaniappant <palaniappa at aol.com>
+Date: Thursday, September 10, 2020 at 12:47 PM
+To: "Tieken, H.J.H." <H.J.H.Tieken at hum.leidenuniv.nl>, Indology List <indology at list.indology.info>
+Subject: Re: [INDOLOGY] Brāhmī in Sri Lanka
+
+
+
+Dear Herman,
+
+
+
+Have you looked at the discussion of Tamil Brahmi inscriptions in K. Rajan’s “Early Writing System: A Journey from Graffiti to Brahmi”, Pandya Nadu Centre for Historical Research, Madurai, 2015? See pp. 404-405. Table 8.2 on p. 407 has six pot sherds with Tamil Brahmi dated between 4th to 6th century BCE.
+
+
+
+Rajan states on p. 400, “The close observations of Damiḻi (Tamiḻ-Brāhmī) and Sri Lankan Brāhmī (Prakrit-Brāhmī) suggest they had close relations with each other in terms of paleography, probably due to geographical proximity, than the Aśokan-Brāhmī.”
+
+
+
+Regards,
+
+Palaniappan
+
+
+
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Indology List <indology at list.indology.info>
+Reply-To: "Tieken, H.J.H." <H.J.H.Tieken at hum.leidenuniv.nl>
+Date: Thursday, September 10, 2020 at 5:17 AM
+To: Indology List <indology at list.indology.info>
+Subject: [INDOLOGY] Brāhmī in Sri Lanka
+
+
+
+Dear List members,
+
+
+
+In "Pasage to India? Anuradhapura and the Early Use of the Brahmi Script" (Cambridge Archaeological Journal 6/1 (1996), pp. 73-97) Coningham et al. conclude that the Brāhmī script was used on Sri Lanka by traders at least a century earlier than in "India" by Aśoka. His dating of the inscribed pottery shreds in question is based on the radiocarbon method. In fact, a large part of the article is dedicated to a discussion of this method. What I would like to know is if there has been a reaction to Coningham's conclusions. Salomon (1998) does not discuss them and von Hinüber (1990) and Falk (1993) could not.
+
+
+
+With kind regards, Herman Tieken 
+
+
+
+Herman Tieken
+
+Stationsweg 58
+
+2515 BP Den Haag
+
+The Netherlands
+
+00 31 (0)70 2208127
+
+website: hermantieken.com
+
+_______________________________________________ INDOLOGY mailing list INDOLOGY at list.indology.info indology-owner at list.indology.info (messages to the list's managing committee) http://listinfo.indology.info (where you can change your list options or unsubscribe) 
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200910/0b07b47b/attachment.htm>

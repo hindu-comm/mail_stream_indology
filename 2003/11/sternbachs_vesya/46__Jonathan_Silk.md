@@ -1,0 +1,26 @@
++++
+title = "46 Jonathan Silk"
+date = "2003-11-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-November/028002.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-November/028002.html)
+
+My thanks to Roland Steiner who provided full details for Sternbach's
+works on Vesya. Now all that remains is to find copies!
+
+many thanks, jonathan
+--
+Jonathan Silk
+Department of East Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310)206-8235
+fax:  (310)825-8808
+silk at humnet.ucla.edu
+
+
+

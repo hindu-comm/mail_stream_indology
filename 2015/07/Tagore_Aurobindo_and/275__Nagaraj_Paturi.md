@@ -1,0 +1,45 @@
++++
+title = "275 Nagaraj Paturi"
+date = "2015-07-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041687.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041687.html)
+
+>But American cultural historians don't spend all their time drumming up
+hatred for ​Indian​ scholars of American history and culture, >just because
+they're​ Indian.  Why would they?
+
+I hope it is not intended to communicate that  'Indian cultural historians
+spend all their time drumming up hatred for American scholars of Indian
+history and culture', or circularly 'those who spend all their time
+drumming up hatred for American scholars of Indian history and culture are
+called Indian cultural historians'.
+
+Just as American scholars of Indian history and culture are called American
+Indologists, I think ​Indian​ scholars of American history and culture can
+be called Indian Americologists. Is there a field called 'Americology'? Are
+there Indian Americologists?
+
+Since I do not know if the word Indian Americologists exists or not, let me
+use the word ​Indian​ scholars of American history and culture only. May I
+know how many of these are there? How big or small is their group? Is their
+influence on the American education on America comparable in proportion to
+the influence of western Indologists on Indian education of India?
+
+Is the size of the group of Egyptian Americologists anywhere close to the
+size of group of American and/or European Egyptologists?
+
+Thought these questions may help understand some Indian perspectives about
+certain portions of western Indology that create inconveniences/problems to
+different sections and/or aspects of Indian society, empathetically.
+
+
+-- 
+Prof.Nagaraj Paturi
+Hyderabad-500044
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150727/5a88868c/attachment.htm>

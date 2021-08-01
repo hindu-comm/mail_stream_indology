@@ -1,0 +1,89 @@
++++
+title = "80 Roland Steiner"
+date = "2007-06-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030909.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030909.html)
+
+The metre in question is an ardhasamav.rtta called Pu.spitaagraa (odd  
+paada-s: na-na-ra-ya; even paada-s: na-ja-ja-ra-ga). Cf. e.g., the  
+definition in Ratnaakara;saanti's Chandoratnaakara 3.10.
+
+In fact, the Pu.spitaagraa is a "frozen" maatraav.rtta of the  
+Aupacchandasaka (or, Aupacchandasika) type. The odd paadas (1 and 3)  
+of an Aupacchandasaka consist of 6 maatraa-s or morae (i.e. three  
+ga.na-s of 2 morae each) plus the two ga.na-s ra (-u-) and ya (u--):
+
+uu/- uu/- uu/- + -u- u--
+
+The even paada-s (2 and 4) consist 8 maatraa-s (i.e. four ga.na-s of 2  
+morae each) plus ra (-u-) and ya (u--):
+
+uu/- uu/- uu/- uu/- + -u- u--
+
+Thus, the Aupacchandasaka could also be described as a Vaitaaliiya  
+with an additional long syllable at the end of each paada. A  
+definition is found, e.g., in Ratnaakara;saanti's Chandoratnaakara  
+5.14. There is also a "frozen" form of the Vaitaaliiya metre, viz.,  
+the ardhasamav.rtta called Aparavaktra (metrical structure: odd  
+paada-s na-na-ra-la-ga; even paada-s na-ja-ja-ra); cf.  
+Chandoratnaakara 3.9.
+
+With kind regards,
+Roland Steiner
+
+
+----- Nachricht von zysk at HUM.KU.DK ---------
+      Datum: Tue, 19 Jun 2007 15:49:46 +0200
+        Von: Kenneth Zysk <zysk at HUM.KU.DK>
+Antwort an: Indology <INDOLOGY at liverpool.ac.uk>
+    Betreff: Help with metre
+         An: INDOLOGY at liverpool.ac.uk
+
+
+> I should appreciate help with a metre found in several verses from the
+> Shardulakarnavadana.
+>
+>
+>
+> Padas 1 and 3 are 12 syllables: uuuuuu-u-u--
+>
+>
+>
+> Padas 2 and 4 are 13 syllables: uuuu-uu-u-u--
+>
+>
+>
+> Thanks,
+>
+> KZ
+>
+>
+>
+>
+>
+> Kenneth Zysk
+>
+> Department of Cross-Cultural and Regional Studies
+>
+> University of Copenhagen
+>
+> Asian Studies Section
+>
+> Leifsgade 33,5
+>
+> DK-2300 Copenhagen S  Denmark
+>
+> Ph: +45 35328832
+>
+> Fax: +45 35328835
+>
+>
+>
+
+
+----- Ende der Nachricht von zysk at HUM.KU.DK -----
+
+
+

@@ -1,0 +1,34 @@
++++
+title = "69 Seishi Karashima"
+date = "2016-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044160.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044160.html)
+
+Dear colleagues,
+
+  Could you help me to obtain PDF copies of the following book and article?
+
+
+(1) John K. Locke, *Buddhist Monasteries of Nepal: A Survey of the Bahas
+and Bahis of the Kathmandu Valley*, Kathmandu 1985: Sahayogi Press.
+
+
+(2) P.V. Bapat, "Narayanabala," Studia Indologica Internationalia, I.
+(Poona and Paris, 1954)
+
+
+"Studia Indologica Internationalia" is an enigma. I have asked colleagues
+in India, Paris etc., but nobody knows about it. However, it is quoted in
+old articles.
+
+
+Many thanks in advance,
+
+Seishi Karashima
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160918/c180caad/attachment.htm>

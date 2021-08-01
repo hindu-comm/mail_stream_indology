@@ -1,0 +1,38 @@
++++
+title = "248 Subrahmanya S."
+date = "2000-07-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021954.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021954.html)
+
+Dr.Witzel,
+
+Please be assured that I will give quotes from your writings
+that talk of the tanks soon.
+Yes, you have not used the exact word panzer.
+The idea of fast IE chariot tanks and superiority in horse
+handling is one of the underlying foundations on which the dispersal of IE
+languages is based.
+
+It still mystifies me that how one can assume that because someone might
+have spoken in an IE language that they had superior horse handling skills ?
+Also, none of the eminent scholars have proven that there is an
+mapping between IE languages and IE culture (the great scholar Mallory even
+has a Encyclopedia of IE culture!).
+
+As for arguing techniques, I have seen enough of your gems
+both on this list and in published papers. I will compile them
+and post it when I do get time.
+
+BTW, your trying to get Dr.Kochhar on to your side by schmoozing
+is most humorous. This reminds me of the time when you tried the same with
+Dr. Bh. Krishnamurthi in the past and got called on it.
+
+Regards,
+Subrahmanya
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

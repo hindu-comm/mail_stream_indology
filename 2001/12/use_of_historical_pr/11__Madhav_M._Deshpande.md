@@ -1,0 +1,29 @@
++++
+title = "11 Madhav M. Deshpande"
+date = "2001-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-December/026491.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-December/026491.html)
+
+A student here at Michigan from the Classics Dept is working on the use of
+historical present in Greek dramas, and wanted to know if there was any
+similar study of the use of historical present in Sanskrit.  Evidently, he
+finds the use of historical present more typical in the usage of female
+characters, or of those males who were looked upon as being feminine, i.e.
+Persians.  Any suggestions will be appreciated.
+
+
+Madhav Deshpande
+
+***************************************************************
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+3070 Frieze Building
+The University of Michigan
+Ann Arbor, Michigan 48109-1285, USA
+***************************************************************
+
+
+

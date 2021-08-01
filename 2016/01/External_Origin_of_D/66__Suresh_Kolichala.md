@@ -1,0 +1,103 @@
++++
+title = "66 Suresh Kolichala"
+date = "2016-01-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-January/042585.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-January/042585.html)
+
+Dear Nagaraj gaaru,
+
+I hope you agree that the verb form ir- 'to be' *[DEDR 480]* either as
+copula or independent verb cannot be attested in Telugu. This verb, so
+important in South Dravidian, is remarkably absent in Central and North
+Dravidian languages, and in many of South-Central languages. In Telugu, you
+may find noun forms such as iravu 'place', irugu 'neighbour, neighbourhood'
+etc. which can possibly be argued as recent borrowings from Kannada or
+Tamil.
+
+The words *ṟē**vu* (ఱేవు), *ṟē**vaḍu* (ఱేవడు), *ṟē**vadi* (ఱేవది) etc. are
+not derived from  'iravu' (<ir-) (note the alveolar trill, instead of
+tap). They
+are related to *[DEDR 516]*  *iṯ-/iṟ- 'to descend', 'to go beyond' *iṟaṅku*
+(*iṟaṅki*-) to descend, alight, fall (as rain), disembark; *iṟaṅkal* place
+of descent, of debarkation etc.
+
+If you believe in my proposed theory of external origin of Dravidian, then
+the whole question of what constitutes Proto-Dravidian becomes problematic.
+ Under the usual historical linguistic principles, words and features found
+only in one branch (South Dravidian, in this case) do not provide evidence
+for parent language (Proto-Dravidian). But Dravidian linguists have been
+wrongly reconstructing words and features found only in South Dravidian
+(esp. Tamil) to the parent language under the assumption that Tamil
+represents the archaic form of Dravidian. It is a classic catch-22
+situation.
+
+I believe there is an urgent need to reevaluate the Dravidian languages
+considering the possibility of pre-Dravidian substrata in various branches
+of the Dravidian languages. Suspending the belief that Tamil represents the
+most archaic form of Dravidian would be a starting point in this endeavour.
+
+Regards,
+Suresh.
+
+
+On Sat, Jan 23, 2016 at 4:11 AM, Nagaraj Paturi <nagarajpaturi at gmail.com>
+wrote:
+
+> Sorry for going back to a week old post by Mr Suresh Kolichala
+>
+> > The copula verb man- 'to be' is replaced by ir- 'to be' in the South
+> Dravidian languages. As you know, ir- 'to be' is not found in
+> South-Central, Central and North Dravidian languages. (ir- most likely a
+> local verb for 'to be')
+>
+> It is true that 'ir-' is not the copula verb in south-central. In Telugu,
+> the major language of the south-central, the copula verb is 'agu' (<ak) =
+> to be as/ to become. unD =to be which is found in Malayalam in copula
+> situations is found in Telugu as an independent 'to be'  verb in
+> non-equational VP sentences.
+>
+> >(ir- most likely a local verb for 'to be')
+>
+> gives me the impression that you consider that the root 'ir-' is not found
+> in south-central. But the word iravu ( as in chImalu peTTina puTTalu
+> paamulakiravaina yaTlu- sumatIs'atakamu ) is a nominalization of the verb
+> root 'ir-' only. The words rEvu , rEvaDu/ rEvaDi etc. form from 'iravu'
+> (<ir-) through metathesis.
+>
+> Another point is,is it not a good idea to count the number of
+> Proto-Dravidian features retained by Tamil and the other Dravidian members
+> to decide which is the 'most conservative among Dravidian languages' ? ( I
+> do not think that there was any claim that all the Proto-Dravidian features
+> are retained by Tamil only and no other Dravidian language retained
+> Protodravidian features.)
+>
+> -N
+> --
+> Nagaraj Paturi
+>
+> Hyderabad, Telangana, INDIA.
+>
+> Former Senior Professor of Cultural Studies
+>
+> FLAME School of Communication and FLAME School of  Liberal Education,
+>
+> (Pune, Maharashtra, INDIA )
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160123/3e9c8ca5/attachment.htm>

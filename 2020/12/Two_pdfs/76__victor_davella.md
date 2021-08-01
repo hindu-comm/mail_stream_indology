@@ -1,0 +1,31 @@
++++
+title = "76 victor davella"
+date = "2020-12-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-December/053875.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-December/053875.html)
+
+Dear all,
+
+I am hoping that someone might be able to provide me with the BORI
+Descriptive Catalogues for grammatical texts. I have only Vol. II; Part II
+on non-Pāṇinian Schools, but I can't find the first volume/parts (although
+I thought I had them at some point).
+
+I have also been slightly perplexed about the publication of the
+Kāvyakāmadhenu, V/Bopadeva's auto-commentary on the Kavikalpadruma. From
+what I've found on archive.org and the bibliography in the Encyclopedia of
+Indian Philosophy (The Philosophy of the Grammarians), it seems not, but I
+would be happy if this weren't the case. I have found an MS on the
+archive.org.
+
+Many thanks and a good start to a happier new year.
+
+All the Best,
+Victor
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201231/6224f6ff/attachment.htm>

@@ -1,0 +1,42 @@
++++
+title = "20 Michael Witzel"
+date = "2001-08-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-August/026278.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-August/026278.html)
+
+Steve Farmer and I are happy to announce that our "Horseplay" piece in
+Frontline of Oct. 13, 2000 has now also been published in HINDI, by Sahmat,
+New Delhi.
+
+This piece  exposes N Jha's and NS  Rajaram's fantasy "decipherment" of the
+Indus script  (e.g,  "100 noisy crows"!) and the closely linked horse seal
+fraud (featuring a "translation" of the half-bull-turned-horse seal
+inscription that allegedly refers to a horse!).
+
+The Hindi version is available at the following URL as pdf file.
+
+http://www.safarmer.com/frontline/hindi.html
+
+and via my web site
+
+http://www.people.fas.harvard.edu/~witzel/mwpage.htm
+
+
+
+Enjoy!
+
+M. Witzel
+========================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.people.fas.harvard.edu/~witzel/mwpage.htm
+
+Elect. Journ. of Vedic Studies: http://nautilus.shore.net/~india/ejvs/
+
+
+

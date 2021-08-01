@@ -1,0 +1,49 @@
++++
+title = "17 Dominik Wujastyk"
+date = "1999-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019311.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019311.html)
+
+Dear Mr Abbas,
+
+Please do not post messages like this to the list.  There is some
+informatoin, true (the URL), but the general message you are delivering is
+not informative, nor useful.  Also, it violates the INDOLOGY policy of not
+discussing AIT.
+
+
+On Wed, 1 Dec 1999, Samar Abbas wrote:
+
+> > Koenraad Elst wrote: " Max Mueller, whose estimate was partly
+> > predetermined by his belief in Biblical chronology."
+>
+> As a result, Max's Biblical AIT involving only one Aryan Invasion has now
+> been discarded. Instead, the hypermodern AIT involves at least 13 Aryan
+> Invasions. So little Max should read another Bible :
+>
+> `The Bible of Aryan Invasions' by Prof. Uthaya Naidu at
+>   http://dalitstan.org/journal/brahman/bibai/bibai.html  (full book)
+>
+> There little Max & Co. will learn about the Guptan, Asokan and Mauryan
+> Aryan Invasions and be astonished at how far science has gone since Adolf.
+>
+> > Vishal Agarwal wrote: " And Dr. Zydenbos was the one who assumed that
+> > Indigenists are all Hindutavaadis."
+>
+>  Good God ! What a crime - maybe he should be imprisoned along with
+> Mahatma Khan. Before that, the Puranic OIT followers should read the
+> Bible of AI and then try to refute hypermodern history rather than
+> "slash punctured tyres".
+>
+> Samar
+>
+
+--
+--
+Dominik Wujastyk
+Founder, INDOLOGY list
+
+
+

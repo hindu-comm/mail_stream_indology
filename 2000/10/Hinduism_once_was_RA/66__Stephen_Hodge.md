@@ -1,0 +1,49 @@
++++
+title = "66 Stephen Hodge"
+date = "2000-10-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023019.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023019.html)
+
+Ven Tantra wrote:
+
+> As an ordained "Buddhist" priest/monk of many years
+> standing, I am perfectly willing to call myself
+> "Hindu," at least in so far as my religion is [I am
+> speaking rhetorically] "Hindu."
+
+As a former Buddhist monk myself, I am not at all willing to call
+myself "Hindu" as the term is both confusing and misleading -- not
+that I have any personal antagonism towards Hindus or anybody else.
+
+> And as for the founder of
+> this tremendously long-lived religious movement, I
+> would uncompromisingly identify him as a
+> K.satriya-caste Hindu named Gautama. And in boldly
+> underscoring his Indian-ness....
+
+Do you mean he was a "Hindu" culturally or ethnically ?   I suppose he
+was to a degree a "Hindu" (= central/north-eastern Indian) culturally
+although this may have been exaggerated by later hagiographers for
+obvious reasons.  However, one could question whether he was a "Hindu"
+ethnically whatever that might mean -- as I said above, I think the
+term as you suggest using it is too vague and imprecise.  Of course,
+one might use the word "Hindu" as an ethnic blanket term for anybody
+living in the Indian sub-continent but I believe it is not at all
+clear whether the inhabitants of the Shakyan polity including Gautama
+himself (and of the nearby V.rjian confederacy) were of Indo-Aryan
+origin -- given the proximity of those states to regions still
+inhabited by many people of Tibeto-Burman or Austro-Asiatic ethnicity.
+Also, how do we know that he was a k.satriya ?   Did he actually say
+so himself or was this a label applied to his lineage by later
+"Hindus" in order to pigeonhole him into their views of societal
+organization ?
+Having made these points, I agree with the other sentiments expressed
+in your posting.
+
+Best wishes,
+Stephen Hodge
+
+
+

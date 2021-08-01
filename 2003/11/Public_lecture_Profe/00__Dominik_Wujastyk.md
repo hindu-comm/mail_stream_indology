@@ -1,0 +1,54 @@
++++
+title = "00 Dominik Wujastyk"
+date = "2003-11-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-November/027963.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-November/027963.html)
+
+---------- Forwarded message ----------
+Date: Mon, 3 Nov 2003 11:52:19 -0000
+From: Sian Hawthorne <melusine51 at hotmail.com>
+Subject: Public lecture: Professor Wendy Doniger
+
+Please could you forward this to any relevant email lists?
+
+many thanks
+
+Sian
+
+
+The Centre for Gender & Religions Research is delighted to announce a public
+lecture by Professor Wendy Doniger, University of Chicago:
+
+'Indian Variants of the Myth of the Woman Who Pretended To Be Herself'
+
+
+14th November 2003, 16:00–17:30
+Rm B102, Brunei Gallery, SOAS
+Thornhaugh Street, Russell Square
+London WC1H 0XG
+
+Many cultures tell stories about people who, through a kind of triple cross,
+pretend to be someone else pretending to be them, thus in effect
+masquerading as themselves, pretending to be precisely what they are. This
+theme appears in India in two plays by Harsha, in Bhavabhuti's retelling of
+the Ramayana, and in the Hindi film Satyam Shivam Sundaram. Together these
+texts suggest that many people must put on masks to discover who they really
+are under the masks they really wear; and that, although such masquerades
+cannot change them into someone else, they may change them into others among
+their many selves.
+
+
+All are welcome!
+
+Directions for getting to SOAS can be found at
+http://www.soas.ac.uk/contact/location.cfm?navid=1110
+
+
+For further information contact Sîan Hawthorne (Email: sh79 at soas.ac.uk; Tel:
+020 7898 4774, Rm 330) or Jane Clifford (janeclifford at talk21.com; Tel: 020
+7898 4774, Rm 330)
+
+
+

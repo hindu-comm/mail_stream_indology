@@ -1,0 +1,100 @@
++++
+title = "150 Harry Spier"
+date = "2019-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-February/049410.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-February/049410.html)
+
+Thank you to Madhav Deshpande, Krishnaprasad G,  Greg Bailey , lubomir
+Ondracka, Roland Steiner, Jonathan Silk and especially Peter Wyzlic who
+provided the links to the Calcutta edtion.
+
+Harry Spier
+
+On Mon, Feb 25, 2019 at 10:31 AM Madhav Deshpande via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Peter,
+>
+>      Thank you so much for these links to the Calcutta edition.  I have
+> had the same trouble tracing references in B-R previously.
+>
+> Madhav M. Deshpande
+> Professor Emeritus
+> Sanskrit and Linguistics
+> University of Michigan
+> [Residence: Campbell, California]
+>
+>
+> On Mon, Feb 25, 2019 at 7:14 AM Peter Wyzlic via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Who wants to check the volumes of the Calcutta edition and has no
+>> library at hand may find some digitized versions in the usual places:
+>>
+>> English title: The Mahábhárata : an epic poem, written by the celebrated
+>> Veda Vyása Rishi (1834-1839)
+>>
+>> Vol. 1:
+>> <https://books.google.de/books?id=tNJCAAAAcAAJ>
+>> <https://reader.digitale-sammlungen.de/resolve/display/bsb10219681.html>
+>>
+>> Vol. 2:
+>> <https://archive.org/details/dli.bengal.10689.5713/>
+>> <https://books.google.de/books?id=6tJCAAAAcAAJ>
+>> <https://reader.digitale-sammlungen.de/resolve/display/bsb10219682.html>
+>>
+>> Vol. 3:
+>> <https://archive.org/details/in.ernet.dli.2015.344956/>
+>> <https://archive.org/details/in.ernet.dli.2015.487250/>
+>> <https://archive.org/details/dli.bengal.10689.5939/>
+>> <https://books.google.de/books?id=H9NCAAAAcAAJ>
+>> <https://reader.digitale-sammlungen.de/resolve/display/bsb10219683.html>
+>>
+>> Vol. 4:
+>> <https://archive.org/details/in.ernet.dli.2015.486387/>
+>> <https://archive.org/details/in.ernet.dli.2015.344977/>
+>> <https://archive.org/details/dli.bengal.10689.5715/>
+>> <https://books.google.de/books?id=SNNCAAAAcAAJ>
+>> <https://reader.digitale-sammlungen.de/resolve/display/bsb10219684.html>
+>>
+>> Volume with Sūcīpatra (sometimes numbered vol. 5)
+>> <https://books.google.de/books?id=Am5StAEACAAJ>
+>> <https://reader.digitale-sammlungen.de/resolve/display/bsb10622385.html >
+>>
+>> There are more, I guess.
+>>
+>> Hope it helps
+>> Peter Wyzlic
+>>
+>> --
+>> Universität Bonn
+>> Institut für Orient- und Asienwissenschaften
+>> Bibliothek
+>> Brühler Str. 7
+>> D-53119 Bonn
+>> Tel.: 0228/73-62436
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190225/c5fa2c20/attachment.htm>

@@ -1,0 +1,40 @@
++++
+title = "22 Daniela Rossella"
+date = "2003-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027484.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027484.html)
+
+Dearest Friends and Colleagues, please visit the web page of Calcutta
+Conference organised by professor C. Chakrabarti:
+http://www.columbia.edu/cu/lweb/data/indiv/southasia/cuvl/conf/1-04Calcutta.
+html
+
+A lot of possible themes are enumerated; I'm attempting to organise a panel
+in this one:
+Mysticism and Romanticism
+
+If someone of Us suppose to be glad to participate in, please let me know.
+I write this e-mail in accord with Prof. Chakrabarti's kind request.
+
+Best wishes,
+
+Daniela Rossella
+
+
+
+******************************************************************
+Ph.D. Dr. Daniela Rossella
+Department Assistant -
+University of Perugia (Italy)
+University of Milano (Italy)
+home address: piazza Buzzati, 5
+43100 PARMA (Italy)
+fax: +39.0521.773854
+e-mail: ghezziem at tin.it
+http://www.columbia.edu/cu/lweb/data/indiv/area/idsas/ROSSELLA,Daniela.htm
+******************************************************************
+
+
+

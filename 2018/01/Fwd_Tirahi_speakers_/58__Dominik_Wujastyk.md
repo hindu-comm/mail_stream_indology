@@ -1,0 +1,49 @@
++++
+title = "58 Dominik Wujastyk"
+date = "2018-01-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-January/047158.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-January/047158.html)
+
+​Dear Raph,
+
+
+I am forwarding your message to the INDOLOGY forum.  Your query is going
+out to the list membership (700 scholars) and perhaps *somebody* will know
+enough Tirahi <https://en.wikipedia.org/wiki/Tirahi_language> to help, or
+can give you a pointer to someone else who knows the language and can help
+you promote the Sapir-Whorf hypothesis amongst Tirahi speakers :-)
+
+
+Dear INDOLOGY members, please reply directly to Dr Paraschos.
+
+
+---------- Forwarded message ----------
+From: Raphael Paraschos <raphael at vervesearch.com>
+Date: 11 January 2018 at 09:10
+Subject: Tirahi speakers needed
+
+
+Hello Mr Wujastyk,
+
+I hope you're well today. I found your email address after stumbling upon
+Indology's website. I'm conducting research for a project I'm working on,
+aiming to raise awareness about UNESCO's list of languages in danger.
+
+One of them is Tirahi and what I'm looking for is very simple: a speaker
+eager to record the phrase "A different language is a different vision of
+life" - in Tirahi. I feel this is a good way for people to discover the
+essence of each language through its sound.
+
+I would really appreciate your help, so please let me know if you or anyone
+you know would be able to help. By all means I'll be very happy to answer
+any questions you may have, and to share more information about the project.
+
+Thank you in advance. Looking forward to hearing from you,
+Raph
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180111/17c6a084/attachment.htm>

@@ -1,0 +1,39 @@
++++
+title = "126 Andrew Nicholson"
+date = "2015-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-January/040429.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-January/040429.html)
+
+Dear Colleagues,
+
+I was wondering if any one of you would be able to share with me a PDF
+of Antão de Proença's Tamil-Portuguese Dictionary, compiled in 1679.
+It was reprinted in Kuala Lumpur in 1966 (record here:
+http://catalog.hathitrust.org/Record/001006575).
+
+Perhaps you could also tell me if there are any more recent
+Tamil-Portuguese dictionaries available. I know of one, for instance,
+compiled in 1735 by Jacome Gonçalves, but it appears that only a few
+manuscripts survive. I am asking on behalf on one of my former
+students who is now working in Brazil resettling Sri Lankan Tamil
+refugees. She would like a dictionary to help these modern Tamil
+speakers learn Portuguese (though I explained to her that these very
+old dictionaries are likely of more use today to historians than to
+language learners). Something from the 19th or 20th century would be
+best, but perhaps no such dictionary exists.
+
+Warmest wishes and Feliz Ano Novo,
+Andrew
+_________________________
+Andrew J. Nicholson
+Associate Professor
+SUNY Stony Brook
+Stony Brook, NY 11794-5343
+(631) 632-4030
+http://philosophicalrasika.com/
+
+
+
+

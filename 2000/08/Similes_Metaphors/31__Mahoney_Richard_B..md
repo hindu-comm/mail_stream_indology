@@ -1,0 +1,43 @@
++++
+title = "31 Mahoney, Richard B."
+date = "2000-08-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022276.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022276.html)
+
+Dear Mr Hodge
+
+Another source for refs. to similies is the following:
+
+@Book{  conze:perfection,
+editor= "E. Conze",
+title= "The Perfection of Wisdom in Eight Thousand Lines and its
+  Verse Summary",
+  stitle= "The Perfection of Wisdom in Eight Thousand Lines",
+  publisher= "Four Seasons Foundation",
+  year= "1973",
+  key= "Conze:1973b",
+  address= "Bolinas, California"
+  }
+
+In the ``List of Topics'' on p. 308, Conze gives refs. to all the major
+similies in this text.
+
+Hope this helps.
+
+P.S. If for some reason this message is posted twice then I apologise to
+all the readers. Our mail server seems to have been having trouble with
+overseas addresses over the past day or two.
+
+--
+Many Regards
+
+Richard Mahoney
+Student
+Department of Philosophy & Religious Studies
+University of Canterbury
+New Zealand
+
+
+

@@ -1,0 +1,36 @@
++++
+title = "141 Tim Cahill"
+date = "2014-10-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-October/040144.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-October/040144.html)
+
+
+Greg, Dominik, Madhav, Patrick and everybody,
+
+Does anyone know if Sanskrit language has been used to fulfill a 
+requirement outside of the Humanities?  I know of "crossover" courses in 
+computer science that fulfilled language requirements. Teaching 
+programming courses (html 5) to undergrads as an  Natural Science course 
+is interesting example.  Any successful attempts to promote or extend 
+the "algebraic" aspects of Sanskrit language (or any technical 
+Indological topic) to meet general curricular requirements?
+
+Incidentally, Stanley Insler was part of an external review team that 
+came to Penn over two decades back. The team *strongly* recommended that 
+our large and broad Department of Oriental Studies stay together, 
+despite the stated goal of administrators to break it up. They 
+eventually succeeded, but the report certainly helped the department 
+stay unified through the renamed "Asian & Middle Eastern 
+Studies"department mentioned earlier. It is also worth noting that the 
+divided parts of that unit are still fairly large.
+
+best,
+Tim Cahill
+Loyola University New Orleans
+
+
+
+
+

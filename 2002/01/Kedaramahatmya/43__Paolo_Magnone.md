@@ -1,0 +1,39 @@
++++
+title = "43 Paolo Magnone"
+date = "2002-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-January/026578.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-January/026578.html)
+
+Dear prof. Brockington,
+
+I am not aware of any KedAramAhAtmya being found in the VAyu PurANa; at any
+rate, none is mentioned in the repertory of place-names in D. R. Patil's
+_Cultural History from the VAyu PurANa_. On the other hand, a KedAra-khaNDa
+is known to consist of the opening 35 adhyAyas of the MAhezvarakhaNDa (I)
+of the Skanda PurANa. The section, however, cannot be considered a proper
+tIrthamAhAtmya, being mainly concerned with extensive narrations of
+well-known shaivite myths. A summary is available in M. Vallauri, "Sommari
+dello Skanda PurANa. I. MAhezvarakhaNDa", _Giornale della Societ�
+Asiatica Italiana_, III. 1 (1934), p. 5-51.
+
+There are, of course, various KedAras besides the Himalayan one. References
+to puranic passages relevant to each may be found in P. V. Kane, _History
+of DharmazAstra_, vol. IV (List of tIrthas). Diana L. Eck, _Banaras City of
+Light_ has a section (p. 136-145) on KAzI KedAra (which has its own
+mAhAtmya).
+
+Paolo Magnone
+
+
+-----------------------------------------------------------
+Paolo Magnone
+Prof. of Sanskrit Language and Literature
+Catholic University of Milan
+pmagnone at mi.unicatt.it
+
+Jambudvipa - Indology and Sanskrit Studies: www.jambudvipa.net
+
+
+

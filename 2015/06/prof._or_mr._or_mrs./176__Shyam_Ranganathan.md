@@ -1,0 +1,30 @@
++++
+title = "176 Shyam Ranganathan"
+date = "2015-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041334.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-June/041334.html)
+
+Dear all,
+
+I'm sure there are others who know more about this than I do, but when I 
+was growing up I was told that in the South, people's sir names are 
+typically their father's first name. That's how I got my last name, but 
+as I was born  in North America where I grew up, it sticks (my son for 
+instance has my father's first name as his last name as its my official 
+last name).
+
+I'm not sure how common a practice this is, but against this, everyone's 
+first name seems like a more respectful thing to call them. The 
+alternative is to refer to someone by way of their father, which is 
+weird and patriarchal.  I've grown a bit comfortable with it for a 
+different reason. My students can't seem to pronounce my last name, but 
+are all happy calling me Prof. Shyam (in Toronto!).
+
+Best,
+Shyam Ranganathan
+
+
+
+

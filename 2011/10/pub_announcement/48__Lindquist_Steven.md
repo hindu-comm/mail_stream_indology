@@ -1,0 +1,29 @@
++++
+title = "48 Lindquist, Steven"
+date = "2011-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-October/035972.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-October/035972.html)
+
+It is my pleasure to announce that Religion and Identity in South Asia and Beyond: Essays in Honor of Patrick Olivelle (New York/London: Anthem Press, 2011) is now available.
+
+I refer you to Anthem for the table of contents, etc. http://tinyurl.com/682omgy
+
+Very shortly, several other volumes in this same series, including Patrick's collected essays, will be available from Anthem.  See: http://tinyurl.com/5wyk5gx
+
+My best,
+
+Steven
+
+STEVEN LINDQUIST, PH.D.
+DIRECTOR OF ASIAN STUDIES
+ASSISTANT PROFESSOR
+_____________
+Department of Religious Studies
+Southern Methodist University
+PO Box 750202 | Dallas | TX | 75275
+http://faculty.smu.edu/slindqui
+
+
+

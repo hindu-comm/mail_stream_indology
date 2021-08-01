@@ -1,0 +1,33 @@
++++
+title = "64 Dipak Bhattacharya"
+date = "2009-08-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033530.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033530.html)
+
+You certainly deserve congratulations. But the Government Sanskrit College at Calcutta brought out a multi-volume Bhaaratiiya Darsana Kosha compiled by Srimohan Bhattacharya and Dinesh Chandra Bhattacharya in Bengali in the seventies and eighties. I could purchase the second volume, (Saankhya and Yoga; 1979) and the third in two parts (Vedaanta; 1981 and 1984). The first volume (Vaiseshika, Old and New Schools of Nyaaya, 1978) went out of print soon after its publication. The discussions in these volumes are made from the Shastric point of view. But they are informative on the source.
+The publication department of the Institute seems to have become dormant later.
+Best
+DB
+
+--- On Thu, 13/8/09, Viktoria Lyssenko <vglyssenko at YANDEX.RU> wrote:
+
+
+From: Viktoria Lyssenko <vglyssenko at YANDEX.RU>
+Subject: link to the Encyclopedia of Indian Philosophy
+To: INDOLOGY at liverpool.ac.uk
+Date: Thursday, 13 August, 2009, 9:12 PM
+
+
+I was told that the link did not work, here is the working one, try it 
+http://www.vostlit.ru/KartNotSerial/kart268.htm 
+Яндекс.Почта. Поищите спам где-нибудь еще http://mail.yandex.ru/nospam/sign
+Victoria Lysenko
+
+
+
+      Love Cricket? Check out live scores, photos, video highlights and more. Click here http://cricket.yahoo.com
+
+
+

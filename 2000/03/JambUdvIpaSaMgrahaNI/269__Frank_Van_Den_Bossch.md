@@ -1,0 +1,25 @@
++++
+title = "269 Frank Van Den Bossche"
+date = "2000-03-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020552.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020552.html)
+
+Dear members of the list,
+
+Currently I am working on Haribhadra SUri's JambUdvIpaSaMgrahaNI, a Jain
+text on geography. I am looking for an edition of the JDS, published by
+Bhimsi Manek (bhImasiMh MANakanI) in Bombay; 1908. I found this reference
+in the Jina-Ratna-KoSh. Can anyone give me more details about this edition
+and, if possible, tell me were I can find it? I heard that it is
+republished in 1985.
+Thanks in advance.
+
+Frank Van Den Bossche
+University of Ghent
+Dept. of languages and cultures of South and East Asia
+frank.vandenbossche at rug.ac.be
+
+
+

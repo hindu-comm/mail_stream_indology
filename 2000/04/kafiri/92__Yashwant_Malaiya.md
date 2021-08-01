@@ -1,0 +1,54 @@
++++
+title = "92 Yashwant Malaiya"
+date = "2000-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/020988.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/020988.html)
+
+Prof. Michael Witzel wrote:
+
+>> even now use words that are remarkably
+>>close to pure Sanskrit.
+
+>That is overdone... Kafiri (Nuristani) is not Sanskrit, just has some
+>conservative forms (such as gram for 'village'),
+
+Kafiri is not certianly not Sanskrit. But look at these words:
+
+English Kalash
+
+head    shish
+bone    athi
+urine  mutra
+village grom
+rope    rajuk
+smoke  thum
+oil    tel
+meat    mos
+dog    shua
+ant    pililak
+son    putr
+boy    purushguek
+girl    shtrizhaguek
+long    driga
+eight  asht
+broken  chhina
+kill    nash
+
+Transliteration is by Ismail Sloan.
+
+G. Fussman in "Atlas Linguistique des parlers dardes et Kafirs"
+gives distribution of words in the kafir valleys. His maps
+suggest that Sanskrit words are most preserved among the Kalash.
+This is even though the Kalash who lived at the edge of  Kafiristan
+have been exposed to outsiders a lot more. The center of the Kafir
+cuture was in, I think, the Prasun valley where a  magnificent
+temple to Imra stood in George Robertson's time.
+
+The Kafir languages vary quite a bit from valley to valley.
+
+Yashwant
+
+
+

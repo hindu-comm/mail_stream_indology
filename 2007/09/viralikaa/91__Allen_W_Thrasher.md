@@ -1,0 +1,44 @@
++++
+title = "91 Allen W Thrasher"
+date = "2007-09-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-September/031115.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-September/031115.html)
+
+Jonathan,
+
+You may want to watch out with the word "chiffon" in any case, in the interests of clarity and intelligibility across the English-speaking world.  I think the word means something different in India than what it means in the USA.  "American chiffon" is or used to be a coveted item for sari cloth.  But when on a friend's request I bought a sari length of chiffon here for his mother, it was not at all what they meant, which I was never able to clear up.
+
+Allen
+
+
+
+Allen W. Thrasher, Ph.D., Senior Reference Librarian
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+>>> Jonathan Silk <silk at HUMNET.UCLA.EDU> 09/05/07 10:13 AM >>>
+
+Dear friends,
+
+In something now in the press, I have a passage in which the term 
+viralikaa occurs, a sort of colorful fabric. BR explains it as a sort 
+of porous fabric. Does anyone have a more specific suggestion as to 
+its identity? (The editor queried my translation as chiffon, which I 
+confess was a much a place filler as anything else...)
+
+JAS
+-- 
+Prof. Dr. Jonathan Silk
+Instituut Kern / Universiteit Leiden
+Postbus 9515
+2300 RA Leiden
+Netherlands
+
+
+

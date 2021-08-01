@@ -1,0 +1,38 @@
++++
+title = "115 nanda chandran"
+date = "1999-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019376.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019376.html)
+
+>Nanda Chandran seems to blame the whole caste mess on everybody in >India
+>with the exception of the brahmins themselves.
+
+Not so. I acknowledge that they too have a role in it and have also accepted
+it in my previous post, but it is not the way it is popularly presented.
+
+While Ambedhkar and other dalit activists conviniently point out all the
+discriminatory clauses in the Manusmriti against the lower castes and the
+women, they never reveal that the same text is extremely strict with the
+brahmin too. Instead of letting the brahmin enjoy his 'explotation', it
+condemns him to a life of poverty and strife. How can that be? It is because
+that the Vedic ideals were on totally different plane, than our modern
+secular ones.
+
+The brahmins discriminated - but it was a religious discrimination, where
+they claimed exclusive rights to teaching the Veda and performing
+sacrifices. They also asserted their superiority over the other castes - not
+on economic or political grounds - but on religious purity, ethics and
+knowledge.
+
+Ofcourse, this sometimes had economic implications - as some brahmins
+themselves were rich and conviniently used the caste system to further their
+ambitions. But to put a blanket blame on such grounds against the whole
+Vedic culture, is obviously flawed and has no historical or textual support.
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

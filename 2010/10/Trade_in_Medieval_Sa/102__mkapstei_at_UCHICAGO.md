@@ -1,0 +1,34 @@
++++
+title = "102 mkapstei at UCHICAGO.EDU"
+date = "2010-10-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-October/034826.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-October/034826.html)
+
+Dear Patrick,
+
+There's lots scattered around Buddhist sources, very often
+in Jaataka-s, Avadaana-s, and Mahaayaana suutras such as the 
+Ga.n.davyuuha, where traders figure prominently. 
+
+As I recall, Geiger's Culture of Ceylon in Mediaeval Times
+has useful references to the Pali sources on this. I don't know of anything off hand that puts together the Buddhist
+Sanskrit references to material culture very effectively
+(does someone want to encourage a great project for
+a dissertation?)
+
+And of course the two great Tamil novels also have
+much to say of merchants and trade. 
+
+best,
+Matthew
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

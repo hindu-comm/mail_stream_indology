@@ -1,0 +1,38 @@
++++
+title = "136 Sreenivas Paruchuri"
+date = "2000-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020178.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020178.html)
+
+> I am looking for scholarly information reguarding the Rajasuya celebration,
+> especially any information referring to the dice game played at the
+> conclusion.
+
+In first line, I can think of the following two, excellant, German
+works:
+
+Falk, Harry: Bruderscahft und Wurfelspiel - Untersuchungen zur
+Entwicklungsgeschichte des vedischen Opfers,
+Freiburg, 1986
+
+Lueders, Heinrich: Das Würfelspiel im alten Indien, 
+Kraus, Nendeln, 1970 (Repr.)
+
+IIRC, Heesterman only refers to, but doesn't offer 'lengthy' discussion on
+Dice Game in his monograph: The ancient Indian royal consecration - the
+*raajasuuya* described according to the Yajus texts and annotations.
+
+Regards,
+Sreenivas
+
+P.S. Ronald Inden's essay on Kingship in: Kingship and authority in south
+Asia (Ed.: JF Richards, 1981, theres a recent reprint too?) 'd be of
+interest to you.
+
+P.P.S. I also have seen a discussion on same in Shulman & Handelman's
+recent work: God inside out: Siva's game of dice (OUP, 1997).
+
+
+

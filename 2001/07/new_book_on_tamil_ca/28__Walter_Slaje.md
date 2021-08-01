@@ -1,0 +1,29 @@
++++
+title = "28 Walter Slaje"
+date = "2001-07-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-July/026250.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-July/026250.html)
+
+Thank you for the announcement, Jan,
+
+for it provides the welcome opportunity to ask in my capacity as the Indological
+editor of the ZDMG if one of the specialists in this field would like to deal
+with Tieken´s challenging theses in the form of a review (for the ZDMG)?
+
+
+Many thanks and best regards,
+
+Walter Slaje
+
+
+
+----------------------------------------------
+Prof. Dr. Walter Slaje
+Hermann-Loens-Str. 1, D-99425 Weimar (Germany)
+Tel/Fax: (+49)03643-501391 (office: (+49)0345-55-23650)
+e-mail: slaje at t-online.de (office: slaje at indologie.uni-halle.de)
+
+
+

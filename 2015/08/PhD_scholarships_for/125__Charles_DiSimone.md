@@ -1,0 +1,90 @@
++++
+title = "125 Charles DiSimone"
+date = "2015-08-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-August/041786.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-August/041786.html)
+
+Apologies for cross posting but I've ben asked to post this to the Indology
+list by folk who are not subscribed. Interested parties should respond to
+the contact info below.
+
+-- 
+Charles DiSimone
+Promotionsprogramm Buddhismus-Studien
+Institut für Indologie und Tibetologie
+Ludwig-Maximilians-Universität München
+
+Type:
+Grant
+Date:
+July 24, 2015 to October 18, 2015
+Location:
+Germany
+Subject Fields:
+Asian History / Studies, Chinese History / Studies, Japanese History /
+Studies, Religious Studies and Theology
+Dear colleagues,
+
+The Doctoral Program in Buddhist Studies at the
+Ludwig-Maximilians-University in Munich, Germany invites applications for
+two PhD scholarships for dissertation projects related to Buddhism:
+
+Deadline for applications:        18 October 2015
+
+Start of scholarship:                 Summer or autumn 2016
+
+Duration of scholarship:           3 or 4 years
+
+Scholarship amount:                 €1000 per month + insurance + support
+for rent + €460 per year
+
+Scholarship donor:                   German Academic Exchange Service (DAAD)
+
+The selection process comprises two stages: Applications are sent to the
+Doctoral Program in Buddhist Studies in Munich. The program will select
+promising candidates, who then have to submit their materials to the DAAD.
+Subsequently, an election committee chosen by the DAAD decides upon the
+successful candidates. It is expected that the successful candidates will
+be chosen and informed by February 2016.
+
+The prerequisites for application are non-German citizenship (foreign
+applicants should not have lived in Germany for more than fifteen months at
+the time of their application), a Master of Arts or Magister Artium degree
+or equivalent, excellent knowledge of at least one Buddhist source
+language, outstanding qualifications in the subject, and fluency in
+English. A basic knowledge of German is also desirable, though not a
+prerequisite, but willingness to learn German/improve German language
+skills will be expected. It is desirable that, at the time of the
+application, the last final examination has taken place no more than six
+years ago.
+
+For details concerning the application, please visit our homepage:
+
+http://www.en.buddhismus-studien.uni-muenchen.de/currentissues/phd_schol...
+
+With best regards
+
+Paulus Kaufmann
+
+Contact Info:
+Doctoral Program in Buddhist Studies
+
+c/o Japan- Zentrum
+
+Oettingenstrasse 67
+
+80538 Munich
+
+Germany
+
+Contact Email:
+buddhist-studies at lrz.uni-muenchen.de
+URL:
+http://www.en.buddhismus-studien.uni-muenchen.de/currentissues/phd_scholarships_2016/index.html
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150804/d8138e00/attachment.htm>

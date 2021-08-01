@@ -1,0 +1,17 @@
++++
+title = "74 Jogesh Panda"
+date = "2000-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021758.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021758.html)
+
+Steve Farmer <saf at SAFARMER.COM> wrote:
+
+....Vasco da Gama lande
+
+____________________________________________________________________
+Get your own FREE, personal Netscape WebMail account today at http://webmail.netscape.com.
+
+
+

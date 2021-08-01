@@ -1,0 +1,37 @@
++++
+title = "161 Swaminathan Madhuresan"
+date = "2001-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026074.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026074.html)
+
+Ref.:
+http://www.voi.org/michel_danino/tamil_cult01.html
+
+Is Michel Danino an expert on Tamil literature? Does he even
+know to read old or modern Tamil?
+
+While reductionism to derive Tamil culture fron Aryan Vedic texts is apparent,
+the recent studies pointing out the uniqueness of the sangam literature,
+Dravidian substratum element in Indian history, the arrival of
+Aryans outlined in I. Mahadevan, A. Parpola, G. Hart, K. Zvelebil, M. Witzel,
+... are missing! Reliance is made on outdated materials
+like KAN Sastri (see criticism by Hart), and scholars who do not
+read (old) Tamil literature, K. V. Sharma and M. G. S. Narayanan
+are from Kerala.
+
+Danino's attempt won't stand the Indologists' scrutiny.
+
+Regards,
+SM
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Get email at your own domain with Yahoo! Mail.
+http://personal.mail.yahoo.com/
+
+
+

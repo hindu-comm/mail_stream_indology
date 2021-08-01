@@ -1,0 +1,47 @@
++++
+title = "68 jacob at fabularasa.dk"
+date = "2014-08-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-August/039891.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-August/039891.html)
+
+Dear list,
+
+I am trying to obtain a copy of the three plates attached to the 
+following article:
+
+Shome, Baboo Bipin Behari (1849) "Physical Errors of Hinduism" in 
+Calcutta Review, Vol. XI, pp. 397-444.
+
+The plates are attached as follows:
+
+Pl. I: Btw. pages 422 & 423
+Pl. II: Btw. pages 440 & 441
+Pl. III: Btw. pages 438 & 439
+
+The plates are missing from the DLI scan, and in the Google Books scan 
+they have not been unfolded before being scanned. See, for example, 
+plate I:
+
+http://books.google.dk/books?id=V50bAQAAIAAJ&hl=da&pg=PA422-IA1#v=onepage&q&f=false
+
+(Plate I is especially interesting since the author apparently did not 
+recognize it is a gyan chaupar gameboard, but simply treated it as a 
+cosmological drawing of the Mount Meru world system - which it, of 
+course, also is.)
+
+If anyone has access to the plates in full, and would be so kind as to 
+supply me with a full scan of them, I would be most grateful.
+
+Kind regards,
+Jacob
+
+Jacob Schmidt-Madsen
+Department of Indology
+University of Copenhagen
+Denmark
+
+
+
+

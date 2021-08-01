@@ -1,0 +1,25 @@
++++
+title = "71 Herman Tull"
+date = "2011-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-December/036132.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-December/036132.html)
+
+I was just searching online for a text, and I came across "The Free
+Indological Collection."
+(http://www.archive.org/details/freeindological)  The number of texts
+available seems impressive.
+
+I had not heard of this project before, and I did not find information
+of significance online about it.  Does anyone have any more
+information on this project?
+
+Thanks,
+
+-- 
+Herman Tull
+Princeton, NJ
+
+
+

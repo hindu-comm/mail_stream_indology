@@ -1,0 +1,36 @@
++++
+title = "13 James Hegarty"
+date = "2011-09-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-September/035847.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-September/035847.html)
+
+Dear Colleagues,
+
+I recently completed a short comparative analysis of the way in which  
+the past is constructed in the Dīghanikāya and the Mahābhārata  
+(part of my newly published monograph, which I announced on the list  
+only a few days ago).
+
+I now wish to take the comparison of Buddhist and Hindu literary  
+sources in Sanskrit and Pali further.
+
+I am aware of work in Mahābhārata Studies in this area (most notably  
+that of Greg Bailey and Alf Hiltebeitel), but would be grateful for  
+suggestions of further reading (especially from the Buddhological side  
+of things). I am looking for explicitly comparative studies relating  
+to Sanskrit and Pali sources (preferably of narrative materials), but  
+also any archaeological, epigraphical or art historical studies that  
+may provide interesting data (particularly in terms of inter-religious  
+rivalry). I know this topic is hopelessly vast, and my own search for  
+materials will be ongoing, but recommendations from colleagues (of  
+their own work or that of others) would be most helpful!
+
+Best Wishes,
+
+James Hegarty
+Cardiff University
+
+
+

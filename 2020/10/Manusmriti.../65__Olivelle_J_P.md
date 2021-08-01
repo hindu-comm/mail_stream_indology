@@ -1,0 +1,43 @@
++++
+title = "65 Olivelle, J P"
+date = "2020-10-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-October/053548.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-October/053548.html)
+
+There is no statement of Manu that states all women are prostitutes. There are statements which emphasizes the need for women to be under male control/protection, the need to guard them from even the slightest attachment to sensual pleasure (saṅga). See Manu 5.148ff, and 9.1ff.
+
+Patrick
+
+
+
+> On Oct 28, 2020, at 11:36 PM, rajam via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Dear List Members,
+> 
+> I need your help in understanding something from Manusmriti.
+> 
+> Is there any passage/rule in this text that states that ‘all women are prostitutes’? Or anything close to such thought?
+> 
+> In Tamilnadu, there is a severe extremist movement wanting to burn Manusmriti. As the next election is approaching, the political scene is getting ugly as usual. One party’s propaganda includes that Manusmriti should be removed/burned down since it looks at women as prostitutes.
+> 
+> I was wondering if any of you would kindly check Manusmriti and let me know if he really declared that all women are prostitutes.
+> 
+> I would very much appreciate your help.
+> 
+> Thanks and regards,
+> V.S.Rajam
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>>> This message is from an external sender. Learn more about why this <<
+>>> matters at https://links.utexas.edu/rtyclf.                        <<
+
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "68 Lars Martin Fosse"
+date = "2000-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024184.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024184.html)
+
+Swaminathan Madhuresan [SMTP:smadhuresan at YAHOO.COM] skrev 1. desember 2000
+22:44:
+> There was a PBS program. I think the British narrator Michael Wood
+(1948-),
+> producer of Legacy produced this. On Arians and Nazi Germany.
+>
+> There was a mention about a top Indologist speaking before Hitler,
+> Himmler and other elite leaders of 1930-40s Germany proclaiming that
+> Hitler's book and the teachings of the Buddha are very similar
+> or same...
+
+This can only have been Walter Wuest, an Indological scholar with a SS
+connection. He was a compentent scholar (which means that you may have to
+read his work on some subjects), but with a bad reputation for his
+politics. I believe Sheldon Pollock has written about Wuest in a paper
+called "Deep orientalism..." (I am afraid I don't have the whole title
+available, and being far away from my library, I can only hope others will
+fill in the missing data.)
+
+I don't recall Wuest lecturing for Hitler, but he apparently lectured for
+the SS on the Buddha if I remember Pollock correctly.
+
+LM
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone: +47 22 32 12 19
+Mobile phone: +47 90 91 91 45
+Fax 1:  +47 22 32 12 19
+Fax 2:  +47 85 02 12 50 (InFax)
+Email: lmfosse at online.no
+
+
+

@@ -1,0 +1,57 @@
++++
+title = "97 Pankaj Jain"
+date = "2019-08-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-August/050622.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-August/050622.html)
+
+Freshly minted by OUP with contributions by many Indology list-members:
+https://global.oup.com/academic/product/the-oxford-history-of-hinduism-9780198790839?cc=us&lang=en&#
+
+Notes on Contributors
+Series Introduction, *Gavin Flood*
+Introduction: Modernity and Hinduism, *Torkel Brekke*
+1. Early Modern Hinduism, *Adrian Plau*
+2. Rammohun Roy and the Bengal Renaissance, *Dermot Killingley*
+3. Bankimchandra Chattopadhyay and modern Hinduism, *Hans Harder*
+4. Bhaktisiddhanta Sarasvati and ISKCON, *Ferdinando Sardella*
+5. *Murti*, Idol, Art, and Commodity: The Multiple Identities of Hindu
+Images, *Tanisha Ramachandran*
+6. Indian Cinema and Modern Hinduism, *Gayatri Chatterjee*
+7. Hindu Pilgrimage and Modern Tourism, *Knut Aukland*
+8. Hinduism and New Age: Patrimonial Oneness and Religious
+Cosmopolitanism, *Kathinka
+Froystad*
+9. Hinduism Online, *Heinz Scheifinger*
+10. The History of Hindu Nationalism in India, *Manjari Katju*
+11. Caste and Contemporary Hindu Society: Community, Politics and Work, *Divya
+Vaid and Ankur Datta*
+12. Hindu Law in Modern Times: How Hindu Law Continues in Modern India, *Werner
+Menski*
+13. Modern Hindu Dharma and Environmentalism, *Pankaj Jain*
+14. Hinduism in the Secular Republic of Nepal, *David N. Gellner and Chiara
+Letizia*
+15. The Modern Hindu Diaspora, *Vineeta Sinha*
+
+
+----------------------------------------------------------------------------------
+
+Dr. Pankaj Jain पंकज जैन
+Associate Professor, Dept of Philosophy and Religion
+<http://jainstudies.unt.edu/pankaj-jain>
+
+Co-chair, India Initiative Group
+<https://international.unt.edu/content/india-initiatives-group>
+
+University of North Texas
+
+unt.academia.edu/PankajJain/,
+
+  <https://twitter.com/ProfPankajJain> @ProfPankajJain
+<https://twitter.com/ProfPankajJain>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190808/d479e9e2/attachment.htm>

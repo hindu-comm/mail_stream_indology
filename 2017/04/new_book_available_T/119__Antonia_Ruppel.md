@@ -1,0 +1,42 @@
++++
+title = "119 Antonia Ruppel"
+date = "2017-04-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-April/045506.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-April/045506.html)
+
+Dear all,
+
+The new textbook that Dominik had asked about a few weeks ago, The
+Cambridge Introduction to Sanskrit, is out now.
+
+Review copies are available from the CUP website at
+www.cambridge.org/sanskrit (choose your country/region from the menu in the
+top right-hand corner).
+
+If you aren't eligible for a review copy and still want to buy the book
+from the CUP website, use the code RUPPEL2016 at checkout for a 20%
+discount. (And of course the book is available from other online and
+physical retailers, often already discounted.)
+
+The book website, with links to all the available online resources (flash
+cards, video tutorials for each chapter, printable handouts etc) is here:
+www.cambridge-sanskrit.org
+
+For anyone who'd like to see more Sanskrit on social media, I will be
+posting on the book's Facebook page (https://www.facebook.com/StudySanskrit/)
+and Twitter account (https://twitter.com/CBSanskrit) every few days.
+
+If you have any suggestions for further online/electronic resources, or any
+other feedback, please do simply email me.
+
+I hope the book will prove useful.
+
+All the best,
+    Antonia
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170401/ab000f1f/attachment.htm>

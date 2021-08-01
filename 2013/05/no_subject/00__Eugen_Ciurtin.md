@@ -1,0 +1,37 @@
++++
+title = "00 Eugen Ciurtin"
+date = "2013-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-May/037815.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-May/037815.html)
+
+Dear Colleagues,
+
+Colleagues of mine and I would be very pleased to have an e-copy of a
+rather rare article, hard however to find in European libraries:
+
+Cornelia Dimmitt Church, "Eschatology as the denial of  death in Indian and
+Iranian myth", Ohio Journal of Religious Studies 1 (1973), no. 2, pp. 29-37
+
+Many thanks in advance for your kindness.
+
+Best wishes,
+Eugen Ciurtin
+
+-- 
+Dr E. Ciurtin
+Secretary of the Romanian Association for the History of Religions
+
+Publications Officer of the European Association for the Study of Religions
+www.easr.eu
+
+Lecturer & Secretary of the Scientific Council
+Institute for the History of Religions, Romanian Academy
+Calea 13 Septembrie no. 13 sect. 5, Bucharest 050711
+Phone: 00 40 733 951 953
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130510/ba193371/attachment.htm>

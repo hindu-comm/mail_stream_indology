@@ -1,0 +1,34 @@
++++
+title = "158 Valerie Roebuck"
+date = "2015-01-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-January/040588.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-January/040588.html)
+
+
+Please send proposals to Dr Hirst, not me!
+
+Valerie J Roebuck
+Manchester, UK
+
+
+STIMW - The Sanskrit Tradition in the Modern World
+Call for Papers
+32nd Annual STIMW Symposium
+Fri 29 May 2015 11am-5pm
+University of Manchester
+STIMW offers a forum for the discussion of papers on varied aspects of Indian religions. Proposals are now being invited for this year’s Symposium.  STIMW papers are presented by leading scholars in the field as well as by research students. They are sent to participants in advance, so that they can be read and discussed in detail. They are available to those who cannot attend for a small charge.
+
+Please ensure that your proposal reaches Jackie Hirst (jacqueline.hirst at manchester.ac.uk <mailto:jacqueline.hirst at manchester.ac.uk>) by Fri 27 Feb 2015.
+
+http://www.alc.manchester.ac.uk/stimw/ <https://outlook.manchester.ac.uk/owa/redir.aspx?c=txs69s6qeeyyvnbfgmareg35kj5id9iiczbly9ectgqidd_hdpnpuake-v108dcqjeoopwbaknm.&url=http%253a%252f%252fwww.alc.manchester.ac.uk%252fstimw%252f> 
+
+Please use this long link while the site is migrating, if the short link above is not working:   http://www.alc.manchester.ac.uk/subjects/religionstheology/events/conferences/ <http://www.alc.manchester.ac.uk/subjects/religionstheology/events/conferences/>
+
+Special edition of Religions of South Asia 6.2 (2012) Tradition and the Re-Use of Indic Texts, guest ed. Jacqueline Suthren Hirst, including STIMW papers: http://www.equinoxjournals.com/index.php/ROSA <http://www.equinoxjournals.com/index.php/rosa>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150130/4e3e8d6e/attachment.htm>

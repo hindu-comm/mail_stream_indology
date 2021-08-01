@@ -1,0 +1,27 @@
++++
+title = "50 Allen W Thrasher"
+date = "2009-11-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-November/033717.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-November/033717.html)
+
+Durva, scientific name Cynodon dactylon, is commonly known in English-speaking countries as Bermuda grass (although it appears sometimes other Cynodons are thrown in with it).  It is common both as a cultivated lawn grass and an escapee and agricultural weed.  Interestingly, some of the online sources describe it as "gray-green."  But to judge from the numerous pictures that appear when one searches "Bermuda grass" on Google Images, the grayish tinge appears when it is growing in dry circumstances; the images showing it lush and well watered and fertilized (e.g. for turf) show it a vigorous and fairly dark green right in the middle spectrum of what Anglophones would call green, with no leaning towards the yellow or blue.  I don't see any quite as dark as in the image Joanna linked to.  But I suspect the Indians would probably think of its archetypal and typical color as the one it wears during the monsoon.
+
+Allen
+
+>>> JKirkpatrick <jkirk at SPRO.NET> 10/31/2009 9:50:28 PM >>>
+
+Here you can see a photo of durva grass:
+http://tinyurl.com/yamfzx2 
+
+It is (by our naming) "green". One of the problems with colors is
+that black, blue and green often are conflated in the same term.
+Or "dark" might mean green. 
+And in some areas green and yellow share the same term.
+So here, I'd guess (in terms of the way 'we" perceive color),
+dvapara would be green, not 
+"black as durva grass". 
+
+
+

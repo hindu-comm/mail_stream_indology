@@ -1,0 +1,24 @@
++++
+title = "73 Dan Lusthaus"
+date = "2021-03-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-March/054365.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-March/054365.html)
+
+Thank you, Matthew, Peter and Ryan, for your suggestions. The geographic web site is quite addictive and a useful resource! Thanks for that.
+
+Ryan, your pointers are also helpful. Do you have any indications that others in that region also identified as Sāṃmitīyas? In addition to saying his parents were brahmins (suggesting a brahmanic upbringing which might be why his Sanskrit was so impressive), he also says of himself:
+
+ [As for my] knowledge (yon tan), [I] am practiced in Madhyamaka and Pramāṇa. I know by heart the commentaries [made] by Devendrabuddhi and Śākyabuddhi on Dharmakīırti's Pramāṇavārttika. In addition, I am well versed in the commentaries on Prajñākaragupta, Dharmottara, and Yamāri…
+[My translation from Caumanns’s German translation]
+
+[Was meine] Kenntnisse (yon tan) [angeht, so] bin [ich] im Madhyamaka und im Pramāṇa geübt. Die Kommentare, [die] Devendrabuddhi und Śākyabuddhi zu Dharmakīırtis Pramāṇavārttika [verfassten], kenne ich auswendig. Darüber hinaus bin ich auch bewandert in den Kommentaren des Prajñākaragupta, des Dharmottara und des Yamāri.
+
+It’s as if, while being a Sāṃmitīya, he is offering a cv touting his expertise in the doctrinal qualities (yon tan = guṇas) desired and in demand at that time from possible Tibetan patrons.
+
+thanks,
+Dan
+
+
+

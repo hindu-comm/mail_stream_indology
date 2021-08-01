@@ -1,0 +1,49 @@
++++
+title = "15 Lucas den Boer"
+date = "2015-05-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-May/041139.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-May/041139.html)
+
+Dear Arlo, dear colleagues,
+
+The IIGRS project has reached its seventh season, so to say, and it
+has been interpreted differently in its various incarnations. Just to
+clarify our understanding of its upcoming avatāra and of the word
+'text' in our call for papers, —and we just mean the understanding of
+the present organizers— a 'text' is to be understood minimally as a
+set of signs that can be read/understood/interpreted, which would
+indeed include art, archeology and obviously inscriptions. A
+different, and probably more felicitous and easily decipherable,
+wording would be 'primary sources', as stated in the Purpose section
+of the website: http://iigrs.byethost17.com/purpose-2/. However, it is
+true that in the bygone avatāras of the symposium, at least as far as
+we remember, the papers have often been focused on the less broadly
+understood category of text. But the final shape of the Leiden
+incarnation will mainly depend on the graduate students and early
+career researchers who will decide to come and discuss their work this
+coming October.
+
+We hope we have been ecumenical enough,
+yours faithfully,
+
+Daniele Cuneo & Lucas den Boer
+
+
+On 21 May 2015 at 13:25, Arlo Griffiths <arlogriffiths at hotmail.com> wrote:
+> Thanks for this initiative. It seems that Indological research here is
+> defined exclusively in terms of the study of texts — or is the exclusion of
+> the study of Hindu, Buddhist or Jaina art and archaeology, to mention just
+> some forms of not primarily textual research that I would consider
+> Indological, not intended? If it is intentional, are inscriptions considered
+> to be texts, or do you mean only transmitted texts? I was about to forward
+> the announcement to a number of French graduate students when I noticed the
+> limitation to "texts". Please clarify.
+>
+> Arlo Griffiths
+> École française d'Extrême-Orient
+
+
+
+

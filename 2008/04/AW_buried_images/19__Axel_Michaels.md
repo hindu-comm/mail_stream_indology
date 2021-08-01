@@ -1,0 +1,45 @@
++++
+title = "19 Axel Michaels"
+date = "2008-04-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-April/031623.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-April/031623.html)
+
+not really a case of burying statues but of  emerging a sta
+Dear Fred,
+
+not really a case of burying statues but of  emerging a statue to its half in a whole is the VirUpAkSa statue at the Pashupatinatha Temple in Deopatan. You'll find a photography in my recently released book "Śiva in Trouble. Festivals and rirutals at the Paśupatinātha Temple of Deopatan (Nepal)" (New York, Oxford: OUP, 2008). This is the description I am giving there:  
+
+"Of note from a mythological and ritual point of view is a small temple at Āryaghāṭ, where a statue with tribal facial features, distinctly pre-Hindu in nature, is worshipped: Virūpākṣa, about whom many myths circulate, the essence of them being that a devotee of Śiva or Buddha who has wandered from the path of rectitude is rescued by pilgrims who help him by donating half of their religious merit (ardhadharmapūjā). In fact, to half of its height the statue is emerged in a water hole whose level rises and falls a little with that of the Bāgmatī. As the pilgrims continue to give part of their religious merit, people say, Virūpākṣa will slowly be released from his fate." (p. 28)
+
+References to Nepalese chronicles on hiding and burying Siva statues or lingas you can find in an article of me on Lukumahadyaḥ (The hidden Mahadeva). Details also in the mentioned book, ch. IX.
+
+Great to see you at our conference on rituals
+Best,
+Axel 
+
+Prof. Dr. Axel Michaels (Speaker of the Collaborative Research Center (SFB) 619 "Dynamics of Ritual"; Co-Director of the Cluster of Excellence "Asia and Europe"), University of Heidelberg, South Asia Institute, Im Neuenheimer Feld 330, D-69120 Heidelberg, Tel. +49-6221-548917 / Fax +49-6221-546338, 
+
+http://www.sai.uni-heidelberg.de/abt/IND/index.html, http://www.ritualdynamik.uni-hd.de, http://vjc.uni-hd.de, Axel.Michaels at urz.uni-heidelberg.de
+
+
+
+----- Ursprüngliche Mail ----
+Von: "Smith, Frederick M" <frederick-smith at UIOWA.EDU>
+An: INDOLOGY at liverpool.ac.uk
+Gesendet: Sonntag, den 20. April 2008, 18:31:33 Uhr
+Betreff: buried images
+
+Does anyone know if there is a history of burying statues or any other sorts of images in the ground for apotropaic or prophylactic purposes. I came across references to burying images of Demeter and other goddesses in the Greek (and Roman) world, and wonder if there is any such parallel phenomenon in India or Southeast Asia. It seems to me that I have read about this somewhere, but can't recall where.
+
+regards,
+Fred Smith
+Univ. of Iowa
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
++++
+title = "21 Alf Hiltebeitel"
+date = "2012-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-February/036285.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-February/036285.html)
+
+All, I would be grateful if anyone could tell me (at beitel at gwu.edu)
+an email address for Reginald A. Ray, of the 1994 OUP book Buddhist Saints
+in India, who is aso at the Dharma Ocean Foundation in Colorado.
+
+Thanks,
+Alf Hiltebeitel
+
+On Sun, Jan 29, 2012 at 10:20 PM, Dean Michael Anderson <
+eastwestcultural at yahoo.com> wrote:
+
+>   I ran across some people on the internet the other day who insist that
+> the transition from the Vedic period to the early Hindu period involved,
+> not a transition, but a wholesale rejection of the Vedic gods and their
+> replacement with Hindu ones. They say the Vedic gods are reviled in
+> Hinduism.
+>
+> This goes against everything I know about this transition. It seems to
+> originate from some very early Indological writings by Western scholars but
+> they haven't been able to provide me with anything more than a list of
+> *possible* books -- Oldenberg, McDonnell, etc. -- no page references.
+>
+> Does anyone know where this idea may have arisen? I can see how they might
+> have gotten this idea from the Buddhist/Jain texts or the later Bhakti
+> period but not about the development of early Hinduism.
+>
+> Also, can anyone provide me with a reference to succinct discussion of the
+> current scholarly position that I could pass on to them rather than having
+> to write something myself from the source texts?
+>
+> Best,
+>
+> Dean
+>
+> Dean Anderson
+> East West Cultural Institute
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120211/3310633b/attachment.htm>

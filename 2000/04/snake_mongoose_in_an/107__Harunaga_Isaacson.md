@@ -1,0 +1,28 @@
++++
+title = "107 Harunaga Isaacson"
+date = "2000-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/054131.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/054131.html)
+
+A brief article by Claudius Nenninger, which seems not to have been
+referred to in the responses to the original question, might just possibly
+have some additional references or be useful in another way. It is called
+`Wie kommt die Pharaonsratte zu den vedischen G\"ottern?', and was
+published in Studien zur Indologie und Iranistik 18 (1993), pp. 161--168.
+
+Harunaga Isaacson
+
+-----------------------------------------------
+Dr. Harunaga Isaacson
+Research Fellow in Sanskrit
+The Oriental Institute
+The University of Oxford
+Pusey Lane
+Oxford OX1 2LE
+Harunaga.Isaacson at oriental-studies.oxford.ac.uk
+tel./fax +44 (0)1865-723519
+
+
+

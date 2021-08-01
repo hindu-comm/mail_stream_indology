@@ -1,0 +1,26 @@
++++
+title = "61 Patrick Olivelle"
+date = "2002-04-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026895.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026895.html)
+
+Friends:
+
+A query about the word kSaara, often appearing in the compound
+akSaara-lavaNa. Manu 3.257; 5.73, 11.109. Commentators and Buhler
+take akSaara to be "non-artificial". At Manu 5.114 kSaara used as a
+cleansing agent appears to be some form of alkaline. But
+interestingly Arthasastra 2.4.27, and especially 2.15.14 take it
+clearly to mean some form of sugar/sweet substance. Could the latter
+meaning be also operative in the compound akSaara-lavaNa, referring
+to food without salt and kSaara -- i.e. a kind of ascetic food
+preparation?
+
+Thanks.
+
+Patrick
+
+
+

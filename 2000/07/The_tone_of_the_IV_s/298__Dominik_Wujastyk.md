@@ -1,0 +1,28 @@
++++
+title = "298 Dominik Wujastyk"
+date = "2000-07-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022008.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022008.html)
+
+I request the participants in the discussion of this topic to adopt a
+sober and dry tone, please.  Some postings which disagree with the Rajram
+decipherment have a mocking and ironical tenor, and there has even been
+some horseplay.  I'm all for fun, even rough fun, but on this occasion I
+think that our general purposes as scholars will be best served by taking
+the matter of the IV script decipherment attempts as seriously as
+possible, and limiting our remarks as far as possible to genuinely
+scholarly responses to the matter in hand.  There's no need to be jocose,
+and I think we'll all come through this better, learn more, and perhaps
+advance knowledge to a greater degree, if we restrain ourselves somewhat.
+
+Incidentally, would like to thank those members who have offered learned
+contributions on the topic.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list
+
+
+

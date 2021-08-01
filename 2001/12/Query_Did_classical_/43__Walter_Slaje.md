@@ -1,0 +1,27 @@
++++
+title = "43 Walter Slaje"
+date = "2001-12-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-December/026528.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-December/026528.html)
+
+Although not belonging to the category of philosophical works, there is another
+and apparently clear instance of an author having revised his own work, namely
+Kalhana. By a considerable change of a passage in the 8th Taranga of his
+Rajatarangini the transmission of mss of this new version, differing from
+an/the earlier one(s), seems to have been caused.
+
+See on this B. Kölver, Textkritische und philologische Untersuchungen zur
+Rajatarangini des Kalhana. Wiesbaden 1971: pp. 61; 79ff.
+
+WS
+
+-----------------------------------------------
+Prof. Dr. Walter Slaje
+Hermann-Loens-Str. 1, D-99425 Weimar (Germany)
+Tel/Fax: (+49)03643-501391 (office: (+49)0345-55-23650)
+e-mail: slaje at t-online.de (office: slaje at indologie.uni-halle.de)
+
+
+

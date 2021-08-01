@@ -1,0 +1,26 @@
++++
+title = "12 Avinash Sathaye"
+date = "2001-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/025958.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/025958.html)
+
+"N. Ganesan" wrote:
+
+> Dear List,
+>
+> How is the Sanskrit word, "preta", explained in terms of roots?
+> It's a late one, occuring in the epics like MBh.
+
+I have always explained it (to myself and others) as pra+itaH =
+prakarshheNa itaH = totally gone!
+I don't know if this is officially accepted as a valid derivation.
+However, I find it amusing that if one uses a similar root gam instead,
+then pra+gataH = advanced,  has a very pleasant meaning!
+--
+|Avinash Sathaye Phone:(859)277-0130(Home), (859)257-8832(Office) |
+Web page: www.msc.uky.edu/sohum
+
+
+

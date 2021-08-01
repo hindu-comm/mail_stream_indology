@@ -1,0 +1,35 @@
++++
+title = "54 Rajarshi Banerjee"
+date = "2000-01-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019722.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019722.html)
+
+NG>Yes, we can think of many things; However, consideration can be
+given to the roman script applied world-wide successfully already.
+
+RB>How about a roman alpabet which goes like a, A, i, I.. instead of
+haphhazard abcd..
+
+NG>That is exactly what is done while transliterating Indian
+languages.
+
+In that case you are just talking about what would largely be a font change
+from nagari to roman making use of 26*2 roman characters( including caps).
+There would be some who would miss the cursive or pretty indian scripts.
+
+The bigger problem would be that with the prepoderence of english in India,
+the roman alphabet will be taught along with all the associated complex
+spelling rules of english which gives speakers subconscious biases,
+conditions them not to recognize phonemes and makes it difficult for many of
+them to mimic or pronounce non english words unless they are close matches
+or rhyming words in english. There is a danger of phonological aspect of
+Indian grammars being brushed aside if roman alphabets are made the norm.
+
+More about place value notation when I have time
+
+sincerely , RB
+
+
+

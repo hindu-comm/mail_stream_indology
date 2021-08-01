@@ -1,0 +1,45 @@
++++
+title = "05 John Huntington"
+date = "2004-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-May/028374.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-May/028374.html)
+
+Dear Colleagues,
+
+Does any on the list know of a generic term for attributes in
+Sanskrit or Buddhist hybrid Sanskrit?  The various weapons tools and
+symbols held by Buddhist persona, all have names of which we are well
+aware but after forty-six years the generic term, if there is one,
+still eludes me.
+
+Thank you all
+
+John
+
+
+--
+John C. Huntington, Professor
+    (Buddhist Art and Methodologies)
+Department of the History of Art
+108 North Oval Mall
+The Ohio state University
+Columbus, OH 43210-1318 U.S.A.
+
+huntington.2 at osu.edu
+Phones:
+Direct Line to office (614) 688-8198
+Main Department Office: (614) 2927481
+Fax: (614) 292-4401
+
+
+Please see Dr. Dina Bangdel and my current exhibition at:
+http://kaladarshan.arts.ohio-state.edu/exhib/circleofbliss/index.html
+
+
+Please visit the Huntington Archive website at:
+http://kaladarshan.arts.ohio-state.edu
+
+
+

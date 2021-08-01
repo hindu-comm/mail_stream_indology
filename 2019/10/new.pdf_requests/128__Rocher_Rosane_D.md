@@ -1,0 +1,103 @@
++++
+title = "128 Rocher, Rosane D"
+date = "2019-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-October/051190.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-October/051190.html)
+
+Dear Alf,
+
+You can access a digital copy of Ward's book by the Hathi Trust online https://catalog.hathitrust.org/Record/008882657 <https://catalog.hathitrust.org/Record/008882657>
+
+There are copies on archive.org as well.
+
+Rosane
+
+On 10/26/19 11:56 AM, Alfred Hiltebeitel via INDOLOGY wrote:
+
+Dear Colleagues,
+
+Would anyone have .pds of English translations, wherever possible, of
+the following publications of Bartholomeus Ziegenbalg: his
+Malabarisches Heidenthum and the Genealogie der Malabarischen Gotter,
+completed the arly 1700s; and his co-authored Halleschen Berichte. (I
+have a copy in English of the Geneology but in Washington and not in
+Colombia).
+
+I also still need Louis Dumont’s study of the Pramalai Kallar. Would
+anyone have in English or French on a .pdf?
+
+And I am still looking for a .pdf of William Ward’s 1827 A View of the History,
+Literature, and Religion of the Hindoos (Serampore: Mission press),
+for which any edition on pdf would be great...
+
+Thanks much,
+Alf
+
+
+
+Sent from my iPad
+
+
+
+On Oct 22, 2019, at 4:14 PM, Alfred Hiltebeitel <beitel at email.gwu.edu><mailto:beitel at email.gwu.edu>
+wrote:
+
+
+
+
+
+Sent from my iPad
+
+
+
+On Oct 22, 2019, at 4:10 PM, Alfred Hiltebeitel <beitel at email.gwu.edu><mailto:beitel at email.gwu.edu>
+wrote:
+
+
+
+
+Dear Colleagues,
+
+I am writing about  Catholic and Protestant responses to Hindu
+sacrifice in the colonial period.
+
+Could anyone supply me withe Will Sweetman’s book, Reading Jesuits
+Reading Hinduism, and his book on Hinduism in the colonial period?
+
+I am also trying to recall a book I think by someone with the surname
+Ward which I recall as a pertinent diatribe agains Hindu sacrifices.
+Does anyone know it?
+
+For comparative purpose I am also interested to know of studies of Jain
+and Buddhist funerary practices in the colonial period.
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing
+committee)
+http://listinfo.indology.info (where you can change your list options
+or unsubscribe)
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing
+committee)
+http://listinfo.indology.info (where you can change your list options or
+unsubscribe)
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191026/2b524e2e/attachment.htm>

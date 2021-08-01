@@ -1,0 +1,40 @@
++++
+title = "78 Dominik Wujastyk"
+date = "2008-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-February/031408.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-February/031408.html)
+
+I'm very sorry to hear that Prof. Joshi has passed away.
+
+Although Prof.  Joshi is characterised below for his work with computers,
+his earlier work was with the history and calligraphy of Devanagari and
+other scripts.  He was a very fine calligrapher of Indian scripts, one of
+the sole practitioners of this art that I know in modern India.  His study
+of the history of script was also important and unique.  While his
+contribution to computer encoding was well-received in the contemporary
+Indian computing world, it was his deep knowledge of the history of script
+and his extraordinary and beautiful skills as a calligrapher that uniquely
+distinguished his work.  It is good to know that his vision of Indian
+script lives on in the typographic designs of many new Indic fonts.
+
+Dominik Wujastyk
+
+
+> Wed, 6 Feb 2008, JAGANADH GOPINADHAN wrote:
+
+> Dear friends
+> Prof R.K Joshi who initiated for the Vedic Sanskrit Encoding , passed away.
+> He was a visiting professor in C-DAC. India.
+>
+>
+> JAGANADH.G LINGUIST HDG-LTSC-DACVELAYAMBALAMTHIRUVANANTHAPURAMP-H+91 9895420624 E-MAIL- jaganadh at cdactvm.in,navadipanyaya at hotmail.com/jaganadhg at gmail.com http://sabdabodha.googlepages.comwww.malayalammorph.blogspot.comwww.malayalamresourceceter.org
+>
+>
+> _________________________________________________________________
+> Post free property ads on Yello Classifieds now! www.yello.in
+> http://ss1.richmedia.in/recurl.asp?pid=221
+
+
+

@@ -1,0 +1,26 @@
++++
+title = "10 Allen W Thrasher"
+date = "2006-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-February/029595.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-February/029595.html)
+
+If anyone has been offered for sale or valuation, or seen in a bookseller's catalog, any modern or medieval birchbark manuscripts from Kashmir, could they please contact me off the list?
+
+I should state in advance I am not asking because of any suspicion of theft or national patrimony and export issues, but in helping someone get a basis for appraisal.   I am also not referring to ancient Gandhari birchbark mss or similar items, but solely to much more recent Kashmir mss.
+
+Thanks,
+
+Allen
+
+Allen W. Thrasher, Ph.D., Senior Reference Librarian
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

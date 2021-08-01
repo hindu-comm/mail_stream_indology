@@ -1,0 +1,50 @@
++++
+title = "75 Dominik Wujastyk"
+date = "2000-12-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024186.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024186.html)
+
+---------- Forwarded message ----------
+Date: Fri, 01 Dec 2000 12:50:17 -0500
+From: John Cort <cort at denison.edu>
+
+Subject: Re: CRSI 2001 Call for Papers
+
+CONFERENCE ON RELIGION IN SOUTH INDIA
+
+CALL FOR PAPERS 2001
+
+        The 2001 workshop of the Conference on Religion in South India
+(CRSI) will be a felicitation of the career of John Braisted Carman of
+Harvard University.  The theme of the workshop will be "Comparative
+Theologies in South India."  This theme will allow scholars, both those
+who have worked, taught and studied with John, and those who only know of
+John's scholarship through reading it, to gather to address research
+topics that reflect upon John's many scholarly interests in South India.
+
+        We invite papers that address questions, issues, and themes in the
+area of South Indian theology and theologies--Christian, Hindu, and
+other--for a conversation that resonates with the distinguished
+scholarship that has marked John Carman's career to date.
+
+        The workshop will be held from the afternoon of Thursday, June 14,
+through midday on Sunday, June 17, 2001, on the campus of Mount Holyoke
+College in South Hadley, Massachusetts.  The two-and-a-half working days
+will follow the usual CRSI format of allowing for more leisurely
+presentation and in-depth discussion of papers than found in the larger
+annual conventions.  Saturday evening will be reserved for a festive
+celebration of John's career by all present.
+
+        The CRSI website (www.emory.edu/COLLEGE/RELIGION/crsi) provides
+some information about the history of CRSI as well as details of past
+workshops.  At a later date this site will also provide information on
+fees, registration, and travel for the 2001 workshop.
+
+        Submit one-page paper proposals BY 20 JANUARY 2001 to:  Prof. John
+E. Cort, Department of Religion, Denison University, Granville, OH 43023;
+cort at denison.edu.
+
+
+

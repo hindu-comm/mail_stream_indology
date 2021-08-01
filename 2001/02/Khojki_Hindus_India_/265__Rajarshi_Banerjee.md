@@ -1,0 +1,20 @@
++++
+title = "265 Rajarshi Banerjee"
+date = "2001-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025377.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025377.html)
+
+I'm surprised "Malaiya" doesn't know about this. I don't have any references
+at hand right now, but you could get some information even from a web
+search:
+
+MAybe rohan oberoi was born after operation bluestar.
+I am surprised that he is unaware of the encouragement by indira gandhi to
+armed akali sects and militant groups in the earlu eighties and seventies.
+She reversed her stand only because sikh militancy went out of hand. Every
+one knows that bhindranwale was gandhis creation.
+
+
+

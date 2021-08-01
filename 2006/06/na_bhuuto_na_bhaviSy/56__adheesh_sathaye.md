@@ -1,0 +1,37 @@
++++
+title = "56 adheesh sathaye"
+date = "2006-06-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-June/029901.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-June/029901.html)
+
+Dear Colleagues,
+
+I am trying to track down the history of this proverbial phrase/ 
+cliche ("na bhuuto na bhaviSyati"), which seems to be fairly common  
+in epic and puranic literature. As in: "harizcandra-samo raajaa na  
+bhuuto na bhaviSyati" (MarkP 8.278cd, DBhP 7.18.52ab). Is this phrase  
+attested in Vedic literature at all? smrtis? If anyone has any  
+remarks or words of advice, or perhaps even references, I'd be very  
+much obliged!
+
+Best regards,
+
+Adheesh
+
+
+
+
+--
+Adheesh Sathaye
+Asian Studies
+University of British Columbia
+UBC Asian Centre
+1871 West Mall
+Vancouver, BC V6T 1Z2
+604.822.5188
+adheesh at interchange.ubc.ca
+
+
+

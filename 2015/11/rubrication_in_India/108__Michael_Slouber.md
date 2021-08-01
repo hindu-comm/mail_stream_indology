@@ -1,0 +1,122 @@
++++
+title = "108 Michael Slouber"
+date = "2015-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-November/042346.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-November/042346.html)
+
+Dear List,
+
+I would like to revise my statement that Nepalese palmleaf manuscripts use rubrication from the 9th century.  What they do is use red ink as a sort of highlighting for section boundary marks, and later, colophons, but they do not use it for the writing itself in examples that I have seen.
+
+Dr. Kapstein’s query is still very much open, then.
+
+––
+Michael Slouber
+Assistant Professor of South Asia
+Department of Liberal Studies
+Western Washington University
+
+
+
+On २०१५ नोभेम्बर २२, at १:१९ पूर्वाह्न, Michael Slouber <Michael.Slouber at wwu.edu<mailto:Michael.Slouber at wwu.edu>> wrote:
+
+Rubrication is used on palm leaf manuscripts in Nepal from as early as the 9th century.  I confirmed this with photos of the Suśrutasaṃhitā manuscript.
+
+(http://www.unesco.org/new/en/kathmandu/about-this-office/single-view/news/two_manuscripts_from_nepal_now_in_unescos_prestigious_memory_of_the_world_register)
+
+––
+Michael Slouber
+Assistant Professor of South Asia
+Department of Liberal Studies
+Western Washington University
+
+
+
+On २०१५ नोभेम्बर २२, at १:०७ पूर्वाह्न, philipp.a.maas <philipp.a.maas at gmail.com<mailto:philipp.a.maas at gmail.com>> wrote:
+
+As far as the Sanskrit mss. are concerned that I have worked with, rubrication exclusively occurs in paper mss. Could it be possible that rubrication was introduced in South Asia along with the use of paper as a writing material?
+
+Best wishes,
+Philipp
+
+Enviado através de Huawei Mobile
+
+
+-------- Originalnachricht --------
+Betreff: Re: [INDOLOGY] rubrication in Indian mss.
+Von: Matthew Kapstein
+An: Dan Lusthaus
+Cc: Indology
+
+
+Thanks, Dan,
+
+I am quite aware of Chinese, Tibetan and medieval Western rubrication, as well as late Indian materials.
+My query, though, specifically concerns early examples in Indian manuscripts.
+
+thanks anyway,
+Matthew
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+________________________________________
+From: Dan Lusthaus [yogacara at gmail.com<mailto:yogacara at gmail.com>]
+Sent: Sunday, November 22, 2015 2:18 AM
+To: Matthew Kapstein
+Cc: Indology
+Subject: Re: [INDOLOGY] rubrication in Indian mss.
+
+Dear Matthew,
+
+Red writing mixed in with ordinary black ink passages already is found in Chinese mss. in Dunhuang, some perhaps dating from as early as the fifth or sixth century (though not necessarily to mark headings -- its function and purpose is a bit more mysterious). The Dunhuang ms. site http://idp.bl.uk/ has online facsimiles of some, but I haven't time now to locate specific examples (and usually the urls are temporary so they are useless in emails -- one would have to identify text numbers, etc. and do a search text by text; perhaps someone who has that corpus closer to their fingertips than I do can guide you where to look). While I don't recall offhand any Indian texts there with similar features, it is likely that the practice was being transferred across cultures.
+
+Someone who had been very interested in this is Toru Funayama. I don't recall if he ever published anything on it.
+
+If you can't find any of those, let me know, and I will try to find some time to do a red-ink hunt on the Dunhuang site. Somewhere I may have notes compiled from years ago.
+
+best,
+Dan
+----- Original Message -----
+From: Matthew Kapstein
+Subject: [INDOLOGY] rubrication in Indian mss.
+
+Dear colleagues,
+
+When do we first see rubrication in Indian manuscripts? And can you send me any links to
+images of early examples? Of course, vermilion was known and used in many contexts,
+but here I am particularly interested in its use in writing.
+
+with thanks in advance,
+Matthew
+
+Matthew Kapstein
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151123/fc7d5147/attachment.htm>

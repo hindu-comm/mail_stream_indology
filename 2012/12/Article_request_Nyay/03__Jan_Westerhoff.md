@@ -1,0 +1,36 @@
++++
+title = "03 Jan Westerhoff"
+date = "2012-12-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-December/037254.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-December/037254.html)
+
+Dear Colleagues,
+if any of you happens to have a .pdf of this article they could send me I
+would be most grateful!
+
+Sen, Prabal Kumar:
+The Nyāya-Vaiśeṣika theory of variegated colour
+(citrarūpa): some vexed problems
+Studies in Humanities and Social Sciences, 3/2, 151-172, 1996
+
+Best wishes
+
+
+
+Jan Westerhoff
+
+***************************
+JC Westerhoff
+Department of Philosophy
+University of Durham
+50 Old Elvet
+Durham DH1 3HN
+United Kingdom
+
+www.janwesterhoff.net
+westerhoff at cantab.net
+
+
+

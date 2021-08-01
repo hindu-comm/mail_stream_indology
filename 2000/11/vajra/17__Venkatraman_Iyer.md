@@ -1,0 +1,31 @@
++++
+title = "17 Venkatraman Iyer"
+date = "2000-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023551.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023551.html)
+
+ >  As an important
+ >element in its long journey to becoming a specifically tantric
+ >symbol, one should also consider the history of Vajrapaa.ni who
+ >already appears in sculpted representations in Gandhara style
+ >statuary -- where he is sometimes depicted in the Hellenistic form
+ >of Herakles. Somewhat later, and thus giving rise to the early
+ >tantric three-buddha family scheme, one finds `Shaakyamuni flanked
+ >by Vajrapaa.ni paired with Avalokite`svara -- one with a vajra and
+ >the other with a lotus. The possible covert sexual symbolism here
+ >should be obvious :)
+
+Does this have anything to do with the male Avalokita
+turning into female Guanyin in the Orient?
+
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

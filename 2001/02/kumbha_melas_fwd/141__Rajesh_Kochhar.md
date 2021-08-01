@@ -1,0 +1,56 @@
++++
+title = "141 Rajesh Kochhar"
+date = "2001-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025252.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025252.html)
+
+The Kumbh in the Kumbh mela is the zodiacal sign Aquarius. The periodicity
+of 12 years corresponds to the orbital period of the planet Jupiter.
+Rajesh Kochhar
++++++++++++++++++++++++++++++++++++
+-----Original Message-----
+From: Dominik Wujastyk <ucgadkw at UCL.AC.UK>
+To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
+Date: Wednesday, February 07, 2001 5:35 PM
+Subject: kumbha melas (fwd)
+
+
+>---------- Forwarded message ----------
+>Date: Fri, 2 Feb 2001 01:21:38 -0800 (PST)
+>From: claudia wright <jimandclaud at yahoo.com>
+>
+>Subject: kumbha melas
+>
+>[...]
+>I'm in India
+>recovering from the Mahakumbh and have been looking at
+>the archive. I see there have been a couple of vague
+>mails about dates and places of the Kumbh Melas. The
+>sequence of the last 12 years, a full Kumbh cycle, was
+>as follows:
+>
+>Jan 1989 Prayag Mahakumbh
+>
+>Nov 1991 Nasik Kumbh Mela
+>
+>Mar 1992 Hardwar Ardh Kumbh Mela
+>
+>Apr 1992 Ujjain Simhasth Mela
+>
+>Jan 1995 Prayag Ardh Kumbh Mela
+>
+>Mar 1998 Hardwar Kumbh Mela
+>
+>Jan 2001 Prayag Mahakumbh
+>
+>I'm afraid I can't fill you in on the astrological
+>significances 'though.....
+>
+>Yours,
+>
+>James Mallinson
+
+
+

@@ -1,0 +1,45 @@
++++
+title = "96 Michael Hahn"
+date = "2006-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-March/029740.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-March/029740.html)
+
+Dear colleagues,
+especially those living in Australia,
+
+
+Can anyone provide me with the current postal and --- if existing ---
+e-mail address of Dr. Tissa Rajapatirana? He will certainly be pleased
+to learn that finally the the first part of a new edition of Aryasura's
+Jatakamala (on which we worked together in Bonn 30 years ago) has just
+been released:
+
+Aryasuras Jatakamala. Philologische Untersuchungen zu den Legenden 1 bis
+15. Teil 1: Einleitung, Textausgabe, Anhänge, Register. Von Albrecht
+HANISCH. Marburg 2005. lxxxvii, 255 S.  48,00. ISBN 3-923776-43-6
+(Indica et Tibetica 43.1)
+
+Aryasuras Jatakamala. Philologische Untersuchungen zu den Legenden 1 bis
+15. Teil 2: Philologischer Kommentar. Von Albrecht HANISCH. Marburg 2005.
+ix, 409 S.  52,00. (Indica et Tibetica 43.2)
+
+A Table of Content is available under www.iet-verlag.de
+
+Michael Hahn
+
+
+Prof. Dr. Michael Hahn
+Fachgebiet Indologie und Tibetologie
+FB 10, Philipps-Universitaet Marburg
+Wilhelm-Roepke-Str. 6
+D-35032 Marburg
+Germany
+Tel.: +49-6421-282-4740 or 4741
+Fax: +49-6421-282-4995
+E-mail: hahnm at staff.uni-marburg.de
+URL: staff-www.uni-marburg.de/~hahnm
+
+
+

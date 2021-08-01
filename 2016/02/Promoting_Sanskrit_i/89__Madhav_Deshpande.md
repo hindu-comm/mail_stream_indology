@@ -1,0 +1,44 @@
++++
+title = "89 Madhav Deshpande"
+date = "2016-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-February/042684.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-February/042684.html)
+
+Dear Indologists,
+
+     Please find attached a report submitted by a committee to the
+Government of India regarding the future teaching of Sanskrit.  [Thanks to
+Shrinivasa Varakhedi on the BVP list.] This is an important document
+indicating the likely direction of the teaching of Sanskrit in Indian
+schools and colleges.  When I was a student in Pune schools during
+1950s/60s, students in the Highschools were expected to study and pass
+examinations in four languages, namely Marathi, Hindi, English and
+Sanskrit.  However, after that the Govt of India decided to promote a
+so-called three language formula which made Sanskrit an optional subject in
+most non-Hindi speaking states.  In the Hindi-speaking states, there was
+place for Sanskrit within the three language formula.  This change in
+policy drastically reduced the number of schools offering Sanskrit in
+states like Maharashtra.  It remains to be seen how this new report
+submitted to the Govt of India will alter the teaching of Sanskrit.
+
+-- 
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, MI 48104-1608, USA
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160212/6a92fadb/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Vision_and_Road_Map_for_the_Development_of_Sanskrit_Ten_year_perspective_Plan_2016_02_12.pdf
+Type: application/pdf
+Size: 1295618 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20160212/6a92fadb/attachment.pdf>

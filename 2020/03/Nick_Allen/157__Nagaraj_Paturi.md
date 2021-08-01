@@ -1,0 +1,117 @@
++++
+title = "157 Nagaraj Paturi"
+date = "2020-03-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-March/051928.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-March/051928.html)
+
+Wanted to know more about this scholar so fondly remembered and found this
+list:
+
+http://users.ox.ac.uk/~njallen/complete_list.htm
+
+And this:
+
+nickallenbibliographypdf-0.pdf
+
+On Tue, Mar 24, 2020, 9:27 PM Dominik Wujastyk via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Oh, I'm very sorry to hear this sad news.  Nick was a major part of Indian
+> studies at Oxford for half a century.  He always pushed the boundaries of
+> our understanding of ancient Indian epics and culture, a unique voice.
+>
+> I send my condolences to his friends, colleagues and students.
+>
+> Dominik Wujastyk
+>
+>
+> --
+> Professor Dominik Wujastyk
+> <https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+> ,
+>
+> Singhmar Chair in Classical Indian Society and Polity
+> ,
+>
+> Department of History and Classics
+> <http://historyandclassics.ualberta.ca/>
+> ,
+> University of Alberta, Canada
+> .
+>
+> South Asia at the U of A:
+>
+> sas.ualberta.ca
+>
+>
+>
+> On Tue, 24 Mar 2020 at 02:36, Christophe Vielle via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear List,
+>> Nicholas (Nick) Allen passed away on last Saturday.
+>> https://www.wolfson.ox.ac.uk/content/1138-dr-nicholas-allen
+>> https://www.isca.ox.ac.uk/people/dr-nick-allen
+>> A Florilège of his comparative works was issued at the end of the last
+>> year: *Arjuna-Odysseus: Shared Heritage in Indian and Greek Epic*,
+>> London: Routledge, 2019.
+>>
+>> TABLE OF CONTENTS:
+>>
+>> List of figures.
+>> List of tables.
+>> Acknowledgements.
+>> List of abbreviations.
+>> Signs.
+>> Introduction
+>> 1. A starting point
+>> 2. Five relationships
+>> 3. Homer’s simile
+>> 4. Hero and horse
+>> 5. Yoga
+>> 6. Crocodiles and nymphs
+>> 7. Monkey and dog
+>> 8. Durgā and Athena
+>> 9. Draupadī and Penelope
+>> 10. Bhīsm a and Sarpedon
+>> 11. Hesiod’s Succession Myth
+>> 12. Five elements
+>> 13. Rings and rotations
+>> 14. Achilles’ shield
+>> 15. Dumézil and Dumont
+>> 16. Yudhis hira and Agamemnon
+>> 17. Kauravas and suitors
+>> 18. Hanging over abyss
+>> 19. Gods descend to battlefield 20. Heroes and supercategories
+>> 21. Cyavana and Prometheus 22. Telemachy 23. Dro a and Chryses
+>> 24. Aśvatthāman and the Wooden Horse. Bibliography.
+>> Index.
+>> –––––––––––––––––––
+>> Christophe Vielle <https://uclouvain.be/en/directories/christophe.vielle>
+>> Louvain-la-Neuve
+>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200324/82962f1b/attachment.htm>

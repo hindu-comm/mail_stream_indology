@@ -1,0 +1,32 @@
++++
+title = "33 Dietrich Christian Lammerts"
+date = "2006-09-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-September/030005.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-September/030005.html)
+
+Hi,
+Looking briefly at this mss, it is not Burmese. It is written in a Tai
+script, probably of eastern Shan States in Myanmar or Northern Thailand,
+perhaps Tai Khoen. The Pali seems to be an ordination text (sunatu me bhante
+sangho, etc). The support is saa paper, known in Burma as "parabaik", which
+is very common. 
+
+Christian
+
+
+
+-- 
+Dietrich Christian Lammerts
+Doctoral Student, Department of Asian Studies, Cornell University
+Kahin Center for Advanced Research on Southeast Asia
+640 Stewart Avenue
+Ithaca, NY 14850 USA
+DCL33 at cornell.edu
+http://www.people.cornell.edu/pages/dcl33
+
+Fall 2006 Office Hours: Tues, Wed 11:10-12:30, 336 Rockefeller Hall
+
+
+

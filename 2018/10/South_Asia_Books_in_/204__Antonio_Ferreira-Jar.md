@@ -1,0 +1,32 @@
++++
+title = "204 Antonio Ferreira-Jardim"
+date = "2018-10-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048607.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048607.html)
+
+Dear colleagues,
+
+Does anyone know the fate of South Asia Books - formerly in Columbus, Missouri?
+
+I am trying to obtain a copy of one the volumes of the Opera Minora of
+the Harvard Oriental Studies series solely distributed by South Asia
+Books. ("Vedic Sakhas")
+
+However the company seems to have gone belly up! The only remaining
+presence seems to be on the truly awful Amazon Marketplace. This
+doesn't help either as Amazon have geoblocked Australians from buying
+on their site - because they refuse to pay goods & sales tax to the
+Australian Government.
+
+Does anyone have any hints? This distributor had sole distribution
+rights for a number of Indology titles so it is quite a shame!
+
+Kind regards,
+Antonio Ferreira-Jardim
+Brisbane, Australia
+
+
+
+

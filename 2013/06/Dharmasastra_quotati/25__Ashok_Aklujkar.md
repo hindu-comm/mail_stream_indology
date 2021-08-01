@@ -1,0 +1,20 @@
++++
+title = "25 Ashok Aklujkar"
+date = "2013-06-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-June/037976.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-June/037976.html)
+
+A plausible correction for upanīyayet has already been suggested in the form of upanayīta or upanayet.
+
+The iti at the end of Balabhadra's sentence may have been meant in the sense of 'since, because'. The intended logical connection may be something like this: 'Because the boy is held to be looking for nourishment at the age of six, some restrictions on his eating that come with the upanayana sa.mskaara can/should start with age eight and hence the prescribed upanayana  time is the eighth year.' 
+
+Pl note that I am pointing out one possible reason, not claiming that that reason alone was intended.
+
+If what I am suggesting is plausible, we need not search for an exacting matching sentence in earlier authoritative texts. 
+
+a.a.
+
+
+

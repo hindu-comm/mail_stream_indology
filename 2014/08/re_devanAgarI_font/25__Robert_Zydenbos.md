@@ -1,0 +1,29 @@
++++
+title = "25 Robert Zydenbos"
+date = "2014-08-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-August/039844.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-August/039844.html)
+
+The best way (by which I mean: the way that gives the esthetically most pleasing results) to use Indic unicode fonts on a Mac is ConTeXt or LaTeX with the XeTeX typesetting engine. XeTeX works with OpenType, TrueType, and just about any other type of font, and it does not depend on the font rendering of OSX.
+
+But for the majority of us, for whom working with the TeX derivatives may be too techie, the great word processing tip is: forget about Word, and use LibreOffice. Available free of cost (http://www.libreoffice.org/), it does much more than everything I require from a word processor / office suite – AND, just like XeTeX, it uses its own font rendering engine. This means that all the Indic fonts that do not work in other Mac applications (like Linux and Windows fonts) work just fine here.
+
+RZ
+
+
+--
+Prof. Dr. Robert J. Zydenbos
+Institute of Indology and Tibetology
+Department of Asian Studies
+Ludwig-Maximilians-Universität Munich
+Germany
+Tel. (+49-89-) 2180-5782
+Fax (+49-89-) 2180-5827
+Web http://zydenbos.userweb.mwn.de/
+
+
+
+
+

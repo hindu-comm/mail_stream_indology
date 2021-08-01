@@ -1,0 +1,4 @@
++++
+title = "Minoru Hara address"
+
++++

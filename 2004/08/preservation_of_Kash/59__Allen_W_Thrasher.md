@@ -1,0 +1,41 @@
++++
+title = "59 Allen W Thrasher"
+date = "2004-08-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-August/028551.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-August/028551.html)
+
+I have been clearing up my mother's condominium prior to sale, she
+having moved to assisted living, and have got a very fine Kashmiri
+papier mache' tray purchased in 1979.  Unfortunately, in several spots
+the lacquer has blistered away from the underlying papier mache for some
+reason (this has not happened to those I got from the same manufacturer
+at the same time).  Does anyone know anyone with expertise in correcting
+this syndrome?
+
+Any leads much appreciated.
+
+
+Allen
+
+
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "120 Patrick Olivelle"
+date = "2015-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-April/040987.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-April/040987.html)
+
+With regard to "siddha", there is interesting evidence from a tradition far different from the "religious", and that is Kauṭilya's Arthaśāstra. There the term is used frequently with regard to monetary matters and bookkeeping, but within a religious context we have both siddha used alone and in the compound siddhatāpasa. In these usages, the reference is to a religious virtuoso who is capable of, or believed capable of, doing extraordinary things. See, for example, Arthaśāstra: 1.11.16; 1.12.22; 1.21.24; 4.3.13, 25, 44; 4.4.3; 5.1.3; 5.2.39, 41.
+
+For jīvanmukta, from a Advaita and quasi-yoga perspective, see Vidyāraṇya's Jīvanmuktiviveda, newly edited and translated by Robert Gooding, available, I think, through the service that publishes dissertations.
+
+Best,
+
+Patrick
+
+
+
+On Apr 12, 2015, at 3:38 PM, Nagaraj Paturi <nagarajpaturi at gmail.com> wrote:
+
+> I agree with Prof. Mathew Kapstein.
+>  
+> The word Siddha has several meanings in several contexts.
+>  
+> The term JIvanmukta too has a huge shades of meaning and a wide varieties of discussion.
+>  
+> There are very small number of occasions the two terms can turn almost synonymous to each other.
+>  
+> Siddha : 1. The one who has achieved one of the ashTa siddhis. 2. One of the (usually seven) devata jatis. 3. A respectable member of the Tamil siddha tradition. 4. A guru of the Shaiva particularly Vira shaiva tradition 5. In the modern theosophical tradition, the one translated into English as a Master. The list goes on.
+>  
+> JIvanmukta : I shall continue in my next post.    
+> 
+> -- 
+> Prof.Nagaraj Paturi
+> Hyderabad-500044
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+
+
+
+
+

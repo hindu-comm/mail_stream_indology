@@ -1,0 +1,39 @@
++++
+title = "188 Joshi Rasik"
+date = "2000-06-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021683.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021683.html)
+
+Vasudevahindi of Sanghadasaganivacaka is edited with Introduction, Hindi
+Translation and Elaborate Exposition by Dr.<sriRanjana
+Surideva,l987,size20-26,XXX,1200 pp.in Pandit Ramparatap Shastri
+Publications Series No.11.It is available at Chaukhamba Sanskrit
+Pratistrhan,38.U_A:Bungalow Road,Jawahar Nagar.Post Box
+No.2113,Delhi-110007.
+Rasik Vihari Joshi
+
+-----Mensaje original-----
+De: Professor D N Jha [mailto:dnjha at DEL2.VSNL.NET.IN]
+Enviado el: Sábado, 24 de Junio de 2000 07:11 a.m.
+Para: INDOLOGY at LISTSERV.LIV.AC.UK
+Asunto: VasudevahiNDI
+
+
+
+Dear colleagues,
+Can any one tell me if SanghadAsaGaNi's VasudevahiNDI (Jain Prakrit Text)
+has been translated into English or Hindi.I will be grateful for precise
+reference.
+Regards,
+D.N.Jha
+Professor of History 
+University of Delhi
+Email: dnjha at del2.vsnl.net.in
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20000626/cf8edb1e/attachment.htm>

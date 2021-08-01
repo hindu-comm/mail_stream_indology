@@ -1,0 +1,38 @@
++++
+title = "70 Rasik Vihari Joshi Tripathi"
+date = "2008-05-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-May/031711.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-May/031711.html)
+
+Dear Pandurangi,
+Congratulations for organising 10 days workshop on Tattvachintamani and
+Tarkatandava. I would have gladly attended but we are in session. I am
+sorry, best luck.
+Rasik Vihari Joshi
+
+-----Mensaje original-----
+De: Indology [mailto:INDOLOGY at liverpool.ac.uk] En nombre de
+veeranarayana Pandurangi
+Enviado el: Martes, 13 de Mayo de 2008 07:17 a.m.
+Para: INDOLOGY at liverpool.ac.uk
+Asunto: Fwd: workshop on tattvachintamni 15-24 july 2008
+
+
+ Dear sir,
+I am very happy to announce that JRRSU will organise 10 days workshop
+Tattvachintamani and Tarkatandava with special reference to Akanksa
+Yogyata Asatti etc. I request everybody to come and make it a success.
+please inform us veeranarayana
+
+
+-- 
+Veeranarayana N.K. Pandurangi
+Head, Dept of Darshanas,
+Yoganandacharya Bhavan,
+Jagadguru Ramanandacharya Rajasthan Samskrita University, Madau, post
+Bhankrota, Jaipur, 302026.
+
+
+

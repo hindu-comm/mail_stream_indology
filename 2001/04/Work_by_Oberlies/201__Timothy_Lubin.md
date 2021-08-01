@@ -1,0 +1,33 @@
++++
+title = "201 Timothy Lubin"
+date = "2001-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026165.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026165.html)
+
+In re: Valerie Roebuck's question on Oberlies's studies on the Shvetashvatara, here are the references to his series of studies in the Wiener Zeitschrift fur die Kunde Sudasiens (all diacritical marks omitted):
+
+Oberlies, Thomas. 1988. "Die  Svetasvatara-Upanisad: Eine Studie ihrer Gotteslehre (Studien zu den 'mittleren' Upanisads I)." WZKS 32, 35-62.
+
+_______. 1995. "Die  Svetasvatara-Upanisad: Einleitung -- Edition und Übersetzung von Adhyaya I (Studien zu den 'mittleren' Upanisads II -- 1. Teil)." WZKS 39, 61-102.
+
+_______. 1996. "Die  Svetasvatara-Upanisad: Edition und Übersetzung von Adhyaya II-III (Studien zu den 'mittleren' Upanisads II -- 2. Teil)." WZKS 40, 123-160.
+
+_______. 1998. "Die  Svetasvatara-Upanisad: Edition und Übersetzung von Adhyaya IV-VI (Studien zu den 'mittleren' Upanisads II -- 3. Teil)." WZKS 42, 77-138.
+
+
+
+Timothy Lubin
+Assistant Professor (Religions of South Asia)
+Department of Religion
+23 Newcomb Hall
+Washington and Lee University
+Lexington, VA 24450
+
+office: 540-463-8146; fax: 540-463-8498
+lubint at wlu.edu
+http://home.wlu.edu/~lubint
+
+
+

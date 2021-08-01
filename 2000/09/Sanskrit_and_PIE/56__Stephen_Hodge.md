@@ -1,0 +1,41 @@
++++
+title = "56 Stephen Hodge"
+date = "2000-09-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022655.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022655.html)
+
+Rajarshee Banerjee wrote:
+> Hard dates are provided by greek 1200  BC, hittite 1800 BC and
+mitanni,
+> kassite 1300.
+
+Are these dates so "hard" ?   I allude especially to the dating of
+Hittite materials.  I may be wrong, but my impression is that much of
+Hittite dating relies on Egyptian chronology.  There are a number of
+serious Egyptologists who believe that the conventional chronology for
+Egypt is wrong in many respects -- often because the later parallel
+dynasties were counted sequentially rather than concurrently.   For a
+well-argued presentation see D. Rohl's "A Test of Time" (Century 1995)
+who presents a detailed revised Egyptian chronology.
+
+The main Egyptian rulers who had contact with the Hittites, and whose
+dates are thus used for the Hittites, were:
+
+Akhenaten (the Amarna letters)  conventionally c1300 BCE to be revised
+to c980 BCE
+and
+Ramesses II (battle of Qadesh) conventionally c1200 BCE to be revised
+to c930 BCE.
+
+These dates fit events in neighbouring countries (Israel etc) better,
+so if these revised dates hold good, then the linguistic status of
+Hittite needs to be re-examined -- its likely origins then would
+probably fall nearer to early Greek.
+
+Best wishes,
+Stephen Hodge
+
+
+

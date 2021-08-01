@@ -1,0 +1,36 @@
++++
+title = "00 Harry Spier"
+date = "2000-06-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021503.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021503.html)
+
+Dear list members,
+
+A friend of mine has asked me to check the etymology and meaning of "bhAv"
+in modern Indian languages.
+
+1) Turner in entry 9475 in CDIAL (bhAva) uses the spelling "bhAv" for
+Marathi and Gujerati but uses the spelling "bhAu" for Hindi, Panjabi, Sindi,
+Nepali.  Are "bhAu" and "bhAv" alternate spellings for the same word in
+Hindi (or any of the other modern Indian languages Turner lists)?
+
+2) Turner gives meanings of "price" or "market rate" for NIA languages
+"bhAu" or "bhAv". Do any modern Indian languages have a meaning for "bhAv"
+similar to "State of being or way of thinking or feeling etc."?
+
+
+Many thanks in advance,
+
+
+Harry Spier
+371 Brickman Rd.
+Hurleyville, New York
+USA 12747
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

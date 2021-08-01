@@ -1,0 +1,73 @@
++++
+title = "66 Dominik Wujastyk"
+date = "2002-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026901.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026901.html)
+
+---------- Forwarded message ----------
+Date: Thu, 25 Apr 2002 08:51:25 +0000
+From: Michael Hutt <mh8 at soas.ac.uk>
+To: Dominik Wujastyk <ucgadkw at ucl.ac.uk>
+Subject: Re: Yamagita in Nepal (fwd)
+
+Dominik, I can discern some Nepali there
+(manuSyelokamAjAyeraheravicAragarajovaiSNadharmAtmAchantimanuSyekananalpAvaherdA
+paninahera) and some Skt, I think, but nothing that looks like Newari to
+me.
+
+
+--- Message from DW:
+Mike, does this look like Newari or Nepalese?
+>
+>Dominik
+>
+>--
+
+>---------- Forwarded message ----------
+>Date: Wed, 17 Apr 2002 15:42:16 -0400
+>From: Allen W Thrasher <athr at LOC.GOV>
+>Reply-To: Indology <INDOLOGY at liverpool.ac.uk>
+>To: INDOLOGY at liverpool.ac.uk
+>Subject: Yamagita in Nepal
+>
+>The Library of Congress has just been given a 12 ff. manuscript
+>apparently missing at least one final page.  There is no final colophon
+>and the last p. seems to end in the middle of Sloka 44.  In the margins
+>with the folio numbers is the abbreviation Ya. GI.
+>
+>The ms begins: ZrIgaNezAya namaH// //ZrIyamAya namaH// //duttagachanti
+>bhUrloke. vaiSNavAnAM parittejet//vaiSNavAnAM anAcAri. Zighram ca
+>KathitaM prabhU//1//yamarAjAle AgyAganyA. (ryA? tyA?) hedujaho.
+>manuSyelokamAjAyeraheravicAragarajovaiSNadharmAtmAchantimanuSyekananalpAvaherdA
+>paninahera//1
+>(sic)//
+>
+>The periods represent dots between two letters, halfway down from the
+>ZirorekhA.
+>
+>F. 12 seems to include a phalastuti of a YamagItA.  The phrase
+>yamarAjAle AgyAganyA. (ryA? tyA?), included above, occurs repeatedly in
+>the book.
+>
+>The donor knows nothing about the ms except that it was from Manang,
+>Nepal, and is supposed to be from around 1775.
+>
+>The text is clearly in some other language than Sanskrit.
+>
+>Does anyone know anything about Yamagitas from Nepal?
+>
+>Thanks,
+>
+>Allen Thrasher
+>Library of Congress
+
+Michael Hutt
+Reader in Nepali and Himalayan Studies & Dean of Vernon Square campus
+School of Oriental and African Studies, London
+tel 020 7074 5011
+fax 020 7074 5039
+
+
+

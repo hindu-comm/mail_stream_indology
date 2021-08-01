@@ -1,0 +1,37 @@
++++
+title = "114 Lars Martin Fosse"
+date = "2011-08-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-August/035797.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-August/035797.html)
+
+Dear members of the list!
+
+There is a passage in an Indic drama, I believe, which gives a good
+description of the house of a wealthy courtesan (complete with elephant and
+all). Do any of you happen to know where this may be? I have lost the
+reference, and it is sorely needed.
+
+Best regards,
+
+Lars Martin Fosse
+
+
+
+
+From: 
+Dr.art. Lars Martin Fosse 
+Haugerudvn. 76, Leil. 114, 
+0674 Oslo - Norway 
+Phone: +47 22 32 12 19  
+Mobile phone: +47 90 91 91 45 
+E-mail: lmfosse at getmail.no 
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110821/4087fbd5/attachment.htm>

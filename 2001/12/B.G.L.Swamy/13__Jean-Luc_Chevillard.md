@@ -1,0 +1,45 @@
++++
+title = "13 Jean-Luc Chevillard"
+date = "2001-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-December/026496.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-December/026496.html)
+
+At 11:17 07/12/01 +0100, Herman Tieken wrote:
+>[...] Francois
+>Gros' characterization of Dr. B.G.L. Swamy as an iconoclast is undeserved.
+
+The exact wording of prof. GROS' argument
+and its context (unless you are quoting from another
+of his essays) is:
+
+"[...] This points up the misappreciation of Tamil chronology,
+"under which laboured the British authors
+"of the 19th century, such as G.U. Pope, the Tamil specialist
+"or Nelson, the editor of gazetteers, whoi placed the tEvAram
+"in the 13th or even 14th century. But are we justified in thinking
+"that, when P. Sudaram Pillai in 1895 in an article entitled
+" `Some Milestones in the History of Tamil Literature
+" or the Age of Tirugnana sambanda', which was widely
+"distributed and printed, dared to place this poet in the 7th c.
+"he was succumbing to the opposite type of excess?
+"Eighty years had to pass before the question was again
+"posed, in iconoclastic terms, in a series of articles
+"and talks by B.G.L. Swamy which tended to show
+"that the tEvAram could not have existed prior to the 10th c."
+
+(p. xli, "Towards reading the Tevaram", in _Tevaram_, PIFI 68.1, 1984,
+French Institute of Pondicherry)
+
+
+Of course, only prof. Gros himself could say
+what he means exactly when using these words
+but I don't think he is on this list.
+
+Regards
+
+-- Jean-Luc Chevillard (Paris)
+
+
+

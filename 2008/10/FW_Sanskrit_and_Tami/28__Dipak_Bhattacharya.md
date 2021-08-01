@@ -1,0 +1,72 @@
++++
+title = "28 Dipak Bhattacharya"
+date = "2008-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-October/032111.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-October/032111.html)
+
+07 10 08
+ From the earliest part of the Rgveda the root nad means 'to make noise, murmur etc'. Intra-Vedic developments like nand 'to rejoice' and nanāndrī 'husband's sister'. indicate the noise to be agreeable. In RV 10.11.2 nadásya nādé pári pātu me mánas means most probably 'let (the nymph) protect us in the sound of the resounding (song).' Perhaps, and against the common idea, roaring noise might not have been meant by the root. The meaning of 'river' in nada came into being by way of polysemy. This connection had been guessed by or known through elite tradition to the poet of the Atharvaveda(3.13/3.4) who etymologically relates nadī 'river' to the verb nad. All these were developments within there being no question of any original Indian Austric or Tamil connection. 
+ But the verb is inherited. The word nadənto in Gathic Av.(33.4c) is taken to mean 'one scorning ' but it may imply muttering. Then this also could be polysemous the common element being low noise.
+ Borrowing from Austric or Austronesian, then, could take place only in Central Asia if that had been a common habitat of the early Aryans. Till now no definite positive evidence for such borrowing could be furnished. Rgvedic words like lāngala and jīmūta have Austronesian linguistic connection but Central Asia is not in picture with these.
+ The theory of Indian Austric connexion of nada/nadī does not stand.
+DB
+
+--- On Tue, 7/10/08, Loriliai Biernacki <Loriliai.Biernacki at COLORADO.EDU> wrote:
+
+From: Loriliai Biernacki <Loriliai.Biernacki at COLORADO.EDU>
+Subject: FW: Sanskrit and Tamil question
+To: INDOLOGY at liverpool.ac.uk
+Date: Tuesday, 7 October, 2008, 2:54 AM
+
+Can any Tamil scholars or Vedic Sanskritists help with the query I received
+below?
+Thanks,
+Loriliai
+
+-- 
+Loriliai Biernacki
+Associate Professor
+University of Colorado at Boulder
+UCB 292
+Boulder, CO 80309
+303-735-4730
+Loriliai.Biernacki at colorado.edu
+http://www.colorado.edu/ReligiousStudies/faculty/loriliai.biernacki.html
+
+>  
+> If you know someone who knows, could you find out the etymology of the
+word
+> nadi. This word is used for rivers in the early chapters of the word
+> Mahavamsa.
+>  
+> Offhand, the root seems to be nada - or walk denoting motion in Tamil and
+> perhaps other Dravidian languages. In Vedic Sanskrit it is used for the
+now
+> lost Saraswati River in the Sind, but is used mostly in connection with
+the
+> nervous system. There is also a possibility of nadi having an Austric
+origin.
+> Ganga for river is very likely of Austric origin.
+>  
+> I have a strong hunch that the pre-history of Ceylon was dominated by the
+> Austrics - people who did practice agriculture and not all
+hunter-gatherers as
+> is now represented. Magama (Hambantota) and the Pura in Anuradhapura are
+are
+> certainly Austric and have a long history before Buddhism. The
+Archaelological
+> Dept. has shown a long reluctance to go beyond the 3rd Century BC.
+>  
+
+
+
+------ End of Forwarded Message
+
+
+
+      Did you know? You can CHAT without downloading messenger. Go to http://in.webmessenger.yahoo.com/
+
+
+

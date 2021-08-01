@@ -1,0 +1,46 @@
++++
+title = "90 Stefan Baums"
+date = "2009-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-January/032411.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-January/032411.html)
+
+Dear Ulrich,
+
+the orthodox Digambara Jain attitude appears to be that women could not conceivably go naked, and that therefore they cannot attain liberation (for which nakedness is a precondition in Digambara doctrine). In his edition of the Mallī‐Jñāta (p. 45; http://www.worldcat.org/oclc/12343686), Gustav Roth traces this opinion back to the the ca. third‐century author Kundakundācārya, who writes:
+
+    liṅgaṃ itthīṇa havadi bhuñjaï piṇḍaṃ sueyakālammi |
+    ajjiya vi ekavatthā vatthāvaraṇeṇa bhuñjei ||
+    ṇa vi sijjhaï vatthadharo jiṇasāsaṇe jaï vi hoi titthayaro |
+    ṇaggo vimokkhamaggo sesā unmaggayā savve ||
+
+    The sign of women is that she eats her meal one time (a day),
+    and a female noble one who has one dress eats under cover of a dress.
+    And no wearer of a dress attains perfection in the teaching of the Jinas
+       even if he is a tīrthaṅkara;
+    the way to liberation is naked; all other ones are wrong ways.
+
+On pp. 4648 of the same work, Roth discusses a damaged statue of a naked woman seated with her hands in dhyānamudrā who may or may not be a female Jain ascetic (or even Mallī herself), and which thus might be evidence for a more positive attitude among others.
+
+Another case is the twelfth‐century South Indian female Vīraśaiva ascetic and Kannaḍa poet Akka Mahādevī, as discussed by Jan Peter Schouten in his contribution to Kloppenborg & Hanegraaff, Female stereotypes in religious traditions (http://www.worldcat.org/oclc/32241531). An interesting aspect here is that when the Śiva devotee Mahādevī initially went forth naked, this was at least partly to reject the marital bond with her Jain husband (whose religion required nudity for liberation but did not allow it in women).
+
+Finally, on a more anecdotal level, none other than Monier Williams contributed a short note on Asceticism and Nudity to the 11 January 1880 New York Times (http://query.nytimes.com/gst/abstract.html?res=9906EED91131EE3ABC4952DFB766838B699FDE) which concludes:
+
+    In a secluded part of the City of Patna I came suddenly on an old female
+    ascetic, who usually sits quite naked in a large barrel, which constitutes
+    her only abode. When I passed her, in company of the collector and
+    magistrate of the district, she rapidly drew a dirty sheet round her body.
+
+On the face of it, this would seem to illustrate the same tension between some womens desire to participate fully in ascetic practice and societys disapproval of the nudity aspect thereof.
+
+Hope that helps and all best wishes,
+Stefan
+
+-- 
+Stefan Baums
+Asian Languages and Literature
+University of Washington
+
+
+

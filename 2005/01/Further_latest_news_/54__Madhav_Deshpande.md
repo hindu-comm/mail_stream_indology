@@ -1,0 +1,39 @@
++++
+title = "54 Madhav Deshpande"
+date = "2005-01-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-January/028953.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-January/028953.html)
+
+Please check the following URLs for the latest news reports from Maharashtra:
+
+http://www.indianexpress.com/full_story.php?content_id=45556
+http://www.indianexpress.com/full_story.php?content_id=45216
+http://www.indianexpress.com/full_story.php?content_id=39168
+
+Madhav M. Deshpande
+
+*-*-*-*-*-*-*-*-*-*
+Professor of Sanskrit & Linguistics
+Department of Asian Languages & Cultures
+The University of Michigan
+Ann Arbor, Michigan 48109-1285, USA
+
+
+
+-----Original Message-----
+From: Indology on behalf of Madhav Deshpande
+Sent: Thu 1/20/2005 9:51 PM
+To: INDOLOGY at liverpool.ac.uk
+Subject:      Latest chapter in Jim Laine's Shivaji saga
+
+Dear Indologists,
+
+Just for your information, here is the latest chapter in the James Laine saga.  The Marathi newspaper SAKAL from Pune is reporting in its E-edition today that Udayan Raje Bhosale of Satara has filed a law-suit in the local court against James Laine and his ten Maharashtrian collaborators including Shrikant Bahulkar, Sucheta Paranjpe, V.L. Manjul, Rekha and Yashwant Damle, and Bhaskar and Meena Chandavarkar.  The judge has ordered all these 'accused' to appear before the court on April 2.  They have been charged with conspiracy to defame Shivaji and cause pain to his family.
+
+
+Madhav M. Deshpande
+
+
+

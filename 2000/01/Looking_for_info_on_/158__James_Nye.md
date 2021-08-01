@@ -1,0 +1,52 @@
++++
+title = "158 James Nye"
+date = "2000-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019761.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019761.html)
+
+The text of K. Venugopalan's _A Primer in Grantha Characters_ is available
+at <http://www.lib.uchicago.edu/e/su/southasia/grantha.html>.  The page
+images are sized for printing and not for display, so the individual GIF
+files are too large to consult easily on most viewers.  This should improve
+as I have time to work on the files over the next month or so.
+
+James Nye
+Bibliographer for Southern Asia
+University of Chicago
+
+>Date:    Sat, 8 Jan 2000 14:31:16 +0100
+>From:    BP Jonsson <bpj at NETG.SE>
+>Subject: Looking for info on Grantha script
+>
+>Dear Indologists,
+>
+>I'm looking for information on the Grantha script, but it is hard to come
+>by where I am, so I would be very grateful for any help you can offer.  All
+>I got so far--shame to say--is a photocopy of a rather poorly printed chart
+>showing the basic ak.saras.  Thus any reference to sources that would be
+>generally available by interlibrary loan at western libraries would be of
+>interst, but especially so information on how conjunct characters are
+>formed.  I would be equally grateful if somebody could provide me with
+>scanned images; in that case please contact me by private email at
+><bpj at netg.se>.  Please note that I subscribe to Indology in subject-index
+>form only, so I would appreciate if on-list responses are cc-ed to the same
+>address!
+>
+>Bhavatu vah sarvam mangalam!
+>
+>
+>/BP
+>
+>B. Philip Jonsson <mailto: bpj at netg.se> <mailto: melroch at my-deja.com>
+>
+>~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+>~ The parents spoke French and the governess German, and  ~
+>~ at school Latin was spoken.  The tongue of the country  ~
+>~ the boy had to learn in the streets.                    ~
+>~                            (after L. Holberg 1684-1754) ~
+>~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+
+

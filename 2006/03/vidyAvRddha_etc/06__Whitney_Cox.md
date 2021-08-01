@@ -1,0 +1,46 @@
++++
+title = "06 Whitney Cox"
+date = "2006-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-March/029651.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-March/029651.html)
+
+Dear Doctor Nair,
+
+I recently saw two of these terms occurring together in the 
+Udyogaparvan: 5.139 vs. 53 of the Poona critical edition (in 
+the context of Kar.na's response to K.r.s.na's appeal to him 
+to witch sides on the eve of the war):
+
+vidyaav.rddhaa vayov.rddhaa.h k.satriyaa.h k.satriyar.sabha |
+v.rthaam.rtyu.m na kurviira.ms tvatk.rte madhusuudana ||
+
+A quick search through some electronic texts I have also 
+turned up the following, from Maitreyyupani.sad 2.24:
+
+dhanav.rddhaa vayov.rddhaa vidyaav.rddhaas tathaiva ca |
+te sarve j~naanav.rddhasya ki.mkaraa.h "si.syaki.mkaraa.h ||
+
+I hope this helps.
+
+Best,
+Whitney Cox
+---- Original message ----
+>Date: Fri, 3 Mar 2006 19:34:02 +0500
+>From: Maheswaran Nair <swantam at ASIANETINDIA.COM>  
+>Subject: vidyAvRddha etc  
+>To: INDOLOGY at liverpool.ac.uk
+>
+>Hello,
+>Can anyone please tell me in which Sanskrit text the 
+mention about 
+>vidyAvRddha(jNAnavRddha), vayovRddha and dhanavRddha occurs?
+>Thanks in advance.
+>K.Maheswaran Nair
+>Dept. of Sanskrit
+>University of Kerala
+>India.
+
+
+

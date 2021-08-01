@@ -1,0 +1,18 @@
++++
+title = "02 Miroslav Rozehnal"
+date = "2000-01-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019623.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019623.html)
+
+I know it is off-topic and all but allow me just a short remark:
+The new millenium begins on 1.1.2001, not 1.1.2000. There was not a "Year
+Zero", the year 1 B.C. was followed by the year 1 A.D.
+So, happy new year 2000, the last year of the 20th century and the 2nd
+millenium to all worthy scholars! ;-)
+
+Miroslav Rozehnal
+
+
+

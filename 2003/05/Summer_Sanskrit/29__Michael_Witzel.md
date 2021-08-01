@@ -1,0 +1,26 @@
++++
+title = "29 Michael Witzel"
+date = "2003-05-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-May/027706.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-May/027706.html)
+
+Our yearly reminder for those interested in a 7-8 week intensive course in
+Sanskrit :
+
+Harvard, June 23 - August 22 (exam day).
+
+http://summer.dce.harvard.edu/2003/courses/sans.jsp
+
+MW
+============================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.people.fas.harvard.edu/~witzel/mwpage.htm
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "37 Allen W Thrasher"
+date = "2005-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-February/028996.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-February/028996.html)
+
+Madhav,
+
+Look at the LC online catalog.  We have microfiched it.  You can
+request it on interlibrary loan.
+
+Allen
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+>>> mmdesh at UMICH.EDU 2/6/2005 6:46:14 AM >>>
+Hello Indologists,
+
+     While searching on Google, I came across a reference to the text
+of Vedaabhyaasasaara of Bhattoji Diksita edited by R.N. Patankar.  I
+could not open the link to it.  I have never seen this work.  If anyone
+has access to it, please let me know how I can get a photo-copy of it.
+Best,
+
+Madhav Deshpande
+
+
+

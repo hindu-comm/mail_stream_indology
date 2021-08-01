@@ -1,0 +1,34 @@
++++
+title = "66 Richard P. Hayes"
+date = "2010-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/034007.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/034007.html)
+
+On Mon, 2010-02-15 at 08:49 -0600, Gary Tubb wrote:
+
+> I should have been clearer.  I was referring to the way that native 
+> speakers of English often pronounce the name of the city, Varanasi.
+
+All this discussion of pronunciation prompts me to report a lecture I
+went to recently given by a Franciscan brother to an audience of 1200
+people, most of them Catholics. To his great credit, the Franciscan was
+talking about how much modern Catholics have to learn from other
+spiritual traditions. I was compelled, however, to cringe repeatedly as
+the earnest Franciscan told us about Patanjaali (rhymes with "fat an'
+jolly") and Samkaara (Sam who?). The high point of the talk for me was
+the explanation of how mandaalas (rhymes with "man dollars" as
+pronounced in Boston) are used in the Hindi religion. It was with mixed
+feelings that I reflected on how the seeds sown by careful Indologists
+are now being reaped in quotidian popular culture around the world.
+
+-- 
+Richard P. Hayes
+Department of Philosophy
+MSC03 2140
+1 University of New Mexico
+Albuquerque, NM 87131-0001
+
+
+

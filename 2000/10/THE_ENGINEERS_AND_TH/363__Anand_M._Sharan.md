@@ -1,0 +1,33 @@
++++
+title = "363 Anand M. Sharan"
+date = "2000-10-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023211.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023211.html)
+
+I have noted the two postings about the engineers here . I have read the
+rules where the engineers are specially mentioned or put it in other words,
+made their presence felt in the positive or negative sense, it does not
+matter .
+
+I fully respect people having interest in the literature, and this group is
+meant for them . The conflict comes when these ( literature people ) go
+beyond their field and start claiming things as facts, when the facts have
+to be ascertained by the knowledge of other fields . For example, the date
+of the Mahabharata . The knowledge of astronomy was one way to estimate
+this. The  attempts were being made to estimate the date  of the Rig Veda
+by the presence of the word - ayas to mean iron  , in this Veda .
+
+The opinions of the engineers were expressed in this regard .
+
+I hope every one ought to understand that engineers are not the bunch of
+people who claim to know every thing . When it comes to their own field,
+certainly they speak out .
+
+Thanks.
+
+Anand M. Sharan
+
+
+

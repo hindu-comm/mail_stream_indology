@@ -1,0 +1,63 @@
++++
+title = "116 Lubomír Ondračka"
+date = "2021-03-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-March/054422.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-March/054422.html)
+
+https://www.academia.edu/37342561/_2018_The_Creation_and_Spread_of_Scripts_in_Ancient_India
+
+
+On Sun, 21 Mar 2021 17:40:52 +0000
+Arash Zeini <arash.zeini at gmail.com> wrote:
+
+> Hello, may I ask for a copy of the article too?
+> 
+> Thanks in advance,
+> Arash
+> 
+> On Sun, 21 Mar 2021, 13:41 Madhav Deshpande, <mmdesh at umich.edu> wrote:
+> 
+> > I wish to thank everyone who sent this article to me offline. Best,
+> >
+> > Madhav
+> >
+> > Madhav M. Deshpande
+> > Professor Emeritus, Sanskrit and Linguistics
+> > University of Michigan, Ann Arbor, Michigan, USA
+> > Senior Fellow, Oxford Center for Hindu Studies
+> > Adjunct Professor, National Institute of Advanced Studies, Bangalore, India
+> >
+> > [Residence: Campbell, California, USA]
+> >
+> >
+> > On Sun, Mar 21, 2021 at 6:02 AM Madhav Deshpande <mmdesh at umich.edu> wrote:
+> >
+> >> Does anyone have a pdf of Harry Falk's “The Creation and Spread of
+> >> Scripts in Ancient India.” (ed.) Kolb A., Literacy in Ancient Everyday
+> >> Life,  pp. 43–66. De Gruyter: Berlin. DOI: 10.1515/9783110594065-004.)?
+> >> I don't have access to this publication and would like to read it. Please
+> >> share with me, if you have it. Thanks.
+> >>
+> >> Madhav
+> >>
+> >> Madhav M. Deshpande
+> >> Professor Emeritus, Sanskrit and Linguistics
+> >> University of Michigan, Ann Arbor, Michigan, USA
+> >> Senior Fellow, Oxford Center for Hindu Studies
+> >> Adjunct Professor, National Institute of Advanced Studies, Bangalore,
+> >> India
+> >>
+> >> [Residence: Campbell, California, USA]
+> >>
+> > _______________________________________________
+> > INDOLOGY mailing list -- indology at list.indology.info
+> > To unsubscribe send an email to indology-leave at list.indology.info
+> > indology-owner at list.indology.info (messages to the list's managing
+> > committee)
+> > http://listinfo.indology.info (where you can change your list options or
+> > unsubscribe)
+
+
+

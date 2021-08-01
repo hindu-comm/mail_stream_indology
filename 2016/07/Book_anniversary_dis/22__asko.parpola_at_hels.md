@@ -1,0 +1,45 @@
++++
+title = "22 asko.parpola at helsinki.fi"
+date = "2016-07-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043649.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-July/043649.html)
+
+
+
+Dear Colleagues and Friends,
+
+I received today the following message from OUP concerning my book
+"The Roots of Hinduism: The  Early Aryans and the Indus Civilization".
+Some of you might be interested in the 30% discount offered.
+
+With best regards and wishes, Asko
+
+--------------------------
+
+
+Hi Dr. Parpola,
+
+My name is Michelle, and I work with Alyssa Bender Russell on OUP’s  
+Religion books. As of August 12, your book is one year  
+old—congratulations! Here’s a 30% off promo code that you can send to  
+friends, family, and colleagues to celebrate:
+
+It is the one-year anniversary of my book’s publication. If you  
+haven’t ordered it yet, order online at  
+https://global.oup.com/academic/product/the-roots-of-hinduism-9780190226923  
+with promotion code AAFLYG6 to save 30%.
+
+Warm regards,
+Michelle Mangione
+
+Michelle Mangione
+Marketing Assistant for Academic/Trade History | Oxford University Press
+198 Madison Avenue | New York, NY 10016
+michelle.mangione at oup.com | 212.726.6265
+
+
+
+
+

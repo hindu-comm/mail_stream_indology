@@ -1,0 +1,27 @@
++++
+title = "03 Sudalaimuthu Palaniappan"
+date = "2019-04-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049787.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049787.html)
+
+The list members may be interested in the following news.
+https://www.thehindu.com/news/cities/Madurai/adichanallur-site-belongs-to-a-period-between-905-and-696-bc-madurai-high-court/article26737779.ece
+
+This was a result of earlier court directive as can be seen below.
+https://www.thehindu.com/news/cities/Madurai/asi-asked-to-send-adichanallur-samples-for-carbon-dating-madurai-adichanallur/article26305794.ece
+
+Both with respect to Adichanallur site and with respect to Keezhadi site, the Indian government’s actions/inactions have led to strong protests in Tamil Nadu and only judiciary’s intervention seems to help. See the case of the Keezhadi site,
+https://timesofindia.indiatimes.com/city/chennai/keezhadi-excavations-madras-high-court-orders-transfer-of-asi-officer-amarnath-ramakrishna-back-to-tamil-nadu/articleshow/68428874.cms.
+
+Here is a report on Keezhadi by the excavators, http://www.heritageuniversityofkerala.com/JournalPDF/Volume6/2.pdf.
+
+Regards,
+Palaniappan 
+
+
+
+
+
+

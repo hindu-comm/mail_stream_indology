@@ -1,0 +1,65 @@
++++
+title = "52 Jan E.M. Houben"
+date = "2006-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-February/029639.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-February/029639.html)
+
+With thanks to all contributors, 
+the "Something wrong with the WSC?" thread is now
+closed on the list. 
+Jan Houben 
+on behalf of the Indology Committee  
+
+--- Plamen Gradinarov <plamen at ORIENTALIA.ORG>
+wrote:
+
+> Neither does Barbara. But we are not degrading
+> it to inductive reasoning because of that. All
+> universal judgements are true under certain
+> conditions. There might be conditions in the
+> universe or in our distant future where the
+> universal premise "All people are mortal" will
+> turn wrong. Aristotelian deductive logic is
+> operating under such unspoken - and mostly
+> unreflected - conditions, kind of a
+> psycho-anthropological implicate order.
+> 
+> The same with Indian logic. In their
+> Lebenswelt, the hetu-vakya was deemed
+> sufficiently apodictic - and the guarantees
+> were provided from two valid sources:
+> successful practice and alaukika-pratyaksa.
+> While the Aristotelian logic in this sense is a
+> little bit lame - it doesn't rely on the Yogic
+> power of seeing the samanya-laksana and the
+> things as they are. European logic had to wait
+> for Husserl to introduce this pramana (the
+> Wesensshau = yogaja-pratyaksa) into
+> philosophical and methodological use. Indian
+> logic was transcendental and methodologically
+> ripe 2000 years before European logic to come
+> to the same considerations and metalogical
+> concerns.
+> 
+> Best regards,
+> Plamen
+> http://nyaya.darsana.org
+>   ----- Original Message ----- 
+>   From: Richard P. Hayes 
+>   Sent: Sunday, February 26, 2006 6:20 PM
+> 
+>   The Indian inference schema does not offer
+> any such
+>   guarantees.
+> 
+
+
+__________________________________________________
+Do You Yahoo!?
+Tired of spam?  Yahoo! Mail has the best spam protection around 
+http://mail.yahoo.com 
+
+
+

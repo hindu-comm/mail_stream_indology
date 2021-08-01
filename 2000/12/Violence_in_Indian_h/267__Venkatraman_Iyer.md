@@ -1,0 +1,50 @@
++++
+title = "267 Venkatraman Iyer"
+date = "2000-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024397.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024397.html)
+
+Bhalchandrarao C Patwardhan <kurundwadsenior at WMINET.NET> wrote:
+<<<
+The Shringeri Mutt was indeed looted by Raghunathrao Nilkanth, but the
+motive was military and political more than doctrinal. I know this
+because I happen to be a direct descendant of Raghunathrao. He wanted
+the extradition of Tipu's men who had apparently sought and received
+asylum inside the Mutt from the Shankaracharya. On receiving a refusal
+from the conspiring Shankaracharya to his demand, he forced his way in
+and took possession of the men and the loot they had carried with
+them. As for the restoration of the Mutt purportedly done by Tipu, it
+must be considered a very rare exception indeed considering the
+religious and cultural havoc he is known to have perpetrated in the
+regions under his military, if not political, influence!
+>>>
+
+Welcome to Indology list. These problems with Shringeri mutt, could
+they have led to the Maratha support for the Kanchi mutt
+in the 19th century then at Kumbakonam?
+
+-----
+
+I am also interested in knowing about the name,
+"kurundwad", does this refer to any village/town?
+The rAja/zamindar houses in Madras or Ooty used to be
+named after their native places in 19th or early 20th century.
+
+Why I am asking is "kurundam" tree is famous in
+Krishna legends in old Tamil literature, and
+there are many villages named 'kurunda-pADi" in
+Tamil Nadu area.
+
+With regards,
+V. Iyer
+
+
+
+
+_____________________________________________________________________________________
+Get more from the Web.  FREE MSN Explorer download : http://explorer.msn.com
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Gaṅgeśa's Īśvaravāda"
+
++++

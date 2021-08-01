@@ -1,0 +1,26 @@
++++
+title = "139 mkapstei at UCHICAGO.EDU"
+date = "2012-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-February/036357.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-February/036357.html)
+
+The Sassanian objects I was referring to are these:
+
+http://en.wikipedia.org/wiki/File:Coupe_de_Chosro%C3%A8s.JPG
+
+http://www.bridgemanart.com/image/Iranian-School/Vase-of-Alienor-from-the-Treasure-of-Saint-Denis-Sassanid-Period-6th-or-7th-century-with-setting-do/ce352bf72aab4dfea46c8b9aad49a5a0?key=%20Persian%20School%206th%20century&thumb=x150&num=15&page=11
+
+I brought them up only as interesting examples of the circulation of precious objects between Europe and Asia during the latter part of the first millennium. How the
+Russian Visnu and the Swedish Buddha got where they
+did are of course distinct questions.
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

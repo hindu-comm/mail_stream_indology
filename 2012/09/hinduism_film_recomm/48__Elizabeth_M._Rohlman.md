@@ -1,0 +1,42 @@
++++
+title = "48 Elizabeth M. Rohlman"
+date = "2012-09-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-September/036963.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-September/036963.html)
+
+Vanessa (et al),
+
+I'd recommend two trilogies that I've used very successfully:
+
+1. Sadhus: India's Holy Men (Films for the Humanities & Sciences, 1995). I
+break the trilogy up and use it across three different courses, but they
+would certainly work well in a single introductory course.
+
+2. Pleasing God (Harvard Films, 1985) includes three installments: "Loving
+Krishna," "Sons of Siva," and "Serpent Mother." The three films are not of
+equal quality (Loving Krishna is definitley the best of the lot). But I
+like that they are all shot in the same Bengali village, and so give a
+snapshot of three different bhakta communities in the same regional and
+cultural context.
+
+Cheers,
+
+Beth
+
+
+-- 
+Elizabeth M. Rohlman
+Assistant Professor
+Department of Religious Studies
+University of Calgary
+
+2500 University Drive NW
+Calgary, Alberta
+T2N 1N4
+Phone: (403) 220-3287
+Fax: (403) 210-9191
+
+
+

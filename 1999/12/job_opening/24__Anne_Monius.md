@@ -1,0 +1,24 @@
++++
+title = "24 Anne Monius"
+date = "1999-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019312.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019312.html)
+
+THE UNIVERSITY OF VIRGINIA invites applications for a one-year
+appointment as Lecturer in the Division of Asian and Middle Eastern
+Languages and Cultures, to begin in September 2000 with the possibility of
+renewal.  The ideal candidate would be able to offer Tamil language courses
+at the first- and second-year levels, as well as one course in Hinduism
+each semester in the Department of Religious Studies.  Ph.D. preferred;
+successful teaching experience required.  Please send letter of
+application, CV, and 3 current letters of recommendation to: Chair, Tamil
+Search Committee; AMELC, The University of Virginia; B027 Cabell Hall;
+Charlottesville, Virginia, 22903.
+        Application deadline is January 17, 2000. Women and minorities are
+invited to apply.  The University of Virginia is an equal
+opportunity/affirmative action employer.
+
+
+

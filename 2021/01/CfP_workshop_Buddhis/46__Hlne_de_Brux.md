@@ -1,0 +1,45 @@
++++
+title = "46 Hélène de Brux"
+date = "2021-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-January/053969.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-January/053969.html)
+
+Dear list members,
+
+The Doctoral Program in Buddhist Studies at the
+Ludwig-Maximilians-Universität, München, is pleased to announce a call for
+papers for the workshop "*Buddhism and Language - A Twofold Perspective:
+The Role of Language in Buddhist Teachings and the Role of Buddhist Sources
+in Linguistic Research*", to be held on October 22-23, 2021 in Munich,
+Germany, with keynote addresses by *Prof. Dr. Christoph Anderl* (Ghent
+University) and *Prof. Dr. Steffen Döll* (Hamburg University).
+
+Due to the dynamic situation of the pandemic, the workshop will probably be
+held in hybrid format (in presence *and* online) . We encourage abstract
+submission from early career scholars, especially PhD students, but also
+from established scholars.
+The deadline for applications is March 20, 2021.
+
+For the CfP, please see the following links or the attachment:
+https://www.en.buddhismus-studien.uni-muenchen.de/currentissues/cfp_workshop2021/index.html
+
+https://www.en.buddhismus-studien.uni-muenchen.de/currentissues/cfp_workshop2021/workshop_buddhism_and_language.pdf
+
+Hélène de Brux - on behalf of the Doctoral Program in Buddhist Studies,
+LMU, Munich
+PhD student
+LMU, Munich & EPHE, Paris
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210119/1dbe0761/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: workshop_buddhism_and_language.pdf
+Type: application/pdf
+Size: 1801247 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20210119/1dbe0761/attachment.pdf>

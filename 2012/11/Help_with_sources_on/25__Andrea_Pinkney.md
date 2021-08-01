@@ -1,0 +1,25 @@
++++
+title = "25 Andrea Pinkney"
+date = "2012-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-November/037168.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-November/037168.html)
+
+Dear Colleagues, 
+
+On behalf of a colleague, I would like to ask your advice about good academic treatments of vastuśāstra. 
+Any leads about scholars, articles, books, etc. on this topic would be greatly appreciated. 
+
+With thanks and best wishes, 
+Andrea
+
+
+
+A. M. Pinkney, Assistant Professor; South Asian Studies Programme, 
+National University of Singapore, 5 Arts Link, AS7-04-03, Singapore 117570
+Email: sasamp at nus.edu.sg; Phone: +65 6516.7776
+Webpage: http://www.fas.nus.edu.sg/sas/people/andrea-marion-pinkney.html
+
+
+

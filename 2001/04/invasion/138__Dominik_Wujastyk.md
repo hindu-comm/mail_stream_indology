@@ -1,0 +1,48 @@
++++
+title = "138 Dominik Wujastyk"
+date = "2001-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026109.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026109.html)
+
+On Wed, 11 Apr 2001, L.S.Cousins wrote:
+> After that , everything is speculation. It used to be thought that
+> there was some archaeological evidence for invasion, but that now
+> seems doubtful. So we cannot rule out the possibility of a gradual
+> spread as the result of peaceful immigration or trade. But it has to
+> be the less likely possibility. We know of no other case in which a
+> language has become so widespread in that way.
+
+No, I'm not taking the mick, but I think I may have been being a bit
+faux-naive when I said I wasn't being disingenuous.
+
+I would agree with your para above, which is pretty much what I've come to
+believe too, after a certain amount of reading.  I think I might have been
+clearer if I had emphasised the word *invasion*.  I thought all that was
+based mainly on Mortimer-Wheeler's identification of a battle casualty in
+the Mohenjo Daro skeleton of a woman on the steps of a well.  That
+skeleton, and the others around it, are now more plausibly thought to be
+disease casualties, perhaps cholera, perhaps malaria.
+
+What puzzled me was a book being published in 2000 or 2001 referring in
+its title still to this idea of "invasion".  My reading has led me, in an
+admittedly amateurish way, to think that there has been some sort of
+consensus amongst the best scholars for many decades now that a) the arya
+people came into India in more than one migration (Burrow et passim), and
+b) that the migration was either agricultural expansion (Renfrew) or some
+other expansionist population movement, but by no means necessarily or
+even probably a militaristic one.  Furthermore, the Bactria Margiana
+Archeological Complex and related data cited by Parpola and Sarianidi
+etc., suggest that military conflict, very likely involving aryas,
+occurred *outside* the Indian peninsula.
+
+Hence my puzzlement at a book which seemed (somebody stop me!) to be
+flogging a dead horse.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

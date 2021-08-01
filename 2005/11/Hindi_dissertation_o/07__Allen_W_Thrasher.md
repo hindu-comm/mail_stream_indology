@@ -1,0 +1,25 @@
++++
+title = "07 Allen W Thrasher"
+date = "2005-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-November/029428.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-November/029428.html)
+
+A patron in India is trying to locate a Hindi dissertation on Bhasa entitled in his transcription " Bhas Natakchakram me charitra vidhan ek samikshatmak addhyan," which he has no more information on.  Does anyone by chance know anything more of this?  I will be consulting the bibliographies of our books on Bhasa and various reference works on Indian dissertations, but I wondered if anyone knew offhand.  
+
+An argument for the GOI commissioning a comprehensive work on Indian dissertations, preferably IMHO both paper and online.  The same for other South Asian governments.
+
+Allen
+
+
+Allen W. Thrasher, Ph.D., Senior Reference Librarian
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

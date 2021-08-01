@@ -1,0 +1,44 @@
++++
+title = "37 Madhav Deshpande"
+date = "1999-09-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018266.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018266.html)
+
+I would agree that the date of the Upani.sads is indeed closely related to
+the date of the Buddha and Mahavira, but I would not extend the same logic
+to the date of the RV, which would have to be reasoned on the basis of
+independent evidence.
+                                Madhav Deshpande
+
+On Fri, 3 Sep 1999, N. Ganesan wrote:
+
+> Dear Dr. Deshpande & Dr. Cousins,
+>
+> P. Olivelle, upaniSads, OUP, p. xxxvi
+> [footnote 21]
+> "Much of the chronology of the upani.sads and of other ancient
+> texts depends on the date of the Buddha's death. The generally accepted date
+> of around 486 BCE has been challenged recently.
+> Bechert's dating  of 375-355 BCE ('The Date of the Buddha
+> reconsidered', Indologica Taurinensia, 10, 1981, 29-36) has been
+> supported by Erdosy using archaeological data ('The archaeology of
+> Early Buddhism' in N. K. Wagle and F. Watanabe (eds.)
+> Studies in Buddhism in honor of A. K. Warder (Toronto: University
+> of Toronto Centre for South Asian studies, 1993), p. 40-56. If the
+> latter date is accepted, which I favor, then the dates of the early
+> upaniSads should be pushed forward a century or so
+> (see Witzel 1989, 241-251)"
+>
+> I just extended this reasoning to RV date.
+>
+> Regards,
+> N. Ganesan
+>
+> ______________________________________________________
+> Get Your Private, Free Email at http://www.hotmail.com
+>
+
+
+

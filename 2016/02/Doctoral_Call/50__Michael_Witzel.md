@@ -1,0 +1,39 @@
++++
+title = "50 Michael Witzel"
+date = "2016-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-February/042672.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-February/042672.html)
+
+With my apologies for cross posting.
+I have been asked to transmit the following offer of 6 doctoral positions:
+
+
+=======================
+
+I am here sending you a PDF with an open call for six doctoral student positions in a research project on narrative modes of classical, medieval and modern historiography in India, China, and Tibet. The project, which is funded by the European Research Council, is running at Adam Mickiewicz University in Poznan, Poland. The positions are in classical Indology, modern Indian studies, medieval Indo-Persian studies, medieval Tibetan Studies, classical-medieval Sinology, and modern Chinese studies. The three-year positions are tuition-free and come with a small stipend. I would be most grateful if you could help me spread the call to prospective applicants, whether through personal exchange, publicizing the call at your department, sharing it with colleagues, announcing it on academic email lists, or similar. The application deadline is March 31.
+
+
+Dr. Ulrich Timme Kragh
+Associate Professor, University of Copenhagen
+Principal Investigator of European Research Council (ERC) Consolidator Project:
+"Narrative Modes of Historical Discourse in Asia" (NAMO)
+Publications downloadable at: https://ku-dk.academia.edu/UlrichTimmeKragh <https://urldefense.proofpoint.com/v2/url?u=https-3A__ku-2Ddk.academia.edu_UlrichTimmeKragh&d=CwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=vcL-IwzTQXXGRLop-7e9hC3DMbAHXNMXXss9z9bHh8Q&s=DXLPz9ASJYgiibHAqKMllcYZrTeojXs2mkJDlOh_hSg&e=>
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160208/e7e3034d/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: CallforSixPhDPositionsattheUniversityofAdamMickiewicz.pdf
+Type: application/pdf
+Size: 117453 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20160208/e7e3034d/attachment.pdf>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160208/e7e3034d/attachment-0001.htm>

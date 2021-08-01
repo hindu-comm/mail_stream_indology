@@ -1,0 +1,4 @@
++++
+title = "Jaina Cosmology Diagrams"
+
++++

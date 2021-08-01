@@ -1,0 +1,53 @@
++++
+title = "27 Olivelle, J P"
+date = "2019-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049884.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049884.html)
+
+Dominik: on senses, not a secondary source, but there is a lot of material in the Bṛhadāraṇyaka and the Chāndogya about the competition among the senses that could be informative.
+
+
+
+
+On Apr 11, 2019, at 1:59 PM, Dominik Wujastyk via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+
+Students are asking me for readings for their essays, and I'm slightly stumped for good suggestions on these two.  Can anyone point to some good studies of these topics?
+
+I am particularly interested in colour readings in relation to the health sciences and alchemy, but anything will do!  I know about Martha Selby's 2005 "Narratives of Conception" article and its remarks on red/white distinctions in ayurveda.
+
+Regarding the senses, I haven't yet checked the Brill encyclopedia, and I will.  Probably there's something in Dasgupta, Hist. Indi. Philosophy.
+
+Any suggestions will be much appreciated.
+
+Best,
+Dominik
+
+--
+Professor Dominik Wujastyk<http://ualberta.academia.edu/DominikWujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics<http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+South Asia at the U of A:
+
+sas.ualberta.ca<http://sas.ualberta.ca/>
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190411/343d20c3/attachment.htm>

@@ -1,0 +1,41 @@
++++
+title = "161 Vidyasankar Sundaresan"
+date = "2000-11-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023663.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023663.html)
+
+>The text below can be found on the website of the Paternoster Church in
+>Jerusalem:
+
+It is clearly an older version of the prayer in Malayalam.
+"appam" is the standard translation for bread in south Indian
+churches. The word "ninde" for "thy" and the nasalization
+indicated by "gn" in words like gnangalude and gnangale are
+Malayalam. It seems as if the text is transcribed as spoken,
+before transliterations got standardized. I would guess that
+the translation was done somewhere in northern Kerala, because,
+
+>Agascianghelil irikkunna gnangelude ba'va`, nintiruna'mam
+
+ba'va` = father -> points to Arabic influence, perhaps due to
+the Moplah community, found in large numbers in the northern
+coast of Kerala. Also, the first south Indian ruler the
+Portuguese encountered was the Zamorin of Calicut. And there
+is a history of Jewish presence in Cochin.
+
+Nowadays the translation is more Sanskritized, as svargattil
+vasikkum gnengaLuDe (engaL in Tamil) pitAvE, etc.
+
+Best regards,
+Vidyasankar
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

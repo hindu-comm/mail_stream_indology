@@ -1,0 +1,22 @@
++++
+title = "51 Dominik Wujastyk"
+date = "2000-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021765.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021765.html)
+
+I'm afraid I cannot provide details, because I don't have them.  But the
+position of Director of the School of Oriental and African Studies is
+currently under advertisement.
+
+SOAS's phone number is +44 20 7637 2388
+
+The current Director, Sir Timothy Lancaster, will shortly be moving to a
+new post as head of an Oxford college.
+
+--
+DW
+
+
+

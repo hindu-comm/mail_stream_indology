@@ -1,0 +1,58 @@
++++
+title = "97 Patricia Sauthoff"
+date = "2021-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-May/054638.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-May/054638.html)
+
+Dear esteemed colleagues,
+
+New directions in Indic studies is an important and timely topic. I am
+pleased to see this discussion move forward with a cohort of Indian and
+Western academics. However, I want to point out two things.
+
+First, the gender makeup of this conference is concerning. Of thirteen
+speakers, only two are women. I implore you all in the future to take note
+of such demographics and work to form panels with a more equal gender
+representation.
+
+Second, I am saddened to see that Professor Sunaina Singh, vice chancellor
+of Nalanda University is included in the list of inaugural speakers. As
+some of you know, my own experience at Nalanda University under Professor
+Singh's leadership was mired in controversy. Not only did Professor Singh
+make her issues with my course public, she made comments about me to
+several journalists of a very personal (and false) nature that did not make
+it into print. She also blocked me from receiving my final month's salary
+for the work that I did at the university. In the year after I worked at
+Nalanda, an atmosphere of fear and censorship was reported in the press,
+with students feeling trapped, instances of physical abuse, and the
+mistreatment of foreign academic staff.
+https://scroll.in/article/854841/it-is-a-closed-place-why-students-are-leaving-nalanda-university
+
+I hope that in its new directions, Indic studies can be a safe haven for
+scholars of all backgrounds to work together rather than one in which
+academics are lambasted in the press, threatened, and told that their
+ethnic background disqualifies them from teaching.
+
+Patricia Sauthoff
+
+
+On Wed, May 5, 2021 at 3:47 PM Prof. Pankaj Jain पंकज जैन, Ph.D. via
+INDOLOGY <indology at list.indology.info> wrote:
+
+>
+> A two-day virtual interdisciplinary conference on ‘New Directions in Indic
+> Studies’. The conference will delve deep into topics such as Sanskrit
+> Buddhism, Victorian Indologists, Indian Music, Natya Shastra, History of
+> Indian Philosophy, Jain Studies in the Global Academy, Jain Contribution to
+> Global Civilization, amongst others.
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210505/fd36ca63/attachment.htm>

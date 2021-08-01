@@ -1,0 +1,34 @@
++++
+title = "37 Deven Patel"
+date = "2008-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-October/032191.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-October/032191.html)
+
+Dear List,
+
+One of my colleagues from East Asian studies is trying to locate information
+about whether or not a Sanskrit text called the
+*Maitreyasamitinataka*exists or ever existed.  Even if no actual text
+has survived, is there any
+record of such a Sanskrit title?  He tells me that although we have various
+sorts of *Maitreyasamiti *texts (*-vyakarana, -avadana*) in Uyghur,
+Khotanese, Chinese, etc., the idea that the famous Tocharian text was a *
+nataka* is based on the reconstruction of the word (*na[tkam]*) as it was
+supposed to have occurred on a damaged ms.  (Sieg and Siegling, 1921.I:  128
+[253a.5-6).   According to him, the actual text that people call the
+*Maitreyasamitinataka
+*does not really have the form of a drama.  Attached is a scan of the
+damaged ms page.   Thank you.
+
+Regards,
+
+Deven Patel
+University of Pennsylvania
+
+Tocharische_p39.pdf (*application/pdf*)
+714K<?ui=2&ik=7e18f04ab2&view=att&th=11d54542a366bcb7&attid=0.1>
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "72 Jarrod L. Whitaker"
+date = "2009-04-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/032947.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/032947.html)
+
+The Rgveda predominantly correlates manas with the heart (haardi/hrd; 
+hrdaya), though this is not to say it resides there. What is more, at 
+RV.2.12.1, we read of Indra: "The god, who when just born with the foremost 
+intellect (manasvaan), surrounded the gods due to (his) resolve (kratu)"; 
+and kratu ("resolve, purpose, determination") is explicitly "in the head" 
+(ziir.sa.ni at RV.2.16.2d). I am sure somebody must have written on this in 
+the Vedic context...(Gonda, Bodewitz?)
+
+Jarrod L. Whitaker, Ph.D.
+Assistant Professor, South Asian Religions
+
+Wake Forest University
+Department of Religion
+P.O. Box 7212
+Winston-Salem, NC  27109
+whitakjl at wfu.edu
+p 336.758.4162
+f 336.758.4462
+
+
+

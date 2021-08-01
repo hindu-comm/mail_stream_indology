@@ -1,0 +1,110 @@
++++
+title = "01 Nagaraj Paturi"
+date = "2017-10-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-October/046711.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-October/046711.html)
+
+Dear Prof. Dominik Wjastyk,
+
+"a point of view that certainly exists in the minds of some people"
+certainly provides an exception to my
+
+'I can say with certainty that ancient India was never imagined during or
+later to the independence movement, either by the educated Indians or by
+the common public as an India without wars or without harsh punishments or
+without harsh ways of crime control etc. ​'
+
+Are books written to counter 'a point of view that  exists in the minds of
+some people' ?
+
+
+
+On Mon, Oct 2, 2017 at 7:34 AM, Dominik Wujastyk via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Thanks for this info, Patrick.  I've been making her *History of Ancient
+> and Early Medieval India *a set text for my courses for several years
+> now, and it's very good indeed (but sadly she hadn't read your *Kingship,
+> Law and Governance* before her book was published, so the Mauryan chapter
+> needs to be redone).
+>
+> I look forward to reading the new one.
+>
+> Best,
+> Dominik
+>
+>
+> ​
+> --
+> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
+> ​,​
+>
+> Singhmar Chair in Classical Indian Society and Polity
+> ​,​
+>
+> Department of History and Classics
+> <http://historyandclassics.ualberta.ca/>
+> ​,​
+> University of Alberta, Canada
+> ​.​
+>
+> South Asia at the U of A:
+>
+> ​sas.ualberta.ca​
+> ​​
+>
+>
+> On 30 September 2017 at 07:29, Olivelle, J P <jpo at austin.utexas.edu>
+> wrote:
+>
+>> With apologies for cross-posting, I want to announce a wonderful new book
+>> by Upinder Singh: Political Violence in Ancient India. It demolishes the
+>> common stereotypes about non-violence etc. Published by Harvard.
+>>
+>> http://www.hup.harvard.edu/catalog.php?isbn=9780674975279
+>>
+>> Patrick Olivelle
+>>
+>> _______________________________________________
+>> PLEASE post to this list ONLY from an email account that has been
+>> subscribed.
+>>
+>> RISA-L mailing list
+>> RISA-L at lists.sandiego.edu
+>> https://lists.sandiego.edu/mailman/listinfo/risa-l
+>>
+>>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+
+-- 
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+
+BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+
+Former Senior Professor of Cultural Studies
+
+FLAME School of Communication and FLAME School of  Liberal Education,
+
+(Pune, Maharashtra, INDIA )
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171002/e3452ee8/attachment.htm>

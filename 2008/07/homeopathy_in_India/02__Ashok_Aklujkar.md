@@ -1,0 +1,32 @@
++++
+title = "02 Ashok Aklujkar"
+date = "2008-07-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-July/031844.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-July/031844.html)
+
+> From: Allen W Thrasher <athr at LOC.GOV>
+> Date: Thu, 17 Jul 2008 10:56:37 -0400
+
+> "homeopathy" is often used there to mean any system of medicine
+> except mainline modern Western medicine?
+
+Not so as far as my experience goes. I have yet to come across a person who
+used "homeopathy" when he/she had Ayurveda or Unani medicine or naturopathy
+in mind. 
+
+This does not mean that you will not come across a significant number of
+Indians who think that Homeopathy is Indian, non-Western, in its origin or
+that it is a very old system of medicine. We should not take their view of
+the history of Homeopathy as conditioning the denotatum of "homeopathy" in
+their usage.
+
+By the way, one occasionally comes across 'baarak.sarii" at least In
+Maharashtra. I suppose it stands for a branch/offshoot of Homeopathy that
+rests on twelve mineral products called "cell salts" or "tissue salts."
+
+ashok aklujkar
+
+
+

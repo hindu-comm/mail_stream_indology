@@ -1,0 +1,23 @@
++++
+title = "218 Rajesh Kochhar"
+date = "2000-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022757.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022757.html)
+
+It is important to distinguish between the Bharata battle( between the Kauravas and the Pandavas) and the Mahabharata text. The text contains matter later than the battle), e.g.reference to Yavanas.Clearly, the text remained open much after the event that forms its core. When was MBh closed?A clue comes from the fact that MBh does not refer to weekdays or zodiacal signs, which are believed ,on the basis of circumstantial evidence, to have been introduced into India c.100 BC. In other words, a statement in MBh could be as recent as just before 100BC.
+
+Rajesh Kochhar
++++++++++++++++++++++++++++++++++++++++++++
+Prof Rajesh Kochhar
+Director
+National Institute of Science, Technology and Development Studies
+Pusa Gate , K S Krishnan Marg , New Delhi 110012
+ph + 91 11  5764064 / 5743227/5765380 x231   fax 5754640
+hm + 91 11 576 0281
+altenative email rkochhar2000 at yahoo.com
+web site  http://nistads.res.in { NOTE no www}
+
+
+

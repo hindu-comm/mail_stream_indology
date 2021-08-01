@@ -1,0 +1,23 @@
++++
+title = "86 McComas Taylor"
+date = "2011-04-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-April/035345.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-April/035345.html)
+
+I am delighted to announce that the Third Australian Spoken Sanskrit Summer School will be held on 5-19 February 2012. The course will be taught primarly by Pandit Dr Sadananda Das of Leipzig University. The location is the Australian National University's stunning 500-ha coastal campus at Kioala, NSW. The campus offers comfortable cottage accommodation, great food, more kangaroos than you can imagine, and 5-minute walk to pristine Pacific Ocean surf-beaches. The course is open to anyone who has completed a year of tertiary-level Sanskrit or equivalent. An entry-level component will be offered for those new to Spoken Sanskrit, and an intermediate stream will be avialable for students who have already completed the introductory level previously. The cost will be $1500-2000 depending on final enrolments.
+
+For details, bookings and payment, please see 
+
+https://sites.google.com/site/spokensansrit12/
+
+Please circulate as widely as possible.
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110401/55633616/attachment.htm>

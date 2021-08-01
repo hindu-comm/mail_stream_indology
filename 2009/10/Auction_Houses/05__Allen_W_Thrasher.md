@@ -1,0 +1,26 @@
++++
+title = "05 Allen W Thrasher"
+date = "2009-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-October/033665.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-October/033665.html)
+
+Dear Peter,
+
+Thanks.  We are well aware of Sam Fogg and have long had dealings with him.  I was wondering about auctioneers on the Continent.
+
+Allen
+
+>>> Peter Friedlander <peterfriedlander at YAHOO.COM.AU> 10/6/2009 9:49 PM >>>
+Dear Colleagues,
+I wrote catalogue entries for Sam Fogg in London (http://www.samfogg.com/) a while ago.
+They used to have the most wonderful South Asian stuff for sale,
+everything from ancient Buddhist MS from Afghanistan to illustrated manuscripts, I remember seeing a copy of an 18th century illustrated Ramayana/Ramcaritmanas with Nagari and Nastaliq scripts on facing pages.
+some of their stuff had also been through the states on its way from wherever it came from to wherever it was going.
+So Sam Fogg is one to watch, in fact their website catalogue shows this as well.
+regards
+Peter
+
+
+

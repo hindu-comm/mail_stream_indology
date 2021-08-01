@@ -1,0 +1,63 @@
++++
+title = "31 Michael Slouber"
+date = "2011-01-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-January/035086.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-January/035086.html)
+
+Dear Andrey,
+
+I don't have any kind of complete bibliography, but here are a few ideas:
+
+On Fertility: 
+
+-Allocco, A. (2009). Snakes, goddesses, and anthills: Modern challenges and women's ritual responses in contemporary south india. Thesis, Emory University.
+-Balzani, M. (2004). Pregnancy rituals amongst the rajput elite in contemporary rajasthan. Playing for Real: Hindu Role Models, Religion, and Gender, 141.
+-Parpola, A. (1987). Bangles, sacred trees, and fertility: Interpretations of the indus script relating to the cult of skanda-kumāra. In South asian archaeology 1987: Proceedings of the ninth international conference of the association of south asian archaeologists in western europe.
+-Patton Laurie, L. (2002). Mantras and miscarriage: Controlling birth in the late vedic period. Jewels of Authority: Women and Textual Tradition in Hindu India, 51-56.
+
+Little of the vast medieval literature on this topic has been edited.  Look in the NGMCP catalogue for the word "sūtikā" for instance.
+
+Prenatal and Childhood demonic possession:
+
+Filliozat, J. (n.d.). Etude de démonologie indienne: Le kumaratantra de ravan. A et les textes paralleles indiens tibétains, chinois, cambodgien et arabe. Cahiers De La Société Asiatique, Series, 1.
+Granoff (2002). Paradigms of protection in ancient india or an essay on what to do with your demons. Essays in Jaina Philosophy and Religion, 2, 181-212.
+Granoff (2009). The art of protecting children: The ritual context for some early terracottas.
+Sarma, E. M. K. (1975). Kumāratantram. South Indian Archaka Association.
+Smith, F. M. (2006). The Self Possessed: Deity and spirit possession in south asian literature and civilization. New York: Columbia University Press.
+Wujastyk, D. (1999). Miscarriages of justice: Demonic vengeance in classical indian medicine. Religion, Health, and Suffering, 256-75.
+
+Ditto concerning the lack of work on primary sources for this topic.  There are dozens of manuscripts on it in every archive in South Asia.  
+
+The Kriyākālaguṇottara has the following chapters that may be of interest:
+
+-abhiṣekapaṭala 19 (on possession causing fertility problems and remedies)
+-sūtikopadrava 20
+-jātamātrabālacikitsā 21
+-bālānāṃ cikitsā 22
+-bālagrahacikitsā 23
+-rakṣāpaṭala 24 (protection charms for children and others)
+
+There is a lot of Ayurvedic material on this--the Kāśyapasaṃhitā comes to mind--but you don't get as much of the religious perspective there as the sources I mentioned above.
+
+Good luck,
+
+Michael Slouber
+Ph.D. Candidate
+UC Berkeley
+
+
+
+On Jan 27, 2011, at 7:22 PM, Andrey Klebanov wrote:
+
+> Dear all, 
+> 
+> I'm searching for publications (or any other academic input), which deal or touch upon the topic of religious attitudes, rituals etc. concerning conception/ embryonal development/ birth and early childhood in India (past or present). 
+> I would be absolutely grateful for any hint or advice. 
+> 
+> best,
+> Andrey Klebanov
+
+
+

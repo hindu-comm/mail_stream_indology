@@ -1,0 +1,27 @@
++++
+title = "01 Valerie J Roebuck"
+date = "2004-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028822.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028822.html)
+
+What do members do about spam from firms who presumably collect our
+email addresses from these lists?  At present I am being plagued by
+an Indian bookseller's firm called Bagchee.com, who keep sending
+'newsletters' about 150k in size.  I've had 4 during the past week.
+The 'unsubscribe' button on their website does not work.  Messages
+sent to their email address bounce back labelled 'User mailbox
+exceeds allowed size'.  Messages sent to 'postmaster' or 'abuse' @
+their ISP don't seem to be delivered either.  Legal sanctions seem to
+work only with firms based in the same country.
+
+Does anyone know how to deal with this nuisance?
+
+(With apologies for cross-posting)
+
+Valerie J Roebuck
+Manchester, UK
+
+
+

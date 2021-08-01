@@ -1,0 +1,31 @@
++++
+title = "01 Stefan Baums"
+date = "2003-07-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-July/027788.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-July/027788.html)
+
+I would like to thank Timothy C. Cahill, Arlo Griffiths, Harry
+Spier and Peter M. Scharf for their suggestions and references on
+Vedic accents and anusvaras/anunasikas.  The introduction to
+Vishva Bandhu's Vedic Word Concordance is indeed a good first stop
+for the former: more comprehensive and accurate than Macdonell's
+appendix.  What still remains unclear to me is the issue of Vedic
+anusvaras/anunasikas.  While it is obvious that the different
+Vedic traditions have developed many visually distinct and
+fanciful ways of marking nasalisation, I wonder whether in any one
+version of a given Vedic texts, more than two functionally
+distinct nasalisation graphemes occur, and if so, how to interpret
+them phonetically.
+
+Best regards,
+Stefan Baums
+
+--
+Stefan Baums
+Asian Languages and Literature
+University of Washington
+
+
+

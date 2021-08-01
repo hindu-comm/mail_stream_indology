@@ -1,0 +1,22 @@
++++
+title = "24 somadeva vasudeva"
+date = "2001-12-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-December/026498.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-December/026498.html)
+
+Dear colleagues,
+
+Dominik Wujastyk has just kindly added my etext of the maaliniivijayottaratantra to his ftp archive (path: ftp.ucl.ac.uk/pub/users/ucgadkw/indology/texts).
+
+adhikaaraa.h 1--4, 7, 11--17 I have critically edited myself,   adhikaaraa.h  5, 6, 8, 9--11, 18--23  are as presented in KSTS 21.
+
+ Sincerely,
+
+S.D.Vasudeva
+Wolfson College
+Oxford
+
+
+

@@ -1,0 +1,42 @@
++++
+title = "31 Allen W Thrasher"
+date = "2001-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-September/026363.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-September/026363.html)
+
+I have been trolling South Asian newsgroups pursuant to a project the
+Library of Congress has permanently to archive electronically sites
+discussing the September 11 attacks.  I came across the following more
+peaceful message on soc.culture.indian.marathi.
+
+Allen
+
+
+
+Subject:
+             learn modi script online
+        Date:
+             11 Sep 2001 01:00:01 -0700
+        From:
+             rcm_88 at yahoo.com (Rajiv Mhasawade)
+ Organization:
+             http://groups.google.com/
+  Newsgroups:
+             soc.culture.indian.marathi
+
+
+
+
+dear friends,
+our marathi language was written in modi script from 1200 to 1950.i
+have opened a site to preserve and spread modi script.plz visit and
+learn it.
+thanks.
+http://marathimodi.tripod.com
+email: rcm_88 at yahoo.com
+rajiv
+
+
+

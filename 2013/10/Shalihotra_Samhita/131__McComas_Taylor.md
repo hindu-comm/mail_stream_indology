@@ -1,0 +1,45 @@
++++
+title = "131 McComas Taylor"
+date = "2013-10-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-October/038491.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-October/038491.html)
+
+Dear colleagues
+
+Can anyone help Catherine with this source?
+
+Please respond directly to her off-group at vajracat at gmail.com<mailto:vajracat at gmail.com>
+
+Thanks in advance
+
+McComas
+
+---
+
+I am searching for an english language translation of Shalihotra Samhita. Sorry for using a wiki link but it gives the most concise overview.
+http://en.wikipedia.org/wiki/Shalihotra
+
+I have searched online, google scholar, anu library, trove etc but can not find the source material, only references to it.
+
+Could you suggest where I might look? I have the Tibetan version but as there are several references to an English translation from Sanskrit, I am trying to locate this version.
+
+Kind regards,
+
+Catherine
+--
+Catherine Schuetze
+PhD Candidate,
+Australia National University,
+Canberra, Australia
+
+Ph: +61- 0468-311932 (Australia mobile)
+Ph: +91- 098166-49149 (India Mobile)
+E: vajracat at gmail.com<mailto:vajracat at gmail.com>
+www.vetsbeyondborders.org<http://www.vetsbeyondborders.org>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131017/43002936/attachment.htm>

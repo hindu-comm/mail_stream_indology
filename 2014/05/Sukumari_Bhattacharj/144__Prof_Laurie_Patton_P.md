@@ -1,0 +1,37 @@
++++
+title = "144 Prof Laurie Patton, Ph.D."
+date = "2014-05-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039455.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-May/039455.html)
+
+Friends,
+As part of a larger project on women and Sanskrit in contemporary India I spent three days with Sukumari-ji in the mid 2000's.  Her stories are indeed compelling-- filled with both light and pathos. Her life would be a small study in its own right.
+This is a passing of a truly independent voice.
+
+Laurie Patton
+Durden Professor of Indian Religions
+Duke University
+
+
+
+On May 25, 2014, at 17:00, "Dipak Bhattacharya" <dipak.d2004 at gmail.com<mailto:dipak.d2004 at gmail.com>> wrote:
+
+<indology at list.indology.info<mailto:indology at list.indology.info>>
+25 5 14
+Dear Friends,
+I sadly announce the death of Professor Sukumari Bhattacharji on 24 May afternoon at the age of 93 at her residence in Kolkata. One of the brightest students of the Calcutta University she worked for her doctorate at Cambridge and was awarded the degree. The work appeared as The Indian theogony in 1970. Coming from a Protestant Christain family of Central Bengal Sukumari could never adjust herself to situations that she regarded as not in conformity with her principles. She faced many adverse situations but never succumbed to circumstances. She took her MA in English language and literature and married a Hindu Brahmin, Dr.Amal Bhattacharya who taught at the Presidency College. Sukumari again got herself admitted to the Sanskrit MA course at the University of Calcutta. A y?j?ika Vedic scholar is said to have objected to her - a woman and Christaian - attending Veda classes. This was ridiculed down by the authorities that saved her from humiliation. She attended the classes and was declared first at the final examination. She became a Marxist by principle but avoided active politics. Till the early sixties she taught in one of the most prestigious Women's College in Calcutta, namely the Bethune College. She was admired for her scholarship and spirited non-conformism by many contemporary philologists of Calcutta that included S.K.Chatterji, Durgamohan Bhattacharyya and Ramaranjan Mukherjee. I later came to know that Durgamohan and Ramaranjan had been instrumental in getting her selected as Reader in Sanskrit (Associate Professor) at the Jadavpur University. Later she became Professor.
+When a hot debate was raging over her depiction of women's life in ancient India, she asked in a letter to a newspaper why she would not have the choice to declare that she did not believe in any religion. The rightists in Calcutta used abusive language against her and falsely accused her of plagiarism on Zimmer. Others showed that it was not so. A famous historian is said to have remarked that she got a prestigious prize only because of her remark that only prostitutes had been free women in ancient India
+Her siding with the leftists too did not last. From 2005 to the end Sukumari was shunned by all -- the right and the left. The sole grace was that publishers did not shun her. Sukumari was not sorry.
+Her non-conformist character placed Sukumari in opposition to a number of Indologists including Professor Gonda. Perhaps Burrow had remained fond of her.
+Dipak Bhattacharya
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+http://listinfo.indology.info
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140525/1e285dea/attachment.htm>

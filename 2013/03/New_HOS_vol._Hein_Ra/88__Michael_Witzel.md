@@ -1,0 +1,54 @@
++++
+title = "88 Michael Witzel"
+date = "2013-03-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-March/037528.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-March/037528.html)
+
+
+We are happy to announce a new volume of the Harvard Oriental Series (vol.76):
+
+---------------------------------------------------------------
+Jeanne Hein & V.S. Rajam
+
+The Earliest Missionary Grammar of Tamil.
+Fr. Henriques' Arte da Lingua Malabar:
+Translation, History and Analysis
+---------------------------------------------------------------
+This grammar represents the spoken language of the South Indian Paravar fisher community of the mid-16th century. It uses Latin grammatical categories to describe the 16th century Tamil. H. Henriques' effort shows how Tamil was heard and written by a 16th century Portuguese.
+
+The original was written in an older form of Portuguese in southern Tamil Nadu in 1549.  The co-authors, Jeanne Hein and V.S. Rajam, have translated the Arte Da Lingua Malabar into English. They have also given the political context for the grammar and a brief analysis of it.
+
+We are grateful that the long-expected translation and study can now be issued, due to the passionate and sustained efforts of V.S. Rajam, who has edited and completed this work that had for long been left unfinished due to Jeanne Hein’s illness.
+
+The book will be released in a week or two.
+
+
+MW
+
+> ============
+> Michael Witzel
+> witzel at fas.harvard.edu
+> <www.fas.harvard.edu/~witzel/mwpage.htm>
+> Wales Prof. of Sanskrit &
+> Director of Graduate Studies,
+> Dept. of South Asian Studies, Harvard University
+> 1 Bow Street,
+> Cambridge MA 02138, USA
+> 
+> phone: 1- 617 - 495 3295, fax 617 - 496 8571;
+> my direct line:  617- 496 2990
+
+
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130303/605a006c/attachment.htm>

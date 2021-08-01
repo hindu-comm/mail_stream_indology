@@ -1,0 +1,38 @@
++++
+title = "226 Jarrod Whitaker"
+date = "2016-04-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043199.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043199.html)
+
+Colleagues:
+A former student, now in grad. school, is writing a term paper on 
+Sanskrit textbooks and their relationship to the history of Sanskrit in 
+the West and the effect of Classical pedagogy on their design. She's 
+reached out to me for any literature on this subject and I've drawn a 
+blank.
+
+Your suggestions are most welcome.
+
+JW
+
+Jarrod Whitaker, Ph.D.
+Associate Professor,
+Graduate Program Director,
+Department for the Study of Religions.
+
+Faculty, Department of Women's,
+Gender and Sexuality Studies.
+
+Wake Forest University
+P.O. Box 7212
+Winston-Salem, NC 27109
+whitakjl at wfu.edu
+p 336.758.4162
+
+
+
+
+
+

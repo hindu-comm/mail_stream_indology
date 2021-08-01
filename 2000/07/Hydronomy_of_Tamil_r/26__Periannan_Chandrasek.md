@@ -1,0 +1,45 @@
++++
+title = "26 Periannan Chandrasekaran"
+date = "2000-07-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021859.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021859.html)
+
+--- Lakshmi Srinivas <lsrinivas at YAHOO.COM> wrote:
+..>
+> Also, some faunal names which sound rather
+> Austro-Asiatic viz., kuraGku (rhesus monkey),
+The Madras University Tamil Lexicon groups the meaning of 'monkey' for kuraGku
+in an entry based on the sense of curvature.
+There is a verb "kuragku" meaning "to bend/curve" derived from the root kur-
+for curvarure; other words in the sense of curl from the same root are kuruL,
+kural etc.
+[Cf. English crook, curl, curve etc.]
+---
+kuragku-tal
+otl kuragku-tal kuragku-tal 01 1. to bend, incline; 2. to droop, wither; 3. to
+hang down, dangle; 4. to repose, rest, lie; 5. to dimish; 6. to relent, grieve,
+feel sorry
+
+kuragku
+otl kuragku kuragku 02 1. bending, inclining; 2. monkey, ape; 3. bristly
+bryony; 4. hook, clasp, line, in jewelry
+----
+
+Maybe it is to with the dropping apperance of the monkey.
+
+
+Regards
+P.Chandrasekaran.
+
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Get Yahoo! Mail � Free email you can access from anywhere!
+http://mail.yahoo.com/
+
+
+

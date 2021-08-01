@@ -1,0 +1,124 @@
++++
+title = "96 Claudine Bautze-Picron"
+date = "2009-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/033004.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/033004.html)
+
+Dear Colleagues,
+
+
+
+I wish to inform you that the volume The Indian Night, Sleep and Dreams in
+Indian Culture has just been released by Rupa & Co, New Delhi (ed. Claudine
+Bautze-Picron) (and a pair of rAjahaMsa appears also there !). It contains
+22 papers which were presented during a conference organized in April 2004
+in Paris and cover various aspects as seen in the table of contents below
+(where all diacriticals have been dropped for the sake of this mail).
+
+With all my best wishes,
+
+Claudine Bautze-Picron.
+
+
+
+
+
+
+
+
+
+Foreword
+
+
+
+The Physiology of Dreams
+
+Dream Physiology: a western View on Dreams, Jean-Louis Valatx
+
+Dreaming and Dying in Indian Mythology and Âyurvedic  classical Texts,
+Martin Mittwede
+
+
+
+The Meaning of Dream
+
+A Song against bad Dreams: Magic, Supersition or Psychology ?, Jan E.M.
+Houben
+
+Dreams and other States of Consciousness in the Moksopâya, Jürgen Hanneder
+
+
+
+Dreams and Sleep in Praxis
+
+How to sleep ? What to dream ? Sleep and Dream dos and donts in the Jain
+tradition, Nalini Balbir
+
+Dreams in the Saivite Practice, Luce Barazer-Billoret
+
+Dreams and Transgression in the Sanskrit prescriptive Texts, Jean Fezas
+
+The Role of Dreams in accessing higher States of Consciousness as practised
+in a contemporary Indian Ashram, Madhu Tandan
+
+
+
+Dreams and Sleep in Language and Literature
+
+Sleep and Dream in the Lexicon of Indo-European Languages, Georges-Jean
+Pinault
+
+Common Dream and its Interpretation according to Indian narrative Material,
+Jean-Pierre Osier
+
+Between Dream and Reality: literary Function of Dreams, Sylvain Brocquet
+
+Sleep and Dreams in the Râma-kathâs, Eva De Clercq
+
+The Nightmare in contemporary Tamil short Stories, Chantal Delamourd
+
+
+
+Dreams in Buddhism
+
+Mâyâs Dream from India to Southeast Asia, Anna Maria Quagliotti
+
+The five Dreams of the Bodhisatta in the Murals of Pagan (Myanmar), Claudine
+Bautze-Picron
+
+Dreams about the Buddhas Departure from Home and the Construction of a
+Buddhist System of Dream Interpretation, Serinity Young
+
+Riding the Ass of the Great Vehicle backwards: Dreams and Revelations in The
+Life and Songs of Milarepa, Danièle Masset
+
+
+
+Dreams from abroad
+
+The Role of Dreams in Muslim Mysticism, Pierre Lory
+
+Good Dreams, bad Dreams in the history of Japanese civilisation, Hartmut O.
+Rotermund
+
+
+
+Images of Dreams and sleep
+
+Representations of Visnus cosmic sleep in Nepalese Sculpture, Anne-Claire
+Juramie
+
+Sayana forms of devî in sculptural Tradition from central India, Anne Casile
+
+Two illustrated Manuscripts on Dreams and Omens, Joachim K. Bautze
+
+
+
+The Authors
+
+
+
+
+

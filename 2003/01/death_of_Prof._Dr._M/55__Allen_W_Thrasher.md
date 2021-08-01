@@ -1,0 +1,45 @@
++++
+title = "55 Allen W Thrasher"
+date = "2003-01-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-January/027401.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-January/027401.html)
+
+Forwarded from the Jain list:
+
+ ----- Original Message -----
+From: Eva De Clercq
+To: jainlist at yahoogroups.com
+Sent: Saturday, January 11, 2003 9:16 PM
+Subject: Obituary: Prof. Dr. M.D. Vasanth Raj
+
+
+On 27th december 2002, M.D. Vasanth Raj, former professor of Jainology
+and
+ Prakrits of Mysore University, passed away. He not only was one of the
+great
+ scholars of Jainism, he also was a devout Jain himself, whose
+character was
+ exemplary to all. Those who had the fortune of meeting him, will
+remember
+ him as a kind, gentle and modest man, who never refused anyone who
+came to
+ him for help or advice. Our thoughts go out to his family.
+
+-------------------------------------------------------
+
+--
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Manish Modi
+
+HINDI GRANTH KARYALAY
+http://www.hindibooks.8m.com
+Booksellers and Publishers
+Hirabaug, C. P. Tank,
+Mumbai 400004 INDIA
+Phone: +91-22-23826739
+Email: manish.modi at bol.net.in
+
+
+

@@ -1,0 +1,33 @@
++++
+title = "21 Matthew Kapstein"
+date = "2005-06-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-June/029224.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-June/029224.html)
+
+But, Artur,
+
+why should one require a precedent in Skt, Pkt or even
+Apabhramsha? In Tibetan, for instance, we have a particle
+-lags (pronounced -laa), which is derived from a classical
+Tibetan honorific form of the verb "to be," and which is
+added to proper names in modern Tibetan as
+a polite form of address, rather like -jii. So far as
+I am aware, one has almost no literary evidence of this
+usage before very recent times, and then in texts that
+are adopting a deliberately colloquial register. If -jii
+reflects Persian convention, in particular, then its
+absence in earlier material is even more understandable.
+
+Jan Houben's -oji examples, like Bengali -arjee, retain
+some trace of the upasarga.
+
+The use of upadhyaaya as a feminin honorific (maataajii etc.),
+though I would consider this a most welcome development,
+seems also to raise some questions.
+
+Matthew Kapstein
+
+
+

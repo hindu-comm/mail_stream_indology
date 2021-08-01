@@ -1,0 +1,26 @@
++++
+title = "152 Dominik Wujastyk"
+date = "2000-10-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023044.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023044.html)
+
+I have written to Nanda Chandran asking him to moderate his tone, since it
+is causing offence to me and other embers of the list, and it is not
+consonant with the goal of this list, i.e., to have a calm, useful
+exchange of academically-informed views.
+
+This list was designed not as a debating group, but as a university-level
+forum for the discussion of indological topics.  The point is to advance
+knowledge, not score points, or try to make an "opponent" crumple.
+
+Let's all drain the violence from our sentences.  (I've been reading too
+much ayurveda :-)
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "10 James Madaio"
+date = "2018-05-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047641.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-May/047641.html)
+
+Apologies for cross-posting.
+
+The Journal of Hindu Studies invites papers on the theme of mokṣa for a
+forthcoming issue in early 2019. Papers that address the topic of
+liberation are warmly welcomed. The deadline for submission is 15 August
+2018.
+
+The Journal of Hindu Studies is a peer-reviewed journal published by Oxford
+University Press. It is committed to a critical approach to the broad area
+of research surrounding the study of Hindu and related cultures. The
+Journal aims to provide a forum for peer-reviewed articles on topics
+spanning relevant disciplines, regions, and periods of history.
+
+For Submission Guidelines please see here:
+http://www.oxfordjournals.org/our_journals/jhs/for_authors/
+
+For Online Submission of Manuscripts please see here:
+http://www.oxfordjournals.org/our_journals/jhs/for_authors/
+
+
+--
+
+Dr. James Madaio
+Fellow, Oriental Institute (Prague), Czech Academy of Sciences
+Fellow, Oxford Centre for Hindu Studies
+Associate Editor, Journal of Hindu Studies
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180512/a26bd47c/attachment.htm>

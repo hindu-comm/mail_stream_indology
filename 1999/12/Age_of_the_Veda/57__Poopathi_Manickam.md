@@ -1,0 +1,44 @@
++++
+title = "57 Poopathi Manickam"
+date = "1999-12-30"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019607.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019607.html)
+
+"S.Kalyanaraman" wrote:
+>
+> Hi,
+> Sometime back there was a reference to the work Vedic People by Rajesh
+> Kochhar. Here is a sample of the 'research' work:
+>
+> (p.131): "There have already been suggestions that A_rji_ki_ya_ be identified
+> with Afghanistan. Lakes like S'aryan.a_vant and Anyatahplaks.a_ can easily be
+> placed in the hilly area of Koh-e Baba from where the Helmand starts. The
+> place name Girishk in the region is probably an old name connected with Giri,
+> the mountain. (The R.gveda names a operson Giriks.it). In this picture, the
+> origina Gan:ga_ and Yamuna_ are the tributaries of the Helmand lying between
+> the Helmand and Arghandab. It is now easy to understand the association of
+> Pa_ra_vatas, the mountain people, with Yamuna_ and Sarasvati_."
+>
+> Isn't it more than a leap of faith to find Gan:ga_ and Yamuna_ in Afghanistan
+> while we do appreciate the continuing indololgical passion in search of the
+> indo-europeans and proto-aryans?
+>
+> The present day names of rivers and tributaries close to Helmand (according to
+> Dupree,L., 1980, 'Afghanistan', Princeton) are listed as: Khusk, Rudi-Gaz,
+> Harut-rud, Khuspas, Khash-rud, Rud Musa Qula, Kai-rud, Garmiah, Kushk-Nashud,
+> Arghandab, Tamak, Lora, Dori, Arghastah, Kushk-e Rud, Kadanoi, Ghazni, Jiiga.
+>
+> Try tracing Vedic hydronomy, driven by Marx, in this list...
+>
+> Regards, Kalyanaraman
+__________________________________________________________________
+
+        "How do you know God/dess didn't spake to Marx...?"
+
+        Rgds.../Poopathi Manickam
+__________________________________________________________________
+
+
+

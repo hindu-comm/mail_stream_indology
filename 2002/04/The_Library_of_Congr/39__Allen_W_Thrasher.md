@@ -1,0 +1,48 @@
++++
+title = "39 Allen W Thrasher"
+date = "2002-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026875.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026875.html)
+
+The Library of Congress has a record of Piloo Nanavutty doing the Kusti
+prayers.  Are you sure there was also a book?
+
+LC Control Number:       2001660322
+Type of Material:        Nonmusic Sound Recording
+Personal Name:           Nanavutty, Piloo. prf
+Main Title:              Kusti prayers (Zoroastrian) [sound
+recording].
+Published/Created:       1946.
+Related Names:           Library of Congress.
+Description:             2 sound discs : analog, 33 1/3 rpm ; 16 in.
+Summary:                 Miss Nanavutty reads the Kusti prayers and
+then explains the  meaning in English. These are the prayers taught to
+all                             children of the Zoroastrian faith in
+order to introduce them to                             the religion. She
+continues with chanting in Hindu, songs                            known
+as bhajans and written by Indian mystics and in Urdu,
+    Sufi songs about the Sikh religion.
+Notes:                   Original LWO for discs: 927.
+                         Recorded May 14, 1946, in Studio A, Recording
+Laboratory, Library of Congress.
+                         Preservation master. Washington, D.C. :
+Library of Congress Magnetic Recording Laboratory, 1968. On 1 sound tape
+reel :                             analog, 7 1/2 ips, 2 track, mono. ;
+10 in.
+Subjects:                Zoroastrianism.
+                         Sikhism.
+                         Bhajans, Hindi.
+                         Sufi meditations.
+LC Classification:       LWO 5293, r14B1-4 (preservation master)
+CALL NUMBER:             LWO 5293, r14 (preservation master)
+-- Request in:           Recorded Sound Reference Center (Madison,
+LM113)
+
+Allen Thrasher
+Southern Asia Section
+Library of Congress
+
+
+

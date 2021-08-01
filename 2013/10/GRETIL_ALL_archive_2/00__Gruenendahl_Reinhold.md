@@ -1,0 +1,23 @@
++++
+title = "00 Gruenendahl, Reinhold"
+date = "2013-10-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-October/038438.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-October/038438.html)
+
+Dear list members,
+occasionally, newcomers to GRETIL ask how they can build up a personal archive of e-texts on their hard disk for convenient "global search" ("grep") etc. To save them the trouble of having to download hundreds of individual files, a zipped archive of the presently 1,578 UTF-8 (Unicode) files is now made available for download:
+
+http://gretil.sub.uni-goettingen.de/gretil/GRETIL_ALL_2013-10-09_UTF8_FOR_PERSONAL_USE_ONLY.zip
+
+Please, note that this archive is intended for personal use only.
+
+Regards,
+Reinhold Grünendahl
+
+
+
+
+
+

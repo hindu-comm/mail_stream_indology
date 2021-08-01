@@ -1,0 +1,42 @@
++++
+title = "37 Whitney Cox"
+date = "2006-01-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-January/029581.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-January/029581.html)
+
+Dear friends,
+
+I'm forwarding the following to the list on behalf of my 
+colleague Ethan Kroll.
+
+Best,
+Whitney Cox
+
+
+Dear All:
+
+I ask that you encourage any interested parties to 
+consider taking elementary or intermediate Sanskrit at the 
+University of Wisconsin-Madison's South Asia Summer Language 
+Institute from June 19 to August 11, 2006.
+
+Elementary Sanskrit will provide a knowledge of Sanskrit 
+sufficient to permit students to enter any Second-Year 
+Sanskrit course in the United States or Europe.  
+Intermediate Sanskrit will endow students with the ability 
+to enter any Third-Year Sanskrit course in the United States 
+or Europe.
+
+For further information and online registration please go to:
+
+http://www.wisc.edu/sasli
+
+Best,
+
+Ethan Kroll
+University of Chicago
+
+
+

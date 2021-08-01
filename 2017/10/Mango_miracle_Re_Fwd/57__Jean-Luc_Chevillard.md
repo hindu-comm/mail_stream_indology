@@ -1,0 +1,75 @@
++++
+title = "57 Jean-Luc Chevillard"
+date = "2017-10-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-October/046751.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-October/046751.html)
+
+First thing which comes to my mind is the well-known story of the "Mango 
+miracle" which the 12th cent. Periya Purāṇam attributes to Kāraikkāl 
+Ammaiyār (one of the 63 Tamil Shaiva saints, who may have lived in the 
+6th century.
+
+See the pointer to a popular modern retelling of the story (as a movie)
+
+https://en.wikipedia.org/wiki/Karaikkal_Ammaiyar_(film)
+
+-- Jean-Luc Chevillard (in Pondicherry)
+
+https://univ-paris-diderot.academia.edu/JeanLucChevillard
+
+https://twitter.com/JLC1956
+
+
+
+
+
+On 10/10/2017 08:15, Dominik Wujastyk via INDOLOGY wrote:
+> Ms Kavya Murthy sends the following query. Please send answers her 
+> directly <mailto:​murthy.kavya at gmail.com> (and CC the list if you 
+> wish). Ms Murthy is a professional writer and editor.
+> 
+> With thanks,
+> Dominik
+> 
+> ---------- Forwarded message ----------
+> From: *Kavya Murthy* <
+> ​​
+> murthy.kavya at gmail.com <mailto:murthy.kavya at gmail.com>>
+> Date: 9 October 2017 at 19:41
+> 
+> ​[...]
+> 
+> If you would consider a request to members, I wanted to ask the 
+> following question.
+> 
+> As I mentioned, I am researching mangoes - as a cultural matter of 
+> taste. One of the first things I'm setting out to do is learn as much as 
+> possible about mangoes in Indian history or philosophy or travelogue, 
+>  or any texts. I wished to explore mangoes as metaphor, as ingredient, 
+> as mudra or prose.
+> 
+> It would be so great to ask this forum about references and reading I 
+> can start with! Naresh Keerthi who recommends that I ask the forum has 
+> already pointed me towards Pampa mahakavi.
+> 
+> Thanks ever so much.
+> ​[...]
+> ​-----------------------------------------
+> 
+> ​
+> 
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+> 
+
+
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "36 Robert A. Hueckstedt"
+date = "2000-03-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020343.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020343.html)
+
+ UNIVERSITY OF VIRGINIA -- EMORY UNIVERSITY
+
+                SEMESTER-IN-INDIA PROGRAM
+
+        THE FORT, JODHPUR    AUGUST-DECEMBER 2000
+
+Enrollment in the program is open to third- and fourth-year undergraduates
+enrolled in U.S. or Canadian universities.  Students may earn up to 16
+credits for their semester in Jodhpur, for study of Hindi (introductory,
+intermediate, or advanced), civilization and elective courses.  The program
+offers unique opportunities in the areas of classical and performing arts.
+The program fee of approximately $6,800 includes international travel to
+Jodhpur (via Delhi), academic tuition and fees, housing in the Fort, three
+meals a day, and a stipend for research and travel.
+
+Applications due: March 16, 2000
+
+For more information, follow the "Semester in India" link at
+<http://www.virginia.edu/~soasia> or contact the UVA CSAS at the following
+addresses:
+
+
+Center for South Asian Studies               southasia at virginia.edu
+University of Virginia
+110 Minor Hall
+Charlottesville, VA 22903
+(804) 924-8815
+
+
+

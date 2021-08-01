@@ -1,0 +1,44 @@
++++
+title = "300 Swaminathan Madhuresan"
+date = "2000-12-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024712.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024712.html)
+
+Thanks for the info that NAraNa is in Bengali. Is NAraNa also attested?
+
+In Eastern languages, -r- is invariably interchanged with -l-, isn't it?
+Is nAlaNa/nAlANa also attested in East India as meaning Narayana?
+
+Thanks,
+SM
+
+
+Dr. Jogesh Panda wrote:
+<<<
+ nArANa [pronounced naaraana], the Bengali word for nArAyaNa [samsad bAGgAlA
+ abhidhAn =   shangshad baangaalaa (sic) abhidhaan] is glossed as the
+ apabhramza form of Skt [and tatsama] word nArAyaNa.
+
+
+ But is it possible [ as my high school headmaster Khagendranath Dasgupta
+ thought] to derive nArANa [a veritable proto-Bengali word, attested in
+ place-names etc.] from Santali nAr, "to cheat", "to deceive" [nArAyaNa being
+ the great deceiver, mohinI and all that]. The -ANa ending is attested in words
+ like gAyANa [=gAyen], bAyANa [bAyen] etc.
+
+
+ Or [the moral of the story] is it not comparable to inviting Yaska to preside
+ over an etymological debate ? And construe a whole cultural universe based on
+ the perennial Nirukta ?
+>>>
+
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Photos - Share your holiday photos online!
+http://photos.yahoo.com/
+
+
+

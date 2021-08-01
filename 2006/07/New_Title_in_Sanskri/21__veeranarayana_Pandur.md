@@ -1,0 +1,62 @@
++++
+title = "21 veeranarayana Pandurangi"
+date = "2006-07-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-July/029931.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-July/029931.html)
+
+I have read it back to back. it is wonderfull experience to know many new
+things. we get more questions raised in reading it. how are the things going
+back in tpt.
+ve
+
+
+On 7/24/06, Srinivasa Varakhedi <nlpdept at yahoo.co.in> wrote:
+>
+> New Title in Sanskrit on Western Epistemology
+>
+> I am happy to inform the learned members of this list that a new title in
+> Sanskrit on Western Epistemology by Prof. Arindam Chakrabarthy, one of the
+> stalwarts of the World of eastern & western Philosophy of our times.
+>
+> Title:"Adhunika-pratIchya-pramANa-mImAmsA"
+> Author: Arindam Chakrabarty, University of Hawaii, USA.
+> Publication:2005.
+> Publisher: Rashtriya Sanskrit Vidyapeetha Deemed University, Tirupati,
+> INDIA.
+> Hardback pp. 160.
+> Price: Rs. 150/- (Indian Rupees)
+> Web:http://rsvidyapeetha.ac.in
+>
+> This book introduces the reader to Western  epistemology in general and
+> some aspects of western philosophy in particular.  The author argues why and
+> how rational traditions of western philosophy yield new concepts and
+> categories for modern contemporary thought, particularly epistemology. He
+> compares the theories of west with the Indian counterpart i.e., Indian
+> rational traditions such as Indian logic, drawn from both Buddhist and Nyâya
+> philosophies. He coins his own vocabulary for translation and draws his own
+> line of argument. The theories proposed by the author are not only relevant
+> for epistemology but are also intrinsically concerned with scientific
+> methodology. Relationships between these traditions and modern Western
+> philosophy are also explored thereby suggesting how Indian philosophy can
+> engage with contemporary epistemological research.
+>
+> This is an unique and the ever first effort in the history, I think, that
+> a book in Sanskrit is authored on "Western Epistemology". The language and
+> style of the author is simple, marvelous and illustrious. The Scholars and
+> lovers of Sanskrit would beyond any doubt welcome this new entry in the
+> Sanskrit creative literature particularly in philosophy.
+>
+> Dr. Shrinivasa Varakhedi
+>
+>
+>
+>
+>
+> ---------------------------------
+> Find out what India is talking about on Yahoo! Answers India.
+>
+
+
+

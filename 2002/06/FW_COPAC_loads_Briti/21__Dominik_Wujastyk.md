@@ -1,0 +1,54 @@
++++
+title = "21 Dominik Wujastyk"
+date = "2002-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-June/026977.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-June/026977.html)
+
+COPAC is a union catalogue for all the major academic / university
+libraries in Britain.  It is increasingly becoming a valuable one-stop way
+of finding books.  The addition of the BL catalogue projects it into a
+very important position.  Apart from anything else, the COPAC interface is
+(I think) nicer than the BL's own one.
+
+Dominik
+
+-----Original Message-----
+From: COPAC Helpdesk [mailto:copinfo at IRWELL.MIMAS.AC.UK]
+Sent: 17 June 2002 14:11
+Subject: COPAC loads British Library catalogue
+
+
+The British Library Public Catalogue has been loaded onto COPAC,
+bringing to 23 the number of catalogues included in the COPAC
+database.
+
+Over 10 million British Library records have been loaded, representing
+both reference materials held in the London Reading Rooms and document
+supply materials held at the Document Supply Centre, Boston Spa.
+
+For more details see the News section of the COPAC Home Page:
+  http://copac.ac.uk/
+
+COPAC is available free of charge to all searchers. COPAC is a MIMAS
+service, funded by the JISC, using records supplied by the Consortium
+of University Research Libraries (CURL).
+
+[with apologies for cross-posting]
+
+regards
+
+Shirley Cousins
+COPAC Helpdesk
+
+-----------------------------------------------------------------------
+Dr Shirley Cousins                             - COPAC is a MIMAS
+COPAC Service (copac at mimas.ac.uk)              service. It is funded
+Manchester Computing,                          by JISC and uses data
+University of Manchester                       supplied by CURL -
+Oxford Road,  Manchester M13 9PL, UK
+Fax:  0161 275 6040   Tel:  0161 275 6037      http://copac.ac.uk/
+
+
+

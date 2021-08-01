@@ -1,0 +1,70 @@
++++
+title = "276 Artur Karp"
+date = "2015-07-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041688.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041688.html)
+
+Many Ramayanas ---
+
+Many Indologies.
+
+Selection of *central *research themes. Financing.
+
+Colonialists & traditional law, linguistics, lexicography; Nazis & Aryan
+heritage; Soviets & Indian atheism. And so on.
+
+Best,
+
+Artur Karp
+
+2015-07-27 19:16 GMT+02:00 Nagaraj Paturi <nagarajpaturi at gmail.com>:
+
+> >But American cultural historians don't spend all their time drumming up
+> hatred for ​Indian​ scholars of American history and culture, >just because
+> they're​ Indian.  Why would they?
+>
+> I hope it is not intended to communicate that  'Indian cultural historians
+> spend all their time drumming up hatred for American scholars of Indian
+> history and culture', or circularly 'those who spend all their time
+> drumming up hatred for American scholars of Indian history and culture are
+> called Indian cultural historians'.
+>
+> Just as American scholars of Indian history and culture are called
+> American Indologists, I think ​Indian​ scholars of American history and
+> culture can be called Indian Americologists. Is there a field called
+> 'Americology'? Are there Indian Americologists?
+>
+> Since I do not know if the word Indian Americologists exists or not, let
+> me use the word ​Indian​ scholars of American history and culture only. May
+> I know how many of these are there? How big or small is their group? Is
+> their influence on the American education on America comparable in
+> proportion to the influence of western Indologists on Indian education of
+> India?
+>
+> Is the size of the group of Egyptian Americologists anywhere close to the
+> size of group of American and/or European Egyptologists?
+>
+> Thought these questions may help understand some Indian perspectives about
+> certain portions of western Indology that create inconveniences/problems to
+> different sections and/or aspects of Indian society, empathetically.
+>
+>
+> --
+> Prof.Nagaraj Paturi
+> Hyderabad-500044
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150727/47416177/attachment.htm>

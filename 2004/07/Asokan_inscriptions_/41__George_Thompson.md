@@ -1,0 +1,22 @@
++++
+title = "41 George Thompson"
+date = "2004-07-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-July/028432.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-July/028432.html)
+
+Dear List,
+
+I have been asked a question which I have not been able to answer.  Are
+there any online resources for the study of the Asokan inscriptions?  The
+question comes from one who would like to access not only the text and
+translation of all of the inscriptions, but also, if possible, photographs
+of the rock edicts themselves.
+
+I have not been able to find anything.  Thanks in advance for any help.
+
+George Thompson
+
+
+

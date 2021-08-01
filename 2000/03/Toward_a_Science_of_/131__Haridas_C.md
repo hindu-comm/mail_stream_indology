@@ -1,0 +1,45 @@
++++
+title = "131 Haridas C"
+date = "2000-03-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020414.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020414.html)
+
+Dear List members,
+
+With respect to the Sarasvati and chariot discussion
+which has been taking place, I am re-posting and
+adding to my inquiry which follows below.
+
+The basis for most of the debates on this list and in
+other areas is centered upon the basic question of
+'what is the meaning of the word/text?'
+
+So I wondering about the variety of the past authors
+which have been foundational to the science and the
+practice of translating sanskrit, pali, and prakrit
+literature in the west.
+
+Any thoughts upon recent thinkers, such as Foucault,
+Derrida, Godamer in light of the mechanics of
+translating into english, german, french etc., would
+be warmly welcomed also.
+
+For example, Derrida wrote: "Il n'y a pas d'hors texte
+('there is nothing outside a text')" how might this
+apply to the topic of interpretation/misinterpretation
+translation/mistranslation on the list.
+
+I am also interested in essays and discussion on the
+mechanics of translating Sanskrit into English.
+
+thank you.
+
+__________________________________________________
+Do You Yahoo!?
+Talk to your friends online with Yahoo! Messenger.
+http://im.yahoo.com
+
+
+

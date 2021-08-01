@@ -1,0 +1,165 @@
++++
+title = "198 Joanna Jurewicz"
+date = "2016-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043058.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043058.html)
+
+Dear All,
+
+I am exactly in the same situation as Artur.  During our research, we
+constantly struggle with such problems.
+
+Moreover, it is difficult to buy such expensive books for our indological
+library too.
+
+Best,
+
+Joanna
+
+
+---
+dr hab. Joanna Jurewicz, prof. UW
+Katedra Azji Południowej /Chair of South Asia
+Wydział Orientalistyczny / Faculty of Oriental Studies
+Uniwersytet Warszawski /University of Warsaw
+ul. Krakowskie Przedmieście 26/28
+00-927 Warszawa
+https://uw.academia.edu/JoannaJurewicz
+
+2016-04-15 4:12 GMT+02:00 stella sandahl <ssandahl at sympatico.ca>:
+
+> Dear all,
+> I am glad that people finally start protesting against Brill's overprized
+> books.
+> As a matter of principle I have not bought a single book from Brill during
+> my
+> entire long career in Indological pursuits.
+> Maybe we should all start boycotting Brill?
+> Best regards to all
+> Stella Sandahl
+> On Apr 14, 2016, at 1:38 PM, Artur Karp <karp at uw.edu.pl> wrote:
+>
+>
+> Dear All,
+>
+> If I mentioned the value of my pension, it was not with the aim to elicit
+> some sort of compassion. It was meant to show the dramatic discrepancy
+> between the prices Brill demands for its publications and the ability of
+> people (some indologists among them) to buy them.
+>
+> Personally, I do not have too many needs, and am perfectly comfortable
+> with what I have. It's just, damn it, that I want to read and learn. Being
+> unable to fulfill that one need - just because books are being overpriced
+> and more and more often beyond my reach - makes me frustrated.
+>
+> Kind of second class citizen complex.
+>
+>
+> My regards to All,
+>
+> Artur
+>
+> 2016-04-14 9:13 GMT+02:00 Artur Karp <karp at uw.edu.pl>:
+>
+>> Dear All,
+>>
+>> I hate to spoil the fantastic news about the two important publications.
+>>
+>> The prices. Prof. Bronkhorst's book's price ($ 199)is close to one third
+>> of my monthly pension. Prof. Zysk's ($ 299) - close to one half of my
+>> pension.
+>>
+>> Excellent work there, on the publishers side, but their prices exclude
+>> me, definitely, from their prospective buyers list.
+>>
+>> Is my University's Library going to buy the books? One cannot be certain,
+>> not considering financial restrictions faced by the educational
+>> institutions in Poland.
+>>
+>> Artur Karp
+>> Warsaw
+>> Poland
+>>
+>> 2016-04-14 8:42 GMT+02:00 Kenneth Gregory Zysk <zysk at hum.ku.dk>:
+>>
+>>> Also from Brill but in the Sir Henry Wellcome Asian Series is my
+>>>
+>>>
+>>>
+>>> *The Indian system of human marks* in 2 vols. Brill, 2016. ISBN:
+>>> 978-90-29972-6.
+>>>
+>>>
+>>>
+>>> http://www.brill.com/products/reference-work/indian-system-human-marks
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> Best,
+>>>
+>>> Kenneth Zysk
+>>>
+>>>
+>>>
+>>> *From:* INDOLOGY [mailto:indology-bounces at list.indology.info] *On
+>>> Behalf Of *Johannes Bronkhorst
+>>> *Sent:* 13. april 2016 13:36
+>>> *To:* indology at list.indology.info
+>>> *Subject:* [INDOLOGY] New publication
+>>>
+>>>
+>>>
+>>> Dear friends and colleages,
+>>>
+>>>
+>>>
+>>> My latest book has come out:
+>>>
+>>>
+>>>
+>>> *How the Brahmins Won: From Alexander to the Guptas*. Brill, 2016.
+>>> ISBN: 9789004315198.
+>>>
+>>> http://www.brill.com/products/book/how-brahmins-won
+>>>
+>>>
+>>>
+>>> Johannes Bronkhorst
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing
+>>> committee)
+>>> http://listinfo.indology.info (where you can change your list options
+>>> or unsubscribe)
+>>>
+>>
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160415/67747d3c/attachment.htm>

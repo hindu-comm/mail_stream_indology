@@ -1,0 +1,35 @@
++++
+title = "51 Oliver Hellwig"
+date = "2010-04-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-April/034274.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-April/034274.html)
+
+Dear colleagues,
+
+I would like to announce the first update of the Digital Corpus of Sanskrit
+(DCS).
+
+The new version of the text database contains the Katyayanasmrti and a
+complete version of the Kurmapurana. In addition, an individual per-text
+dictionary for each text is available via the corpus page of DCS (follow the
+"D" links on the corpus page).
+
+More details about these changes can be found at the following address:
+http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/index.php?contents=help_center
+
+
+Best regards,
+
+Oliver Hellwig
+
+-----------
+
+PD Dr. Oliver Hellwig
+SAI, University of Heidelberg
+Im Neuenheimer Feld 330
+69120 Heidelberg
+
+
+

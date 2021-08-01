@@ -1,0 +1,26 @@
++++
+title = "13 Kenneth Gregory Zysk"
+date = "2014-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-August/039788.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-August/039788.html)
+
+I should appreciate it if someone could send me a scan of the Brhatsamhita with Bhattotpala's commentary, either the original from 1895 (Vizanagram Sanskrit Series) or the reprint from 1996 (Sampurnananda Sanskrit University).
+Many thanks in advance.
+Best,
+Ken
+
+Kenneth Zysk, PhD, DPhil
+Head of Indology
+Department of Cross-Cultural and Regional Studies
+University of Copenhagen
+Karen Blixens Vej 4, Bygn. 10, 
+DK-2300 Copenhagen S    Denmark
+Ph:  +45 3532 8951			Email: zysk at hum.ku.dk
+
+
+
+
+
+

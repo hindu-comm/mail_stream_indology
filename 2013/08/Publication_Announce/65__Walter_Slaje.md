@@ -1,0 +1,48 @@
++++
+title = "65 Walter Slaje"
+date = "2013-08-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-August/038305.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-August/038305.html)
+
+Dear colleagues,
+
+I am pleased to announce the publication of a work left unpublished by Marc
+Aurel Stein, in which he critically reconsiders his edition and translation
+of Kalhaṇa's Rājataraṅgiṇī more than fourty years after their first
+publication. This volume contains also Stein's photographic documentation
+of historical sites and realia referred to by the outstanding poet and
+which Stein intended to publish under the title of "Illustrated
+Rājataraṅgiṇī", a project that he - despite many attempts - could not bring
+to fruition during the last years of his life.
+
+Obrock, Luther (ed.)
+Marc Aurel Stein – Illustrated Rājataraṅgiṇī. Together with Eugen
+Hultzsch’s Critical Notes and Stein’s Maps. Edited by Luther Obrock
+in Collaboration with Katrin Einicke. [Studia Indologica Universitatis
+Halensis 6]. Halle: Universitätsverlag Halle-Wittenberg 2013.
+248 pp. 82 photographs, 2 folding maps.
+EUR 78,00 ISBN 978-3-86977-077-2
+
+For details and placement of orders, see
+http://www.universitaetsverlag-halle-wittenberg.de/default/studia-indologica/marc-aurel-stein-illustrated-rajatara-gi-i.html
+
+
+-----------------------------
+Prof. Dr. Walter Slaje
+Hermann-Löns-Str. 1
+D-99425 Weimar
+Deutschland
+
+Ego ex animi mei sententia spondeo ac polliceor
+studia humanitatis impigro labore culturum et provecturum
+non sordidi lucri causa nec ad vanam captandam gloriam,
+sed quo magis veritas propagetur et lux eius, qua salus
+humani generis continetur, clarius effulgeat.
+Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130826/ba7acb4e/attachment.htm>

@@ -1,0 +1,43 @@
++++
+title = "44 Birgit Kellner"
+date = "2014-05-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039458.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-May/039458.html)
+
+Dear colleagues,
+
+FYI: the Robert H. N. Ho Family Foundation initiated a program - 
+channeled through ACLS - in Buddhist Studies last year, supporting 
+dissertation fellowships, postdoctoral fellowships, collaborative 
+research grants and distinguished visiting professorships.
+
+The list of the first 23 grant recipients can be found at 
+http://www.rhfamilyfoundation.org/#!/press/74. The second round of 
+grants was just announced: 
+http://www.acls.org/programs/buddhist-studies/; the deadline for 
+applications is 8 October 2014.
+
+Note that these are global competitions. There are no restrictions as to 
+the location of work proposed or the citizenship of applicants.
+
+With best regards,
+
+Birgit Kellner
+-- 
+----------
+Prof. Dr. Birgit Kellner
+Chair of Buddhist Studies
+Cluster of Excellence "Asia and Europe in a Global Context - The 
+Dynamics of Transculturality"
+University of Heidelberg
+Karl Jaspers Centre
+Voßstraße 2, Building 4400
+D-69115 Heidelberg
+Phone: +49(0)6221 - 54 4301 (Office Ina Chebbi: 4363)
+Fax: +49(0)6221 - 54 4012
+
+
+
+

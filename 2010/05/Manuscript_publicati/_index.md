@@ -1,0 +1,4 @@
++++
+title = "Manuscript publication finance"
+
++++

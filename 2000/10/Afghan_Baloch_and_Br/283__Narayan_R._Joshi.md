@@ -1,0 +1,30 @@
++++
+title = "283 Narayan R. Joshi"
+date = "2000-10-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023196.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023196.html)
+
+Dr.H.W.Bellew(TheRacesofAfghanistan,1880,London)reported that Afghan names
+of Saraban, Sharjyan, and Khrishyun were the Rajput names of Suryaban,
+Surjan,and Krishan,and that Moslems adapted the last two to Sharf-ud-din
+and Kheyr-ud-din.Brahui languages is related to Dravidian group.What are
+the origins of the words Brahui and Baloch? Is Baloch a Dravidian name? Is
+there a demarcation line on the border of Afghanistan and Pakistan east of
+which there exists a Dravidian sub-stratum and west of which no Dravidian
+sub-stratum. Due to Dravidian connection of Brahui,it was proposed that
+there was Dravidian aggression on India from the region of Mediterranean
+Sea prior to Aryan aggression.Before the time of the patriarch Abraham the
+Hebrew (roughly 2000BC)the name of Hurrian governor of Jerusalem was Abdi-
+Kheba(servantofGoddess)and there were Hurrian guards protecting the temple
+of the Goddess sitting on the lion.Hindu worship of Lord Shiv and Goddess
+is identified as the Dravidian origin.Mr. Sathur Sekaran in his book
+"African Languages"(International Liguistic Center, Madras, 600024, India)
+showed relationship of Tamil to MiddleEast languages all way to Africa.Does
+this mean that the Shiv and Goddess worship, Vijayadashami and Tamil
+language were brought to India during Dravidian/Semitic aggression? Is the
+name Abdi-Kheba a Dravidian/Tamil name? Thanks. N.R.Joshi
+
+
+

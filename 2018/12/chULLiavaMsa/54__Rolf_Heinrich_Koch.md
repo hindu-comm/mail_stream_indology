@@ -1,0 +1,29 @@
++++
+title = "54 Rolf Heinrich Koch"
+date = "2018-12-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-December/048967.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-December/048967.html)
+
+Dear listmembers,
+
+I need also help since I was unable to find a scan of Geiger's 
+PTS-edition of the Cūḷavaṃsa. There is presumably no more copyright.
+
+Anyone can give me an advice? Or even a pdf?
+
+Thank you in advance
+
+Best
+
+Heiner (from Sri Lanka)
+
+
+www.rolfheinrichkoch.wordpress.com
+
+
+
+
+
+

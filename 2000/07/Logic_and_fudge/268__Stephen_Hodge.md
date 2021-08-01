@@ -1,0 +1,44 @@
++++
+title = "268 Stephen Hodge"
+date = "2000-07-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021965.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021965.html)
+
+John Oliver Perry writes:
+
+> As for "fudge factors," yes, they can be employed by over-eager (not
+closely
+> self-critical, close to non-scientific?) scholars.  To fudge is not
+> necessarily to be dishonest. The American Heritage Dictionary, 2nd
+College
+> ed.,  lists:  "--tr. 1. To fake or falsify. 2. To evade (an issue
+for example
+> [as Elst above?]); dodge. --intr. 1. To act in an indecisive manner.
+2. a. To
+> go beyond the proper limits of something. b. To act dishonestly;
+cheat.
+> [Orig. unknown]"
+>
+> Note that the order of meanings shifts according to transitive or
+> intransitive status.
+
+It would seem that the semantic range of the word as used in the US is
+different to UK English.  The relevent parts of the Oxford English
+Reference Dic define it thus:
+
+n.:  1.  nonsense; 2. a piece of dishonesty or faking
+v.tr:  1.  to put together in a makeshift or dishonest way; fake
+v.tr:  2.  to deal with incompetently
+v.int:  to practise such methods
+
+I wonder if the good Konrad Elst speaks British English or its
+American version ?   As Oscar Wilde is supposed to have said of the
+Americans, "Nothing divides us but a common language".
+
+Best wishes,
+Stephen Hodge
+
+
+

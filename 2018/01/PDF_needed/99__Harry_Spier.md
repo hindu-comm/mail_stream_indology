@@ -1,0 +1,28 @@
++++
+title = "99 Harry Spier"
+date = "2018-01-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-January/047191.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-January/047191.html)
+
+Dear list members,
+
+Does anyone have:a pdf of the article
+"The pronunciation of Sanskrit"  in K. B. Pathak Commemorative volume
+edited by S.K. Belvalkar, 333-349 Pune: Bandarkar Oriental Research
+Institute. 1934
+
+Note:  There are two articles by S.K. Chaterji with this title. this one
+from 1934 I'm looking for and a second completely different article (with
+same title) hatterji, Suniti Kumar. 1960. ‘The Pronunciation of
+Sanskrit’. *Indian
+Linguistics* 21, 61–82. which has just been sent to me.
+
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180115/4609ef50/attachment.htm>

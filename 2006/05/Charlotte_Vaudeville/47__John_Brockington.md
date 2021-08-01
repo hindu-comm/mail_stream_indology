@@ -1,0 +1,28 @@
++++
+title = "47 John Brockington"
+date = "2006-05-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-May/029832.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-May/029832.html)
+
+Dear Colleagues,
+
+Does anyone have to hand the date of birth of Charlotte Vaudeville. 
+whose death was recently announced?
+
+With thanks
+
+John Brockington
+
+
+Professor J. L. Brockington
+Secretary General, International Association of Sanskrit Studies
+Chair, Organising Committee, 13th World Sanskrit Conference
+
+Asian Studies
+7-8 Buccleuch Place
+Edinburgh EH8 9LW
+
+
+

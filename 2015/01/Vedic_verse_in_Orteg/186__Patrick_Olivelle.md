@@ -1,0 +1,74 @@
++++
+title = "186 Patrick Olivelle"
+date = "2015-01-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-January/040552.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-January/040552.html)
+
+The latest and great translation by Joel Brereton and Stephanie Jamison translates: "Might we make our own that desirable effulgence of god Savitar, who will rouse forth our insights."
+
+Patrick Olivelle
+
+
+
+
+On Jan 26, 2015, at 1:45 PM, George Hart <glhart at berkeley.edu> wrote:
+
+> It seems to me that the relative in the third line must make this one sentence, but I am not a Vedicist.  More interesting would be to know why the Gāyatrī became so important and omnipresent.  (One might also remark that it is emended to refer to Ganesha and other deities in almost every puja).  It’s rather nice, but there are many other Vedic verses that are just as nice.  What set this apart?  And why?  George
+>  
+>> On Jan 26, 2015, at 11:38 AM, Nagaraj Paturi <nagarajpaturi at gmail.com> wrote:
+>> 
+>> Prof. Dipak Bhattacharya's response was :
+>>  
+>> A distant reflection of RV 3.62.10 : 'I meditate upon that adorable brilliance of the Begetter who may inspire our thoughts' ? 
+>>  
+>> The lines quoted were :
+>>  
+>> Lord, awaken us in a happy mood, and give us knowledge!
+>>  
+>> 
+>> The Savitri/Gayatri mantra (excluding PraNava and vyAhritis) is :
+>>  
+>> tát savitúr váreṇ(i)yaṃ
+>> bhárgo devásya dhīmahi
+>> dhíyo yó naḥ prachodáyāt
+>>  
+>> Prof. Dipak's translation takes this as a single complex sentence with a relative clause. The quoted lines have two different sentences. Taking Savitri/Gayatri mantra as made up of two different sentences is found in Ralph T H Griffith.
+>>  
+>> I contributed the analysis of various meanings given to Gayatri mantra in the page http://en.wikipedia.org/wiki/Gayatri_Mantra. There, I showed that taking the mantra as sAyaNa's  approach and taking it as two different sentences as Griffith's approach.
+>>  
+>> I tabulated the analysis as follows :
+>>  
+>> author	year	paraphrase	note	
+>> Sir William Jones	1807	"Let us adore the supremacy of that divine sun, the god-head who illuminates all, who recreates all, from whom all proceed, to whom all must return, whom we invoke to direct our understandings aright in our progress toward his holy seat."[14]	Savita is taken as the Sun, Like Sayana the whole mantra is taken as one single sentence with a relative clause.	
+>> William Quan Judge	1893	"Unveil, O Thou who givest sustenance to the Universe, from whom all proceed, to whom all must return, that face of the True Sun now hidden by a vase of golden light, that we may see the truth and do our whole duty on our journey to thy sacred seat."[15]	Sir William Jones is followed	
+>> Sivanath Sastri (Brahmo Samaj)	1911	"We meditate on the worshipable power and glory of Him who has created the earth, the nether world and the heavens (i.e. the universe), and who directs our understanding."[16]	Bhur Bhuvuh Svah is taken as part of the Mantra, Like Sayana the whole mantra is taken as one single sentence with a relative clause.	
+>> Swami Vivekananda	1915	"We meditate on the glory of that Being who has produced this universe; may He enlighten our minds."[17]	Like Griffith, takes the mantra as made up of two different sentences unlike Sayana or Sir William Jones	
+>> S. Radhakrishnan	1947, 1953	
+>> " We meditate on the effulgent glory of the divine Light; may he inspire our understanding."[18]
+>> "We meditate on the adorable glory of the radiant sun; may he inspire our intelligence."[19]
+>> Like Griffith, takes the mantra as made up of two different sentences unlike Sayana or Sir William Jones
+>>   
+>>  
+>>  
+>> 
+>> 
+>> -- 
+>> Prof.Nagaraj Paturi
+>> Hyderabad-500044
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://listinfo.indology.info
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150126/3c8b4127/attachment.htm>

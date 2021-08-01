@@ -1,0 +1,88 @@
++++
+title = "139 Arjuna S R"
+date = "2019-05-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-May/050113.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-May/050113.html)
+
+Dear Mr Das,
+
+You may refer to *Dictionary of Nyaya Terms* of Prof V N Jha, published by
+Centre of Advanced Study in Sanskrit, Pune which is in English. If you can
+refer to Prof Bhimacharya Jhalkikar's *Nyayakosha* published by Bhandarkar
+Oriental Research Institute, Pune which is in Sanskrit will be great and
+useful.
+
+Here is the meaning of these words for your immediate reference.
+
+1) Annyay - I am not able to understand exactly what is the word you are
+referring to.
+I assume it might be Anvaya and there are five meanings for that.
+     a) relations between two positive entities - भावयोः साहचर्यं यत्
+अन्वयं तत् प्रचक्षते |
+     b) the presence of what is produced in the locus of cause -
+कारणाधिकरणे कार्यस्य सत्त्वम् |
+     c) sentence - meaning
+     d) relation - पदार्थयोरन्वयो द्विविधः |
+     e) invariable concomitance of probans in general with the probandum in
+general - साध्यसामान्येन साध्यसामान्यस्य व्याप्तिरन्वयः
+
+2) vyatireka (in vyatireka-vyapti) =  pervasion of difference or
+dissimilitude, a comprehensive argument derived from negation or
+non-existence of certain qualities (refer to:
+https://sanskrit.inria.fr/MW/252.html#H_vyatireka/ opposite to anvaya
+
+3) Vyapti =
+  a) invariable concomitance - व्याप्तिः अविनाभावः नित्यसाहचर्यमित्यर्थः |
+  b) a natural relation between sadhya and sadhana - स्वभावतः साध्येन
+साधनस्य व्याप्तिरविनाभावः
+  c) invariable concomitance is one type of a causal relationship between a
+proban and a probandum - वह्निधूमयोः कार्यकारणभावलक्षणैव व्याप्तिः
+  d) invariable and inseparable connection
+
+4) Ativyapti = over-application - लक्ष्यवृत्तित्वे सति अलक्ष्यवृत्तित्वम्
+अतिव्याप्तिः
+
+5) Avyapti = Narrow-application - लक्ष्यैकदेश-अवृत्तित्वम् अव्याप्तिः
+
+Thank you.
+-- 
+Regards,
+
+*Dr Arjuna S R*
+*Assistant Professor*
+*Department of Philosophy*
+*Manipal Academy of Higher Education, Manipal*
+
+
+
+On Thu, May 16, 2019 at 5:27 PM alakendu das via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> To all,
+> Can anybody kindly help me with the English equivalents of the following
+> terminologies used frequently in Nyay-
+> 1.Annyay
+> 2.Byatireka
+> 3Vyapti
+> 4.Ativyapti
+> 5.Avyapti.
+>
+>    ,.         Alakendu Das.
+>
+>
+> Sent from RediffmailNG on Android
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190516/bb0e6f8c/attachment.htm>

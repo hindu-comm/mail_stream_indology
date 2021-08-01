@@ -1,0 +1,42 @@
++++
+title = "181 Tieken, H.J.H."
+date = "2018-11-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-November/048870.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-November/048870.html)
+
+Dear Artur,
+I assume you know Johannes Bronkhorst's article in AS/EA LXIII/I (2009), pp. 7-27, "Hendrik Kern and the body of the Buddha"
+I think it is very unlikely that the Buddha's body, or that of any other king (Daśaratha in Rām 2.60.12-14, 2.70.4) was laid down in a tub filled with hot oil, frying him like french fries. We are dealing with a process of embalming.
+
+Herman
+
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info] namens Artur Karp via INDOLOGY [indology at list.indology.info]
+Verzonden: dinsdag 20 november 2018 17:14
+Aan: indology
+Onderwerp: [INDOLOGY] The Buddha's body in a vat of oil
+
+pali tela-doni, sanskrit taila-droni.
+
+Was the body placed in cold - or hot oil?
+
+Any mention of the oil's temperature in the accessible sources?
+
+Artur Karp (ret)
+Chair of South Asian Studies,
+University of Warsaw
+Poland
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181120/f2d71ffe/attachment.htm>

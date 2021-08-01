@@ -1,0 +1,38 @@
++++
+title = "52 Allen W Thrasher"
+date = "2003-11-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-November/028020.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-November/028020.html)
+
+Another question, or possible way of looking at it, is whether the
+putrikA would inherit, while her husband would not, but the husband
+would have the control of the property as husband, not as any sort of
+son or quasi-son of the decedent - the usual situation of husbands of
+heiresses in England and many European countries until a century or two
+ago, unless the marriage settlement provided otherwise.
+
+And then would the husband have less control over the property, e.g. to
+sell land, than if he had himself inherited, because he was really a
+sort of trustee for his sons by the putrikA, and neither he nor even
+perhaps his putrikA wife was an owner?
+
+Allen
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

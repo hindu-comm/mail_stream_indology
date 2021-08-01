@@ -1,0 +1,28 @@
++++
+title = "41 Dean Anderson"
+date = "2007-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-February/030528.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-February/030528.html)
+
+I understand and agree with the position of Harry Falk
+and others who are dismayed by the personal tone this
+discussion has taken. 
+
+However I would respectfully disagree with those who
+feel that discussion of the subject in this forum
+would not be fruitful. I have already found items of
+value in this thread pertaining to my own interests
+about the Harappan script. 
+
+As has become amply clear, some members of this
+community do not feel comfortable in discussing this
+issue in the Indo-Eurasian Research forum which makes
+this probably the only other place where discussions
+of this caliber can be held.
+
+Dean Anderson
+
+
+

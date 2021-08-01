@@ -1,0 +1,23 @@
++++
+title = "130 Alberto Pelissero"
+date = "2007-06-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030895.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030895.html)
+
+Dear colleagues,
+a student of mine would like to know if there is some relationship between
+the RbhugItA and the zivarahasya, and more particularly:
+is the zivarahasya derived (or pretended to be derived) from some purANa?
+is the zivarahasya more akin to zaivasiddhAnta or to trika?
+is the RbhugItA contained (or pretended to be contained) into the
+zivarahasya?
+is the RbhugItA ascribed to someone or not?
+Thank You in advance,
+Alberto Pelissero
+Dept. of Oriental studies
+University of Torino
+
+
+

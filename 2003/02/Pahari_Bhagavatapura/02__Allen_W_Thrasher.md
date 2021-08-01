@@ -1,0 +1,32 @@
++++
+title = "02 Allen W Thrasher"
+date = "2003-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027463.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027463.html)
+
+Does anyone know about a version of the Bhagavatapurana in "Pahari" in
+Perso-Arabic script written by a Sheikh Abdullah Dehlvi and dedicated to
+one Rai Anand Singh, with a date of V.S. 1744?
+
+Allen
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

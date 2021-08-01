@@ -1,0 +1,39 @@
++++
+title = "67 Matthew Kapstein"
+date = "2013-11-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-November/038552.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-November/038552.html)
+
+Dear friends,
+
+I will shortly be teaching an introduction to Jainism, though this is not at all my field.
+
+If any of you have taught such a course before and have syllabi you might share with me,
+I would be most grateful.
+
+I think that I am familiar with most of the books one might choose to use in this context, but
+I would be most interested in any remarks on your experiences with the texts you have
+used in class. References to articles and more obscure sources that you have found
+useful would be most appreciated as well.
+
+I am not at all familiar with pertinent audio-visual resources and would welcome recommendations,
+if such materials are available.
+
+with thanks in advance for your suggestions,
+Matthew
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131104/b61252b9/attachment.htm>

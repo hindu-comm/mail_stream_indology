@@ -1,0 +1,27 @@
++++
+title = "358 Stephen Hodge"
+date = "2000-11-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023837.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023837.html)
+
+I have just seen a report about an article has appeared in the Science
+magazine reporting the findings of research at Pavia University
+(Italy) concerning the genetic origins of European and Middle Eastern
+Males based on the inheritance of Y chromosomes.
+Based on the results, it is hypothesized that nearly all males in
+these areas descend from just 10 anscestral strains.   Two of these
+lineages are together thought to represent 80% of European males are
+paleolithic c.40,000-35,000bp and probably originated in Siberia; the
+other lineage arrived from the Middle East c25,000-20,000bp.   The
+remaining eight lineages are much more recent and are thought to have
+arrived either from the Urals or the Middle East approx 9,000-6,000bp
+and account for only one fifth of present-day European males.   Food
+for thought ?
+
+Best wishes,
+Stephen Hodge
+
+
+

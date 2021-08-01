@@ -1,0 +1,29 @@
++++
+title = "211 Lynken Ghose"
+date = "2000-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024335.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024335.html)
+
+Dear Indology members:
+
+There have been a few recent postings calling for the redressing of
+grievances for the Muslim invasions of India. Admittedly, these invasions
+were tragic, and, from what I have read, did wreak destruction. However, I
+am not sure how constructive it is to dwell on something that happened so
+long ago, or, to stir up anger against an entire group of people, making
+them the scapegoats for something that happened before they were even born.
+
+If this is the point of such messages, then I am against them.
+However, if the point of the messages is just to try to avoid whitewashing
+history, then I am for them.
+
+Lynken Ghose
+Iowa State University
+
+_____________________________________________________________________________________
+Get more from the Web.  FREE MSN Explorer download : http://explorer.msn.com
+
+
+

@@ -1,0 +1,35 @@
++++
+title = "00 Nathan McGovern"
+date = "2015-04-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-April/041047.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-April/041047.html)
+
+Dear list members (and with apologies for cross-posting):
+
+The "Kingship and Religion in Tibet" Project at 
+Ludwig-Maximilians-Universität München would like to announce a 
+conference entitled "Memories of Kings: Kingship in the Religious 
+Imaginings of Asia," to be held in Munich on the 22nd and 23rd of May, 
+2015. Invited participants will be speaking on topics related to 
+kingship, religion, and memory in Tibet, Mongolia, China, South Asia, 
+and Southeast Asia.For more information, go to 
+http://www.kingship.indologie.uni-muenchen.de/conferences/index.html.
+
+Observers are welcome and there is no registration fee, but because 
+space is limited, those who would like to observe are asked to register 
+in advance by writing to Kingshipconference2015 at gmail.com.
+
+Best,
+
+Nathan McGovern
+Post-doctoral Researcher
+"Kingship and Religion in Tibet" Project
+Ludwig-Maximilians-Universität München
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150422/00fa81fe/attachment.htm>

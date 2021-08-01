@@ -1,0 +1,63 @@
++++
+title = "62 Matthew Kapstein"
+date = "2017-09-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046667.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-September/046667.html)
+
+A great dhanyavād to Hartmut Buescher, Rocco Cestola, Vincent Eltschinger, Dan Lusthaus
+and Lubomir Ondracka. The Indology list comes through again! I indeed have Indoan Dialectics. 
+
+thanks to all,
+Matthew
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+________________________________________
+From: INDOLOGY [indology-bounces at list.indology.info] on behalf of Matthew Kapstein via INDOLOGY [indology at list.indology.info]
+Sent: Tuesday, September 26, 2017 2:44 AM
+To: indology at list.indology.info
+Subject: Re: [INDOLOGY] Esther A. Solomon
+
+Many thanks to all who responded to my query. Let us hope that the planned commemoration volume
+mentioned by Eli Franco will appear in the near future and include further biographical information
+and full bibliography.
+
+In addition to your comments, I note, by the way, that the Jain elibrary contains pdf-s of three
+of Prof. Solomon's works:
+Ganadharavada  (this is available on other platforms as well, as some of you noted)
+Siddhantalesa Sangraha (in Gujarati with the Sanskrit text in devanagari)
+and an article "Conversion of Agnibhuti," from the India Jain Journal 1971
+
+Unfortunately, Prof. Solomon's opus Indian Dialectics (2 vols) does not seem to be available
+in an electronic version. The Hathi Trust indeed has scans, but makes them available only
+in snippet view. So, if any of you have access to full pdf-s, I would be most grateful. The work
+was published in a very limited edition and is now totally unavailable for purchase.
+
+best to all,
+Matthew
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+________________________________________
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+

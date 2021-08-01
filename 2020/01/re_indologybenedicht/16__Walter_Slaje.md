@@ -1,0 +1,57 @@
++++
+title = "16 Walter Slaje"
+date = "2020-01-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-January/051532.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-January/051532.html)
+
+Indeed, it is not rare at all. Here are some examples from a 15th century
+text from Kashmir authored by Śrīvara. In his *Jaina-Taraṅgiṇī* he quotes
+his own cannon eulogy composed on the occasion of his public consecration
+of Sulṭān Zayn’s brand-new artillery pieces, and also quotes a dialogue
+with benedictive usage which immediately preceded the preparations for the
+Battle of Mallaśilā in the year 1452:
+
+
+
+1) *kriyāt* (benedictive 3rd person singular √*kṛ*)
+
+[…] *yantratantraiḥ*
+
+*sthirāṃ pratiṣṭhāṃ kriyāt sa Mayaḥ *|| 1.1.75cd ||
+
+“Would that he [as another] Maya consolidates [his] superiority with [the
+help of these] cannon formations.
+
+
+
+2) *stāt* (√*as* + °*tāt*, 3rd person singular imperative termination,
+applied however in the sense of a benediction [of cannons])
+
+*kalpaṃ stād yantrabhāṇḍam idam *|| 1.1.79d ||
+
+“May this cannon last an aeon!”
+
+
+
+3) *kriyāḥ* (benedictive 2nd person singular √*kṛ*)
+
+*tvam evākaṇṭakaṃ rājyaṃ kriyā dharmakriyā bhajan |*
+
+*vairiṇo vimukhā yāntu raṇe labdhaparābhavāḥ* || 1.1.113 ||
+
+“May you alone, pursuing lawful acts, rule a kingdom free of enemies! May
+[your] enemies suffer defeat in the encounter [and] take to flight, with
+their faces averted!”
+
+
+
+Regards,
+
+WS
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200102/8fe8f160/attachment.htm>

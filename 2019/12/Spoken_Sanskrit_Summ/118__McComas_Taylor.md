@@ -1,0 +1,34 @@
++++
+title = "118 McComas Taylor"
+date = "2019-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-December/051398.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-December/051398.html)
+
+Dear friends
+
+There is still time to join our Spoken Sanskrit Summer School in Australia in February 2020. The cut-off for enrolments is Friday 20 Dec.
+
+https://www.facebook.com/events/789671801425704/
+
+Please distribute as widely as possible.
+
+With thanks in advance,
+
+McComas
+
+
+[cid:11f52287-6a9f-46ea-8567-6e070e5ce899]
+McComas Taylor
+Associate Professor
+Reader in Sanskrit
+College of Asia and the Pacific
+The Australian National University
+WSC Website<http://www.wsc2021.com.au>| McC Website<https://sites.google.com/site/mccomasanu/>
+Tel: +61 2 6125 3179
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191205/fd9a9fa9/attachment.htm>

@@ -1,0 +1,70 @@
++++
+title = "111 Gruenendahl, Reinhold"
+date = "2009-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032592.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032592.html)
+
+	Bibliography of published works of Dr. Ludwik Sternbach In: JGJRI
+33,2(Apr.-Jun.1977) S. 1-51	
+
+
+FROM:
+http://www.indologie.uni-halle.de/Sards2/
+
+
+Best,
+RG
+
+
+
+________________________________________________ 
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Goettingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+
+gruenen at sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+GRETIL e-library:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gr_elib.htm
+
+
+________________________________
+
+Von: Indology im Auftrag von Christophe Vielle
+Gesendet: Di 10.02.2009 14:59
+An: INDOLOGY at liverpool.ac.uk
+Betreff: Ludwick Sternbach Bibliography
+
+
+
+Dear Indologists,
+
+I would like to know if  there is somewhere published, printed or
+on-line available, a complete bibliography of the works of the great
+Ludwick Sternbach ?
+
+Thank you for your help,
+
+Christophe Vielle
+--
+
+http://belgianindology.lalibreblogs.be
+<http://belgianindology.lalibreblogs.be/> 
+
+
+

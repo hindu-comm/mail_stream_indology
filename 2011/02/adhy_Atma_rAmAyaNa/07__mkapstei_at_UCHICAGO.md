@@ -1,0 +1,32 @@
++++
+title = "07 mkapstei at UCHICAGO.EDU"
+date = "2011-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-February/035139.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-February/035139.html)
+
+
+Hi Bob,
+
+W. McLeod's Historical Dictionary of Sikhism, p. 15,
+mentions 
+ANAND GHAN. An Udasi scholar of the late 18th and early 19th centuries who, living in Banaras, wrote commentaries on the Adi Granth strongly influenced by Brahmanical thought.
+
+Sounds like this might be your man.
+
+Otherwise, a quick google search shows that Anand Ghan
+was a pseudonym once used by Lata Mangeshkar...
+
+all best,
+Matthew
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+
+

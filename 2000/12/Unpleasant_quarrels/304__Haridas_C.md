@@ -1,0 +1,78 @@
++++
+title = "304 Haridas C"
+date = "2000-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024419.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024419.html)
+
+I agree almost 100%.
+
+Except for the last part.
+
+Forever?
+
+I think not.
+
+Unless of course Dominik has not disclosed himself
+fully....
+
+
+
+
+--- Bjarte Kaldhol <bjartekal at AH.TELIA.NO> wrote:
+> Dear listmembers,
+>
+> Lynken Ghose wrote: "I am afraid that, even in
+> attempting to express
+> something, I may fall into the same trap as most
+> people do: creating one's
+> own form of fundamentalism."
+>
+> Is it really "fundamentalism" to ask for politeness
+> and good manners? Those
+> who are here just to quarrel should simply be
+> removed. I have for some
+> years been a member of a few academic lists and
+> witnessed a few disputes,
+> but nothing like the very unpleasant personal
+> attacks and insults on this
+> list.
+>
+> Even fundamentalists could be tolerated if they were
+> good-humoured.
+>
+> Regarding dispassionateness: Nobody can be totally
+> dispassionate. Passion
+> is a wonderful motive power and is often discernible
+> even in excellent
+> writers. Dry, academic contributions are not what I
+> ask for in order to
+> find this list interesting, and even mild irony
+> should be tolerated, but
+> please be polite and try to create some positive
+> sentiments from time to
+> time! We are all human beings and like to be cheered
+> up by smiling people.
+> As it is now, my door is banged open by rude people
+> shouting slogans and
+> swearwords every day, as if a war was going on.
+>
+> Dear listmembers, please remember that when you send
+> something to this
+> list, it will be there in the archive forever, with
+> your name attached to
+> it.
+>
+> Best wishes,
+> Bjarte Kaldhol,
+> Oslo
+
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Shopping - Thousands of Stores. Millions of Products.
+http://shopping.yahoo.com/
+
+
+

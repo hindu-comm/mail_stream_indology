@@ -1,0 +1,47 @@
++++
+title = "110 Martin Gluckman"
+date = "2019-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-September/050858.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-September/050858.html)
+
+Here is what I have so far thank you:
+
+1.Sankara’s Brahma-sutra-bhasya for the superb prose style and clarity.
+
+2. Bhaṭṭikāvya: "I love grammar, I love pedagogy, and I love poetry, and so an epic didactic poem about grammar is just the bee's knees for me."
+
+Kindest wishes,
+
+Martin
+
+
+On Tue, Sep 17, 2019 at 5:36 PM Martin Gluckman <m.gluckman at alumni.anu.edu.au<mailto:m.gluckman at alumni.anu.edu.au>> wrote:
+Dear Colleagues,
+
+I have a lecture to prepare and am conducting a short survey:
+
+I would like to know from the Sanskrit scholarly community what those feel are the utmost most excellent works from the entire corpora and a short line about why.
+
+Think of it as "if there were to be a Pullitzer or Booker Prize for the notable Sanskrit works", who and what would be the nominees and why.
+
+It could be a text that was of exceptional technical value for example Pāṇini's Aṣṭādhyāyī or those that have introduced a novel method in a field of science for example the Suśrutasaṃhitā. Then of course a notable poetic marvel such as Śakuntalā.
+
+If there exist some already compiled lists of the same I would most appreciate it.
+
+With warmest wishes,
+
+Martin
+
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190918/63740761/attachment.htm>

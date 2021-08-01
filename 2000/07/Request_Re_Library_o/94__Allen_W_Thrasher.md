@@ -1,0 +1,34 @@
++++
+title = "94 Allen W Thrasher"
+date = "2000-07-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021794.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021794.html)
+
+They may contact me or go to the Library's homepage
+<http://lcweb.loc.gov>.  Reference services and the use of the
+Library's collections are free.  Various forms of photoduplication
+must be paid for.
+
+
+
+Allen
+
+
+
+
+Allen W. Thrasher, Ph.D.
+
+Senior Reference Librarian       101 Indendence Ave., SE
+Southern Asia Section               LJ-150
+Asian Division                            Washington, DC 20540-4810
+Library of Congress                     U.S.A.
+tel. 202-707-3732                       fax 202-707-1724
+Email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

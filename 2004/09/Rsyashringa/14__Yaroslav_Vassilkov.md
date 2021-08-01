@@ -1,0 +1,63 @@
++++
+title = "14 Yaroslav Vassilkov"
+date = "2004-09-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-September/028572.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-September/028572.html)
+
+Dear Lars,
+E.W.Hopkins in his "Epic Mythology" (1915) mentions "SAvitrI, given in
+marriage by her father the Sun to Brahman (BrahmA - Ya.V.)" and refers
+1. to the passage quoted by you", and 2. to
+"4, 22, 11; 13,169,9" of the  "S" - i.e.  Southern Recension in
+Kumbhakonam edition.
+As it seems, this is a continuation of the old Indo-European myth
+(Marriage of the Sun's daughter). Another transformation of the same may
+be seen in the story of  SAvitrI's sister, TapatI, married to a human
+king (Mbh 1, 160 ff).
+Hope this helps,
+Yaroslav
+
+
+Lars Martin Fosse ?????:
+
+>Dear members of the list,
+>
+>I have a question regarding a verse in the Rshyashringa episode of the
+>Mahabharata.
+>
+>The verse runs:
+>
+>nivartiteSu sasyeSu yasmai zAntAM dadau nRpaH 1
+>
+>lomapAdo duhitaraM sAvitrIM savitA yathA || 003110051/3
+>
+>I am curious about the reference to savitR and savitrI here. I can't
+>remember any myth, and I can't find any reference to such a myth, where
+>savitR gives savitrI as bride to somebody. Could anybody help me with the
+>reference?
+>
+>Best regards,
+>
+>Lars Martin Fosse
+>
+>
+>
+>From:
+>Dr.art. Lars Martin Fosse
+>Haugerudvn. 76, Leil. 114,
+>0674 Oslo - Norway
+>Phone: +47 22 32 12 19 Fax:  +47 850 21 250
+>Mobile phone: +47 90 91 91 45
+>E-mail: lmfosse at online.no
+>DO NOT OPEN UNEXPECTED ATTACHMENTS.
+>MY EMAIL ADDRESS IS BEING ABUSED BY
+>MALICIOUS OPERATORS.
+>
+>
+>
+>
+
+
+

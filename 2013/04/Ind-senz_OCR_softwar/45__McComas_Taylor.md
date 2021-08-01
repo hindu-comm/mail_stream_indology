@@ -1,0 +1,28 @@
++++
+title = "45 McComas Taylor"
+date = "2013-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037700.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-April/037700.html)
+
+Colleagues, I never thought I would see the day, but I have just tried out Ind-senz's Sanskrit OCR software, with close to 100% success rate. I tested it out on a page of Lanman (good clear print) and got excellent results. 
+
+http://www.indsenz.com/int/index.php
+
+Highly recommended
+
+McC
+
+--
+McComas Taylor, ANU University Education Scholar 2012-13
+Head, South Asia Program
+ANU College of Asia and the Pacific
+Tel: +61 2 6125 3179
+Location: Baldessin Precinct Building, 4.24
+Website: McComas Taylor(http://arktos.anu.edu.au/chill/index.php/mct)Courses: Learn about some of my courses: Sanskrit 1(http://www.screenr.com/NSBs) | Indian Epics(http://screenr.com/uUBs)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130411/5a68ebcf/attachment.htm>

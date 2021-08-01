@@ -1,0 +1,37 @@
++++
+title = "90 Sudalaimuthu Palaniappan"
+date = "2009-06-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-June/033354.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-June/033354.html)
+
+
+If the disagreement between epigraphists is resolved in favor of the signs  
+being letters, then there is no need to consider the three characters to be 
+ Prakrit and hence vayra to be a misprint for va-yi-ra. JLC got it right. 
+Please  refer to Early Tamil Epigraphy, p. 369 where we have 'matiray' as a 
+variant of  'matirai' in p.351. 
+
+Regards,
+Palaniappan
+
+In a message dated 6/28/2009 9:28:51 A.M. Central Daylight Time,  
+falk at ZEDAT.FU-BERLIN.DE writes:
+
+The  spelling va-yra presupposes a Brahmi aksara yra which is  unattested
+anywhere in the periods concerned and extremely unlikely  anywhere in early
+Prakrit "orthography", be it a Northern or Southern one.  Stefan was most
+likely right when he expected a simple misprint for  va-yi-ra.
+H. Falk
+
+
+
+
+**************An Excellent Credit Score is 750. See Yours in Just 2 Easy 
+Steps! 
+(http://pr.atwola.com/promoclk/100126575x1221323006x1201367222/aol?redir=http://www.freecreditreport.com/pm/default.aspx?sc=668072&hmpgID=62&bcd=Jun
+eExcfooterNO62)
+
+
+

@@ -1,0 +1,47 @@
++++
+title = "103 Birgit Kellner"
+date = "2000-07-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021811.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021811.html)
+
+nanda chandran wrote:
+
+> So given that the God and "no God" argument had been going on for quite a
+> while and KumArilla Bhatta himself who came before Shankara had argued so
+> forcefully against the concept of a creator God and Shankara himself having
+> given up trying to prove the existence of God on logical grounds which but
+> reflects the theologicians position (that a creator God cannot be logically
+> proven) in the chronology of Indian philosophy, isn't it strange that
+> UdhayAna, if he came after Shankara would try to prove the existence of god
+> on logical grounds?
+
+First: I am not familiar with the "Udhayana" referred to by SaGkara, but are you
+sure of the spelling? The later NyAya-VaiZeSika philosopher's name is correctly
+transliterated as "Udayana".
+
+Second: Even if it were admitted to be strange that Udayana should continue a
+debate that SaGkara decided not to continue - which I personally would not
+consider strange at all -, such "atmospheric" considerations are not a reliable
+basis for establishing the relative chronology of Indian philosophers, nor do
+they constitute sufficient evidence to call into question datings that are
+otherwise firmly established.
+
+What matters in this context are factors such as the mention of dates for the
+completion of works in manuscript colophones, the express mention of an author's
+or his work's (works') name in other works, the mention of ideas which can be
+shown to be peculiar to the philosopher in question, and so on. Based on this
+type of criteria, Udayana's dates were established for somewhere in between the
+2nd half of the 10th century and the 1st of the 11th (with certain margins of
+variation). I'm not at my office at the moment, so I can't go into further
+detail, but I hope this initial bit of information proves nevertheless useful.
+
+Best,
+
+Birgit Kellner
+Institute for Tibetan and Buddhist Studies
+Vienna University
+
+
+

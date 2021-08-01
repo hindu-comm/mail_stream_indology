@@ -1,0 +1,35 @@
++++
+title = "50 John William Nemec"
+date = "2011-06-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-June/035561.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-June/035561.html)
+
+Dear Colleagues,
+
+I am pleased to be able to announce the publication of the following volume:
+
+John Nemec, _The Ubiquitous "Siva: Somaananda's "Sivad.r.s.ti and His Tantric Interlocutors_, New York: Oxford University Press, 2011.  
+
+ISBN 978-0-19-979546-8
+x + 436 pages
+
+The book includes a long introduction, a critical edition, and an annotated translation of the first 3 chapters (of 7) of the "Sivad.r.s.ti, along with all the related passages of Utpaladeva's commentary.
+
+Cheers,
+John
+
+__________________________________
+John Nemec, Ph.D.
+Assistant Professor
+Indian Religions and South Asian Studies
+Dept. of Religious Studies
+University of Virginia
+323 Gibson Hall / 1540 Jefferson Park Avenue
+Charlottesville, VA 22903 (USA)
+nemec at virginia.edu
++1-434-924-6716
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "09 Malhar Arvind Kulkarni"
+date = "2012-05-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-May/036581.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-May/036581.html)
+
+Dear Scholars,
+
+This is to announce that the deadline for submission to the 5th Sanskrit
+Computational Linguistics Symposium (to be held at IIT Bombay, during 3-8
+January 2013) is extended. The revised deadline is 10th May 2012.
+
+For further details, please visit the Symposium site:
+https://sites.google.com/site/5isclc2013/Home
+
+with regards.
+
+Malhar Kulkarni,
+Organising Chair,
+5th SCLS,
+IIT Bombay,
+Powai, Mumbai-400076.
+
+
+

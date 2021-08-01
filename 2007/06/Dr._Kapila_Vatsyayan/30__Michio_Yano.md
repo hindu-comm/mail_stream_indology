@@ -1,0 +1,20 @@
++++
+title = "30 Michio Yano"
+date = "2007-06-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030951.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030951.html)
+
+I have a record of receiving an e-mail
+from Kapila Vatsyayan at
+harinr at del6.vsnl.net.in
+
+I do not know who is harinr but it is
+worth trying is the last one does not
+work.
+
+Michio Yano
+
+
+

@@ -1,0 +1,77 @@
++++
+title = "109 Audrey Truschke"
+date = "2016-07-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043745.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-July/043745.html)
+
+Dear Colleagues,
+
+I would point out that Rajiv Malhotra is a known, unapologetic plagiarist.
+He regularly makes ad hominem attacks. He has endorsed stories written in
+The Onion, a satirical newspaper. I'm not sure that I see much here with
+which to engage on an academic level.
+
+Audrey Truschke
+Assistant Professor
+Department of History
+Rutgers University-Newark
+
+On Fri, Jul 29, 2016 at 8:32 AM, Dean Michael Anderson via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+> ---------- Forwarded message ----------
+> From: Dean Michael Anderson <eastwestcultural at yahoo.com>
+> To: Dominik Wujastyk <wujastyk at gmail.com>, Indology List <
+> indology at list.indology.info>
+> Cc:
+> Date: Fri, 29 Jul 2016 12:31:38 +0000 (UTC)
+> Subject: Re: [INDOLOGY] reviews of Malhotra's books
+> Thank you for posting this Dominik.
+>
+> Given his popularity I think there is a great need for the Indological
+> community to review his books.
+>
+> Best,
+>
+> Dean
+>
+>
+> ------------------------------
+> *From:* Dominik Wujastyk <wujastyk at gmail.com>
+> *To:* Indology <indology at list.indology.info>
+> *Sent:* Friday, July 29, 2016 4:16 AM
+> *Subject:* [INDOLOGY] reviews of Malhotra's books
+>
+> Is someone collecting a bibliography of serious reviews of Rajiv
+> Malhotra's books?  Are there considered writings that could be relayed to
+> someone interested in reasoned, academic responses to Malhotra's views?
+>
+> Best,
+> Dominik
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160729/29b5f85a/attachment.htm>

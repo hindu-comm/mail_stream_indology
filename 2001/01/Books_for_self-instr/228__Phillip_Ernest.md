@@ -1,0 +1,21 @@
++++
+title = "228 Phillip Ernest"
+date = "2001-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025018.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025018.html)
+
+Thank you for your advice; I'll check these out.
+
+It's true that Toronto has a huge South Asian population-- the largest, I
+think, of any city outside of the Subcontinent.  And yet no Dravidian
+language is taught at the University of Toronto, and our once-great
+Sanskrit department is now embodied in a single professor.  I shall have
+to teach myself Tamil from books, or try to overcome my social ineptitude
+and look about for living instructors.
+
+P
+
+
+

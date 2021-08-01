@@ -1,0 +1,34 @@
++++
+title = "24 Matthew Kapstein"
+date = "2005-07-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-July/029260.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-July/029260.html)
+
+Dear Jonathan,
+
+Yes, there was a Tibetan paper industry. Historico-legendary sources
+attribute its beginnings to the era of Srong btsan sgam po,
+but this is not credible. It is possible, however, that there
+was some low level production during the later imperial period --
+8th - 9th cent. In any event, I have found proof positive
+of a relatively well-developed paper industry in Kong po (SE Tibet)
+beginning not later than the mid-12th c. Manuscript colophons
+of that period sometimes make precise ref. to Kong po as the
+source of the paper used. Because, however, this was always
+a cottage industry, there was no distribution or sales network.
+One had to commission paper for one's own use. This was still the
+case in rural Nepal when I lived there in the 70s-80s. To print
+books from blocks at most places in the region, one had to arrange
+paper and ink, and often also bring one's own printer! Only
+a few monasteries printed quantities of books for sale.
+
+Matthew
+
+
+Matthew Kapstein
+Chicago and Paris
+
+
+

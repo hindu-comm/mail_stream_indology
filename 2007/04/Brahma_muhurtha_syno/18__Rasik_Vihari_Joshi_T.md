@@ -1,0 +1,35 @@
++++
+title = "18 Rasik Vihari Joshi Tripathi"
+date = "2007-04-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-April/030699.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-April/030699.html)
+
+Yes. There are two Muhurtas,  First Brahma Muhurta and  Second Rudra
+Muhurta before sunrise.The whole period is of 96 minutes, Just before
+sunrise Rudra Muhurta  for 48 minutes and before that Brahma Muhurta for
+48 minutes.All meditation, religious worship and yoga practice are
+recommended in Brahma Muhurta.
+Rasik Vihari Joshi
+
+-----Mensaje original-----
+De: Indology [mailto:INDOLOGY at liverpool.ac.uk] En nombre de Dean
+Anderson
+Enviado el: Martes, 10 de Abril de 2007 03:01 p.m.
+Para: INDOLOGY at liverpool.ac.uk
+Asunto: Brahma muhurtha synonym?
+
+
+Has anyone ever heard of a Hindi or Sanskrit synonym for Brahma Muhurtha
+which might sound something like 'navasvam' or 'nabasvan'?
+
+Brahma Muhurtha is the time 2 muhurthas (about 1 1/2 hours) before
+sunrise which is considered especially auspicious in Hinduism.
+
+Thanks,
+
+Dean Anderson
+
+
+

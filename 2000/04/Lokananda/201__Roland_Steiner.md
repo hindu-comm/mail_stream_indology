@@ -1,0 +1,57 @@
++++
+title = "201 Roland Steiner"
+date = "2000-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021118.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021118.html)
+
+Critical Edition of the Tibetan translation of the Lokaananda with 
+German translation:  
+- Candragomins Lokaanandanaa.taka. Nach dem tibetischen 
+Tanjur herausgegeben und übersetzt. Ein Beitrag zur indischen 
+Schauspieldichtung. Von Michael Hahn. Wiesbaden: Otto 
+Harrassowitz 1974 (Asiatische Forschungen. 39.).  
+
+Bengali Translation of Hahn`s German Translation by Ratna 
+Basu. Kaalakaataa 1983.
+
+English Translation of the Tibetan Translation:  
+- Joy for the World. A Buddhist Play by Candragomin. Transl. 
+with an Introduction and Notes by Michael Hahn. Dharma 
+Publishing 1987.  
+
+> Was Harshadeva's Nagananda inspired by Lokananda? 
+Probably yes. See
+- Michael Hahn: "General Introduction", in: The Recensions of 
+the Naagaananda by Har.sadeva. Vol. 1. The North Indian 
+Recension. New Delhi: Aditya Prakashan 1991, pp. I-X.
+- Roland Steiner: "Untersuchungen zu Har.sadevas 
+Naagaananda und zum indischen Schauspiel". Swisttal-Odendorf 
+1997 (Indica et Tibetica. 31.), esp. pp. 23-44 (§ 1.1.1: 
+"Abhaengigkeit des Naagaananda vom Lokaananda?" 
+["Dependence of Naagaananda on Lokaananda?"]; § 1.1.2: 
+"Datierung des Schauspielautors Candragomin" ["Dating of the 
+playwright Candragomin"]). 
+
+> does Lokananda or Ma.nicuu.daavadaana have any episode connected
+> with Malaya too?
+No. The Malaya mountains are mentioned only once in act 5, 
+stanza 5: 
+VIDYAADHARII: "O my husband, where he has gone ...". 
+VIDYAADHARA (laughing):" ... is something _you_ should be 
+able to tell me!
+        5. After having beheld the whole of the earth / like some 
+painting viewed / from the vault of heaven / will he now journey 
+/ to a peak of the Malaya Mountains, / given a fresh appearance 
+/ by the splashing ocean waves, / or to one of the pleasant and 
+wondrous / broad mountain terraces of Mt. Meru? / Will he 
+journey to Mt. Paarijaata, / or to a peak of the Himavant / where 
+the gracious and gleaming hosts / of the perfect dwell in 
+happiness supreme?" (Transl. Hahn, pp. 105-6).
+
+With kind regards,
+Roland Steiner
+
+
+

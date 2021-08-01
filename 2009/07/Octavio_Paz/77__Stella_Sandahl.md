@@ -1,0 +1,39 @@
++++
+title = "77 Stella Sandahl"
+date = "2009-07-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-July/033473.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-July/033473.html)
+
+Dear colleagues,
+In Octavio Paz' charming book In Light of India he quotes (page 160)  
+one poem by VallaNa:
+
+"Beauty is not
+in what the words say
+but in that which they say without saying it:
+not naked, but through a veil,
+breasts become desirable."
+
+and another by BhavabhUti:
+
+"Armed with their rules and precepts,
+many condemn my verses.
+I don't write for them, but for that soul, twin to mine,
+who will be born tomorrow,
+Time is long and the world wide."
+
+These are obviously verses from the SubhASitaratnakoSa (1705 and 1731  
+respectively),  translated by Ingalls in his An Anthology of Sanskrit  
+Court Poetry (1965) p. 442 and 445.
+My question is: Did Octavio Paz reinterpret Ingalls' translations  
+(which are much longer) or is he quoting somebody else's  
+translations? If the latter, whose translations?
+There are obviously no footnotes in Paz' book, although he refers to  
+Ingalls in the text (p. 149).
+I would be grateful if somebody can throw light on this.
+Stella Sandahl
+
+
+

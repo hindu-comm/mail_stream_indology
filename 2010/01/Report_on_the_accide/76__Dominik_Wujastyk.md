@@ -1,0 +1,32 @@
++++
+title = "76 Dominik Wujastyk"
+date = "2010-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033893.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033893.html)
+
+Dear colleagues,
+
+A "Report on the accident of Param Pujya Munishri Jambuvijayji Maharaj
+Saheb" by Hiroko Matsuoka has been posted to
+the "Members' queries and information" section of the INDOLOGY
+website, http://indology.info
+See:
+
+     http://indology.info/email/email-members.shtml
+
+It is a PDF file (600kb).
+
+Ms Matsuoka was in the harrowing situation of being one of the party
+travelling with Jambuvijayaji and his colleagues at the time of the
+accident, and she arrived on the scene less than an hour after the
+event, and before the arrival of the police.  Ms Matsuoka has granted
+permission for her account to be shared on the internet with members
+of the INDOLOGY list.
+
+Dominik Wujastyk
+INDOLOGY website
+
+
+

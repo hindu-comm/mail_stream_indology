@@ -1,0 +1,38 @@
++++
+title = "17 Jonathan Silk"
+date = "2000-05-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021219.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021219.html)
+
+Those interested in Buddhist texts / Skt texts may notice a new web
+site at which one can find the text of the Abhisamacarika, a vinaya
+text. Tibetan fonts are also downloadable from this page.
+
+go to :  http://www.sobutsu.org/      then   "Information"  then
+"Digital Library"
+
+don't be freaked out that most parts of the site are in Japanese--the
+texts are romanized. There is also a chart of the script of the ms
+available there. I downloaded the material without any problem.
+
+Provided to us through the great generosity of Koshin SUZUKI and
+others on the team.
+
+
+Jonathan Silk
+
+jonathan.silk at yale.edu
+
+Dept. of Religious Studies
+Yale University
+320 Temple St.
+New Haven CT 06520-8287
+USA
+
+tel. 203-432-0828
+fax. 203-432-7844
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "bandhanāṣṭaka/bandhāṣṭaka/pāśā"
+
++++

@@ -1,0 +1,35 @@
++++
+title = "25 Jonathan Silk"
+date = "2004-02-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-February/028169.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-February/028169.html)
+
+While I certainly would not wish to contradict John Huntington when
+it comes to artistic representations, when I recently discussed the
+question with Gail Maxwell of the Los Angeles County Museum of Art, a
+propos a Bharhut image, she showed me her extensive files on the
+depiction of the makara, including her evidence--I am not able to
+judge whether it is convincing--that the earliest images are based
+upon the Gavialis gangeticus, most particularly with regard to the
+evolution of the snout, which in the actual crocodile inflates when
+excited. (Another issue which might be  relevant here is that at
+least at a later period there is a conflation of the makara with the
+timi, timingila and timitimingila [various spelt]).
+
+Cheers, JAS
+--
+Jonathan Silk
+Department of Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310)206-8235
+fax:  (310)825-8808
+silk at humnet.ucla.edu
+
+
+

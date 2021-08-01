@@ -1,0 +1,46 @@
++++
+title = "303 Yashwant Malaiya"
+date = "2000-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024426.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024426.html)
+
+rohan.oberoi at CORNELL.EDU wrote:
+
+>Among other themes, there are a
+>number of properties currently operating as temples which are quite
+>well documented to have been "looted" by Hindus from Buddhists (such
+>as the Mahabodhi temple at Bodh Gaya, or the 'Jagannatha' temple at
+>Puri)
+
+I'm not sure what "documented" and "looted" mean here.
+
+Mahabodhi temple certainly is Buddhist one (although it originates
+from the time before Buddhists could be separated from Hindus). Present
+structure was constructed by Brahmin Buddhists, as commanded by
+Shiva (I think) in a dream. When Tibetan monk Dharmaswamin visited
+Gaya in 1234, he found that the large Buddha idol had been walled up
+to preserve it from Turkish invaders. It appears to have been abandoned
+after that.
+
+It was sometime around 1590 that the possession of the ruined temple
+passed  to the Shaivite mahantas, granted by the local rulers.
+
+The Jagannatha temple, as it is, was built as a Vaishnava temple.
+Originally built by Anantavarman Chodaganga (1078 - 1148), it was rebuilt
+by Ananga Bhima Deva in the year 1174. It is true that many scholars
+believe that it represents continuation of the Buddhist religious
+tradition. The sacred object, which is placed in a cavity of the wooden
+idol of Lord Jagannatha has not been seen  in recent times, but people have
+guessed it to be shaligram, a Jain idol, a piece of Lord Krishna's bone or
+a Buddha's tooth.
+
+I am not aware of any indication that either of them were forcibly
+wrested from Buddhists. If there are, it would be interesting to
+know.
+
+Yashwant
+
+
+

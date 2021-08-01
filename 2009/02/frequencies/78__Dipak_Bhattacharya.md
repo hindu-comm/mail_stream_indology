@@ -1,0 +1,39 @@
++++
+title = "78 Dipak Bhattacharya"
+date = "2009-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032656.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032656.html)
+
+Thanks! These new developments are welcome as further moulding the standard speech. But that there remains a standard ie literary dialect varying from ideolect(institutional in this case) to ideolect is not denied, I think. Moreover the happenings are new.Thatsuch things cannot be confirmed for the Rgveda should not make it being looked upon as an artificial language.Think of Milton or Gibbon making such language as mentioned above their own! They too wrote in a living language. 
+
+--- On Thu, 19/2/09, Dominik Wujastyk <ucgadkw at UCL.AC.UK> wrote:
+
+From: Dominik Wujastyk <ucgadkw at UCL.AC.UK>
+Subject: Re: frequencies
+To: INDOLOGY at liverpool.ac.uk
+Date: Thursday, 19 February, 2009, 10:51 AM
+
+> Moreover, standard dialects exist everywhere. The BBC does not allow
+Cockney in speeches delivered through it. Does it? And does that make Standard
+British English an artificial language?
+
+Um, yes, the BBC does include what is referred to more neutrally as
+"Estuary English" in radio broadcasts, all the time.  The BBC long ago
+ceased to cast itself as an arbiter of linguistic performance.  Being
+judgemental about dialect in England is still such a minefield that the
+institutions can't possibly take hard positions.  Like the OED, the BBC sees
+its job in this area as representative rather than didactic.  It remains true,
+though, that there are more Received Pronunciation speakers at peak times and in
+critical slots like the evening news.  Interestingly, a slight Scottish accent
+is widely perceived in S. England as attractive, authoritative, and correct.
+
+D
+
+
+
+      Unlimited freedom, unlimited storage. Get it now, on http://help.yahoo.com/l/in/yahoo/mail/yahoomail/tools/tools-08.html/
+
+
+

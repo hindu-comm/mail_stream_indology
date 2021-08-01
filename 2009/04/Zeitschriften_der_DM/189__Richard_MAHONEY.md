@@ -1,0 +1,68 @@
++++
+title = "189 Richard MAHONEY"
+date = "2009-04-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/033024.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/033024.html)
+
+Dear Steven,
+
+On Mon, Apr 20, 2009 at 10:11:11AM -0500, Steven Lindquist wrote:
+
+> On Apr 20, 2009, at 4:27 AM, Roland Steiner wrote:
+>
+>> Dear Jonathan (and interested others),
+>>
+>> According to Dr. Lutz Wiederhold (Universitäts- und
+>> Landesbibliothek Sachsen-Anhalt in Halle), full text search and
+>> download of complete articles as PDF files (free resource) will be
+>> implemented within the next weeks, which, I've been told, was
+>> planned so right from the beginning.
+>>
+>> Best,
+>> Roland
+
+> This is great news!  (I am surprised, though, that this was not part
+> of the announcement, especially if it was planned from the
+> beginning).  I have always been a supporter of Open Access, but I
+> admit that I am more skeptical than some when it comes to how
+> broadly I think it can/should work.
+>
+> My best,
+>
+> Steven
+
+For many -- and in my opinion rightly -- the formula is simple:
+`publicly-funded research should be publicly-available', period. A
+good amount of attention has been devoted to this issue of late. This
+link may be helpful:
+
+ The European University Association recommendations on Open Access
+ http://tinyurl.com/d22vqj
+
+
+And also the list of material on this page:
+
+ European Open Scholar: What is EnablingOpenScholarship?
+ http://www.openscholarship.org/jcms/j_6/home
+
+
+
+Best regards,
+
+ Richard
+
+
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 275 829 986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+

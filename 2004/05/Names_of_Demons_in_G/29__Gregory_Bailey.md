@@ -1,0 +1,40 @@
++++
+title = "29 Gregory Bailey"
+date = "2004-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-May/028400.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-May/028400.html)
+
+Dear List,
+
+I am completing the final aspects of work on the second volume
+(krii.daakha.n.da) of my translation and study of the Ga.nezapuraa.na.
+
+This kha.n.da is dominated by the description of three long narratives about
+Ga.neza's avataaras and I am attempting to locate the sources of the
+narratives.  One way is to trace the names of the principal protagonists.
+
+Of these there are three:
+
+1)  Devaantaka and Naraantaka.  These are brothers who appear in the Raam.
+and the odd Puraa.nic account of the Raam.  I have not found them in any
+other context.  The reference in Vettam Mani, Puranic Encyclopedia is
+incorrect and should refer to the Ga.neza, not the Padmapuraa.na
+[S.r.s.tikh] (unless it is in an edition I have not seen).  Another relevant
+name here is Raudraketu, father of Devaantaka and Naraantaka.
+
+2)  Sindhu
+
+3)  Sinduura.
+
+Of the latter two, I have found nothing.
+
+Any help would be much appreciated.
+
+Thanks,
+
+Greg Bailey
+
+
+

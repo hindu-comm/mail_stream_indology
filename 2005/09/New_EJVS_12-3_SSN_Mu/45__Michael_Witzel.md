@@ -1,0 +1,42 @@
++++
+title = "45 Michael Witzel"
+date = "2005-09-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-September/029338.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-September/029338.html)
+
+This is to announce a new issue of EJVS, vol.12-3:
+
+Number Symbolism in the Vedas
+by S. S. N. Murthy
+
+It is availabe as pdf on our web site:
+http://users.primushost.com/~india/ejvs/issues.html
+
+
+Brief intro:
+... in the Vedas, one finds numbers such as 1, 3,  7 and 10 as the most 
+used numbers... The symbolism associated with  the single digit 
+numerals was very well established in virtually all cultures, since 
+counting began  on the ten fingers...  The Vedic Rsis also used large 
+compound numbers like 21, 33, 34, 99, and 100 etc.  very frequently ... 
+but  no serious attempt has been made far to see whether there is any 
+hidden symbolism in these  numbers...
+
+I have tabulated almost all the compound numbers  mentioned in RV ...  
+Keeping in mind that the Vedic Rsis followed the decimal system and 
+were acquainted with some basic arithmetic  operations like additions 
+and multiplications etc. of smaller numbers (at least!), the first 
+thing  that strikes our mind ... is that there is a pattern or method 
+in the use  of numbers ...
+
+Michael Witzel
+Department of Sanskrit and Indian Studies, Harvard University
+1 Bow Street , 3rd floor, Cambridge MA 02138
+1-617-495 3295           Fax: 496 8571
+direct line:       496 2990
+http://www.fas.harvard.edu/~witzel/mwpage.htm
+
+
+

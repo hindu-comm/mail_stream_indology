@@ -1,0 +1,54 @@
++++
+title = "99 Charles DiSimone"
+date = "2017-08-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046362.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046362.html)
+
+Apologies for crossposting. Please share with any interested parties.
+
+The Doctoral Program in Buddhist Studies at the
+Ludwig-Maximilians-Universität in Munich, Germany invites applications for
+two PhD scholarships for dissertation projects related to Buddhism.
+
+Deadline for applications: 22 October 2017
+Start of scholarship: summer or autumn 2018
+Duration of scholarship: 3 years
+Scholarship amount: 1000 € per month + insurance + support for rent +
+travel lump sums + 460 € per year
+Scholarship donor: German Academic Exchange Service (DAAD)
+
+The selection process comprises two stages: Applications are sent to the
+Doctoral Program in Buddhist Studies in Munich. The program will select
+promising candidates, who then have to submit their materials to the DAAD.
+It is expected that the successful candidates will be chosen and informed
+by February 2018.
+
+The prerequisites for application are non-German citizenship, a Master of
+Arts or Magister Artium degree or equivalent in a relevant field, excellent
+knowledge of at least one Buddhist source language, outstanding
+qualifications in the subject, and fluency in English. A basic knowledge of
+German is also desirable, though not a prerequisite, but willingness to
+learn German/improve German language skills will be expected. Applicants
+should not have lived in Germany for more than fifteen months at the time
+of the submission of their materials to the DAAD (in December) and the last
+final examination should have taken place no more than six years before
+this date.
+
+For details concerning the application, please visit our homepage:
+
+http://www.en.buddhismus-studien.uni-muenchen.de/currentissues/phd_scholarships_2018/index.html
+
+http://www.buddhismus-studien.uni-muenchen.de/aktuelles/stipendienausschreibung_2018/phd_s.
+..
+
+-- 
+Dr. des. Charles DiSimone
+Institut für Indologie und Tibetologie
+Ludwig-Maximilians-Universität München
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170803/4616cc9c/attachment.htm>

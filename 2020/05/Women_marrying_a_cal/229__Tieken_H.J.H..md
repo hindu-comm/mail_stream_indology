@@ -1,0 +1,26 @@
++++
+title = "229 Tieken, H.J.H."
+date = "2020-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-May/052670.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-May/052670.html)
+
+I would like to thank all those who have responded to my question about a woman marrying a calf. I have passed them on to my friend, who is most grateful.
+
+I have checked the Kalittokai passage referred to by V.S. Rajam. As I see it, the woman does not marry the female buffalo. Apparently, as part of the preparations for the wedding, the bride's family scatters sand on the floor (of the courtyard of their house) and paints the walls red. After that they worship "with a female buffalo" (sacrifice her? Note the red walls, red being the colour of the clothes a convict  is made to wear on the way to place of execution, and sand to absorb the blood). All this will be in vain, as the girl is in love with someone else and is not prepared to marry with a man she does not love. This is, at least, the message she wants a friend to pass on to the man she loves in a desperate attempt to incite him to come and claim her.
+
+Herman
+
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200528/cc196acc/attachment.htm>

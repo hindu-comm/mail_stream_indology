@@ -1,0 +1,40 @@
++++
+title = "79 Simon Brodbeck"
+date = "2017-01-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-January/045082.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-January/045082.html)
+
+Dear colleagues,
+
+I am sure I am not alone in being appalled and saddened by the capitalised section of Professor Falk's email below. 
+
+Please can we keep this kind of discourse out of this forum. 
+
+We would do better to make our individual minds up about the work of our colleagues on the basis of that work itself, rather than on the basis of this kind of attack.
+
+With all best wishes, from Simon Brodbeck.
+
+
+
+-----Original Message-----
+From: INDOLOGY [mailto:indology-bounces at list.indology.info] On Behalf Of Harry Falk via INDOLOGY
+Sent: 16 January 2017 09:35
+To: indology at list.indology.info
+Subject: Re: [INDOLOGY] Eli Franco and the Fate of Indology
+
+Dear Eli,
+Thanks for putting so much time into rebuking something that doesn't even deserve a rebuke. As you say at the end: this useless book is not about German Indology, it is about the two authors.
+They want to be right, they want to be taken as authorities, BECAUSE THEY ARE INDIANS, ...
+Best, Harry
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee) http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+

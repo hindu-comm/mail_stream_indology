@@ -1,0 +1,61 @@
++++
+title = "37 Deepro Chakraborty"
+date = "2018-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-February/047325.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-February/047325.html)
+
+Dear Prof. Wujastyk,
+
+Thank you so much for your comments. I am forwarding it to the authority.
+
+Regards,
+Deepro
+
+On Fri, Feb 16, 2018 at 5:36 PM, Dominik Wujastyk <wujastyk at gmail.com>
+wrote:
+
+> Dear Deepro,
+>
+> I did not know about the AS's "30%" rule.  Administrative slowness is one
+> thing, but the 30% rule is simply unacceptable.  No professional library
+> outside India has such a policy, as far as I know.  And it is clearly an
+> attack on academic freedom.  The 30% rule prevents the true growth of
+> knowledge, which has always been the main mission of the Asiatic Society.
+>
+> The managers of the AS need to understand that their manuscripts only have
+> value when a scholar studies them.  If they lie unread on the shelf, they
+> are dead.  The super-human efforts made by the great pandits and manuscript
+> scribes of the past to pass their wisdom to us today is being blocked by
+> this unacceptable limitation.
+>
+> Best,
+> Dominik
+>
+> ​
+> --
+> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
+> ​,​
+>
+> Singhmar Chair in Classical Indian Society and Polity
+> ​,​
+>
+> Department of History and Classics
+> <http://historyandclassics.ualberta.ca/>
+> ​,​
+> University of Alberta, Canada
+> ​.​
+>
+> South Asia at the U of A:
+>
+> ​sas.ualberta.ca​
+> ​​
+>
+>>
+>>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180217/5dd9ec1e/attachment.htm>

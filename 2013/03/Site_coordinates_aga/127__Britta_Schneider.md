@@ -1,0 +1,32 @@
++++
+title = "127 Britta Schneider"
+date = "2013-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-March/037644.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-March/037644.html)
+
+Dear Dr. Voegeli,
+
+maybe this is of a little help for your search:
+
+Nindowari (also called Nindo Damb) [Nindo 24°38'15.8388''N 69°
+2'27.4603''E]
+
+Jhukar 26°11'15.8654''N 68°19'17.8064''E
+
+Lohumjo-daro (Lohumjo-daro, near Piaro Goth [railway station 26°
+56'54.7472''N 67°48'54.5742''E], not far from the bank of the Indus,
+sixty miles to the south of Mohenjo-daro)
+
+Kayatha (Kaytha Village  23°14'11" N76°1'6"E)
+
+The coordinates are found as this in http://wikimapia.org they use the
+goggle maps satellite pictures.
+
+Best wishes, Britta Schneider 
+
+
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "35 Christian Lee Novetzke"
+date = "1999-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-July/017934.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-July/017934.html)
+
+Hello,
+
+This topic may have run the circuit already, but I can't find it in the
+Indology archives so here goes.  I'm reviewing web sites about Hinduism for
+the Britannica Internet Guide online (http://www.britannica.com/).  If you
+have time, please let me know of sites you think are noteworthy and ought
+to be reviewed or sites you use for educational purposes.   Also, if you
+know of link-sites (university sites, private sites, student group sites,
+etc) that are particularly good, that would be helpful.
+
+Thanks in advance.
+
+Christian Novetzke
+Religion Department
+Columbia University
+
+(My apologies to those who get this on RISA too.)
+
+
+

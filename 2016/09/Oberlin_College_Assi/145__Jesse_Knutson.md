@@ -1,0 +1,31 @@
++++
+title = "145 Jesse Knutson"
+date = "2016-09-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044202.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044202.html)
+
+FYI:
+
+Assistant Professor of South Asian Religions and Gender, Sexuality, and
+Feminist Studies
+
+The Department of Religion and Program in Gender, Sexuality, and Feminist
+Studies at Oberlin College invite applications for a full-time,
+tenure-track faculty position in the College of Arts and Sciences. Initial
+appointment to this position will be for a term of three years, beginning
+fall semester 2017 and will carry the rank of Assistant Professor
+
+https://jobs.oberlin.edu/postings/3522
+-- 
+Jesse Ross Knutson PhD
+Assistant Professor of Sanskrit and Bengali, Department of Indo-Pacific
+Languages and Literatures
+University of Hawai'i at Mānoa
+461 Spalding
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160921/7c4a39e0/attachment.htm>

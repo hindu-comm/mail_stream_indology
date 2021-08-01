@@ -1,0 +1,26 @@
++++
+title = "219 Arun Gupta"
+date = "2000-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023715.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023715.html)
+
+In Frontline, Professor Asko Parpola gives mentions two historical cases of
+how the language of a minority displaced a majority.  Supposedly these
+parallel what happened in ancient India with the incursion of the
+Indo-Aryans.
+
+The two examples given are the British in India, and the displacement of the
+native languages in South America.  Neither case parallels what may have
+happened in ancient India because the technological gap between ingressor
+and resident was much more significant in these two examples; the ingressor
+remained vitally connected to a flourishing and
+technologically-rapidly-advancing external culture in these two examples,
+and in the case of South America, the native population was decimated by
+diseases new to them that came from Europe.
+
+-Arun Gupta
+
+
+

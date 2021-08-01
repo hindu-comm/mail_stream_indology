@@ -1,0 +1,33 @@
++++
+title = "302 Klaus Karttunen"
+date = "2000-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020592.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020592.html)
+
+Dear colleagues,
+
+while Allen W. Thrasher certainly said all necessary about the
+"historicity" of flying palaces or cars, it is perhaps interesting to note
+that constructing of flying machines as well as that of artificial servants
+was often described among the skills of Yavana artisans (e.g. in some
+Vinaya texts, in Schiefner/Ralston's Tibetan tales, in
+BRhatkathAzlokasaMgraha).
+
+As to the yAvanI bhASA, there are several references to this in Sanskrit
+and Middle Indo-Aryan literature, but I must check them at home. I'll be
+back in Monday.
+
+Regards
+
+Klaus
+
+
+Klaus Karttunen
+Institute for Asian and African Studies
+Box 59, 00014 Helsinki, Finland
+tel. +358-9-191-22224, fax. +358-9-191-22094
+
+
+

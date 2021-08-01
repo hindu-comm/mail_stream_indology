@@ -1,0 +1,28 @@
++++
+title = "101 Mark Allon"
+date = "2016-10-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-October/044290.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-October/044290.html)
+
+Dear all,
+
+Applications are invited for appointment to a five-year contract position of Lecturer in Tibetan Buddhism within the School of Languages and Cultures in the University of Sydney, Australia. The position is being funded by the Khyentse Foundation, the University Buddhist Education Foundation, and the Aberbaldie Foundation.
+
+For further details, see Lecturer in Tibetan Buddhism Ref 1665-1016<http://sydney.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.processJobSearch&jobid=41BC9194-DEB9-45C5-A661-A6960104A63C&CurATC=EXT&CurBID=949319bc%2D8898%2D4f11%2Dac4b%2D9db401358504&jobsListKey=7dcdd450%2De377%2D4dbb%2Da6d4%2D61b73a65b2ae&persistVariables=CurATC,CurBID,jobsListKey&lid=61655630008>
+
+Best wishes
+Mark
+
+Dr Mark Allon
+Chair, Dept. of Indian Subcontinental Studies
+The University of Sydney
+Australia
+mark.allon at sydney.edu.au<mailto:mark.allon at sydney.edu.au>
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161006/1a36826a/attachment.htm>

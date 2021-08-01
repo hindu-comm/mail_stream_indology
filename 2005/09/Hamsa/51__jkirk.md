@@ -1,0 +1,49 @@
++++
+title = "51 jkirk"
+date = "2005-09-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-September/029345.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-September/029345.html)
+
+Not only that, but parallel to the idea that a beautiful woman has the gait 
+of a hamsa (swan or whatever you want), in the Kama Sutra is says the 
+beautiful woman has the gait of an elephant. Perhaps we today do not 
+appraise such gaits as beautiful or charming, but some ancients did. Both 
+goose and elephant are real creatures, not fantastic animals, and I find it 
+a stretch to assume that the hamsa in some classic texts is meant to be a 
+mythical animal. Instead it's a poetic figure, and if it lives in ponds of 
+golden lotuses and has mystical cries, and longs for Lake Manasarovar, so 
+what? That's poetry.
+Joanna Kikrpatrick
+=================================
+
+
+
+>  Hamsa all over again!?
+>
+> Fortunately, I had the hamsa pictures left up on the web
+>
+> http://huntingtonarchive.osu.edu/Hamsa/hamsa%20index.html
+>
+> As one can easily see the early sculptors certainly intended to  portray a 
+> goose
+>
+> John
+>
+>
+> John C. Huntington
+>     (Buddhist Art and Methodologies)
+> The Ohio State University
+===================
+>>>
+>>> A hamsa is neither a swam or a duck but a mythic bird.
+>>>
+>>> Regards.
+>>>
+>>> Harsha
+>>> Prof. Harsha V. Dehejia
+>>> Ottawa, ON. Canada
+
+
+

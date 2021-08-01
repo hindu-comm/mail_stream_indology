@@ -1,0 +1,23 @@
++++
+title = "177 Tenzin Bob Thurman"
+date = "2007-01-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030408.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030408.html)
+
+Hi Patrick,
+happy new year!
+In traditional Tibetan accounts, Nairanjana river is near Bodhgaya, and 
+it is where Siddhartha and five ascetic companions practiced austerities 
+until he abandoned them and they abandoned him and went off to Saranath. 
+He then ate his square meal given by Sujata, washed, clothed himself in 
+the patched and washed shroud rags, and walked to the Bodhi tree for his 
+final day and night of confronting Mara and attaining full 
+enlightenment. Today there is a small stupa at the place, near a dried 
+up riverbed, and many Tibetan prayer flags and a plaque.
+Best
+BOb T
+
+
+

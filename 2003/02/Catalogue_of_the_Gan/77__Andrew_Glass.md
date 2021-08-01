@@ -1,0 +1,30 @@
++++
+title = "77 Andrew Glass"
+date = "2003-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027536.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027536.html)
+
+The British Library/University of Washington Early Buddhist Manuscripts
+Project has made available an electronic catalogue of Gandharan
+inscriptions,
+coins, manuscripts, and secular documents, as well as a bibliography of
+secondary literature and studies relating to Gandhari.
+
+http://depts.washington.edu/ebmp/inscriptions.php
+
+These pages represent a work in progress. Scholars are invited to send in
+additions and corrections to the data in the hopes that this will eventually
+become a comprehensive catalogue of all known materials in and relating to
+the Gandhari language.
+
+Andrew Glass
+Research Assistant
+Dept. of Asian Languages and Literature
+Box 3535321
+University of Washington
+Seattle, WA 98115
+
+
+

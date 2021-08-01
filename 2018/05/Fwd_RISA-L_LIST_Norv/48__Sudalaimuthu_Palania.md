@@ -1,0 +1,55 @@
++++
+title = "48 Sudalaimuthu Palaniappan"
+date = "2018-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047677.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-May/047677.html)
+
+This note from Jack Hawley on Prof. Norvin Hein posted on the RISA list may be of interest to some on this list.
+
+Regards,
+Palaniappan
+
+> Begin forwarded message:
+> 
+> From: Jack Hawley <jsh3 at columbia.edu>
+> Subject: [RISA-L LIST] Norvin Hein
+> Date: May 17, 2018 at 10:11:44 AM CDT
+> To: risa-l <risa-l at lists.sandiego.edu>, dmagier <dmagier at princeton.edu>, suzembree <suzembree at gmail.com>
+> Reply-To: +++RISA ACADEMIC DISCUSSION LIST+++ <risa-l at lists.sandiego.edu>
+> 
+> Dear friends,
+> 
+> In case the news has not reached you, let me take this opportunity to say that Norvin Hein passed away last month at his home in Bethany, Connecticut, not far from Yale, where he was active for many, many years.  There will be a ceremony in Bethany at noon tomorrow, which will include a sharing of food and memories.  Here are some of my own, posted from Vrindavan:
+> 
+> http://www.vrindavantoday.com/2018/05/norvin-heins-life-and-contribution-to-the-study-of-rasa-lila/ <http://www.vrindavantoday.com/2018/05/norvin-heins-life-and-contribution-to-the-study-of-rasa-lila/> .
+> 
+> With thanks and best greetings to all,
+> Jack
+> 
+> -- 
+> John Stratton Hawley 
+> Claire Tow Professor of Religion
+> Barnard College, Columbia University
+> 3009 Broadway
+> New York, NY 10027 USA
+> 
+> Website: www.johnstrattonhawley.org <http://www.johnstrattonhawley.org/>
+> India telephone:  +91 756 754 3989
+> New York telephone: (212) 854-5292
+> Fax: (212) 854-7491
+> Office hours: On leave, 2016-17.
+> E-mail: jsh3 at columbia.edu <mailto:jsh3 at columbia.edu>_______________________________________________
+> PLEASE post to this list ONLY from an email account that has been subscribed.
+> PLEASE use a signature with your full name and institutional affiliation.
+> 
+> RISA-L mailing list
+> RISA-L at lists.sandiego.edu
+> https://lists.sandiego.edu/mailman/listinfo/risa-l
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180517/ea86f062/attachment.htm>

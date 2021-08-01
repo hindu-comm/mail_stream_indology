@@ -1,0 +1,23 @@
++++
+title = "58 Csaba Dezso"
+date = "2013-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-October/038444.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-October/038444.html)
+
+Dear colleagues,
+does anyone happen to have a pdf of Kane's edition of Kaadambarii 
+Puurvabhaaga? The link on archive.org unfortunately leads to a pdf of 
+the Uttarabhaaga. Apparently Kane's Puurvabhaaga was published in two 
+parts, the first corresponding to pp. 1–124 of Petersen's ed., and the 
+second to pp. 124–237 of the same. I am especially interested in the 
+second one.
+Many thanks,
+Csaba Dezso
+Department of Indo-European Linguistics,
+ELTE, Budapest
+
+
+
+

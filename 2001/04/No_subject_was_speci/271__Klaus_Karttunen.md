@@ -1,0 +1,24 @@
++++
+title = "271 Klaus Karttunen"
+date = "2001-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026216.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026216.html)
+
+I would like to add my thanks to those already expressed. Though some of
+the recent debates have been extremely frustrating reading, the list is
+still valuable, for example for the insider questions mentioned. I
+really hope some kind of solution may be found.
+
+Klaus
+
+--
+Klaus Karttunen, Ph.D.
+Docent of Indology and Classical Ethnography
+Institute of Asian and African Studies
+PL 59 (Unioninkatu 38 B), 00014 University of Helsinki, FINLAND
+phone 358-0-19122188, fax 358-0-19122094
+
+
+

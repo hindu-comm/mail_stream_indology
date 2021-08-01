@@ -1,0 +1,4 @@
++++
+title = "Garbha upanishada"
+
++++

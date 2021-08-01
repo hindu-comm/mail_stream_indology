@@ -1,0 +1,20 @@
++++
+title = "17 Juergen Hanneder"
+date = "2002-01-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-January/026555.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-January/026555.html)
+
+Unfortunately this confirms what I had feared, namely that it is not
+at all easy to go from the fairly wide spread varieties of
+WP-solutions for diacritics to PDF. Unless there is a WP wizard who
+can enlighten us, we will have to share documents by using unformated
+text in those mediation codes that are not limited to one platform or
+pogramm, like csx or that of the devnag package - just as in the
+e-text archive(s).
+
+Juergen Hanneder
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "18 Will Tuladhar-Douglas"
+date = "2009-08-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033547.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033547.html)
+
+Victoria,
+
+See the article by William Waldron -
+
+@article{waldron2002dependent, title={{The dependent arising of a  
+cognitive unconscious in Buddhism and science}},
+   author={Waldron, WS},
+   journal={Contemporary Buddhism},
+   volume={3},
+   number={2},
+   pages={141--160},
+   year={2002},
+   publisher={Routledge}
+}
+-WBTD.
+
+On 19 Aug 2009, at 09:13, Viktoria Lyssenko wrote:
+
+> Dear members of the List,
+> I am trying to formulate with some Russian experts in cognitive  
+> sciences a joint project on the theories of perception. Does anybody  
+> know indologists or buddhologists who compared such modern concepts  
+> as "enactive" (F.Varela), or embodied cognition with Indian theoris  
+> of perception in a more or less systematical way?
+> Thanking you in advance,
+> Victoria Lysenko
+> Russian Academy of Sciences
+
+- - -- --- ----- -------- -------------
+Dr. Will Tuladhar-Douglas
+Lecturer in the Anthropology of Environment and Religions
+Scottish Centre for Himalayan Research
+University of Aberdeen				+44 (0)1224 272 274
+
+
+

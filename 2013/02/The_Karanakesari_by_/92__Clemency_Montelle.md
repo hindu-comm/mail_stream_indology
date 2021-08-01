@@ -1,0 +1,43 @@
++++
+title = "92 Clemency Montelle"
+date = "2013-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-February/037490.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-February/037490.html)
+
+Dear List,
+
+I am currently working on an astronomical work written in Sanskrit 
+called the  KaraNakezari by  BhAskara (fl. ca. 1681) with my colleague 
+Kim Plofker.  The work is only 20 verses long; the first verse gives 
+some background on the author and makes reference to his lineage. 
+BhAskara we are told is the son of RAma and is a descendent  from the 
+"family" ("kula") called  KavIndra.
+
+Can anyone recommend any scholarly sources which set out the details 
+surrounding the varna/kula etc hierarchy, or where to find out more (if 
+possible) about the KavIndra kula?
+
+The title of this work is also puzzling; kezarin is of course an 
+adj/noun which means having a mane/a lion (among other meanings), but it 
+could also be a family name, which perhaps it is here.  Is this familiar 
+to anyone?
+
+Many thanks in advance for any help,
+
+Clemency
+
+-- 
+Dr Clemency Montelle
+http://www.math.canterbury.ac.nz/~c.montelle/
+Department of Mathematics and Statistics
+University of Canterbury | Te Whare Wananga o Waitaha
+Private Bag 4800, Christchurch 8140
+New Zealand
+ph +64 3 364 2267   fax +64 3 364 2587
+
+
+
+
+

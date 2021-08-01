@@ -1,0 +1,44 @@
++++
+title = "39 Toke Knudsen"
+date = "2021-03-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-March/054439.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-March/054439.html)
+
+Hi all,
+
+Would anyone happen to have a PDF version of the following edition of the Brahmāṇḍapurāṇa?
+
+The  Brahmāṇḍa Mahāpurāṇa with English Introduction, Verse-Index and Textual Correction
+Editor: K. V. Sharma
+Varanasi: Krishnadas Academy, 2000 (reprint)
+
+A PDF of another edition would work as well.
+
+Alternatively, if anyone has access to the physical book of the above edition, I’m merely looking for a couple of page references.
+
+Many thanks in advance.
+
+Best wishes,
+Toke
+
+-----
+Toke Lindegaard Knudsen, Ph.D.
+
+Associate Professor
+Department of Mathematics, Computer Science, and Statistics
+State University of New York at Oneonta
+
+Affiliated Researcher 
+Department of Cross-Cultural and Regional Studies
+University of Copenhagen
+
+Associate Editor
+Convergence
+https://www.maa.org/press/periodicals/convergence
+
+<toke.knudsen at oneonta.edu>
+
+
+

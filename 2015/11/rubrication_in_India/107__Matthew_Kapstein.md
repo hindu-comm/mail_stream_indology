@@ -1,0 +1,31 @@
++++
+title = "107 Matthew Kapstein"
+date = "2015-11-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-November/042345.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-November/042345.html)
+
+
+Thanks to all for your interventions about this. I had first thought,with Philipp, that rubrication was a rather late development in India, and so it may well be in general. Michael's very helpful link, however, makes clear that relatively  early examples are known, and Patrick's observation about the use of the stylus clarifies why it may not have become widespread.  If there are no instances known from Gilgit or Gandhāra,  might we then reasonably posit that it began to be introduced into scribal practice during only the late first millennium?  All of this uncertain of course.
+
+Ninth century Tibetan mss from Dunhuang are sometimes rubricated. Might Nepal have been influenced by practices up north? What do we know of rubrication  in other central Asian  languages--Tocharian, khotanese etc?
+
+Of course, my purpose in all this is to sort out the possible influences on Tibet. China remains a prime suspect, but not the only one.
+
+Best,
+Matthew 
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+__
+
+
+
+
+

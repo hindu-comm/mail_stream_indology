@@ -1,0 +1,92 @@
++++
+title = "33 Gérard Huet"
+date = "2007-01-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030454.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030454.html)
+
+Dear colleague,
+
+I am by profession a computer scientist and logician. For the last 5  
+years, I have been working
+in computational linguistics for the Sanskrit language. This has  
+resulted in a Web site with various
+Web services for Sanskrit linguistics, at http://sanskrit.inria.fr/
+This effort is still going on.
+Various publications pertaining to this research have been published,  
+please refer to my publications
+page http://pauillac.inria.fr/~huet/bib.html at items [78], [84] to  
+[89] and [92].
+
+I hope these informations are of help to your survey
+Best regards
+G. Huet
+
+
+
+Le 24 janv. 07 à 15:19, John Peterson a écrit :
+
+> Dear colleagues,
+>
+> I am presently preparing the regional report for Europe for the  
+> upcoming
+> issue of "The Yearbook of South Asian Languages and Lingusitics",  
+> edited
+> by Rajendra Singh. This edition of the "Regional Report - Europe"  
+> is to
+> contain information on ALL linguistic work published since 2004 by  
+> authors
+> working at a European institution or residing in Europe (similar  
+> reports
+> are being done for other parts of the globe) and is intended to  
+> document
+> the extent and variety of work done during this period.
+>
+> Although such a regional report can probably never really be fully
+> exhaustive, I would like to cover as much work from as many  
+> scholars as
+> possible and to overlook as little as possible. I would therefore be
+> interested in hearing from anyone working in Europe on ANY aspects of
+> South Asian languages about their work. This includes work on any
+> language, language family or linguistic isolate spoken in South  
+> Asia (or
+> previously spoken in South Asia) from any of the following areas:
+>
+> - Descriptive linguistics
+> - Historical linguistics
+> - Theoretical linguistics
+> - Phonetics / Phonology
+> - Typological studies
+> - Sociolinguistics
+> - Psycholinguistics
+> - Areal studies
+> - Computer linguistics
+>
+> and much, much more!
+>
+> Any information you could share with me on your own work or that of  
+> your
+> colleagues would greatly be appreciated!
+>
+> All the best,
+> John
+>
+> (Unfortunately, for reasons of space, I won't be including reviews  
+> in the
+> report, sorry!)
+>
+> -- 
+> John Peterson
+> FB 7, Sprachwissenschaft
+> Universität Osnabrück
+> D-49069 Osnabrück
+> Germany
+> Telephone: (+49) (0)541-969 4252
+> Telefax: (+49) (0)541-969 4256
+> Homepage: http://www.SouthAsiaBibliography.de/
+>
+>
+
+
+

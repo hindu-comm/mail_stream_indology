@@ -1,0 +1,52 @@
++++
+title = "13 Dominic Goodall"
+date = "2006-04-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-April/029764.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-April/029764.html)
+
+Dear Colleagues,
+
+This is to announce our tardy "2005" publication on "Saiva  
+iconography/visualisation:
+
+"The Pancavaranastava of Aghorasivacarya. A twelfth-century South  
+Indian prescription for the visualisation of Sadasiva and his retinue."
+
+Editors: Dominic Goodall, Nibedita Rout, R. Sathyanarayanan, S.A.S.  
+Sarma, T. Ganesan, S. Sambandhasivacarya.
+Collection indologie 102. Pondicherry: Institut Français de  
+Pondichéry / Ecole française d'Extrême-Orient, 2005.
+
+237 p. + 26 p. illustrations.
+
+The volume presents a critical edition of a once celebrated  
+liturgical hymn in 100 verses by Aghora"siva.  That 12th-century  
+theologian of Chidambaram is well-known both for his commentaries and  
+for his ritual manuals: the M.rgendrapaddhati and the  
+Kriyaakramadyotikaa.  The latter, completed in 1157 AD, remains one  
+of the principal authorities for the performance of ritual in South  
+Indian "Saiva temples today.
+
+In his Pa~ncaavara.nastava, “Praise of the Five Circuits”,  
+Aghora"siva shows how the central deity of the "Saiva Siddhaanta  
+should be visualised in worship. The initiate should see the benign,  
+white, consortless, 5-faced and 10-armed Sadaa"siva enthroned on an 8- 
+petalled lotus.  Arranged around him in 5 concentric rings are  
+anthropomorphic forms of the 11 mantras that are his heads and body- 
+parts, then 8 souls that administer the universe, then 8 members of  
+his family, the 10 divinities that protect the directions, and  
+finally the anthropomorphised weapons of those protectors.
+
+Annotation and a selection of photographs accompany the text.
+
+
+Dominic Goodall
+Head,
+Pondicherry Centre,
+Ecole française d'Extrême-Orient,
+Pondicherry
+
+
+

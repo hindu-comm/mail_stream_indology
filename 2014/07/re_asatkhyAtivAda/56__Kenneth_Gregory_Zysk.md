@@ -1,0 +1,49 @@
++++
+title = "56 Kenneth Gregory Zysk"
+date = "2014-07-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039756.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-July/039756.html)
+
+Dear Michael,
+
+As I recall, Gerry Larson is quite knowledgeable on the subject. I have not heard from him in some years, but I think that he is still in or around Santa Barbara.
+Try to contact him via UCSB.
+Best,
+Ken
+
+Kenneth Zysk, PhD, DPhil
+Head of Indology
+Department of Cross-Cultural and Regional Studies
+University of Copenhagen
+Karen Blixens Vej 4, Bygn. 10, 
+DK-2300 Copenhagen S Denmark
+Ph: +45 3532 8951 Email: zysk at hum.ku.dk
+Phone in India: 919767611292
+
+
+-----Original Message-----
+From: INDOLOGY [mailto:indology-bounces at list.indology.info] On Behalf Of Michael Williams
+Sent: 25. juli 2014 10:25
+To: indology at list.indology.info
+Subject: [INDOLOGY] asatkhyātivāda
+
+Dear list members,
+
+I am currently becoming more interested in the doctrine of asatkhyātivāda and its critique by later Brahmanical thinkers. The primary sources I have read (e.g., Vācaspati and Citsukha) present it in a confused and rather unconvincing way, and the secondary sources I have seen are threadbare.
+Does anyone know of a good specialist study of this doctrine and its origins?
+
+Many thanks,
+
+Michael Williams,
+University of Vienna.
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+http://listinfo.indology.info
+
+
+

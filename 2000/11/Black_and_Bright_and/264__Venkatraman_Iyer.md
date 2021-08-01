@@ -1,0 +1,38 @@
++++
+title = "264 Venkatraman Iyer"
+date = "2000-11-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023839.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023839.html)
+
+On Sun, 12 Nov 2000 04:44:16 -0800, Ven. Tantra <troyoga at YAHOO.COM> wrote:
+
+ >BTW, I for one have personally witnessed people of
+ >both African and Southern Indian origin that had
+ >complexions so black that they were blue. I would add
+ >that I found these remarkable countenances to be
+ >equally radiant and beautiful
+
+
+Thanks for your nice observation. In Tamil, 'karuppu' and
+'nalla' are used in common names for people. DEDR lists
+'al' (=night) from 'nalla'. Iravatham Mahadevan has an
+article describing how 'nalla' means 'black' in many
+situations.
+
+When Tamils refer to African people as "karuppar",
+it just means Blacks, and they do not assign any
+negative cannotations to it. Otherwise, will they
+themselves name their children as karuppu-/nalla-?
+
+Best wishes,
+V. Iyer
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

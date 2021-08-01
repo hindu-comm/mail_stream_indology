@@ -1,0 +1,14 @@
++++
+title = "76 Professor D N Jha"
+date = "2000-08-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022264.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022264.html)
+
+Dear List Members,
+Is it possible to trace the earliest dharmasastric mention of pancagavya? If the five products of the cow can be puricants, why not those of the buffalo? As far as I know (I may be wrong, though!) that taxonomically the meat of the cow cannot be separated from that of the buffalo.
+D.N.Jha
+
+
+

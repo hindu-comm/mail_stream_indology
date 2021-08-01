@@ -1,0 +1,42 @@
++++
+title = "69 Luis Gonzalez-Reimann"
+date = "2000-12-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024177.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024177.html)
+
+The Indologist mentioned in the PBS program is Walther Wust.  The narrator
+of the program comments on his speech to the SS in March, 1937, in Munich.
+The ideas of Wust, including the speech mentioned in the PBS program, are
+discussed in pp. 89-91 of:
+
+Pollock, Sheldon. 1993. Deep Orientalism?: Notes on Sanskrit and Power
+Beyond the Raj. In Orientalism and the Postcolonial Predicament:
+Perspectives on South Asia, eds. Carol A. Breckenridge and Peter van der
+Veer, 77-133. South Asia Seminar Series. Philadelphia: University of
+Pennsylvania Press. Papers presented at the 44th Annual South Asia Seminar
+held at the University of Pennsylvania, 1988/1989.
+
+Best,
+
+Luis Gonzalez-Reimann
+University of California, Berkeley
+
+
+At 01:43 PM 12/01/2000 -0800, you wrote:
+>There was a PBS program. I think the British narrator Michael Wood (1948-),
+>producer of Legacy produced this. On Arians and Nazi Germany.
+>
+>There was a mention about a top Indologist speaking before Hitler,
+>Himmler and other elite leaders of 1930-40s Germany proclaiming that
+>Hitler's book and the teachings of the Buddha are very similar
+>or same...
+>
+>Who was that famous Indologist?
+>
+>Thanks,
+>SM
+
+
+

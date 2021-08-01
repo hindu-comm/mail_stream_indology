@@ -1,0 +1,20 @@
++++
+title = "88 Stephen Hodge"
+date = "2003-01-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-January/027448.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-January/027448.html)
+
+Dear Richard,
+
+Thanks for making the Monier-Williams Lexicon as well as other texts
+available to us. I look forward to any further texts you may generously
+choose to share with others.  However, just one small point -- you have a
+Read Me file giving instructions about unpacking the archive.  However since
+it is included in the archive itself, it seems rather superfluous because,
+by the time you get access to it, you have already unzipped the files.  It
+would have helped me if I had been able to read it first.
+
+
+

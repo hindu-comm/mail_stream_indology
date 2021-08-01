@@ -1,0 +1,33 @@
++++
+title = "104 John Brockington"
+date = "2021-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-March/054429.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-March/054429.html)
+
+Dear Colleagues,
+
+The most recent issue of the journal /Purāṇa/ of which I am aware is 
+volume 49 (2007). Does anyone have firm information about whether any 
+later volumes have been published or whether it has ceased publication. 
+Also, I am particularly interested in two articles in vol. 45 (2003), 
+those by Bob Goldman and by Sally Sutherland Goldman; if anyone has PDFs 
+of these I should be grateful to receive them.
+
+Best wishes
+
+John
+
+
+Professor J.L. Brockington
+113 Rutten Lane
+Yarnton
+Kidlington 0X5 1LT
+tel: 01865 849438
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210322/c9978318/attachment.htm>

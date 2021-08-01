@@ -1,0 +1,44 @@
++++
+title = "14 Vidyasankar Sundaresan"
+date = "2000-04-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/020921.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/020921.html)
+
+>I have a very naive question about the Indian ascetics: we see on many
+>photographs of Indian streets naked mendicant ascetics coated with ash,
+>etc.  Do these people belong to some particular sect?  Can we say that most
+>of them belong to the Naatha sect, for example?
+
+Not without looking for more specific signs. Most of the naked mendicants
+coated with ash and with matted hair would be Naga sannyasis. However, this
+is nothing more than giving a name to a thing, because the word Naga comes
+from nagna = naked. For assigning a sect affiliation more specifically, you
+have to look for things such as whether they wear earrings (and what kind),
+whether they have specific marks on their foreheads, whether they carry a
+human skull with them or not, whether they smoke derivatives of cannabis or
+not, whether they cry out "Alakh Niranjan" or "Jai Bholenath". If you were
+to go ask those who maintain and study at the Nathpanthi monasteries, they
+will disclaim any affiliation with the vast majority of the street
+mendicants.
+
+Nowadays, a safe bet would be that the greater portion of such people on the
+streets simply represents a homeless population without any great
+personal/religious compulsion to have become a monk. Their sectarian
+affiliations are strictly udara-nimitta. They are quite likely to be people
+who have migrated into towns and cities in search of employment, but who
+have found being a mendicant a better business proposition. Pictures of such
+mendicants are v. popular, especially if they are taking in a deep whiff
+from a chillum or a hookah. It creates a picture of Hinduism/India as still
+wholly exotic and very mysterious. And this is not limited to producers of
+tourist literature. You will rarely see pictures of the Sankaracharyas or
+the Srivaishnava Jeers or the Mahants of other orders. Contrast that with
+nice glossy pictures of the Dalai Lama in books on Buddhism!
+
+Vidyasankar
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

@@ -1,0 +1,49 @@
++++
+title = "97 Richard MAHONEY"
+date = "2009-07-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-July/033442.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-July/033442.html)
+
+Dear Colleagues,
+
+Lariviere's Nāradasmṛti is now available through SARIT. The table of
+contents is here:
+
+http://bit.ly/1n88AN
+
+Downloads are in the usual formats, HTML, PDF & PostScript:
+
+http://bit.ly/YYga5
+
+Bibliographic notes can be found here:
+
+http://bit.ly/kWBP5
+
+
+The encoding and distribution of this text is possible due to the
+support of The British Association for South Asian Studies.
+
+
+If any readers would like to support the encoding of additional texts
+please feel free to approach us.
+
+
+
+Best regards,
+
+ Richard Mahoney
+
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 275 829 986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+

@@ -1,0 +1,43 @@
++++
+title = "76 Dominik Wujastyk"
+date = "2002-10-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-October/027192.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-October/027192.html)
+
+Readers of this list will have heard from a posting yesterday that one of
+our Sanskritist colleagues, Yigal Bronner, has taken a principled position
+regarding military service and, as expected, is being punished for this by
+the Israeli state.
+
+However, the situation has developed in a manner which may contain
+elements of impropriety on the part of the state or its representatives,
+and the conditions in which Yigal is being held may not be those normal or
+appropriate for someone in his position.  It seems to me that this is
+likely to be connected to his ability to articulate his ideas and
+arguments particularly clearly and forcefully, and to distribute them to
+an international audience of colleagues, a skill directly connected to his
+status as an intellectual and a scholar.  This matter therefore touches
+all of us to some extent.
+
+The INDOLOGY list is not the appropriate forum for a discussion of these
+very important matters.  However, I have made such information as is
+available to me public on the INDOLOGY website,
+
+        http://www.indology.org.uk
+
+under "Important position or review papers on indological topics".
+
+If INDOLOGY members wish to discuss this matter, it would be appropriate
+for someone to create a group for this purpose at
+        http://www.yahoogroups.com
+or some similar service.
+
+
+
+--
+Dominik Wujastyk
+
+
+

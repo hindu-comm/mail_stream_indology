@@ -1,0 +1,55 @@
++++
+title = "01 Arlo Griffiths"
+date = "2003-05-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-May/027679.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-May/027679.html)
+
+----------
+From: "Mark Turin" <markturin at compuserve.com>
+Date: Wed, 30 Apr 2003 00:02:44 -0400
+To: Undisclosed-Recipient:;
+Subject: Kailash Journal digitised and online - Volume 1, Number 1
+
+Ithaca, NY
+29 April, 2003
+
+Dear Friends and Colleagues,
+
+As part of the Digital Himalaya Project, we continue to experiment with
+making archival resources on the Himalayan region available to a wider
+audience. While our previous forays have been into film and photography,
+the Digital Himalaya team have now successfully digitised Volume 1,
+Number 1 (1973) of KAILASH  - Journal of Himalayan Studies. The articles
+from this volume are now freely downloadable as PDF documents.
+
+Click the link below and then on the yellow link labelled NEW in the
+middle of the page:
+
+<http://www.digitalhimalaya.com/>
+
+Please take a moment to view the page and forward this email to your
+friends and colleagues in the Himalayan studies community.
+
+Good wishes,
+
+--
+
+Mark Turin
+Director
+Digital Himalaya Project
+Department of Anthropology
+Cornell University
+260 McGraw Hall
+Ithaca, NY 14853-4601
+USA
+
+fax: 607-255-3747
+
+email: mt272 at cornell.edu
+url: <www.digitalhimalaya.com> and <www.thdl.org>
+url personal: <www.iias.nl/host/himalaya/turin.html>
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "15 Lars Martin Fosse"
+date = "2005-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-July/029250.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-July/029250.html)
+
+Heartfelt thanks to those of you who answered my query! I got some very
+useful information. I was unaware of the Bibliography of Asian Studies
+Online, but I should be able to access it from my university computer - it
+doesn't work from home without paying 75 dollars. 
+
+Best regards,
+
+Lars Martin
+
+
+
+From: 
+Dr.art. Lars Martin Fosse 
+Haugerudvn. 76, Leil. 114, 
+0674 Oslo - Norway 
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250 
+Mobile phone: +47 90 91 91 45 
+E-mail: lmfosse at chello.no 
+http://www.linguistfinder.com/translators.asp?id=2164
+
+
+
+
+

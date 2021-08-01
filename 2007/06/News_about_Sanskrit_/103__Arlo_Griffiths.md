@@ -1,0 +1,59 @@
++++
+title = "103 Arlo Griffiths"
+date = "2007-06-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030811.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030811.html)
+
+Regarding Universities in the Netherlands:
+
+The name of the dept. in Leiden is best given as: Kern Institute /  
+Dept. of Indian and Tibetan Studies. The link ought to be to   
+<www.kerninstitute.leidenuniv.nl>.
+
+Summer Sanskrit courses are also offered in Leiden: <http:// 
+www.letteren.leidenuniv.nl/summerschools/index.php3?m=&c=17>.
+
+The institute in Groningen is called Institute for The Institute of  
+Indian Studies, <www.rug.nl/india>.
+
+The International Institute for Asian Studies is neither a  
+University, nor does it deal in Sanskrit learning.
+
+Arlo Griffiths
+
+PS There must be many more Italian Universities that could be  
+included in your list. France seems to be entirely missing, but in  
+fact Sanskrit learning is offered there at numerous Universities or  
+other academic institutions. Other missing European countries that  
+come to mind are Croatia, the Czech Republic, Hungary, Poland, ...
+
+On Jun 2, 2007, at 9:00 PM, Pankaj Jain wrote:
+
+> http://www.rediff.com/news/2007/jun/01arthur.htm
+> (Includes interview with Prof Robert Goldman)
+> And here is an updated list of universities offering Sanskrit  
+> learning all
+> over the world:
+> http://myweb.uiowa.edu/pjai/Sanskrit/SanskritStudies.htm
+> (Adapted and expanded from Prof. Gudrun Buhnemann's website at  
+> University of
+> Wisconsin-Madison)
+>
+> Best,
+> Pankaj Jain
+> Edison, New Jersey
+> Uiowa, Rutgers, NJCU
+> http://myweb.uiowa.edu/pjai
+
+Instituut Kern, Universiteit Leiden
+Postbus 9515
+2300 RA Leiden, the Netherlands
+
+phone: +31-(0)71-5272622
+fax: +31-(0)71-5272956
+email: <arlo.griffiths at let.leidenuniv.nl>
+
+
+

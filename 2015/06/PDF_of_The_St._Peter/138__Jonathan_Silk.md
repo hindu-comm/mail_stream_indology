@@ -1,0 +1,162 @@
++++
+title = "138 Jonathan Silk"
+date = "2015-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041304.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-June/041304.html)
+
+another metaphor? Like 'drink the koolaid'? ;)
+
+On Mon, Jun 15, 2015 at 4:22 PM, Franco <franco at uni-leipzig.de> wrote:
+
+> Sorry guys. I'd better not even begin to explain. But in case you are
+> curious, we ended up not buying the washing machine.
+>
+> Sent from my iPad
+>
+> On 15 Jun 2015, at 16:15, David and Nancy Reigle <dnreigle at gmail.com>
+> wrote:
+>
+> Regarding this hermeneutical puzzle: I thought Eli's message was a veiled
+> reference to the famous TED Talk by Hans Rosling, "The Magic Washing
+> Machine":
+> http://www.ted.com/talks/hans_rosling_and_the_magic_washing_machine?language=en
+>
+> We cannot be sure, however, that the Ajitasenavyākaraṇa was one of the
+> books that Hans pulled out of the washing machine at the end.
+>
+> Best regards,
+>
+> David Reigle
+> Colorado, U.S.A.
+>
+> On Mon, Jun 15, 2015 at 3:14 AM, Jonathan Silk <kauzeya at gmail.com> wrote:
+>
+>> I began to wonder about the connection between the Ajitasenavyākaraṇa and
+>> a washing machine ... until I realized that Eli must have missent his
+>> message.
+>> But I'm delighted in the hermeneutical puzzle this will present to future
+>> philologists (yes, I used this expression on purpose ;)
+>>
+>> jonathan
+>>
+>> On Mon, Jun 15, 2015 at 11:12 AM, Eli Franco <franco at uni-leipzig.de>
+>> wrote:
+>>
+>>>
+>>> Thank you. I am relieved. Must buy a washing machine. See you later,
+>>> love, E.
+>>>
+>>> Zitat von Seishi Karashima <skarashima at gmail.com>:
+>>>
+>>>  Dear colleagues:
+>>>>
+>>>> We are happy to announce that a PDF file of the first volume of *The St.
+>>>> Petersburg Sanskrit Fragments* (StPSF), ed. by Seishi Karashima and
+>>>> Margarita I. Vorobyova-Desyatovskaya, Tokyo 2015: The Institute of
+>>>> Oriental
+>>>> Manuscripts of the Russian Academy of Sciences (= IOM RAS) and The
+>>>> International Research Institute for Advanced Buddhology (= IRIAB), Soka
+>>>> University, 545 pages + 123 plates, ISBN978-4-904234-11-2, is now
+>>>> available
+>>>> on the following websites:
+>>>>
+>>>>
+>>>>
+>>>> http://orientalstudies.ru/eng/index.php?option=com_publications&Itemid=75&pub=1501
+>>>>
+>>>> http://iriab.soka.ac.jp/orc/Publications/StPSF/index_StPSF.html
+>>>>
+>>>>
+>>>> *Table of contents*
+>>>>
+>>>> Foreword by Irina F. Popova vii
+>>>>
+>>>> Preface by Margarita I. Vorobyova-Desyatovskaya ix
+>>>>
+>>>> The *Śārdūlakarṇāvadāna* from Central Asia by Tensho Miyazaki, Jundo
+>>>> Nagashima, Tatsushi Tamai and Zhou Liqun 1
+>>>>
+>>>> The *Ajitasenavyākaraṇa* Manuscripts from Central Asia and Gilgit by
+>>>> Jiro
+>>>> Hirabayashi, William B. Rasmussen and Safarali Shomakhmadov  85
+>>>>
+>>>> The *Avadāna* Anthology from Merv, Turkmenistan by Seishi Karashima and
+>>>> Margarita I. Vorobyova-Desyatovskaya 145
+>>>>
+>>>> The *Mahāparinirvāṇa-mahāsūtra* Fragments in the Petrovsky Collection
+>>>> (1)
+>>>> by Hiromi Habata 525
+>>>>
+>>>> Postscript by Seishi Karashima 543
+>>>>
+>>>> Plates 1~123
+>>>>
+>>>>
+>>>> Seishi Karashima
+>>>>
+>>>> IRIAB, Soka University, Tokyo
+>>>>
+>>>
+>>>
+>>> --
+>>> Prof. Dr. Eli Franco
+>>> Institut für Indologie und Zentralasienwissenschaften
+>>> Schillerstr. 6
+>>> 04109 Leipzig
+>>>
+>>> Ph. +49 341 9737 121, 9737 120 (dept. office)
+>>> Fax +49 341 9737 148
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing
+>>> committee)
+>>> http://listinfo.indology.info (where you can change your list options
+>>> or unsubscribe)
+>>
+>>
+>>
+>>
+>> --
+>> J. Silk
+>> Leiden University
+>> Leiden University Institute for Area Studies, LIAS
+>> Matthias de Vrieshof 3, Room 0.05b
+>> 2311 BZ Leiden
+>> The Netherlands
+>>
+>> copies of my publications may be found at
+>> http://www.buddhismandsocialjustice.com/silk_publications.html
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+http://www.buddhismandsocialjustice.com/silk_publications.html
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150615/94da30ba/attachment.htm>

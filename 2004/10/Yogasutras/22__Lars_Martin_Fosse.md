@@ -1,0 +1,31 @@
++++
+title = "22 Lars Martin Fosse"
+date = "2004-10-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-October/028648.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-October/028648.html)
+
+Dear members of the list,
+
+I friend has asked me if there is an edition of Patanjali's Yogasutras with
+the skt. text and an English translation available. She is of course looking
+for the best edition of this kind. Any suggestions?
+
+Best regards,
+
+Lars Martin Fosse
+
+
+
+
+From:
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo - Norway
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250
+Mobile phone: +47 90 91 91 45
+E-mail: lmfosse at chello.no
+
+
+

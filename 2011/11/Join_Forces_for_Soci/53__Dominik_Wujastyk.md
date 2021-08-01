@@ -1,0 +1,36 @@
++++
+title = "53 Dominik Wujastyk"
+date = "2011-11-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-November/036019.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-November/036019.html)
+
+There's a petition addressed to the European Commissioner for Research and
+Innovation, aimed at encouraging the EU's biggest research funding body to
+offer more support for research in the humanities and social sciences.
+
+More background here:
+www.eash.eu/openletter2011/index.php?file=background.htm
+
+Main website here: http://www.eash.eu/openletter2011
+
+I've signed.
+
+Best,
+--
+Dr Dominik Wujastyk
+Department of South Asia, Tibetan and Buddhist Studies,
+University of Vienna,
+Spitalgasse 2-4, Courtyard 2, Entrance 2.1
+1090 Vienna
+Austria
+Project <http://www.istb.univie.ac.at/caraka/> | home
+page<http://www.academia.edu/DominikWujastyk>|
+PGP <http://wujastyk.net/pgp.html> | Free Dropbox account
+<https://www.dropbox.com/referrals/NTIzNzI2MTY5>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20111110/adb46fba/attachment.htm>

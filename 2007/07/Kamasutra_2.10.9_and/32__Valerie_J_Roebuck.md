@@ -1,0 +1,38 @@
++++
+title = "32 Valerie J Roebuck"
+date = "2007-07-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-July/030980.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-July/030980.html)
+
+It's a mistake, but the confusion arises because she and the Pleiades 
+(kRttikA) were the wives of the  7 RSis. The other 6 were banished to 
+the far side of the sky for a lapse in chastity involving Agni 
+(disguised as their husbands). ArundhatI saw through his disguise and 
+remained faithful, which is why she's still beside her husband in the 
+Great Bear.
+
+For someone with very good eyesight (and clear skies) the Pleiades 
+group is shaped rather like a miniature version of the Seven 
+RSis/Great Bear/Big Dipper. I wonder whether this is how the myth 
+arose?
+
+For just about everything else you might want to know about the Seven 
+RSis and their families, see:
+
+Mitchiner, J. E. Traditions of the Seven RSis.  Delhi: Motilal 
+Banarsidass, 1982.
+
+Valerie J Roebuck
+
+At 12:08 pm +0200 11/7/07, Lars Martin Fosse wrote:
+
+>....
+>Could any of you explain to me why Mylius and Doniger translate ArundhatI
+>with the Pleiades? I assume that there must be a reason, but it escapes me.
+>
+>Lars Martin Fosse
+
+
+

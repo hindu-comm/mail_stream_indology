@@ -1,0 +1,47 @@
++++
+title = "105 McComas Taylor"
+date = "2014-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-November/040287.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-November/040287.html)
+
+>From our wonderful student Martin Gluckman of the Vadic Society in Auroville:
+
+
+--
+
+
+We've completed the next small work to make the Vedic Grammar for Students available as an online reference, you can enjoy it here:
+
+http://vedicgrammar.vedicsociety.org.in/
+
+We've also made a link where you can compare classical to Vedic on one screen:
+
+http://sanskritdictionary.com/comparative-grammar/
+
+It's quite useful as mostly the paragraphs correspond in the two grammars so you can easily infer the differences.
+
+...
+
+Kindest Wishes,
+
+Martin
+
+
+
+________________________________
+McComas Taylor
+Head, Department of South and Southeast Asian Studies, CHL, CAP
+The Australian National University
+Tel. + 61 2 6125 3179
+Website: https://sites.google.com/site/mccomasanu/
+Address: Baldessin Building 4.24, ANU, ACT 0200
+________________________________
+Test drive our new 'Joy of Sanskrit' electronic text book<http://press.anu.edu.au/titles/anu-etext/the-joy-of-sanskrit/>.
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141127/3afbcbe8/attachment.htm>

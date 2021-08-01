@@ -1,0 +1,18 @@
++++
+title = "146 Jonathan Peterson"
+date = "2020-06-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-June/052715.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-June/052715.html)
+
+The University of Toronto’s library system has contributed nearly 215,000 titles from their collections to the Internet Archive project. The library has devoted a sizable area of the John P. Robarts Library's 7th floor to the ongoing scanning and digitization of material. Curious about metadata problems with their digitized Sanskrit collection, I spoke a few years ago to a librarian who liaises between Robarts and Internet Archive. If I recall correctly, they mentioned that the metadata for their digital collection on Archive.org<http://Archive.org> is drawn directly from the UToronto library system itself. Due to staffing, budget, and expertise constraints, there is little scope for correcting metadata on a mass scale. Doing so, they emphasized, would require a cumbersome process of first correcting data on library-side AACR2/RDA listings, which would then be used to update Archive.org<http://Archive.org>.
+
+With best wishes,
+Jonathan Peterson
+University of Toronto
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200606/3777954e/attachment.htm>

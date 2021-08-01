@@ -1,0 +1,49 @@
++++
+title = "21 Bindu Bhat"
+date = "2003-08-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-August/027832.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-August/027832.html)
+
+Patrick,
+I am no scholar when it comes to numismatics. However, the following
+website seems to have some good references. Hope it helps.
+
+http://www.med.unc.edu/~nupam/ancient1.html
+
+Bindu
+
+
+--On 07 ????? 2003 09:40 -0500 Patrick Olivelle <jpo at UTS.CC.UTEXAS.EDU>
+wrote:
+
+> Friends:
+>
+> Sorry if this reaches you twice through Indology and ScholarlyServices.
+>
+> I have a question regarding the earliest issuance of gold coins in
+> India. My expertise in numismatics is non-existent, but I hope there
+> will be some among you out there in cyberspace who can throw some
+> light on this (preferably with some biblio references). I gather from
+> some experts that the earliest extant cold coins in India (that is
+> coins that have been found by archaeologists) goes back only to the
+> Kushana period. Do you know of any that go further back?
+>
+> And are there any unambiguous references to gold coins in literature
+> from an earlier period? The mere mention of hiranya or suvarna may
+> not mean much, because the terms may simply refer to gold, gold
+> ornaments, precious substances, etc. The Arthasastra does not seem to
+> have any unambiguous reference to gold coins; in fact gold minting is
+> not mentioned in its section on minting. Manu has several unambiguous
+> references to gold coins (see 8.213, 361, possible  also 8.393 gold
+> masaka) coins. If we can pin down the issue of gold coins in
+> archaeology, then may be this could be one factor in determing the
+> age of a text.
+>
+> Thank you for your help.
+>
+> Patrick Olivelle
+
+
+

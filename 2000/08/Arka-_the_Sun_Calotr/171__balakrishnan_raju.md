@@ -1,0 +1,28 @@
++++
+title = "171 balakrishnan raju"
+date = "2000-08-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022382.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022382.html)
+
+Dear Indology Members,
+Bhagavad Purana mentions 'arka' to be 'belonging to or relating to Sun' and
+for that reason Karna is called 'arki'.Varaha-mihira's Brihajjataka explains
+'arka' as 'coming from the plant Calotropis Gigantea (erukku/erukkalai in
+Tamil).
+Could any one kindly clarify as to whether there is any occurance of term
+arka in association with either the Sun or Calotropis Gigantea in Vedic
+Literature?
+
+Thanking You all
+
+Regards,
+
+R.Balakrishnan
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

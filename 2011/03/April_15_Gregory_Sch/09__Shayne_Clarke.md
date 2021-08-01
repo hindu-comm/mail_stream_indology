@@ -1,0 +1,53 @@
++++
+title = "09 Shayne Clarke"
+date = "2011-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-March/035275.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-March/035275.html)
+
+Dear colleagues,
+
+The University of Toronto/McMaster University Yehan Numata Buddhist Studies Program is pleased to announce a free, public lecture by Professor Gregory Schopen (UCLA): “The Limited Reach of Religious Doctrine: Debt, Slavery, and Who could Become a Buddhist Nun (or Monk) in Early India.”
+
+Time and date: 5 pm, April 15, 2011
+
+Place: Muzzo Family Alumni Hall 100, University of St. Michael’s College, St. Joseph Street, Toronto
+Sponsored by the University of Toronto/McMaster University Yehan Numata Buddhist Studies Program
+
+Professor Gregory Schopen (MA McMaster University, 1975; PhD ANU, 1979) has taught at the Universities of Michigan, Washington, Indiana, Texas, Stanford, and California. He was awarded a prestigious MacArthur “genius” fellowship (1985-1990) in recognition of his work in Buddhist Studies, which has been described as “Unquestionably the freshest, most exciting scholarship to have emerged in the field in half a century.” Professor Schopen’s numerous publications include:
+
+• Bones, Stones and Buddhist Monks. University of Hawai’i Press, 1997.
+• Buddhist Monks and Business Matters. University of Hawai’i Press, 2004.
+• Figments and Fragments of Mahāyāna Buddhism in India. University of Hawai’i Press, 2005.
+
+For more information, contact Shayne Clarke: clarsha at mcmaster.ca
+
+http://buddhiststudies.chass.utoronto.ca/gregory-schopen/
+
+
+Please circulate widely.
+
+Sincerely,
+Shayne Clarke
+
+-------------------
+
+Shayne Clarke
+Department of Religious Studies
+McMaster University
+University Hall, Room 104
+1280 Main Street West
+Hamilton, Ontario
+L8S 4K1
+CANADA
+Phone: 905 525 9140, ext. 23389
+Fax: 905 525 8161
+clarsha[at]mcmaster.ca
+http://socserv.mcmaster.ca/clarsha/
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110317/319cd615/attachment.htm>

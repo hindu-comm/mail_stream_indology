@@ -1,0 +1,18 @@
++++
+title = "284 Dmitry Olenev"
+date = "2000-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024417.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024417.html)
+
+Dear members of the list,
+
+is anybody of you aware of a translation of Nageza's "SphotavAda" into any European language(s)? The text was twice published, in the Adyar Library Bulletin and as a separate edition by V. Krishnamacharya, who also added  his own commentary Subodhini, in 1946. Its summary is available in the fifth volume of Encylopaedia of Indian philosophies (1990).
+
+Very grateful in advance,
+sincerely yours,
+Dmitry Olenev
+
+
+

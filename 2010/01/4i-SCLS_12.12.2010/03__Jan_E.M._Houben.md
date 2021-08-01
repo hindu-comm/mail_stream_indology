@@ -1,0 +1,34 @@
++++
+title = "03 Jan E.M. Houben"
+date = "2010-01-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033937.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033937.html)
+
+Dear indologist
+
+
+
+The 4th International International Sanskrit Computational Linguistics
+Symposium (4i-SCLS) will take place at the Jawaharlal Nehru University, New
+Delhi, India from 10-12 December, 2010. You are requested to advertise this
+at your institutes and circulate it to other insterested scholars. The
+details can be found at the seminar website
+http://sanskrit.jnu.ac.in/conf/4iscls/index.jsp
+
+
+
+
+Dr. Girish Nath Jha
+Associate Professor, Computational Linguistics
+Special Center for Sanskrit Studies,
+J.N.U., New Delhi - 110067
+http://www.jnu.ac.in/faculty/gnjha
+http://sanskrit.jnu.ac.in
+ph.26741308 (o)
+
+-
+
+
+

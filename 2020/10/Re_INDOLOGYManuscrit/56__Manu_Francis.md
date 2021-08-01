@@ -1,0 +1,41 @@
++++
+title = "56 Manu Francis"
+date = "2020-10-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-October/053508.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-October/053508.html)
+
+Dear Colleagues,
+
+I transfer hereby a query from my colleague Catherine Borot Alcantara
+(cc-ed), who found a palm-leaf manuscript in the collections of the Musée
+Guédon de Pouilly sur Loire.
+It is beyond my field of expertise, but I trust that it is not for many
+among you.
+My colleague is interested in any information about its script, language,
+date, content, etc.
+Here are pictures:
+https://www.dropbox.com/sh/cp3imrn20uiqqqt/AAB_r34QIE32-wM53SABNsCMa?dl=0
+
+The goal is to "valoriser" (as we say in French) this object.
+Any information will be much appreciated and further collaboration on the
+description and "valorisation" of the manuscript is open.
+
+Yours with very best wishes.
+
+Emmanuel FRANCIS <http://ceias.ehess.fr/index.php?1725>
+Chargé de recherche CNRS, Centre d'études de l'Inde et de l'Asie du Sud
+<http://ceias.ehess.fr/> (UMR 8564, EHESS-CNRS, Paris) Project
+Online CV HAL <https://cv.archives-ouvertes.fr/emmanuel-francis>
+DHARMA <https://dharma.hypotheses.org/> Project
+<https://dharma.hypotheses.org/> (ERC synergy grant 2018)
+TST Project <https://tst.hypotheses.org/> (FRAL 2018, ANR & DFG)
+Regionalism & Cosmopolitism: South India <http://rcsi.hypotheses.org/>
+Associate member, Centre for the Study of Manuscript Culture
+<http://www.manuscript-cultures.uni-hamburg.de/index_e.html>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201023/85544485/attachment.htm>

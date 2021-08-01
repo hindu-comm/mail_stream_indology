@@ -1,0 +1,29 @@
++++
+title = "132 marion rastelli"
+date = "2000-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021610.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021610.html)
+
+I have the following questions related to ViziSTAdvaitavedAnta:
+
+1) Are there editions of the following texts:
+- GuNaratnakozavyAkhyAna by ?
+- zrIraGgarAjastavavyAkhyAna by GargakulInarAmAnuja
+- VaradarAjastavavyAkhyAna by ? (all mentioned by AlaziGga BhaTTa in his
+commentary on the SAttvatasaMhitA)?
+
+2) Where (apart from NyAyasiddhAJjana, Tattvatraya and the commentaries
+on them) can I find explanations or at least occurrences of the terms
+zAntodita and nityodita?
+
+3) Is divyAtmasvarUpa a technical term in the tradition of
+ViziSTAdvaitavedAnta? If yes, in which text(s) does it appear?
+
+Yours,
+Marion Rastelli
+Austrian Academy of Sciences
+
+
+

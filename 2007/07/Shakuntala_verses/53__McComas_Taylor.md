@@ -1,0 +1,58 @@
++++
+title = "53 McComas Taylor"
+date = "2007-07-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-July/031013.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-July/031013.html)
+
+Dear Friends
+
+I was hoping some kind and knowledgeable person could help me identify 
+the metre of Shakuntala Act 1, verses 1,2,3 and 4.
+
+Many thanks in advance
+
+McComas
+
+
+1.
+yaa sRSTih sraSTur aadyaa vahati vidhi.hutam yaa havir yaa ca hotrii
+ye dve kaalam vidhattah zruti.viSaya.guNaa yaa sthitaa vyaapya vizvam/
+
+yaam aahuh sarva.biija.prakRtir iti yayaa praaNinah praaNavantah
+pratyakSaabhih prapannas tanubhir avatu vas taabhir aSTaabhir iizah //1//
+
+2.
+aa paritoSaad viduSaam na saadhu manye prayoga.vijnaanam /
+balavad api zikSitaanaam aatmany apratyayam cetah //2//
+
+3.
+subhaga.salila.avagaahaah paaTala.samsarga.surabhi.vana.vaataah / 
+pracchaaya.sulabha.nidraa divasaah pariNaama.ramaNiiyaah //3//
+
+4. 
+iiSad.iiSac.cumbitaani bhramaraih sukumaara.kesara.zikhaani /
+avatamsayanti damamaanaah pramadaah ziriiSa.kusumaani //4//
+
+(source: http://tiger.bun.kyoto-u.ac.jp/mtokunag/skt_texts/zakuntala.txt)
+
+
+
+-- 
+===============================
+Dr McComas Taylor
+Head, South Asia Centre
+Faculty of Asian Studies
+The Australian National University
+ACTON ACT 0200
+
+Tel: +61 2 6125 3179
+Fax: +61 2 6125 8326
+
+Email: mccomas.taylor at anu.edu.au
+URL: http://asianstudies.anu.edu.au/wiki/index.php/Dr_McComas_Taylor
+Location: Room E4.26 Baldessin Precinct Building 
+
+
+

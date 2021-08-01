@@ -1,0 +1,23 @@
++++
+title = "264 Arun Gupta"
+date = "2001-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025379.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025379.html)
+
+Since Bhindranwale was a separatist, how does "propping up Bhindranwale"
+(against the Akalis, to quote from one of the URLs provided by Rohan Oberoi)
+constitute Mrs. "Gandhi's various campaigns to paint minority groups and
+political parties as anti-national, separatist, etc. and thereby to
+strengthen the Hindu majority vote behind her."
+
+If there ever was a fascist in modern Indian history, Mrs. Gandhi was it
+(suspension of civil liberties, "Indira is India", throwing opposition into
+jail, erasing distinction between State and Party, etc.)  So I have no
+intention of defending Mrs. G.  Just want to understand the point.
+
+-Arun Gupta
+
+
+

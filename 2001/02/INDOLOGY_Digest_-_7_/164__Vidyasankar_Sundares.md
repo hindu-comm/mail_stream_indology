@@ -1,0 +1,72 @@
++++
+title = "164 Vidyasankar Sundaresan"
+date = "2001-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025308.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025308.html)
+
+>-ta is a passive participle forming suffix.
+>Root cit means (MW 395.2) to percieve, fix mind upon, attend to, observe,
+>notice, etc.  This is a transitive root.
+>"That which mind is fixed upon" has a passive participle meaning derived
+>from transitive "cit".  So what's the problem with it?
+
+Nothing, till one realizes that words like manas, buddhi and
+citta can have different meanings based on context. In some
+places, they refer to "internal organ", which is a material
+entity, and in other places, they can just refer to such
+things as "awareness", "will", "cognition" etc. One doesn't
+have to impose saa.mkhya upon the yogasuutras to realize this.
+
+Take the compound citta-v.rtti, which you take as "v.rttis
+beginning with citta". However, YS 1.5 says v.rttis are of
+five types, and 1.6 lists them as pramaa.na, viparyaya etc.
+This is a straightforward pointer to interpret citta-v.rtti
+as "v.rttis of the citta" - a different kind of tatpuru.sa.
+
+>As far as agreement with other pAdas, I tried to make SamAdhi PAda coherent
+>first. The major problem for "citta" as "mind" is I.37.  All rendering of
+it
+>that use "mind" meaning are quite a stretch.
+
+Aren't you imposing a very Western mind vs. matter duality on
+an Indian school of thought? Similarly with your comment on the
+word aagama, on which you have imposed a Cartesian presumption.
+Beyond that, no comment. But see below.
+
+>>"That which mind is fixed upon" presumes a mind, which
+>>has not yet been introduced anywhere in the first few sUtras.
+>YS is anuzAsana not zastra. Therefore, not all concepts are introduced, but
+>only those, requiring special definition.
+
+In that case, the words kli.s.ta and akli.s.ta are introduced
+in YS 1.5, but the corresponding noun, kleza, is not defined
+till YS 2.3. Needs to be studied carefully, with respect to
+taking samaadhi-paada to be entirely independent of the rest
+of the text.
+
+>>And similarly, also the word pratyaya.
+>Meaning of pratyaya I use is an analogy with its use in Panini's grammar --
+>an affix that gives the word its final meaning.
+
+samaadhi-paada has the following compounds - abhaava-pratyaya,
+viraama-pratyaya and bhava-pratyaya. Other compounds occur in
+the other three paadas. Are these merely different kinds of
+verbal affixes?
+
+>>Other grammar can wait ...
+>I'd like to hear about other grammar.
+
+Well, to take just one early case - your interpretation of YS
+1.6 takes its list of nouns ending in the plural number as a
+copulative compound, but in 1.7, it takes a related list of
+nouns ending in the plural number as a different kind of
+compound. Again, without getting into saa.mkhya, and without
+getting into the possible identity of patanjali, why so?
+
+Best wishes,
+Vidyasankar
+
+
+

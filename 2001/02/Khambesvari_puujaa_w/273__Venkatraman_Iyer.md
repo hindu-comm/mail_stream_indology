@@ -1,0 +1,31 @@
++++
+title = "273 Venkatraman Iyer"
+date = "2001-02-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025414.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025414.html)
+
+The smearing of buffalo sacrifical blood on posts/stones
+was/is common among the least studied populations
+of South India. English newspapers or elite castes
+do not write about them, and naturally westerners
+are least aware of them.
+
+"It is estimated, and probably conservatively, that
+eighty percent of the people of South India address
+their worship almost exclusively to minor, i.e. local
+and village deities, and yet these deities receive little
+attention in the studies of Hinduism."
+(W. Th. Elmore, Dravidian Gods in Modern Hinduism,
+1925, p. ix).
+
+The sad thing is Humanities depts. in Indian universities
+have been "killed" by politics and issues of caste in
+post-1947 India.
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

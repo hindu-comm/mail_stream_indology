@@ -1,0 +1,78 @@
++++
+title = "122 Harry Spier"
+date = "2018-10-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048568.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048568.html)
+
+On Fri, Oct 12, 2018 at 12:34 AM Madhav Deshpande <mmdesh at umich.edu> wrote:
+
+> Hi Harry,
+>
+> Please let us know what this word means according to Huet and Steiner.
+>
+>>
+>>
+Dear Madhav,
+
+I receive 4 replies.
+
+1) Gerard Huet quoting a reply from yourself to him on the same question
+from 2001.
+
+The following information I got from Madhav Deshpande on 09-05-01, but I
+can’t find it in the Indology archives (months of May and June 2001 are
+missing),
+so maybe it was in some other place or in a private communication.
+
+Information about ghṛṣṇeśvara appears in the Marathi encyclopedia
+Bhaaratiiya Sa.msk.rtikoza, edited by Mahaadeva  Zastrii Jozii, vol. 3, p.
+274.
+This work cites several accounts. The first account is referred to a story
+from the Padmapuraa.na where a devoted woman named Gh.r.s.naa asks Ziva to
+come and reside in this place. Thus, the name Lord of Gh.r.s.naa.
+The second story narrates interaction between Ziva and Paarvatii. Paarvatii
+is rubbing (Skt. root gh.r.s) safron on her palms, and out of this rubbing
+this particular Zivalifga is produced. Therefore, it was called
+Ghus.r.nezvara > Gh.r.s.nezvara.
+Then finally we are informed that the temple of Gh.r.s.nezvara was built by
+the same K.r.s.naraaja who built the Kailaasa temple at Ellora. This gives
+us a possible clue.
+A Ziva temple built by K.r.s.na <http://k.r.s.na/> became K.r.s.nezvara >
+Gh.r.s.nezvara.
+So we have a number of possible explanations.
+
+
+2) From Roland Steiner
+
+Could the first part of the compound be read as dhṛṣṇi "ray of light"?
+
+
+3) From Dipak Bhattacharya
+
+ghṛṣṇeśa or ghṛṇeśa?
+
+
+4) From Seishi Karashima
+
+Please see the attached image from K. R. Norman, Collected Papers VII, PTS
+2001. The meaning given there, however, does not fit the compound ghṛṣṇeśa.
+
+
+(I've attached the page to this posting)
+
+
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181012/48b1aaf7/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: K.R.NormanCollectedPapersVII.pdf
+Type: application/pdf
+Size: 61690 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20181012/48b1aaf7/attachment.pdf>

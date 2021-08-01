@@ -1,0 +1,21 @@
++++
+title = "06 Jonathan Silk"
+date = "2004-09-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-September/028562.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-September/028562.html)
+
+Since there are programs which troll the net harvesting addresses,
+and since Indology is archived, might I suggest that when email
+contact addresses are requested, they either be sent directly to the
+person requesting the information, or posted in a way that such
+programs cannot (yet) understand, e.g., silk AT humnet.ucla.edu?
+
+respectfully, J Silk
+
+(I do realize that this will not at all solve the problem, but it
+seems an easy enough step to take.)
+
+
+

@@ -1,0 +1,43 @@
++++
+title = "21 Allen W Thrasher"
+date = "2004-02-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-February/028170.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-February/028170.html)
+
+I wonder if mahagraha is indeed a marine animal whether it might refer
+to a sort of shark.
+
+Makaras are depicted in miniature paintings illustrating the
+Gajamocanastotra, they are usually clearly crocodiles.  However, when
+the zodiacal sign Makara is depicted it is much more variously.  You see
+depictions of Makararasi in the antique shops, when long janmapatrika
+scrolls with dozens of charts analyzing the horoscope in multiple ways
+and with illustrations of Ganesa, the grahas, and the rasis, have been
+cut up into individual yantras and miniatures suitable for framing.  The
+makaras often look like hybrid creatures, sometimes crocodiles with
+leopard spots, sometimes a long low animal that appears to be furry and
+has a blunter snout.  There are also, I think, ones that show the sign
+as a goat with a fish tail, as in the West; but I may have misremembered
+this.
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

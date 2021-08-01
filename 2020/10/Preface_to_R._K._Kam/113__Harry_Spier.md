@@ -1,0 +1,29 @@
++++
+title = "113 Harry Spier"
+date = "2020-10-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-October/053546.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-October/053546.html)
+
+Dear list members,
+Does anyone have access to R.K. Kamat's Guru-caritra that includes his
+preface.  I've looked at some reprints of this edition in different
+libraries but none contained the preface.  I know the preface exists and
+that it describes the manuscripts he used, because  Antonio Rigopoulos in
+his article "The Guru-Gita or Song of the Master"  mentions that it
+describes the manuscripts Kamat used.
+
+Why I'm asking.  I have a pdf of the Guru-gita from this edition.  It has
+footnotes with variations identified by abreviation (for example m., dhu.,
+pu. ) and I'd like to verify that these are manuscript variations and what
+Kamat has to say about the manuscripts.  I don't know if the preface is in
+English or Marathi.
+
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201028/5dbf6edb/attachment.htm>

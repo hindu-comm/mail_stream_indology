@@ -1,0 +1,28 @@
++++
+title = "57 McComas Taylor"
+date = "2013-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-March/037606.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-March/037606.html)
+
+Dear Colleagues
+
+Speaking of Coulson's 'Teach Yourself' - years ago I compiled the grammatical tables at the back and added a few others to create a 'Little Red Book of Sanskrit Paradigms'. Students seem to find it useful. The linked PDF below is not as handy as the printed version, but please feel free to distribute it to anyone who would find it useful:
+
+https://alliance.anu.edu.au/access/content/user/u3936301/Sanskrit%20Paradigms%20-%206th%20ed.pdf(https://alliance.anu.edu.au/access/content/user/u3936301/Sanskrit%2520Paradigms%2520-%25206th%2520ed.pdf)
+
+McComas
+
+--
+McComas Taylor, ANU University Education Scholar 2012-13
+Head, South Asia Program
+ANU College of Asia and the Pacific
+Tel: +61 2 6125 3179
+Location: Baldessin Precinct Building, 4.24
+Website: McComas Taylor(http://arktos.anu.edu.au/chill/index.php/mct)Courses: Learn about some of my courses: Sanskrit 1(http://www.screenr.com/NSBs) | Indian Epics(http://screenr.com/uUBs)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130320/aff78bdb/attachment.htm>

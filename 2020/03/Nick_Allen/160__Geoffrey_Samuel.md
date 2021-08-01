@@ -1,0 +1,29 @@
++++
+title = "160 Geoffrey Samuel"
+date = "2020-03-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-March/051932.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-March/051932.html)
+
+I will miss Nick greatly too. I have known him for many years, and he was a good friend. I last saw him late last year in Oxford.
+
+I entirely agree with the very positive comments people have been making. He was a warm, supportive and wise man, and I learned a lot from him.
+
+Geoffrey
+
+On 25 Mar 2020, at 08:42, Greg Bailey via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+
+Dear All,
+
+Wonderful man. He came to a number of our conferences held in Dubrovnik on the epics and Purāṇas, and made a great contribution.
+
+Cheers,
+
+Greg Bailey
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200324/04bb69d6/attachment.htm>

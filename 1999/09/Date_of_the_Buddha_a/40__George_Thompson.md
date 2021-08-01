@@ -1,0 +1,30 @@
++++
+title = "40 George Thompson"
+date = "1999-09-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018280.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018280.html)
+
+I think that Madhav Deshpande's point is that in establishing a relative
+chronology the terminus ad quem [the latest possible date] has to be set
+independently of the terminus a quo [the earliest possible date].  I think
+that this is correct.
+
+The date of the Buddha is usually considered the terminus ad quem of Vedic
+literature. So if this date needs to be adjusted, so too will be the date of
+the end of the Vedic period.
+
+But the beginning of the Vedic period [terminus a quo] should not be measured
+on the basis of what is perceived to be a reasonable length of time for the
+full development of the literature. Judgments about the reasonable length of
+time for the development of Vedic literature are clearly impressionistic and
+subjective, as previous list discussion has amply demonstrated.
+
+A solid terminus a quo must be based on completely independent criteria. And
+this confronts us with an entirely different set of problems.
+
+George Thompson
+
+
+

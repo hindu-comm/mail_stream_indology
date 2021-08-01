@@ -1,0 +1,42 @@
++++
+title = "104 Harsha Dehejia"
+date = "2009-02-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032718.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032718.html)
+
+Friends:
+
+
+
+I am researching multi-arm images of Krishna.
+
+
+
+It seems to be that at some point Krishna ceases to be an avatara and becomes Vishnu himself.
+
+
+
+A case in point is Jagganath Puri where Krishna is Jagganath, an appellation reserved for Vishnu.
+
+
+
+A Nepali stone image (?12 th century) that I recently saw shows Krishna with 8 arms holding even a Sudarshan chakra.
+
+
+
+Am I on the right track? Any help would be appreciated.
+
+
+
+Regards.
+
+
+
+Harsha V. Dehejia
+
+Ottawa, ON., Canada.
+
+
+

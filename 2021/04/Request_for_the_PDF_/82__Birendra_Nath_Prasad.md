@@ -1,0 +1,20 @@
++++
+title = "82 Birendra Nath Prasad"
+date = "2021-04-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-April/054560.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-April/054560.html)
+
+Dear members of the list,
+I am looking for a PDF copy of the following paper:
+
+Woodward, Hiram W. Jr. 1981. ‘Queen Kumaradevi and Twelfth Century Sarnath’. Journal of the Indian Society for Oriental Art, n.s., 12-13, pp. 8-24.
+Kindly  email and oblige if you have a copy. 
+Thanks and regards
+Dr. Birendra Nath Prasad
+Asstt. Professor
+Centre for Historical Studies
+JNU,New Delhi-110067
+Email: bnprasad at mail.jnu.ac.in
+

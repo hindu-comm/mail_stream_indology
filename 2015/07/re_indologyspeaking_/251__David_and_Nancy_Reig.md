@@ -1,0 +1,69 @@
++++
+title = "251 David and Nancy Reigle"
+date = "2015-07-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041577.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041577.html)
+
+No, I did not intend to imply anything about Malhotra's writings, which I
+have never read. I wanted to call attention to two other cases of
+plagiarism, far more extensive than Malhotra's. Even if the possibility
+that something might be done about them is remote, it may be useful to know
+about them.
+
+I was very disappointed when I saw what T. G. Mainkar had done with
+the Sāṃkhyakārikā
+and Gauḍapāda’s commentary, copying even omissions and typographical errors
+in Har Dutt Sharma's translation. It seems that all he did was read and
+edit the English, without even consulting the Sanskrit. He improved some
+English words here and there, and deleted all the parentheses that Sharma
+had used to distinguish his own additions from what is in the Sanskrit. Yet
+Sharma's superior translation has fallen into oblivion, while Mainkar's was
+again reprinted in 2004. I have scanned and posted Sharma's book in three
+parts here:
+http://prajnaquest.fr/blog/sanskrit-texts-3/sanskrit-hindu-texts/
+
+Similarly, I was very disappointed to see that Satya Prakash Sarasvati and
+Satyakam Vidyalankar had largely only copied Wilson's translation of
+the Ṛgveda,
+substituting God for the Vedic gods. The notes they added are helpful, and
+they reproduced Aufrecht's romanized text, and also a devanagari text. But
+I expected their translation to follow the Arya Samaj line of
+interpretation throughout, so that we could see how it differs from Sāyaṇa’s
+interpretation. What unsuspecting readers got instead, other than God for
+the gods, was in fact Sāyaṇa’s interpretation, by way of the silent
+appropriation of Wilson's translation.
+
+My own work is textual, and these two cases of plagiarism are more
+important to me than is Malhotra's case. I wanted to use the opportunity
+that this discussion of plagiarism provided to call attention to these two
+cases. Sorry that I did not distinguish them more clearly from Malhotra's
+case.
+
+Best regards,
+
+David Reigle
+Colorado, U.S.A.
+
+On Sun, Jul 19, 2015 at 10:33 AM, Dominik Wujastyk <wujastyk at gmail.com>
+wrote:
+
+> Two wrongs don't make a right.  (If that's what you meant.)
+> ​
+> ​
+> Dominik Wujastyk​
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150719/b1f34ef8/attachment.htm>

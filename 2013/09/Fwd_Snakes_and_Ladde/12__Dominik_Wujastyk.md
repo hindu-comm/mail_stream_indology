@@ -1,0 +1,49 @@
++++
+title = "12 Dominik Wujastyk"
+date = "2013-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038334.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-September/038334.html)
+
+​There are some classic Snakes and Ladders ("Heaven and Hell") paintings in
+the collection of the ​
+​Wellcome Library in London.  See the links to the library's "Wellcome
+Images" link below, but also write to a librarian and request:
+
+   - Wellcome MS Indic Raghavan M.17
+   and
+   - ​Wellcome MS Indic ​​beta 781​[image: Inline images 2]
+
+
+
+---------- Forwarded message ----------
+From: Dominik Wujastyk <wujastyk at gmail.com>
+Date: 4 September 2013 11:14
+Subject: Snakes and Ladders
+To: wujastyk at gmail.com
+
+
+Dominik Wujastyk has sent you a link to view image(s) from Wellcome Images.
+
+
+
+http://wellcomeimages.org/indexplus/email/273523.html
+
+If this link does not work, please contact images at wellcome.ac.uk.
+
+
+This message has been scanned for viruses by Websense Hosted Email Security
+- www.websense.com
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130904/05f935f1/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 53.png
+Type: image/png
+Size: 20715 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20130904/05f935f1/attachment.png>

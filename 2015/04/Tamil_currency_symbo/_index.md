@@ -1,0 +1,4 @@
++++
+title = "Tamil currency symbol"
+
++++

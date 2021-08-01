@@ -1,0 +1,74 @@
++++
+title = "06 christoph.emmrich at UTORONTO.CA"
+date = "2012-06-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-June/036698.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-June/036698.html)
+
+Dear Adam,
+
+Here are two studies by Srilata Raman on a South Indian practice that  
+includes branding:
+
+Raman, Srilata. 2005. Sam??raya?a [Samaashrayana] as Ritual and Non-Ritual in
+?r?vai??avism (Shrivaishnavism). In Jörg Genganagel, Ute Hüsken and  
+Srilata Raman (Eds.), Words and Deeds. Hindu and Buddhist Rituals in  
+South Asia. Vienna: Harrasowitz. 91-114.
+
+Raman, Srilata. 2007. Initiation and Conversion in Medieval South  
+India. Pañcasa?sk?ra [Panchasamskaara] as Historical Practice in the  
+?r?vai??ava [Shrivaishnava] Hagiographical Literature. In Gerhard  
+Oberhammer and Marion Rastelli (Eds.), The Relationship between  
+Vi?i???dvaita [Vishishtaadvaita] and P?ñcar?tra [Pancharaatra].  
+Vienna: Austrian Academy of Sciences. 263-286.
+
+Sincerely,
+Christoph
+
+----
+
+Christoph Emmrich
+University of Toronto
+
+
+
+Quoting Adam Bowles <a.bowles1 at UQ.EDU.AU>:
+
+> Dear colleagues,
+>
+> A third party has asked me for information on the practice of   
+> branding as part of traditional medical practice in South Asia or in  
+>  the Fijian Hindu community, especially in respect to children. Can   
+> anyone point me in the direction of useful material?
+>
+> Many thanks
+> Adam
+>
+>
+> Dr Adam Bowles
+> Lecturer in Asian Religions
+> School of History, Philosophy, Religion and Classics
+> Faculty of Arts
+> The University of Queensland
+> Tel: +61 7 33656324
+> Email: a.bowles1 at uq.edu.au<mailto:a.bowles1 at uq.edu.au>
+> Web: http://www.uq.edu.au/hprc/dr-adam-bowles
+> [FaceBook-icon]<http://www.facebook.com/pages/Studies-in-Religion-at-UQ/362132947148321>
+>
+> Associate Editor, South Asia: Journal of South Asian Studies
+> http://www.tandf.co.uk/journals/titles/00856401.asp
+>
+> CRICOS Provider Number: 00025B
+>
+> This email is intended solely for the addressee. It may contain   
+> private or confidential information. If you are not the intended   
+> addressee, you must take no action based on it, nor show a copy to   
+> anyone.  Kindly notify the sender by reply email.  Opinions and   
+> information in this email which do not relate to the official   
+> business of The University of Queensland shall be understood as   
+> neither given nor endorsed by the University.
+>
+
+
+

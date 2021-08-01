@@ -1,0 +1,35 @@
++++
+title = "290 Dominik Wujastyk"
+date = "2000-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020605.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020605.html)
+
+I think this has come up before, but for good measure, cf.
+
+Mahar.si bhardvaaja pra.niita
+ya.mtrasarvasve
+Vimaana Prakara.nam
+
+sa.m"sodhaka
+"Srii Bhuvane"svarii Pii.thaadhii"sa
+Aacaarya "srii Cara.natiirtha Mahaaraaja
+
+Muulya 0-75
+
+"Srii Bhuvane"svarii Prakaa"sana
+Go.m.dala-Sauraa.s.tra, Bhaarata
+
+The book's colophon dates it to sa.mvat 2008
+
+
+Cara.natiirtha is the initiated name of Jivarama Kalidasa Sastri, who
+published a number of alchemical and medical books in Bombay and Gondal.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

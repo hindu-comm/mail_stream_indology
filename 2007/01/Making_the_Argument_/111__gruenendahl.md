@@ -1,0 +1,57 @@
++++
+title = "111 gruenendahl"
+date = "2007-01-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030394.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030394.html)
+
+On 11 Jan 2007 at 13:33, Matthew Kapstein wrote:
+
+> J. Robert Oppenheimer, father of the A-Bomb,
+> was considered by the late Murray Emeneau
+> to have have been his best student and
+> quoted the Giitaa, in Skt., at Los Alamos.
+
+
+Here it could be pointed out to the Berlin authorities that better job opportunities 
+may have caused Oppenheimer to pursue a career in indology instead of 
+constructing a weapon of mass destruction, the effects of which Berlin escaped only 
+narrowly. (Sadly, this cannot be said for the citizens of Hiroshima and Nagasaki.)
+
+
+NOTE:
+Speculations to the effect  that it may have been Oppenheimer's brush with 
+indology, or his familiarity with the Bhagavadgita (which Heinrich Himmler also was 
+familiar with, by the way), that triggered him to construct the atom bomb can be 
+discarded as absurd fabrications, attributable to ignorance, charlatanry, or worse.
+
+
+satyam eva jayate
+
+Reinhold Grünendahl
+
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Göttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+

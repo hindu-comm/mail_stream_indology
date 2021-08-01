@@ -1,0 +1,46 @@
++++
+title = "59 Pathompong Bodhiprasiddhinand"
+date = "2008-11-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-November/032226.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-November/032226.html)
+
+Dear all,
+
+One scholarship is available for a student 
+to read a PhD in Buddhist Studies at Mahidol 
+University in Thailand. I would appreciate 
+it very much if you could kindly forward 
+this email to those who are interested. 
+
+The scholarship is set up by a generous lady 
+who wants to provide an opportunity for a 
+female candidate (could be a nun, maechi or 
+laywoman, of any nationality) to read for a 
+PhD in Buddhist Studies at Mahidol. 
+
+To be eligible, the recipient must have met 
+the University’s academic and English Language 
+entry requirements and must first have been 
+successful in gaining an unconditional offer 
+of a place. This scholarship will cover all 
+the tuition fees for five years. 
+
+For further information, please contact 
+me off-list.Thank you very much for your 
+help.
+Best wishes,
+Pathompong Bodhiprasiddhinand, Bangkok
+http://www.mahidol.ac.th
+http://www.st.mahidol.ac.th/bodhi
+http://www.sh.mahidol.ac.th/en/index.php
+
+
+
+
+
+
+
+
+

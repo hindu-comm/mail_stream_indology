@@ -1,0 +1,26 @@
++++
+title = "07 Allen W Thrasher"
+date = "2008-07-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-July/031855.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-July/031855.html)
+
+Thanks for the many comments.  Sounds like I misunderstood the usage, or somehow arrived at my impression from the fact that Robert Zydenbos alludes to, that Indians don't regard homeopathy as "Western."
+
+Allen
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Team Coordinator
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

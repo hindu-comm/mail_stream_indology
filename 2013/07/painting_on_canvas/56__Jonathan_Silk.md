@@ -1,0 +1,58 @@
++++
+title = "56 Jonathan Silk"
+date = "2013-07-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-July/038167.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-July/038167.html)
+
+You might also want to take a look at (I hope this was not mentioned
+before; I'm sorry I was not paying attention):
+
+Weaving the World: The Ritual Art of the "Paṭa" in Pala Buddhism and Its
+Legacy in Tibet
+Matthew Kapstein
+History of Religions
+Vol. 34, No. 3, Image and Ritual in Buddhism (Feb., 1995), pp. 241-262
+
+Jonathan
+On Sun, Jul 14, 2013 at 11:24 PM, Dean Michael Anderson <
+eastwestcultural at yahoo.com> wrote:
+
+> Thanks for all the replies. Dipak’s mention of the Mudrārākṣasa is dated
+> at the 4th century CE at the earliest. The word for cloth he mentions is
+> the same one I was interested in: paṭa.
+>
+> Joseph pushes it a bit farther back to the first or second century CE,
+> although that’s still a bit later than what I was hoping for.
+>
+> It may be I'll have to translate it only as 'cloth' and not 'canvas'.
+>
+> Best,
+>
+> Dean
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+J. Silk
+Instituut Kern / Universiteit Leiden
+Leiden University Institute for Area Studies, LIAS
+Johan Huizinga Building, Room 1.37
+Doelensteeg 16
+2311 VL Leiden
+The Netherlands
+
+copies of my publications may be found at
+http://www.buddhismandsocialjustice.com/silk_publications.html
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130714/04ca22f9/attachment.htm>

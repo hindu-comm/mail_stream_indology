@@ -1,0 +1,53 @@
++++
+title = "183 Lars Martin Fosse"
+date = "2000-04-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021164.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021164.html)
+
+Rajarshi Banerjee [SMTP:rajarshi.banerjee at SMGINC.COM] skrev 27. april 2000
+22:16:
+> What is the earliest usage of the word beaver or related words in europe
+as
+> a reference to the species castor fiber.
+
+It would seem to be very early. The word is related to the word for
+"brown", so that an IE *bhebhru was originally a "brownie" or something to
+that effect. Under all circumstances, the word is Indo-European.
+
+> What were beavers called in classical greece, rome, by celts, goths?
+
+The Latin word - apart from castor which you find in the scientific name -
+is fiber, in late Lat. beber. The word castor is really from Greek - kastor
+(with a long o).
+
+I am not sure that the Goths have left us their word for beaver (others may
+correct me) for the simple reason that Gothic is almost exclusively known
+through a translation of the New Testament, where beavers are very
+low-profile.
+
+Speaking for Norwegian/Old Norse, the original name for a beaver in ON was
+"bjorr". I suspect that this is genetically related to IE *bhebhru,
+although my mastery of Germanic sound rules may be described as
+non-existent. The word bjorr is still preserved in certain place-names,
+such as Bjorvatn (Beaver Lake, also a personal name), but the modern
+Norwegian word "bever" is a loan-word.
+
+Best regards,
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone: +47 22 32 12 19
+Fax 1:  +47 22 32 12 19
+Fax 2:  +47 85 02 12 50 (InFax)
+Email: lmfosse at online.no
+
+
+
+
+

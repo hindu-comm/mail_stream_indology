@@ -1,0 +1,23 @@
++++
+title = "23 George Thompson"
+date = "2002-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-August/027062.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-August/027062.html)
+
+Well, strictly speaking the subject of this discussion is supposed to be
+"Chinese in India," not "Chinese in the Tarim Basin."  Of course, I
+understand that establishing the presence of Chinese in the Tarim Basin at an
+early date is a first step toward establishing their presence in India at an
+early date.  But craniometrical analyses of early Tarim Basin mummies -- that
+is, the work of Hemphill -- is relevant only because it puts into question a
+very early contact between an early IE group in Central Asia  and early
+Chinese.   ut there is other, non-craniometrical evidence ot consider.  There
+is, for example, the lingiuistic evidence presented by Lubotsky in Lubotsky
+1998, in a collection of articles on the Tarim Basin edited by V. Mair:
+"Tocharian Loan Words in Old Chinese: Chariots, Chariot Gear, and Town
+Building."
+
+
+

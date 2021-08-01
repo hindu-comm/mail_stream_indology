@@ -1,0 +1,48 @@
++++
+title = "01 soni at staff.uni-marburg.de"
+date = "2014-05-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039398.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-May/039398.html)
+
+Dear Friends and Colleagues,
+If you are contemplating on participating in the World Sanskrit  
+Conference in Bangkok in June-July 2015, as we earnestly encourage  
+others to do so too, then please note the following changes with  
+immediate effect:
+
+1. The date of the second Announcement has now been set for 15 July  
+2014. Among many other details we hope to have special hotel rates by  
+then, which we would like to include in it.
+
+2. PLEASE NOTE this EARLIER date for the Submission of abstracts:  
+abstract submission now closes on 15 OCTOBER 2014 (NOT 15 February  
+2015). This earlier date is, for example, to help with properly  
+organising the various sections with their numerous sessions on  
+several days.
+
+3. Early Registration Rates end on 15 January 2015 (unchanged).
+
+Please do register as soon as you can. If you wish you may send your  
+abstracts later, before the deadline of 15 October 2014.
+
+Looking forward to hearing from you soon.
+
+You will find these and other details, including the online  
+registration form here:
+
+http://www.sanskrit-silpakorn.org/
+
+With best wishes,
+J. Soni
+Secretary General of the IASS and on behalf of the local organisers in Bangkok
+
+-- 
+
+
+
+
+
+
+

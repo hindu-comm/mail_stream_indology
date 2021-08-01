@@ -1,0 +1,27 @@
++++
+title = "56 Matthew Kapstein"
+date = "2004-11-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-November/028753.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-November/028753.html)
+
+One of the best known groups of Mahayana
+scriptures is the navadharma of Newari Buddhism.
+Though very widely mentioned in 20th c. Buddhist Studies --
+it was the basis, e.g., for the first nine vols. of
+the Buddhist Sanskrit Texts series of P.L. Vaidya --
+no one to my knowledge has discussed the origins
+and conceptual basis (if indeed there is one)
+for the group.
+
+Or am I wrong about this?
+And whether or not I am, when do we first find
+the phrase navadharma (or navaagama), referring to this
+collection, turning up in Newar Buddhist usage? In what
+contexts?
+
+Matthew Kapstein
+
+
+

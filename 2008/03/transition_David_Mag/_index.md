@@ -1,0 +1,4 @@
++++
+title = "transition: David Magier"
+
++++

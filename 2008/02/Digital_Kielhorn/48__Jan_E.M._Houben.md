@@ -1,0 +1,39 @@
++++
+title = "48 Jan E.M. Houben"
+date = "2008-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-February/031462.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-February/031462.html)
+
+It would be helpful if someone could list sites in FSU countries (whether the main language of the site is Russian, Tchechen or any other language) with "quite a large number of Indological books", and/or sites of "rapidshare e-book trading communities" relevant to Indologists.
+  Jan Houben 
+
+"Paul G. Hackett" <ph2046 at COLUMBIA.EDU> wrote: 
+    Hi all,
+
+A few comments on some of the issues/questions raised on this thread:
+
+  ***
+
+  Consequently, many Bittorrent hosts have moved to the FSU ("Former 
+Soviet Union") or other "anarchy-friendly" (as someone described 
+them) countries, where bittorrent activity is far from dead. There 
+are, as well, a large number of rapidshare e-book trading communities 
+flourishing there as well, and if you can read Russian you can find 
+quite a large number of Indological books on some of those lists as 
+well.
+
+***
+
+Paul Hackett
+Columbia University
+
+
+
+
+---------------------------------
+Looking for last minute shopping deals?  Find them fast with Yahoo! Search.
+
+
+

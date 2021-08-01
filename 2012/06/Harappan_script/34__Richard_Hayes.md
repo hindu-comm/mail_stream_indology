@@ -1,0 +1,22 @@
++++
+title = "34 Richard Hayes"
+date = "2012-06-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-June/036745.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-June/036745.html)
+
+On Jun 19, 2012, at 16:05 , George Thompson wrote:
+On Tue, Jun 19, 2012 at 3:59 PM, Steve Farmer <saf at safarmer.com> wrote:
+On Jun 19, 2012, at 3:11 PM, George Thompson wrote:
+On Jun 19, 2012, at 12:05 PM, alakendu das wrote:
+
+Fellows... 
+
+Richard Hayes
+Department of Philosophy
+Humanities Bldg 525
+Mobile: (505) 977-7703
+
+
+

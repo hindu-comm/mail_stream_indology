@@ -1,0 +1,76 @@
++++
+title = "130 James McHugh"
+date = "2012-10-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-October/037011.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-October/037011.html)
+
+Some members of the list might be interested in the following announcement, apparently applications from South Asianists would be welcomed:
+
+
+> ANNOUNCING
+> 
+> 
+> A NEW TRAINING Program for Scholars, conservators and researchers in
+> the Use of Reflectance Transformation imaging (RTI)  for Documenting
+> ancient texts and artifacts  including the Loan of Imaging Equipment
+> 
+> 
+> The University of Southern California's West Semitic Research Project
+> (www.usc.edu/dept/LAS/wsrp) has received grants from the Institute
+> for Museum and Library Services (IMLS) and the Andrew W. Mellon
+> Foundation to establish a Training Program in advanced imaging
+> technologies for the documentation of ancient texts and artifacts
+> with an initial emphasis on Reflectance Transformation Imaging (RTI).
+> The IMLS and the Mellon Foundation have also funded the purchase of
+> imaging equipment to support the Training Program.
+> 
+> The objective of this project is to develop an infrastructure for
+> training scholars in the use of RTI technology and subsequently to
+> lend the necessary imaging equipment to participants in the training
+> program so they can do an initial RTI documentation project either in
+> field environments (archaeological sites, etc.) or in libraries,
+> museums and/or other similar venues, worldwide. This initial
+> undertaking should be understood to be a pilot project that can
+> develop into an ongoing, broader documentary effort and preferably
+> may also serve as the catalyst for establishing a consortial network
+> for image documentation of a given corpus (or corpora) of ancient
+> texts and/or artifacts.  All equipment to be lent out is both rugged
+> and compact and is thus ideal for doing sophisticated imaging in
+> remote locations. Twenty-four awards over three years (approximately
+> eight per year) for traineeships will be provided based on the merit
+> and intrinsic importance of a proposed pilot imaging project as well
+> as the appropriateness of the subject matter for RTI imaging.
+> 
+> For more information, see
+> http://www.usc.edu/dept/LAS/wsrp/Training_Program.pdf or contact
+> Marilyn Lundberg (mlundber at usc.edu) or Bruce Zuckerman
+> (bzuckerm at usc.edu).
+> 
+> --
+> Marilyn J. Lundberg, Ph.D.
+> Associate Director, West Semitic Research
+> Associate Editor, MAARAV
+> 12 Empty Saddle Road
+> Rolling Hills Estates, CA 90274
+> Tel: 310-541-4573; Fax: 310-541-2361
+> Web Sites: http://www.usc.edu/dept/LAS/wsrp
+> http://www.inscriptifact.com
+> http://www.maarav.com
+
+
+
+
+James McHugh
+Assistant Professor Of Religion
+School of Religion
+University of Southern California
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20121001/1c29f5d5/attachment.htm>

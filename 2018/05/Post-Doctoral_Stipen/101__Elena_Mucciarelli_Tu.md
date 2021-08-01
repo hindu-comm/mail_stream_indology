@@ -1,0 +1,38 @@
++++
+title = "101 Elena Mucciarelli Tuebingen"
+date = "2018-05-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047582.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-May/047582.html)
+
+Dear members of the list, dear colleagues,
+
+We are happy to announce a one-year post-doctoral stipend, possibly renewable, beginning October 1, 2018, at the Hebrew University in the context of a European Research Council grant on "The New Ecology of Expressive Modes in Early Modern South India.”
+
+This five-year grant, led by Prof. (Emer.) David Shulman, is based on the working assumption that all the major expressive domains-- literature, music, dance, theater, painting, sculpture, architecture-- and their associated erudite and theoretical treatises generated in southern India during the sixteenth to eighteenth centuries belong to a single multi-lingual and multi-cultural eco-system and need to be studied together, along with their particular social and political contexts. We will be reading intensively in all the major languages of the south--Tamil, Telugu, Kannada, Malayalam, Marathi-- as well as in the trans-local languages of Sanskrit and Persian.
+ Along with the ongoing sessions in the core group of young scholars dealing with the various texts and disciplines, there will be workshops, conferences, seminars, and field expeditions to south India.
+
+We are looking for highly trained scholars within five years of the approval of their Ph.D. dissertation, with knowledge of Sanskrit and at least one south Indian language and its classical traditions.
+
+The fellowship is generously funded. Applications (CV, list of publications, brief statement of scholarly focus and goals, and one letter of recommendation) should be sent to the following address: ddshulman at yahoo.com
+
+Best Wishes,
+Elena Mucciarelli
+
+
+____________________
+
+Dr. Elena Mucciarelli
+Research Fellow
+
+The Martin Buber Society of Fellows in the Humanities and Social Sciences
+Mandel Building, Room 342.
+The Hebrew University of Jerusalem, Israel
+Tel: 00972 (0) 2-5880414
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180503/6f6e98a5/attachment.htm>

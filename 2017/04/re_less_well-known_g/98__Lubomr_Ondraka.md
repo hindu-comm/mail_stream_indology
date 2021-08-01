@@ -1,0 +1,39 @@
++++
+title = "98 Lubomír Ondračka"
+date = "2017-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-April/045510.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-April/045510.html)
+
+Dear Jesse,
+
+there is a translation into the Russian (by A. Ya. Syrkina, Moskva: Vostochnaya literatura, 1995 - I can send you a pdf, if you want).
+
+There is also a Polish translation: Pieśń o Krysznie Pasterzu, transl. by Barbara Grabowska and Andrzej Ługowski,  Warszawa: Wydawnictwo Akademickie Dialog, 1996).
+
+As far as I know, there is no published academic translation into the Czech or Slovak languages.
+
+There are probably other translations into Slavic languages produced by ISKCON, but I don't know them.
+
+Best,
+Lubomir
+
+
+On Sun, 2 Apr 2017 10:58:28 -1000
+Jesse Knutson via INDOLOGY <indology at list.indology.info> wrote:
+
+> Can anyone tell me if the 12th/13th century Sanskrit poem Gītagovinda has
+> been translated into any Slavic or east Asian languages? or any other
+> languages that people might be less commonly aware of? Latin, French,
+> Italian, Spanish, German, English, etc. accounted for. Best, भवदीयः,J
+> -- 
+> Jesse Ross Knutson PhD
+> Assistant Professor of Sanskrit and Bengali, Department of Indo-Pacific
+> Languages and Literatures
+> University of Hawai'i at Mānoa
+> 461 Spalding
+
+
+
+

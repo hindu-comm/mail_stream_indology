@@ -1,0 +1,59 @@
++++
+title = "31 Dominik Wujastyk"
+date = "2013-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037679.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-April/037679.html)
+
+I
+​m not sure why, but this message bounced:​
+
+
+---------- Forwarded message ----------
+From: <mailman-bounces at list.indology.info>
+Date: 3 April 2013 07:16
+Subject: Uncaught bounce notification
+To: indology-owner at list.indology.info
+
+
+The attached message was received as a bounce, but either the bounce
+format was not recognized, or no member addresses could be extracted
+from it.  This mailing list has been configured to send all
+unrecognized bounce messages to the list administrator(s).
+
+
+---------- Forwarded message ----------
+From: "Yanchevskaya, Nataliya" <yanchevs at fas.harvard.edu>
+To: "indology-bounces at list.indology.info" <
+indology-bounces at list.indology.info>
+Cc:
+Date: Wed, 3 Apr 2013 01:16:19 -0400
+Subject: RE: [INDOLOGY] answer to Bobrinskoy question
+According to the Russian Wikipedia (naturally, in Russian), Bobrinskoy
+studied Sanskrit and other Indian languages in Paris.
+
+Here is the link:
+
+http://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87
+
+Best regards,
+Nataliya Yanchevskaya
+________________________________________
+From: INDOLOGY [indology-bounces at list.indology.info] On Behalf Of Herman
+Tull [hermantull at gmail.com]
+Sent: Tuesday, April 02, 2013 10:31 PM
+To: Indology
+Subject: [INDOLOGY] answer to Bobrinskoy question
+
+More sifting with google, and I have learned that Bobrinskoy studied with
+Edgerton at Yale.
+
+--
+Herman Tull
+Princeton, NJ
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130403/620f445e/attachment.htm>

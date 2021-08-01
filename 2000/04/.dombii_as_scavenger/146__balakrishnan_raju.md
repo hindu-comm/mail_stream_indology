@@ -1,0 +1,59 @@
++++
+title = "146 balakrishnan raju"
+date = "2000-04-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021065.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021065.html)
+
+>From: Raveen Satkurunathan <tawady at YAHOO.COM>
+>Reply-To: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
+>To: INDOLOGY at LISTSERV.LIV.AC.UK
+>Subject: Re: .dombii as scavenger woman
+>Date: Wed, 19 Apr 2000 16:57:51 +0100
+>
+>On Wed, 19 Apr 2000 11:29:59 +0000, Bharat Gupt <abhinav at DEL3.VSNL.NET.IN>
+>wrote:
+>
+> >Ven. Tantra wrote:
+> >>
+> >> Could any list members help me out?
+> >>
+> >> The Sanskrit term .dombii has been translated (Eliade
+> >> and Walker) as washer woman. But I cannot understand
+> >> how they get washer woman from .dombii. One list
+> >> member has suggested that .dombii actually refers to a
+> >> female member of the .Dom community. They are workers
+> >> at cremation places, scavengers, or weavers of ropes
+> >> and baskets.
+
+According to Madras Census Report,1892, by M.A.Stuart: "The Dombs are a
+Dravidian caste of weavers and menials, found in the hill tract of
+Vizagapatnam and in Koraput..."
+In the current Indian context Dombs are classified as Scheduled caste. They
+live as  neighbours of Kondh. They play a subordinate role to Kondhs and
+acts as a messenger for Khondhs.I have visited such Domb settlements in
+Koraput and Rayagada districts of Orissa.
+There are villages named after Dombs. A search for 'Domb' prefixed village
+names yields following results:
+Tamilnadu(1)- Dombucheri
+Orissa(5) Dombaguda,Dombobisoiput, Dombo Turunji, Dombuai guda(koraput and
+Donma diha.
+West Bengal(2) Domberya, Dombandi
+Assam (1) Dombaha
+Bihar(7)- Dombaha, Domba Pahari, Dombi Duar etc.,
+Karnataka (11- Domba Kuppa, Dombara Halli, Dombar Hop, Dombara mattur etc.,
+It is pertinent to note that normally suffixes like 'Cheri' (as in the case
+of Dombucheri) and Kuppa (as in Domba kuppa) are associated with the
+settlements of so called 'low-caste' people (though always not the case).
+
+Regards
+
+R.Balakrishnan
+
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

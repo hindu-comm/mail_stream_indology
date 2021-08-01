@@ -1,0 +1,38 @@
++++
+title = "98 Jonathan Silk"
+date = "2000-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/020998.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/020998.html)
+
+I really do not want to make a big deal out of this, and it does not
+affect me personally at all, but maybe we should reflect on this for
+a moment as a community.
+
+In reply to Birgit's interesting mongoose question Arlo Griffiths
+quotes a handout from an AOS meeting of a talk given by Joshua Katz,
+admitting that he is not in touch with the latter, the author whom he
+quotes. Is this permissable? If Dr Katz himself provides us
+information, that is one thing, and if he has published certainly his
+material is in the public domain, but had we not rather be careful
+about quoting things like handouts for talks?
+
+--just a thought.
+
+
+Jonathan Silk
+
+jonathan.silk at yale.edu
+
+Dept. of Religious Studies
+Yale University
+320 Temple St.
+New Haven CT 06520-8287
+USA
+
+tel. 203-432-0828
+fax. 203-432-7844
+
+
+

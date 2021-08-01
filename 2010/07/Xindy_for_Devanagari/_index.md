@@ -1,0 +1,4 @@
++++
+title = "Xindy for Devanagari"
+
++++

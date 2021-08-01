@@ -1,0 +1,4 @@
++++
+title = "Nyāyamukha of Dinnāga"
+
++++

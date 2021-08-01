@@ -1,0 +1,30 @@
++++
+title = "161 John Huntington"
+date = "2020-07-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-July/052976.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-July/052976.html)
+
+Dear Dominik
+I was truly excited by your note on the Transksribus not so much by the
+project itself but by the scan tent that they are using. As you may know I
+have been both an art historian and  photographer of fine arts, of
+primarily Buddhist art, for five decades and the scan tent they are using
+with its internal lighting and ease of object manipulation seems ideal for
+some of our work. To that end I have tried to find one in the photographic
+equipment market. No luck. Do you have any idea where such a tool might be
+available?
+
+Sorry to bother you with this but there are a couple of thousand flat
+images to prepare for the Archive, it will be a great service to me if you
+know.
+
+Thank you
+
+John Huntington
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200716/1dc38839/attachment.htm>

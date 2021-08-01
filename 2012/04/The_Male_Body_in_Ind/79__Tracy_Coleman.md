@@ -1,0 +1,21 @@
++++
+title = "79 Tracy Coleman"
+date = "2012-04-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-April/036518.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-April/036518.html)
+
+Indologists--
+
+I have two students who are interested in exploring the male body and the medicalization of masculinity in Indian medical literature.  One is interested in semen specifically, and I know Joseph Alter has written some on this.  Both are interested in how the medical texts make "scientific" the prevailing socio-religious ideologies about the superiority of men and the male body over women and the female body.  One is specifically interested in the Buddhist take on such ideas, especially given the emphasis on detachment from the material body and concepts such as "emptiness."
+
+Any suggestions for good readings suitable for smart undergraduates?
+
+Thanks very much!
+Tracy Coleman
+Colorado College
+
+
+
+

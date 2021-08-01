@@ -1,0 +1,41 @@
++++
+title = "240 Hock, Hans Henrich"
+date = "2015-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041305.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-June/041305.html)
+
+Thanks for your message, Khem Lao.
+
+It is always good to go to the original, rather than rely on a 19th-century translation. Here is the Sanskrit text:
+
+vṛṣabhó ná tigmáśṛṅgo (RV 10.86.15)
+
+As you can see, tigmáśṛṅga is a bahuvrīhi compound, whose gender and number marking is determined by the possessor (the bull). The gender and number of the thing possessed (the sharp tigma horn śṛṅga) is neutralized. The reading ‘with pointed (or sharp) horn’ therefore is arbitrary; an alternative reading ‘with sharp horns’ is equally possible, and given the nature of bovine animals, probably more likely. Jamison & Brereton’s translation ‘sharp-horned’ manages to capture the neutralization of number indication very nicely.
+
+Best wishes,
+
+Hans Henrich Hock
+
+
+
+On 15 Jun 2015, at 03:26, Khem Lao <khemlao241 at gmail.com<mailto:khemlao241 at gmail.com>> wrote:
+
+Hi Hans,
+   RV 10/86/15 has this translation by Griffith:
+
+15. Like as a bull with pointed horn, loud bellowing amid the herds,
+    Sweet to thine heart, O Indra, is the brew which she who tends thee pours.
+    Supreme is Indra over all.
+
+  Why do scholars not accept this as the unicorn depicted on IVC seals?
+
+Best,
+Khem
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150615/6653fa4f/attachment.htm>

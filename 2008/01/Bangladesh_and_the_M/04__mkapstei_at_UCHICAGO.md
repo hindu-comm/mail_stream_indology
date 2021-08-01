@@ -1,0 +1,45 @@
++++
+title = "04 mkapstei at UCHICAGO.EDU"
+date = "2008-01-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-January/031360.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-January/031360.html)
+
+
+The exhibition entitled "Chef-d'oeuvre du Delta du Gange:
+Collections des musées de Bangladesh," which was
+scheduled to open at the Musée Guimet in Paris late last
+year, was abruptly cancelled owing to the purported
+theft of two statues in the holding area of the Dakka
+airport. This led one faction of the Bangladesh government
+to accuse those responsible for negotiating the exhibition
+with the French of having endangered the national
+patrimony, leading then to the cancellation. The objects
+were, in fact, soon recovered (causing some to suspect
+that their "theft" had been cooked with the sole interest
+of embarrassing political rivals and scuppering the 
+exhibition), and, indeed, most materials had already
+arrived in Paris, when Bangladesh demanded their
+immediate return.
+
+The catalogue, edited by Vincent Lefevre, and bearing the
+same title as the exhibition, offers an excellent
+introduction to and survery of the archeology and antiquities
+of Bangladesh, and is particularly good on Buddhist
+sites and art (with much from the Pala period). It will
+no doubt be remaindered shortly, as museum catalogues
+generally do not sell well except in the context of
+the exhibitions they were meant to accompany. In this case,
+the wealth of the objects depicted leads one to regret
+very much that the show could not go on.
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

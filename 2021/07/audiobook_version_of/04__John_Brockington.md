@@ -1,0 +1,62 @@
++++
+title = "04 John Brockington"
+date = "2021-07-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-July/054992.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-July/054992.html)
+
+Dear Colleagues,
+
+Towards the end of last year Penguin Books contacted us about their plan 
+of producing anaudiobook version of our /Vālmīki Rāmāyaṇa/ translation, 
+/Rāma the Steadfast./ In the course of negotiations Penguin agreedthat 
+we should be consulted over the choice of reader and should advise over 
+pronunciation issues before we signed a supplementary contract for it in 
+December. Earlier this week we contacted Penguin to enquire about 
+progress, since we had heard nothing more since then./
+/
+We were surprised to be told that the recording had already been made; 
+however, an offer to change one small passage suggested to us that it 
+had not been finalised. When we then looked on the Penguin website to 
+see if it was yet listed with a planned date of publication, we 
+discovered that, without our having been informed in any way, it had 
+already been published on 25th March.
+
+We are extremely disappointed with the result. The audiobook captures 
+none of the verve of the original oral narrative (it is read not told) 
+and the pronunciation of names and any Sanskrit words retained in the 
+translation is frequently mangled. We must warn you, therefore, that 
+this audiobook version is not at all suitable for use in an academic 
+context.
+
+With all good wishes
+
+John and Mary
+
+
+Professor J. L. Brockington
+
+Fellow, Oxford Centre for Hindu Studies
+
+Emeritus Professor of Sanskrit, University of Edinburgh
+
+Vice President, International Association of Sanskrit Studies
+
+Mrs M. Brockington
+
+Fellow, Oxford Centre for Hindu Studies
+
+Hon. Research Fellow, International Association of Sanskrit Studies
+
+113 Rutten Lane
+
+Yarnton
+
+KidlingtonOX5 1LT
+
+tel: 01865 849438
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210709/f0d1b9ab/attachment.htm>

@@ -1,0 +1,29 @@
++++
+title = "04 Stefan Baums"
+date = "2006-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-August/029951.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-August/029951.html)
+
+András Róna-Tas discusses the name ‘Tibet’ in his
+
+   Wiener Vorlesungen zur Sprach‐ und Kulturgeschichte Tibets.
+   Wien: Arbeitskreis für tibetische und buddhistische Studien,
+   1985.  (Wiener Studien zur Tibetologie und Buddhismuskunde,
+   Heft 13.)
+
+If memory serves right, he mostly refers to Turkic and other
+Central Asian sources, but you may be lucky and find something
+about Sanskrit connections as well.
+
+Best regards,
+Stefan Baums
+
+-- 
+Stefan Baums
+Asian Languages and Literature
+University of Washington
+
+
+

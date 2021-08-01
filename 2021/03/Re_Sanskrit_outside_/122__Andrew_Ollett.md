@@ -1,0 +1,87 @@
++++
+title = "122 Andrew Ollett"
+date = "2021-03-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-March/054390.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-March/054390.html)
+
+Dear Antonia, and dear colleagues,
+
+I'm encouraged by the interest that these programs represent, and aware of
+the fact that even universities that offer Sanskrit require students to be
+enrolled in (often very expensive) degree programs to take courses. The "à
+la carte" model has a lot to recommend it. I myself would be a little
+worried, in principle, about the business model and ideology of some
+"alt-ac" programs --- not, of course, the ones you listed, which have real
+scholarly credentials behind them --- but I suppose some people could worry
+about the business model and ideology of university instruction, too.
+
+Still, I would hope that people still go first to their local university
+(or the nearest university that teaches Sanskrit), because they won't know
+what's available unless they ask. Our Sanskrit classes at the University of
+Chicago, for example, are open to students from a dozen or so other
+universities in the midwest US (at least during the pandemic!), and some
+university programs put their instructional materials online for free.
+Faculty might also offer advice about language study.
+
+Andrew
+
+On Thu, Mar 11, 2021 at 12:21 PM Antonia Ruppel <rhododaktylos at gmail.com>
+wrote:
+
+> Dear List,
+>
+> Sanskrit instruction (and instruction in the humanities in general) is
+> being cut at many universities, while at the same time 'real-world'
+> interest in these topics is on the rise. Hence I thought it might be useful
+> to get an overview of the existing 'alt-ac' institutions out there.
+>
+> So far I am aware of
+> -- the School of Indian Wisdom (https://courses.rajbalkaran.com)
+> -- the Sanskrit Library (https://www.sanskritlibrary.org/courses.html)
+> -- Yogic Studies (https://www.yogicstudies.com/courses)
+>
+> (Full disclosure: I teach the Introductory Sanskrit courses offered by
+> Yogic Studies, and will be involved in the higher-level Sanskrit literature
+> courses.)
+>
+> I would be grateful for replies to this post
+> -- by anyone who can add to the above list of course offerings (i. e.:
+> courses at a properly scholarly level, taught by academics, but not limited
+> to students enrolled at one specific college or university)
+> -- by anyone at a college/university without a full Indology/Asian Studies
+> department, interested in expanding the educational offerings available to
+> their students by working together with such an alt-ac institution (the
+> Yogic Studies three-term Introductory Sanskrit sequence, for example, is
+> basically the same as the two-semester introduction I used to teach at
+> Cornell; and Yogic Studies is beginning to build up co-operations with
+> colleges/universities)
+>
+> I will happily send a summary of such offerings/institutions to the List.
+>
+> Thank you, and all the best,
+>      Antonia
+>
+>
+> --
+> Dr Antonia Ruppel FRAS
+> Author | The Cambridge Introduction to Sanskrit
+> Lehrkraft für besondere Aufgaben | Institut für Indologie und Tibetologie
+> LMU München
+> Researcher 'Uncovering Sanskrit Syntax' | Department of Linguistics,
+> Philology and Phonetics
+> Junior Research Fellow | Kellogg College
+> University of Oxford
+> _______________________________________________
+> INDOLOGY mailing list -- indology at list.indology.info
+> To unsubscribe send an email to indology-leave at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210311/12a46fb2/attachment.htm>

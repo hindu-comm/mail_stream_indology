@@ -1,0 +1,48 @@
++++
+title = "00 Manu Francis"
+date = "2018-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-January/047208.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-January/047208.html)
+
+Dear Colleagues,
+
+I forward below a query on behalf my Colleague Zoé Headley.
+
+(on her current project "Studies in Tamil Studio Archives and Society
+(S.T.A.R.S.)"
+see e.g:
+http://www.ifpindia.org/content/studies-tamil-studio-archives-and-society-stars
+and
+http://www.lemonde.fr/sciences/video/2018/01/19/une-autre-histoire-de-l-inde-ecrite-par-ses-photos_5244050_1650684.html
+)
+
+Any help will be much appreciated.
+
+Her query is:
+
+"I am searching for references in Indian literature and classical texts of
+instances of "caste impersonation", i.e. when an individual or a group
+"passes" as a caste which is not their original birth group. My search
+includes such instances in contemporary literature"
+
+With very best wishes.
+
+--
+
+Emmanuel Francis
+Chargé de recherche CNRS, Centre d'étude de l'Inde et de l'Asie du Sud (UMR
+8564, EHESS-CNRS, Paris)
+http://ceias.ehess.fr/
+http://ceias.ehess.fr/index.php?1725
+http://rcsi.hypotheses.org/
+Associate member, Centre for the Study of Manuscript Culture (SFB 950,
+Universität Hamburg)
+http://www.manuscript-cultures.uni-hamburg.de/index_e.html
+https://cnrs.academia.edu/emmanuelfrancis
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180119/a2986e0e/attachment.htm>

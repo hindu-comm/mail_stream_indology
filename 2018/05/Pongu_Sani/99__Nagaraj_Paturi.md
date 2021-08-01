@@ -1,0 +1,70 @@
++++
+title = "99 Nagaraj Paturi"
+date = "2018-05-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047593.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-May/047593.html)
+
+Is it different from the well known s'ubhatva (benefic status) and
+as'ubhatva (malefic status) of grahas in a chart based on their position
+from the lagna of the subject (person) ?
+
+Naturally malefic turns into benefic if he owns the 4th, 7th or 10th houses
+from lagna (ascendant) . Owner of the 5th and 9th houses is benefic
+whatever is its shubhaashubhatva naturally.
+
+Saturn is the owner of Makara(Capricorn) and Kumbha (Aquarius) houses.
+
+For Tula (libra) lagna for example, these two are 4th and 5th respectively.
+Thus for this lagna, Saturn is benefic in both the positions.
+
+-----------
+
+I just found that if 71/2 S'ani occurs for the second time in life, it is
+called pongu s'ani in Tamil.
+
+On Sat, May 5, 2018 at 7:46 PM, Ofer Peres via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear list members,
+>
+> I would appreciate any information on the history\origins of the south
+> Indian astrological concept "pongu sani" (benevolent Saturn).
+>
+>
+> Beat wishes,
+>
+> Ofer Peres.
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+
+-- 
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+
+BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+
+Former Senior Professor of Cultural Studies
+
+FLAME School of Communication and FLAME School of  Liberal Education,
+
+(Pune, Maharashtra, INDIA )
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180505/51985278/attachment.htm>

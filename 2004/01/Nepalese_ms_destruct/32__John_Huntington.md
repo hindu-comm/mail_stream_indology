@@ -1,0 +1,75 @@
++++
+title = "32 John Huntington"
+date = "2004-01-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-January/028108.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-January/028108.html)
+
+Dear Jonathan and others,
+
+About eighteen  months months ago, in Dang, a  "mid-western" Nepalese
+city about  160 km from the Indian border,  The "Maoists" burned  the
+western branch of the Sanskrit University to the ground. It contained
+an estimated 12,000 Sanskrit manuscripts, and they refused to let any
+one go near to try to save it. In context, I have to suspect the act
+as very anti-traditionalist, although it is very hard to know the
+motives for some of the actions of the "Maoists." Because it was so
+far form Kathmandu, very little was reported at the time and I have
+heard nothing sense.
+
+For me it was personally very devastating. The Bamiyan destruction
+had taken place several months before and for several months I had
+gone through being interviewed over and over about the great Buddhas
+which I had loved dearly. Dina (Bangdel) and I were in the middle of
+the Circle of Bliss catalog reconstructing and learning to  interpret
+Newar Buddhism from Newar Sanskrit manuscripts.  and Dina came in one
+morning saying, "You'll never guess what happened."  We tried to find
+out as much more as we could but the few news reports and the fact
+that no one was killed led the destruction to be pretty much a
+non-event in the international news.
+
+Simply enough, from the past ten years in Newar Buddhist studies,
+and proven once again by our recent work with the Newar priests who
+came to the "Nepal at LACMA" events, I know that there are
+"one-of-a-kind" manuscripts of which no one knows of another copy.
+How many such "one-of-a-kind" mss were in this Sanskrit University
+can never be known.
+
+What we need is a door-to-door survey of Vajracharya priests' and
+Shakyas' personal collections throughout the KV and a similar one for
+Hindu materials which I am personally far less familiar with.
+
+Sorry to be the bearer of such bad news if you didn't already know
+
+John (and Dina)
+
+
+>>, the
+>>burning of the Sanskrit college in Nepal with its estimated 12,000
+>>uncataloged manuscripts,
+>
+>
+>What?!
+>
+>With fear and trepedation: details please!
+>
+>PS: briefly: my note was not intended as a request for less such
+>information, but only directed against (my perceived) widening of the
+>discussion into one of general cultural trends, and the consequent
+>redirection of the discussion away from Indology and Indological
+>matters.
+>--
+>Jonathan Silk
+>Department of East Asian Languages & Cultures
+>Center for Buddhist Studies
+>UCLA
+>290 Royce Hall
+>Box 951540
+>Los Angeles, CA 90095-1540
+>phone: (310)206-8235
+>fax:  (310)825-8808
+>silk at humnet.ucla.edu
+
+
+

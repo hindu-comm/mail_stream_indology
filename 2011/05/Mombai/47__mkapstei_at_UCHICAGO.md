@@ -1,0 +1,38 @@
++++
+title = "47 mkapstei at UCHICAGO.EDU"
+date = "2011-05-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-May/035496.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-May/035496.html)
+
+Dear Hal,
+
+I received your query from Elena. Others will be
+better poised than I to help you with Chennai and Kolkata
+(often said to derive from Kalighat), but
+at least one point of interest concerning Bombay/Mumbai
+comes to mind.
+
+In a Buddhist tantra called the .Daakaar.nava
+(ed. N.N. Chaudhuri, 1935), we find reference to 
+a local divinity called (if I remember correctly - I
+don't have the text at hand) Mombaadevii, whom Chaudhuri
+posited as a first reference to the location that in
+his day was officially called Bombay. The language of the
+.Daakaar.nava is a variety of Eastern Apabhra.mza,
+certainly not Marathi, nor even a direct ancestor
+thereof. I don't think that it can be dated precisely,
+but ca. 900-1100 would be a good bet. 
+
+Hope this is of some use.
+Matthew
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

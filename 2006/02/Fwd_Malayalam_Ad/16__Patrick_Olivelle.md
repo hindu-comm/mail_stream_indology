@@ -1,0 +1,34 @@
++++
+title = "16 Patrick Olivelle"
+date = "2006-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-February/029605.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-February/029605.html)
+
+Friends:
+
+Please share this advertisement with anyone who may be able to help 
+locate a suitable instructor in Malayalam. Thanks.
+
+Patrick  Olivelle
+
+
+MALAYALAM 
+
+The Department of Asian Studies at the University of Texas at Austin invites
+applications for a Lecturer position in Malayalam language.  This is 
+a one year appointment with a strong possibility of continuing. 
+Candidates should have an advanced degree in some field that relates 
+to Language, Linguistics or Malayalam language  and a record of 
+excellence in teaching.  The selected candidate will be expected to 
+teach Malayalam language at all levels.  Please send a letter of 
+interest, current CV, three letters of reference, recent 
+papers/publications , and relevant syllabi to  Malayalam Search 
+Committee, Department of Asian Studies, 1 University Station, G9300, 
+The University of Texas at Austin, Austin, Texas 78712.   The search 
+will continue until an appointment is made.
+An AA/EEO employer.
+
+
+

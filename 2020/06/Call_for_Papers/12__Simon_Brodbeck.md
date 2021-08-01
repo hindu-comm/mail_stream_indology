@@ -1,0 +1,44 @@
++++
+title = "12 Simon Brodbeck"
+date = "2020-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-June/052807.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-June/052807.html)
+
+Dear colleagues,
+
+Please find attached, and also pasted in below, a call for papers for a seminar series next summer, on "Transdisciplinary Approaches to the Rāmāyaṇa and Mahābhārata".
+
+Please share widely!
+
+Yours,
+Simon Brodbeck
+Cardiff University
+
+--------------------------
+CALL FOR PAPERS
+Transdisciplinary Approaches to the Rāmāyaṇa and Mahābhārata
+International Online Seminar Series
+
+The Centre for Asian Studies at Cardiff University, Wales, invites participants for an online seminar series on transdisciplinary approaches to the Rāmāyaṇa and Mahābhārata. Our aim is to provide a platform for expanding and strengthening the dialogue between the disciplines within Indology and art history. We welcome proposals with an interdisciplinary or monodisciplinary
+scope.
+
+The seminars, convened by Laxshmi Greaves, Simon Brodbeck and James Hegarty, will be held every Thursday from the 3rd June until the 8th July 2021, 2–4.30 pm British Summer Time, on Zoom.
+
+Panel proposals of three papers, or individual abstracts of 300–500 words, should be emailed to tarm at cardiff.ac.uk by the 1st December 2020. Presentations will be 30 minutes long, excluding discussion time.
+
+The outcome of this seminar series will be a peer-reviewed edited volume.
+--------------------------
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200616/b3f47353/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: CALLFORPAPERSPOSTER20202.pdf
+Type: application/pdf
+Size: 1399091 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20200616/b3f47353/attachment.pdf>

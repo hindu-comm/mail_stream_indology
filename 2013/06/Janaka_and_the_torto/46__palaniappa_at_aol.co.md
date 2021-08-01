@@ -1,0 +1,27 @@
++++
+title = "46 palaniappa at aol.com"
+date = "2013-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-June/038034.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-June/038034.html)
+
+Dear Indologists,
+
+
+Several months ago, I was told that there is a story in the Padma Purana involving king Janaka and tortoise. If my memory is right, here are some details of the story. One day Janaka went into a forest. Seeing him, a tortoise got scared and tried to run away. Janaka was worried why the animal was scared of him since he thought he had been ruling righteously. Janaka caught up to the tortoise and asked why it was scared of him. The tortoise told him that in the past on many occasions it had been caught to be buried under the fire altar of the Vedic sacrifice. And when it saw the king, it was afraid that it was going to be caught again for being buried under the sacrificial altar. 
+
+
+If anybody knows the story, I would appreciate accurate details of the story and the reference.
+
+
+Thanks in advance.
+
+
+Regards,
+Palaniappan
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130615/ac1f0808/attachment.htm>

@@ -1,0 +1,75 @@
++++
+title = "104 Nagaraj Paturi"
+date = "2016-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-August/043826.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-August/043826.html)
+
+Moral of the story: When posts are sent from left foot, all the colourful
+video thumbnails disappear from the signature.
+
+On Tue, Aug 9, 2016 at 8:16 AM, Patrick Mccartney <psdmccartney at gmail.com>
+wrote:
+
+> Dear Friends,
+>
+> I was going thru my book shelf and stumbled across this loose bit of
+> paper. On it is an 'interesting' mathematical formula  pertaining to the
+> value of 'om'.
+>
+>  I think my old yoga teacher gave me this page many years ago.
+>
+> I am no mathematician but I would be curious to know from the more
+> mathematically inclined folk amongst us what you think of it.
+>
+> On the opp side of the page there is a reference scribbled which might be
+> linked.
+>
+> Page 44 - SK Kapoor - science and technology of the Vedas. Nag publishers,
+> Delhi
+>
+> Maheshwara sutra and Saraswati mantra
+>
+> Dharam hinduja international centre of Indic sequence
+>
+>
+>
+> Best,
+>
+> Patrick
+>
+>
+> Sent from my left foot
+>
+>
+>
+>
+>
+> Sent from my left foot
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+
+-- 
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+Former Senior Professor of Cultural Studies
+
+FLAME School of Communication and FLAME School of  Liberal Education,
+
+(Pune, Maharashtra, INDIA )
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160809/f9c162a7/attachment.htm>

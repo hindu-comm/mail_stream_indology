@@ -1,0 +1,31 @@
++++
+title = "285 Dominik Wujastyk"
+date = "2000-01-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019878.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019878.html)
+
+For the last two or three months I have not been watching INDOLOGY
+carefully for overposting, on the assumption that the people I had warned
+about overposting last year would have mended their ways.  I am
+disappointed to find that my trust has been misplaced, and postings from
+some individuals have been grossly above the limits for this list.
+
+I've initiated some suspensions from the list with immediate effect.  And
+I shall be examining the list logs for the past few months to see whether
+others have systematically exceeded list norms.
+
+I remind members that postings should be short (normally not more than a
+screenful of text) and that not more than about fifteen postings per month
+per member are welcomed.   I note that several members are already nearing
+this limit for the current month.
+
+If you are posting more than every other day, or so, then you badly need
+some other hobbies.  :-)
+
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

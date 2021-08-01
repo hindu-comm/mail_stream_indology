@@ -1,0 +1,25 @@
++++
+title = "68 Harsha Dehejia"
+date = "2008-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-November/032233.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-November/032233.html)
+
+Yasoslav:
+
+Ludwig Habighorst published a small illustrated book on intoxicants which contains a chapter on betel chewing.
+
+Love for Pleasure, Betel Tobacco, Wine and Drugs in Indian Miniatures 
+by Habighorst, Reichart and Sharma. 
+Ragaputra, 2007
+
+lhabighirst at globalserve.de
+
+Regards.
+
+Harsha V. Dehejia
+Otawa, ON., Canada.> Date: Sun, 23 Nov 2008 11:32:15 +0300> From: yavass at MAIL.RU> Subject: two queries> To: INDOLOGY at liverpool.ac.uk> > Dear colleagues,> can anybody tell me:> 1. is it possible to see in the web or anywhere how VIBHITAKA NUTS look like?> 2. do you know any literature on the tradition of BETEL chewing in India?> Many thanks in advance> Yaroslav Vassilkov> > > Авто@Mail.Ru: Отменили НДС на подержанные машины> http://r.mail.ru/cln3686/auto.mail.ru
+
+
+

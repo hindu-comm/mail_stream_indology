@@ -1,0 +1,18 @@
++++
+title = "212 Rosa EG Franco"
+date = "2000-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022425.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022425.html)
+
+Hello, I am looking for some information regarding two contemporary authors
+on miniaturre painting books, William George Archer, who has worked
+extensively on Punjabi Painting, and M.S. Randhawa, author of Kangra
+Paintings on Love, Basohi Painting and many other titles. I have not been
+able to get hold of a biography of them anywhere.
+Thank you,
+Rosa E.Garcia-Franco
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "38 John C. Huntington"
+date = "2006-09-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-September/030009.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-September/030009.html)
+
+My sincere apologies for cross listing!
+
+We have an unusual (large) funding opportunity for the Huntington  
+Archive from a private Endowment. As part of our communication with  
+the foundation a few appreciatory notes from senior members of the  
+two lists about the value of the Archive would be very useful right  
+now. Nothing elaborate, a couple of lines at the most. You might  
+mention a feature of it that you like if you care to but it is not  
+necessary.
+
+Thank you all
+
+John
+John C. Huntington, Professor
+(Buddhist Art and Methodologies)
+http://tinyurl.com/kjyjk
+Please also visit our research site
+http://huntingtonarchive.osu.edu
+Department of the History of Art
+The Ohio State University
+Columbus, OH, U.S.A.
+
+
+

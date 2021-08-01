@@ -1,0 +1,39 @@
++++
+title = "119 mkapstei at UCHICAGO.EDU"
+date = "2009-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/032965.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/032965.html)
+
+Dear colleagues:
+
+I have two brief queries regarding points of Prakrit:
+
+1. As a general rule, a word final consisting of a long vowel
+with anusvara (e.g. iiM) can only be followed, in the next
+word, by a syllable beginning with a single consonant. 
+(A double consonant adds a mora to the preceding syllable,
+which is ruled out when the syllable is of 2 morae.) This rule
+should be scrupulously observed in verse, of course, but my
+question concerns its treatment in prose. Are exceptions to be
+considered simply as wrong? or does prose composition allow
+some leeway here? (I am ignoring, by the way, and am not
+interested in, the treatment of a following word initial
+beginning with a vowel.) 
+
+2. Can someone recommend a convenient guide to Prakrit
+prosody, similar to the appendix on Skt prosody in
+Apte's dictionary?
+
+thanks for your recommendations,
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

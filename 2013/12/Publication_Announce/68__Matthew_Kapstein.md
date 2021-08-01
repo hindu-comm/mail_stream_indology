@@ -1,0 +1,30 @@
++++
+title = "68 Matthew Kapstein"
+date = "2013-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-December/038739.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-December/038739.html)
+
+Dear Joseph,
+
+Your observations on early Buddhist responses to sacrifice are interesting indeed, perhaps the
+beginning of a new thread. No doubt my views are colored by the later sources I know best. 
+In any event, opposition to sacrificial cult at some point became a hallmark of Buddhism - this
+is precisely the reason for which Jayadeva praises Buddha as a compassionate avatāra of Viṣṇu
+in Gītagovinda, but that is another story! (and interesting that he does not invoke the 'leading sinners astray'
+trope of the VP that was mentioned earlier).
+
+best,
+Matthew
+
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+
+

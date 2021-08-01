@@ -1,0 +1,70 @@
++++
+title = "114 Dipak Durgamohan Bhattacharya"
+date = "2014-01-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-January/038838.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-January/038838.html)
+
+Dear Colleague,
+The answer might lie in the emergence of the kaaya theory along with the
+docetic concept of an apparitional (nirmaa.nakaaya)Buddha among the
+Maahaasaa.nghikas.
+Could you consult the Journal of research, Visva Bharati, vol.i, part 1,
+1976-77: 41ff? I made some preliminary observations on the emergence oif
+the kaaya concept. It seems that the concept of a Buddha which is not the
+historical one should have originated among the Maahaasaa.nghikas.
+Best
+
+
+On Tue, Jan 21, 2014 at 5:38 PM, Dipak Durgamohan Bhattacharya <
+dipak.d2004 at gmail.com> wrote:
+
+> Dear Colleague,
+> The answer might lie in the emergence of the kaaya theory along with the
+> concept of the docetic (nirmaa.nakaaya)Buddha among the Maahaasaa.nghikas.
+> Could you consult the Journal of research, Visva Bharati, vol.i, part 1,
+> 1976-77: 41ff. I made some preliminary observations on the emergence oif
+> the kaaya concept. It seems that the concept of a Buddha which is not the
+> historical one should have originated among the Maahaasaa.nghikas.
+> Best
+> DB
+>
+>
+>
+> On Tue, Jan 21, 2014 at 4:07 PM, James Hegarty <hegartyjm at googlemail.com>wrote:
+>
+>> Dear Colleagues,
+>>
+>> Can anyone advise me as to how common visualisation of the Buddha or Guru
+>> is in Buddhist meditative practice?
+>>
+>> Can anyone also suggest the period in which such practices were likely to
+>> have developed? It is not something I associate with Pali sources (but I am
+>> no Buddhologist).
+>>
+>> I am particularly interested in materials that are likely to date to the
+>> first millennium of the common era.
+>>
+>> If there are any striking examples of this practice in other early Indian
+>> religious traditions, I would also be grateful to hear of them.
+>>
+>> With Thanks and Best Wishes,
+>>
+>> James Hegarty
+>> Cardiff University
+>> UK
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> http://listinfo.indology.info
+>>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140121/478744ab/attachment.htm>

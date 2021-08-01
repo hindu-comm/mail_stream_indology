@@ -1,0 +1,34 @@
++++
+title = "14 Jeffrey Lidke"
+date = "2002-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-March/026768.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-March/026768.html)
+
+Colleagues,
+
+Two questions.  First, are any of you aware of any
+scholars who are doing research on religion, politics,
+and society in western Nepal?  Relatedly, can you
+recommend any valuable published materials?  At this
+point I am mostly working with Nepali sources.  I am
+particularly interested in the interface of Sakta
+Tantrism with the traditions of Mashto and the nine
+Bhavanis in Accham.  Second, a student of mind is
+planning to do research on textile industries in South
+India.  Do any of you have recommendations for sources
+or contact that might be of value in this regard?
+
+Thank you,
+
+Jeffrey Lidke
+Bard College
+
+__________________________________________________
+Do You Yahoo!?
+Try FREE Yahoo! Mail - the world's greatest free email!
+http://mail.yahoo.com/
+
+
+

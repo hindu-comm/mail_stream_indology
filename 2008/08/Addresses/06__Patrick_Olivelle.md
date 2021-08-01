@@ -1,0 +1,26 @@
++++
+title = "06 Patrick Olivelle"
+date = "2008-08-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-August/031915.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-August/031915.html)
+
+Friends:
+
+Could someone send me the email addresses of the following:
+
+A. A. Vigasin
+A. M Samozvantsev (the two of these Russian scholars wrote "Society, 
+State, and Law in Ancient India"
+
+Gen'ichi Yamazaki, who published "The Structure of Ancient Indian 
+Society" in 2005 and works at the Toyo Bunko.
+
+Thank you very much.
+
+
+Patrick Olivelle
+
+
+

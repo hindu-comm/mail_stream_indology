@@ -1,0 +1,47 @@
++++
+title = "90 Sudalaimuthu Palaniappan"
+date = "2018-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047710.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-May/047710.html)
+
+This is not a pdf. But the text is available here in a Unicode-compliant format.
+
+http://www.tamilvu.org/ta/library-l41d0-html-l41d0ind-139511 <http://www.tamilvu.org/ta/library-l41d0-html-l41d0ind-139511> 
+
+Regards,
+Palaniappan
+
+> On May 28, 2018, at 4:41 AM, David Pierdominici via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Dear Indologists and list members,
+> 
+> does anyone have by chance a PDF copy of the Tamil Tiruviḷaiyāḍal purāṇam to kindly share with me? On Internet Archive only the front cover of the edition is digitised.
+> Thanking in advance, my warmest regards
+> 
+> David Pierdominici Leão
+> Ph.D., Sapienza University
+> Academia: https://uniroma1.academia.edu/DavidPierdominici <https://uniroma1.academia.edu/DavidPierdominici>
+> Mobile +39 3407303232
+> Skype: davidpaolo89
+> 
+> 
+> ___________________________________________
+> Il tuo 5 diventa 1000
+> Fai crescere la tua università
+> Dona il 5 per mille alla Sapienza
+> Codice fiscale: 80209930587
+> https://www.uniroma1.it/it/pagina/fai-crescere-la-tua-universita-con-il-cinque-mille <https://www.uniroma1.it/it/pagina/fai-crescere-la-tua-universita-con-il-cinque-mille>
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180528/e4754a26/attachment.htm>

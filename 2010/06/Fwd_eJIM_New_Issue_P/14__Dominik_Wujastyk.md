@@ -1,0 +1,45 @@
++++
+title = "14 Dominik Wujastyk"
+date = "2010-06-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-June/034510.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-June/034510.html)
+
+I forward the announcement below and, wearing my Advisory Board member hat,
+I'd like to add that eJIM is interested in receiving submissions on,
+"traditional South Asian medical systems by qualified scholars in philology,
+medicine, pharmacology, botany, anthropology and sociology."
+
+---------- Forwarded message ----------
+From: Roelf Barkhuis <info at barkhuis.nl>
+Date: 17 June 2010 13:55
+Subject: eJIM New Issue Published
+
+Dear Indologists,
+
+eJIM - eJournal of Indian Medicine - has just published its latest issue at
+http://www.indianmedicine.nl. We invite you to review the Table of Contents
+here below and then visit our web site to review articles and items of
+interest.
+
+eJIM currently has 509 registered readers.
+
+eJIM - eJournal of Indian Medicine, vol 3, No 1 (2010).
+
+Table of Contents: http://bjournals.ub.rug.nl/index.php/ejim/issue/view/32
+
+Articles
+--------
+
+   - On what became of the Carakasaṃhitā after Dṛḍhabala’s revision (1-22)
+   Philipp A. Maas
+   - Memoirs of Vaidyas. The Lives and Practices of Traditional Medical
+   Doctors in Kerala, India (4) (23-52)
+   Tsutomu Yamashita, P. Ram Manohar
+   - Folklore Medicinal Plants of Gulbarga District, Karnataka, India
+   (53-60)
+   N.K. Devendra, B.M. Vijaykumar, Y.Nn. Seetharam
+
+
+

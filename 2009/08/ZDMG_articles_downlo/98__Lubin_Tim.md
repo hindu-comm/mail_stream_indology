@@ -1,0 +1,61 @@
++++
+title = "98 Lubin, Tim"
+date = "2009-08-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033564.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033564.html)
+
+It is wonderful to have the ZDMG available for download.  But I downloaded a number of articles, only to find that they could not be opened (by my Acrobat 7) because they were "damaged" and "could not be repaired."  Have others had the same problem, or is it unique to me?
+
+Tim Lubin
+
+Timothy Lubin
+Professor, Department of Religion
+Lecturer in Law and Religion, School of Law
+Washington and Lee University
+Lexington, Virginia 24450 USA
+
+Chercheur affilié, Département d’Indologie
+Institut français de Pondichéry
+11, St. Louis Street
+Puducherry, India 605 001
+
+Fulbright-Hays FRA Fellow in India, 2009-2010
+lubint at wlu.edu  |  http://home.wlu.edu/~lubint | +91 95665 62663
+________________________________________
+From: Indology [INDOLOGY at liverpool.ac.uk] On Behalf Of Walter Slaje [slaje at T-ONLINE.DE]
+Sent: Wednesday, August 19, 2009 2:15 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Re: ZDMG articles downloadable as single files
+
+> But I could not find how to search for Supplements. The files opening
+> under Bd.** do not show 'Supplement'.
+
+Just scroll down the third column on the right-hand side to the bottom of
+the page and you will find all supplementary volumes arranged in a sequence.
+
+http://menadoc.bibliothek.uni-halle.de/dmg/periodical/structure/2327
+
+Best,
+
+WS
+
+------------------------------
+Prof. Dr. Walter Slaje
+Hermann-Löns-Str. 1
+D-99425 Weimar
+(Germany)
+www.indologie.uni-halle.de
+
+Ego ex animi mei sententia spondeo ac polliceor
+studia humanitatis impigro labore culturum et provecturum
+non sordidi lucri causa nec ad vanam captandam gloriam,
+sed quo magis veritas propagetur et lux eius, qua salus
+humani generis continetur, clarius effulgeat.
+Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
+
+!SIG:4a8b98f7281785447010560!
+
+
+

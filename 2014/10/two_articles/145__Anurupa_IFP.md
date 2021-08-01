@@ -1,0 +1,74 @@
++++
+title = "145 Anurupa IFP"
+date = "2014-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-October/040055.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-October/040055.html)
+
+Dear Dr. Griffiths,
+
+We have the first item in our library. Will send you the scans soon.
+
+With best wishes,
+Anurupa
+
+Ms. Anurupa Naik
+Head, Library and Publication Division
+French Institute of Pondicherry (IFP)
+UMIFRE 21 CNRS-MAEE
+P.B. 33
+11, St. Louis Street
+Pondicherry-605 001, INDIA
+
+Tel: 91-413-2231660
+Fax: 91-413-2231605
+e-mail: anurupa.n at ifpindia.org
+website: www.ifpindia.org
+
+  ----- Original Message ----- 
+  From: Arlo Griffiths 
+  To: indology at list.indology.info 
+  Sent: Tuesday, October 07, 2014 1:39 PM
+  Subject: [INDOLOGY] two articles
+
+
+  Dear colleagues,
+
+  A few months ago, I sought help to obtain the following item:
+
+  P.V.B. Karunatillaka, “The Administrative Organization of the Nalanda Mahavihara from Sigillary Evidence”, The Sri Lanka Journal of the Humanities 6.1 & 2 (1980): ???-???.
+
+  This request has not yet borne fruit. Could it be that anyone who reads this now has access to said journal?
+
+  I would like to add another request:
+
+  Rosen, Elizabeth & Alex Wayman, “The Rise of Mahayana Buddhism and Inscriptional Evidence at Nagarjunakonda.” Indian Journal of Buddhist Studies 2.1 (1990): ???–???.
+
+  For neither of these two items do I know the relevant pages numbers.
+
+  I would be very grateful for pdfs.
+
+  Best wishes,
+
+  Arlo Griffiths
+  EFEO/Jakarta 
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+
+
+  _______________________________________________
+  INDOLOGY mailing list
+  INDOLOGY at list.indology.info
+  http://listinfo.indology.info
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141007/e5b1fb12/attachment.htm>

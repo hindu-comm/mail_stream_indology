@@ -1,0 +1,27 @@
++++
+title = "00 dean_anderson at SACARI.ORG"
+date = "2003-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-April/027618.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-April/027618.html)
+
+I recently ran across mention that (some) Buddhists hold the Buddha's date
+to be around 1700 B.C. Perhaps this is a Tibetan tradition?
+
+Another source said that some hold it to be 1000 B.C. I believe this may be
+a date from some in the Sankaracarya tradition who would then put Sankara at
+around 5-600 B.C.
+
+These dates are obviously much earlier than those commonly accepted among
+scholars -- even given the range of differing opinions among them.
+
+Are these dates accepted by a large number of followers in Buddhism and
+Vedanta?
+
+What are their reasons for choosing these dates?
+
+Dean Anderson
+
+
+

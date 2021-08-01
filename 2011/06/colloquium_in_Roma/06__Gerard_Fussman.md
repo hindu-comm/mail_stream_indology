@@ -1,0 +1,140 @@
++++
+title = "06 Gerard Fussman"
+date = "2011-06-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-June/035551.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-June/035551.html)
+
+This is to announce the Seechac Colloquium in Roma next october. Gérard Fussman.
+SEECHAC International Colloquium
+
+Rome, Museo Nazionale d'Arte Orientale 'Giuseppe Tucci', October 10th and 11th, 2011 
+
+
+
+Politics and religions in the Himalayas and Central Asia.
+
+The political and religious expression of sovereignty in the Himalayas and Central Asia: 
+
+rituals, texts, representations and institutions, from antiquity till now.
+
+
+
+(second program subject to last minute changes)
+
+Monday October 10th 2011
+
+
+
+      9h00-9h15
+     Welcoming of the participants, presentation of badges and documents.
+
+      9h15- 9h40
+     Opening of the colloquium. Welcoming speeches by Dr Luigi La Rocca, Superintendent of MNAO, Dr Massimiliano A. Polichetti, Prof. Gerard Fussman and Prof. Anna Maria Quagliotti.
+
+      9h40-10h00
+     Keynote by Jacques Giès, President of Musée Guimet.
+
+      10h00-10h25
+     Laura Giuliano (Roma): Oeso and the King.
+
+      10h35-11h00
+     Pause
+
+      11h00-11h25
+     Harry Falk (Berlin): The chronologies used in Indo-Scythian, Indo-Parthian and Kushan times in Greater Gandhara: a synopsis with new material.
+
+      11h35-12h00
+     Anna Filigenzi (Napoli): Praxis and orthopraxis in pre-medieval Buddhism: a glimpse into the relationship between lay and religious power.
+
+      12h10-12h35
+     Zafar Paiman (Kabul and Paris): Le monastère de Tepe Narenj: un témoignage de l'art "hephthalo-bouddhique".
+
+      12h45-14h30
+     Lunch pause 
+
+      14h30-14h55
+     Katsumi Tanabe (Tokyo): Iconographical study of a limestone Buddhist relief allegedly unearthed in Northern Afghanistan.
+
+      15h05-15h30
+     Erika Forte (Wien): Ensuring sovereignty: the Buddhist legitimization of the Kingdom of Khotan.
+
+      15h40-16h05
+     Ciro Lo Muzio (Roma): Bird symbolism in Central Asian headgears.
+
+      16h15-16h40
+     Pause
+
+      16h40-17h05
+     Arcangela Santoro (Roma): The universal sovereignty of the Buddha in Kizil.
+
+      17h15-17h40
+     Lore Sander (Berlin): Donors in Kizil caves.
+
+      17h50-18h15
+     Giovanna Lombardo (Roma): At the origins of power and sovereignty: the Late Bronze Age necropolis of Kangurttut (Southern Tadjikistan).
+
+      18h25-18h50
+     Margherita Mantovani (Roma): La Religione della Luce nella lettera ebraica del prete Gianni.
+
+
+
+
+Tuesday October 11th 2011
+
+      9h00-9h25
+     Bruno Genito (Napoli): Scythic kurgans and kingship.
+
+      9h35-10h10
+     Isabelle Charleux (Paris): Rois et reines dans les portraits des souverains mongols du XIIIe au XVIIIe siècle.
+
+      10h15-10h40
+     Patrizia Cannata (Roma): Religions as a tool for political control and national identity's statement in the Uyghur empire.
+
+      10h50-11h15
+     Pause
+
+      11h15-11h40
+     Paola Mortari Vergara Caffarelli (Roma): Pelden Lhamo, The protective goddess of the Dalaï  Lamas in Tibetan architecture and art.
+
+      11h50-12h10
+     David Pritzker (Oxford): Rin chen bzang po and the treasures of mKha rtse.
+
+      12h10-12h35
+     Charles Ramble (Paris): How to be a good king: Tibetan treatises on monarchy and statecraft.
+
+      12h45-14h30
+     Lunch pause 
+
+      14h30-14h55
+     Hubert Feiglstorfer (Wien): Structural and territorial organization of the early Tibetan polity (VIIth-IXth c.).
+
+      15h05-15h30
+     Christiane Kalantari (Wien): Iconography of sovereignty and religio-political power in early Western Tibet
+
+      15h40-16h05
+     Christian Jahoda (Wien): Festival and ritual tradition in key religio-political centers of historical Western Tibet (mNga'ris skor gsum).
+
+      16h15-16h40
+     Pause
+
+      16h40-17h05
+     Marialaura Di Mattia (Roma): The religious factor as a political tool in the establishment of the Western Himalayan kingdoms
+
+      17h15-17h40
+     Erberto Lo Bue (Milano): The main image in Gtsug lag khang or Rgyaltse and its religious and political meaning.
+
+      17h50-18h10
+     Lara Maconi (Paris): Le roi-lama de l'ancien royaume bouddhiste de Muli.
+
+      18h20-18h50
+     General discussion and closure of the colloquium.
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110618/6cc8c225/attachment.htm>

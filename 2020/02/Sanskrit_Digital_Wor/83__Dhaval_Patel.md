@@ -1,0 +1,43 @@
++++
+title = "83 Dhaval Patel"
+date = "2020-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-February/051725.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-February/051725.html)
+
+Dear scholars,
+
+During the projects involving digitization of Sanskrit works, some of us
+feel lack of competent manpower sometimes.
+
+On the other hand, there may be people who have requisite typing or
+proofreading skills and are not able to get in touch with potential
+employers / hirers.
+
+Therefore, Vishvas at sanskrit-programmer group has created a small google
+form.
+ https://rebrand.ly/digital-skt-temp-signup
+
+Two requests to members -
+
+1. If you know any person interested in Sanskrit digitization works, ask
+them to register. I request you to disseminate this information to such
+skilled people in your circle.
+
+2. If you / your contacts are looking for people to digitize something, you
+may consider hiring interested people from  the list
+https://rebrand.ly/digital-skt-temps
+
+
+
+
+-- 
+Dr. Dhaval Patel, I.A.S
+Collector and District Magistrate, Surat
+www.sanskritworld.in
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200209/228f73f2/attachment.htm>

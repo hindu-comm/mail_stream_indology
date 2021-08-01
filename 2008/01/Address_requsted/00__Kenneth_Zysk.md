@@ -1,0 +1,24 @@
++++
+title = "00 Kenneth Zysk"
+date = "2008-01-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-January/031388.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-January/031388.html)
+
+I should greatly appreciate it if anyone could provide me with the current mailing address and email address of Mr. Michel Delahoutre, who from my last record in 1993 lived in Levallois, France.
+Thank you in advance.
+
+Yours sincerely,
+
+Kenneth Zysk
+Department of Cross-Cultural and Regional Studies
+University of Copenhagen
+Asian Studies Section   
+Leifsgade 33,5     
+DK-2300 Copenhagen S    Denmark
+Ph:  +45 3532 8832   Email: zysk at hum.ku.dk
+Fax: +45 3532 8835
+
+
+

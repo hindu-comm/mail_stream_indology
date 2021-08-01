@@ -1,0 +1,29 @@
++++
+title = "140 Steve Farmer"
+date = "2001-03-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025689.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025689.html)
+
+Quick bibliographical question:
+
+There is a famous passage in Herodotus (esp. 3.102), raised in
+discussing the tribute Indians paid to the Achaemenids, that
+speaks of giant Indian ants that supposedly brought gold to the
+surface when digging their tunnels. Could someone point me to the
+Mahabharata passages that tell the same or a similar story? The
+story is discussed, among other places, by B. Lauffer, 'Die Sage
+von den goldgrabenden Ameisen,' T'oung Pao (1908) 9:429-452.
+Unfortunately, I no longer have a copy of that article at hand.
+
+The story illustrates the kinds of story that could pass fairly
+readily between India and Greece after the late 6th century BCE,
+thanks apparently to the Persian conquests in that period in NW
+India. I'm interested in such communications since I'm trying to
+track down evidence of more important (if indirect) influences of
+the Achaemenids on the canonization of Vedic sources in the
+6th-5th centuries.
+
+
+

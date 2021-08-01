@@ -1,0 +1,24 @@
++++
+title = "391 Arun Gupta"
+date = "2000-11-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023920.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023920.html)
+
+Balderdash !
+
+Sorry, but the notion that one should study only the culture one is born in,
+or that only people born in a culture are allowed to become experts about
+it, or that support is not going to be available for people who want to
+study another culture, etc. is so absurd, chauvinistic, bigotted, racist,
+anti-humanistic, that it merits impoliteness, if nothing stronger.
+
+Reduce the proposition to concrete terms and note, e.g., it is not
+acceptable that the I.C.H.R., whether packed with Marxists or packed with
+BJP-ites, dictates to India what India's history is.
+
+-Arun Gupta
+
+
+

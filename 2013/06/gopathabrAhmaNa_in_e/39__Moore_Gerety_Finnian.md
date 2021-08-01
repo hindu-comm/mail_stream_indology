@@ -1,0 +1,23 @@
++++
+title = "39 Moore Gerety, Finnian"
+date = "2013-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-June/038031.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-June/038031.html)
+
+Hello Indologists--
+Does anyone on the list have a scan to share of Hukam Chand Patyal's unpublished 1969 thesis?
+Patyal, Hukam Chand. 1969 Gopatha Brahmana. English Translation with Notes & Introduction. Thesis. University of Poona.
+
+Thanks in advance.
+
+Finnian
+
+Finnian Moore Gerety
+Doctoral Candidate
+Department of South Asian Studies
+Harvard University
+
+
+

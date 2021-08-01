@@ -1,0 +1,56 @@
++++
+title = "32 Lindquist, Steven"
+date = "2016-06-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-June/043440.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-June/043440.html)
+
+Please pardon x-posting.
+
+Asian Studies at SMU and the South Asia Research and Information Institute, Dallas, are pleased to announce our Annual South Asia Conference for 2016.  The event is free and open to the public. For information on Dallas, accommodations, etc., please feel free to contact us off-list.  Registration information will be posted later this summer.
+
+
+The Legacy of Buddhism in South Asia: Disruption, Propagation, and Accommodation
+Saturday, Oct. 1st, 9am-5pm
+McCord Auditorium, SMU Campus
+
+Presentations include:
+
+"Between Rejection and Integration: Brahmanical Ideas and Practices in Early Buddhist Texts”
+Oliver Freiberger, The University of Texas at Austin
+
+"Does Propagation Digress into Degeneration? Insights into the Legacy of Buddhism in Andhra”
+Sree Padma Holt, Bowdoin College
+
+"Buddhism among Tamils”
+Peter Schalk, Uppsala University (emeritus)
+
+"The Rise of the Oppressed Tamilan: Iyotheethassar, Tamil Buddhism, and the Movement towards a Casteless South Asia”
+Gajendran Ayyathurai, University of Göttingen
+
+"A Civil Religion for Modern India? B.R. Ambedkar, Buddhism and Untouchability”
+Johannes Beltz, Museum Rietberg
+
+More information on organizers at:
+www.smu.edu/asianstudies
+www.sarii.org
+
+
+My best,
+
+Steven
+
+STEVEN LINDQUIST, PH.D.
+ASSOCIATE PROFESSOR, RELIGIOUS STUDIES
+DIRECTOR, ASIAN STUDIES
+_____________
+Southern Methodist University
+PO Box 750202 | Dallas | TX | 75275
+http://faculty.smu.edu/slindqui
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160607/c9aef3ca/attachment.htm>

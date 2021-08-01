@@ -1,0 +1,46 @@
++++
+title = "02 @ProfPankajJain PhD पंकज जैन"
+date = "2019-04-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/050029.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/050029.html)
+
+Hello and Namaste,
+
+Please mark your calendars for the AAIS Inaugural Conference in Feb 2020 in
+Dallas, Texas in affiliation with NAAAS
+https://www.naaas.org/national-conference-2/
+
+A detailed call for papers with the theme of postcolonialism will be
+announced soon.
+
+Hope to host you here in Dallas in February 2020.
+
+Thanks,
+Pankaj Jain
+
+----------------------------------------------------------------------------------
+
+Dr. Pankaj Jain पंकज जैन
+Associate Professor, Dept of Philosophy and Religion
+<http://jainstudies.unt.edu/pankaj-jain>
+
+Co-chair, India Initiative Group
+<https://international.unt.edu/content/india-initiatives-group>
+
+University of North Texas
+
+Editor,  <http://www.springer.com/us/book/9789402411874>Encyclopedia of
+<http://www.springer.com/us/book/9789402411874>Hinduism
+<http://www.springer.com/us/book/9789402411874>
+
+unt.academia.edu/PankajJain/,  <https://twitter.com/ProfPankajJain>
+@ProfPankajJain <https://twitter.com/ProfPankajJain>
+
+orcid.org/0000-0003-3906-0855
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190430/6d159bcf/attachment.htm>

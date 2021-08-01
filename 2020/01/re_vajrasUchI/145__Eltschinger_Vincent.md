@@ -1,0 +1,104 @@
++++
+title = "145 Eltschinger, Vincent"
+date = "2020-01-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-January/051651.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-January/051651.html)
+
+Dear Matthew,
+I was referring to most of the elements of the list I quoted, of course, not to the entire Vajrasūcī. But you are right, Matthew: the Mahābhārata plays an important role in the Vajrasūcī, as does… Manu – which may be the reason for Patrick’s query. It is well known that the Vajrasūcī attributes several verses to Manu that cannot be traced in the extant Mānavadharmaśāstra (if I remember well, this is the reason why some scholars tentatively attributed them to a lost Mānava Dharmasūtra). Whatever the case may be, we might perhaps agree that the Vajrasūcī is unlikely to have been composed before the 3rd-4th century CE. I am inclined to believe that it is even younger.
+Very best,
+Vincent
+
+
+
+Vincent Eltschinger, korrespondierendes Mitglied der OeAW
+Directeur d'études
+École Pratique des Hautes Études, Section des sciences religieuses
+Patios Saint-Jacques, 4-14 rue Ferrus - 75014 Paris
+vincent.eltschinger at ephe.sorbonne.fr
+0033 1 56 61 17 34 / 0033 7 85 86 84 05
+________________________________
+Von: Matthew Kapstein <mkapstei at uchicago.edu>
+Gesendet: Samstag, 25. Januar 2020 22:13:42
+An: Eltschinger, Vincent; Olivelle, J P; indology at list.indology.info
+Betreff: Re: Vajrasūcī
+
+Not wishing to differ with my learned colleague Vincent Eltschinger's remarks (which are surely based on a deeper engagement with this corpus than my own), I tend nevertheless to think it not quite plausible that "most of its individual elements could have been known around 100 CE."
+My sense is that the several epic and puranic parallels point to a somewhat later period.
+
+Matthew
+
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+From: Eltschinger, Vincent <Vincent.Eltschinger at oeaw.ac.at>
+Sent: Saturday, January 25, 2020 10:00 AM
+To: Olivelle, J P <jpo at austin.utexas.edu>; Matthew Kapstein <mkapstei at uchicago.edu>; indology at list.indology.info <indology at list.indology.info>
+Subject: AW: Vajrasūcī
+
+
+Dear Patrick,
+
+As you know, Aśvaghoṣa directed some arguments against the Brahmanical understanding of the caste-classes in one of his dramas, the Śāriputraprakaraṇa/Śaradvatīputraprakaraṇa, several fragments of which have been preserved in Central Asian manuscripts and edited by Heinrich Lüders around 1910. It is thus plausible that Aśvaghoṣa dedicated an individual treatise to this topic. The style, the method and the philosophical ressources of the Vajrasūcī, however, are very different from the ones we know from Aśvaghoṣa’s genuine works, and may presuppose Buddhist works such as the Śārdūlakarṇāvadāna if not Kumāralāta’s Kalpanāmaṇḍitikā Dṛṣṭāntapaṅktiḥ. Even if I am not aware of any convincing argument against the attribution of the Vajrasūcī to Aśvaghoṣa, I have always regarded the following statement as anachronistic: dṛśyante ca kvacic chūdrā api vedavyākaraṇamīmāṃsāsāṃkhyavaiśeṣikanagnā*jīvikādisarvaśāstrārthavidaḥ /. “And one observes in some cases that even śūdras know the meaning of all śāstras such as the Veda, Grammar, Mīmāṃsā, Sāṃkhya, Vaiśeṣika as well as [those of] the Jainas and the Ājīvikas.” (*-nagnā- em. : lagnā- Ed.) Although such a list is not per se impossible in Aśvaghoṣa’s time, i.e., although most of its individual elements could have been known around 100 CE, I do not believe that such an enumeration would have been possible, as a doxographic statement, at that time, and even less so under Aśvaghoṣa's "pen." (The absence of the Nyāya from the list is intriguing.)
+
+Another element possibly deserving some consideration is the Sanskrit colophon in which Aśvaghoṣa is characterized as siddhācārya (kṛtir iyaṃ siddhācāryāśvaghoṣapādānām iti), an expression the exact meaning of which remains somewhat unclear to me.
+
+I am looking forward to reading other opinions on this interesting topic.
+
+Very best,
+
+Vincent
+
+
+
+Vincent Eltschinger, korrespondierendes Mitglied der OeAW
+Directeur d'études
+École Pratique des Hautes Études, Section des sciences religieuses
+Patios Saint-Jacques, 4-14 rue Ferrus - 75014 Paris
+vincent.eltschinger at ephe.sorbonne.fr
+0033 1 56 61 17 34 / 0033 7 85 86 84 05
+________________________________
+Von: INDOLOGY <indology-bounces at list.indology.info> im Auftrag von Matthew Kapstein via INDOLOGY <indology at list.indology.info>
+Gesendet: Samstag, 25. Januar 2020 15:09:59
+An: Indology List; Olivelle, J P
+Betreff: Re: [INDOLOGY] Vajrasūcī
+
+Dear Patrick,
+
+You'll find some discussion of it, inter alia, in Vincent Eltschinger, "Caste" et Philosophie Bouddhique WSTB 47 (2000). As you no doubt know, the Chinese translation is late - 10th c. if I recall correctly - and is attributed to DharmakIrti. I rather doubt that the true authorship can be established, given the available evidence. The emphasis on pramANa seems to suggest that it was written during the second half of the first millennium, not much before. But the way in which pramANa is used there does not resonate closely with the Buddhist pramANa school. The precise milieu in which it was composed remains a puzzle (at least to me!).
+
+all best,
+Matthew
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Olivelle, J P via INDOLOGY <indology at list.indology.info>
+Sent: Saturday, January 25, 2020 6:59 AM
+To: Indology List <indology at list.indology.info>
+Subject: [INDOLOGY] Vajrasūcī
+
+Does anyone know of newer work on the identity and date of the author of Vajrasūcī, often ascribed to Aśvaghoṣa? Any new ideas on its possible date? With thanks and best wishes,
+
+Patrick Olivelle
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200125/a4fec7fb/attachment.htm>

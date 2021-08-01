@@ -1,0 +1,199 @@
++++
+title = "229 Christophe Vielle"
+date = "2020-04-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-April/052222.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-April/052222.html)
+
+Dear List,
+
+I take the opportunity of this thread for asking if there is any news about the completing of the new critical edition of Bhāskara's Brahmasūtrabhāṣya prepared by Takahira Kato on the basis of J.A.B. Van Buitenen's unpublished material? See Kato's article issued in WZKS 2009-2010 for the history of Van Buitenen's work, ready to be issued in the HOS in the 1960s, then lost and finally handed over by Walter Slaje under whose supervision Kato was working at the end of the 2000s. 
+https://www.academia.edu/26555702/Bhāskaras_Brahmasūtrabhāṣya_An_Unpublished_Edition_by_J._A._B._van_Buitenen <https://www.academia.edu/26555702/Bh%C4%81skaras_Brahmas%C5%ABtrabh%C4%81%E1%B9%A3ya_An_Unpublished_Edition_by_J._A._B._van_Buitenen>
+Kato declares in his article that Van Buitenen work "will soon be made available to scholars", and indeed a diplomatic edition of Van Buitenen's work was provided at the end of his Ph.D. (see the link below  given  by E. Freschi in 2014, still working). However, since for his PhD,  Kato's new critical edition (with additional material to VB's work) covers only adh. 1 and 2 of the BS, I would be interested to know if the rest of the editorial work is still in course of preparation and if one can expect the publication of this new edition in a near future.
+
+Best wishes,
+
+Christophe
+
+
+On Mon, Sep 22, 2014 at 1:22 AM, Elisa Freschi <elisa.freschi at gmail.com <mailto:elisa.freschi at gmail.com>> wrote:
+With pleasure:
+
+
+http://digital.bibliothek.uni-halle.de/hs/content/titleinfo/1448039 <http://digital.bibliothek.uni-halle.de/hs/content/titleinfo/1448039>
+elisa freschi
+
+On Sunday, September 21, 2014, Madhav Deshpande <mmdesh at umich.edu <mailto:mmdesh at umich.edu>> wrote:
+Hello Dr. Freschi,
+
+     Could you please provide the web reference for Takahiro Kato's PhD thesis?  Thanks.
+
+Madhav Deshpande
+
+> De: Elisa Freschi <elisa.freschi at gmail.com <mailto:elisa.freschi at gmail.com>>
+> Objet: [INDOLOGY] Available Works on Bhaskara's Brahmasutrabhashya
+> Date: 21 septembre 2014 à 19:43:35 UTC+2
+> À: Niranjan Saha <shrinsaha at gmail.com <mailto:shrinsaha at gmail.com>>
+> 
+> Dear Niranjan,
+> 
+> are you talking about critical works on the Bhasya or further editions or translations? If the latter, you need to have a look at Takahiro Kato's PhD thesis (available on line), which contains a facsimile of van Buitenen's unpublished edition of the first chapter of the Bhasya and, more importantly, Kato's own, further improved edition of the same. See also Kato's forthcoming article on jnanakarmasamuccaya in Bhaskara (to be published soon on Indologica Taurinensia) and Kato 2010 (WZKS) on van Buitenen's edition. 
+> 
+> Best,
+> 
+> elisa
+> 
+> On Sunday, September 21, 2014, Niranjan Saha < <>shrinsaha at gmail.com <mailto:shrinsaha at gmail.com>> wrote:
+> Dear list members,
+> 
+> Namaskar! 
+> 
+> I'd be greatful if any body could point out me the available works on Bhaskara's Brahmasutrabhashya (I do have the original bhashya but need to know the availability of other works made on this bhashya either in Hindi, English or in any other Indian languages).
+> 
+> Sincerely,
+> 
+> Niranjan Saha
+> 
+> -- 
+> Dr. Elisa Freschi
+> 
+> Institute for the Cultural and Intellectual History of Asia
+> Austrian Academy of Sciences
+> Apostelgasse 23
+> 1030 Vienna
+> Austria
+> Phone +43 1 51581 6433
+> Fax +43 1 51581 6410
+> http://elisafreschi.com <http://elisafreschi.com/>
+
+> De: Walter Slaje <slaje at T-ONLINE.DE <mailto:slaje at T-ONLINE.DE>>
+> Objet: Rép : van Buitenen's Critical Edition of Bhaskara's Brahmasutrabhasya
+> Date: 13 décembre 2006 à 07:53:00 UTC+1
+> À: INDOLOGY at liverpool.ac.uk <mailto:INDOLOGY at liverpool.ac.uk>
+> Répondre à: Indology <INDOLOGY at liverpool.ac.uk <mailto:INDOLOGY at liverpool.ac.uk>>
+> 
+> Dear Diwakar,
+> 
+> the typoskript left by Van Buitenen is with me.
+> Takahiro Kato, Ph.D. student, is preparing a new
+> edition from it
+> (takahiro.kato at indologie.uni-halle.de <mailto:takahiro.kato at indologie.uni-halle.de>).
+> 
+> Best regards,
+> 
+> Walter
+> 
+> -------------------------
+> Prof Dr Walter Slaje
+> Hermann-Loens-Str. 1
+> D-99425 Weimar (Germany)
+> Tel/Fax: +49-(0)3643 501391
+> www.indologie.uni-halle.de <http://www.indologie.uni-halle.de/>
+
+
+> Le 9 avr. 2020 à 13:32, Hartmut Buescher via INDOLOGY <indology at list.indology.info> a écrit :
+> 
+> Christian Bouy (Gauḍapāda – L’Āgamaśāstra, p. 247), in his commentary on GK IV.40,
+> had pointed out that, apparently distinguishing between a good and a bad version
+> of māyāvāda,
+>           “Gauḍapāda écarte ici, selon Anubhūtisvarūpa, la vue des « mauvais partisans
+>           de la doctrine de la māyā » (ku-māyāvādin). Selon ces māyāvādin, « de l’ignorance,
+>           qui est proprement insubstantielle, naît l’effet, [lui aussi] proprement insubstantial »    
+>           (avastuna evājñānād avastv eva kāryaṃ jāyata iti). Explication voisine chez
+>           Ānandagiri. [...] Des Vedāntin, en tout cas, si l’on s’en remet au témoignage
+>           de l’auteur de la Śrutaprakāśikā  (une explication du Śrībhāṣya de Rāmānuja),
+>           ont enseigné le māyāvāda avant l’époque de Śaṃkara.”
+>  
+> In fact, already Bhāskara (to whom Aleksandar Uskokov had referred) – cf. also
+> Paul Hacker, Vivarta, p. 17, n. 1) – had identified them as māhāyānikabauddhas
+> (I.4.25: māhāyānikabauddhagāthitaṃ māyāvādaṃ; Brahmasūtrabhāṣam, Chowkhamba
+> ed., p. 85).
+>  
+> Hacker’s Vivarta appeared three years later (1953) than his “Eigentümlichkeiten der
+> Lehre und Terminologie Śaṅkaras” and may be said to be even more useful on this
+> particular topic. Just to quote a single summarizing passage from this work (p. 51):
+>           “Im frühen brahmanischen Illusionismus verwandte der stark buddhistisch
+>           beeinflußte Gauḍapāda nur māyā, Sureśvara in der Naiṣkarmyasiddhi nur avidyā
+>           nebst Synonymen, Śaṅkara im Brahmasūtra-Kommentar beide, doch avidyā
+>           fünfmal so oft wie māyā. Mit Padmapāda beginnt zunächst eine Tendenz
+>           beide Begriffe zu identifizieren. Ihr Inhalt ist im frühen Advaitavāda nicht nur
+>           vom Buddhismus, sondern offenbar auch vom Viṣṇuismus her bestimmt.“
+>  
+> Kind regards, Hartmut
+>  
+> 
+> On Thu, Apr 9, 2020 at 2:33 AM Eltschinger, Vincent via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+> 
+> māyāvāda indeed does not to belong to the many vādas alluded to by Śaṅkara himself, and especially to those by which he refers to his own teaching (veda-, vedānta-, brahma-, ātma-vāda). As pointed out by Paul Hacker, Śaṅkara has no specific theory of māyā (at least in the Brahmasūtrabhāṣya), but mostly uses the term in similes (much like the Buddhists).
+> 
+> See Hacker’s short but illuminating remarks in his groundbreaking “Eigentümlichkeiten der Lehre und Terminologie Śaṅkaras: Avidyā, Nāmarūpa, Māyā, Īśvara” (Zeitschrift der Deutschen Morgenländischen Gesellschaft 100, 1950, 246-286), pp. 268 ff.
+> 
+> With kind regards,
+> 
+> Vincent
+> 
+> 
+> Vincent Eltschinger, korrespondierendes Mitglied der OeAW
+> Directeur d'études 
+> École Pratique des Hautes Études, Section des sciences religieuses
+> Patios Saint-Jacques, 4-14 rue Ferrus - 75014 Paris
+> vincent.eltschinger at ephe.sorbonne.fr <mailto:vincent.eltschinger at ephe.sorbonne.fr>
+> 0033 1 56 61 17 34 / 0033 7 85 86 84 05
+> Von: INDOLOGY <indology-bounces at list.indology.info <mailto:indology-bounces at list.indology.info>> im Auftrag von Uskokov, Aleksandar via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>>
+> Gesendet: Donnerstag, 9. April 2020 02:00:48
+> An: Dean Michael Anderson; Indology List; Harsha Dehejia; Madhav Deshpande
+> Betreff: Re: [INDOLOGY] Mayavada (was Lines to an Advaitin)
+>  
+> Dear Dean,
+> 
+> The term was used first, for all we know, by Bhaskara, in a pejorative sense. Hajime Nakamura’s first volume of his History of Early Vedanta Philosophy is a good source on this. 
+> 
+> Best wishes,
+> Aleksandar 
+> 
+> Get Outlook for iOS <https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Faka.ms%2Fo0ukef&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C2c7e11cfdadd47f6ea3408d7dc79c8dd%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637220287925374086&sdata=HkK0rnj4GgGsbKgFZ6FEjlqCjzTgLUfw9Kp3ECcZ0Wg%3D&reserved=0>
+> From: INDOLOGY <indology-bounces at list.indology.info <mailto:indology-bounces at list.indology.info>> on behalf of Dean Michael Anderson via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>>
+> Sent: Wednesday, April 8, 2020 7:38:14 PM
+> To: Indology List <indology at list.indology.info <mailto:indology at list.indology.info>>; Harsha Dehejia <harshadehejia at hotmail.com <mailto:harshadehejia at hotmail.com>>; Madhav Deshpande <mmdesh at umich.edu <mailto:mmdesh at umich.edu>>
+> Subject: [INDOLOGY] Mayavada (was Lines to an Advaitin)
+>  
+> I notice that this post uses the term 'mayavada' in referring to Advaitins. This is appropriate in this context I suppose because it is offering an alternative perspective to Advaita.
+> 
+> But some of the Advaitins I have spoken to say that that is a term coined by their opponents and that it is inaccurate, even if it has been adopted by some ill-informed Advaitins to refer to themselves and become part of the popular speech. These Advaitins say that the emphasis should be on 'avidya' or 'mithya' rather than 'maya'.
+> 
+> I wonder if anyone has any comments about this or could point me to some publications that discuss it.
+> 
+> Note: I am interested in the scholarly discussion of these terms and the associated concepts, not in a discussion about which is the supreme realization. :-)
+> 
+> Best,
+> 
+> Dean
+> 
+> 
+> Harsha Dehejia via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+> 
+> Friends:Inspired by Madhav Deshpande and with a long history of my polite confrontations with Advaitins I propose to write 100 lines.I am a staunch Krishna rasika. Writing in English deprives my lines of the majesty of Sanskrit. However what English lacks in the melody and rhythms of Sanskrit it will hopefully make up in its rasa.Wait O! Advaitin, before I accept your mayavadaLet me tarry a bit and enjoy the lotus face of Krishna.Kind regards,HarshaProf. Harsha V. Dehejia
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+> http://listinfo.indology.info <https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C2c7e11cfdadd47f6ea3408d7dc79c8dd%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637220287925384083&sdata=3Oju0cTz24vIHtjMbUC622l23yW3acpI3D%2FTziPdTaM%3D&reserved=0> (where you can change your list options or unsubscribe)
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C2c7e11cfdadd47f6ea3408d7dc79c8dd%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637220287925404068&sdata=876jTiV7dUxslLTm0qcNqV%2F7Sgwgnysc9eXZ1qHSy%2Bo%3D&reserved=0 (where you can change your list options or unsubscribe)
+
+–––––––––––––––––––
+Christophe Vielle <https://uclouvain.be/en/directories/christophe.vielle>
+Louvain-la-Neuve
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200409/1a102f7e/attachment.htm>

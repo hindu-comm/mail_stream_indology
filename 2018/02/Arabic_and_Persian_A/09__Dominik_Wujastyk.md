@@ -1,0 +1,67 @@
++++
+title = "09 Dominik Wujastyk"
+date = "2018-02-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-February/047354.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-February/047354.html)
+
+​
+--
+Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
+​,​
+
+Singhmar Chair in Classical Indian Society and Polity
+​,​
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+​,​
+University of Alberta, Canada
+​.​
+
+South Asia at the U of A:
+
+​sas.ualberta.ca​
+​​
+
+
+On 22 February 2018 at 15:55, jmdelire via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Members of the list,
+>
+> I am working in Jaipur Man Singh II Museum these days, in order to see
+> astronomical manuscripts, and I have some difficulties to find a catalogue
+> of their Arabic and Persian astronomical manuscripts. If by any chance, one
+> of the member of the list could have an access to the following article and
+> send me a copy, I would be very grateful.
+> King, David, "A Handlist of the Arabic and Persian Astronomical
+> Manuscripts in the Maharaja Man Singh II Library in Jaipur", Journal for
+> the History of Arabic Science 4 (1980), 81-86
+>
+> Best regards,
+>
+> Dr J.M.Delire,
+> Lecturer on Science and Civilisation of India and on History of
+> Mathematics, University of Brussels
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180225/170efa84/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: King1980Handlist.pdf
+Type: application/pdf
+Size: 291500 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20180225/170efa84/attachment.pdf>

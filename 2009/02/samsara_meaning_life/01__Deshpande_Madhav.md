@@ -1,0 +1,34 @@
++++
+title = "01 Deshpande, Madhav"
+date = "2009-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032545.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032545.html)
+
+The word samsara has this meaning in Marathi.
+
+Madhav Deshpande
+________________________________________
+From: Indology [INDOLOGY at liverpool.ac.uk] On Behalf Of Allen W Thrasher [athr at LOC.GOV]
+Sent: Monday, February 02, 2009 5:30 PM
+To: INDOLOGY at liverpool.ac.uk
+Subject: "samsara" meaning "life"
+
+In some modern Indian language samsar(a) can mean something like "one's personal world" or "family life."  For instance there are the novel and movie Apur sansar of Bibhutibhushana Bandhopadhyaya and Satyajit Ray, and the Maharashtra State Family Planning Bureau's magazine Sukhi sansar.  How widespread is this usage, and how far back does it go, I wonder?
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Team Coordinator
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

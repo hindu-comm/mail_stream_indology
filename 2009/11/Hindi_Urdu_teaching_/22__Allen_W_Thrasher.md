@@ -1,0 +1,27 @@
++++
+title = "22 Allen W Thrasher"
+date = "2009-11-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-November/033758.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-November/033758.html)
+
+There's a new local venture to teach Hindi and Urdu as evening adult classes. For information, go to:
+http://www.dcinternationals.com/index.php?option=com_content&view=article&id=76&Itemid=62
+
+Please forward this to anyone who would be interested. The director of the program is still seeking instructors, I am told.
+
+Allen Thrasher
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Team Coordinator
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

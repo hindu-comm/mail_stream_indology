@@ -1,0 +1,51 @@
++++
+title = "28 Alf Hiltebeitel"
+date = "2011-06-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-June/035570.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-June/035570.html)
+
+ Dear Colleagues,
+
+Please excuse me for mentioning a new publication to which I have
+contributed. A two-panel gathering was held in October 2010 at the 39th
+Annual South Asia Conference in Madison, WI that was conceived to coincide
+with the roughly half a century since the completion of the Pune Critical
+Edition of the *Mahabharata*. Seven of the papers from that conference have
+been updated and comprise, along with an Introduction, the latest issue of
+the *Journal of Vaishnava Studies* 19,2 (2011) under the overall heading
+"Mahabharata Conference." The contents are:
+
+Vishwa P. Adluri, Introduction: The Critical Edition and Its Critics, A
+Retrospective on Mahabharata Scholarship
+
+T. P. Mahadevan, The Three Rails of the Mahabharata Text Tradition
+
+Christopher Austin, Evaluating the Critical Edition of the Mahabharata:
+Inferential Mileage and the Apparatus Materials
+
+Alf Hitebeitel, On Sukthankar's 'S" and Some Shortsighted Assessments and
+Uses of the Pune Critical Edition (CE)
+
+Joydeep Bagchee, Inversion, Krsnafication, Brahmanization: The Explanatory
+Force of Some Extraordinary Figures of Speech
+
+Vishwa P. Adluri, Frame Narratives and Forked Beginnings: Or, How to Read
+the Adiparvan
+
+Wendy J. Phillips-Rodriguez, The Critical Edition: The End of Mahabharata
+Textual Scholarship?
+
+Simon Brodbeck, Analytic and Synthetic Approaches in the Light of the
+Critical Edition of the Mahabharata and Harivamsa
+
+Alf Hiltebeitel
+Department of Rreligoin
+George Washington University
+beitel at gwu.edu
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110624/e3042037/attachment.htm>

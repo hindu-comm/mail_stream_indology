@@ -1,0 +1,33 @@
++++
+title = "45 McComas Taylor"
+date = "2008-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-December/032314.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-December/032314.html)
+
+*Page 1*
+*The International Conference on Ayurveda*
+*»Ayurveda: A New Way for Healthy Life in Europe«*
+*March 5-6, 2009*
+*Organizers*
+*University of Primorska (Slovenia):*
+*Faculty of Humanities Koper, Science and Research Centre of Koper,*
+*College of Health Care Izola, Faculty of Tourism Studies Portorož*
+and
+*Embassy of India (Ljubljana, Slovenia)*
+*Sponsor: *Slovenian Research Agency
+/*Keynote Address*/
+*Dr Devapagal Nigel Hubbers, *Vice President of APA (Ayurvedic Practitioners
+Association) and EUAA (European Ayurveda Association), UK
+*Dr Ram Harsh Singh*, Professor Emeritus, Department of Kayachikitsa, 
+Institute of
+Medical Sciences, Banaras Hindu University, Varanasi, India
+/*Plenary lectures*/
+*Dr Regis A. DeSilva, *Associate Professor of Medicine, Harvard Medical 
+School,
+Director Partners-Harvard Medical International, U.S.A.
+*Dr Thomas Vallomtharyil, *Chief Executive Officer, Medical Park Ruhr, Germa
+
+
+

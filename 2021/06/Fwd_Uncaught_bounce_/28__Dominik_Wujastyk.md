@@ -1,0 +1,84 @@
++++
+title = "28 Dominik Wujastyk"
+date = "2021-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-June/000011.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-June/000011.html)
+
+---------- Forwarded message ----------
+From: "Michaels, Axel"
+Date: Fri, 11 Jun 2021 06:48:51 +0000
+Subject: New: First Comprehensive Translation of the Nepalese Code, the
+Mulukī Ain of 1854
+
+Dear all,
+
+
+
+It gives us great pleasure to announce the following publication:
+
+
+
+*The Mulukī Ain of 1854*
+
+*Nepal’s First Legal Code*
+
+
+
+Introduced, translated and annotated
+
+by
+
+Rajan Khatiwoda, Simon Cubelic and Axel Michaels
+
+With Forewords by Patrick Olivelle and Saubhagya Pradhananga
+
+
+
+Heidelberg: Heidelberg University Publishing, 2021
+
+xix, 882 pp. - € 74,90
+
+
+
+
+
+This is the first complete translation of the Nepalese *Mulukī Ain of 1854*,
+a comprehensive legal text, based not only on the Brahmanical norms of a
+Hindu society, but also including much customary law and local
+particularities.
+
+
+
+The book is published by Heidelberg University Publishing as hardback
+volume 2 of the series*Documenta Nepalica
+<https://heiup.uni-heidelberg.de/series/info/hadw_dn>*, edited by the Research
+Unit “Documents on the History of Religion and Law of Premodern Nepal
+<https://www.hadw-bw.de/en/research/research-center/documents-history-religion-and-law-pre-modern-nepal>
+” of the Heidelberg Academy of Sciences and Humanities. It  is also
+available as an open access PDF publication here:
+
+
+
+*https://heiup.uni-heidelberg.de/heiup/catalog/book/769
+<https://heiup.uni-heidelberg.de/heiup/catalog/book/769>*
+
+
+
+and in bookshops at a price of 74.90 € via Amazon.de or Buchhandel.de.
+
+
+
+Heidelberg, June 11, 2021
+
+Axel Michaels with Rajan Khatiwoda and Simon Cubelic
+
+
+
+Apologies for cross-posting
+
+.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210614/dfb82e4d/attachment.htm>

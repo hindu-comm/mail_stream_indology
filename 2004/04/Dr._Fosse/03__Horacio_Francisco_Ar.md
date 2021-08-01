@@ -1,0 +1,22 @@
++++
+title = "03 Horacio Francisco Arganis Juarez"
+date = "2004-04-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-April/028322.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-April/028322.html)
+
+Dr.art. Lars Martin Fosse
+Dearest Professor:
+Namaste: I am sending other adreess of a very interesting Religious Notebook: Journal of Vaisnava Studies. The address in internert is Satchmo868 at aol.com. Manuscripts of papers, subscription and related correspondence: FOLK Books, P.O. Box 400716, Brookliyn, New York 11240-0716.) Hoping it could be nice for your job.
+MC Horacio Arganis
+www.uadec.edu.org
+
+
+
+___________________________________________________
+- ¡Toma el control con todito Card! Líder en Internet pre-pagado; www.toditocard.com
+- Evoluciona... ¡es mejor con toditoshop! Líder de Comercio Electrónico en México; www.toditoshop.com
+
+
+

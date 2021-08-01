@@ -1,0 +1,38 @@
++++
+title = "11 Himal Trikha"
+date = "2011-12-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-December/036163.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-December/036163.html)
+
+Dear list members,
+
+following the recent "London lodging"-thread in the forum I wonder if 
+someone could recommend a fairly decent accomodation with reasonable 
+prices in Delhi.
+
+I heard of two:
+
+YWCA Blue triangle
+Ashoka Rd, Connaught Place, Delhi 110001
+Ph: (+91-11) 23360133
+Email: btfh at ywcaofdelhi.org
+www.ywcaofdelhi.org
+
+YWCA International Guest House
+10,International Guest House, Parliament Street, Connaught Place, Delhi, 
+110001
+Ph: (+91-11) 23361561, 23361662
+Email: ywcaindigh at vsnl.net
+www.ywcaindia.org
+
+Both of them are currently not available.
+
+Thank you very much and happy holidays,
+
+Himal Trikha
+Vienna, Austria
+
+
+

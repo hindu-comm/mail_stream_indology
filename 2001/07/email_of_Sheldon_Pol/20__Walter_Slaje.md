@@ -1,0 +1,29 @@
++++
+title = "20 Walter Slaje"
+date = "2001-07-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-July/026246.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-July/026246.html)
+
+Dear Colleagues,
+
+I need to get in touch with Sheldon Pollock who has just published a fascinating
+`must´ for Sanskritists ("The Death of Sanskrit"). Could someone help me with
+his email address?
+
+
+Best regards,
+
+Walter Slaje
+
+
+
+----------------------------------------------
+Prof. Dr. Walter Slaje
+Hermann-Loens-Str. 1, D-99425 Weimar (Germany)
+Tel/Fax: (+49)03643-501391 (office: (+49)0345-55-23650)
+e-mail: slaje at t-online.de (office: slaje at indologie.uni-halle.de)
+
+
+

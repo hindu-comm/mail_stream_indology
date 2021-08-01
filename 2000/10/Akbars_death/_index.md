@@ -1,0 +1,4 @@
++++
+title = "Akbar's death"
+
++++

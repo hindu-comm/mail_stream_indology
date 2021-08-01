@@ -1,0 +1,36 @@
++++
+title = "38 Sumit Guha"
+date = "2002-11-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-November/027235.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-November/027235.html)
+
+Dear colleagues,
+I do regret that a joking reference to our common African descent should
+have so upset Herr Professor Witzel and led him to bombard the list with so
+much irrelevant information.
+
+The relevant question simply is:
+
+The Buddha as a founder of a major religion is located in a religious
+milieu and tradition.
+
+What were the geographical boundaries of that tradition at the relevant
+time? (By boundaries of the tradition I mean the zone within which schools
+of thought regularly contended and communicated.)
+
+If this boundary extended North of Merv, I would be happy to see the evidence.
+
+But as far as I can see the named personages in the tradition appear to
+have lived, preached and argued within north India.
+
+Whether some branch of the Saka came to North India in the first half of
+the 1st millennium BCE
+simply has no bearing on this issue - nor does the veritably Pauranika spew
+of names that adorn Professor Witzel's rejoinder.
+Sincerely,
+Sumit Guha
+
+
+

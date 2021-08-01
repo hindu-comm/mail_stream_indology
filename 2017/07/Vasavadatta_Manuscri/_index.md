@@ -1,0 +1,4 @@
++++
+title = "Vasavadatta Manuscript Details"
+
++++

@@ -1,0 +1,45 @@
++++
+title = "18 Yashwant Malaiya"
+date = "2000-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020053.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020053.html)
+
+Hearing about Swami Agnivesh, term "publicity seeker" comes
+to mind first before "activist". I hope he is actually
+making a difference.
+
+His various activities are located very close to Delhi,
+making it convenient for the Delhi based reporters
+(most educated in English medium schools) to cover them.
+Their reports mesh nicely with some popular (or
+popularized) perceptions about India in the west, thus
+they get good exposure outside of India.
+
+For many decades we have seen discussions against
+dowry. There have been dramas, novels, movies, laws
+etc. Yet  dowry is getting more common spreading
+to communities where it was unheard of a few decades
+ago.
+
+I have, in my collection, a book giving extensive
+data about a certain trading community, published
+around 1915. Its editor complains about a major social
+problem. A lot of young men remain unmarried because
+they can not afford to pay the bride price. Rich
+older men can get brides very easily. If the editor
+were alive today, he would be happy to see that the
+problem has ceased to exist.
+
+Yashwant
+
+---
+    FIFTH INTERNATIONAL CONFERENCE ON DOWRY, BRIDE-BURNING AND
+                   SON-PREFERENCE IN INDIA
+
+Sponsored jointly by
+Arya Samaj of India, New Delhi, India, ...
+
+
+

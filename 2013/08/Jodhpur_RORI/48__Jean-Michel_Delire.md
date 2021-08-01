@@ -1,0 +1,20 @@
++++
+title = "48 Jean-Michel Delire"
+date = "2013-08-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-August/038245.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-August/038245.html)
+
+Dear members,
+
+I am going to Jodhpur next week in order to consult manuscripts at the RORI. According to the rules, foreign scholars have to be affiliated to an Indian university in order to be authorized to see and copy manuscripts. I have with me an official letter from my university (Brussels) and a letter from my Embassy in Delhi, kindly requesting to allow me access to all documents, museums and observatories in order to make progress in my research about Jai Singh II astronomical achievements. Can anybody with some experience in Jodhpur's RORI give me some advise about this ?
+
+Thanks,
+
+Dr J.M.Delire,
+Lecturer on "Science and Civilization in India - Sanskrit Texts", University of Brussels
+
+
+
+

@@ -1,0 +1,40 @@
++++
+title = "13 Ingo Strauch"
+date = "2015-01-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-January/040476.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-January/040476.html)
+
+Dear Colleagues,
+
+This is just a reminder for the "Buddhist and Muslim Encounters in 
+Premodern South Asia" conference to be held at the University of 
+Lausanne, October 12th-13th, 2015. Please submit an abstract of 300 
+words and a 1 page CV by January 15, 2015. For more information see the 
+conference website.
+
+https://www3.unil.ch/wpmu/bmesa/unil/ 
+<http://buddhismislamconferencelausanne2015.wordpress.com/>
+
+If you have any questions please feel free to contact me at anytime. 
+Best wishes in the new year!
+
+Ingo Strauch
+
+-- 
+Prof. Dr. Ingo Strauch
+Sanskrit et Études Bouddhiques
+Université de Lausanne
+
+January 2015 - June 2015 Visiting Professor
+Department of Asian Languages and Literature
+University of Washington, Box 353521
+Seattle WA 98195-3521
+USA
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150111/8f47f097/attachment.htm>

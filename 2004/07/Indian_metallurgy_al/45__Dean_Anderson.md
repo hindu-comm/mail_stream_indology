@@ -1,0 +1,24 @@
++++
+title = "45 Dean Anderson"
+date = "2004-07-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-July/028466.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-July/028466.html)
+
+An archaeologist colleague of mine is studying early Islamic Persian
+metallurgy and metallic glazes. He made an interesting comment about how
+they set up special academies just to house European alchemists fleeing
+Christian persecution. That reminded me of the links I had seen about
+Indian metallurgy and alchemy being related somehow to tantra but I
+don't know much about it. I mentioned this and he felt that he was
+probably seeing some Indian influences in his work but didn't know how
+to track them down.
+
+Does anyone have any reputable sources on Indian metallurgy, alchemy and
+tantra from about the sixth to the tenth century AD?
+
+Dean Anderson
+
+
+

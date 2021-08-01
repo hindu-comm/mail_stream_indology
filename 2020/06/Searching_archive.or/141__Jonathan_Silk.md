@@ -1,0 +1,72 @@
++++
+title = "141 Jonathan Silk"
+date = "2020-06-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-June/052711.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-June/052711.html)
+
+speaking of which
+maybe some French colleague can explain why many of the scans on Gallica
+are so atrocious as to often be entirely unreadable...
+For instance almost the entire Journal Asiatique ...
+
+Jonathan
+
+On Fri, Jun 5, 2020 at 10:25 PM Dominik Wujastyk via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Just filling an idle moment.
+>
+> Canadian libraries have scanned over 600,000 books into Archive.org.
+> Canadian scanning is usually of exceptionally high quality.  Searching
+> those for "Sanskrit" produces 563 hits.  Sorted by publication date, we get
+> this:
+>
+>    - https://archive.org/details/toronto?and%5B%5D=sanskrit&sin=&sort=date
+>    --
+>
+>
+>
+> Professor Dominik Wujastyk
+> <https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+> ,
+>
+> Singhmar Chair in Classical Indian Society and Polity
+> ,
+>
+> Department of History and Classics
+> <http://historyandclassics.ualberta.ca/>
+> ,
+> University of Alberta, Canada
+> .
+>
+>
+> South Asia at the U of A:
+>
+> sas.ualberta.ca
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+https://leidenuniv.academia.edu/JASilk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200606/c2e7bfed/attachment.htm>

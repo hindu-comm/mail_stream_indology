@@ -1,0 +1,47 @@
++++
+title = "49 Stuart Ray Sarbacker"
+date = "2005-12-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-December/029536.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-December/029536.html)
+
+Dear All,
+
+Elizabeth Callahan suggested that opening the custom dictionary in 
+Wordpad and saving it as a unicode text document solved the problems 
+with adding Unicode in windows versions of WORD. I tried the same 
+solution on the Mac by opening the custom dictionary with TextEdit, 
+and saving it as a Unicode UTF-16 document (UTF-8 did not work) and 
+it appears to have largely solved the problem (I can add romanized 
+Sanskrit terms with diacritics to the custom dictionary saving 
+inestimable time).
+
+Many thanks to Elizabeth for this.
+
+Now I feel much better about those two wasted hours on hold with 
+Microsoft listening to what was possibly the worst "muzak" I have 
+ever been forced to listen to!
+
+As for general Unicode support on Mac, as far as I am aware, most 
+people are using either the U of Washington Gandhari Unicode font or 
+the Times Extended Roman font, and the Easyunicode Keyboard (which 
+makes typing with Unicode fonts a breeze, esp. in WORD). Links to 
+these fonts and keyboards can be found at:
+
+http://www.thdl.org/tools/diafonts.html
+http://depts.washington.edu/ebmp/software.php
+
+Best Wishes,
+Stuart
+
+-- 
+Dr. Stuart Sarbacker
+Lecturer in Religion
+Director of Undergraduate Studies
+Department of Religion
+Northwestern University
+http://www.religion.northwestern.edu/faculty/sarbacker.html
+
+
+

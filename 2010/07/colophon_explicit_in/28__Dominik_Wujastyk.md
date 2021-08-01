@@ -1,0 +1,49 @@
++++
+title = "28 Dominik Wujastyk"
+date = "2010-07-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-July/034555.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-July/034555.html)
+
+It's all very confusing.
+
+First question: am I right in believing that David Pingree introduced
+the term "post-colophon" into Indian manuscript studies when he wrote
+his catalogue of the Bodleian Chandra Shum Shere jyotiṣa collection?
+
+Second: am I right that nobody outside Indological circles (and those
+influenced by indologists in the last few decades) uses the term
+"post-colophon"?
+
+Finally, here's a grid of usages:
+
+Key: Pingree (various catalogues, starting 1984)
+Tripathi: C. Tripathi, Cat. of Jaina MSS at Strasbourg
+Wikipedia: see http://en.wikipedia.org/wiki/Colophon_%28publishing%29 and links.
+X: no special term
+
+
+DescriptionPingree     Tripathi     Wikipedia (and
+non-indologists)
+-------------------------------------------------------------------------------------------------
+Final verse
+of text       X       Xexplicit
+
+iti...samāptam     colophon     colophon      X (or colophon?)
+
+saṃvat phrase      post-            Scribal           colophon
+                                colophon       Remarks
+
+after saṃvat
+phrase                    X                  post-             X
+                                                      colophon
+
+Pratapaditya Pal uses "post-colophon" in his 1978 Arts of Nepal book
+(http://tinyurl.com/37n8f2z), in the same sense as Pingree.  Perhaps
+that's where David got it?
+
+Dominik
+
+
+

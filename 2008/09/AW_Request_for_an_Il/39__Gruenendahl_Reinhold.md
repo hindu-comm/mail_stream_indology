@@ -1,0 +1,45 @@
++++
+title = "39 Gruenendahl, Reinhold"
+date = "2008-09-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-September/032070.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-September/032070.html)
+
+Von: Allen W Thrasher [mailto:athr at loc.gov]
+
+
+Could Reinhold elaborate further on the nature of the work and his comment,
+"it it belies all manner of
+assertions about "romantic indology" etc."?
+
+
+Whatever description I could give of this multi-facetted work would be
+inappropriate, I think. The article pointed out by Luis Gonzalez-Reimann may
+give a first impression, although (necessarily) from the perspective of
+Müller's influence on Malfatti. [I hope to bring out an electronic edition on
+GRETIL soon, but the particular type of Fraktur, in combination with poor
+print quality, makes OCR a difficult  business.]
+
+What I alluded to with the above remark is that although he nominally adheres
+to the notion of India as the cradle of humanity, belief, learning, the arts,
+etc., -- a notion that is usually associated with Herder and F. Schlegel's
+1808 essay, but, contrary to the pronouncements of present-day theorists, is
+absent in indological writings --, Müller is far from depicting India as a
+"romantic" paradise. In his expositions as well as in his plates he
+explicitly strives for accuracy. Consequently, no love is lost, e.g., on the
+"Oriental scenery" of the Daniell brothers, along with other British works on
+India.
+
+Just for the record: Müller cannot be considered an indologist by any
+standard, although he frequently refers to A.W. Schlegel, at the time of
+publication still the only established indologist in Germany.
+
+Best regards
+Reinhold Grünendahl
+
+
+
+
+
+

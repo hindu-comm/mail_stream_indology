@@ -1,0 +1,27 @@
++++
+title = "80 Peter Mukunda Pasedach"
+date = "2016-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-December/044816.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-December/044816.html)
+
+Dear all,
+
+may I ask if anybody has a pdf of the "Detailed report of operations
+in search of Sanskrit manuscripts in the Bombay Circle" Part 1?
+Published as an extra number of the Journal of the Bombay Branch of
+the Royal Asiatic Society 1883 16/4 (Biswas Catalogue p. 229-230, but
+http://wujastyk.net/mscats/Sanskrit_Catalogues/Biswas%200857%20Poona%20-%20Petersons%20reports/
+has only parts 2, 3 and 5.)
+I believe that https://catalog.hathitrust.org/Record/008400562 is the
+item, but it is not accesible to me apart from a minimal search (which
+was positive).
+
+Thanks,
+
+Peter
+
+
+
+

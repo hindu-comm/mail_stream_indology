@@ -1,0 +1,57 @@
++++
+title = "01 Peter Wyzlic"
+date = "2007-03-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-March/030598.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-March/030598.html)
+
+On Mon, 12 Mar 2007 21:29:30 +0000
+  Dominik Wujastyk <ucgadkw at UCL.AC.UK> wrote:
+> sa.mpraapte tu kalau kaale vindhyaadrer uttare sthitaa.h
+> 
+> braahma.naa yaj~narahitaa jyoti.h"saastraparaa"nmukhaa.h
+> 
+> vindhyasya dak.si.ne bhaage yatra godaavarii nadii
+> 
+> tatra vedaa"s ca yaj~na"s ca bhavi.syanti kalau yuge
+> 
+> This verse about the southern location of the best 
+>traditions during the Kali yuga is cited by Altekar, 
+>History of Benares from Pre-historic Times to the Present 
+>Day, 1937, p.38, as being from "smritis like the Vyasa". 
+> Does anyone have a more precise reference for this 
+>verse, or anything close to it?
+
+Siddheshwar Varma cites these lines as two verses from two 
+different sources. He says: "That South India became par 
+excellence the home of Vedic studies during the medieval 
+period has been noted by Indian tradition. Thus Ramakrsna 
+quotes a passage from Vyasa and another from a 'Dharma 
+Sastra' to the effect that 'during the Kali age, the 
+Brahmans north of the Vindhya will be devoid of Yajnas and 
+averse from astrology. The Vedas and Yajnas will be 
+current in the region south of the Vindhya where the 
+Godavari flows.'" (Varma, Siddheshwar: Critical Studies in 
+the phonetic observations of Indian grammarians. [Repr.] 
+Delhi: Munshi Ram Manohar Lal, 1961, p. 37 seq. [1st 
+publ.: London 1929]). Note 8 on p. 37 gives as source 
+Ramakrsna's introduction to Paraskara Grhya Sutra, p. 58 
+[no particulars about this edition]. The first part 
+beginning with "sa.mpraapte tu kalau..." comes from Vyasa, 
+the source of the second part "vindhyasya dak.si.ne..." is 
+simply given as "dharma-"saastre".
+
+
+Hope it helps
+Peter Wyzlic
+
+--
+Indologisches Seminar der
+Universität Bonn
+Regina-Pacis-Weg 7
+D-53113 Bonn
+Deutschland / Germany
+
+
+

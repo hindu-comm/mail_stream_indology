@@ -1,0 +1,46 @@
++++
+title = "22 alakendu das"
+date = "2017-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046410.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046410.html)
+
+ To all,
+
+             I came across the following qoute while going through  a book on Buddhist Philosophy-             
+
+                     " Bauddhanam Sugato Deva Vishwam cha Kshanabhanguram".
+
+        Can anybody may kindly suggest as to which Buddhist philosopher can the above be ascribed to.? I am struggling to find one philosopher who advocated KshanikaVada or Momentaryness?
+
+
+
+                              Alakendu Das.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170817/ccdd5649/attachment.htm>

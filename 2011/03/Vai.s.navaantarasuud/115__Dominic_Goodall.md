@@ -1,0 +1,58 @@
++++
+title = "115 Dominic Goodall"
+date = "2011-03-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-March/035255.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-March/035255.html)
+
+Dear Tim,
+
+This isn't quite what you’re looking for, but perhaps it might help.
+
+Post-twelfth-century South Indian Siddhāntatantras often include Avāntara-śaivas, typically as the fifth class of Śaivas (out of 5, 7 or 9 classes), below Anādi-śaivas, Ādi-śaivas, Mahā-śaivas and Anu-śaivas (e.g. Pūrva-kāmika 21.36; Pūrva-kāraṇa 30:37–8; Ajitatantra 63.16–17; Makuṭāgama 1.16–17 and 3.72–3).  Subdivisions of the Avāntara-śaivas are to be found towards the beginning of the Jātinirṇayapūrvakālayapraveśavidhi (verses 11ff), edited by Pierre-Sylvain Filliozat in Journal Asiatique 263 (1975):103–117.
+
+Dominic
+
+On 09-Mar-2011, at 11:17 PM, Lubin, Tim wrote:
+
+> Thank you Dipak.  Although I do not think there is any connection between the Kasyapottarasa?hita in hand and the medical text called Kasyapasa?hita (if that’s what you refer to), I have checked the latter, and found nothing.  Elsewhere in the Kasyapottara itself, so far as I have read, no similar list appear, and a word search of the corpus of Unicode Skt texts on my computer shows no occurrences of, e.g., of strings beginning saivantar, vai??avantar, sudrantar, and the like.  So it remains rather anomalous.
+> 
+> As I said, I can simply guess that Vai??avantarasudra would mean something like Vai??avasudra manqué, with -antara = ‘other’ in the sense of ‘lesser’, but I still wonder if there is any precedent or parallels for such an expression.
+> 
+> Tim
+> 
+> From: Dipak Bhattacharya [mailto:dbhattacharya200498 at yahoo.com]
+> Sent: Wednesday, March 09, 2011 5:24 AM
+> To: INDOLOGY at liverpool.ac.uk; Lubin, Tim
+> Subject: Re: [INDOLOGY] Vai.s.navaantara"suudraa.h and the like
+> 
+> The word -antara meaning 'others' in a compound usually refers to variants, extras etc. One has to check if a supplementary list is concerned where it will be appropriate to term the new entries as such. Will you check if any list of ;Suudras of the Vai.s.nava-, ;Saiva- etc. varieties has already been mentioned? I shall check the Kaa;syapa-Sa.mhitaa itself.  Perhaps, you too can yourself do that. But i will.
+> Best
+> DB
+> 
+> --- On Mon, 7/3/11, Lubin, Tim <lubint at WLU..EDU> wrote:
+> 
+> From: Lubin, Tim <lubint at WLU.EDU>
+> Subject: [INDOLOGY] Vai.s.navaantara"suudraa.h and the like
+> To: INDOLOGY at liverpool.ac.uk
+> Date: Monday, 7 March, 2011, 3:21 PM
+> Dear all,
+> 
+> Reading the (unpublished) Kaa"syapottarasa.mhitaa (adhyaaya 18), I have been puzzling over the precise implications of some categories of "Suudra described therein, categories including the suffix -antara, as follows (in descending rank order):
+> Vai.s.nava vs. Vai.s.navaantara,
+> "Saiva vs. "Saivaantara,
+> Saamaanya vs. Saamaanyaantara,
+> Sa.mkara vs. Sa.mkaraantara.
+> 
+> An initial round of searches has not yielded any parallels that would suggest what distinguishes, e.g.., a 'Vai.s.navaantara"suudra' from a 'Vai.s.nava"suudra'.  The text itself is not really explicit, except to suggest that the Vai.s.navaantara is a lower status.  In this case, the lower status may be implicitly attributable to association with "Saivas (despite having received the sa.mskaaras taught in the Puraa.nas and Paa~ncaraatra "saastras, noted in the preceding stanza): "saivaagamoktasa.mskaarisambandha.m samavaapya ca | svaya.m ced vai.s.navas ti.s.thed vai.s.navaantara iirita.h ||
+> 
+> Have others encountered similar status-titles in other works?  Does 'X-antara' simply imply 'a lesser' or 'not quite an' X?
+> 
+> Tim Lubin
+> 
+> 
+> !SIG:4d77555d218712870694385!
+
+
+

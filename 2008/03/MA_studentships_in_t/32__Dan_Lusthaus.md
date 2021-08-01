@@ -1,0 +1,53 @@
++++
+title = "32 Dan Lusthaus"
+date = "2008-03-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-March/031551.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-March/031551.html)
+
+Dude,
+
+Probably not for you (you're beyond MA), but 20,000 pounds is almost 40
+grand in US dineros these days. You should know about that institute anyway,
+since they are doing a lot of interesting work on the history of Medicine -- 
+including Chinese medicine -- with some very good people.
+
+Dan
+
+----- Original Message ----- 
+From: "Dominik Wujastyk" <ucgadkw at UCL.AC.UK>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Wednesday, March 12, 2008 10:46 AM
+Subject: MA studentships in the History of Medicine, London
+
+
+
+***MA studentships in the History of Medicine***
+
+Wellcome Trust Centre for the History of Medicine at UCL
+
+
+The Centre is the world's largest research institute devoted to the study
+of the History of Medicine. It invites applications from prospective MA
+students with a good honours degree for one year commencing September
+2008. The Centre anticipates being able to offer three studentships at
+approximately £19,500 plus the payment of home fees. Applications to study
+full or part time without a scholarship are also welcome. The deadline for
+the application is 15 May 2008. Interviews will be held in June. For
+further details, see http://www.ucl.ac.uk/histmed/teaching/MA/index.html
+For information and application forms, contact Adam Wilkinson:
+ucgaawi at ucl.ac.uk
+
+-----------------
+
+This may not seem particularly indological, but the course offers
+possibilities for the serious study of ayurveda, including doing an MA
+thesis that could make use of original sources in the Asian languages
+supported by scholars at the Centre, that include Sanskrit, Arabic, Urdu,
+Chinese, and Tamil.
+
+DW
+
+
+

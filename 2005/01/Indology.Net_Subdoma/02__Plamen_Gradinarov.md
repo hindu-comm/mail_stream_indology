@@ -1,0 +1,32 @@
++++
+title = "02 Plamen Gradinarov"
+date = "2005-01-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-January/028900.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-January/028900.html)
+
+To celebrate the New 2005 Year, Eurasia Academic Publishers have
+launched free subdomain service in the following formats:
+
+you.indology.net
+yourtext.sacredtexts.org
+you.at.orientalia.org
+
+Please, visit http://www.indology.net/subdomains and reserve your
+subdomain name
+
+Examples: Instead of http://users.primushost.com/~india/ejvs/issues.html
+<http://users.primushost.com/%7Eindia/ejvs/issues.html>
+one can have the short:
+
+http://ejvs.indology.net
+
+Best Regards and Happy New Year!
+
+Plamen Gradinarov
+Ph.D., D.Sc., Assoc. Prof., Publisher
+Eurasia Academic Publishers
+
+
+

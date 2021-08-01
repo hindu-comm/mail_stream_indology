@@ -1,0 +1,58 @@
++++
+title = "24 Donald R. Davis, Jr."
+date = "2005-10-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-October/029390.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-October/029390.html)
+
+You may find Umaasvati's Tattvaarthasuutra 10.5-6 and its commentaries to be 
+helpful.
+
+10.5 tadanantaram uurdhvam gacchaty aa lokaantaat
+10.6 puurvaprayogaad asangatvaad bandhacchedaat tathaagatipariNaamaac ca 
+tadgatiH
+
+Best,
+
+Don Davis
+Dept of Languages & Cultures of Asia
+University of Wisconsin
+
+----- Original Message ----- 
+From: "NKP veera" <veerankp at SIFY.COM>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Saturday, October 08, 2005 6:17 AM
+Subject: eternal upward movement in jainism
+
+
+> sorry if my previous mail is already circulated
+>
+> Vaarttika com. On BS shankarabhaa.sya states that
+>
+>
+> Santatamuurdhvagamana"siilo hi jiiva.h (Anantakrishnashastri edition 
+> p.594)
+>
+> Atha mok.sa.h-nigatanikhilakle"satadvaasanasya anaavara.naj~naanasya 
+> sukhaiktaanansya aatmano'lokaakaa"sade"saavasthaanam ityeke
+> Apare tu --- uurdhvagamana"siilo hi jiivo dharmaadharmaastikayena baddhas
+> tadvimokaad uurdhva.m gacchatyeva/ sa mok"sa ityuucire (p.595)
+>
+> Sarvadar"sanasa.mgraha quotes this type of Mukti twice. Once in jainamata 
+> and second time in nyayamata.
+> tathaa karmarahita aatmaa asa.mgatvaad uurdhva.m gacchati (SDS. P.33, 
+> Aandashram Ed. fourth reprint 1977).
+> pa~njaraan muktasya "sukasyeva aatmana.h satatordhvagamana.m muktir iti 
+> cet tadaa vaktavya.m (SDS.p.95).
+>
+> where it is stated in jain texts?
+>
+> thanks in advance
+>
+> veeranarayana Pandurangi
+> Rashtriya Sanskrit Vidyapeetha Tirupati
+> 
+
+
+

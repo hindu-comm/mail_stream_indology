@@ -1,0 +1,27 @@
++++
+title = "04 Artur Karp"
+date = "2003-08-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-August/027816.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-August/027816.html)
+
+Thanks to Axel Michaels & Joerg Gengnagel for their input.
+
+However, if you please, one more question concerning the Vishvanath Temple
+(main): are there in force any regulations that would disable the members
+of any segment of (broadly defined) Hindu population from entering it?
+Sikhs? Untouchables? Like, for example, Banarasi Doms?
+
+Regards,
+
+Artur Karp
+
+
+---
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.502 / Virus Database: 300 - Release Date: 2003-07-18
+
+
+

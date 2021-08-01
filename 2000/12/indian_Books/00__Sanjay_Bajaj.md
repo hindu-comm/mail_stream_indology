@@ -1,0 +1,28 @@
++++
+title = "00 Sanjay Bajaj"
+date = "2000-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024159.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024159.html)
+
+
+Dear Subscriber, 
+We are the oldest Publishers of (Indological) Indian books (EST.1871) namely M/S Khemraj Shrikrishnadass prop: Shri Venkateshwar Steam Press, Bombay & now are launching a web site.
+
+www.khemraj.com
+
+This is to enquire & request you to please guide me as I am the fourth generation of the Khemraj family looking after the same business & my name is Mr. Sanjay Bajaj & enable me to show to the world the treasures of India & our books ofcourse with your little help.
+
+Please tell me how ?
+
+Thanking You!
+
+For M/S Khemraj Shrikrishnadass
+
+Sanjay Bajaj
+
+Email: sanjay at khemraj.com
+
+
+

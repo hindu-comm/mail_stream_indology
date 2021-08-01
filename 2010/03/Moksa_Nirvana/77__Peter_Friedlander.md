@@ -1,0 +1,31 @@
++++
+title = "77 Peter Friedlander"
+date = "2010-03-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-March/034192.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-March/034192.html)
+
+Dear Colleagues,
+another perspective on this debate relates to Hindi usage.
+Nirvana (often in the form nirban) continues to be used in Hindi to the present day in the verses of Nirgun Sant poets such as Kabir, Raidas, and Dharamdas. 
+In such verses the term moksa occurs in compounds such as 'liberated while living' (jivanmukta) and attaining liberation is often spoken as reaching the 'the state of nirvana' (pad nirban). I have just been translating verses by Dharmdas, a follower of Kabir, in which Nirvana was envisaged as a perfect land full of pearl palaces and fountains of nectar etc.
+regards
+Peter
+
+---------------------------
+
+Peter Friedlander
+
+21 Hindhede Dr #04-04
+
+Singapore, 589318
+
+Handphone: (65) 90624357
+
+
+
+
+
+
+

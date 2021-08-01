@@ -1,0 +1,42 @@
++++
+title = "142 Michael Witzel"
+date = "2010-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/034085.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/034085.html)
+
+As for last 20 years, a Sanskrit  introductory course  will again be  
+taught as part of the Harvard Summer School,
+from June 21 to August 6 (final exam).
+
+For details please see:
+
+<http://www.summer.harvard.edu/2010/courses/sans.jsp>
+
+Registration (and request for housing) start Feb. 22:
+<http://www.summer.harvard.edu/2010/register/;jsessionid=EIPOJMMAEFCH>
+
+General information: <http://www.summer.harvard.edu/>
+
+See you in late June!
+
+M. WItzel
+
+
+
+============
+Michael Witzel
+witzel at fas.harvard.edu
+<www.fas.harvard.edu/~witzel/mwpage.htm>
+
+Dept. of Sanskrit & Indian Studies, Harvard University
+1 Bow Street,
+Cambridge MA 02138, USA
+
+phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496  
+8571;
+my direct line:  617- 496 2990
+
+
+

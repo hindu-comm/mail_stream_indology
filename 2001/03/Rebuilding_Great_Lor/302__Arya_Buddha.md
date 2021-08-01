@@ -1,0 +1,43 @@
++++
+title = "302 Arya Buddha"
+date = "2001-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025841.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025841.html)
+
+We have heard from our friends that you are maybe the
+most distinguished assembly of scholars. We seek your
+help.
+
+We are Arya Buddha Association. One of our aims is to
+rebuild the image of the Great Lord Buddha of Bamiyan,
+one of our greatest heritage.
+
+We have carefully monitored the news from reports and
+personal information. We are sure that it is possible
+and we are confident it will happen. Four images, one
+in India, one in Srilanka and the original too will be
+restored. We have news clips at our web-site.
+
+They have demaged the original further, but a large
+part of it still stands. You know that image not
+completely of stone, but done in clay. We will try to
+obtain som fragments of the original, if fate will
+assist us. The so called demage is only a step to full
+restoration.
+
+Some of you have the capability to assist. Please
+help.
+We are too small to do anything ourselves.
+
+Arya Buddha Association
+M.A.
+
+__________________________________________________
+Do You Yahoo!?
+Get email at your own domain with Yahoo! Mail.
+http://personal.mail.yahoo.com/
+
+
+

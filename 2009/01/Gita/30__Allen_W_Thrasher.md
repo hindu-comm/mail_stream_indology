@@ -1,0 +1,36 @@
++++
+title = "30 Allen W Thrasher"
+date = "2009-01-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-January/032450.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-January/032450.html)
+
+Victor, 
+
+You said,
+
+" And this in spite of the fact
+that Hinduism is the second largest non-Christian religion in the
+Netherlands with approximately between 120,000 to 200,000 adherents."
+
+
+I presume the largest is Islam.  Does this mean there are more Hindus than Jews?
+
+Also, is it known how many are Hindus of Balinese or other Indonesian origin and how many from the subcontinent?
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Team Coordinator
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

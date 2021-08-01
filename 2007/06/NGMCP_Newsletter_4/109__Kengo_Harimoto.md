@@ -1,0 +1,63 @@
++++
+title = "109 Kengo Harimoto"
+date = "2007-06-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030847.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030847.html)
+
+Dear Colleagues,
+
+The Nepalese-German Manuscript Cataloguing Project (NGMCP) is pleased  
+to announce the fourth issue of the _Newsletter of the NGMCP_.   PDF  
+versions of the Newsletter are now available at the University of  
+Hamburg website:
+
+http://www.uni-hamburg.de/fachbereiche-einrichtungen/indologie/ngmcp/ 
+newsletter_e.html
+
+As usual, there are two versions: full and light.  The full version  
+is about 7 MB, and the light version is about 1MB.  The difference is  
+in the quality of the graphics.
+
+------
+Contents of The Newsletter of the NGMCP, No. 4, May-June 2007:
+
+"Editorial" by Harunaga Isaacson
+
+"_Mṛtasugatiniyojana_: A Manual of the Indian Buddhist Tantric  
+Funeral" by Ryugen Tanemura
+
+"A Parallel Edition of the Nepalese and South Indian Recensions of  
+the First Act of the Kundamālā (Part II)" by Csaba Dezső
+
+"Book Announcements"
+
+"Some Highlights of the Work of a ‘Frequent User’ of the NGMPP (III)
+A new edition of Śivasvāmin’s _Kapphiṇābhyudaya" by Michael Hahn
+
+--------------------
+The NGMCP is a project funded by the Deutsche Forschungsgemeinschaft  
+(German Research Foundation).
+
+For correspondence:
+
+NGMCP
+Abteilung für Kultur und Geschichte Indiens und Tibets
+Asien-Afrika-Institut
+Universität Hamburg
+Edmund-Siemers-Allee 1 (Hauptgebäude)
+D-20146 Hamburg
+Germany
+E-mail: ngmcp at uni-hamburg.de
+Telephone: +49 40 42838-6269
+
+-- 
+Dr. Kengo Harimoto
+kengo.harimoto at uni-hamburg.de
+Nepalese-German Manuscript Cataloguing Project
+Abteilung fuer Kultur und Geschichte Indiens und Tibets
+Universitaet Hamburg - Asien-Afrika-Institut
+
+
+

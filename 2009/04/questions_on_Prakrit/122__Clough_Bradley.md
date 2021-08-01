@@ -1,0 +1,32 @@
++++
+title = "122 Clough, Bradley"
+date = "2009-04-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/032971.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/032971.html)
+
+-----Original Message-----
+From: Indology on behalf of mkapstei at UCHICAGO.EDU
+
+...Can someone recommend a convenient guide to Prakrit
+prosody, similar to the appendix on Skt prosody in
+Apte's dictionary?
+---------------------------------------------------
+
+Dear Matthew and All,
+
+I haven't looked at this in quite a while, but worth looking at is:
+
+R. Pischel, *Comparative Grammar of the Prakrit Languages* Translation of the German by S. Jha, second ed. (Delhi: Motilal Banarsidass, 1965). (German original: Gramatik der Prakrit-Sprachen, Strassburg, 1900).
+
+
+Best Wishes,
+Brad
+
+Bradley Clough
+The University of Montana
+bradley.clough at mso.umt.edu
+
+
+

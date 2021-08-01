@@ -1,0 +1,43 @@
++++
+title = "07 jkirk"
+date = "2006-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-August/029953.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-August/029953.html)
+
+It might be worthwhile to contact BAPS International
+there and ask them how they acquired the film. I suspect
+it was distributed by one of the main Hindutva organizations
+that now have international presence.
+Joanna Kirkpatrick
+=====================================
+
+ (I hasten to add that I know very little
+> of BAPS and what I have so far discovered suggests that
+> it is a fairly liberal service organization, devoted to
+> good works in education and health-care. My reservations
+> about aspects of the film are in no intended as a global judgement on
+> BAPS or its projects.)
+> 
+> Although this has no direct connection with
+> Dan and Jonathan's query about Tibet, 
+> the sad fact appears to be that revision of Indian
+> history is being pursued aggressively on all possible
+> fronts, and that even apparently trivial matters now
+> require vigilant assessment.
+> 
+> Happy fact checking!
+> 
+> Matthew Kapstein
+> 
+> 
+> -- 
+> No virus found in this incoming message.
+> Checked by AVG Free Edition.
+> Version: 7.1.405 / Virus Database: 268.10.8/413 - Release Date: 8/8/2006
+> 
+>
+
+
+

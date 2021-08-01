@@ -1,0 +1,38 @@
++++
+title = "22 Richard Mahoney"
+date = "2002-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-December/027313.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-December/027313.html)
+
+Dear All,
+
+I am not sure how many subscribers to INDOLOGY use ConTeXt, although
+it seems that a number use TeX and LaTeX. It seems to me that ConTeXt
+may be useful, especially if it can be successfully configured to
+support UTF-8 encodings for Skt. in Roman translit. and Nagari. Over
+the past two weeks progress has been made in this direction. These
+developments can be followed through the ConTeXt mailing list:
+
+ http://www.ntg.nl/mailman/listinfo/ntg-context/index.html
+
+Of note is a recent posting from Hans Hagen:
+
+ http://www.ntg.nl/pipermail/ntg-context/2002/000544.html
+
+
+Regards,
+
+ Richard Mahoney
+
+
+--
+Richard Mahoney    |  E-mail: rbm49 at ext.canterbury.ac.nz
+78 Jeffreys Road   |          r.mahoney at comnet.net.nz
+Fendalton          |  Telephone: 0064-3-351-5831
+CHRISTCHURCH 8005  |  Cellular: 0064-25-829-986
+NEW ZEALAND        |  http://homepages.comnet.co.nz/~r-mahoney
+
+
+

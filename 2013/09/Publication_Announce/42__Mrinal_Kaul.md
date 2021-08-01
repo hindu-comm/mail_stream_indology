@@ -1,0 +1,31 @@
++++
+title = "42 Mrinal Kaul"
+date = "2013-09-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038378.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-September/038378.html)
+
+(For more details follow the links below)
+
+Title :   Abhinavā: Perspectives on Abhinavagupta (Studies in Memory of K.C. Pandey on His Centenary) 
+
+Author: Navjivan Rastogi (Ed.) & Meera Rastogi (Joint ed.)
+
+About the Volume:
+
+Till the advent of Prof. K.C. Pandey on the Indological horizon, the Sanskrit academy was hardly aware that Abhinavagupta—the most towering creative genius of medieval India—was more a philosopher than a literary critic and that his foray into poetics, in fact art and aesthetics as such, was to complement and substantiate his metaphysical and soteriological vision and that his contribution has been phenomenal in both the realms along with their allied and applied ramifications. It was largely for Pandey to unearth Abhinavagupta from the historical and academic oblivion and highlight the unique poignancy of Abhinavan contribution as being nurtured by a unified dynamic integral world-view having perfection, that is, oneness of the being and the beautiful, experience and expression, beingness and bliss, foundationally enshrined in its epicenter. Thus, Pandey proved to be a “path discoverer,” pathikrt and a “system-builder,” tarkasya karta. He consistently , and cogently, demonstrated through his numerous writings the intrinsically reciprocal congeniality that obtained between the Trika metaphysics on the one hand and its aesthetics on the other, where the former constitutes the genesis (karana hetu) of the theory of art and the latter the psycho-epistemological synthesis to the proper understanding of the tantrico-philosophical stipulations. The volume opens with a fairly long preface introducing the underlying theme and spirit of the whole venture followed by a biographical essay on Pandey’s inspiring life plus a comprehensive bibliography of his writings. The opening segment is followed by the Part One comprising reminiscences from a cross-section of his students and admirers including quite a few surviving close associates and contemporaries. The next two parts constitute the substantive portion and are devoted to Kashmir Shaivism and Abhinavan aesthetics, respectively.
+
+http://www.mrmlonline.com/?page=shop/flypage&product_id=2302734&keyword=Navjivan+Rastogi+(Ed.)+&+Meera+Rastogi+(Joint+ed.)&searchby=author&offset=0&fs=1
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130921/67ea6995/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ABHINAVA.jpg
+Type: image/jpeg
+Size: 857161 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20130921/67ea6995/attachment.jpg>

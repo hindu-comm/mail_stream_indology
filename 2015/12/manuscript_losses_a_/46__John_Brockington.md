@@ -1,0 +1,45 @@
++++
+title = "46 John Brockington"
+date = "2015-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-December/042450.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-December/042450.html)
+
+Dear colleagues,
+
+I have been asked the question below, to which I cannot remember the 
+answer either.  Does anyone else have a better memory (or the 
+forethought to make a note of the reference) or is able to point us to 
+equivalent information?  Any leads would be most welcome.
+
+"I’m currently putting together a small presentation for a workshop on 
+digitisation  . . . and, as is the way of things, trying to track down a 
+reference for a piece I once read about the loss of manuscript 
+collections in India since the Raghavan survey. I remember once reading 
+some astonishing assertion of the percentage of manuscripts listed in 
+that survey that were no longer extent but stupidly didn’t note the 
+reference. I had thought it was in one of Dominik Wujastyk’s articles 
+but have failed to find anything beyond more general comments about the 
+19^th century being the point at which India had the richest manuscript 
+collections."
+
+Best wishes
+
+John Brockington
+
+
+Professor J.L. Brockington
+Emeritus Professor of Sanskrit, University of Edinburgh
+Vice President, International Association of Sanskrit Studies
+
+113 Rutten Lane
+Yarnton
+Kidlington 0X5 1LT
+tel: 01865 849438
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151216/25f4e44b/attachment.htm>

@@ -1,0 +1,28 @@
++++
+title = "62 Dominik Wujastyk"
+date = "2002-04-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026897.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026897.html)
+
+My aayurvediiya mahaako"sa says:
+
+k.saaralava.na - na., bhai.sajya. lava.abheda.h lo.naarak.saaram (raa. 6.53).
+
+The reference "raa" is the Raajanigha.n.tu, which I don't have to hand,
+I'm afraid.
+
+The normal meaning in med. lit. is "caustic", most commonly an alkaline,
+as you said.  It's in the class of "sastras, or cutters.
+
+Dominik
+
+--
+Dr Dominik Wujastyk
+Wellcome Trust Senior Research Fellow
+Wellcome Centre for the History of Medicine at UCL
+http://www.ucl.ac.uk/histmed/
+
+
+

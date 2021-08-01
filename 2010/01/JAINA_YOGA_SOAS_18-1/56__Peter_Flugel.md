@@ -1,0 +1,170 @@
++++
+title = "56 Peter Flugel"
+date = "2010-01-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033896.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033896.html)
+
+*JAINA YOGA*
+
+*12th Jaina Studies Workshop at SOAS*
+
+* *
+
+*The 10th Annual Jain Lecture*
+
+
+
+Thursday, 18th March 2010
+
+18.00-19.30 Brunei Gallery Lecture Theatre
+
+19.30 Reception Brunei Gallery Suite
+
+
+
+Sagarmal Jain (Pārśvanāth Vidyāpīṭh, Vārāṇasī)
+
+*The Historical Development of the Jaina-Yoga System and the Impact of other
+Indian Yoga Systems on it: A Comparative and Critical Study*
+
+
+
+
+
+*Workshop*
+
+* *
+
+Friday, 19th March 2009
+
+9.00, Brunei Gallery Lecture Theatre
+
+
+
+9.00     Tea and Coffee
+
+
+
+9.15     Welcome
+
+
+
+9.30     Olle Qvarnström (Lund University)
+
+*The Concept of Yoga in Jainism*
+
+
+
+10.00   Bansidhar Bhatt (University of Münster)
+
+*Study in Meditational Techniques in Early Jainism*
+
+10.30            Samani Chaitypragya & Samani Rohinipragya (Jain Vishva
+Bharati University) *The Concept  of ‘Sandhi’ In Jain Scriptures - A
+Hermeneutic Approach*
+
+* *
+
+11.00   Tea & Coffee
+
+
+
+11.30   John Cort (Denison University)
+
+*When will I meet such a Guru? Images of the Yogī in Digambara Hymns*
+
+
+
+12.00   Johannes Bronkhorst (University of Laussane)
+
+*Kundakunda versus Sāṃkhya on the Soul*
+
+
+
+12.30   Discussion **
+
+* *
+
+13.00   Lunch: Brunei Gallery Suite
+
+
+
+14.00   Christopher Chapple (Loyola Marymount University)
+
+*The Jaina Yogas of Haribhadra*
+
+
+
+14.30   Jefferey Long
+
+*Yaśovijaya’s View of  Yoga*
+
+* *
+
+15.00   Piotr Balcerowicz (University of Warsaw)
+
+*Extrasensory Perception (yogi-pratyakṣa) in Jainism and its Soteriological
+*
+
+*Implications*
+
+
+
+15.30   Tea & Coffee**
+
+
+
+16.00   Andrea R. Jain (Rice University)**
+
+*Prekṣā  Dhyāna: A Jain Form of Modern Yoga*
+
+
+
+16.30   Smita Kothari (Toronto University)
+
+*D****na and Dhy****na in Jaina Yoga*
+
+
+
+17.00   Jason Birch (Oxford University)
+
+*Universalist and** Missionary Jainism: Jain Yoga of the Terāpanthī
+Tradition*
+
+
+
+17.30   Discussion
+
+
+18.00   Final Remarks
+
+ALL WELCOME !  (No registration necessary)
+
+The Conference is Co-Organised by SOAS, Lund University, Layola University
+Los Angeles, and the Victoria and Albert Museum in London. For further
+information contact:
+
+Olle Qvarnström: Olle.Qvarnstrom at teol.lu.se
+Christopher Chapple: cchapple at lmu.edu
+Jane Savory, SOAS Centres Office: js64 at soas.ac.uk
+
+
+-- 
+Dr Peter Flügel
+Chair, Centre of Jaina Studies
+Department of the Study of Religions
+Faculty of Arts and Humanities
+School of Oriental and African Studies
+University of London
+Thornhaugh Street
+Russell Square
+London WC1H OXG
+
+Tel.: (+44-20) 7898 4776
+E-mail: pf8 at soas.ac.uk
+http://www.soas.ac.uk/jainastudies
+
+
+

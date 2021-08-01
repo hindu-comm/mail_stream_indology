@@ -1,0 +1,22 @@
++++
+title = "84 Alfred Collins"
+date = "2006-10-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030083.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030083.html)
+
+Professor Despande,
+
+Thank you for the reference.  I will try to look it up on JSTOR.  If I fail, would it be possible for you to send a copy via email attachment?
+
+Just as bona fides I wrote an article partly on this in the Journal of Indo-European Studies in 1975 (Reflections of RV X.129, vol 3, pp271-281).
+
+My interest now is in middle ground concepts mediating or bridging the gap between states of ignorance/suffering and enlightenment/release.  The thought on RV concepts is that midspace in vedic cosmogony/cosmology may be such a bridge.  Obviously too much to cover here, but I am giving a talk on the idea in the yoga literature at the DANAM meeting in DC in a few weeks.
+
+As to the S&M reaction, (raising my right hand) I am not and never have been a member of any Hindutva or anti-Hindutva party, so help me .......(fill in the blank).
+
+Al Collins, Ph.D.
+
+
+

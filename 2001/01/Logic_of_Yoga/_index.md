@@ -1,0 +1,4 @@
++++
+title = "Logic of Yoga"
+
++++

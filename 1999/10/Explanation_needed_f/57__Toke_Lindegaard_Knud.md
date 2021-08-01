@@ -1,0 +1,22 @@
++++
+title = "57 Toke Lindegaard Knudsen"
+date = "1999-10-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018690.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018690.html)
+
+Dear list-members,
+
+Can anyone tell me whether the word 'angula', which is used for a
+measure of length in the Brahmanas and Sutras (and possibly also
+many other places), literally means 'finger'?  I am curious as to
+whether this unit was intended as being the breadth of a finger.
+
+Any help would be appreciated.
+
+Sincerely,
+Toke Lindegaard Knudsen
+
+
+

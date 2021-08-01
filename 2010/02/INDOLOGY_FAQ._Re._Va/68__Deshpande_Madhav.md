@@ -1,0 +1,51 @@
++++
+title = "68 Deshpande, Madhav"
+date = "2010-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/034015.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/034015.html)
+
+And to add to that, I recently met someone who had visited the city of Pune (pronounced with a '-une' as in "immune").  He went there from the city of Mumbai (with "-umb" as in "numb").
+
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, Michigan 48104-1608, USA
+________________________________________
+From: Indology [INDOLOGY at liverpool.ac.uk] On Behalf Of Frances Pritchett [fp7 at COLUMBIA.EDU]
+Sent: Monday, February 15, 2010 10:24 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Re: INDOLOGY FAQ. Re. Varanasi
+
+And moving on from VaraNAAsi, let's not forget that other great cultural
+center, the POON-jab.
+
+Fran
+
+Richard P. Hayes wrote:
+> On Mon, 2010-02-15 at 08:49 -0600, Gary Tubb wrote:
+>
+>
+>> I should have been clearer.  I was referring to the way that native
+>> speakers of English often pronounce the name of the city, Varanasi.
+>>
+>
+> All this discussion of pronunciation prompts me to report a lecture I
+> went to recently given by a Franciscan brother to an audience of 1200
+> people, most of them Catholics. To his great credit, the Franciscan was
+> talking about how much modern Catholics have to learn from other
+> spiritual traditions. I was compelled, however, to cringe repeatedly as
+> the earnest Franciscan told us about Patanjaali (rhymes with "fat an'
+> jolly") and Samkaara (Sam who?). The high point of the talk for me was
+> the explanation of how mandaalas (rhymes with "man dollars" as
+> pronounced in Boston) are used in the Hindi religion. It was with mixed
+> feelings that I reflected on how the seeds sown by careful Indologists
+> are now being reaped in quotidian popular culture around the world.
+>
+>
+
+
+

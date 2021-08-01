@@ -1,0 +1,31 @@
++++
+title = "26 Allen W Thrasher"
+date = "2008-11-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-November/032255.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-November/032255.html)
+
+There is a section on "History" in pp. 5-7 of:
+
+LC Control No.:       74917661  
+Personal Name:     Ramachander, P. R.
+Main Title:        Bibliography on arecanut, up to December 1966. Compiled by P. R. Ramachander & K. V. Ahamed Bavappa.
+Published/Created: Vittal, Central Arecanut Research Station, 1967.
+
+Allen
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Team Coordinator
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

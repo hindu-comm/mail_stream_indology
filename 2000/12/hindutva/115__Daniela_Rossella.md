@@ -1,0 +1,34 @@
++++
+title = "115 Daniela Rossella"
+date = "2000-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024224.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024224.html)
+
+Dearest Professor Nayak,
+You are - I think - right on the target. It is impossible to study, for
+example, a Sanskrit text without pondering about the person (with his caste,
+biography, religion and so on) who has written it. And it is impossible to
+study an author only by his caste, biography, religion and so on without
+pondering about his texts. For being a true *indologist* it is necessary an
+holistic point of view.
+I am interested in Sanskrit classical poetry, but when I translate Amaruka,
+or Kalidasa or Mayura or Jagannatha I think always:
+why this author *makes* poetry in this way? What is his view about the
+religion, the aesthetic theories, the Liberation from samsara?
+Bhadram astu.
+Yours faithfully,
+Daniela
+
+*****************************************************
+Ph.D. Dr. Daniela Rossella
+Piazza Buzzati, 5
+43100 PARMA (Italy)
+tel. & fax +39.0521.773854
+cell. +39.0338 3198904
+ghezziem at tin.it
+*****************************************************
+
+
+

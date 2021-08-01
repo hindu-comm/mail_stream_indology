@@ -1,0 +1,28 @@
++++
+title = "33 Dipak Bhattacharya"
+date = "2012-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-February/036373.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-February/036373.html)
+
+27f12 
+INDOLOGY at liverpool.ac.uk 
+Dear Colleagues, 
+In my Windows 7 + Microsoft Office in its latest version I
+used the short cut Ctrl+Alt+M as an improvised one for a diacritic without
+noting at the time of creation that it is the default combination for ‘Insert
+annotation’. Not using for some time renders this shortcut defunct and brings
+in the default command creating hazard.
+In fact I never require the default ‘Insert annotation’ which is otherwise
+served with improvisions made long ago. 
+Could any colleague suggest how to get rid of this nuisance
+that seems to be a feature of the latest version of Microsoft Office? There are
+certainly good experts among members.
+Best
+DB
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120227/c7db4d60/attachment.htm>

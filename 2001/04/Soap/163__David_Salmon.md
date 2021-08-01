@@ -1,0 +1,30 @@
++++
+title = "163 David Salmon"
+date = "2001-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026082.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026082.html)
+
+The recent discussion on the Indo-European list regarding the origins of the
+word "soap" prompt me to raise the same question here.
+
+Douglas G. Kilday stated there, "The most plausible scenario has PIE *saigw-
+'tallow, fat, grease, etc.' undergoing "pre-Germanic" labialization to
+*saibw-,
+yielding PGmc *saip-."  Others trace it through Latin "<sebum /sevum>,
+tallow,
+suet, grease; <sebosus>, full of tallow or grease, tallowy, greasy."   The
+reference to tallow and grease is said to refer to the greasy component of
+soap, which is formed by mixing fat and alkali, which is said to have been
+used as
+early as 2800 BC Babylon to remove fats from wool prior to dyeing, or to
+remove fats from leather, or to clean hair.
+
+What is the derivation of the the modern Hindi word for soap, "sAbn" or
+"saabuna," etc.?
+
+David
+
+
+

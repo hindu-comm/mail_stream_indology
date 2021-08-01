@@ -1,0 +1,49 @@
++++
+title = "30 BROCKINGTON John"
+date = "2014-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/038899.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/038899.html)
+
+Dear Colleagues,
+
+In case any of you want more information on or need to contact the organisers of the next World Sanskrit Conference in July next year, I forward the message below that I have just received.
+
+Best wishes
+
+John Brockington
+
+
+Professor J. L. Brockington
+Fellow, Oxford Centre for Hindu Studies
+Emeritus Professor of Sanskrit, University of Edinburgh
+Vice President, International Association of Sanskrit Studies
+________________________________________
+From: 16th World Sanskrit Conference [worldsanskrit at hotmail.com]
+Sent: 04 February 2014 12:23
+To: BROCKINGTON John
+Subject: Change of website for the 16th WSC
+
+Dear Profs. Brockington,
+
+Greetings from Bangkok, Thailand. This is to inform you that the University Website hosting the Sanskrit Studies Centre (www.ssc.su.ac.th<http://www.ssc.su.ac.th/> ) is currently down and often becomes non-functional due to the upgradation work going on at the University. Therefore, we have created alternate website so that the 16th WSC work does not get affected. The following two would work now onwards:WWW.SANSKRIT-SILPAKORN.ORG<http://www.sanskrit-silpakorn.org/> and WWW.SANSKRIT-THAILAND.COM<http://www.sanskrit-thailand.com/>. Both First Announcement and Online Registration Form would be accessible from these two new web addresses onwards. When, the Silkpakorn University website will be restored, that will work as the third website. However, we would recommend you to use the new alternate websites as given above.
+
+Please inform the concerned scholars. We are sorry for inconvenience.
+
+Regards,
+
+
+Secretariat,
+16th World Sanskrit Conference, 2015
+Sanskrit Studies Centre,
+Silpakorn University, Bangkok, Thailand
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+
+
+

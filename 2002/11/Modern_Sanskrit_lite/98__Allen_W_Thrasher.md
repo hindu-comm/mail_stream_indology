@@ -1,0 +1,67 @@
++++
+title = "98 Allen W Thrasher"
+date = "2002-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-November/027293.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-November/027293.html)
+
+The Library of Congress has put recordings of modern Sanskrit literature
+read by its authors freely available online as part of its South Asian
+Literary Recordings Project, along with literature in many other South
+Asian modern languages.  The project is described in the Scout Report
+forwarded below.  The Sanskrit authors recorded are Rewa Prasad Dwivedi,
+Ram Karan Sharma, and Rama Kant Shukla.
+
+Allen Thrasher
+
+
+
+
+>From The Scout Report, Copyright Internet Scout Project 1994-2002.
+http://scout.wisc.edu/
+
+
+15. The South Asian Literary Recordings Project [Real Audio]
+http://www.loc.gov/acq/ovop/delhi/salrp/
+
+Undertaken by the Library of Congress' New Delhi Office, this impressive
+project was designed to create an audio archive of South Asian authors
+reading their own work in the original language of its publication. The
+project began in earnest during April 2000, and by September 2002 (when
+this
+site was launched), eighty authors had been recorded. The site features
+readings in 22 different languages, including Hindi, Bengali, Sindhi,
+Gujarati, Nepali, and English. The authors reading in English include
+some
+of the most prolific and accomplished South Asian authors of the last
+century. Those featured readings on the site include Keki N. Daruwalla,
+Anne
+Ranasinghe, and Mulk Raj Anand, whose career has spanned over
+seventy-five
+years. Additionally, a brief profile of each author is included with
+their
+representative audio recordings. Persons interested in learning more
+about
+South Asia's vast and prodigious literary tradition in the 20th century
+will
+find this site a valuable resource. [KMG]
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

@@ -1,0 +1,20 @@
++++
+title = "71 Harry Spier"
+date = "2021-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-February/054310.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-February/054310.html)
+
+Dear list members,
+When I search the new Indology archives by month I get weird results.  For
+example I've just tried to search the archives for October 2004 sorted by
+most recent.  The results I get are the threads for Oct 2004 only from Oct.
+26 to the end of the month.  These are preceeded by threads from Feb. 2021
+not by earlier threads from Oct. 2004.
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210226/55de7d30/attachment.htm>

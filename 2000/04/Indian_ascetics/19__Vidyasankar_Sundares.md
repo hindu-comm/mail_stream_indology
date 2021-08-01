@@ -1,0 +1,44 @@
++++
+title = "19 Vidyasankar Sundaresan"
+date = "2000-04-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/020932.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/020932.html)
+
+>I was not aware that the Nathpanthi and Dasnami Mahants were the official
+>spokespeople/ registrar for all naked Indian ascetics.
+
+Maybe not in your book, but the very fact that they are called Mahants gives
+them traditional authority. The Nagas are a very disciplined group, with
+deep links to Dasnami institutions. They have a Pancayat kind of internal
+government among themselves, and grant a lot of power to their Mahants. So
+also with the Nathpanthis. And of course, I'm not including the Digambara
+Jain monks, another possible group of naked Indian ascetics, but you rarely
+see them discussed in publications of Indian sadhus.
+
+>Not quite.  Yours was the comment on Indian poverty. Mine had to do with
+>the
+>pain & suffering involved in exposing 100% skin to the harsh Indian climate
+>& insects.
+
+The ash helps, believe it or not. And do I detect the pukka sahib's attitude
+towards the Indian environment here? Methinks you have lived outside India
+for far too long.
+
+>What distorted perspective?  Name one other country/ religion, exotic or
+>otherwise, which would allow naked sadhus roaming freely all over the
+>place.
+
+Ahem, this is getting into quite deep issues of culture and society. And I
+don't want to argue for argument's sake. All I wish to point out is that
+there are other aspects to Sadhus and Sannyasis in India, naked or clothed,
+that the picture books never portray. If you think otherwise, you're welcome
+to your opinion.
+
+Vidyasankar
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

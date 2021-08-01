@@ -1,0 +1,21 @@
++++
+title = "00 Valerie J Roebuck"
+date = "2006-09-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-September/029972.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-September/029972.html)
+
+Does anyone know of any research that has been done on the figure of 
+the seTThi or zreSThin, usually translated as 'Treasurer',  in 
+Buddhist texts?  I am particularly interested in the development in 
+the Dhammapada commentary, where he in fact seems to function as a 
+wealthy banker or money-lender (though without the usual negative 
+connotations of the latter), but with almost magical powers over 
+money, as a result of kamma/karma in previous lives.
+
+Valerie J Roebuck
+Manchester, UK
+
+
+

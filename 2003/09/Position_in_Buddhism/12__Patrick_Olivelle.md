@@ -1,0 +1,27 @@
++++
+title = "12 Patrick Olivelle"
+date = "2003-09-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-September/027895.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-September/027895.html)
+
+The Department of Asian Studies at The University of Texas at Austin
+is inviting applications for a position in classical Indian Buddhism
+at the Assistant Professor level. The candidate needs to have Ph.D.
+in hand, demonstrated teaching and research ability, and a sound
+knowledge of Sanskrit and Pali. Preference will be given to
+candidates with demonstrated commitment to the academic study of
+religion. The successful candidate will join a large group of South
+Asia faculty in a variety of disciplines, as well as the Program in
+Religious Studies. The University of Texas at Austin houses a Title
+VI National Resource Center for South Asia and has one of the
+top-ranked South Asia programs in the country. Please send a letter
+of interest, current CV, three letters of reference, publications,
+and relevant syllabi to: Buddhism Search Committee, Department of
+Asian Studies, WCH 4.134, 1 University Station G9300, The University
+of Texas at Austin, Austin, TX 78712. The closing date for
+applications is December 31, 2003. An AA/EEO employer.
+
+
+

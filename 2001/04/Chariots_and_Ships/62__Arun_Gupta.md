@@ -1,0 +1,29 @@
++++
+title = "62 Arun Gupta"
+date = "2001-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026012.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026012.html)
+
+Subramanyah S quotes :
+
+"The intimate linkage between Proto-Indo-European and the
+ horse and the chariot is a myth". pg 51 - Wagon, Chariot and Carriage -
+ Symbol and status in the history of transport - Stuart Piggott
+
+and wrote that the Indo-European war chariot is a figment of the imagination.
+
+Steven Farmer seems to be saying that the war chariot apparently
+appears first in RV VI, which, according to him and accepted theory,
+is a late Mandala.
+
+So, Farmer and Subramanyah appear to be in agreement.
+That is, if "the Indo-European war chariot" means that chariots were
+part of the PIE culture.
+
+Are chariots a late acquisition of the Indo-Aryans ?
+-Arun Gupta
+
+
+

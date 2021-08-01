@@ -1,0 +1,26 @@
++++
+title = "79 James Hartzell"
+date = "2010-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033945.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033945.html)
+
+Not sure whether colleagues are conversant with this Sanskrit Wikipedia link
+(sa.wikipedia.org), and what the consensus opinion is;  from a very brief
+look it appears only short articles for some entries, some partly in Hindi.
+It might be a good venue for centralizing links for Sanskrit digital
+documents, audio recordings, videos, university websites, etc.
+
+It was started last week by a team of Samskrita Bharati volunteers in
+Bangalore
+http://en.wikipedia.org/wiki/Wikipedia:Academy/India/2010/Bangalore1
+
+additionally, we might think of starting some pages on scholarpedia.org?
+
+James Hartzell
+University of Trento
+Rovereto, Italy
+
+
+

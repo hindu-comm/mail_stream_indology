@@ -1,0 +1,41 @@
++++
+title = "47 Luis Gonzalez-Reimann"
+date = "2004-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-January/028121.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-January/028121.html)
+
+Friends,
+
+The following quote from a recent article is worth reading.
+
+Luis Gonzalez-Reimann, Ph.D.
+University of California, Berkeley
+____________
+
+DF govt seeks legal opinion on action against US author
+
+TIMES NEWS NETWORK [ THURSDAY, JANUARY 08, 2004 01:56:22 AM ]
+
+MUMBAI: The Congress-led Democratic Front (DF) is seeking expert legal opinion
+on whether action can be initiated against American author James Laine for his
+"negative portrayal" of Chhatrapati Shivaji in his book A Hindu King in
+Islamic
+India.
+
+"No person in Maharashtra will tolerate any objectionable reference to
+Chhatrapati Shivaji. So we are asking for advice from the legal fraternity if
+we can initiate action against the author," said state home minister R.R.
+Patil
+in Mantralaya on Wednesday.
+...
+
+Full article at:
+
+http://timesofindia.indiatimes.com/articleshow/411075.cms
+
+___________
+
+
+

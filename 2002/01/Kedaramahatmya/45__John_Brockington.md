@@ -1,0 +1,33 @@
++++
+title = "45 John Brockington"
+date = "2002-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-January/026579.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-January/026579.html)
+
+Dear Paolo,
+
+Many thanks for the information about the VAyu PurANa;  I had my doubts when
+I found a reference to a KedAramAhAtmya in it (via the _Epic and Puranic
+Bibliography_, if I remember correctly), so I am glad to have them
+confirmed.  As you note, the KedArakhaNDa of the Skanda PurANa does not
+really deal with Kedarnath at all, only with Shaiva myths.
+
+Yours
+
+John
+
+
+Professor J. L. Brockington
+Secretary General, International Association of Sanskrit Studies
+
+Sanskrit, School of Asian Studies
+7 Buccleuch Place
+Edinburgh   EH8 9LW        U.K.
+
+tel:  +131 650 4174
+fax: +131 651 1258
+
+
+

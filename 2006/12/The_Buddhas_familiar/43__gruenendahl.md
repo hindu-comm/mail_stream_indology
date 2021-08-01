@@ -1,0 +1,53 @@
++++
+title = "43 gruenendahl"
+date = "2006-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-December/030267.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-December/030267.html)
+
+Peter M. Scharf  wrote:
+
+> Exactly what passage in Chandogya 8 contains a usage of the verb upa- 
+> labh?  I don't see it on a quick read nor do I find it in the TITUS  
+> word list. 
+
+
+See the electronic text on GRETIL:
+
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#ChandUp
+
+
+ChUp_8.8.4
+
+for upalabh see also ChUp_2.22.3-4
+
+
+R. Grünendahl
+
+
+
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Göttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+

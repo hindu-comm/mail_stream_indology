@@ -1,0 +1,25 @@
++++
+title = "181 Dan Lusthaus"
+date = "2009-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032898.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032898.html)
+
+I remember being told many years ago that Freud had been translated into
+Sanskrit, but have never seen such works, nor have any bibliographical
+information on them. Is anyone familiar with this?
+
+Also, there were obviously different motives for producing Sanskrit
+translations -- e.g., Christian missionaries trying to get out the "good
+word," or "back-translating" Chinese or Tibetan works whose Skt originals
+are no longer extant -- but some must have been done due to an interest and
+curiosity on the part of Sanskrit pandits themselves for accessible versions
+of stimulating works (such as, I would imagine, would be the case with works
+of de Saussure or Freud). Has anyone attempted an anthropology of Sanskrit
+translations, sorting out the different motives?
+
+Dan Lusthaus
+
+
+

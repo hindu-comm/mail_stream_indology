@@ -1,0 +1,37 @@
++++
+title = "63 Suryanarayana Korada"
+date = "2000-06-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021530.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021530.html)
+
+Dear List members,
+                   In the Shastras and darshanas of Sanskrit, one comes
+across various technical terms. each Shastra has its own technical
+terminology which it defines. It is often noticed that the same technical
+term has been employed in the different knowledge domains with different
+connotations. For example, the term upasarga stands for 'semantic modifier'
+in Vyakarana; in Ayurveda, it stands for 'the ailment that gets imposed on a
+basic disease, a secondary ailment' ; in Yoga-Sutras it stands for
+'impediment' or 'obstruction'.
+
+My question is, what are the dictionaries or reference works that one can
+refer to in this regard. I will be grateful for any information in this
+matter.
+
+Thanking You in advance.
+
+Suryanarayana Korada,
+School of Computer& Systems Sciences,
+Jawaharlal Nehru University,
+New Delhi- 110 067.
+
+
+
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

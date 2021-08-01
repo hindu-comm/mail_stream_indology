@@ -1,0 +1,28 @@
++++
+title = "80 Oliver Hellwig"
+date = "2019-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-November/051330.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-November/051330.html)
+
+Dear all,
+
+I would like to draw your attention to a publication that has just
+appeared and may be relevant for those interested in the chronology of
+the Mahabharata:
+O. Hellwig: Dating Sanskrit texts using linguistic features and neural
+networks. In: Indogermanische Forschungen (2019), 1-45
+
+Chapter 5 discusses chronological evidence for the Bhishmaparvan of the
+Mbh, including the BhG and the composition of the battle description in
+Book 6.
+
+Sorry for the self-advertisement, and best wishes, Oliver
+
+---
+Oliver Hellwig, IVS Zürich
+
+
+
+

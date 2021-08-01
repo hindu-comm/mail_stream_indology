@@ -1,0 +1,36 @@
++++
+title = "364 Jai Simman s/o R. Rangasamy"
+date = "2000-07-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022081.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022081.html)
+
+I am observing with interest the recent discussion on the dating of
+Shankaracharya's time period.
+This calls into a question yet another dispute that exists within Shankarite
+circles,
+ie. the link of the kanchi mutt to Shankara.
+
+Traditionally, it is acknowledged that only 4 mutts were personally
+established by Shankara
+and the kanchi mutt does not feature in this list. The kanchi mutt however
+insists that it is
+Shankara who personally established this mutt as his last mutt before he
+departed from this mortal world.
+
+Consequently, the debate also extends to the place of his final departure.
+The Kanchi mutt considers
+this place to be kanchipuram while the others point to Badari, Himalayas,
+north india, etc.
+
+What is the verdict on these disputes if there is one from the Indological
+viewpoint ?
+
+
+
+R. Jai Simman
+Singapore
+
+
+

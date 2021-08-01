@@ -1,0 +1,48 @@
++++
+title = "60 Jonathan Silk"
+date = "2003-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-November/028022.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-November/028022.html)
+
+The name of one of the Indian Buddhist schools is Mahaasaamghika.
+Since I was asked about this more than ten years ago, I have wondered
+about it. The traditional explanation has it that the name signifies
+"those who belong to the great community" or something along that
+line. BUT:
+
+*if*
+
+mahaasamgha + ika
+
+then, should >
+
+*maahaasamghika
+
+right?
+
+To generate mahaasaamghika, we need to assume
+
+mahaa + saamghika < samgha + ika
+
+right?
+
+I cannot reconcile what I understand to be the grammer with what I
+understand the tradition to understand. Any ideas?
+
+JAS
+--
+Jonathan Silk
+Department of East Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310)206-8235
+fax:  (310)825-8808
+silk at humnet.ucla.edu
+
+
+

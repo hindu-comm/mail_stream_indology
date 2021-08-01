@@ -1,0 +1,44 @@
++++
+title = "51 Patrick Olivelle"
+date = "2003-11-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-November/028019.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-November/028019.html)
+
+At least in the Dharmasastras, there is no instance of adoption for
+the sake of marrying the daughter; also silent whether an adopted son
+could marry a biological daughter -- probably not.
+Patrick
+
+
+
+>with regard to the suggestions regarding niyoga and appointment of a
+>daughter as putrikaa, the (or rather an) interesting point is that
+>the text is entirely uninterested in this aspect: there is no mention
+>of inheritance. But I presume, and have not been disabused of this
+>notion by the responses so far, that there is no particular reason
+>for the son-in-law in the story in question to have been adopted,
+>since the daughter could (although this is not mentioned) have
+>inherited. Shall I assume that within the putative original context,
+>an audience would have assumed the daughter to the heir, even if the
+>story never mentions it? Moreover, may I presume by the silence of
+>the zi.s.tas that another of my assumptions was correct and actually
+>adopting the young man would, in fact, make his marriage to the
+>daughter an incestuous one?
+>
+>JAS
+>--
+>Jonathan Silk
+>Department of East Asian Languages & Cultures
+>Center for Buddhist Studies
+>UCLA
+>290 Royce Hall
+>Box 951540
+>Los Angeles, CA 90095-1540
+>phone: (310)206-8235
+>fax:  (310)825-8808
+>silk at humnet.ucla.edu
+
+
+

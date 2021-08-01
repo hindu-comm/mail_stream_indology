@@ -1,0 +1,34 @@
++++
+title = "22 shyamr at YORKU.CA"
+date = "2007-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-February/030542.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-February/030542.html)
+
+The Internet Encyclopedia of Philosophy (http://www.iep.utm.edu/) is requesting
+article submissions on Indian Philosophy.
+
+Founded in 1995 and run by an international board of editors, the IEP is open to
+articles written by professionally trained philosophers and scholars of South
+Asian thought.  Indian philosophy submissions that supersede the expertise of
+the Acting Area Editor for Indian philosophy (the bulk of submissions) are
+subject to the approval of blind, anonymous referees who are expert in the
+relevant field. The IEP currently receives approximately 3,000 hits per day,
+with the greatest percentage coming from university students. Unlike most
+printed philosophy reference works, the IEP is continually revised and updated.
+
+For an unexhaustive list of desired articles and articles under production in
+Indian philosophy, please see
+
+http://www.students.yorku.ca/~shyamr/DesiredArticleList.htm .
+
+For more information on submissions, please see
+
+http://www.iep.utm.edu/1/submit.htm
+
+or contact Shyam Ranganathan (Acting Area Editor, Indian Philosophy IEP):
+indian-philosophy at shyam.org.
+
+
+

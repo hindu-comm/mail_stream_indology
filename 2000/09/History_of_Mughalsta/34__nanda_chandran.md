@@ -1,0 +1,50 @@
++++
+title = "34 nanda chandran"
+date = "2000-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022593.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022593.html)
+
+schrieb Robert Zydenbos :
+
+>(because this is why you quoted me, right? I.e. that I have written that
+>'Vedic civilisation' 'encourages war' etc.), and if you can also point out
+>the last time I wrote anything about Buddhism, and how this has anything at
+>all to do with what I was writing about -- then I will write again in this
+>thread. Is that a good deal? Otherwise, I think that I should not continue.
+
+That the brahmanic ideal was spiritual, is something that I just said in
+the passing. But you blew up that particular point and went into the
+- spiritual east vs materialistic west, Vivekananda myth, religious
+propoganda etc - mode. Was that justified? The same is the case with
+comparing India with Europe.
+
+And yet you accuse me of indulging in polemics for fun!
+
+Though you didn't explicitly mention Buddhism, the tone of the argument
+is pretty typical of Euro centric/leftist interpreters of Indian history
+who try to glorify Buddhism at the expense of Vedic Hinduism. And the
+comparison between Buddhism and Hinduism, I'd also presented it in quotes,
+which obviously wasn't from your post. It was only a general reference to an
+attitude so typical of some biased historians. So there's little need for
+your imagination run riot about people trying to accuse you of something
+that you didn't say. If you do not want others to mistake you as part of
+this clique, then you should be careful about what you write.
+
+>Please let us know whether you are joking and want a bit of polemic just
+>for fun.
+
+Maybe you could answer it for me.
+
+
+
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

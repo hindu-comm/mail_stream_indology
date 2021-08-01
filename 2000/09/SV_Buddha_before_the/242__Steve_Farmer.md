@@ -1,0 +1,25 @@
++++
+title = "242 Steve Farmer"
+date = "2000-09-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022791.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022791.html)
+
+Thanks for the new posts and bibliography from Lance Cousins, Jan
+E.M. Houben, Georg von Simson, and Lars Martin Fosse. All are
+greatly appreciated. The bibliography of concordant voices is
+especially appreciated: it is reassuring to know that I'm not a
+chorus of one. M. Witzel has pointed out some striking
+etymological evidence about various names associated with the
+supposedly "historical" Buddha and family members that I'd like
+to discuss sometime, but I'm blowing a deadline and can't.
+
+Further discussion is not needed, in any case, since Lars has
+already raised the clincher argument by bringing Wild Bill
+Hickock and Calamity Jane into the picture. QED!  :^)
+
+Steve Farmer
+
+
+

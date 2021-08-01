@@ -1,0 +1,26 @@
++++
+title = "99 Allen W Thrasher"
+date = "2009-01-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-January/032434.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-January/032434.html)
+
+I believe that old Hindu women have a reputation for getting extreme about ritual purity, which sometimes leads to doing housework stark naked, which sometimes can be glimpsed through the door or gate.  I've noticed what seemed to be cases of this myself, but I can't remember which cities or years.
+
+To judge from occasional comments in advice columns through the years, some American women, presumably neither very old nor mad, find it more comfortable to do the housework naked.
+
+Allen
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Team Coordinator
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

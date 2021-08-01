@@ -1,0 +1,38 @@
++++
+title = "66 Finnian Moore-Gerety"
+date = "2021-07-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-July/055053.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-July/055053.html)
+
+Dear Indologists—
+
+I’d like to draw your attention to two new episodes of Sensing the Sacred <https://anchor.fm/finnian-m-moore-gerety>, my podcast on South Asian religion, politics, and society from the Center for Contemporary South Asia <https://watson.brown.edu/southasia/news/podcasts> and the Watson Institute at Brown University. To listen, just click on any of the links above: you can play the episode of your choice directly, or navigate through the icons to your preferred podcast platform. 
+
+Episode 5: Yoga and Meditation Studies with Karen O’Brien Kop (University of Roehampton) and Suzanne Newcombe (Open University)
+Episode 6: Sanskrit, Indo-Muslim History, and Twitter with Audrey Truschke (Rutgers University, Newark)
+
+An overview of Sensing the Sacred plus highlights of the interview with Prof. Truschke are also featured this week on Trending Globally <https://podcasts.apple.com/us/podcast/hindu-nationalism-contested-histories-challenging-fascism/id1173544870?i=1000530302801>, a podcast on global politics from the Watson Institute. 
+
+A big thank-you to the guests for sharing their research and to listeners for their ongoing interest in these interdisciplinary conversations.
+
+Yours,
+Finnian
+
+Finnian M.M. Gerety
+Visiting Assistant Professor of Religious Studies
+[Affiliated] Faculty of Contemplative Studies and Center for Contemporary South Asia
+Brown University
+www.finniangerety.com <http://finniangerety.com/>
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210729/3353d8ce/attachment.htm>

@@ -1,0 +1,33 @@
++++
+title = "13 Daniela Rossella"
+date = "2002-06-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-June/026970.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-June/026970.html)
+
+Dearest all, I'm glad to announce, on the name of Professor Rasik Joshi,
+that a new Kavya of him has been published by Delhi Chaukhamba Sanskrit
+Pratisthan:  Sri-Ramapratapa-vacanaamrtam. It is in three volumes (1700
+pages).Vol.I is Vedanta-vimarsah (Studies in Vedanta), Vol.II is
+Bhagavata-vimarsah Studies in the Bhagavata Purana) and Vol.III is a  Stotra
+Kavya "Kalpa-lataa" with Hindi and English translation. On this Kavya
+Professor Joshi has written too a his one new Sanskrit commentary, also
+translated in Hindi and English.
+
+I think that all subscribers surely will be interested in this wonderful
+work.
+
+Daniela Rossella
+
+*****************************************************
+Ph.D. Dr. Daniela Rossella
+Piazza Buzzati, 5
+43100 PARMA (Italy)
+tel. & fax +39.0521.773854
+cell. +39.338 3198904
+ghezziem at tin.it
+*****************************************************
+
+
+

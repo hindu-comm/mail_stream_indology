@@ -1,0 +1,32 @@
++++
+title = "03 Birgit Kellner"
+date = "2002-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-November/027199.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-November/027199.html)
+
+--On Freitag, 1. November 2002 13:33 -0500 Harunaga Isaacson 
+<harunaga at SAS.UPENN.EDU> wrote:
+
+> aakaa"sa.m (NKP verra's aakaa"sau was I suppose a typo) dvau nirodhau ca
+> nitya.m trayam asa.msk.rtam is exactly  J~naanasaarasamuccaya 21ab
+> (though I  wouldn't exclude that there might be earlier occurrences).
+> (See K. Mimaki's  contribution to Jonathan A. Silk (ed.): Wisdom,
+> Compassion, and the Search for  Understanding: The Buddhist Studies
+> Legacy of Gadjin M. Nagao. Honolulu 2000.)  I have seen some other
+> citations of the line (and of the whole verse) in  Buddhist tantric texts.
+
+Add to which, the Tibetan text of the JJAnasArasamuccaya, together with 
+Sanskrit fragments (like this one) and a French translation can be found in 
+an earlier publication by Mimaki: "La réfutation bouddhique de la 
+permanence des choses (sthirasiddhidUSana) et la preuve de la momentanéité 
+des choses (kSaNabhaGgasiddhi)", Collège de France, PICI fasc. 41, Paris, 
+1976.
+
+Best regards,
+
+Birgit Kellner
+
+
+

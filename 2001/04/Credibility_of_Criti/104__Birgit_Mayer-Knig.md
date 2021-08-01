@@ -1,0 +1,33 @@
++++
+title = "104 Birgit Mayer-König"
+date = "2001-04-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026063.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026063.html)
+
+> > [...] Staal has
+> > recently made some extremely interesting observations about the details
+of
+> > Baudhayana's statement of the theorem, which is more general than
+> > Pythagoras's, and applies not only to squares on sides, but also, for
+> > example, to hemispheres. [...]
+>
+> I was not aware of these observations by Staal, but it sounds very
+> interesting.  Is it possible that you could provide a reference to
+> where Staal has written about this topic?
+
+Dear Toke Lindegaard Knudsen,
+
+Staal explains the geometrical insights of BaudhAyana's ShulbasUtra through
+the language of modern algebra in "Greek and Vedic Geometry", Journal of
+Indian Philosophy, vol. 27, Nos. 1/2, 1999, 105-127. You may also like to
+have a look at Axel Michaels, Beweisverfahren in der vedischen
+Sakralgeometrie, 1978, Wiesbaden: Franz Steiner, (in German) where the
+teachings on geometry of various ShulvasUtras are explained in detail.
+
+Sincerely,
+Birgit Mayer-König
+
+
+

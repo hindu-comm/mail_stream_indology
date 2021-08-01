@@ -1,0 +1,35 @@
++++
+title = "164 Christian K. Wedemeyer"
+date = "2000-12-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024275.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024275.html)
+
+Dear Colleagues,
+
+Can anyone help me with the following words?   I am struggling to interpret a
+list of what ought to be various types of instrumental music (vaadya). The
+begins with two items which do not fit in an obvious manner.  The phrase
+runs: vanaspati-nady-ucchaTaa-taala-murajaadi-vaadya-zabda.h.  I take this to
+mean (roughly) "sounds of instrumental music such as vanaspati, nadi(i),
+snapping of fingers, clapping of hands, [and] drums."
+
+The problem is how to render vanaspati and nadi(i).  The first could be read
+as "wooden instruments" (though any other suggestions would be welcome).  I
+am, however, completely at a loss as to how I might interpret the latter as a
+type of instrumental music.  The Tibetan translation is of little help, as it
+does not interpret these terms, reading "groves" (nags tshal) and "streams"
+(chu bo).  Musical as the sounds of groves and streams may be, given that the
+text specifies vaadya, I figure I need to find *instruments* that would
+correspond to these terms.
+
+Thank you in advance for any assistance.
+
+Best,
+
+Christian Wedemeyer
+University of Copenhagen
+
+
+

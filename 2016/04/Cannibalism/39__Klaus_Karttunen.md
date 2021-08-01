@@ -1,0 +1,29 @@
++++
+title = "39 Klaus Karttunen"
+date = "2016-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043132.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043132.html)
+
+Stith Thompson & Jonas Balys, The Oral Tales of India, Boomington 1958, chapter G lists a great number of folkloristic examples.
+
+Klaus Karttunen
+South Asian and Indoeuropean Studies
+Asian and African Studies, Department of World Cultures
+PL 59 (Unioninkatu 38 B)
+00014 University of Helsinki, FINLAND
+Tel +358-(0)2941 4482418
+Fax +358-(0)2941 22094
+Klaus.Karttunen at helsinki.fi
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160425/46d75f70/attachment.htm>

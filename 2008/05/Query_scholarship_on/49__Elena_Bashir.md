@@ -1,0 +1,47 @@
++++
+title = "49 Elena Bashir"
+date = "2008-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-May/031708.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-May/031708.html)
+
+Dear Indology Listserv,
+
+I am sending this message on behalf of a graduate student currently
+not active on Indology, please respond to him directly if you have
+any suggestions:
+
+Dear Indologists,
+
+Do any of you know of any scholarship on Leather-working in India? Or
+perhaps Dalit artifact production more generally?
+
+I am a PhD Student in Ethnomusicology at NYU currently proposing my
+dissertation on tabla makers in Varanasi.  I am looking for
+background material and any suggestions will be greatly appreciated.
+
+Thanks,
+
+Allen Roda
+
+PS: Please respond to me at allen.roda at nyu.edu.  Thank you so much for 
+your help! I greatly appreciate it.
+
+Allen Roda
+PhD Student
+Ethnomusicology
+New York University
+allen.roda at nyu.edu
+
+-----------------------------------------------------------------------
+E. Bashir, Ph.D., Lecturer in Urdu
+Department of South Asian Languages and Civilizations
+The University of Chicago, Foster 212
+1130 E. 59th St.
+Chicago, IL 60637
+Phone:  773-702-8632
+Fax:    773-834-3254
+
+
+

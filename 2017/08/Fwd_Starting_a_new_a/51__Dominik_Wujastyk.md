@@ -1,0 +1,88 @@
++++
+title = "51 Dominik Wujastyk"
+date = "2017-08-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046462.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046462.html)
+
+Arlo asked me to share our correspondence with the list so that he can
+continue in public.
+Best,
+Dominik
+
+
+------------------------------
+*From:* Dominik Wujastyk <wujastyk at gmail.com>
+*Sent:* Wednesday, August 23, 2017 8:46 PM
+*To:* Arlo Griffiths
+*Subject:* Re: [INDOLOGY] Starting a new academic journal
+
+But Arlo, every journal you mention is pay-to-read.  One of the premises of
+the OA model is that taxpayer-funded research should not be paid for
+twice.  As the OLH site says (italics mine),
+
+Since 1986, subscription costs for academic journals have risen by 300%
+above inflation. In addition to exponentially increased research output
+over this period this has triggered what is known as “the serials crisis”;
+the inability of library budgets to keep pace with the prices set by
+publishers.
+
+Simultaneously, it has been realised that* putting research behind paywalls
+*is both unjust (especially if the research was funded by the taxpayer) and
+also unhelpful; scholarly and scientific practices are not advanced by
+restricting access. This led to the rise of the open access movement. Open
+access is traditionally schematized into two routes: green and gold. The
+former means that access is made open through the author depositing a copy
+of their article in their institution’s repository. The second means that
+the journal itself is open and free to read.
+
+
+Several "even-older-model" journals like the BSOAS, the JRAS, and *Medical
+History* could once have been included in your list, with ABORI and the
+others.  But most regrettably, they sold their journals to Cambridge
+University Press.  (The example of Medical History is complicated, because
+it is both free and paywalled simultaneously.)
+
+Best,
+Dominik
+
+
+On 22 August 2017 at 22:35, Arlo Griffiths <arlogriffiths at hotmail.com>
+wrote:
+
+> Dear Dominik,
+>
+> There is of course an another 'old model' (perhaps older than the one
+> involving for-profit enterprises against which you protest): that of an
+> academic institution or learned society running its own scholarly journal
+> and publishing it wholly independently or with only marginal involvement of
+> any for-profit enterprise.
+>
+> Some of our best and most venerable journals belong to this category. To
+> name but five, from five different countries:
+>
+> Annals of the Bhandarkar Oriental Research Institute
+>
+> Bulletin de l'École française d'Extrême-Orient
+>
+> Journal of the American Oriental Society
+>
+> Wiener Zeitschrift für die Kunde Südasiens
+>
+> Zeitschrift der Deutschen Morgenländischen Gesellschaft
+>
+> I personally prefer to support and publish in these kinds of journals, and
+> have wondered why colleagues feel the need to create new journals if
+> excellent old ones already exist, outside of the for-profit publishing
+> framework.
+>
+> Best wishes,
+>
+> Arlo Griffiths
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170824/60cdaf23/attachment.htm>

@@ -1,0 +1,35 @@
++++
+title = "37 Jesse Knutson"
+date = "2019-06-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-June/050267.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-June/050267.html)
+
+Thanks to Joel Brereton for sending the article manovegena!
+
+On Sun, Jun 9, 2019, 8:54 AM Jesse Knutson <jknutson at hawaii.edu> wrote:
+
+> Dear Friends, I hope you're all having a nice summer. Would someone have a
+> soft copy of the following?:
+>
+> Schmidt, H.P. "Notes on Ṛgveda 7.18.5-10." *Indica, Organ of the Heras
+> Institute of Indian History and Culture (Bombay)* 17, 1980, 41-47
+>
+> भवदीयः, J
+>
+>
+>
+>
+> ------------------------------------------------------------------
+> Jesse Ross Knutson PhD
+> Associate Professor of Sanskrit Language and Literature
+> Department of Indo-Pacific Languages and Literatures
+> University of Hawai'i at Mānoa
+> 461 Spalding
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190609/70f6ffa3/attachment.htm>

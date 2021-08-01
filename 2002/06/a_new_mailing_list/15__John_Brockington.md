@@ -1,0 +1,41 @@
++++
+title = "15 John Brockington"
+date = "2002-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-June/026972.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-June/026972.html)
+
+on 14/6/02 9:27 am, Daniela Rossella wrote:
+
+> Dearest All, some days ago, I have written to Leiden university this e-mail:
+> .........
+>
+> So, maybe someone know this list? (or how I can discover it?)
+> Many thanks in advance to all,
+>
+> Daniela
+>
+
+I assume that this refers to the list of international conferences published
+regularly in the IIAS Newsletter.  If so, the e-mail address is:
+IIASNEWS at LET.LEIDENUNIV.NL
+(or via the web <http://www/iias.nl/gateway/news/agasia>).
+
+Yours
+
+John Brockington
+
+
+Professor J. L. Brockington
+Secretary General, International Association of Sanskrit Studies
+
+Sanskrit, School of Asian Studies
+7 Buccleuch Place
+Edinburgh   EH8 9LW        U.K.
+
+tel:  +131 650 4174
+fax: +131 651 1258
+
+
+

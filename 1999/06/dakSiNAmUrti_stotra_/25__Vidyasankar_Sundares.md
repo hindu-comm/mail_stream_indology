@@ -1,0 +1,44 @@
++++
+title = "25 Vidyasankar Sundaresan"
+date = "1999-06-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-June/017404.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-June/017404.html)
+
+Sudalaimuthu Palaniappan <Palaniappa at AOL.COM> wrote:
+
+>As far as the pre-zankaran texts I have checked, there is no explicit
+>description of the age of the teacher vs. the age of the students.
+One should not discount the historical influence of Sankara himself as a
+young guru teaching old disciples. The Sanskrit texts that mention the
+relative ages of teacher and disciples are almost all post-Sankaran I think.
+That Sankara was equivalent to (if not an incarnation of) Siva is a notion
+found even in the works of his immediate disciples, padmapAda and sureSvara.
+In later times, there is an explicit notion that dakshiNAmUrti abandoned his
+silence and came down to earth as Sankara, in order to teach human beings.
+
+But I
+>think, it probably was to be expected. One does not find Hindu gods
+>depicted
+>as old men except in some specific episodes of stories as in
+
+Except for brahmA, the pitAmaha, who is always an old man.
+
+......
+>As for his nature of teacher or creator, CT texts call him "kaTavuL" and
+>even
+>"ton2mutu kaTavuL". Moreover, we have the following tEvAram of campantar:
+
+I may have overstated the case of dakshiNAmUrti as the guru and not the
+creator. Siva-dakshiNAmUrti is indeed regarded as the creator, but  the
+emphasis is more on the aspect as teacher.
+
+Vidyasankar
+
+
+_______________________________________________________________
+Get Free Email and Do More On The Web. Visit http://www.msn.com
+
+
+

@@ -1,0 +1,57 @@
++++
+title = "81 Gruenendahl, Reinhold"
+date = "2009-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032762.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032762.html)
+
+George Hart wrote:
+
+I can testify that there is an enormous scholarly literature in Tamil that is
+important for Indological studies -- and that it is in no way inferior in
+quality or learning to what is in German or English. The same is true of
+Malayalam, Kannada and Telugu -- and I suspect of the major North Indian
+languages.
+
+I would be interested to hear where any of the topics covered in Oskar von
+Hinüber's "Kleine Schriften" are treated in these languages.
+
+
+
+If a student came to me and asked whether she should learn French, German,
+Tamil or Telugu, (...)
+
+I take it from George Hart's words that not too many students come to him to
+ask his advice in these matters.
+
+
+RG
+
+
+________________________________________________ 
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Goettingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+
+gruenen at sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+GRETIL e-library:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gr_elib.htm
+
+
+
+

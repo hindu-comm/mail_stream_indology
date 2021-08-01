@@ -1,0 +1,34 @@
++++
+title = "149 Brendan Gillon"
+date = "2009-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032853.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032853.html)
+
+Dear colleagues,
+
+Thanks to those of you who responded with information about the relative 
+states of the cultural heritages of Europe and India. I shall be 
+monitoring all other information which comes in with respect to this 
+matter. It seems to me that, properly marshalled, this information can 
+serve as a very powerful argument to increase funds to at least those 
+parts of Indological studies which can help to mitigate the risk of loss.
+
+Best wishes,
+
+Brendan Gillon
+
+-- 
+
+Brendan S. Gillon                       email: brendan.gillon at mcgill.ca
+Department of Linguistics
+McGill University                       tel.:  001 514 398 4868 
+1085, Avenue Docteur-Penfield
+Montreal, Quebec                        fax.:  001 514 398 7088 
+H3A 1A7  CANADA
+
+webpage: http://www.mcgill.ca/linguistics/people/gillon/
+
+
+

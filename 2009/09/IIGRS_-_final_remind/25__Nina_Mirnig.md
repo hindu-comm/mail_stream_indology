@@ -1,0 +1,27 @@
++++
+title = "25 Nina Mirnig"
+date = "2009-09-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-September/033636.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-September/033636.html)
+
+Dear list members,
+
+This is a final reminder that the first International Indology Graduate Research Symposium (IIGRS) will be 
+held at St.Hildas College, Oxford University, from the 28th  29th September. Please find the programme 
+at http://iigrs.byethost17.com/programme/ , and contact me directly at nina.mirnig(at)univ.ox.ac.uk 
+should you be interested in attending.
+
+The IIGRS is possible thanks to the generous financial support of the Arts and Humanities Research 
+Council (AHRC), UK, and the Faculty of Oriental Studies, University of Oxford.
+
+With best wishes,
+
+Nina Mirnig, on behalf of the Organizing Committee
+
+Candidate for the D.phil in Oriental Studies
+University of Oxford
+
+
+

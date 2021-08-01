@@ -1,0 +1,32 @@
++++
+title = "48 David Magier"
+date = "2005-04-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-April/029148.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-April/029148.html)
+
+Dear Colleagues,
+I am having difficulty tracking down any background information to help
+answer a reference query, and I wonder if anyone has any thoughts on where
+I might look to find more on this topic. Any advice or assistance greatly
+appreciated.
+
+The task is to try to find out any information about the life of one
+William Ward Marrett (1840-1904), the English architect who built/decorated
+the Falaknuma, the palace built in Hyderabad between 1882 and 1892 for
+Nawab Vikar ul-Ulmara. Marrett lived in Italy, and is said to have been
+buried in Hyderabad.
+
+That is all I know, and I don't even know what it is I don't know!
+Suggestions?
+
+Thanks for any help.
+
+David Magier
+South/Southeast Asian Studies Librarian
+Columbia University Libraries
+magier at columbia.edu
+
+
+

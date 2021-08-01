@@ -1,0 +1,47 @@
++++
+title = "207 Arlo Griffiths"
+date = "2016-03-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-March/042762.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-March/042762.html)
+
+Dear Alessandro,
+
+I believe I was shown the same by Terry Tan in Yangon in 2014. It is without any doubt a forgery. (And there are many forged 'Pyu' artefacts around.) I have the impression that some copy of ye dhammā verse has served as vague model for the face with 6 lines.
+
+Best,
+
+Arlo Griffiths
+École française d'Extrême-Orient
+
+
+
+Date: Wed, 2 Mar 2016 00:33:34 +0100
+From: alessandro.battistini at uniroma1.it
+To: indology at list.indology.info
+Subject: [INDOLOGY] unidentified south east asian/indic scripts
+
+Dear Members,
+I am posting this query to help a private collector. This golden medallion comes from Pyu (ancient Burma). Is anyone able to provide some insights on the two scripts involved? Unfortunately, I am not able to give more infos, but the Buddhist theme of the engraving is rather certain. Herewith the link to the images. Thank you!
+https://www.dropbox.com/sh/yz5b6zidj0rtews/AAByrCntE8H9If_2nelYS6KOa?dl=0
+
+
+
+
+
+
+
+Alessandro BattistiniPhD CandidateSapienza Università di Roma
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe) 		 	   		  
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160302/939381ef/attachment.htm>

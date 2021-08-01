@@ -1,0 +1,38 @@
++++
+title = "14 Dipak Bhattacharya"
+date = "2012-04-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-April/036493.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-April/036493.html)
+
+I already had this one sometime ago. One has to download each letter-volume. But this is quite reader-friendly.Perhaps, the frequent updating of adobe often renders the many other online editions difficult to use or time consuming. I gave up the some others after some attempts.
+Many help seekers must have been silent ones like me and also thankful for the information received.. Once I contemplated buying Malalasekhara's work. Now I find that unnecessary.
+Best
+DB
+
+
+
+________________________________
+ From: Dan Lusthaus <vasubandhu at EARTHLINK.NET>
+To: INDOLOGY at liverpool.ac.uk 
+Sent: Sunday, 1 April 2012 12:07 AM
+Subject: Re: [INDOLOGY] Dict. of Pali Proper Names
+
+There are also at least two online versions of the Dictionary of Pali Proper Names, very easy to use.
+
+http://www.palikanon.com/english/pali_names/dic_idx.html
+
+and
+
+http://www.aimwell.org/DPPN/index.html
+
+>From time to time it is worth consulting the printed edition (or a PDF of
+it), but all the information is available for lookup at the above urls.
+
+Dan Lusthaus
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120401/b3d614cf/attachment.htm>

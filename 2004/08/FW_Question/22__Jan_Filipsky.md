@@ -1,0 +1,87 @@
++++
+title = "22 Jan Filipsky"
+date = "2004-08-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-August/028511.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-August/028511.html)
+
+
+
+-----Original Message-----
+From: Jan Filipsky [mailto:filipsky at orient.cas.cz] 
+Sent: Monday, August 16, 2004 2:59 PM
+To: 'Indology'
+Subject: RE: Question
+
+This is what is given s. v. Ujfalvy in the online Meyers
+Konversations-Lexikon:
+Ujfalvy, Karl Eugen U. von Mezo Kovest, Sprachforscher und Reisender, geb.
+16. Mai 1842 zu Wien als Sprößling einer alten ungarischen Adelsfamilie,
+besuchte die Militärakademie in Wiener-Neustadt, trat 1861 als Leutnant in
+ein österreichisches Kavallerieregiment, verließ aber 1864 die Armee und
+bezog die Universität in Bonn. 1866 siedelte er nach Paris über, wo er 1873
+Professor an der orientalischen Akademie wurde. Im Auftrag der Regierung
+machte U. 1876-82 drei Forschungsreisen durch Zentralasien, deren Ergebnisse
+er in dem Werk "Expédition scientifique française en Russie, en Siberie et
+dans le Turkestan" (Par. 1878-80, 6 Bde.) veröffentlichte. Von seinen
+übrigen, vornehmlich ethnologischen und linguistischen Arbeiten sind zu
+nennen: "La langue magyare, son origine, etc." (1871); "La Hongrie, son
+histoire, etc." (1872); "Les migrations des peuples et particulierement
+celle des Touraniens" (1873); "L'ethnographie de l'Asie" (1874); "Mélanges
+altaïques" (1874); "Étude comparée des langues ougro-finnoises" (1875);
+"Grammaire finnoise" (mit R. Hertzberg, 1876); "Éléments de grammaire
+magyare" (1875); "L'art des cuivres en Cachemire" (1883); er redigierte die
+"Revue de philologie et ethnographie" (Par. 1874-77, 3 Bde.). Auch
+übersetzte er Petöfis Gedichte (1871) und mit Desbordes-Valmore eine Auswahl
+magyarischer Dichtungen (1872), das finnische Epos "Kalewala" (1876) ins
+Französische. Deutsch schrieb er: "Alfred de Musset" (Leipz. 1870) und "Aus
+dem westlichen Himalaja" (das. 1884). - Seine Gattin Marie, geborne Bourdon,
+geb. 1845 zu Chartres, seine stete Begleiterin auf allen seinen Reisen,
+schrieb: "De Paris à Samarkand, le Ferghanah, etc." (1880); "Voyage d'une
+Parisienne dans l'Himaleya occidental" (1887) u. a.
+
+If I am not too mistaken, there is a chapter on Charles Eugene de Ujfalvy de
+Mezo-Kövesd or rather Karoly Jenö Ujfalvy (1842-1904) in "India in Hungarian
+Learning and Literature". 110p. With ills. 1980 by Geza Bethlenfalvy,
+published by MRML 1980 and still sold for  Rs.150.
+I hope this helps.
+Jan Filipsky   
+
+-----Original Message-----
+From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Patrick
+Olivelle
+Sent: Monday, August 16, 2004 2:08 PM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Question
+
+Someone has sent this query to me. Let me know if any of you has the answer.
+It may be that the name is misspelt. Thanks.
+
+Patrick
+
+>I'm looking for some personal information about a nineteenth century 
+>French Indologist called Ch de Ujfalvy. He wrote a couple of books and 
+>articles about the Aryans in the North Western part of India and the
+Indo-Iranians.
+
+--
+Incoming mail is certified Virus Free.
+Checked by AVG Anti-Virus (http://www.grisoft.com).
+Version: 7.0.262 / Virus Database: 264.6.0 - Release Date: 11.8.2004
+
+
+--
+Outgoing mail is certified Virus Free.
+Checked by AVG Anti-Virus (http://www.grisoft.com).
+Version: 7.0.262 / Virus Database: 264.6.0 - Release Date: 11.8.2004
+
+
+-- 
+Outgoing mail is certified Virus Free.
+Checked by AVG Anti-Virus (http://www.grisoft.com).
+Version: 7.0.262 / Virus Database: 264.6.0 - Release Date: 11.8.2004
+
+
+
+

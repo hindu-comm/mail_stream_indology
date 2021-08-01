@@ -1,0 +1,33 @@
++++
+title = "171 John Nemec"
+date = "2016-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-March/042803.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-March/042803.html)
+
+Dear Indology Listmembers,
+
+I have been looking in the usual places for access to a .pdf copy of the following article and would greatly appreciate it if any of you could offer one:  
+
+Richard Salomon, "Notes on the Translations of KalhaNa’s RAjataraGgiNI (I–IV). _Berliner Indologische Studien_ 3 (1987): 149–179.
+
+Thank you. 
+
+Sincerely,
+John
+__________________________________
+John Nemec, Ph.D.
+Editor, Religion in Translation Series (AAR and OUP)
+Associate Professor, Indian Religions and South Asian Studies
+Department of Religious Studies
+University of Virginia
+323 Gibson Hall / 1540 Jefferson Park Avenue
+Charlottesville, VA 22904 (USA)
+nemec at virginia.edu
++1-434-924-6716
+http://virginia.academia.edu/JNemec
+
+
+
+

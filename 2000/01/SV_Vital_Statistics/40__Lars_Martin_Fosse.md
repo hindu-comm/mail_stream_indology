@@ -1,0 +1,39 @@
++++
+title = "40 Lars Martin Fosse"
+date = "2000-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019700.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019700.html)
+
+Bharat Gupt [SMTP:abhinav at DEL3.VSNL.NET.IN] skrev 04. januar 1980 02:21:
+>
+> EU has now chosen English (standardised)for linking, then why has Hindi been
+> regarded a
+> demand that shall subsume other Indian languages and dialects ?
+
+I am not sure if this is an entirely correct formulation. All EU legal
+documents are routinely published in English and French. They are then
+translated into the various EU languages, such as German, Swedish etc., all of
+which versions have equal legal status. For this purpose, the EU has a huge
+translation department. The Council of Europe also entertains a translation
+department. The problem of course arises when speakers of as different
+languages as Spanish and (eventually) Polish are to communicate within EU fora.
+Here, a reduced number of languages would have practical value.  But if English
+has been chosen for linking, I would like to know how the French (and Germans)
+reacted to that. I would be grateful for some source material here!
+
+Best regards,
+
+Lars Martin Fosse
+
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone/Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+
+
+

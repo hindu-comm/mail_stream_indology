@@ -1,0 +1,40 @@
++++
+title = "76 Matthew Kapstein"
+date = "2015-09-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-September/041999.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-September/041999.html)
+
+Dear Joseph,
+
+There may be some material of use to you in:
+
+Shoryu Katsura and Ernst Steinkellner (eds)
+The Role of the Example (drstanta) in Classical Indian Logic  
+ New Delhi, India Motilal Banarsidass Publishers Pvt. Ltd.
+
+I recall faults of the example being commonly invoked in the Tattvasamgraha and its Panjika
+in critiquing various positions. For instance, at verse 1974, Subhagupta is credited with
+defending atomism as follows: “Because forms that are collections of subtle things are external visibles owing to grossness, like mountains and such like."
+
+In his discussion of Santaraksita's critique, Kamalasila says, "... if “because of grossness” is taken as a warranting reason based on grossness as an ultimate reality, a substantial property, then such grossness is not proven ...
+and the example [of mountains] is in no way probative."
+
+So K is saying, in effect, we don't accept your example, in which case it clearly does not hold for "both parties."
+
+Sorry not to have included the diacritical marks,
+but hope this is of some help anyway,
+
+Matthew
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+
+
+

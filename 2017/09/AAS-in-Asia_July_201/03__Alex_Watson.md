@@ -1,0 +1,36 @@
++++
+title = "03 Alex Watson"
+date = "2017-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046628.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-September/046628.html)
+
+Dear All
+
+The next Association for Asian Studies conference in Asia (AAS-in-Asia)
+will be hosted by Ashoka University in Delhi:
+http://www.aas-in-asia2018.com/
+The conference dates are: July 5th–8th, 2018.
+Please see the call for proposals here:
+http://www.asian-studies.org/Conferences/AAS-in-Asia-Conferences/India-2018-Home-Page/Call-for-Proposals
+Note that only panel and roundtable proposals will be accepted, not
+individual paper proposals.
+I hope to welcome many of you to Ashoka next year.
+
+Facebook Page - https://www.facebook.com/aasinasia/
+Facebook Event - https://www.facebook.com/events/121272145199568/
+Twitter Page - https://twitter.com/aasinasia
+
+Yours Alex
+-- 
+Alex Watson
+Professor of Indian Philosophy
+Ashoka University
+*https://ashokauniversity.academia.edu/AlexWatson
+<https://ashokauniversity.academia.edu/AlexWatson>*
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170918/b1a3670a/attachment.htm>

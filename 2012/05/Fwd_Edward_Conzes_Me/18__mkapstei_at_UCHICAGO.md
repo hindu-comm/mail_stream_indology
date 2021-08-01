@@ -1,0 +1,26 @@
++++
+title = "18 mkapstei at UCHICAGO.EDU"
+date = "2012-05-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-May/036590.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-May/036590.html)
+
+If I recall corrrectly, Conze specified that vol. 3 was
+not be made public until 50 years after his decease. But
+I do not know if this was formally written into his will.
+It seems to be well known that, among other things, it
+contains his anti-Semitic rants, particularly directed
+against Arthur Waley, against whom, despite their
+several collaborations (as in _Buddhist Texts Through
+the Ages_) Conze could never pardon the fact of having
+been born a Polish Jew (apparently a double deficiency!).
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

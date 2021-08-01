@@ -1,0 +1,41 @@
++++
+title = "116 Pankaj_Jain"
+date = "2010-03-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-March/034135.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-March/034135.html)
+
+Hello and Namaste,
+
+Please share the following info with anyone interested:
+
+I am offering three online courses this summer (May-June 2010) from NC
+State's distance education program, each worth three university credits that
+can be transferred to any other university:
+
+Elementary Sanskrit 101:
+http://delta.ncsu.edu/apps/coursedetail/index.php?id=FL:295::601:SUM1:2010
+
+Elementary Sanskrit 102:
+http://delta.ncsu.edu/apps/coursedetail/index.php?id=FL:295::601:SUM2:2010
+
+"Bollywood":Films and Religions of South Asia:
+http://delta.ncsu.edu/apps/coursedetail/index.php?id=FL:295::602:SUM2:2010
+
+Thanks and regards,
+Pankaj
+
+
+
+--------------------------------------------------------
+Dr. Pankaj Jain पंकज जैन
+Teaching Assistant Professor
+Department of Foreign Languages and Literatures
+Department of Philosophy and Religious Studies
+Science, Technology & Society Program
+North Carolina State University
+http://fll.chass.ncsu.edu/faculty_staff/pjain5
+
+
+

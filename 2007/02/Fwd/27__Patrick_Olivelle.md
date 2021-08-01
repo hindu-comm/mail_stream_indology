@@ -1,0 +1,37 @@
++++
+title = "27 Patrick Olivelle"
+date = "2007-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-February/030554.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-February/030554.html)
+
+Dear All: I am afraid my first posting of this may have been 
+corrupted. Hence this second posting. Thanks.
+
+Patrick
+
+
+
+
+  Hindi, Urdu, and Telugu Language positions
+
+The Department of Asian Studies at The University of Texas at Austin 
+invites applications for three Lecturer positions beginning fall 
+semester 2007, one each in Hindi, Urdu, and Telugu language.  This is 
+a one-year appointment with a possibility of continuing based on 
+performance evaluations and budgetary constraints.  Candidates should 
+have an advanced degree in some field that relates to language or 
+linguistics and a record of excellence in teaching.  The selected 
+candidates will be expected to teach their language at all levels. 
+For the Hindi and Urdu positions, preference will be given for 
+candidates who are proficient in both writing systems.  Please send a 
+letter of interest, current CV, three letters of reference, recent 
+papers/publications, and relevant syllabi to South Asia Language 
+Search Committee, Department of Asian Studies, 1 University Station, 
+G9300, The University of Texas at Austin, Austin, Texas 78712.  The 
+search will continue until an appointment is made.
+An AA/EEO employer. 
+
+
+

@@ -1,0 +1,45 @@
++++
+title = "26 Eli Franco"
+date = "2020-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-February/051755.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-February/051755.html)
+
+
+With apologies for cross-posting,
+
+Dear friends and colleagues,
+
+It is my pleasure to announce the following publication:
+
+Essays and Studies in the Art of Kucha by Ines Konczak-Nagel and  
+Monika Zin. Dev Publishers & Distributors, New Delhi.
+
+This is the first of seventeen volumes scheduled for the series  
+“Leipzig Kucha Studies”; it unites some results of the long-term  
+research project (2016–2030) “Buddhist Murals of Kucha on the Northern  
+Silk Road”, which focuses on an impressive corpus of wall paintings  
+datable to approximately the fifth to tenth centuries CE and located  
+in the Buddhist cave complexes of the ancient kingdom of Kucha (Kuča).  
+For more details see:
+
+https://devbooks.co.in/details-essays-and-studies-in-the-art-of-kucha-leipzig-kucha-studies-1-283.php
+
+With best wishes,
+Eli Franco
+
+-- 
+Prof. Dr. Eli Franco
+Institut für Indologie und Zentralasienwissenschaften
+Schillerstr. 6
+04109 Leipzig
+
+Ph. +49 341 9737 121, 9737 120 (dept. office)
+Fax +49 341 9737 148
+
+
+
+
+
+

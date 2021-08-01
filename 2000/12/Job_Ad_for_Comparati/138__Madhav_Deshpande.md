@@ -1,0 +1,34 @@
++++
+title = "138 Madhav Deshpande"
+date = "2000-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024238.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024238.html)
+
+Hello Folks,
+        Here I am reproducing the ad for a position at Michigan in
+Comparative and SA literature.  Though the deadline for application was
+Dec 1st, 2000, we are still open to late coming applications.  Here is the
+text of the ad:
+
+Assist Prof of Comp Lit & South Asian Lits & Cultures
+Approved opening for an Assistant Professor of Comparative
+Literature and South Asian Literatures and Cultures to begin September 1,
+2001. Specialization in postcolonial theory with a focus on the
+modern literatures and languages of South Asia. Required: Ph.D., ability
+to teach in both English and languages of specialization. Send
+letter of application, recommendations, writing sample, and c.v. to Tobin
+Siebers, Director, Program in Comparative Literature, University
+of Michigan, 2015 Tisch Hall, Ann Arbor, MI 48109-1003. Review of
+applications will begin December 1, 2000 and continue until the
+position is filled. All applications will be acknowledged. The University
+of Michigan is a non-discriminatory-affirmative action employer.
+
+Please send the applications to Professor Tobin Siebers, and not to me.
+Best,
+
+                                        Madhav Deshpande
+
+
+

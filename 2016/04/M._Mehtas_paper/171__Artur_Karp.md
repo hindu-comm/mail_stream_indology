@@ -1,0 +1,39 @@
++++
+title = "171 Artur Karp"
+date = "2016-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043011.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043011.html)
+
+Dear All,
+
+Dr. Sweta Prajapati of the Baroda Oriental Institute Journal has kindly
+sent me excelent scans of Mahesh Mehta's paper.
+
+My sincere gratitude to her for her help ---
+
+Artur Karp
+
+2016-04-09 11:58 GMT+02:00 Artur Karp <karp at uw.edu.pl>:
+
+> Dear Colleagues,
+>
+> Has someone a PDF copy of M. Mehta's 1971 paper on the developments of the
+> Suparna myth?
+>
+> Mehta, M. "*The Evolution of the Suparna Sage in the Mahabharata.*"
+> Journal of the Oriental Institute, of Baroda 21, nos.
+> 1-2 (1971): 41-65.
+>
+> Your kind help would be greatly appreciated,
+>
+> Artur Karp
+> Warsaw
+> Poland
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160411/bd683823/attachment.htm>

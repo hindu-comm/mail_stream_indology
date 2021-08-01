@@ -1,0 +1,47 @@
++++
+title = "12 Richard Mahoney"
+date = "2003-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-August/027828.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-August/027828.html)
+
+Dear Colleagues,
+
+On Wed, Jul 23, 2003 at 03:13:25AM +0100, Stephen Hodge wrote:
+
+[snip]
+
+> I also have need often of sorting Mongolian and Tibetan (for which
+> nobody has come up with a sort program recently though I suspect
+> that the unique nature of Tibetan dictionary word order might defeat
+> even this program).
+
+[snip]
+
+Using the perl module `Sort::ArbBiLex', I've written a perl script to
+sort Romanised Tib. in Wylie translit., with Skt. words in
+Harvard-Kyoto translit.: `sort-wylie-rom-tib-proto'. The script lives
+at:
+
+ http://homepages.comnet.co.nz/~r-mahoney/biblio/biblio.html
+
+
+As with the script for sorting utf-8 Romanised Skt., I would welcome
+remarks, bug reports &c.
+
+
+Best regards,
+
+ Richard Mahoney
+
+
+--
+Richard Mahoney  | e-mail: rbm49 at ext.canterbury.ac.nz
+Woodfield Estate |         r.mahoney at comnet.net.nz
+Duncan Road, RD3 | cellular: 0064-25-829-986
+HAMILTON, NZ     | http://homepages.comnet.net.nz/~r-mahoney
+http://homepages.comnet.net.nz/~r-mahoney/pgp_public_key.txt
+
+
+

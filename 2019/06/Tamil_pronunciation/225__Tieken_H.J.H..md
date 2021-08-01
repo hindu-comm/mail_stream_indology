@@ -1,0 +1,80 @@
++++
+title = "225 Tieken, H.J.H."
+date = "2019-06-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-June/050227.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-June/050227.html)
+
+Dear Artur, I have found the reference:
+
+Leigh Lisker, "The Tamil Occlusives: Short vs. Long or Voiced vs. Voiceless". Indian Linguistics 1958.
+
+Herman
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info] namens Artur Karp via INDOLOGY [indology at list.indology.info]
+Verzonden: maandag 3 juni 2019 11:21
+Aan: indology
+Onderwerp: Re: [INDOLOGY] Tamil pronunciation
+
+Dear Friends,
+
+allow me to ask several questions, re pronunciation of Tamil.
+
+The first of them:
+
+Tamil தீவுக்கூட்டம்  - is transliterated as Tīvukkūṭṭam. Is it formally pronounced as Tivukkuttam - or as Tivukuttam?
+
+Artur Karp
+
+pon., 3 cze 2019 o 09:01 Artur Karp <karp at uw.edu.pl<mailto:karp at uw.edu.pl>> napisał(a):
+My thanks to all who devoted their time to answer my (retired non-dravidist's) question.
+
+Thanks,
+
+Artur Karp
+
+pon., 3 cze 2019 o 09:00 Tieken, H.J.H. <H.J.H.Tieken at hum.leidenuniv.nl<mailto:H.J.H.Tieken at hum.leidenuniv.nl>> napisał(a):
+Dear Artur,
+
+The Tamil script does not have letters for the voiced plosives (and no aspirates). For that it uses the corresponding voiceless plosives. After a nasal and between vowels k is pronounced  g: aṅku "there" is pronounces aṅgu, āku "to become", āgu or āhu. Word-initial k is pronounced k, as in kātal "love". So is double kk, as in the infinitive kākka "to protect". This phenomenon used to be known by the expression "convertibility of surds and sonants".
+The "official" transcription is aṅku, āku, kātal, kākka. There is an unofficial transcription used in English language publications. For instance, kātali, " a lovely girl", is transcribed as kathali as well as kadhali.
+In our youngest son's class in primary school there was a girl from Surinam called vasutha, that is, via vasutā, from Skt vasudhā.
+
+Herman
+
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>] namens Artur Karp via INDOLOGY [indology at list.indology.info<mailto:indology at list.indology.info>]
+Verzonden: zondag 2 juni 2019 22:18
+Aan: indology
+Onderwerp: [INDOLOGY] Tamil pronunciation
+
+Dear Friends,
+
+Tamil இந்திய is transliterated as Intiya. Is it pronounced as Intiya - or Indiya?
+
+Thanks in advance,
+
+Artur Karp (ret.)
+
+Uniwersytet Warszawski
+Polska
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190603/0acd930f/attachment.htm>

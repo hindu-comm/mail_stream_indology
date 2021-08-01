@@ -1,0 +1,38 @@
++++
+title = "55 Sudalaimuthu Palaniappan"
+date = "2017-01-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-January/044935.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-January/044935.html)
+
+Dear Members,
+
+Many Indologists spend a lot of their scholarly efforts towards preserving ancient texts or restoring them. In this context, the following recent Bharatanatyam performance by Ms. Rama Vaidyanathan in Chennai may be of interest to the members.
+
+(The poem in question is Kalittokai 9. A translation of that is available at https://sangamtranslationsbyvaidehi.com/ettuthokai-kalithokai-palai-1-36/. You may have to scroll down a little.)
+
+The dancer takes an excerpt from the poem, explains it, and changes the text to suit her interpretation! (If the link does not begin at the right place, please move the cursor to 23:43.)  
+https://www.youtube.com/watch?v=ZrsvEyIoRFk#t=23m43s 
+
+While the actual text says "num makaḷ" (your daughter), the dancer has changed the text to "eṉ makaḷ” (my daughter) and has deleted the reference to/utterance of the brahmin ascetic. 
+
+What is ironic is that earlier she talks about her dance performance as a museum and once the museum door opens to the the visitors (the dance audience), special care should be taken to preserve the artifacts, i.e., the dancer should pay special attention to everything including makeup, music, lights, etc. If the following link does not begin at the right place, please move the cursor to 8:08)
+https://www.youtube.com/watch?v=ZrsvEyIoRFk#t=8m08s
+
+I am shocked at this blatant violation of the Classical Tamil poem’s textual fidelity. It would have been all right for her to commission a modern poet to write a song to suit her taste and set it to music. But to change the Classical Tamil poem’s content to suit her fancy and still call it a Caṅkam poem is an insult to the original poet, the later commentators, as well as all those who helped preserve the manuscripts, and scholars who searched for the manuscripts, critically edited, and printed the poem.
+
+Some years ago, when Ms. Alarmel Valli performed Puṟanāṉūṟu 242, a Classical Tamil poem, she had eliminated the words ollaiyūr nāṭṭē in the last line mullaiyum pūttiyō ollaiyūr nāṭṭe. 
+
+Are there texts in other languages undergoing such deliberate modifications in the hands of performers? What do the list members think of such changes?
+
+Thanks in advance
+
+Regards,
+Palaniappan 
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170102/3d3059b7/attachment.htm>

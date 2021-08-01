@@ -1,0 +1,51 @@
++++
+title = "14 McComas Taylor"
+date = "2015-11-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-November/042311.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-November/042311.html)
+
+Dear colleagues
+
+
+Begging your indulgence:
+
+
+Every year, I read Meghaduta with my third-year students at the Australian National University. Part of their assessment is a creative project in which they are required to make the poem 'their own' and express it in the medium of their choice. Please take a couple of minutes to watch this wonderful performance by Lily Warrum. She has choreographed and performed this herself. I'm sure you will agree it is quite an achievement.
+
+
+Yours,  McComas
+
+
+https://youtu.be/MEdTrQ4q0kE
+
+YouTube
+Share your videos with friends, family, and the world
+Read more...<https://youtu.be/MEdTrQ4q0kE>
+
+
+
+
+
+
+
+
+________________________________
+McComas Taylor, Associate Professor
+College of Asia and the Pacific
+The Australian National University, Tel. + 61 2 6125 3179
+Website: https://sites.google.com/site/mccomasanu/
+
+Address: Baldessin Building 4.24, ANU, ACT 0200
+
+
+Spoken Sanskrit in three minutes?<https://vimeo.com/143211561> Go on. Try it!<https://vimeo.com/143211561>
+<https://vimeo.com/143211561>
+
+________________________________
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151116/2d94e4a2/attachment.htm>

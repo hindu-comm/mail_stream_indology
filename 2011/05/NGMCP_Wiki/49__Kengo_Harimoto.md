@@ -1,0 +1,27 @@
++++
+title = "49 Kengo Harimoto"
+date = "2011-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-May/035503.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-May/035503.html)
+
+Dear Members of the list,
+
+The NGMCP (Nepalese-German Manuscript _Cataloguing_ Project) has been testing a wiki server for some months. Primary purpose of this wiki is to publish manuscript catalogue data created by the NGMCP.
+
+The address of the server is http://134.100.72.204/wiki/
+
+It incorporates the information from the online title list http://134.100.72.204:3000/
+
+We are hoping that the scholarly community finds some use of this catalogue wiki. We plan to keep adding new catalogue data, at the same time improving existing ones. This wiki will be the primary source of information the NGMCP gathers. Please keep coming back or subscribe to the RSS feed of Recent Changes.
+
+Anonymous editing and user creation are currently disabled. There is still a possibility to create users capable of editing. Please drop me (Harimoto) a line if interested.
+
+With best wishes,
+
+-- 
+Kengo Harimoto
+
+
+

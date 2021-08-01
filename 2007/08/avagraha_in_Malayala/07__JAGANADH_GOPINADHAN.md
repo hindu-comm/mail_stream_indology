@@ -1,0 +1,33 @@
++++
+title = "07 JAGANADH GOPINADHAN"
+date = "2007-08-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-August/031048.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-August/031048.html)
+
+Collegues
+Is there any evidence for use of avagraha (akAra praslesha) sign in 
+Malayalam Manuscripts. If so please try to give refereance or image of the 
+same with details
+With thanks and regards
+
+
+JAGANADH.G
+LINGUIST
+HDG-LTS
+C-DAC
+VELAYAMBALAM
+THIRUVANANTHAPURAM
+P-H+91 9895420624
+E-MAIL- jaganadh at cdactvm.in,navadipanyaya at hotmail.com/jaganadhg at gmail.com
+http://sabdabodha.googlepages.com
+www.malayalammorph.blogspot.com
+www.malayalamresourceceter.org
+
+_________________________________________________________________
+Live the life in style with MSN Lifestyle. Check out!  
+http://content.msn.co.in/Lifestyle/Default
+
+
+

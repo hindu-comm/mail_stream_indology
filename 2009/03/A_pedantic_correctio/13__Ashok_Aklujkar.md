@@ -1,0 +1,20 @@
++++
+title = "13 Ashok Aklujkar"
+date = "2009-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032748.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032748.html)
+
+I took two courses with Roman Jacobson. The remark I heard about him in both
+the classes was: "He speaks English in eighteen different languages."
+
+The range of knowledge behind the thick Russian accent and the French
+culture of speaking ("Permit me to say/add/mention that ..."), however, was
+amazing. He would easily move from linguistics to poetics and would mention
+even Ananda-vardhana with a good grasp of the dhvani theory.
+
+Ashok Aklujkar
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "329 Tobias Grote-Beverborg"
+date = "2001-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025132.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025132.html)
+
+Dear Listmembers,
+after being offline for some time I would like to obtain information
+about wether these texts are available on CD in the US:
+
+mahAbhArata 
+rAmAyaNa 
+zakuntalA
+
+Texts should be in Sanskrit and english translation plus a search
+function. If possible let me know vendors and prices.
+Any help is mostly appreciated.
+Regards
+-- 
+Tobias Grote-Beverborg
+**********************
+Dürener Str. 272
+D-50935 Köln
+fon: 0221.3465777
+mobil: 0177.6848202
+fax: 0177.99.6848202
+email: grotebev at uni-koeln.de
+
+
+

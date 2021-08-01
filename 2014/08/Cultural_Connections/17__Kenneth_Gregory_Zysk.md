@@ -1,0 +1,29 @@
++++
+title = "17 Kenneth Gregory Zysk"
+date = "2014-08-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-August/039839.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-August/039839.html)
+
+Dear members of the list,
+
+For those who are interested, I attach a copy of the programme for the upcoming conference on the “Cultural Connections Between ancient Mesopotamia and India” to be held in Copenhagen from 12-14 September. All are welcome.
+With best wishes,
+Ken
+
+
+Kenneth Zysk, PhD, DPhil
+Head of Indology
+Department of Cross-Cultural and Regional Studies
+University of Copenhagen
+Karen Blixens Vej 4, Bygn. 10,
+DK-2300 Copenhagen S    Denmark
+Ph:  +45 3532 8951                                                       Email: zysk at hum.ku.dk<mailto:zysk at hum.ku.dk>
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140819/91c020b1/attachment.htm>

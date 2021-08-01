@@ -1,0 +1,50 @@
++++
+title = "42 Walter Slaje"
+date = "2012-07-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-July/036818.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-July/036818.html)
+
+Dear List,
+
+another volume (containing the Sthitiprakaraṇa) of the critical edition of
+the Mokṣopāya has been released, bibliographic and order details are shown
+below.
+
+Kindly regarding,
+WS
+
+Moksopaya
+Das Vierte Buch: Sthitiprakaraṇa
+Kritische Edition von Susanne Krause-Stinner und Peter Stephan.
+pp. XXXIV, 1 Abbildung(en) 69,00 EUR
+ISBN: 978-3-447-06694-5 <http://www.harrassowitz-verlag.de/title_4160.ahtml>
+
+http://www.harrassowitz-verlag.de/
+
+Anonymus Casmiriensis
+Moksopaya
+Textedition [Teil 3]
+Veröffentlichungen der Indologischen Kommission der Akademie der
+Wissenschaften
+Historisch-kritische Gesamtausgabe, herausgegeben unter der Leitung von
+Walter Slaje
+
+-----------------------------
+Prof. Dr. Walter Slaje
+Hermann-Löns-Str. 1
+D-99425 Weimar
+Deutschland
+
+Ego ex animi mei sententia spondeo ac polliceor
+studia humanitatis impigro labore culturum et provecturum
+non sordidi lucri causa nec ad vanam captandam gloriam,
+sed quo magis veritas propagetur et lux eius, qua salus
+humani generis continetur, clarius effulgeat.
+Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120720/72d17c7a/attachment.htm>

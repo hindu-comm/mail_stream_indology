@@ -1,0 +1,57 @@
++++
+title = "213 patrick mccartney"
+date = "2016-04-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043183.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043183.html)
+
+Hello,
+
+Is anyone able to help me with referencing the following article?
+
+http://www.people.fas.harvard.edu/~witzel/vedica.pdf
+
+
+All the best,
+
+Patrick McCartney
+
+PhD Candidate
+School of Culture, History & Language
+College of the Asia-Pacific
+The Australian National University
+Canberra, Australia, 0200
+
+
+Skype - psdmccartney
+Phone + Whatsapp:  +61 414 954 748
+Twitter - @psdmccartney
+
+#yogabodyANU2016 symposium
+ http://chl.anu.edu.au/news-events/events/658/yoga-and-body-past-and-present-symposium?#tab
+<http://chl.anu.edu.au/news-events/events/658/yoga-and-body-past-and-present-symposium?#tab>
+
+
+   - *https://anu-au.academia.edu/patrickmccartney
+   <https://anu-au.academia.edu/patrickmccartney>*
+   - *https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile
+   <https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile>*
+
+https://www.youtube.com/watch?v=cy6lVABgjmg
+
+<http://goog_371544488>
+https://www.youtube.com/watch?v=LVqBD_2P4Pg
+
+https://www.youtube.com/watch?v=pJy_Oqnqag8
+
+http://youtu.be/y3XfjbwqC_g
+
+http://trinityroots.bandcamp.com/track/all-we-be
+
+https://youtu.be/7tAp8m9RHPU
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160428/2df7991f/attachment.htm>

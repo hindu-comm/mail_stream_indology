@@ -1,0 +1,49 @@
++++
+title = "82 george thompson"
+date = "2010-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/034049.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/034049.html)
+
+With regard to Dominik's last point:
+
+>There's lots to discuss about the various Clay decisions, but one thing I
+>quite like is the use of the acute accent to mark stress or ictus.  While
+>ictus isn't the same as vowel length, it's pretty close to gauravam, and
+>people who know nothing of Sanskrit and don't have access to a teacher do
+>rather well reading such accented words out loud.
+>
+>Best,
+>Dominik
+>
+>  
+>
+Agreed.  But I am a Vedicist who spends most of his time working on 
+accented Vedic texts like the Rigveda.  So for me at least this use of 
+the acute accent marker is disconcerting, since Vedicists need to mark 
+both long and short vowels as well as pitch.  I think that the best way 
+to go, in general, is to start with the very simple and easy distinction 
+between short and long vowels.  The Clay system does not do that.  In 
+fact, the Clay program doesn't do Vedic at all. 
+
+What does that mean?
+
+In my view, the Clay Library system of transliteration is an arbitrary 
+and a completely unsuccessful failure.
+
+Is 'Rama' [with or without acute accent] reallly better than 'Raama?'  
+Is 'Sita' an acceptable equivalent for 'Siitaa'?
+
+Is 'Praja-pati' okay in any sense?
+
+You will find all of these ghastly forms and many more in the Clay editions.
+
+What is wrong with using long and short vowel markers instead?  
+Sincerely, I think that the alternative is absurd.
+
+Best wishes
+George
+
+
+

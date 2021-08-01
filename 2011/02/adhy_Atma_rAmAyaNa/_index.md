@@ -1,0 +1,4 @@
++++
+title = "Adhy ātma Rāmāyaṇa"
+
++++

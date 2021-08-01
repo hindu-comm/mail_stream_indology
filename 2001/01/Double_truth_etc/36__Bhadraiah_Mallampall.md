@@ -1,0 +1,44 @@
++++
+title = "36 Bhadraiah Mallampalli"
+date = "2001-01-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/024818.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/024818.html)
+
+Sri Sundaresan,
+
+I wrote..
+
+>indra or viSNu may derive independently from Existence... but still >from
+>the highest stand point they are mere symbols.
+
+One correction please:
+
+Talking "Java":  As indra, viSNu and others work with each other in the
+yajna while they run on different "threads", each of these interfaces do
+have "methods" unique to them; e.g., viSNu's famous three strides, his being
+the door guardian of gods (viSNu is the first perception of the Unknown);
+and indra's methods to kill vRtra; rudrA's ownership over what remains at
+the place of worship (Ai.Br or K.Br) (because the last perception of the
+Known is rudra, similar to Java's garbage collection algorithm which claims
+all unused memory to make it more efficient) and so on. The background
+object (brahman) has neither data nor methods. I guess in future we will
+have classes defined for all systems of philosophy.  Till then I promise, no
+more Java on this list.
+
+About samAna being at navel: "(The priest) brahmaNacchAnsin is in here at
+the middle navel suture.." (kausItaki.Br pp 518 M.B.das). The embryo gets
+used to thinking of the navel as the source of nourishment for the first
+9-10 months in the most formative stage of its nervous system, its neurology
+is designed to think that way, but this 'childhood experience' will continue
+to drive it even after the navel has been stitched up. I think we are just
+scratching the subject. More at VedicRitual egroup later.
+
+Best regards
+Bhadraiah
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+
+

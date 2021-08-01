@@ -1,0 +1,63 @@
++++
+title = "59 Periannan Chandrasekaran"
+date = "1999-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019341.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019341.html)
+
+--- "Chouhan Electronic Informatics P Ltd." <chouhan at BLR.VSNL.NET.IN> wrote:
+> Paladai is a tamil word meaning a feeding cup from very ancient days.
+> "Pal" meaning milk, "adai" the vessel/cup.
+
+Yes you are right.
+
+pAlaTai
+otl pAlaTai pAlaTai 01 conchshell or any metallic imitation of it for feeding
+infants
+
+Ta. pAL = milk; Ta. aTu (or = to give; Ta. aTai = feeding.
+
+Actually it used to be called "cagkaTai" also in rural areas, the "cagku"
+clearly being a reference to the conch shell originally employed for feeding
+milk.
+
+..> Dr. R.S.Chouhan
+>
+
+
+> At 12:25 PM 12/3/99 +0100, you wrote:
+> >1. Can someone provide informations on the paladai? It should be a
+> >traditional feeding cup for babies in India.
+> >I am also looking for pictures.
+> >2. Is there any known connection between feeding of babies and
+> >lingam/yoni symbols?
+
+While I do not know whether there are any such deliberate connections in the
+tradition,
+the feeder does look exactly like the base of the siva lingam.
+
+But of course siva's consort pAravthi is frequently cited for her luxuriant
+motherly breasts in post-cangkam bhakti literature; her epithets in many
+ancient siva temple of tamil nadu also refer to that attribute.
+Like "pOkam Artta pUN mulaiyAL"  for the female deity at the very ancient
+thirunallARu temple.
+
+
+Chandra
+
+> >
+> >Regards,
+> >--
+> >Martin Bemmann
+> >Heidelberg Academy for the Humanities and Sciences
+> >>Rock Carvings and Inscriptions along the Karakorum Highway<
+> >Karlstr. 4  - D-69117 Heidelberg Germany
+
+__________________________________________________
+Do You Yahoo!?
+Thousands of Stores.  Millions of Products.  All in one place.
+Yahoo! Shopping: http://shopping.yahoo.com
+
+
+

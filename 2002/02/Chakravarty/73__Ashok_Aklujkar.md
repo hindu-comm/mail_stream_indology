@@ -1,0 +1,44 @@
++++
+title = "73 Ashok Aklujkar"
+date = "2002-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-February/026742.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-February/026742.html)
+
+On 17-02-2002 09:21, "Mahadevan, Thennilapuram" <tmahadevan at HOWARD.EDU>
+wrote:
+
+>  she [= Gayatri Spivak Chakravarti] also consoles herself, and presumably her
+following, that as a
+> Chakravarti she is of an "inferior cast".  There is no explanation for
+> inferiority, however; nor is it clear if other Chakravartis would share her
+> pride of inferiority.
+
+According to my understanding, Bhattacharyas are frequently considered to be
+superior Brahmins in Bengal, for such reasons as: (a) maintaining a greater
+purity of their person through not eating outside their household or through
+eating only the food they themselves prepare, (b) stronger association with
+Brahmanical learning, especially after the rise of Nava-dviipa as a centre
+of learning.
+
+As I have not read the relevant publication of Ms. GSC, I cannot be sure,
+but I would not rule out the possibility that her quoted remark contained
+sarcasm.
+
+On 17-02-2002 12:47, "Robert Zydenbos" <zydenbos at LRZ.UNI-MUENCHEN.DE> wrote:
+
+> on the other
+> hand there was a famous Jaina scholar from Tamilnadu a few decades ago
+> named A. Chakravarti, and he belonged to the Nayanar caste, i.e., very 'low'
+> according to brahmins.
+
+Let us recall that Chakravarty is originally a title, essentially coming to
+mean 'reigning personality (in a given field),' an old Indian equivalent of
+"champion" or "grandmaster." It is unlike the last names that are derived
+from place names, gotra names, profession names etc.
+
+ashok aklujkar
+
+
+

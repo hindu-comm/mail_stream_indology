@@ -1,0 +1,78 @@
++++
+title = "70 Andrew Ollett"
+date = "2020-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-November/053600.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-November/053600.html)
+
+Dear all,
+
+Just to be completely clear for the entire list: Yigal Bronner has
+clarified that there is no "internal candidate," and that applications are
+very much welcomed from anyone, anywhere, especially in light of the
+specific set of skills involved in the project. If you are interested in
+applying and have concerns about the start date, you can contact Professor
+Bronner directly.
+
+Thanks Jonathan for raising this concern.
+
+Andrew
+
+On Tue, Nov 10, 2020 at 1:49 PM Jonathan Silk <kauzeya at gmail.com> wrote:
+
+> Dear Andrew,and through you to Yigal,
+> Thank you for this information, but I have a question/concern. Given the
+> *extremely* short deadline, and the fact that the successful candidate is
+> expected to start almost immediately thereafter, does not the Hebrew
+> University think it would only be fair to state clearly and honestly
+> whether in fact they already have an internal candidate for this position?
+> In fact I think this should be a moral imperative of every job search, but
+> that is besides the point: while putting together an application might be
+> possible so quickly, in a case like this, it is hard to imagine that a
+> person to whom this announcement comes out of blue would be able to pick up
+> and move (during Covid!) on such short notice, and therefore the
+> probability leaps immediately to mind that this is not an entirely open
+> advertisement.
+> Please advise.
+> Cordially,
+> Jonathan Silk
+>
+> On Tue, Nov 10, 2020 at 8:25 PM Andrew Ollett via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear list members,
+>>
+>> On behalf of Yigal Bronner, I am forwarding the attached call for
+>> applications for a two-year postdoctoral position, focusing on the
+>> commentarial literature on Mammaṭa’s *Light on Poetry *(*Kāvyaprakāśa*),
+>> at The Hebrew University of Jerusalem. Note the Nov. 30 deadline.
+>>
+>> Andrew
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+> --
+> J. Silk
+> Leiden University
+> Leiden University Institute for Area Studies, LIAS
+> Matthias de Vrieshof 3, Room 0.05b
+> 2311 BZ Leiden
+> The Netherlands
+>
+> website: www.OpenPhilology.eu
+> copies of my publications may be found at
+> https://leidenuniv.academia.edu/JASilk
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201110/5145b759/attachment.htm>

@@ -1,0 +1,44 @@
++++
+title = "245 Periannan Chandrasekaran"
+date = "2000-12-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024456.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024456.html)
+
+N. Ganesan wrote:
+....
+
+ ...
+ >is krishNaa and nala (husband of damayanti), probably have
+ >to do with 'black, dark'. -l-/-r- alterations are common
+
+There is atleast one well know nAr/nAl pair where to illustrate
+-r-/-L- interchange:
+nArikELa, nALikEra, nALikELam = coconut
+Obviously nAr- & nAL- here are Ta. nAr = fibre, a defining feature of coconut.
+DEDR #3651:
+nAr = fibre, string, cord, rope;
+nAri = bow-string, fibrous covering at the bottom of a leaf-stalk, as of a
+coconut palm
+
+nALikEram is attested in tEvAram:
+
+"veLLai nALikEram viriyA naRum pALai" (tEvAram:106:5)
+
+regards,
+P. Chandrasekaran.
+
+
+
+
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Shopping - Thousands of Stores. Millions of Products.
+http://shopping.yahoo.com/
+
+
+

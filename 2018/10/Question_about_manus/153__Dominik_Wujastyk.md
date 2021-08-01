@@ -1,0 +1,44 @@
++++
+title = "153 Dominik Wujastyk"
+date = "2018-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048724.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048724.html)
+
+Antonio nails it, I think (except we're talking about copyright, not
+intellectual property rights).  Assuming there aren't any special
+contractual agreements, the copyright of the photocopies belong to the
+person who made the photocopies.  It would be the same with photos.  They
+belong to the photographer, even if the original manuscript doesn't.
+
+Jonathan raises some interesting special cases, but I am certain your
+colleague can go ahead and use copies of the photocopies in a publication
+without any risk of prosecution.
+
+Best,
+Dominik
+
+
+On Tue, 30 Oct 2018 at 23:34, Antonio Ferreira-Jardim via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Hi Clemency,
+>
+> The photographs are the intellectual property of the researcher and can
+> use them as they see fit - unless the terms of sale of the manuscript to
+> the museum contained restraint of use clauses - which may or may not be
+> legally enforceable in an Indian court.
+>
+
+> Kind regards,
+> Antonio
+> UQ
+> Australia
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181031/a1b31cff/attachment.htm>

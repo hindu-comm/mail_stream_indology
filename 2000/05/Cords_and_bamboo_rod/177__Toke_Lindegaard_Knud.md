@@ -1,0 +1,29 @@
++++
+title = "177 Toke Lindegaard Knudsen"
+date = "2000-05-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021346.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021346.html)
+
+Dear members of Indology,
+
+I am interested in the accuracy of methods for the measuring out and
+construction of different arenas and altars in ancient Indian ritual (more
+specifically as described in the zulbasUtras).  The methods involves using
+cords and bamboo rods.  Is there any good studies (or other literature) on
+rope making in ancient India (what materials were used, thickness of a
+general rope/cord, etc.)?  I am also interested in similar literature on
+bamboo; what sorts of bamboo grow in India, how straight are the bamboo
+rods, etc.  If anyone can help I would greatly appreciate it.
+
+Sincerely,
+Toke Lindegaard Knudsen
+(Copenhagen/Denmark)
+
+______________________________________________
+FREE Personalized Email at Mail.com
+Sign up at http://www.mail.com/?sr=signup
+
+
+

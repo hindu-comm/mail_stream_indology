@@ -1,0 +1,35 @@
++++
+title = "61 John Brockington"
+date = "2004-01-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-January/028134.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-January/028134.html)
+
+Dear  Colleagues,
+
+Does anyone have an address (e-mail or postal) for either the Sukrtindra
+Oriental Research Institute (located in Thammanam, Kochi -- that is all I
+can find) or for Dr Sreeramula Rajeswara Sarma (at Aligarh some years ago)?
+The point is that we want to get hold of a recent article by him ("The Mango
+Motif in Sanskrit Poetry") in the journal of the institute.  I have tried
+searching library catalogues (via both COPAC and the Karlsruher Virtuelle
+Katalog) for the journal without result.
+
+Yours
+
+John Brockington
+
+
+Professor J. L. Brockington
+Secretary General, International Association of Sanskrit Studies
+
+Sanskrit, School of Asian Studies
+7-8 Buccleuch Place
+Edinburgh   EH8 9LW        U.K.
+
+tel:  +131 650 4174
+fax: +131 651 1258
+
+
+

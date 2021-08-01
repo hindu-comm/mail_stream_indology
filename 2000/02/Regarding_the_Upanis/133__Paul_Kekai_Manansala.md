@@ -1,0 +1,47 @@
++++
+title = "133 Paul Kekai Manansala"
+date = "2000-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020181.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020181.html)
+
+"Subrahmanya S." wrote:
+
+>
+> To understand Indology, one has to study European politics
+> and academia over the past 200 years.
+>
+
+I agree, although I would replace European with Euroamerican.
+
+You may receive the response that things changed after World War II or
+in the 60s. However, the evidence supports the contention that the old
+ideology was merely submerged, but hardly eradicated.
+
+Dilip Chakrabarti's book on colonial Indology is the best work on this
+subject in my opinion.
+
+To get some background on this from other viewpoints, try St. Clair
+Drake's _Black Folk: Here and There_; Ward Churchill's _Fantasies
+of the master race: literature, cinema, and the colonization of American
+Indians_; Leon Poliakov's _The Aryan Myth_.
+
+Also, it is good to understand the whole eugenics movement to really get
+to the underpinnings of a lot of this ideology.
+
+Africa2000 maintains an excellent page on this subject containing
+material by both African and Catholic resaerchers:
+
+Eugenics Watch
+http://www.africa2000.com/ENDX/endx.htm
+
+
+Regards,
+Paul Kekai Manansala
+
+--
+Check out http://AsiaPacificUniverse.com/
+
+
+

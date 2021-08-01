@@ -1,0 +1,26 @@
++++
+title = "185 George Thompson"
+date = "2000-05-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021368.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021368.html)
+
+Many thanks to Steve Farmer for the interesting and informative post
+
+I agree that there does not seem to be anything comparable in Vedic with the
+'memory palace' devices that you describe.  I myself am unaware of anything
+as elaborate as these in India.
+
+But I am curious about such things as the Incan quipus which have been much
+discussed in the literature on mnemonics.   Would you be willing to comment
+on this device for us?  I have never been able to understand exactly how
+these rope things work. Perhaps the list in general would find your
+observations on this of interest.  I certainly would.
+
+Best wishes,
+
+George Thompson
+
+
+

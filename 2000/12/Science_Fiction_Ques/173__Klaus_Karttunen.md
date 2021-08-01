@@ -1,0 +1,33 @@
++++
+title = "173 Klaus Karttunen"
+date = "2000-12-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024315.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024315.html)
+
+About robots:
+ John Robert Gardner:
+> So far, I thought that the first science fiction novel ever was
+> "Frankenstein" by Mary Shelly. Lately I have been told that this actually
+> is not true, there should have been a woman in India who wrote some
+> science fiction earlier, some kind of robots doing housework should play a
+> role in this. Have you ever heard of this, and if so, can you tell me who
+> the author was?
+There are some stories about housework robots in Buddhist and Jaina
+narrative literature. Usually they were constructed by Yavanas, who also
+were skilled in constructing flying machines and other mechanical
+wonders.
+
+Regards,
+Klaus
+
+--
+Klaus Karttunen, Ph.D.
+Docent of Indology and Classical Ethnography
+Institute of Asian and African Studies
+PL 59 (Unioninkatu 38 B), 00014 University of Helsinki, FINLAND
+phone 358-0-19122188, fax 358-0-19122094
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "385 Kenneth Zysk"
+date = "2000-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023243.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023243.html)
+
+I am seeking the address of a scholar in India:
+
+Prof. Prafulla Misra at Utkal University in Orissa.
+
+I should like to have the snail mail address and fax, if possible.
+
+Many thanks in advance.
+
+Ken Zysk
+--
+Kenneth Zysk
+Department of Asian Studies
+University of Copenhagen                Ph:  +45 3532 8832
+Leifsgade 33,5                          Fax: +45 3532 8835
+DK-2300 Copenhagen S    Denmark         Email: zysk at hum.ku.dk
+
+If mail address fails use: zysk at spam.hum.ku.dk
+
+
+

@@ -1,0 +1,45 @@
++++
+title = "118 Ananya Vajpeyi"
+date = "2016-09-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044125.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044125.html)
+
+Dear Colleagues,
+
+The fall issue of World Policy Journal, titled "History's Ghosts", is just
+out.
+
+The issue published by Duke University Press journals, is now live online
+<http://www.worldpolicy.org/journal/fall2016>, and here is a direct link
+<http://wpj.dukejournals.org/content/33/3/45.full> to my article in it,
+titled "The Return of Sanskrit".
+
+The Return of Sanskrit
+How an Old Language Got Caught up in India’s New Culture Wars
+
+Indian scholar Ananya Vajpeyi examines the way the ruling Bharatiya Janata
+Party is using Sanskrit to advance a Hindu supremacist agenda. She argues
+that academics need to step out of the ivory tower and resist the
+government’s manipulation of this ancient language.
+
+​Thanks and all best,
+
+Ananya Vajpeyi. ​
+
+
+-- 
+
+*Ananya Vajpeyi *
+*Fellow*
+*Centre for the Study of Developing Societies*
+*29 Rajpur Road, Civil Lines*
+*New Delhi 110054*
+*e: vajpeyi at csds.in <vajpeyi at csds.in>*
+*ext: 229*
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160915/e852fc56/attachment.htm>

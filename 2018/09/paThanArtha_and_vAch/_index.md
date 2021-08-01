@@ -1,0 +1,4 @@
++++
+title = "Paṭhanārtha and vācanārtha"
+
++++

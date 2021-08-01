@@ -1,0 +1,35 @@
++++
+title = "27 Silk, Jonathan"
+date = "2003-01-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-January/027376.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-January/027376.html)
+
+Dear Colleagues,
+
+In the same spirit in which many of us spoke out against the injustice
+visited on our colleague Yigal Bronner, I would like to draw your attention
+to an equally unacceptable action taken recently in Paris. Please take a
+moment, if you wish, to visit
+
+http://217.174.203.80/contreleboycott/
+
+or
+
+http://contreleboycott.free.fr/
+
+(I used the latter URL, but it appears to automatically turn into the
+former).
+
+Thank you for considering academic freedom and interchange to be a universal
+good, not to be sacrificed to the political winds of the moment.
+
+Jonathan Silk
+silk at humnet.ucla.edu
+
+PS:  If you would like to pass on the above information to others, I am sure
+it would help.
+
+
+

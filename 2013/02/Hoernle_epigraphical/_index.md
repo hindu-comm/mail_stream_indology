@@ -1,0 +1,4 @@
++++
+title = "Hoernle epigraphical note"
+
++++

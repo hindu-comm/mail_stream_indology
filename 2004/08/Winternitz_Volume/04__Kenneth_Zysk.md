@@ -1,0 +1,20 @@
++++
+title = "04 Kenneth Zysk"
+date = "2004-08-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-August/028500.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-August/028500.html)
+
+I should greatly appreciate it if someone could provide me with the correct citation for the so-called "Winternitz Volume" from 1933. Many thanks!
+
+Kenneth Zysk
+Department of Asian Studies
+University of Copenhagen   Ph:  +45 3532 8832
+Leifsgade 33,5     Fax: +45 3532 8835
+DK-2300 Copenhagen S    Denmark   Email: zysk at hum.ku.dk
+
+If mail address fails use: zysk at spam.hum.ku.dk
+
+
+

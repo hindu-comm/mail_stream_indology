@@ -1,0 +1,24 @@
++++
+title = "24 Plamen Gradinarov"
+date = "2006-01-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-January/029567.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-January/029567.html)
+
+Dear fellow Indologists and Buddhologists,
+
+Anyone interested in showing one's metta and intrinsic mahasattva nature by volunteering for the post of moderator of the world's largest Buddhist Philosophy Forum at e-Sangha (10,000 members, more than 330,000 posts for two years, and growing)?
+
+Here are the rules
+http://www.lioncity.net/buddhism/index.php?act=SR&f=24
+
+Please, contact me in private.
+
+Best Regards,
+
+Plamen Gradinarov
+Ph.D., D.Litt.
+
+
+

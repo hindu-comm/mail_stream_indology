@@ -1,0 +1,39 @@
++++
+title = "105 Matthew Milligan"
+date = "2016-12-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-December/044834.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-December/044834.html)
+
+Dear Indology,
+
+I would humbly like to solicit a request for any available digital resources for Sri Lankan epigraphy. Presently, I am traveling and also affiliated with a small school with a small library that has very limited reach so acquiring even the most basic of texts (such as issues of the Epigraphia Zeylanica, Paranavitana’s “Inscriptions of Ceylon” etc.) is extremely difficult, even if they are out of copyright. I would be most grateful to be pointed to any hidden corner of the vast internet. I have already acquired E. Müller’s “Ancient Inscriptions in Ceylon” from archive.org in free PDF form. I suspect there are other digital repositories that I have not yet found or considered.
+
+
+
+Thank you very much in advance —
+
+
+
+Yours,
+
+Matt
+
+
+
+Dr. Matthew D. Milligan
+Lecturer of Buddhism
+Georgia College & State University
+
+“Be a thinker, not a stinker.” - Apollo Creed
+
+mattdmilligan at gmail.com 
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161206/1d6c0372/attachment.htm>

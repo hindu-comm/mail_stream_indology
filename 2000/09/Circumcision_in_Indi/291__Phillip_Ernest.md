@@ -1,0 +1,35 @@
++++
+title = "291 Phillip Ernest"
+date = "2000-09-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022845.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022845.html)
+
+Very grateful-- I'm going now to look these up.  Any more that you might
+have to say on the subject is eagerly awaitePip
+
+On Sat, 23 Sep 2000, Sven Ekelin wrote:
+
+> Q. from Phillip Ernest on August 1, 2000
+>           *Circumcision in Indian literature*.
+> A. from Yashwant Malaiya on August 14, 2000
+>           *Gandhi (was: Re: Hindu names for Muslims)*.
+> Q. from Phillip Ernest on September 9, 2000
+>           *Re: muSTANDa, apANDa, eunuchs)*.
+>           
+> In the context of male circumcision, the following words (concerning
+> which I might have more to say) are likely to be of at least some
+> relevance:
+> 
+>      du�carman (TS+, also N); dvinagnaka (L);
+>      baNDa (AV+) --- vaNDa --- caNDa [*];
+>      �ipiviSTa (RV+, much-discussed); �unaH�epa (RV+, N).
+> 
+> See Abhidh�nacint�maNi iii. 118 - 119.
+> 
+>           [*] Cf also vaNTa, vaNDara, paNDa(ka), paNDra(ka), SaNDHa.
+> 
+
+
+

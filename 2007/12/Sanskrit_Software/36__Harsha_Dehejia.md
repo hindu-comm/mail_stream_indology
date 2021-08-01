@@ -1,0 +1,26 @@
++++
+title = "36 Harsha Dehejia"
+date = "2007-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-December/031300.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-December/031300.html)
+
+Friends:
+
+I have had an inquiry from a Vedic scholar in California and he writes:
+
+"I would like to create a professional software package, an 'add-on' that operates directly within Microsoft Office. Such software would give users a common platform for efficiently typing Sanskrit from a Romanized (English) keyboard directly into MSWord. Users would be able to do so in Devanagari or transliteration, or by toggling from one to the other. My hope is to distribute such a package free of cost over the internet and, in doing so, create a common platform for all who create full or part-Sanskrit documents, publish them, or simply use them. Academic or student, mystic or pragmatist, Westerner or Indian, if someone has MSWord, they'll be able to use what I envision. "
+
+Does anyone know if this exists?  If not what shall I tell him. He seems sincere.
+
+Regards and Season's Greetings.
+
+Harsha
+
+Harsha V. Dehejia
+Professor of Indian Studies, Carleton University
+Ottawa, ON. Canada.
+
+
+

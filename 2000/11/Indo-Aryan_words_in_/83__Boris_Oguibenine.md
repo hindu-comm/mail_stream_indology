@@ -1,0 +1,31 @@
++++
+title = "83 Boris Oguibenine"
+date = "2000-11-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023620.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023620.html)
+
+I wonder to what extent the pre-Rgvedic (pre-Old-Indo-Aryan) form(s) are to
+be believed to have no link to the words known in MIA? Can we not surmise
+at least various dialects in the pre-Old-IA traces of which have survived
+until MIA period, by a development with no acknowledged text traces? 
+
+satta-vartana is paralleled by aika-vartana «one turn» in the Mitanni
+(Mesopotamian Aryan) texts , cf. Atharvavedic eka-vrt (see the article by
+V.V. Ivanov in Mélanges Benveniste, 1975). aika- is indeed Old IE *oi-ko
+and there are no reliable OIA or MIA counterparts . Mitanni  Aryan
+teravartanna «three turns», cf. Vedic tri-vrt also should be considered.
+Are these Mitanni Aryan compounds to be discarded as being not IA? They are
+IE, and their presence in Mitanni has to be explained. 
+
+Bjarte Kaldhol's idea about the Kassites being a non-Indo-European people
+is too far-fetched, see inter alia a more or less recent sum on their
+language deemed to be «parlata aria di stampo pracritico»: A. Ancilotti, La
+lingua dei Cassiti, Milano, 1981, interesting although questionable on some
+points.
+
+B.O. 
+
+
+

@@ -1,0 +1,56 @@
++++
+title = "04 Dragomir Dimitrov"
+date = "2002-10-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-October/027121.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-October/027121.html)
+
+Dear list members,
+
+I am pleased to announce the publication of the following book:
+
+Maargavibhaaga - Die Unterscheidung der Stilarten. Kritische
+Ausgabe des ersten Kapitels von Da.n.dins Poetik Kaavyaadar''sa
+und der tibetischen Übertragung Snyan ngag me long nebst einer
+deutschen Übersetzung des Sanskrittextes. Von Dragomir
+Dimitrov. Marburg 2002 (Indica et Tibetica , Band 40). Hardcover,
+xiii, 395 pp, ISBN: 3-923776-40-1, Price: EUR 48.00
+
+This critical edition of the first chapter of Da.n.dins fundamental
+work on poetics, the Kaavyaadar''sa ("Mirror of Poetry"), and its
+Tibetan translation, the Snyan ngag me long, is based on
+Nepalese manuscripts and the canonical and non-canonical
+Tibetan transmission with special regard to the old commentaries.
+The Sanskrit text is printed in the Devanaagarii script and the
+Tibetan - in the Dbu can script. This volume includes among other
+things two glossaries (Sanskrit-German-Tibetan and Tibetan-
+Sanskrit), detailed bibliographies, concordances, and indices.
+
+For more detailed information about this publication please visit:
+http://stud-www.uni-marburg.de/~Dimitrov
+
+Those interested in ordering the book may contact either the
+publisher at iet-verlag at t-online.de or the author at
+dimitrov at stud-mailer-uni-marburg.de
+
+Please forward this message to anyone who might be interested
+to know about this new title.
+
+Best regards,
+Dragomir Dimitrov
+
+
+*****************************************
+Dragomir Dimitrov
+FG Indologie und Tibetologie, FB 10
+Philipps-Universität Marburg
+Wilhelm-Röpke-Str. 6F
+D-35032 Marburg, Germany
+
+Tel.: +49 178 9190340; Fax: +49 6421 282 4995
+E-mail: dimitrov at stud-mailer-uni-marburg.de
+Homepage: http://stud-www.uni-marburg.de/~Dimitrov
+
+
+

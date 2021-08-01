@@ -1,0 +1,50 @@
++++
+title = "196 hans henrich hock"
+date = "2000-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024321.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024321.html)
+
+I strongly support Dominik's view.
+
+Hans Henrich Hock
+
+
+>As those of you who attended the Torino WSC will know, the conference
+>organisers are proposing to publish the conference proceedings as a CDROM,
+>not a printed book.
+>
+>Personally, I am not happy with a CDROM publication for my own paper.  It
+>really needs to be in print or not at all, I think, and for several
+>reasons.
+>
+>It is a fact, perhaps unfortunate, perhaps not, that the system of
+>academic credit is still narrowly focussed on printed publication.
+>
+>There are also all sorts of other, technical reasons why a CDROM is
+>unsuitable, in my view.  It will almost certainly be unreadable in ten or
+>twenty years, whereas a book will still be no problem.  The computer
+>screen is no medium for serious reading.  Will special characters be
+>elegantly and appropriately handled?  And so on.
+>
+>There are also all the issues that have been so elegantly raised by
+>Willard Mccarty in several papers, including:
+>  http://ilex.cc.kcl.ac.uk/wlm/essays/Challenges/
+>and
+>  http://www.kcl.ac.uk/humanities/cch/wlm/essays/potency0.html
+>and others on the same website.
+>
+>I know, because people have written to me, that I am not alone in being
+>very unhappy at the idea of CDROM-only proceedings.
+>
+>May I start a discussion here about this topic, and if a consensus emerges
+>that the CDROM is a mistake, then perhaps some of us should send a
+>petition along to Torino and to the IASS board and request the parties
+>concerned kindly to consider a change of policy on this issue.
+>
+>Best wishes,
+>Dominik Wujastyk
+
+
+

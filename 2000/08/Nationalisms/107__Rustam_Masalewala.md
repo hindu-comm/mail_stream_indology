@@ -1,0 +1,45 @@
++++
+title = "107 Rustam Masalewala"
+date = "2000-08-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022366.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022366.html)
+
+All conquests/genocides/suppression of cultures/religions should be studied
+carefully, with records from both sides carefully recorded and examined.
+
+There have been several holocausts and genocides. People
+ought to carefully study the ones that occurred in
+Iran and India as well as in other places. Scholars should study the
+ideologies that caused such events to happen. They ought to discuss if such
+ideologies have the potential to cause these to happen again.
+
+nanda chandran [SMTP:vpcnk at HOTMAIL.COM] skrev 7. august 2000 12:35:
+
+>Do white children in America study in their text books >that their
+>ancestors commited genocide on the native >Indian population?
+
+Yes, they do, as they should.
+
+>Or do English children know that their current wealth >is a result of
+>systematic loot of countries like India?
+
+It could be, but evidence suggests that regions administered by the British
+in India generally were
+more prosperous that the native ruled territories.
+Wealth is automatically generated in well administered regions.
+
+Incidentally the Sword-of-Truth stuff on Feroze
+Gandhi is mostly nonsense.
+
+
+Rustam
+
+...
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

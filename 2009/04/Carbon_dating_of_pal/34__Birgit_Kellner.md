@@ -1,0 +1,34 @@
++++
+title = "34 Birgit Kellner"
+date = "2009-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/032911.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/032911.html)
+
+franco at RZ.UNI-LEIPZIG.DE schrieb:
+> Carbon-14 dating of some Sanskrit palm-leaf manuscripts from Central 
+> Asia (Kushana and Gupta period) were done by the Ethnological Museum, 
+> Berlin.
+> Best wishes,
+> Eli Franco
+>
+>
+There was also a discussion on carbon-dating manuscripts at a panel at 
+the last conference of the International Association of Buddhist Studies 
+in Atlanta (2008), occasioned by a presentation (I think) by Harry Falk 
+- hopefully, the papers of this panel will be published.
+
+Mark Allon apparently also has a lot of experience in this area (and is 
+also subscribed to this list ...)
+
+For a neophyte such as myself, it all sounded terribly complicated - 
+even decoding the results (percentages of certainty spread across date 
+ranges) seemed far from trivial.
+
+All the best,
+
+Birgit Kellner
+
+
+

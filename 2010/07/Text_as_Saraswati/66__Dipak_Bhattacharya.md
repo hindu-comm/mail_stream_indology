@@ -1,0 +1,41 @@
++++
+title = "66 Dipak Bhattacharya"
+date = "2010-07-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-July/034630.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-July/034630.html)
+
+Dear Coleagues,
+The practice existed in Bengal too. One may also see S.K.Chatterji's account during his travel in Indonesia (I do not remember the page number) in company with Tagore and a few Europeans too. Chatterji tenderly caressed a book when itfell from a table. The care shown surprised the European. Chatterji spoke to him of the general Indian attitudeto small vulnerable things. I remember having related this episode to some member of this forum long time ago. The attitude will not be found to be universal in India.
+Best
+DB
+
+--- On Mon, 26/7/10, Joseph Walser <joseph.walser at TUFTS.EDU> wrote:
+
+
+From: Joseph Walser <joseph.walser at TUFTS.EDU>
+Subject: [INDOLOGY] Text as Saraswati
+To: INDOLOGY at liverpool.ac.uk
+Date: Monday, 26 July, 2010, 4:11 PM
+
+
+I have noticed that at least among Tamil Brahmins, if someone touches a book with his or her feet, she quickly touches the book and touches her eyes. The explanation I have heard is that this is to apologize to Saraswati who resides in the print. Can anyone tell me how widespread this practice is? Does anyone know of any early references to or scholarly discussion of this practice?
+Best,
+
+Joseph
+
+-- Joseph Walser
+Associate Professor
+Department of Religion
+Tufts University
+314 Eaton Hall
+Medford, MA 02155
+
+Office: 617 627-2322
+
+
+
+
+
+

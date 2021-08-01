@@ -1,0 +1,35 @@
++++
+title = "67 Michael Witzel"
+date = "2004-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-March/028275.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-March/028275.html)
+
+Paul Thieme also used the kaakaaksi-term (classes, c. 1966/7),
+which he presumably got from HIS teachers at Allahabad (1935-7)
+(such  as the Paniniya Kamalakanta MIsra)
+
+MW
+
+
+
+On Mon, 15 Mar 2004, Hartmut Buescher wrote:
+
+
+ ==========================================================================
+Michael Witzel                       witzel at fas.harvard.edu
+                                     www.fas.harvard.edu/~witzel/mwpage.htm
+
+Dept. of Sanskrit & Indian Studies,  (Harvard Oriental Ser., Opera Minora)
+
+Harvard University                   www.shore.net/~india/ejvs
+1 Bow Street                         (Electronic Journal of Vedic Studies)
+Cambridge MA 02138, USA
+
+phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496 8571
+---------------------------------------------------------------------------
+my direct line (also for messages) :  617- 496 2990
+
+
+

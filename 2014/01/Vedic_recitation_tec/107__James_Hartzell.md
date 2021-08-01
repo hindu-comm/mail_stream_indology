@@ -1,0 +1,34 @@
++++
+title = "107 James Hartzell"
+date = "2014-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-January/038884.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-January/038884.html)
+
+Dear Colleagues
+
+MIght someone be able to help out with the following?
+
+In current Vedic recitation practice in India, one method used in either
+pair or group recitation is for each member of the pair/each half of the
+group to recite one line of the text, with the second member of the
+pair/second half of the group reciting the next line, and continuing in
+this alternating manner.
+
+I'm trying to recall the technical term for this type of recitation
+practice.
+
+Naturally any references to it in the published literature would also be
+welcome.
+
+Cheers
+
+James Hartzell, PhD
+Center for Mind/Brain Sciences (CIMeC)
+The University of Trento, Italy
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140131/c04f6de4/attachment.htm>

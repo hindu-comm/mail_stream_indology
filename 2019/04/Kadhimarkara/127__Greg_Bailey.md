@@ -1,0 +1,28 @@
++++
+title = "127 Greg Bailey"
+date = "2019-04-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049991.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049991.html)
+
+Dear List,
+
+A friend who is not a member of the list has asked me about any Sanskrit references to kadi- or kadhi-markara, which must be kadhimakara. The latter part of the compound is common everywhere, but has anybody seen ka(ṃ)dhi used in the meaning of “sea” or with any meaning. MW gives kaṃdhi as referring to sea, but provides no references. BR gives it as Meer (dam Wasser) + dhi haltend).
+
+I checked up a number of texts on Gretil, but came up blank. Any help would be appreciated.
+
+
+
+Cheers,
+
+Greg Bailey
+
+
+"Kadimarkara is  one example among many of possible Skt-Indonesian loans in Australia.  It's accepted that 16 Indic loans are in north Australia languages from Macassan Indonesian contacts."
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190423/e926bb1e/attachment.htm>

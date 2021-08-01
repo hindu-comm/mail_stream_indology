@@ -1,0 +1,30 @@
++++
+title = "140 Lars Martin Fosse"
+date = "2000-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021633.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021633.html)
+
+Dear members of Indology!
+
+I am embarking on a small research project concerning the Skt absolutive
+(gerund). I would greatly appreciate any bibliographic references to
+papers/books treating this subject that have been published during the last
+5 years.
+
+Best regards,
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone: +47 22 32 12 19
+Fax 1:  +47 22 32 12 19
+Fax 2:  +47 85 02 12 50 (InFax)
+Email: lmfosse at online.no
+
+
+

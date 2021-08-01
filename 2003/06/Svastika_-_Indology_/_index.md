@@ -1,0 +1,4 @@
++++
+title = "Svastika - Indology thanks"
+
++++

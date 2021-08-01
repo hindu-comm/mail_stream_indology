@@ -1,0 +1,22 @@
++++
+title = "13 Mikael Aktor"
+date = "2002-01-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-January/026548.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-January/026548.html)
+
+I agree with Dominik: PDF is great. Another very practical feature in PDF (only available with the full Acrobat, not with Acrobat Reader alone) is that one can create bookmarks in the document. These are shown in a separate frame to the left, and they function as links, so one can have the whole TOC of the document shown as bookmarks/links in this frame, click on single items in the TOC and move directly to the right parts of the document.
+
+Likewise, I think (but I'm not quite sure, as I only have the full program) that editing (paste, copy etc.) is only possible in the full Acrobat. And even then, when you copy from a pdf file with diacritics these will appear as separate signs in a wordprocessor (tried with Notepad and Word). For instance s-accute appears as ´s.
+
+--------------------------
+Mikael Aktor, assistant professor, Ph.D.,
+Center for the Study of Religions, University of Southern Denmark,
+Campusvej 55, DK-5230 Odense M, Denmark.
+
+Phone: +45 6550 3318 - +45 3696 9054 (home)
+Fax: 6593 2375 - E-mail: aktor at filos.sdu.dk
+
+
+

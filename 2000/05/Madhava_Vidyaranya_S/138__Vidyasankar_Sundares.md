@@ -1,0 +1,45 @@
++++
+title = "138 Vidyasankar Sundaresan"
+date = "2000-05-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021334.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021334.html)
+
+>I believe there is a running cotroversy between the Sringeri and the
+>Kanchi maths in that that the Sringeri math does not "rfcognise"the Kanchi
+>math.If both the were indeed established by Adi Sankara there should not
+>have been this attitude between these two maths.Probably both the maths
+>came into existence laterand being aware of the same leasing to the
+>one-up-man-ship.
+
+There are other reasons for all this, which I won't get into here. My paper
+on the Sankaravijaya texts discusses this controversy in painful detail. Do
+wait till the IJHS (International Journal of Hindu Studies) resumes
+publication. And I would not second-guess attitudes either. Fights between
+brothers or cousins are often more ferocious than those between mere
+neighbours or strangers. And just for argument's sake, how about giving some
+credit to the possibility that maybe one was established by Sankara, and
+another came later?
+
+>How about examining the genealogical records maintained by
+>these maths?The acharya who passed away in 1994 is claimed to be the 68th
+>mathadhipati.It is also probable that if the sankaracharyas could trace
+>their lineage to Adi sankara the maths they head also should have similar
+>claim.
+
+Does not follow. One can distinguish between the official list of heads of a
+matha and the actual Guru-Sishya lineage of its current mathadhipatis. See
+my article on the Jyotirmath succession on the Indology website. This
+becomes a rather emotional issue for most people, but the genealogical
+records of the Kanchi matha are refuted by independent evidence even for the
+17th and 18th centuries, i.e. less than 400 years ago. And of course, its
+claim that Sankara lived in the 5th century BC can be easily rejected. But
+that opens up a whole new can of worms in Indian history.
+
+Vidyasankar
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

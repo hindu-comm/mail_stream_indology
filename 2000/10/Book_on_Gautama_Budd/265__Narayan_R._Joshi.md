@@ -1,0 +1,24 @@
++++
+title = "265 Narayan R. Joshi"
+date = "2000-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023165.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023165.html)
+
+The book "Historic Dates" by Mr.V.G.Ramachandran (1991) published by the
+general editor Dr. N. Mahalingam for International Society for the
+Investigation of Ancient Civilizations, 102, Mount Road, Guindy, Madras
+600032 presents some evidence for Buddha's birth date to be around 1886 BC.
+      The presence of the word "Yavana" in Mahabharata is taken as evidence
+for some part of Mahabharata being written after 326 BC when Indians got to
+know Greeks or Yavanas after Alexander Javanani's fight with the king
+Porus. The above book discusses this problem also.
+        Before Alexander's destruction of Persian Empire, Indians were in
+the Pan Asian Army of Persia. Hence they had knowledge prior to 326 BC of
+Yavanas, Ionians, Carians, Phoenicians and Greeks. Some of these people
+participated in the Suez canal digging project of the Persian Emperor
+Daurius around the middle of the sixth century BC.
+
+
+

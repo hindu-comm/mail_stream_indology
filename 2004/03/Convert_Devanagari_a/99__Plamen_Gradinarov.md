@@ -1,0 +1,38 @@
++++
+title = "99 Plamen Gradinarov"
+date = "2004-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-March/028309.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-March/028309.html)
+
+From: Birgit Kellner 
+To: INDOLOGY at liverpool.ac.uk 
+Sent: Sunday, March 21, 2004 1:51 PM
+Subject: Re: Convert Devanagari into romanized text: any automatic tools?
+
+
+> These things make me wish there were a central inventory of ongoing
+> software projects, something like a forum where people can enter short
+> descriptions of their projects, with URLs, and linked from the main
+> INDOLOGY site.
+
+There is one already existing, but I don't have the time to make it public and announce it properly. The address is www.academic.indology.net 
+One can post software codes, upload gifs, articles and white papers up to 300K.
+
+If this is not enough we can also install the specialised PhProject or DotProject script at www.sanskrit.indology.net to handle only this specific project. If there are volunteers to take the lead of the project, please contact me privately and we can arrange the subdomain, the script clean install and the administrative privileges.
+
+The only drawback is that the server is commercial (owned and managed by Eurasia Academic Publishers), not academic, and scholars usually have suspicions towards non-academics, mainly because the latter have to pay for the pleasure to engage in indological studies, while academics are paid for the selfsame pleasure.
+
+Anyway, I have also the pleasure to announce the launch of the Russian INDOLOGY portal at www.indology.ru
+
+Best regards,
+Plamen Gradinarov
+Ph.D., D.Sc., Founder
+Eurasia Academic Publishers
+www.orientalia.org
+www.indology.net
+www.slavica.org
+
+
+

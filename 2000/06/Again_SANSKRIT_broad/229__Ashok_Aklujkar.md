@@ -1,0 +1,23 @@
++++
+title = "229 Ashok Aklujkar"
+date = "2000-06-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021721.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021721.html)
+
+In response to Jan Houben's excellent question >Who -- some German
+Indologist, I assume, but which one -- was instrumental in getting a
+Sanskrit broadcast on the German radio in 1966?<
+
+As far as my information goes, it was Dr. Raghu Vir's daughter, Sushama
+Lohia, working for the Hindi program of Deutsche Welle in the sixties, who
+tried for the inclusion of a Sanskrit broadcast in Hindi broadcasts. See
+the issues of the Sanskrit periodical ;Saaradaa, published from Pune by
+Pandit Vasant A. Gadgil, for the late 1960's (I do not have access to them
+at present to be able to give a precise reference).
+
+aklujkar
+
+
+

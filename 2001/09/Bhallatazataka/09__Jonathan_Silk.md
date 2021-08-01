@@ -1,0 +1,35 @@
++++
+title = "09 Jonathan Silk"
+date = "2001-09-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-September/026338.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-September/026338.html)
+
+Dear Colleagues,
+
+In Zachariae's edition of Mankhakoza, p. 60, regarding the cy to 454c
+vaiyaap.rtyakaro bhogii, he refers to Bhalla.tazataka 37. I have at
+hand the edition edited by Vedkumari Ghai and Rampratap (Delhi:
+Meharchand Lachhmandas, 1985), and can find nothing relevant in verse
+37 or elsewhere. What am I missing?
+
+Thanks in advance for the help!
+--
+
+
+Jonathan Silk
+
+jonathan.silk at yale.edu
+
+Dept. of Religious Studies
+Box 20827
+Yale University
+New Haven CT 06520-8287
+USA
+
+tel. 203-432-0828
+fax. 203-432-7844
+
+
+

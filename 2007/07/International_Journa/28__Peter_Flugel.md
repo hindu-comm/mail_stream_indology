@@ -1,0 +1,37 @@
++++
+title = "28 Peter Flugel"
+date = "2007-07-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-July/031001.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-July/031001.html)
+
+I would like to inform interested readers of the publication of two new
+articles by Willem B. Bollee: 
+
+"Subject Index of the Inventory of the Stories in N. Balbir's Avasyaka
+Studien"
+
+"Note on the Pasa Tradition in the Universal History of the Digambaras
+and Svetambaras"
+
+International Journal of Jaina Studies Vol. 3, Nos. 1-2
+http://www.soas.ac.uk/ijjs/index.html
+
+
+Dr Peter Flügel
+Chair, Centre of Jaina Studies
+Department of the Study of Religions
+Faculty of Arts and Humanities
+School of Oriental and African Studies
+University of London
+Thornhaugh Street
+Russell Square
+London WC1H OXG
+United Kingdom
+Tel.: 0044-(0)20-7898 4776
+E-mail: jainstudies at soas.ac.uk
+Website: http://www.soas.ac.uk/jainastudies
+
+
+

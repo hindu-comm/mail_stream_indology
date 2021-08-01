@@ -1,0 +1,28 @@
++++
+title = "121 Nick Allen"
+date = "2017-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-March/045400.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-March/045400.html)
+
+Dear List,
+   I did not respond to the original query because it was about textual references to the Buddhacarita, on which I had nothing precise to say.
+   The sentence queried by Matthew Kapstein followed a comparison (with thirty similarities!) between Vidura's story (plus related Mbh passages) and Homer's account of Odysseus and the Straits Monsters (Sirens, etc). I thought the narratological gap between the Greek and Sanskrit stories was much greater than that between the Chinese and Middle English versions. As stated in my fn 7, the Chinese Buddhist versions were taken from books by S. Julien (1860) Contes et apologues... and E. Chavannes (1962) Cinq cents contes..., and from the article by Moule in J. China Branch of the Royal Asiatic Society (1885).
+     For a minor addition to Vielle's bibliography see Marcello De Martino Arcana Verba. Fortuna e Iuppiter nel loro background indoeuropeo II, pp. 508-510.
+
+Cheers,
+Nick
+
+Dr N.J. Allen
+ISCA, 51 Banbury Road,
+Oxford OX2 6PE, UK
+http://www.anthro.ox.ac.uk/?id=1130
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170307/9cd963e6/attachment.htm>

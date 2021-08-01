@@ -1,0 +1,39 @@
++++
+title = "237 Vidyasankar Sundaresan"
+date = "2000-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023762.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023762.html)
+
+>To speak of "migration" rather than "invasion", therefore, is to
+>refrain from making inferences not supported by the evidence; it does
+>not mean invasions have been ruled out.
+
+Thank you for explaining the meanings of the words migration
+and invasion. FYKI, I know sufficient English to know what these
+words mean. Personally, I don't care whether Indo-Aryan speakers
+migrated into south Asia or invaded south Asia. Still, I would
+like to see some rigor in the discussion, because I am curious
+to learn.
+
+When it is said that arguing against the Aryan Invasion Theory
+is like flogging a dead horse, it seems to me that invasion has
+been ruled out, presumably for good reasons. The dichotmomy that
+you attribute to me is not of my creation. I would like to see
+a professional Indologist who prefers to talk of an Aryan
+Migration Theory explicitly accept that invasion(s) have not
+been ruled out. Till such time, I do no more than agree with
+the points raised by Gupta.
+
+Regards,
+Vidyasankar
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "123 Dominik Wujastyk"
+date = "2000-10-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023013.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023013.html)
+
+Last week in New Scientist magazine I saw an advertisement for British
+Airways (I think it was) which was promoting the idea that you could lie
+down and sleep in their airplanes.  In 1st class, anyhow.
+
+The theme of the advert was the Buddha.  First there was a pic of the
+Buddha sitting up, apparently alert.  Then one of him lying at full
+length, on his side, resting on a pillow, exemplifying a restful journey.
+
+I thought that pose was, iconographically, always the mahaparinibbana.  Am
+I right?  It's nothing to do with having a nice rest, but rather to do
+with dying after eating poisoned food.
+
+Perhaps someone should tell BA?
+
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

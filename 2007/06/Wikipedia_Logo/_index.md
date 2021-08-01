@@ -1,0 +1,4 @@
++++
+title = "Wikipedia Logo"
+
++++

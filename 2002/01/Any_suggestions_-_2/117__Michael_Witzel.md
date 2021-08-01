@@ -1,0 +1,72 @@
++++
+title = "117 Michael Witzel"
+date = "2002-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-January/026653.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-January/026653.html)
+
+any suggestions? -not really...
+
+However, one may note that the Kashmiris (Syamilaka through Bilhana) make
+fun of the Gujaratis (e.g., of their style of wearing dhotis).
+
+Syamilaka if of course rather early, probably too early (c. Hun time) for
+the entry of the Gu(r)jara into the subcontinent (at 600 CE?-- not yet
+found in Mbh;-- note the Gujar herders  in the S. Kashmir hills, and
+Gujranwala in Panjab).
+
+However, their presence may have give rise to some 'unorthodox' behavior,
+though I cannot think of a specific item.  Of course, we have some 100
+subdivisions of Gujarat Brahmins, so there is ample space for a 'HuuN'
+version of them  (as indeed found in Rajasthan). --
+
+By  1700 all of this may have become a topos.
+
+Also, there are the *early* (BSS/BDhS) Karaskara --I think in Saurastra--
+who are 'off limits' for 'proper' people, just as Andhra, Kalinga  etc. was
+forbidden territory: when one traveled there  one was in need of a
+prayascitti  - an early 'kala pani'.
+
+
+We have to ask the Gujarat  specialists.
+
+
+MW
+
+
+
+
+
+>In the 17th-18th century text Vedavicaara that I am editing and
+>translating, there is an interesting line explaining why the draaviDa
+>brahmans of the south do not have any interaction/co-participation with the
+>gurjara brahmans, though the gurjaras are technically considered to be
+>draaviDas.  The text says:
+>
+>gau.dadezavad gurjaradeze 'py anaacaarabaahulyaat te.saam
+>aacaaryazaapa-dagdhatvaat keraladeziiyabraahma.naadivat
+>samvyavahaaraabhaava.h
+>
+>Like the the GauDa region, there is profusion of misbehavior (anaacaara)
+>even in the Gurjara region, and hence, by being cursed by the aacaarya
+>(who?), there is no dealing with them, as there is no dealing (for similar
+>reasons) with brahmans from Kerala etc.
+>
+>I wonder if anyone has come across this story of some aacaarya cursing the
+>brahmans of Kerala and Gurjara regions for their supposed misbehavior?  I
+>suppose the anaacaara in Kerala refers to the relations of brahmans with
+>nayar women.  What sort of anaacaara is alleged for the Gurjara brahmans?
+>
+>                                        Madhav Deshpande
+
+========================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.people.fas.harvard.edu/~witzel/mwpage.htm
+
+
+

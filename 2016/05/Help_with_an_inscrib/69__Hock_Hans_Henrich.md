@@ -1,0 +1,51 @@
++++
+title = "69 Hock, Hans Henrich"
+date = "2016-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-May/043270.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-May/043270.html)
+
+Thanks for letting me know—apparently one of those incompatibility problems (when I got my copy of the message, there was a big question mark where the image should have been).
+
+Let me try again and let’s hope this time around it works.
+
+Best wishes,
+
+Hans Henrich Hock
+
+
+
+
+On 6 May 2016, at 01:41, Christophe Vielle <christophe.vielle at uclouvain.be<mailto:christophe.vielle at uclouvain.be>> wrote:
+
+It seems that the attachment did not come with the message on the list.
+Regards,
+Christophe Vielle
+
+Le 5 mai 2016 à 19:27, Hock, Hans Henrich <hhhock at illinois.edu<mailto:hhhock at illinois.edu>> a écrit :
+
+Dear Friends and Colleagues,
+
+A friend who is not an Indologist has asked for help in assessing an inscription on an object (image attached).
+Several questions arise: 1. Does the object look genuine or could it be a fake? 2. Is the Nagari variant compatible with the date of Saṁ 1354 (left vertical column)? 3. Is the language Sanskrit or a Sanskritized form of a different language? 4. Is it possible to figure out the meaning of the inscription (some of the characters are pretty worn down)?
+Looking forward to responses and with all best wishes,
+Hans/Hans Henrich/Hans Henrich Hock
+
+[cid:BC260830-874A-463C-8E3E-DB5B6D3F7058 at attlocal.net]
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+–––––––––––––––––––
+Christophe Vielle<https://urldefense.proofpoint.com/v2/url?u=http-3A__www.uclouvain.be_christophe.vielle&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=rtOsZOpHxaNDyW54rGDv7P_4OBgyCepGZ94E-xtPrVw&s=1VlB2aMJCZjLB5B5cA8yZwnSdA9uWXmmMXbCmVrwY2I&e=>
+Louvain-la-Neuve
+
+[cid:52E1CEA9-A1B2-44C8-BE1E-AE89CBB756D4 at attlocal.net]
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160506/ed055a02/attachment.htm>

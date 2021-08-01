@@ -1,0 +1,25 @@
++++
+title = "93 Harry Spier"
+date = "2020-08-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-August/053231.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-August/053231.html)
+
+Dear list members,
+
+I have a kindle version of a Clay Sanskrit Library book, "The Five
+Discourses on Worldly Wisdom" but its not possible to zoom in on the text.
+Is this the case for all the kindle versions of Clay Sanskrit Library books?
+
+  I use kindle on Windows and I have other kindle books (not from the Clay
+library), some of those I can zoom and even if I can't zoom I can change
+the font size to increase the size of the text.  But neither of these
+methods work for the Clay Library books.
+
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200827/22aa069e/attachment.htm>

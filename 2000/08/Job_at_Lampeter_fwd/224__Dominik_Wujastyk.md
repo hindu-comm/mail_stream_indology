@@ -1,0 +1,30 @@
++++
+title = "224 Dominik Wujastyk"
+date = "2000-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022435.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022435.html)
+
+----
+University of Wales, Lampeter
+
+Lectureship in Indian Religion
+
+Applications are invited from graduates with a research degree (preferably a
+Ph.D) for a Lectureship in Indian Religion. Candidates must be able to teach
+undergraduate and postgraduate courses in Hinduism and offer other courses
+in the area of Indian Religion or the Study of Religion depending on their
+own background and experience.
+Preference will be given to active researchers. The salary will be within
+Grade A of the Lecturer Salary Scale, and the post would normally be a
+fixed-term three year appointment in the first instance (though a permanent
+appointment could be made in the case of an experienced Lecturer).
+For further information contact the Personnel Assistant, University of Wales
+Lampeter, Dyfed, SA48 7ED (Tel 01570424703 Fax 01570423423 E-mail
+lynda at admin.lamp.ac.uk Homepage: http://www.lamp.ac.uk/vacancies/index.htp)
+The closing date for applications is the 15th September. Details of the
+Department may be found on http://www.lamp.ac.uk/trs.
+
+
+

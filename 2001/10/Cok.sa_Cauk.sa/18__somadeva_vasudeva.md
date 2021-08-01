@@ -1,0 +1,26 @@
++++
+title = "18 somadeva vasudeva"
+date = "2001-10-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-October/026400.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-October/026400.html)
+
+Dear list-members,
+
+I am hoping someone might be able to explain the exact identity of the Cok.sas/Cauk.sas.
+
+The existence of "aaryacok.sas" is attested already in  the copper-plate Grant of Bhulu.n.da III, year 50 (of Gupta era) in the list: paa"supataa aaryacok.saa.h devaprasaadakaa"s ca gandhaduupabalicarusatropayogaadi.suupayojamaanaas...
+
+The  Abhinavabhaaratii  (GOS) vol.\ 2, 17.38 states that they are Ekaayanas of the Bhaagavata faith:  bhaagavatavi"se.saa ye ekaayana[aa] iti prasiddhaa.h, but   Bhagavadutpala ad B.rhatsa.mhitaa 86.43ab states that they are rogues: cok.saa du.s.taa iti prasiddhaa.h. Are these different groups of Cok.sas?
+
+
+Somadeva Vasudeva
+Wolfson College, Oxford
+
+
+Make a difference, help support the relief efforts in the U.S.
+http://clubs.lycos.com/live/events/september11.asp
+
+
+

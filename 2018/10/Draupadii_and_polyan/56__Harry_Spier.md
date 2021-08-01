@@ -1,0 +1,38 @@
++++
+title = "56 Harry Spier"
+date = "2018-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048655.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048655.html)
+
+On Fri, Oct 26, 2018 at 12:18 PM Joydeep via INDOLOGY
+
+> How are you identifying the “earlier strata” of the epic?
+>
+
+1) I'd be interested if someone could  point out the scholarly articles on
+relative dating of different parts of the Mahabharata.?
+
+2) Could the techniques Michael Witzel pointed out years ago in this
+posting  to relatively date the books or the Ramayana  be used.  I.e
+relative occurance of  vai or similar words in vedic position 2 versus
+elsewhere. ?
+http://list.indology.info/pipermail/indology_list.indology.info/2000-March/020863.html
+
+3) Could a similar technique be used with other linguistic
+characteristics.I.e. relative occurance of linguistic characteristics  that
+are uncommon in vedic but common in classical sanskrit.  Whitney noted use
+of passive constructions,  participles instead of verbs, substitution of
+compounds for sentences as characteristic of the change from vedic to the
+classical language.
+
+Harry Spier
+
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181026/446289ce/attachment.htm>

@@ -1,0 +1,71 @@
++++
+title = "23 Tamar Reich"
+date = "2005-06-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-June/029232.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-June/029232.html)
+
+Dear Herman,
+Yes, I did write an article about a section of the anugita, but it has not 
+seen the light yet. How did it come to your attention? It was for a 
+Felicitation volume for Wendy Doniger that was supposed to be published by 
+Seven Bridges Press. However, the publication has been delayed for ever 
+because of financial difficulties that the press is experiencing, and now 
+the same articles, with minor changes, are under review at Columbia 
+University Press.
+Tamar Reich
+
+----- Original Message ----- 
+From: "Tieken, H.J.H." <H.J.H.Tieken at LET.LEIDENUNIV.NL>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Tuesday, June 28, 2005 7:48 AM
+Subject: Re: email address Vassilkov
+
+
+Dear Tamar,
+Some time ago I came across a reference to an article by you on
+something concerning the Anugita. If I remember wel it was published in
+a Felicitation volume for Wendy Doniger. The problem is I cannot find
+the reference again (even Google fails me). A student of mine is at the
+moment writing an MA thesis on some part of the Anugita and therefore he
+(and I) are very interested in your article. On the other hand, our
+library is very slow and if it concerns a new publication it will take
+at least another year for the book to be on the shelves. Is it possible
+for you to send me a photocopy of the article.
+
+Sincerely yours
+
+Herman Tieken
+
+-----Original Message-----
+From: Tamar Reich [mailto:treich at UCALGARY.CA]
+Sent: donderdag 2 september 2004 6:08
+To: INDOLOGY at liverpool.ac.uk
+Subject: Re: email address Vassilkov
+
+Dear Herman,
+
+I have these addresses on record, but I don't know if they are current.
+Yaroslav Vassilkov
+  yavass at YV1041.SPB.EDU
+  vassilkov at hotmail.com
+
+Tamar Reich
+
+
+----- Original Message -----
+From: "Tieken, H.J.H." <H.J.H.Tieken at LET.LEIDENUNIV.NL>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Wednesday, September 01, 2004 8:38 AM
+Subject: email address Vassilkov
+
+
+> Dear members, could anyone help me with the email address of Y.
+Vassilkov?
+>
+> Herman Tieken
+>
+
+
+

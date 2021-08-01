@@ -1,0 +1,67 @@
++++
+title = "303 Raveen Satkurunathan"
+date = "2000-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023791.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023791.html)
+
+On Fri, 10 Nov 2000 11:49:55 -0800, Poopathi S. Manickam <poopathi at AA.NET>
+wrote:
+
+
+>Seriously..
+
+>Kurumban.. (meaning pepper corn (Kuru milahu) haired one..?)
+>mostly living in the wilderness of the Western Gates..
+>the so called paNiyan.. (meaning errand boy?)
+
+Yes Paniyan means a menial worker
+
+>are NOT from the Negroid stock even according
+>to the revelations and standards of their prophets
+
+Would be interesting to know what a Negroid stock is? This is available
+reference on them (not necessarily exhaustive)
+
+Kurumba:-
+
+Negroid tribe living in the Cardamom and Nilgiri hills, west-central Tamil
+Nadu state, southern India. Originally a pastoral people
+
+http://www.britannica.com/bcom/eb/article/0/0,5716,47580+1+46496,00.html?
+query=kurumba
+
+Also try
+
+Mullukurumbas of Kappala by R Misra 1971, Vedam books,
+
+Paniyans:-
+
+Dr. N. Anil Kumar, Agrobiodiversitry conservation practices in the tribal
+areas of Wayanad District, Kerala, India
+
+1. Paniyan, their physical features are, dark complexion, curly hair, flat
+nose, thick lips, etc., very much resembling that of Negroid people
+
+2. Their language is a primitive dialect of Malayalam with an admixture of
+Tamil and Tulu words
+
+Also try
+
+Paniyan of Kerala by Kurup, A. M. and Roy Burman, B. K. Delhi, n.d. Census
+of India 1961, Vol. I, India, Part V-B, Ethnographic Studies, No. 11.
+
+----------------
+
+Physical features dot not lead to obvious close genetic relationships. Just
+because people have Negroid features in Asia (there are many in many
+countries including India) does not mean that they are closely related to
+such people in Africa.
+
+
+Regards
+Raveen
+
+
+

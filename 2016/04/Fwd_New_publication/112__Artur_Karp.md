@@ -1,0 +1,87 @@
++++
+title = "112 Artur Karp"
+date = "2016-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043045.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043045.html)
+
+Dear All,
+
+I hate to spoil the fantastic news about the two important publications.
+
+The prices. Prof. Bronkhorst's book's price ($ 199)is close to one third of
+my monthly pension. Prof. Zysk's ($ 299) - close to one half of my pension.
+
+Excellent work there, on the publishers side, but their prices exclude me,
+definitely, from their prospective buyers list.
+
+Is my University's Library going to buy the books? One cannot be certain,
+not considering financial restrictions faced by the educational
+institutions in Poland.
+
+Artur Karp
+Warsaw
+Poland
+
+2016-04-14 8:42 GMT+02:00 Kenneth Gregory Zysk <zysk at hum.ku.dk>:
+
+> Also from Brill but in the Sir Henry Wellcome Asian Series is my
+>
+>
+>
+> *The Indian system of human marks* in 2 vols. Brill, 2016. ISBN:
+> 978-90-29972-6.
+>
+>
+>
+> http://www.brill.com/products/reference-work/indian-system-human-marks
+>
+>
+>
+>
+>
+> Best,
+>
+> Kenneth Zysk
+>
+>
+>
+> *From:* INDOLOGY [mailto:indology-bounces at list.indology.info] *On Behalf
+> Of *Johannes Bronkhorst
+> *Sent:* 13. april 2016 13:36
+> *To:* indology at list.indology.info
+> *Subject:* [INDOLOGY] New publication
+>
+>
+>
+> Dear friends and colleages,
+>
+>
+>
+> My latest book has come out:
+>
+>
+>
+> *How the Brahmins Won: From Alexander to the Guptas*. Brill, 2016. ISBN:
+> 9789004315198.
+>
+> http://www.brill.com/products/book/how-brahmins-won
+>
+>
+>
+> Johannes Bronkhorst
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160414/274180e1/attachment.htm>

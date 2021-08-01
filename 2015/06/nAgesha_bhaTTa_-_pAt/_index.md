@@ -1,0 +1,4 @@
++++
+title = "[Nāgeśa Bhaṭṭa - Pātañjalayoga"
+
++++

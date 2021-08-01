@@ -1,0 +1,22 @@
++++
+title = "145 Mrinal Kaul"
+date = "2014-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039603.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-July/039603.html)
+
+Dear All,
+
+I am looking for a PDF of the following article:
+
+"Concept of Tattva - A Study" by D.B. Sensharma, Published in Gopinath Kaviraj Felicitation Volume, Lucknow, 1967.>>
+
+Would someone happened to have a PDF copy of this? I would indeed be grateful if someone has it and can share with me. 
+
+Best wishes.
+
+Mrinal Kaul
+
+
+

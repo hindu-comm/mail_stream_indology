@@ -1,0 +1,35 @@
++++
+title = "41 Oliver Hellwig"
+date = "2019-12-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-December/051477.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-December/051477.html)
+
+Dear all,
+
+most of the DCS is now available in a CoNLLU-derived format at:
+https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/conllu
+
+More information in the readme file. If you have PhD (or whatever)
+students interested in NLP, please consider to forward the information.
+If you find systematic errors in the data, please send me a short mail.
+
+For those working with the RV and interested if Arnold (1905) had the
+right intuitions: I compiled the words he considered to be of early or
+late origin in three separate files that can be found here:
+https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/rigveda/Arnold
+
+Using the CoNLLU files of the RV, it should be easy to verify if, for
+instance, words Arnold considered to be late occur preferably in
+Oldenberg's appendices.
+
+
+Best, Oliver
+
+---
+Oliver Hellwig, IVS Zürich
+
+
+
+

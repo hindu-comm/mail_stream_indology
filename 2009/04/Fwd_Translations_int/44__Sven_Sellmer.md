@@ -1,0 +1,48 @@
++++
+title = "44 Sven Sellmer"
+date = "2009-04-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/032926.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/032926.html)
+
+Dear Colleagues,
+
+first of all I would like to thank all of you very much for your  
+overwhelming reaction to my litte query!
+
+It seems the oldest serious candidate that came up was the
+
+"/YavanajAtaka/ of Sphujidhvaja. It was written in the third century  
+CE. It is purportedly a versified version of a prose translation of a  
+Greek text on astrology composed in Hellenistic Egypt. According to  
+David Pingree, the prose translation was carried out by Yavanezvara in  
+the second century CE during the reign of the Saka ruler Rudradaman I  
+of Ujjain."  (Luis González-Reimann)
+
+I have prepared a small rtf document in which I have copied  
+bibliographical hints that appeared in the discussion, arranged  
+according to the source languages. (Because I am mainly interested in  
+earlier periods I have included mainly pre-19th century translations,  
+but a long and very interesting list of later material can be found in  
+Klaus Karttunen's post.) I had neither time nor opportunity to check  
+the bibliographical data, still the list may be useful as a starting  
+point for further research. Unfortunately, for technical reasons I  
+cannot simply attach it, so if you would like to receive it, please  
+contact me off list.
+
+Best wishes,
+Sven Sellmer
+
+************************************
+Dr. Sven Sellmer
+Adam Mickiewicz University
+Institute of Oriental Studies
+South Asia Unit
+ul. 28 czerwca 1956 r. nr 198
+61-485 Poznań
+POLAND
+sven at amu.edu.pl
+
+
+

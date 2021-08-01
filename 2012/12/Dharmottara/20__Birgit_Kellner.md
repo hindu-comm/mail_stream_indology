@@ -1,0 +1,55 @@
++++
+title = "20 Birgit Kellner"
+date = "2012-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-December/037238.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-December/037238.html)
+
+Am 04.12.2012 18:25, schrieb Adriano Aprigliano:
+> Dear colleagues,
+>
+> Does anyone know of a translation of Dharmottara's Pramanaviniscayatika into English (or French or German)?
+> best
+> Adriano Aprigliano
+>
+> Post-doc researcher
+> Universidade de São Paulo
+> São Paulo
+> Brasil
+>
+Dharmottara's work is extensive and philologically demanding, and  still 
+in parts accessible only in Tibetan translation. There is no full modern 
+translation of the PVinṬ.
+
+The database EAST (Epistemology and Argumentation in South Asia and 
+Tibet) lists currently only two partial translations, one in German and 
+one in Japanese (http://east.uni-hd.de/buddh/ind/18/46/, coverage only 
+up to 1994). More partial translations certainly exist, and are being 
+produced as we speak, on the basis of recently discovered (partial) 
+Sanskrit manuscripts - your luck basically depends on what sections of 
+the work you are interested in.
+
+With best regards,
+
+Birgit Kellner
+
+
+
+-- 
+--------
+
+Prof. Dr. Birgit Kellner
+Chair in Buddhist Studies
+Cluster of Excellence "Asia and Europe in a Global Context - Shifting 
+Asymmetries in Cultural Flows"
+University of Heidelberg
+Karl Jaspers Centre
+Vossstraße 2, Building 4400
+D-69115 Heidelberg
+Phone: +49(0)6221 - 54 4301
+Fax: +49(0)6221 - 54 4012
+http://www.asia-europe.uni-heidelberg.de/en/home.html
+
+
+

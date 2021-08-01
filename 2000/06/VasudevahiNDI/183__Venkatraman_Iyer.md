@@ -1,0 +1,28 @@
++++
+title = "183 Venkatraman Iyer"
+date = "2000-06-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-June/021671.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-June/021671.html)
+
+On June 24, 2000, D.N.Jha wrote:
+
+      >Can any one tell me if SanghadAsaGaNi's VasudevahiNDI
+      >(Jain Prakrit Text) has been translated
+
+Also:
+1. Donald A. Nelson, The Brhatkatha: a reconstruction from
+BrhatkathaslOkasmgraha, PeruGkatai and Vasudevahimdi
+PhD thesis, 1974, Univ. of Chicago.
+(Don't know where Don is).
+
+2. R. Vijayalakshmy, A study of the Perunkatai, an authentic
+version of the story of Udayana. Int. Inst. of Tamil Studies, Madras, 1981
+
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

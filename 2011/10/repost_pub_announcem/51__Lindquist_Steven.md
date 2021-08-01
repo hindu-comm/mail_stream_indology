@@ -1,0 +1,59 @@
++++
+title = "51 Lindquist, Steven"
+date = "2011-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-October/035973.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-October/035973.html)
+
+To my embarrassment, I did not realize that Anthem's page did not list the individual authors. See below for TOC.
+
+Steven
+
+STEVEN LINDQUIST, PH.D.
+DIRECTOR OF ASIAN STUDIES
+ASSISTANT PROFESSOR
+_____________
+Department of Religious Studies
+Southern Methodist University
+PO Box 750202 | Dallas | TX | 75275
+http://faculty.smu.edu/slindqui
+
+
+---
+Religion and Identity in South Asia and Beyond: Essays in Honor of Patrick Olivelle, ed. by Steven E. Lindquist, New York/London: Anthem Press, 2011.
+
+CONTENTS
+STEVEN E. LINDQUIST: Introduction: Patrick Olivelle and Indology 9
+Major Publications of Patrick Olivelle 15
+
+I. WORD, TEXT, CONTEXT
+TIMOTHY LUBIN: The Elusive Snātaka 23
+JARROD L. WHITAKER: Who Gets to Live Forever in Ancient India? Rethinking ā́yus (“life”) in the R̥gveda 41
+STEVEN E. LINDQUIST: One Yājñavalkya... Two? On the (Questionable) Historicity of a Literary Figure 69
+ROBERT A. GOODDING: A Theologian in a South Indian Kingdom: The Historical Context of the Jīvanmuktiviveka of Vidyāraṇya 83
+BRIAN BLACK: The Rhetoric of Secrecy in the Upaniṣads 101
+
+II. CUSTOM AND LAW
+ROBERT A. YELLE: Punishing Puns: Etymology as Linguistic Ideology in Hindu and British Traditions 129
+DONALD R. DAVIS, JR.: Matrilineal Adoption, Inheritance Law, and Rites for the Dead among Hindus in Medieval Kerala 147
+FEDERICO SQUARCINI: Punishing in Public: Imposing Moral Self-Dominance in Normative Sanskrit Sources 165
+
+III. BUDDHISTS AND JAINS AS SELVES AND OTHERS
+OLIVER FREIBERGER: How the Buddha Dealt with Non-Buddhists 185
+DANIEL BOUCHER: Sacrifice and Asceticism in Early Mahāyāna Buddhism 197
+LISA N. OWEN: Text and Image: Identifying Ellora’s Jain Deities 225
+
+IV. (RE)CONSIDERING GEOGRAPHICAL AND CONCEPTUAL BOUNDARIES
+DEVIN DEWEESE: Spiritual Practice and Corporate Identity in Medieval Sufi Communities of Iran, Central Asia, and India:
+The Khalvatī/‘Ishqī/Shaṭṭārī Continuum 251
+JASON BEDUHN: Digesting the Sacrifices: Ritual Internalization in Jewish, Hindu, and Manichaean Traditions 301
+MANU BHAGAVAN: The Hindutva Underground: Hindu Nationalism and the Indian National Congress in Late Colonial
+and Early Postcolonial India 321
+LAURA R. BRUECK: Marking the Boundaries of a New Literary Identity: The Assertion of ‘Dalit Consciousness’ in Dalit Literary Criticism 347
+KARLINE MCLAIN: Young Śvetaketu in America: Learning to be Hindu in the Diaspora 369
+
+List of Contributors 391
+
+
+

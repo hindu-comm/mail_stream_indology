@@ -1,0 +1,19 @@
++++
+title = "239 Rajesh Kochhar"
+date = "2000-07-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021946.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021946.html)
+
+I am looking for  exact reference to Thoreau's quotation,"A man is wise with the wisdom of his time only,and ignorant with its ignorance".I would appreciate if a knowledgable Listist  could help.
+Prof Rajesh Kochhar
+Director
+National Institute of Science, Technology and Development Studies
+Pusa Gate , K S Krishnan Marg , New Delhi 110012
+ph + 91 11  5764064 / 5743227   fax 5754640
+altenative email rkochhar2000 at yahoo.com
+web site  http://nistads.res.in
+
+
+

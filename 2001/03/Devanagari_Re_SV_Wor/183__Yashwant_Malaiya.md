@@ -1,0 +1,26 @@
++++
+title = "183 Yashwant Malaiya"
+date = "2001-03-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025727.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025727.html)
+
+I am sorry, the title of Philip McEldowney's thesis should
+have been
+
+"Colonial Administration and Social Developments in
+Middle India: The Central Provinces, 1886-1921"
+
+I had the period as 1986-1921.
+
+Also I should mention that Central Provinces has a southern
+section (Nagpur region) where Marathi was common. It is now
+part of Maharashtra. I assume that in the quote "northern province"
+refers to northern part of "Central Provinces", now part of
+MP/Chhatisgarh states.
+
+Yashwant
+
+
+

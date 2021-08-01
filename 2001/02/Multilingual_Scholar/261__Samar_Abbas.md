@@ -1,0 +1,52 @@
++++
+title = "261 Samar Abbas"
+date = "2001-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025393.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025393.html)
+
+On Wed, 14 Feb 2001, Narayan R.Joshi wrote:
+> If Urdu spread from the camp of Mahamood of Gazna from
+> Afghanistan, then why does Urdu have 80% Sanskrit related words?
+
+ Both Sanskrit and Farsi belong to the Indo-Iranian group of languages.
+Often, it is possible to trace an Urdu word to both a Sanskrit source, as
+well as a Persian source. So Aryan Hindus and Muslims both use the same
+word, Hindus being satisfied with the Sanskrit derivation, Muslims with
+the Farsi. Often, one can find a `Hindi' dictionary giving a Sanskrit
+derivation for a particular word in common use, while `Urdu' dictionaries
+give a Farsi derivation for the same word. Both communities understand the
+meaning, and continue to use it with no objection from religious leaders.
+What you found to be 80% Sanskrit can easily be transformed into 80% Farsi
+by an ordinary Farsi-Urdu scholar.
+
+> Why Urdu was promoted by Turkish kings instead of promoting their
+> own different Turkish language?
+
+ Urdu is so full of Turkic words (30-50%) that it would have been easily
+understood by Turks - `Urdu' itself is a Turkic word. They would have
+treated it as their own language. However, they did not `lose' their own
+Turkic tongues. Babur wrote his memoirs in Chagatai Turkic. This is
+analagous to some German communities in America.
+
+> To expand Urdu/Hindi market is the constructive activity. However it
+> seems to me we lack this kind of constructive thinking. In Marathi,
+> there is proverb-"TulA nako, malA nako, ghAl kutrAlA". It means-I do
+> not want to eat. I will not allow you to eat. Let us throw it to the
+> dog. Are not we people from the Indian heritage doing exactly the same
+> in arguing about Urdu,Hindi and Sanskrit?May Allah change our attitude
+> and let us hope Urdu will spread all over the middle east from Lebanon
+> to Afghanistan!Amen! N.R.Joshi
+
+ Agreed, that this kind of bickering perhaps does not benefit either side.
+Perhaps, some kind of agreement may be reached: Hindus accept Urdu is
+derived from Persian in Afghanistan and that Urdu was historically the
+link language across North India, in exchange, Muslims learn Sanskrit
+and assure its propagation. In that case, may Sanskrit spread across to
+Afghanistsan as well.
+
+Samar
+
+
+

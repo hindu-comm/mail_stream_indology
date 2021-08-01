@@ -1,0 +1,347 @@
++++
+title = "58 Nagaraj Paturi"
+date = "2016-11-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-November/044535.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-November/044535.html)
+
+> What shifts  from the early to the later period is that in the early
+*mantra* period worshiping a deity was motivated by desire for outcomes—a
+practice that is consequentialist as consequentialism is the view that
+right procedure is justified by a good outcome.
+
+------ Do you have the pūrvamīmāmsā in mind when you say "worshiping a
+deity was motivated by desire for outcomes" , or do you have internal
+evidences within the early mantra texts for this observation of yours?
+
+Mantras by themselves are stutis and we have both desire-expressing and
+non-desire-expressing stutis. To view all  stuti as an indirect instruction
+to perform (ritual) with a desire for result is the pūrvamīmāmsā way of
+looking at the mantras. To view the same mantras/stutis as instructing (the
+practices for) mōkṣa (e.g. Br.U.--> aśvamēdha mantras are instructions to
+do tapas) and as descriptions of Brahman is the uttaramīmāmsā (vēdānta)
+way. Both the ways have their foundations in the
+non-upanishadic brāhmaṇa-āraṇyaka texts and upanishadic
+brāhmaṇa-āraṇyaka texts respectively.
+
+Leaving aside these two ways of *viewing, *the stuti aspect itself of the
+mantras can be seen to have continuity into the stutis/stōtras/sankīrtanas with
+bhakti label.These stutis/stōtras/sankīrtanas with bhakti label too have
+desire-expressing and non-desire-expressing tones and expressions. The
+cultural complex of which these stutis/stōtras/sankīrtanas with bhakti
+label make part, has the temple rituals and domestic pūjā rituals as part
+of it.Temple rituals and domestic pūjā rituals can be seen to have
+continuity from the yajna rituals, just as stutis/stōtras/sankīrtanas with
+bhakti label have their continuity from the stutis of the Veda mantras.To
+perform such rituals with a desire for result is also a part of that
+cultural complex. But to view all these texts and rituals as meaning and
+meant  for moksha is what is called as Bhakti Vedanta. This view has its
+continuity from uttaramīmāmsā (vēdānta) way of looking at the Veda
+mantras.To view the stutis/stōtras/sankīrtanas with bhakti label as meant
+for temple rituals and domestic pūjā rituals with a desire for result has
+its continuity from the pūrvamīmāmsā way of looking at the Veda mantras.
+
+Thus from both the pūrvamīmāmsā type and uttaramīmāmsā (vēdānta) type
+perspectives, stutis/stōtras/sankīrtanas with bhakti label have a contiuity
+from the stutis of the Vedas. This is what makes the stutis of the Vedas to
+get viewed as the older form of or prototype of bhakti .
+
+
+
+
+
+
+On Fri, Nov 4, 2016 at 8:06 PM, Shyam Ranganathan <shyamr at yorku.ca> wrote:
+
+> Dear Patrick ,
+>
+> When I was a grad student in Joseph O'Connell's class on Bhakti in the
+> 90s, he started the class with a review of some portions of the Mantra
+> section of the Vedas, as a backdrop to later developments in Tamil (āḻvārs
+> etc.,) and further developments in Bhakti Vedanta---including Gaudiya
+> Vaishnavism.
+>
+> A theme he emphasized is that the idea of bhakti, or binding oneself to a
+> deity, is pretty old in the Vedic tradition as the Mantras often express
+> sentiments of loyalty and fidelity to the deity that is invoked.
+>
+> What serves to bring the continuity of this theme to the fore is to follow
+> the development of Yoga, which is pretty much the same as Bhakti, as a
+> philosophical movement.
+>
+> The early mention of yoga of course is in the *Kaṭha * *Upaniṣad* where
+> Yama describes success in Yoga as taking one to Viṣṇu’s realm. Later, this
+> idea of approximating the Lord becomes central to Yoga in Patañjali’s *Yoga
+> Sūtra*  as *Īśvara* praṇidhāna. Ramanuja carries on this theme by
+> identifying bhakti as a kind of *jñāna* but further a kind of *upāsana*,
+> which evokes images of meditation but also offerings to sacrificial fires.
+> This serves to highlight a continuity of a theme stretching back to the
+> early Vedas of the approximation of a deity via Vedic themes of sacrifice.
+>
+> What shifts  from the early to the later period is that in the early
+> *mantra* period worshiping a deity was motivated by desire for outcomes—a
+> practice that is consequentialist as consequentialism is the view that
+> right procedure is justified by a good outcome. What happens by the time of
+> the *Upaniṣad*s is that consequentialism starts to be viewed with
+> suspicion because, as Yama himself describes in the *Kaṭha Upaniṣad*,
+> those who are geared towards outcomes do not take control of their life and
+> this results in ruin. So what we see happening is a switch to a radical
+> procedural ethics, that treats practice as defined by a regulative ideal,
+> the Lord, and the worship or approximation of this ideal as resulting in
+> the good. It is superficially like consequentialism but it is contrary.
+> This radical proceeduralism is Yoga, or Bhakti. The main difference is that
+> Yoga or Bhakti is a causal story of how the right brings about the good and
+> is the opposite of Virtue Ethics that claims that the good character brings
+> about the right action. Bhakti/Yoga rather claims that the right practice
+> is defined by the ideal of the right (the Lord) and perfecting this
+> practice is the good.  Consequentialism in contrast is an account not of
+> moral causation but justification.
+>
+> So while the ideas that the bhakti tradition rely upon are ancient, and
+> not implausibly described as Vedic, it is true that there is a radical
+> shift that characterizes the latter part of the Vedic tradition starting
+> with the *Upaniṣad*s. We see this transition from consequentialism to a
+> radical proceeduralism of bhakti as a theme of the *Gītā* , for instance.
+> I think it also explains why Brahman as development comes to occupy a
+> central place in later Vedic thought.
+>
+> If you are interested in this, I’ve written a bit about it:
+>
+> Ranganathan, S. (forthcoming) 2017. *Vedas and Upani**ṣads*. In * Volume
+> 1: The History of Evil in Antiquity (2000BCE-450CE).* Edited by Tom
+> Angier. Of *History of Evil  *edited by C. Taliaferro and C. Meister.
+> London: Routledge.
+>
+> For a wider survey of this tradition, please see
+>
+> Ranganathan, Shyam. 2017. 'Three Vedāntas: Three Accounts of Character,
+> Freedom and Responsibility.' In *The Bloomsbury Research Handbook of
+> Indian Ethics *edited by Shyam Ranganathan, 249-274. Of *Bloomsbury
+> Research Handbooks in Asian Philosophy, *edited by Chakravarthi
+> Ram-Prasad and Sor-hoon Tan. London: Bloomsbury Academic.
+>
+> If you are interested in how Bhakti/Yoga is a different moral theory from
+> Consequentialism, Deontology and Virtue Ethics, please see:
+>
+> Ranganathan, Shyam. 2017. 'Patañjali’s Yoga: Universal Ethics as the
+> Formal Cause of Autonomy.' In *The Bloomsbury Research Handbook of Indian
+> Ethics *edited by Shyam Ranganathan, 177-202 Of *Bloomsbury Research
+> Handbooks in Asian Philosophy, *edited by Chakravarthi Ram-Prasad and
+> Sor-hoon Tan. London: Bloomsbury Academic.
+>
+> The latter two should be out in a couple of weeks.
+>
+> Best wishes,
+>
+> Shyam
+>
+>
+>
+> Shyam Ranganathan
+>
+> Department of Philosophy,
+>
+> South Asian Studies, Department of Social Sciences
+>
+> York University Toronto
+>
+>
+>
+>
+> On 04/11/2016 7:03 AM, Howard Resnick wrote:
+>
+> Nagaraj has stated the ‘insider’s point of view’ very well. I will add
+> that the Bhagavad-gita often mentions bhakti, bhakti-yoga, bhakta etc, and
+> the Gita is one of three standard members of the ‘Vedanta apparatus.’
+> Best,
+> Howard
+>
+> On Nov 4, 2016, at 2:43 AM, Nagaraj Paturi <nagarajpaturi at gmail.com>
+> wrote:
+>
+> Dear Patrick,
+>
+> I went to the website you directed us to.
+>
+> It is an ISKCON activity.
+>
+> It is well known that ISKCON is based on Goudiya Vaishnava Vedanta which
+> is one of the Bhakti (centred) schools of Vedanta.
+>
+> What they are saying here is that GEV is based on their philosophy. Their
+> philosophy is a school of Vedanta and Vedanta is Vedic. So GEV is based on
+> Vedic Bhakti Vedanta is not wrong. The word Bhakti Yoga is used here in
+> that sense. So I don't see anything wrong in the word Vedic here.
+>
+> The word 'Vedic' is not always used in the sense of ' as in Vedas'. The
+> word is quite often used in the sense of 'belonging to the lineage of the
+> cultural/textual complex of which the Vedas are (of course, vital)
+> part. From the insider's point of view , Vaidika is Veda- aviruddha,
+> Veda-anuroopa, Veda-anusaari etc. not necessarily Vedochcharita/Vedas'ruta.
+>
+> It probably would be an interesting study to survey how far the pull for
+> such cults among people is based on their claims to be Vedic.
+>
+> For something which is already 'Hindu' , the claim of Vedic, I guess, does
+> not add any new value.
+>
+> For that matter , it is intriguing to see that pamphlets are distributed
+> in India, (at least here in the Telugu region) claiming that Jesus is in
+> the Vedas. 'Mohammed in the Vedas' is also one of the internet-popular
+> themes.  It is interesting to study the motives behind such claims.
+>
+> On Fri, Nov 4, 2016 at 7:39 AM, patrick mccartney <psdmccartney at gmail.com>
+> wrote:
+>
+>> Dear Friends,
+>>
+>> Is this the first mention of the term 'bhakti' ?
+>>
+>> yasya deve parā *bhaktir* yathā deve tathā gurau /
+>> tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ prakāśante mahātmanaḥ //
+>> SvetUp_6.23 //
+>>
+>>
+>>  I ask this question as I'm trying to understand the following
+>> statement:
+>>
+>> *GEV is based on the sacred Vedic principles of bhakti-yoga. *
+>> http://www.ecovillage.org.in/our-projects#_VEC
+>>
+>> While 'bhakti' is mentioned at least in the above upanishad, I thought
+>> 'bhakti yoga' was quite clearly a post-vedic development, and that the
+>> bhakti movement developed from the 6th century CE. To the devotee this
+>> statement might seem unproblematic, but to the scholar it appears to
+>> conceptually and temporally conflate disparate things.
+>>
+>> As I am certainly not an expert on bhakti I would appreciate
+>> clarification.
+>>
+>> I am interested in how organisations operationalise the 'vedic' sign in
+>> their marketing and promotional material to generate 'authenticity' and
+>> legitimacy.
+>>
+>>
+>>
+>> All the best,
+>>
+>> Patrick McCartney, PhD
+>> Fellow
+>> School of Culture, History & Language
+>> College of the Asia-Pacific
+>> The Australian National University
+>> Canberra, Australia, 0200
+>>
+>>
+>> Skype - psdmccartney
+>> Phone + Whatsapp:  +61 414 954 748
+>> Twitter - @psdmccartney
+>>
+>>
+>> academia <https://anu-au.academia.edu/patrickmccartney>
+>>
+>>    -
+>>
+>> Linkedin
+>> <https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile>
+>>
+>> Edanz
+>> <https://www.edanzediting.com/expert/anthropology/patrick-mccartney>
+>>
+>> #yogabodyANU2016 symposium <https://www.youtube.com/watch?v=X80KxW2bb0w>
+>> <http://chl.anu.edu.au/news-events/events/658/yoga-and-body-past-and-present-symposium?#tab>
+>>
+>> Ep1 - Imagining Sanskrit Land <https://youtu.be/jMi7tkPBbJ4>
+>>
+>> Ep 2 - Total-am <https://youtu.be/7tAp8m9RHPU>
+>>
+>> Ep 3 - Jalam ≠ Chillum <https://youtu.be/cLZeuCT_mwQ>
+>>
+>> Ep 4 - It's Time to get Married
+>> <https://www.youtube.com/watch?v=_B3un7aHEAc>
+>>
+>> A Day in our Ashram
+>> <https://www.youtube.com/results?search_query=ek+din+hamaare+ashram+mein>
+>>
+>> Stop animation short film of Shakuntala
+>> <https://www.youtube.com/watch?v=LVqBD_2P4Pg>
+>>
+>> Forced to Clean Human Waste <http://youtu.be/y3XfjbwqC_g>
+>>
+>> One of my favourite song
+>> <http://trinityroots.bandcamp.com/track/all-we-be>s
+>>
+>> The Philosophy of Cycling
+>> <http://elibrary.com.ng/UploadFiles/file0_2221.pdf>
+>>
+>>
+>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+>
+> --
+> Nagaraj Paturi
+>
+> Hyderabad, Telangana, INDIA.
+>
+> Former Senior Professor of Cultural Studies
+>
+> FLAME School of Communication and FLAME School of  Liberal Education,
+>
+> (Pune, Maharashtra, INDIA )
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing listINDOLOGY at list.indology.infoindology-owner@list.indology.info (messages to the list's managing committee)http://listinfo.indology.info (where you can change your list options or unsubscribe)
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+
+-- 
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+Former Senior Professor of Cultural Studies
+
+FLAME School of Communication and FLAME School of  Liberal Education,
+
+(Pune, Maharashtra, INDIA )
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161107/59e60042/attachment.htm>

@@ -1,0 +1,32 @@
++++
+title = "330 Dominik Wujastyk"
+date = "2001-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025134.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025134.html)
+
+The MLBD Newsletter for Jan 2001 contains the following amusing and
+extraordinary report:
+
+--
+Vedic Sculpture in Ancient Italy
+
+The National Archaeological Museum in Naples is to open its "secret
+collection" of frescoes, mosaics and statues to the public next month.
+The 250 exhibits depict sexual activity involving gods and goddesses,
+satyrs, nymphs, and pygmies. ...
+--
+
+
+The presuppositions and misunderstandings in this report and its title are
+so profound that one is left in stunned speechlessness.
+
+(This is not meant as a criticism of the Newsletter as a whole, which is
+obviously a useful publication.)
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

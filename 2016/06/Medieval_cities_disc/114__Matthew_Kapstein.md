@@ -1,0 +1,25 @@
++++
+title = "114 Matthew Kapstein"
+date = "2016-06-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-June/043468.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-June/043468.html)
+
+Very interesting indeed. But "largest 12th century empire"? Are they forgetting Song China
+and the Abbasid Caliphate? And what of the Cholas?  I imagine that the superlatives are
+intended for consumption by journalists and funding agencies. In all events, this is wonderful
+research and it will be good, one day, to see it placed more fully into the larger South and East Asian contexts
+of the period. 
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+___________
+
+
+

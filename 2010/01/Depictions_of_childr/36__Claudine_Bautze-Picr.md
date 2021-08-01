@@ -1,0 +1,64 @@
++++
+title = "36 Claudine Bautze-Picron"
+date = "2010-01-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033911.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033911.html)
+
+Dear Colleague,
+
+
+
+
+
+The following references could be of interest to you:
+
+
+
+1) Vincent Lefèvre, "L'enfant-modèle dans la sculpture d'Inde du Sud, des Pallava à Vijayanagar", in: Les âges de la vie dans le monde indien, Actes des journées d’étude de Lyon (22-23 juin 2000) édités par Christine Chojnacki, Paris: Diffusion De Boccard, 2001, pp. 217-231. (Lyon: Centre d’Études et de Recherches sur l’Occident Romain de l’Université Lyon 3, Collection du Centre d’Études et de Recherches sur l’Occident Romain, Nouvelle série n° 24). (+ some more papers on childhood).
+
+
+
+2) Édith Parlier, "L’image de l’enfant dans l’iconographie bouddhique de l’Inde", in : Enfances, éd. Flora Blanchon, Asie n°4, 1996, p.9-40. And see http://www.creops.paris4.sorbonne.fr/publications_fiche.php?id=5 for the contents of this volume.
+
+
+
+
+
+Best,
+
+Claudine Bautze-Picron
+
+
+
+-----Original Message-----
+From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Dominik Wujastyk
+Sent: Samstag, 23. Januar 2010 18:50
+To: INDOLOGY at liverpool.ac.uk
+Subject: Depictions of children in pre-modern Indian art
+
+
+
+Dear Colleagues,
+
+
+
+Can you point me to a scholarly discussion of this topic?  What are the
+
+earliest depictions of children in S. Asian art?  What deductions can be
+
+made about the idea of the child from any such images?  What I'm thinking
+
+about is the S. A. evidence that might inform a discussion of the "invention
+
+of childhood".
+
+
+
+Best,
+
+Dominik
+
+
+

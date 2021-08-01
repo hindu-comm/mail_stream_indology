@@ -1,0 +1,57 @@
++++
+title = "228 rohan.oberoi at CORNELL.EDU"
+date = "2001-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025388.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025388.html)
+
+On Vidyasankar's remarks:
+
+I'm not sure how the language Tilak published in proves his politics
+one way or another, so I'll leave Vidyasankar to explain that in a
+little more detail before saying anything about that.  Regarding
+Indira Gandhi, his comments are cryptic and a little simplistic.  My
+point was not that she was a member of the RSS but that she
+appropriated and used many of the key political strategies of the
+Sangh.  I recall reading a quote from Advani from the early 80s
+specifically talking about how the BJP shed its moderate late-70s
+Janata Party image and moved to the right partly out of frustration at
+being outflanked by her in this way.  I'd be happy to have a more
+in-depth discussion about this if any intelligent points can be made,
+but I'm not interested in commenting on bizarre non sequiturs like:
+
+>Surely, India has to be the only democratic country on this earth
+>where it is a crime for a politician like Indira to acknowledge the
+>culture of the majority of its people.
+
+I will say that this is the (disingenuous and obviously false)
+cry of wounded majoritarianism against democratic liberalism
+everywhere, and does not appear to be in response to anything I said.
+
+On Rajarshi's remarks:
+
+Since Rajarshi doesn't appear to have enough basic background
+information to distinguish between the Sikh extremists whom Indira
+supported from the moderate Akali politicians whom she did her best to
+discredit as anti-national, I don't think there's any point in taking
+her remarks any farther.
+
+On Arun Gupta's remarks:
+
+It is probably enough to point out here that Bhindranwale _was_ by
+sober criteria "anti-national" (at least from an Indian
+statist/nationalist viewpoint) and "separatist", and it would
+therefore be futile for anyone, Indira Gandhi included, to try to
+paint him as such.  The people she did try to paint as such in Punjab
+were the moderate Akali political parties, who were obviously not.
+
+I will note that Arun could probably have figured this out for himself
+if he were interested in a constructive discussion and not in
+constructing petty polemics.
+
+Regards,
+Rohan.
+
+
+

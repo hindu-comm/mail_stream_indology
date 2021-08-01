@@ -1,0 +1,43 @@
++++
+title = "28 Dominik Wujastyk"
+date = "2013-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037680.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-April/037680.html)
+
+Dear colleagues,
+
+I've been slowly
+​and informally ​
+collecting digital copies MS catalogues of Skt and Pkt MSS.
+
+See
+
+   - http://homepage.univie.ac.at/dominik.wujastyk/
+
+​In the near future, I'll add a link to this collection from somewhere on
+http://www.indology.info.
+
+Best,
+Dominik
+
+--
+Dr Dominik Wujastyk
+Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
+,
+University of Vienna,
+Spitalgasse 2-4, Courtyard 2, Entrance 2.1
+1090 Vienna, Austria
+and
+Adjunct Professor,
+Division of Health and Humanities,
+St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
+Project <http://www.istb.univie.ac.at/caraka/> | home
+page<http://www.academia.edu/DominikWujastyk>|
+HSSA <http://hssa.sayahna.org> | PGP <http://wujastyk.net/pgp.html>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130403/027d5adf/attachment.htm>

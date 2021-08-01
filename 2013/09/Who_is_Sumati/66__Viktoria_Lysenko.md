@@ -1,0 +1,23 @@
++++
+title = "66 Viktoria Lysenko"
+date = "2013-09-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038349.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-September/038349.html)
+
+Dear scholars of jaina epistemology and related subjects,
+Could you help me in getting some information about the Jain philosopher Sumati who was mentioned by Shantarakshita and Kamalashila in the Tattva-sanghra-Panjika and who is also known as an opponent of Kumarila. I am preparing for publication my Russian translation of the Pratyaksha-pariccheda and I need at least the titles of his works, his dates or whatever information is avilable.
+With best regards,
+Victoria
+-- 
+Victoria Lysenko, dr.hab.philos.
+Head, Department for Oriental philosophy studies
+Institute of Philosophy, Russian Academy of Sciences
+Moscow, Volkhonka, 14
+Professor, Russian State University for Humanities
+Russia
+
+
+
+

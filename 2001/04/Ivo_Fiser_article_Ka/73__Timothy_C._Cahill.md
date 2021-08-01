@@ -1,0 +1,26 @@
++++
+title = "73 Timothy C. Cahill"
+date = "2001-04-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026018.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026018.html)
+
+Indologists (and others),
+
+   Ivo Fiser, the author of *Indian erotics of the oldest period* (Praha:
+1966), contributed an article on the text history of the Kamasutra to a
+European journal (WZKS) sometime between 1991-1996 if memory serves.  I'd
+appreciate the full reference if anyone has it.
+
+best,
+Tim Cahill
+
+Assistant Professor
+Religious Studies Dept.
+Loyola University
+New Orleans, LA  70118
+ph. (504) 865-3183
+
+
+

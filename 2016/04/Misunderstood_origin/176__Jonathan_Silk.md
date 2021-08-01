@@ -1,0 +1,69 @@
++++
+title = "176 Jonathan Silk"
+date = "2016-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043006.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043006.html)
+
+Well, Dominik, yes, it *is* more stable, though perhaps no more 'real' than
+--not 'the author's recension' --the paper posted to a non-stable URL
+without DOI that could as easily disappear tomorrow. As long as we still
+have printed books (which thank heaven I guess will stay around at least
+during my lifetime, however much of that is left), the presumption is that
+a reader interested in tracking the reference should be able to see exactly
+what the citer saw. With ephemeral web materials that is simply not true --
+as you of course know very very well, so I presume that you might have been
+'trolling' a bit to start a discussion? ;)
+jonathan
+
+On Mon, Apr 11, 2016 at 5:56 AM, Dominik Wujastyk <wujastyk at gmail.com>
+wrote:
+
+> This raises an interesting point about the nature of citation.  In the
+> case of this paper, the preprint or typescript or whatever it is, the
+> author's recension (like a "director's cut"), is much more easily available
+> than the printed book version.  It's right there on the internet at
+> unil.ch and also amongst Bronkhorst's papers at academia.edu
+> <https://www.academia.edu/19790273/Misunderstood_origins_how_Buddhism_fooled_modern_scholarship_-_and_itself>,
+> just the click of a mouse away.  So I think there is a good argument for
+> citing these recensions of the paper rather than the book.  And this is
+> especially the case if the author's recension is what you've actually been
+> reading.  One should of course cite this like a web page, with URL and date
+> of consultation.
+>
+> The quest for a page number in an inaccessible printed book is based on an
+> idea that the book is more real, in some sense, more valid or stable than
+> the author's recension.  But I think that belief can probably be challenged
+> quite strongly.
+>
+> Best,
+> Dominik Wujastyk
+> ​
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+http://www.buddhismandsocialjustice.com/silk_publications.html
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160411/9ad482a1/attachment.htm>

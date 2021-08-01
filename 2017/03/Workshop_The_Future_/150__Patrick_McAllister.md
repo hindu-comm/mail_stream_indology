@@ -1,0 +1,43 @@
++++
+title = "150 Patrick McAllister"
+date = "2017-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-March/045449.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-March/045449.html)
+
+Dear colleagues,
+
+I would like to draw your attention to “The Future of Digital Texts in
+South Asian Studies / A SARIT Workshop”, to be held from the 22 to the
+24 of May, 2017, in Vienna at the Austrian Academy of Science’s
+Institute for the Cultural and Intellectual History of Asia (IKGA).
+
+The workshop aims to explore the current state of digital texts in the
+field of Indology, with a particular focus on historical studies,
+critical editing, and computational linguistics.
+
+The current program of the workshop and further information about it
+can be found at http://www.ikga.oeaw.ac.at/Events/SARIT_Workshop_2017.
+
+Please feel free to forward this announcement also to other interested
+parties (colleagues, students, your departments, ...).
+
+With apologies for cross-posting,
+
+--
+Patrick McAllister
+
+Email: patrick.mcallister at oeaw.ac.at
+Phone: + 43 1 51581 6423
+
+Institute for the Cultural and Intellectual History of Asia (IKGA)
+Austrian Academy of Sciences
+Hollandstraße 11-13, 2nd floor
+1020 Vienna, Austria
+
+http://www.ikga.oeaw.ac.at/
+
+
+
+

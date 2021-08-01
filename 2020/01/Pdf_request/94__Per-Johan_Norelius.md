@@ -1,0 +1,30 @@
++++
+title = "94 Per-Johan Norelius"
+date = "2020-01-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-January/051632.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-January/051632.html)
+
+Dear list members,
+
+Would anyone happen to have a pdf of the following dissertation:
+
+Hyla Stuntz Converse, "The historical significance of the first occurrence
+of the doctrine of transmigration in the early Upanishads" (Columbia
+University, 1971).
+
+Thanks,
+Per-Johan Norelius
+
+
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+Virusfritt.
+www.avast.com
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+<#m_8732549285716442756_m_7764111988159768878_m_-4695095310536895228_m_6686345302422307038_m_-456919430782285496_m_-677402816080445623_m_-8163487808272738045_m_-3179390136287666888_m_4573010635683500242_m_4870538714950905645_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200122/9b876196/attachment.htm>

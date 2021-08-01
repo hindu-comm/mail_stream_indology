@@ -1,0 +1,27 @@
++++
+title = "86 Jonathan Silk"
+date = "2009-06-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-June/033362.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-June/033362.html)
+
+Friends, an Arabist colleague writes to me as follows:
+
+I'm writing an encyclopaedia article about a Nubian tribe known as Barabra
+which lived along the Nile river in southern Egypt and the Sudan. Now I came
+across a reference that "Sanskrit historians write already about the Old
+Race of the Barabra living along the Upper Nile." Do you have any idea where
+I could find out what and when and who?
+
+I don't have any idea, but can anyone help?
+
+-- 
+J. Silk
+Instituut Kern / Universiteit Leiden
+Postbus 9515
+2300 RA Leiden
+Netherlands
+
+
+

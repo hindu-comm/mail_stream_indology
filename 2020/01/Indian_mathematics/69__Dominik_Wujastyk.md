@@ -1,0 +1,34 @@
++++
+title = "69 Dominik Wujastyk"
+date = "2020-01-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-January/051540.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-January/051540.html)
+
+For a reader such as you mention, it's hard to beat Kim Plofker's *Mathematics
+in India
+<https://press.princeton.edu/books/hardcover/9780691120676/mathematics-in-india>.*
+
+
+--
+Professor Dominik Wujastyk
+<https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200103/98479a09/attachment.htm>

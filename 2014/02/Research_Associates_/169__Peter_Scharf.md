@@ -1,0 +1,37 @@
++++
+title = "169 Peter Scharf"
+date = "2014-02-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/039084.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/039084.html)
+
+Dear Colleagues,
+	Please bring the following announcement to the attention of qualified applicants and repost on relevant lists.
+	Thank you.
+	Yours,
+	Peter Scharf
+
+Research Associates sought
+
+The Sanskrit Library seeks two post-doctoral research associates for two years, from 1 July 2014 to 30 June 2016, to assist in manuscript cataloguing and automated text-image alignment. The Sanskrit Library is a non-profit digital library making the heritage texts of India accessible on the web. The projects are funded by grants from the U.S. National Endowment for the Humanities. The assistant will be responsible for formatting manuscript data in an XML template based upon the manuscript guidelines of the Text-Encoding Initiative, and for assembling OCR training data and validating automated transcription in interfaces produced in the project. Each position carries a stipend of $1,500 per month.
+
+For full details and to apply please open the following link:
+
+Sanskrit Library assistant announcement
+
+All applications filed by 27 March 2014 will be granted full consideration.
+
+********************************
+Peter M. Scharf, President
+The Sanskrit Library
+scharf at sanskritlibrary.org
+http://www.sanskritlibrary.org
+********************************
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140228/b2b6a892/attachment.htm>

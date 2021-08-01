@@ -1,0 +1,36 @@
++++
+title = "77 Stephen Hodge"
+date = "2008-11-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-November/032247.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-November/032247.html)
+
+Dear George,
+
+The betel chewing part of this thread is of interest to me.  A Buddhist 
+sutra I have been working on for many years, which is datable to c90CE (+/- 
+a couple of decades either way) and originates in Andhradesha, gives a 
+lengthy compendium of forbidden items in which dissolute monks of the age 
+indulged.  One section of this list gives all the ingredients for paan 
+chewing: "betel leaves, herbal oil, powdered lime, cardamon and areca-nuts". 
+Another shorter list just mentions "betel mixtures".  So the custom is 
+attested in literature long before 400CE.
+
+Best wishes,
+Stephen Hodge
+
+
+----- Original Message ----- 
+From: "George Hart" <glhart at BERKELEY.EDU>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Monday, November 24, 2008 9:16 PM
+Subject: Re: two queries
+
+
+I learned that the earliest reference to betel chewing is in the
+Cilappatikaram (about 400 CE?).  Don't know if that is accurate.
+George Hart
+
+
+

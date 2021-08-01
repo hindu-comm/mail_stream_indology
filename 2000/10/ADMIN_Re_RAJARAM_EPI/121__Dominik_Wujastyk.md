@@ -1,0 +1,36 @@
++++
+title = "121 Dominik Wujastyk"
+date = "2000-10-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023008.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023008.html)
+
+Okay, everyone.  I think we're drifting off into silliness again on this
+thread.
+
+Please could you make a strong effort to stick to well-defined indological
+topics, and not to engage in long meandering assults on other-people's
+styles of discourse or communal affiliations.
+
+If it is of any help, I find that NOT using the "quote message" facility
+when replying to email can substantially raise the quality and
+intelligibility of what one writes.
+
+By contrast, interspersing quoted lines
+        "> blah blah"
+with one's responses
+        "You said blah blah, but that's because you're a twit"
+can lead to a self-indulgent, argumentative nit-picking style.  It just
+seems to encourage one to take issue with every little thing that the
+other person has typed, rather than actually taking a moment to THINK.
+(Dare I suggest we could all think more and write less?)
+
+Thank you.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

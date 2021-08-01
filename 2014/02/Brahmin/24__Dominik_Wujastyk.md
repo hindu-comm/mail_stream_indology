@@ -1,0 +1,29 @@
++++
+title = "24 Dominik Wujastyk"
+date = "2014-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/039060.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/039060.html)
+
+*The OED:Forms:*  ME–16 *bragman*, 15 *bramane*, 16–18 *brachman(e*,
+*brachmin*, 16 *brackman*, *braman*, *bramen*, *bramine*, *braminy*, 17–18
+*bramin*, 17– *brahmin*, 18 *brahman*.
+
+*Etymology:*  < Sanskrit *brāhmana*, < *brahman* praise, worship; some of
+the older English forms were derived from or influenced by the Greek
+spelling *βραχμᾶνες* (plural), Latin *brachmāni*, *brachmānes*, and
+medieval Latin corruptions; the form *Brahmin*, a corruption of the Indian
+vernacular pronunciation, is still all but universal in popular use; during
+the 19th cent. Orientalists adopted the more correct *Brahman*, which
+(often written *Brâhman* or *Bráhman*) is employed by most writers on India.
+
+
+
+--
+Dr Dominik Wujastyk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140223/6f189883/attachment.htm>

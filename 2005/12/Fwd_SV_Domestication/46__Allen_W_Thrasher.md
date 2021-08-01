@@ -1,0 +1,93 @@
++++
+title = "46 Allen W Thrasher"
+date = "2005-12-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-December/029529.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-December/029529.html)
+
+Lars Martin sent this to me, confirming and elaborating on my vague memories of Porus et al.
+
+Allen
+
+>>> "Lars Martin Fosse" <lmfosse at online.no> 12/27/05 1:24 PM >>>
+Allen,
+
+The following message was rejected by Indology for technical reasons. You
+may repost it on my behalf if you like!
+
+Lars Martin
+
+************************
+
+I am away from my library, but I seem to remember the following:
+
+Seleukos made a treaty with Candragupta to the effect that Seleukos should
+withdraw from a certain amount of Indian territory, but receive some 500 war
+elephants in return. Indian war elephants were very popular in the Middle
+East, and such elephants managed by Indian mahouts are also mentioned in the
+first book of Maccabees. Kings that did not have access to Indian elephants
+tried to fill the "elephant gap" by means of African elephants. However, the
+Romans found out how to handle elephants in the field (just as they were
+able to handle chariots), and the strategic advantage to fielding war
+elephants was eventually vastly reduced. Judging by the description in the
+Arthashastra, the elephants also functioned as bulldozers and pathmakers in
+the jungle. 
+
+Incidentally, Porus' army did contain elephants. But the Greeks, like the
+Romans later, knew how to handle them.
+
+Lars Martin Fosse
+
+Lars Martin Fosse
+lmfosse at online.no 
+
+
+-----Opprinnelig melding-----
+Fra: Indology [mailto:INDOLOGY at liverpool.ac.uk] På vegne av Allen W Thrasher
+Sendt: 27. desember 2005 17:12
+Til: INDOLOGY at liverpool.ac.uk 
+Emne: Re: Domestication of elephant
+
+
+Might the Harappan "feeding trough" indicate at least that the animals were
+captured though not tamed?  Is there anything to indicate a stockade around
+them?
+
+Didn't Chandragupta make a gift of elephants to Seleucus?  I think I
+remember that Porus's army against Alexander a generation earlier contained
+elephants, but am not sure.  It should be easy to check out.
+
+Allen Thrasher
+
+>>> yavass at MAIL.RU 12/27/05 7:12 AM >>>
+Dear Valerie,
+as far as I know the earliest artistic *representation* of the domesticated
+elephant (a chakravartin's elephant)is on the Indian "rattle-mirror" 
+from a royal burial of Scythian Pazyryk archeological culture in the Altai
+mountains. The mirror is of pre-Mauryan date, approximately 
+Vth or IVth century BC.
+Harappan representations of elephants with a "feeding trough" in front of
+the animal's trunk can not be seen as an evidence for domestication 
+because the trough is usually represented in the same way in front of
+tigers, rhynoceroses and other wild animals.
+
+Yaroslav Vassilkov   
+
+-----Original Message-----
+From: Valerie J Roebuck <vjroebuck at MACUNLIMITED.NET>
+To: INDOLOGY at liverpool.ac.uk 
+Date: Mon, 26 Dec 2005 19:46:21 +0000
+Subject: Domestication of elephant
+
+> 
+> A friend has asked me the following question: when was the elephant 
+> first domesticated in India?  I was sure that someone on this list 
+> must know something...
+> 
+> Valerie J Roebuck
+> Manchester, UK
+> 
+
+
+

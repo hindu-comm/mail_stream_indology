@@ -1,0 +1,31 @@
++++
+title = "23 Srinivasa Varakhedi"
+date = "2008-09-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-September/032062.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-September/032062.html)
+
+Dear list members,
+
+I would like to draw your kind attention to the recent edition of Kasika - a commentary on Ashtadhyayi of Panini by Jayaditya & Vamana published by the Sanskrit Academy, Hyd. This edition is a reprint of old edition of the same work in two volumes. Now it is added with index in two separate volumes. This edition includes two earlier volumes in one volume, which runs about 1000 pages. The speciality of this edition is that all recension's of Kasika that are found in different edition in whole India are presented with comparison. This useful for students and scholars of Paninian Grammar. Interested may contact the Director, Sanskrit Academy, Osmania University, Hyd. 
+
+Title : Kasika of Jyayaditya & Vamana
+Price: Rs. 1000/- (Indian Price) 
+Concession : 15%
+Postage : Extra.
+
+Email : sanskritacademyhyd at gmail.com 
+
+Many other books are also available in 50% discount (only for clear the stock). Descriptive catalogue of published may be requested from the Director.
+
+with regards,
+shrivara
+
+
+
+
+      Get an email ID as yourname at ymail.com or yourname at rocketmail.com. Click here http://in.promos.yahoo.com/address
+
+
+

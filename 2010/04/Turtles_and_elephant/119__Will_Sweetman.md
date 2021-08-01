@@ -1,0 +1,20 @@
++++
+title = "119 Will Sweetman"
+date = "2010-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-April/034242.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-April/034242.html)
+
+Dear Jan,
+
+I can't identify any Indian textual authority, but some time ago I became interested in how Locke came up with this image. Halbfass (India and Europe, p.62) mentions an article by Henrich (Henrich, Dieter. 1963. ‘Die ‘wahrhafte Schildkröte’.’ Hegel-Studien 2: 281-91) which discusses Locke's (and Hegel's) use of the image but doesn't go any further back than Locke. Following an article by Charpentier (Charpentier, J. 1924. 'A Treatise on Hindu Cosmography from the Seventeenth Century (Brit. Mus. MS. Sloane 2748 A).' Bulletin of the School of Oriental Studies, University of London 3(2): 317-342.) I think it likely that Locke got the image from Samuel Purchas. In Purchas, His Pilgrimage (1626) he writes that some Hindus believe "that the Earth had nine corners, whereby it was borne up by the Heaven. Others dissented, and said, that the Earth was borne up by seven Elephants; the Elephants feet stood on Tortoises, and they were borne by they know not what." Charpentier traces this to a letter by the Jesuit Father Emanual de Veiga (1549-1605), written at Chandagiri on 18th September, 1599. Charpentier quotes the letter from John Hay, De rebus Japonicis, Indicis, and Peruanis epistulæ recentiores (Antwerp, 1605), p. 803 seq.: "Alii dicebant terram novem constare angulis, quibus cœlo innititur. Alius ab his dissentiens volebat terram septem elephantis fulciri, elephantes uero ne subsiderent, super testudine pedes fixos habere. Quærenti quis testudinis corpus firmaret, ne dilaberetur, respondere nesciuit."
+
+I think we can safely say this is where the idea enters European thought, but I too would be interested to know whether it can be traced further in the Indian textual tradition, or whether we must be content with an oral report from 400 years ago.
+
+Best wishes
+
+Will
+
+
+

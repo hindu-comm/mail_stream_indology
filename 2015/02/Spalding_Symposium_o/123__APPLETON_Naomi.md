@@ -1,0 +1,38 @@
++++
+title = "123 APPLETON Naomi"
+date = "2015-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-February/040695.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-February/040695.html)
+
+Dear Colleagues,
+
+A reminder that booking for the Spalding Symposium on Indian Religions 2015 is open. If you follow the link below you can register and pay, either as a residential guest (£190 including a room for two nights and all meals) or a non-residential guest (£65, no accommodation, all meals). A variety of day-rate options are also available. Please note the last date for booking as a residential guest is FRIDAY 6th MARCH (subject to availability).
+
+bit.ly/SpaldingSymposium<http://bit.ly/SpaldingSymposium>
+
+The Symposium will be held in Edinburgh, UK, 10th-12th April 2015, and will have the theme "dialogue". Professors Uma Chakravarti and Stephen Berkwitz will be our keynote speakers, supplemented by an impressive range of papers from other scholars. More information, including a draft programme, can be found on our website www.spaldingsymposium.org<http://www.spaldingsymposium.org/>, and queries can be directed to myself as convenor: naomi.appleton at ed.ac.uk<mailto:naomi.appleton at ed.ac.uk>.
+
+With best wishes,
+Naomi
+--------------------------------
+Dr Naomi Appleton
+Chancellor's Fellow in Religious Studies
+School of Divinity, University of Edinburgh
+naomi.appleton at ed.ac.uk<mailto:naomi.appleton at ed.ac.uk>
+
+http://naomiappleton.wordpress.com
+http://storyofstoryinsouthasia.wordpress.com
+Twitter: @JatakaStories
+
+
+
+
+
+
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150210/11dcaeb4/attachment.htm>

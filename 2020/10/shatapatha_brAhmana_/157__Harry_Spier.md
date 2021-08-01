@@ -1,0 +1,26 @@
++++
+title = "157 Harry Spier"
+date = "2020-10-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-October/053427.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-October/053427.html)
+
+Dear list members,
+1) Does anyone have a pdf of  The Śatapatha Brāhmana in the Kāṇvīya
+Recension by Caland .  I was only able to find Vol. II part 2 on archive.org.
+If someone has the other parts and could send them to me I'd greatly
+appreciate it.
+
+2) Also what is the most reliable printed edition of the mAdhyandina
+recension?.  If someone has this and could send it or point to an online
+version of it would be great   I know there is an etext in GRETIL but as
+far as I can see there is no information about what printed edition the
+GRETIL text is from.
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201004/f4042d8b/attachment.htm>

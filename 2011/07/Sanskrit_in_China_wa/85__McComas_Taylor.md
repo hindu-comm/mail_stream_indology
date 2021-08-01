@@ -1,0 +1,41 @@
++++
+title = "85 McComas Taylor"
+date = "2011-07-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-July/035611.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-July/035611.html)
+
+On Sanskrit in China, colleagues might be interested in reading selections from the autobiography of China's premier Sanskritist, Prof. Ji Xianlin (1911-2009):
+
+http://www.mldc.cn/sanskritweb/news/life_in_the_cattle_yard.pdf
+
+http://www.mldc.cn/sanskritweb/news/mirror.pdf
+
+
+
+
+On 30/06/11, mkapstei at UCHICAGO.EDU wrote:
+> It is of some interest to compare the current lamentable situation in regard to Sanskrit education in India with the 
+> considerable flourishing of interest at major Chinese
+> universities, including Beijing University, Renmin
+> University, and Fudan University, among others. I have heard of introductory enrollments topping 60 in some cases.
+> And the interest of Chinese students of Sanskrit is
+> by no means limited to Buddhism, as one might have
+> predicted, but now embraces kaavya, epic, and philosophical
+> subjects. Although it is only tangentially related, as in
+> the West, one may note that China is in the midst
+> of a burgeoning yoga-craze as well.
+> 
+> Matthew T. Kapstein
+> Numata Visiting Professor of Buddhist Studies
+> The University of Chicago Divinity School
+> Directeur d'études
+> Ecole Pratique des Hautes Etudes, Paris
+> 
+> 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110701/d43b772f/attachment.htm>

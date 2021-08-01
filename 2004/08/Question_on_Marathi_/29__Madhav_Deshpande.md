@@ -1,0 +1,21 @@
++++
+title = "29 Madhav Deshpande"
+date = "2004-08-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-August/028520.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-August/028520.html)
+
+In Marathi, an Indo-Aryan language, we find pairs of verbs like:
+
+tuT = to break (intransitive)
+toD = to break (transitive)
+phuT = to break (intransitive)
+phoD = to break (transitive)
+
+Is there any explanation of the voicing in the transitive verbs vs lack of voicing in the intransitive verbs?  In the Sanskrit antecedents of these verbs, the vowel of the intransitive verbs remains unaccented, while the vowel of the transitive verbs is accented.  It is well understood that the accents are related to the u/o alternation, but what might lead to voicing?  The voiced/voiceless alternation is not seen in Sanskrit in the same environment.  Any suggestions?
+
+Madhav Deshpande
+
+
+

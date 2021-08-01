@@ -1,0 +1,27 @@
++++
+title = "56 jkirk"
+date = "2005-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-February/029021.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-February/029021.html)
+
+>âFrom my German friend:
+
+Well, according to this, the elves actually come from the germanic tradition
+(old norse Alfar, anglo-saxon Aelf, Danish elve) in German first Alb (still
+found in the word Albtraum, Alptraum, when you sleep and dream badly because
+an elf is sitting on your chest and having his/her fun with you.
+http://de.wikipedia.org/wiki/Elfen
+http://de.wikipedia.org/wiki/Alb_%28Geist%29
+Elves are related to dwarfs (indeed, the English word for dwarf comes from
+dwartalf (black elf), though both cousins do not like each other much.
+
+The idea of 3 inch mini-humans living in flowers is not Germanic--elves and
+dwarfs are significantly smaller than average humans, but not toy-like.
+
+Now I will be quiet :)
+Joanna k.
+
+
+

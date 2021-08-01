@@ -1,0 +1,50 @@
++++
+title = "57 Tyler Neill"
+date = "2021-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-May/054784.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-May/054784.html)
+
+Dear all,
+
+I thought I would share this online dictionary hack I implemented today. If
+you enter this URL...
+skrutable.pythonanywhere.com/ChicagoApteIAST?query=rām
+...in your browser, with your query in place of "rām" at the end there, you
+can search Chicago's version of Apte Practical Sanskrit Dictionary 1957–59
+(Revised and Expanded) by typing in IAST. I personally like to use this in
+combination with Chrome's "custom search engine" functionality, for example.
+
+Gory details:
+The reason I had to implement this is that both the Cologne and Chicago
+dictionary websites have recently made changes that, as far as I can tell,
+make it more difficult to search this edition of Apte, which I like for its
+additional references, and to do so comfortably in IAST. The Cologne site
+seems to have simply stopped supporting this edition in its "simple-search"
+interface (where it was formerly abbreviated "AP") and instead now relies
+on the older 1890 edition ("AP90"). On the other hand, the Chicago site has
+stopped respecting Roman diacritics, making precise searching possible only
+in Devanagari. For this reason, the "skrutable" link provided above takes
+care of transliterating from IAST to Devanagari and then redirects to the
+Chicago site (along with "headword only" and "starts with" search options).
+I still prefer Chicago over Cologne for Apte because, among other reasons,
+the Cologne website design makes direct URL queries difficult unless
+without the outer frame like this
+<https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/listview.php?key=r%C4%81ma&output=roman&dict=AP&accent=no&input=roman>
+—
+note Apte 1957–59 still available there — and because it doesn't support
+"starts with"-style output, instead privileging manual choice of full
+lemmata from the search bar autocomplete dropdown.
+
+If anyone else understands the situation differently, I'd be keen to know.
+Also please let me know if you're interested in seeing this work
+differently somehow.
+
+Kind regards,
+Tyler
+
+<http://skrutable.pythonanywhere.com/ChicagoApteIAST?query=kart>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210519/c289cabb/attachment.htm>

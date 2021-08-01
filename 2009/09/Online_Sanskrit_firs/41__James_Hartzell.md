@@ -1,0 +1,36 @@
++++
+title = "41 James Hartzell"
+date = "2009-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-September/033610.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-September/033610.html)
+
+Colleagues
+
+During work at the University of Manitoba (Winnipeg, Canada) this past year,
+I began developing material for an online first year Sanskrit course with
+the Distance and Online Education Division.
+
+We plan to run the course beginning in May 2010.  It will be a full six
+credit (two semester) course, covering the material needed for 1st year
+Sanskrit credit.  Arrangements may be made with the University of Manitoba
+and the student's home institution for credit transfer (usually by a simple
+letter of permission from the home institution).  Links to the course flyers
+and further information may be found at
+
+http://umanitoba.ca/extended/distance/media/pdfs/09/sanskrit_apr09.pdf
+http://umanitoba.ca/extended/distance/media/pdfs/09/sanskrit_2_apr09.pdf
+
+Please distribute to all interested parties.  The likelihood of the course
+running will be increased with increased enrollment.
+
+My best regards to colleagues at Kyoto.  We've been busy with a move to
+Italy, so unable to attend.
+
+Cheers
+James Hartzell
+Rovereto, Italy
+
+
+

@@ -1,0 +1,107 @@
++++
+title = "110 Chlodwig H. Werba"
+date = "2016-06-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-June/043566.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-June/043566.html)
+
+Dear Colleague,
+
+it goes without saying that you’ll find such a programme also in Vienna at our University of Vienna, called Alma Mater Rudolphina, which last year celebrated her 650th anniversary. The programme is entitled
+
+·         Masterstudium Indogermanistik und historische Sprachwissenschaft / Master in Indo-European Studies and Historical Linguistics.
+
+For its details, please refer to:
+
+·         http://linguistik.univie.ac.at/studium/masterstudium/master-indogermanistik/
+
+With best wishes
+
+Chlodwig H. Werba
+
+
+
+vivardhate vibhâge ‘pi, vidyaivânyan na kin cana /
+
+ity avâcy anyadâ sushthu, prâcyarâshtrakavishriyâ //
+
+satyam eva vijayate – haqîqat sab ke sab jît letâ hai :: verum omnia vincit
+
+hashiyam artâcâ dinâtiy – haqiqat barande mishavad :: tò alêthès pántôs nikâi
+
+Dr. Chlodwig H. Werba, Prof. of Indo-Iranian Studies 
+Institute of South Asian, Tibetan and Buddhist Studies, South Asian Studies
+
+http://stb.univie.ac.at
+University Campus, Courtyard 2/2.1 
+Spitalgasse 2, 1090 Vienna, AUSTRIA  
+Tel.: +43-1-4277-435-19
+
+
+
+
+
+
+
+Von: INDOLOGY [mailto:indology-bounces at list.indology.info] Im Auftrag von Georges PINAULT
+Gesendet: Sonntag, 26. Juni 2016 11:01
+An: Ram-Prasad Chakravarthi; INDOLOGY at list.indology.info
+Betreff: Re: [INDOLOGY] MA including Latin and Sanskrit
+
+
+
+Dear Colleagues,   I may mention that the Ecole Pratique des Hautes Etudes (Sorbonne, Paris) has a master-level programme in Indo-European and Comparative Linguistics, which includes Latin and Italic languages, Greek, Sanskrit, Tocharian, Iranian, Baltic, Armenian, etc., in the cursus "Linguistique indo-européenne et typologie des langues". It includes also languages belonging to non Indo-European languages families: Caucasian, Berber, Austronesian. You will find more information on the web site of the EPHE: ephe.sorbonne.fr
+
+Best wishes,    Georges-Jean Pinault (EPHE, Paris) 
+
+
+
+
+
+
+
+
+
+> Message du 24/06/16 22:07
+> De : "Ram-Prasad, Chakravarthi" <c.ram-prasad at lancaster.ac.uk>
+> A : "INDOLOGY at list.indology.info" <INDOLOGY at list.indology.info>
+> Copie à : 
+> Objet : [INDOLOGY] MA including Latin and Sanskrit
+> 
+> 
+
+Dear list, 
+
+Could anyone point me to masters-level programmes in Europe for Indo-European (and Comparative) Linguistics that would include study of both Latin and/or Greek AND Sanskrit?
+
+Thank you.
+
+
+>
+
+Ram
+
+
+>
+
+Chakravarthi Ram-Prasad
+
+Professor of Comparative Religion and Philosophy
+
+Lancaster University
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160626/652fd423/attachment.htm>

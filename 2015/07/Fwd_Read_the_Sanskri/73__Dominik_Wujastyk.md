@@ -1,0 +1,41 @@
++++
+title = "73 Dominik Wujastyk"
+date = "2015-07-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041662.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041662.html)
+
+---------- Forwarded message ----------
+From: Ashok Aklujkar <ashok.aklujkar at gmail.com>
+Date: 25 July 2015 at 14:34
+Subject: Re: [INDOLOGY] Read the Sanskrit texts: Why both Rajiv Malhotra
+and his critics are wrong about plagiarism
+To: Dominik Wujastyk <wujastyk at gmail.com>
+
+
+Dear Dominik,
+
+On Jul 25, 2015, at 4:43 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
+
+Malhotra’s assertion that "there are no quotation marks in Sanskrit"
+
+
+It has been more than a week since I pointed out on the Indology forum
+itself that Malhotra had in mind a written symbol indicating quotation, not
+about a marker in speech or reproduction of speech such as iti. Note his
+words “in its character set”.
+
+Et tu, Dominik?
+
+You should publicly correct yourself. It is not proper to quote someone by
+dropping an important part of his sentence and suggest that he/she is
+terribly ignorant just because one disagrees with him/her, unless one
+wishes to join the rank of Steve Farmer et al.
+
+ashok
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150725/dfd20d67/attachment.htm>

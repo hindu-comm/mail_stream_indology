@@ -1,0 +1,82 @@
++++
+title = "14 Philipp Maas"
+date = "2019-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-November/051231.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-November/051231.html)
+
+Dear Adheesh,
+You and your student might be interested in my article “From Theory to
+Poetry: The Reuse of Patañjali’s Yogaśāstra in Māgha’s *Śiśupālavadha*”.
+In: Elisa Freschi and Philipp A. Maas (eds.), *Adaptive Reuse: Aspects of
+Creativity in South Asian Cultural History*. Wiesbaden: Harrasso­witz
+(Abhandlungen für die Kunde des Morgenlandes 101). p. 29–62, which you find
+published in open access at this URL
+<https://www.academia.edu/15249754/From_Theory_to_Poetry_The_Reuse_of_Pata%C3%B1jali_s_Yoga%C5%9B%C4%81stra_in_M%C4%81gha_s_%C5%9Ai%C5%9Bup%C4%81lavadha>
+.
+
+Best wishes,
+
+Philipp
+__________________________
+
+Dr. Philipp A. Maas
+Research Associate
+Institut für Indologie und Zentralasienwissenschaften
+Universität Leipzig
+___________________________
+
+https://spp1448.academia.edu/PhilippMaas
+
+
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+Virenfrei.
+www.avast.com
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+<#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+Am Fr., 1. Nov. 2019 um 02:32 Uhr schrieb adheesh sathaye via INDOLOGY <
+indology at list.indology.info>:
+
+> Dear colleagues:
+>
+> In working with a student, we are curious if there has been research done
+> on depictions of “yoga” (in any of its various manifestations),
+> specifically within the ornate Sanskrit kāvya tradition.
+>
+> We would be most delighted to get your recommendations of scholarly
+> studies or of primary sources. Examples that come to my mind are the
+> descriptions of Pārvatī’s tapas in the Kumārasambhava - (though it might be
+> arguable whether this constitutes “yoga” per se) - or of tantrikas in the
+> plays of Rājaśekhara, Kṣemīśvara, and Bhavabhūti - (though these
+> characters, too, are not usually shown as practicing or engaged in yoga in
+> any active sense, and are furthermore usually lampooned).
+>
+> I look forward to your responses!
+>
+> With all best wishes,
+> Adheesh
+>
+>
+> —
+> Adheesh Sathaye
+> University of British Columbia
+>
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191101/763d1d52/attachment.htm>

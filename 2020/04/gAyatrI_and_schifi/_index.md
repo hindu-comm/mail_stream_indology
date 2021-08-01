@@ -1,0 +1,4 @@
++++
+title = "Gāyatrī and Scifi"
+
++++

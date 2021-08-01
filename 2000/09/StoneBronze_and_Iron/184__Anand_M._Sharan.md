@@ -1,0 +1,23 @@
++++
+title = "184 Anand M. Sharan"
+date = "2000-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022743.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022743.html)
+
+> From Baluchistan, when it ( the bronze age ) went east towards Bihar -
+Bengal area, people who brought there where  mis -identified as those of
+Austric Origin ( the Santhals ) . The metallurgists were thinking that the
+bronze in this part came from Thailand . Bronze in Thailand came earlier
+than in India, as it was believed .
+
+Only when all the facts were added up ( language, metals or alloys ) ,
+their true identity could be established .
+
+For details see
+
+www.engr.mun.ca\~asharan\bihar\indus\indus~3.htm
+
+
+

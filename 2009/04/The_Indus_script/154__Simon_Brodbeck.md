@@ -1,0 +1,29 @@
++++
+title = "154 Simon Brodbeck"
+date = "2009-04-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-April/033079.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-April/033079.html)
+
+I hope it will not be out of place here to say how little I am looking 
+forward to the apparently forthcoming treatment of this issue in this forum.
+
+I have no doubt that if any present parties have anything substantial to add 
+to the debate, we shall see it in print before long. In the meantime, I 
+wonder how much is to be gained by repeating, in more or less rhetorical 
+variants, contributions that have already been made in print.
+
+The members of this forum are trained and accustomed to weighing evidence 
+for themselves, according to their own lights. All other things being equal 
+(which in this case they perhaps are), we may have a tendency unconsciously 
+to side with the interlocutor who apparently accords us with the greater 
+degree of intelligence.
+
+With all best wishes,
+
+Simon Brodbeck
+Cardiff University 
+
+
+

@@ -1,0 +1,30 @@
++++
+title = "38 Matthew Kapstein"
+date = "2003-11-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-November/028000.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-November/028000.html)
+
+Dear Vyaakara.nas'iroma.naya.h,
+
+M.R. Kale's A Higher Sanskrit Grammar, ch. XII, p. 238,
+divides the ten lakaara into six tenses -- kaalaa.h --
+and four moods -- arthaa.h .
+
+I would be grateful for references to passages in the
+major classical grammars (Mahaabhaa.sya, etc.), or vulgar
+Sanskrit grammars (e.g. Saarasvata) in which this
+particular distinction occurs or is explained.
+
+(Though Kale sometimes supports himself with an exact
+citation, he's not done so here.)
+
+with thanks for your attention,
+
+Matthew Kapstein
+Ecole Pratique des Hautes Etudes and
+University of Chicago
+
+
+

@@ -1,0 +1,51 @@
++++
+title = "42 Sudalaimuthu Palaniappan"
+date = "2001-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/024866.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/024866.html)
+
+Many thanks to Prof. Georg von Simson and Prof. Luis Gonzalez-Reimann for
+their very valuable information. This helped confirm my suspicion that the
+moon as an example of rebirth was a north Indian idea. The excerpt I had
+quoted occurred in a CT poem by mutukaNNan2 cAttan2Ar whom I discuss in my
+article “Bards, Priests, Washerwomen, and the Ancient Tamil
+Society” at the Indology site,
+http://www.ucl.ac.uk/~ucgadkw/members/palaniappan/bards/Bards01.htm
+
+The influence of north Indian religions on the early Tamil society has not
+been properly delineated until now. The theory of anaGku proposed by George
+Hart has contributed to this significantly for the past 25 years. Not having
+realized that the Dravidian linguistic phenomenon of radical u/o alternation
+was in operation in words such as poli and pulai, Dr. Hart had proposed that
+untouchability and caste system was indigenous to Tamil culture. This led to
+Hart’s paradoxical view of CT groups associated with the sacred being
+polluted people! This has misled a plethora of later work by scholars of
+religion and anthropology deriving the present plight of some Tamil people to
+beliefs traceable to the  CT society. A proper linguistic analysis would have
+led to the conclusion that those associated with the sacred indeed were
+considered to be auspicious, just the opposite of Hart’s view. But,
+then this linguistic phenomenon seems to have outwitted Burrow and Emeneau as
+well. For instance, they include Ka
+ pul ‘mean’ in DEDR 4301 with an implied *pul-  but include Ta.
+pul ‘meanness’ and Ka. pol, polla ‘meanness’ in DEDR
+4547 with an implied *pol-.
+
+As a result, it has not been realized until now that Jainism and Buddhism
+have a lot to do with the origin of untouchability in South India. The
+degradation of groups such as Ta. pulaiyan2, Ka. poleya, Ka. poleye   should
+be attributed to these religions and not Vedic Brahmins. If anything, it
+seems Vedic Brahmins were not very disruptive and got along fine with native
+Tamil culture during CT days. The appellation, dark age, is very apt for the
+Kalabhra interregnum that followed the CT. The influence of Jainism and
+Buddhism had erased the historical memory regarding key CT cultural
+practices. Even the Bhakti cult which overthrew the influence of Jainism and
+Buddhism could not disavow all the ‘cultural baggage’ adopted
+from those religions.
+
+Regards
+S. Palaniappan
+
+
+

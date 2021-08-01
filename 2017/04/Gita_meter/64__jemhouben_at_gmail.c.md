@@ -1,0 +1,52 @@
++++
+title = "64 jemhouben at gmail.com"
+date = "2017-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-April/045596.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-April/045596.html)
+
+In the case of the 11th chapter I would consider it a matter of author’s choice of a meter suitable to the particularly awe-inspiring subject. 
+Best, Jan
+
+Envoyé de mon téléphone Windows 10
+
+De: Madhav Deshpande via INDOLOGY
+Envoyé le:lundi 17 avril 2017 13:17
+À: edbryant at rci.rutgers.edu
+Cc: indology at list.indology.info
+Objet:Re: [INDOLOGY] Gita meter
+
+Hello Edwin,
+
+  In her article "The Mahabharata's Core" (1975), Mary Carroll Smith has argued that there was an ancient core of the Mahabharata in Triṣṭubh verses, which was later expanded by the addition of the narrative in Anuṣṭubh. I am not sure how this would account for the metrical variation in the Bhagavadgita, but there is a suggestion from this article.
+
+Madhav Deshpande
+Ann Arbor, Michigan, USA
+
+On Mon, Apr 17, 2017 at 7:00 AM, Edwin F. Bryant via INDOLOGY <indology at list.indology.info> wrote:
+
+Greetings everyone,
+
+Is there anything written about when and why the Gita changes its meter,
+or does anyone on the list have an opinion about this? At least in
+several instances, I can see no narrative reason for this, nor shift in
+theological content. At least in the second chapter which borrows two
+verses from the Katha, I wonder whether this occurs with verses being
+borrowed from elsewhere, but I don't know. Has anyone thought about this
+or can anyone point me to anything written on it?
+
+Thanks. Edwin Bryant.
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170417/99e37201/attachment.htm>

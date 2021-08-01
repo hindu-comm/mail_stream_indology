@@ -1,0 +1,31 @@
++++
+title = "85 Stella Sandahl"
+date = "2014-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/039015.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/039015.html)
+
+I have learnt from a reliable source that Mr. Batra initiated no less than ten lawsuits against NCERT's (NCERT stands for National Council for Educational Research and Training) textbooks during the years 2004-2010. He lost all of them. Isn't it strange that Penguin so easily gives in, when NCERT fought back and won. One would assume that a great company like Penguin can manage the legal fees involved.
+Best to all
+Stella Sandahl
+
+
+
+Professor Stella Sandahl 9retired)
+Department of East Asian Studies
+
+130 St. George St. room 14087
+Toronto, ON M5S 3H1
+ssandahl at sympatico.ca
+stella.sandahl at utoronto.ca
+Tel. (416) 978-4295
+Fax. (416) 978-5711
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140219/a16b1290/attachment.htm>

@@ -1,0 +1,33 @@
++++
+title = "37 Patrick Olivelle"
+date = "2016-01-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-January/042565.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-January/042565.html)
+
+Dear All:
+
+After 25 years, my old server is being taken to wherever dead servers are buried. So now I have to get a new email address. And here it is:
+
+jpo at austin.utexas.edu
+
+The messages to the old address will continue to be redirect to the new one for some time. With thanks and best wishes,
+
+Patrick
+
+
+Patrick Olivelle
+Jacob and Frances Sanger Mossiker Chair in the Humanities
+Professor of Sanskrit and Indian Religions
+120 Inner Campus Dr. Stop G9300
+University of Texas
+Austin, TX 78712-1251
+USA
+Telephone: (512) 471-5811; FAX (512) 471-4469
+http://www.utexas.edu/cola/depts/asianstudies/faculty/olivelle
+
+
+
+
+

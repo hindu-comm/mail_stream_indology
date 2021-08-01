@@ -1,0 +1,46 @@
++++
+title = "97 Tieken, H.J.H."
+date = "2019-10-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-October/051125.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-October/051125.html)
+
+Dear Gaia,
+
+I do not know for what purpose you need Hobson Jobson. If it is for Indian words in English, you might also have a look at
+
+G. Subba Rao, Indian Words in English. A Study of Indo-British Cultural and Linguistic Relations. Oxford 1969 (originally published  1954.)
+
+Herman
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info] namens Gaia Pintucci via INDOLOGY [indology at list.indology.info]
+Verzonden: woensdag 16 oktober 2019 9:31
+Aan: Indology
+Onderwerp: [INDOLOGY] Hobson Jobson Dictionary
+
+Dear list members,
+
+Is there an edition/reprint of the Hobson Jobson dictionary you would recommend above all others?
+I am interested in acquiring a hard copy of it.
+
+I see that in 2013 a *selected edition* appeared, edited by Kate Teltscher, but I would like to get hold of an *unabridged* one.
+
+NB: I am aware of the online resource that is hosted on the website of the University of Chicago as well as of the existence of a freely available pdf, but I am actually in search of an old-style book.
+
+I shall be grateful for any tips.
+
+With best wishes,
+Gaia Pintucci
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191016/38a786f4/attachment.htm>

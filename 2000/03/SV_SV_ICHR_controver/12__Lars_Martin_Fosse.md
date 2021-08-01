@@ -1,0 +1,48 @@
++++
+title = "12 Lars Martin Fosse"
+date = "2000-03-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020347.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020347.html)
+
+Rajarshi Banerjee [SMTP:rajarshi.banerjee at SMGINC.COM] skrev 01. mars 2000
+16:54:
+> If you go to places like the qutab minar in Delhi or many other islamic
+> architechtural sites you often see pre-islamic masonry complete with statues
+> which have been broken and reused or sometimes left untouched out of sheer
+> laziness. Why does it suddenly become so bizzare to see similar things at
+> babri masjid and why cant it be looked at dispassionately.
+
+Because today we know better, or at least should know better. There is no
+reason to go on repeating the atrocities of former centuries. The fact that the
+forefathers of group X committed atrocities against the forefathers of group Y
+does not give group Y the right to commit atrocities or unjustice against the
+members of group X TODAY. If we accept that idea, things never stop, do they? I
+don't ask people to forget and forgive, only to be pragmatic: Brutality and
+injustice will go on repeating itself indefinitely if we don't call a stop here
+and now. Muslims living today are not responsible for the crimes committed by
+past Muslim princes.  Consequently, the victimization of Muslims for those very
+reasons that we see in some quarters is not only immoral and unjust, it is
+stupid. That is not tantamount to saying that Muslims never do/did anything
+wrong. Muslim wrongs should be addessed just like Hindu wrongs, but within the
+framework of a constitutional state founded on legal protection. The ultimate
+consequences of a civil moral based on the principle of revenge (which is
+really at the bottom of you argument) can be seen vividly in the former
+Yugoslavia. You may turn a place into a desert and call it peace. But you can
+also turn a place into a heap of dung and call it justice.
+
+Best regards,
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone/Fax: +47 22 32 12 19
+Email: lmfosse at online.no
+
+
+
+

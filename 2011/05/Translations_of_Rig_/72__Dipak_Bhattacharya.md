@@ -1,0 +1,34 @@
++++
+title = "72 Dipak Bhattacharya"
+date = "2011-05-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-May/035514.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-May/035514.html)
+
+The literature is vast. The shortest list will perhaps include Ludwig and Geldner by consensus, also Oldenberg Noten (inexhaustive); the traditional view finds some place in H.H.Wilson; VS Agrawala has an exclusive study but many of his interpretations are peculiar to him, sometimes influenced by contemporary Indian mystics. Grassmann is not literal. Stray comments by Kunhan Raja and Edgerton are insufficient.
+Best
+DB 
+
+--- On Tue, 31/5/11, Dean Michael Anderson <eastwestcultural at YAHOO.COM> wrote:
+
+From: Dean Michael Anderson <eastwestcultural at YAHOO.COM>
+Subject: [INDOLOGY] Translations of Rig Veda Suparna Sukta (RV I.164)
+To: INDOLOGY at liverpool.ac.uk
+Date: Tuesday, 31 May, 2011, 10:18 AM
+
+A colleague asked me for recommended translations of the Rig Veda Suparna Sukta (RV I.164).
+
+I've been meaning to get around to working with it myself but, like so many things, I haven't gotten around to it.
+
+Any suggestions would be greatly appreciated. 
+
+Best,
+
+Dean
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110531/2cd65d88/attachment.htm>

@@ -1,0 +1,53 @@
++++
+title = "29 patrick mccartney"
+date = "2016-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-February/042681.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-February/042681.html)
+
+Dear Friends,
+
+Does anyone have access to this article?
+
+ Rajeshwari Pandharipande (1991). The perfected language. English Today,
+7/2, pp 7-10. doi:10.1017/S0266078400005423.
+
+I cannot access it through my university library. The link takes me to the
+abstract but there is no option to access the article.
+
+
+All the best,
+
+Patrick McCartney
+
+PhD Candidate
+School of Culture, History & Language
+College of the Asia-Pacific
+The Australian National University
+Canberra, Australia, 0200
+
+
+Skype - psdmccartney
+Phone + Whatsapp:  +61 414 954 748
+
+
+
+   - *https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile
+   <https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile>*
+   - *https://anu-au.academia.edu/patrickmccartney
+   <https://anu-au.academia.edu/patrickmccartney>*
+
+https://www.youtube.com/watch?v=cy6lVABgjmg
+
+<http://goog_371544488>
+https://www.youtube.com/watch?v=LVqBD_2P4Pg
+
+http://youtu.be/y3XfjbwqC_g
+
+http://trinityroots.bandcamp.com/track/all-we-be
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160212/504c9a1b/attachment.htm>

@@ -1,0 +1,37 @@
++++
+title = "254 Sudalaimuthu Palaniappan"
+date = "2000-07-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022109.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022109.html)
+
+In a message dated 7/20/2000 5:43:23 AM Central Daylight Time,
+suvidya at WORLDNET.ATT.NET writes:
+
+> The traditional date for the start of the Mahabharata war puts it at
+>  3000 BC.  So 70 centuries is in line with tradition.
+
+In the absence of any evidence shown for the use of the time period of 70
+centuries in the Indian tradition, the above statement has no merit.
+
+In an earlier posting, I have linked '70 centuries' to the views of Rajaram.
+We know that Rajaram and others  of his school insist that their views are
+based on archaelogy, hydrology, etc. So, all the statements about Christian
+religious beliefs by Arun Gupta are irrelevant and unwarranted vis-a-vis the
+present discussion.
+
+>  My point simply is that "70 centuries" is a variety of religious belief,
+>  one that takes the chronology of the Puranas literally, exactly as the
+>  Christian beliefs I mentioned take the word of the Bible literally.
+
+See above. Rajaram does not offer his views as based on religious belief.  It
+is precisely because of presenting the date as based on scientific analysis,
+Rajaram and others are able to convert many non-specialists to their point of
+view.
+
+Regards
+S. Palaniappan
+
+
+

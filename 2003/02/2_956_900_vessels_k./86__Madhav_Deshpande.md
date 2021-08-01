@@ -1,0 +1,41 @@
++++
+title = "86 Madhav Deshpande"
+date = "2003-02-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027550.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027550.html)
+
+Another possible interpretation of k.sutila-aakaara may be "of the shape of a mustard seed (k.su, V.S. Apte) or sesame seed (tila)."  Best,
+
+                                                                                                               Madhav Deshpande
+
+	-----Original Message----- 
+	From: Harunaga Isaacson [mailto:harunaga at SAS.UPENN.EDU] 
+	Sent: Fri 2/21/2003 7:46 PM 
+	To: INDOLOGY at liverpool.ac.uk 
+	Cc: 
+	Subject: Re: 2 956 900 vessels/k.sutila/ku.duba
+
+
+
+	Quoting Michio YANO <yanom at CC.KYOTO-SU.AC.JP>:
+
+	> Actually the following is my ftp server.
+	>
+	> Harunaga> Yes, both at Prof. Tokunaga's own site in Kyoto
+	> Harunaga> (ftp://ccftp.kyoto-su.ac.jp/pub/doc/sanskrit/dharmas/)
+	>
+	> Michio YANO                    Tel +81-75-705-1781
+	> Faculty of Cultural Studies    Fax +81-75-705-1799
+	> Kyoto Sangyo University        e-mail: yanom at cc.kyoto-su.ac.jp
+	> Kyoto 603-8555 Japan           http://www.kyoto-su.ac.jp/~yanom/
+
+	Thank you for the correction---and for putting those very useful files up there.
+
+	Harunaga Isaacson
+
+
+
+
+

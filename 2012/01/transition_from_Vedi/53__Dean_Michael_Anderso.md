@@ -1,0 +1,28 @@
++++
+title = "53 Dean Michael Anderson"
+date = "2012-01-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-January/036221.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-January/036221.html)
+
+I ran across some people on the internet the other day who insist that the transition from the Vedic period to the early Hindu period involved, not a transition, but a wholesale rejection of the Vedic gods and their replacement with Hindu ones. They say the Vedic gods are reviled in Hinduism.
+
+This goes against everything I know about this transition. It seems to originate from some very early Indological writings by Western scholars but they haven't been able to provide me with anything more than a list of *possible* books -- Oldenberg, McDonnell, etc. -- no page references.
+
+Does anyone know where this idea may have arisen? I can see how they might have gotten this idea from the Buddhist/Jain texts or the later Bhakti period but not about the development of early Hinduism.
+
+Also, can anyone provide me with a reference to succinct discussion of the current scholarly position that I could pass on to them rather than having to write something myself from the source texts?
+
+Best,
+
+Dean
+
+Dean Anderson
+East West Cultural Institute
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120129/2458b43e/attachment.htm>

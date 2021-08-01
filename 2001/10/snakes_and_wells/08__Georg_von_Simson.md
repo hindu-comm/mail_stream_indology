@@ -1,0 +1,58 @@
++++
+title = "08 Georg von Simson"
+date = "2001-10-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-October/026390.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-October/026390.html)
+
+Dear Arlo Griffith,
+
+it is well known that the half-divine nAgas (poisonous snakes, cobra
+snakes) are closely associated with water and with sacred places along
+rivers; see Charles Autran, L'epopee indoue, Paris 1946, ch. III and IV;
+you might also check Jean Philippe Vogel, Indian serpent lore, the nAgas in
+Hindu legend and art, London 1926.
+As far as snakes in water-wells are concerned, what comes immediately to my
+mind is the famous parable of the Man in the Well, Mahabharata 11.5-6. Here
+a large nAga (vs. 5.13, additional line in some mss.: mahAnAgam apazyata;
+vs. 5.20 kUpAdhastAc ca nAgena; vs. 6.7 yas tatra vasate 'dhastAn mahAhiH)
+is imagined at the bottom of the well (5.10 udApAna, otherwise kUpa).
+But this is, of course, much later than your AV passage.
+
+Regards,
+
+Georg v. Simson
+
+>Dear fellow Indologists,
+>
+>Can anyone confirm for me that in (ancient, Vedic) India, (harmful) snakes
+>were thought to live in or near water-wells? Can anyone provide me with
+>references?
+>
+>Thank you very much,
+>
+>-- Arlo Griffiths
+>
+>CNWS / Instituut Kern
+>Universiteit Leiden
+>Postbus 9515
+>2300 RA  Leiden
+>the Netherlands
+>
+>
+>***The immediate cause for this query is a passage from the AV (Paipp.),
+>6.14.5, where snakes belonging to the jungle and belonging to arma's
+>(ara.nyeya.m caarm[i]yeya.m) are made to vanish. I would like to take up
+>K.T. Schmidt's suggestion ('Zu einigen Archaismen in Flexion und Wortschatz
+>des Tocharischen', in W. Meid (ed.) Studien zum Indogermanischen Wortschatz,
+>Innsbruck [1987], 287-300), adopted also by Mayrhofer, that Vedic ;arma-
+>means 'well, source' rather than 'abandoned resting place' as proposed by
+>Rau in 1976 and maintained in 1983.
+>    Although Schmidt does not mention this, taking Vedic ;arma- as
+>'Wasserwort' would also finally solve the problem posed by the mantra VS
+>30.11/TB 3.4.9.1 ;armebho hastip;am  "To armaa.h [one should consecrate] a
+>mahout" (unconvincingly Falk, ZDMG 1981, p. 169).***
+
+
+

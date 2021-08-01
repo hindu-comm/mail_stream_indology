@@ -1,0 +1,35 @@
++++
+title = "19 Peter M. Scharf"
+date = "2003-05-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-May/027698.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-May/027698.html)
+
+The second of three major chapters in my book The Denotation of
+Generic Terms in Ancient Indian Philosophy deals with the meaning of
+common nouns in Nyaya philosophy and an appendix translates most of
+the relevant sutras.  The Bibliography and introduction will refer to
+other sources.
+
+The Denotation of Generic Terms in Ancient Indian Philosophy:
+Grammar, Nyýya, and Mmýßsý. Transactions of the American
+Philosophical Society, vol. 86, part 3. Philadelphia: APS, 1996
+(revised Ph.D. diss., University of Pennsylvania, 1990).
+
+The Ph. D. dissertation of Bruce Perry at the University of
+Pennsylvania concerned commentaries on the first sutras of the Nyaya
+sutra but would be important to consult.
+--
+**************************************************
+Peter M. Scharf             (401) 863-2720 office
+Department of Classics      (401) 863-2123 dept
+Brown University
+PO Box 1856                 (401) 863-7484 fax
+Providence, RI 02912        Scharf at brown.edu
+http://www.brown.edu/Departments/Classics/Scharf/
+http://sanskritlibrary.org/
+**************************************************
+
+
+

@@ -1,0 +1,51 @@
++++
+title = "133 Tieken, H.J.H."
+date = "2019-08-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-August/050715.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-August/050715.html)
+
+See this article
+
+http://sanskrit.uohyd.ac.in/faculty/amba/PUBLICATIONS/papers/sktsynOffprintAKulkarnietal.pdf
+
+and type in word order sanskrit on google and you will find more.
+
+One of my countrymen has written a phd thesis on this topic but at the moment his name does not come to my mind.
+
+Herman
+
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com
+
+________________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info] namens Christian Ferstl via INDOLOGY [indology at list.indology.info]
+Verzonden: zaterdag 24 augustus 2019 16:07
+Aan: Indology
+Onderwerp: [INDOLOGY] Skt./Pkt. prose word order
+
+Dear friends and colleagues,
+
+I am still puzzled sometimes by the word order in prose dialogues of
+early Sanskrit and Prakrit stage plays and other prose compositions. And
+I am sure there are more studies on this than J.S. Speijer's Sanskrit
+Syntax. Can you please refer me to some of these?
+
+anugṛhīto' smi yuṣmākam upakāreṇa,
+Christian Ferstl
+University of Vienna
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+

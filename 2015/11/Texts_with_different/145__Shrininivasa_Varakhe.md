@@ -1,0 +1,104 @@
++++
+title = "145 Shrininivasa Varakhedi"
+date = "2015-11-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-November/042266.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-November/042266.html)
+
+
+Dear All,
+
+Many names…many authors were versatile. 
+
+Annambhatta (16th CE)
+vachaspati Mishra 
+Raghavendra Yati (16th CE)
+Vijayaeendra Tirtha (15th CE)
+Abhinavagupta 
+Krishnavadhuta Pandita (19th CE)
+mallinatha 
+Bellankonda Ramaraya kavi 
+Shriharsha
+
+Many of them authored works in one or two disciplines but involving many disciplines like Nyaya, Vyakarana, Vedanta, meemamsa etc. For example -
+
+Sudarshana suri
+Jayatirtha (14th CE)
+Vyasatirtha (15th CE)
+Madhusudana Saraswati (15th CE)
+
+The authors participating in the series of dialectics of Nyayamrita-Advaitasiddhi are not only well-versed in many disciplines like Nyaya, Vyakarana, Meemamsa and Vedanta, but employed them in the dialectic works authored by them.
+
+Likewise, the Nyaya and Vyakarana works on Semantics like Vyutpattivada, Vaiyakarana Bhushana Sara, Manjusha etc., require a good acquaintance of many disciplines. 
+
+Stalwarts like Adi Shankara, Udayana, Jayanta Bhatta, Madhva, Jagannatha Pandita were not just limited to their domain. 
+
+with best regards
+shrinivasa varakhedi
+
+Professor and Dean - Shastra Faculty
+Karnataka Sanskrit University
+Bangalore 18
+
+www.ksu.ac.in <http://www.ksu.ac.in/> 
+
+
+
+> On 05-Nov-2015, at 10:12 pm, David Mellins <dmellins at gmail.com> wrote:
+> 
+> Also Gāgābhaṭṭa (Viśveśvara).
+> 
+> David
+> 
+> On Thu, Nov 5, 2015 at 9:31 AM, Aleksandar Uskokov <uskokov at uchicago.edu <mailto:uskokov at uchicago.edu>> wrote:
+> Jiva Gosvamin and Baladeva Vidyabhusana among the Gaudiyas.
+> 
+> Vedantadesika.
+> 
+> Perhaps Sriharsa?
+> 
+> Kind regards
+> Aleksandar
+> 
+> On Nov 5, 2015 8:27 AM, <hellwig7 at gmx.de <mailto:hellwig7 at gmx.de>> wrote:
+> Dear list members,
+> 
+> I am looking for Sanskrit authors who have written about many (>=3) different topics or in many (>=3) different genres (e.g., poetry, narrative, philosophical, scientific, ...); alternatively for voluminous texts by one author that cover such different topics in separate chapters (i.e., the thematic strata should be easily separable).
+> 
+> Further requirements:
+> 1) Authorship of their works should be consolidated in Indological research.
+> 2) Texts should not be too short.
+> 3) Texts should not be collections of former works or of citations only, but "really" be written by these authors.
+> 4) The older, the better!
+> 5) Texts should be edited or - even better - already digitized.
+> 
+> The first (and actually only) author that came to my mind is Kshemendra. Do you have any other ideas? Any feedback is highly appreciated.
+> 
+> Regards, Oliver
+> 
+> --- Oliver Hellwig, University of Düsseldorf 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151106/b59ca746/attachment.htm>

@@ -1,0 +1,78 @@
++++
+title = "84 Suresh Kolichala"
+date = "2012-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-October/037047.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-October/037047.html)
+
+Dear Jürgenji,
+
+Thanks for your response. *Narbada *(नर्बदा) and *Narvada *(नर्वदा) have
+been used as proper names in Central and North India for long.
+
+Come to think of it, the transformation of /m/ > /v/ (actually, /w/) is not
+only common in Dravidian, it is found in Middle Indo-Aryan as well. For
+example,  intervocalic /m/ getting weakened to a nasalized /ṽ/ can be seen
+in: OIA *grāma*, 'village' > Pali/Pkt *gāma *> Ap. *gāṽa*.
+
+So, now I feel more confident about the derivation of *narbada *from *
+narmada *as: **narmada *> *narvada *> *narbada*.
+
+Does anyone have an etymologies for the hydronym *Narmada*? What about the
+derivations for the other name of this river: *Rewa*?
+
+Regards,
+Suresh.
+
+On Sun, Oct 7, 2012 at 7:25 AM, Jürgen Neuss <juergen.neuss at fu-berlin.de>wrote:
+
+> Dear Sureshji,
+>
+> Interesting question. I am aware of the use of the 'b' only in colonial,
+> british sources ('Nerbudda/Narbada'). All the original texts (Sanskrit,
+> Hindi, Marathi, Gujarati) I have seen in the course of my research on the
+> Narmadaparikrama uniformly have the 'm'. In case you find the 'b' in any
+> (South) Indian source, please let me know.
+>
+> Jürgen
+>
+>
+>
+>
+> On Sun, 07 Oct 2012 12:00:45 +0200, Suresh Kolichala <
+> suresh.kolichala at gmail.com> wrote:
+>
+>  Does anyone know the phonological reasons for the alternation of the river
+>> name 'Narmada' as 'Narbada'? I also see this river name sometimes being
+>> spelled as Narbedda.
+>>
+>> It is surprising to see a labial nasal winding up as an oral stop. Is
+>> there
+>> any historical evidence to believe in a transformation of narmada >
+>> narvada
+>>
+>>> narbada? /m/ > /v/ is very common in Dravidian, and /v/ > /b/ is common
+>>>
+>> in the New Indo-Aryan (NIA) languages of East and Central India.
+>>
+>> I appreciate any responses.
+>>
+>> Regards,
+>> Suresh.
+>> Atlanta, GA.
+>>
+>
+>
+> --
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**~~~~~~~~~
+> Dr. phil. Jürgen Neuß
+> (Independent scholar)   | email: juergen.neuss at fu-berlin.de
+> Berlin, Germany        | http: www.central-india.de
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~**~~~~~~~~~
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20121007/daf1a06b/attachment.htm>

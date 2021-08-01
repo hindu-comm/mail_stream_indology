@@ -1,0 +1,56 @@
++++
+title = "70 Dominik Wujastyk"
+date = "2015-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-February/040717.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-February/040717.html)
+
+​If you can help this gentleman with his research into the French history
+of Pondicherry in the seventeenth century, please contact him directly.
+​
+​DW​
+
+
+---------- Forwarded message ----------
+From: Simon Dessain <sjf at dessain.org>
+Date: 15 February 2015 at 21:45
+Subject: Possible indexes to assist research into Government officials in
+Pondicherry around 1690-1699
+
+
+Hi,
+
+I was researching indexes which might help my wife's research. I am getting
+a 404 on the one at the French Institute at Pondicherry, though I have
+already emailed them for advice.
+
+I wonder whether you could guide me to sources that might be able to help.
+the area of research is outlined below.
+
+
+My wife Katy is travelling from Scotland to Pondicherry next month.
+>
+> She understands that her direct ancestor Daniel De Lacherois was a
+> Government official, possibly Governor, in Pondicherry in the period
+> 1690-1699.
+>
+>
+> https://books.google.ie/books?id=03zGAjtTnTQC&pg=PA183&lpg=PA183&dq=daniel+delacherois+pondicherry&source=bl&ots=GXI8VP0xQ5&sig=7N47lRdmhaiAlOcLhK9O_ML_HB0&hl=en&sa=X&ei=XurgVKjvKceQ7Ab134GYAg&ved=0CCgQ6AEwAQ#v=onepage&q=daniel%20delacherois%20pondicherry&f=false
+>
+> I wondered if you could connect her with a historian with knowledge of
+> that period. Or could she arrange to come and see what records might exist
+> in the library?
+>
+> Simon Dessain
+> Lawton, Arbroath, Angus DD11 4RU
+> +44 1241 830217
+> @simdess
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150216/cf8ddb68/attachment.htm>

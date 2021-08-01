@@ -1,0 +1,27 @@
++++
+title = "11 Stephen Hodge"
+date = "2009-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033217.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033217.html)
+
+Dear all,
+
+I thank everybody who answered my query and made useful suggestions.
+
+It is interesting that there is often no clear distinction between loss of 
+taste and loss of appetite ~ though naturally I suppose the latter does not 
+presuppose the former.  My context specifically highlights the loss of taste 
+aspect.  The sources (Tibetan and Chinese, as usual) I am investigating 
+suggest an underlying term that should comprise "burnt / parched / scorched 
++ lips / tongue".  This most obviously suggests 
+vi'su.ka-jihvaa-taaluuna-ka.n.tha, but I am not sure if this also implies 
+the loss of taste that is required contextually.  I had wondered if there 
+was another Skt term that could have been used here.
+
+Best wishes,
+Stephen Hodge
+
+
+

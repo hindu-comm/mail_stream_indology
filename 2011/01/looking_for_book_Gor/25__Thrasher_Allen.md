@@ -1,0 +1,28 @@
++++
+title = "25 Thrasher, Allen"
+date = "2011-01-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-January/035048.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-January/035048.html)
+
+A patron in India is looking for a book in Marathi or Hindi of the above title, which I am unable to find (under any plausible spelling in Nagari or romanization) in any bibliographies of the Gorakh Panth, nor in WorldCat.  Has anyone ever heard of it?
+
+Thanks,
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian and Team Coordinator
+South Asia Team
+Asian Division
+Library of Congress
+Washington, DC 20540-4810
+USA
+tel. 202-707-3732
+fax 202-707-1724
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

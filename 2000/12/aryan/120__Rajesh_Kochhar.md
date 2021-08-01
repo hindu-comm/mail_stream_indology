@@ -1,0 +1,14 @@
++++
+title = "120 Rajesh Kochhar"
+date = "2000-12-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024241.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024241.html)
+
+Terms have the meaning given to them. After the misuse of the term Aryan, there is a strong emphasis on using "correct" expressions, emphasising language rather than race. Aryan is a subset of the broader Indo-European speakers.The Aryans are the Rgvedic and Avestan peoples, because these books use the term, Rv more generally than the Av.The term Indo-European ( probably coined as a counterweight to Indo-Germanic ) is as old as 1813,although it  was long before it bacame fashionable. Incidentally the scientific term energy was coined by the person who coined Indo-European:Thomas Young
+
+Rajesh Kochhar
+
+
+

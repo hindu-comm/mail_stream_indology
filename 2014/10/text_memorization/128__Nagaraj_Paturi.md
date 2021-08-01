@@ -1,0 +1,62 @@
++++
+title = "128 Nagaraj Paturi"
+date = "2014-10-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-October/040042.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-October/040042.html)
+
+Dear Prof. James Hartzell,
+
+I recently stumbled upon this website
+
+https://avagraha.wordpress.com/
+
+with a tagline of
+
+"Memorizing texts in a digitized world"
+
+with pages such as
+
+http://avagraha.wordpress.com/2013/02/16/memorizing-long-rules/
+
+remembered your post.
+
+Wanted to share.
+
+Regards,
+
+Nagaraj
+
+
+
+
+
+
+
+
+
+
+
+Dear colleagues
+
+Might someone have handy some references on the practice of memorization in
+the Sanskrit (and Tibetan) traditions?  I know memorizing texts is a basic
+part of, for instance, traditional medical education, jyotishastra, etc.
+What I am looking for are good published studies describing these practices
+(pdf's would be a bonus).
+
+Cheers,
+
+James Hartzell, PhD
+Center for Mind/Brain Sciences (CIMeC)
+The University of Trento, Italy
+
+-- 
+Prof.Nagaraj Paturi
+Hyderabad-500044
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141004/1640cc4c/attachment.htm>

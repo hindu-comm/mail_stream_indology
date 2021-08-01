@@ -1,0 +1,36 @@
++++
+title = "314 Harry Spier"
+date = "2000-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023784.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023784.html)
+
+Dear list members,
+
+Firstly many thanks to Yaroslav Vassilkov, Valerie Roebuck,  Peter
+Schreiner,  V.V. Raman, Peter wyzlic, and V. Vijayaraghavan for the
+information about "bhagavAn".  Another word I have to write a few words on
+is "namaH" and I've come across an etymology of "namaH" that sounds very
+much like a folk etymology.  In this etymology "namaH" is described as a
+corrupt form of "na mama" (not mine) from the sacrificial oblation formula
+"agne idam na mama" .  If this is a traditional etymology does anyone
+recognize it and know from where in the literature it comes from?  The two
+separate books I've seen this etymology in are modern books about Ganesha
+(neither gives a reference).
+
+Many thanks,
+
+Harry Spier
+371 Brickman Rd.
+Hurleyville, New York
+USA 12747
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

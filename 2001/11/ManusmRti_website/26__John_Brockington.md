@@ -1,0 +1,58 @@
++++
+title = "26 John Brockington"
+date = "2001-11-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-November/026455.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-November/026455.html)
+
+A posting below from McComas Taylor, forwarded through me because he has had
+problems posting direct.
+
+John Brockington
+
+
+Professor J. L. Brockington
+Secretary General, International Association of Sanskrit Studies
+
+Sanskrit, School of Asian Studies
+7 Buccleuch Place
+Edinburgh   EH8 9LW        U.K.
+
+tel:  +131 650 4174
+fax: +131 651 1258
+
+
+************
+
+New "Laws of Manu" Website
+
+Dear Friends
+
+I have established a new 'Laws of Manu' website with the following
+materials:
+
+A bilingual Devanagari-English text with  the Sanskrit text of  M.YANO and
+Y.IKARI
+which is based on 'ManusmRti with the Sanskrit Commentary
+Manvartha-Muktaavalii of Kulluuka
+BhaTTa', ed. J.L.Shastri (1983) and 'The Laws of Manu' translated by George
+Bühler (Sacred Books of the East, Volume 25). The text is in both PDF and
+Word format.
+
+The devanagari text alone
+
+The English text alone.
+
+Please visit the site at
+
+http://members.ozemail.com.au/~mooncharts/manu/index.html
+
+Yours
+
+McComas
+
+*********
+
+
+

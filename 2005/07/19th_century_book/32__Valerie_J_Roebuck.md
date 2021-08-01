@@ -1,0 +1,35 @@
++++
+title = "32 Valerie J Roebuck"
+date = "2005-07-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-July/029273.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-July/029273.html)
+
+Thank you to everyone who has provided information about the 19th 
+century copy of the Tulsi Ramayana.  I hope shortly to have some 
+digital photos of the work.  I believe it is possible to place 
+relevant photos on the Indology website?
+
+Valerie J Roebuck
+Manchester, UK
+
+At 8:49 am -0400 25/7/05, Allen W Thrasher wrote:
+>I find that lithographed books from India often look as much like 
+>mss as like books printed from moveable type.  I think it is not 
+>just that the graphemes are somewhat less regular, but that the 
+>ink-paper interface (w.w.?) is different from letterpress. Graham 
+>Shaw at the British Library has done a study of lithography in India 
+>and is still collecting material on it.  Have you shown it to him? 
+>
+>It is possible, also, that under the inspiration of moveable type 
+>books the scribe was particularly careful to be very regular, more 
+>so than traditionally the best scribes would be.  I have in my own 
+>library an ed. of the Bhagavatapurana published in Pune in the 1970s 
+>or 1980s made by a brahmacari by hand and reproduced by 
+>photo-offset. You would think it was letterpress, all the more so 
+>since the same decorative frame was around the text on each page, 
+>done on a transparency and then photographed along with the text.
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Manifestation or Knowledge"
+
++++

@@ -1,0 +1,37 @@
++++
+title = "252 Vidyasankar Sundaresan"
+date = "2000-08-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022486.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022486.html)
+
+>Sorry Vidya. You are wrong. Ekoji II @ Bhava Saheb died in the year 1736AD.
+>His father Thukkoji also died in the same year.Then one sujan Bhai ascended
+>to the Tanjore throne.She was succeded by King Prathapa simha in 1739 AD
+>(Saka 1661). This information is confirmed by the Bhonsle vamsa Charithram
+
+Sujan Bai, Ekoji's wife, was Shahuji's mother. She was appointed regent till
+he attained majority. Technically, Shahuji was king until the year 1749,
+when Pratapasimha, another son of Ekoji, ousted him. Pratapasimha was much
+older than Shahuji, and could have directly become king in 1736 itself,
+without the intervening regency of the queen. The only problem - he was an
+illegitimate son of Ekoji, or at least, he was originally debarred from the
+succession. The Bhonsale Vamsa Charitram glosses over these events, as it
+was written during the rule of Serfoji (?), a descendant of Pratapasimha.
+
+See R. Sewell's "A Sketch of the Dynasties of Southern India" for details. I
+remember having read about this conflict in succession elsewhere too, but
+can't place the exact source right now. Some book on Maratha history, which
+gave a little information on the Tanjavur branch of the family.
+
+Vidyasankar
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

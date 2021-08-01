@@ -1,0 +1,22 @@
++++
+title = "25 George Hart"
+date = "2001-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-September/026356.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-September/026356.html)
+
+I am looking a bit further into the institution of caste (jaati),
+which I have shown is documented in Tamil Sangam literature.  The
+evidence is, in my opinion, conclusive that jaati is pre-Aryan and
+existed in prehistoric South India (and probably at a very early time
+in the rest of South Asia).  In my view, the defining feature of the
+caste system is the lowest castes (dalits), who play the role of
+priests and intermediaries with the spirit world in old Tamil and
+even in many areas of modern South Asia.  I am interested in locating
+the earliest references to CaNDaalas and other very low castes in
+Sanskrit/Prakrit/Pali.  Thanks.  George Hart
+--
+
+
+

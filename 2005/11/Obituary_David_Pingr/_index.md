@@ -1,0 +1,4 @@
++++
+title = "Obituary, David Pingree"
+
++++

@@ -1,0 +1,54 @@
++++
+title = "02 ponsjehk"
+date = "2020-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-December/053840.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-December/053840.html)
+
+Dear list members,
+
+
+
+The Center for Religious Studies at Ruhr-Universität Bochum has announced 2
+Research Associate positions to work on the Digitization of Gandharan
+Artefacts (DiGA) project. The DiGA project will digitize and catalogue a
+corpus of 1,791 Buddhist sculptures from Gandhara currently kept in two
+collections in Chakdara and Saidu Sharif. The resulting database will be
+hosted on heidICON (Heidelberg University Library) and made available on
+OpenAccess. The project is funded by the German Federal Ministry for
+Education and Research (funding line eHeritage) for a period of three years.
+
+
+
+Details about the project and the positions can be found here
+<https://www.stellenwerk-bochum.de/jobboerse/best-nr-449087-2-research-assoc
+iate-positions-tv-l-13-2987-hw-2-years-201218-433101> . The deadline for
+applications is 31st of January 2021. Please feel free to circulate the
+announcement!
+
+
+
+Two short precisions on the announcement:
+
+1.	The positions are advertised for two years but it is actually just
+under three years. The researchers will start working after the official
+start of the project on the 1st of February 2021 (very likely in the Spring
+as soon as the hiring process is complete), and will be employed until its
+official end on the 31st of January 2024. 
+2.	The positions are open for doctoral candidates and postdoctoral
+researchers alike. 
+
+
+
+All the best,
+
+Jessie Pons
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201218/2de4c46e/attachment.htm>

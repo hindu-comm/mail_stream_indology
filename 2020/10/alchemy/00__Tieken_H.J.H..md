@@ -1,0 +1,31 @@
++++
+title = "00 Tieken, H.J.H."
+date = "2020-10-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-October/053456.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-October/053456.html)
+
+Dear Paolo,
+
+I have seen a paper (maybe it has not been published yet) by Ilona Kedzie; email: ilkedzia at gmail.com) about a Tamil siddha who actually visited colleagues in the moslim world. But maybe you are only interested in
+
+traffic into the other direction.
+
+You might also be interested to read her article "Global Trajectories of a Local Lore: Some Remarks about Medico-Alchemical Literature of the two Tamil Siddha Cosmopolities" in Cracow Indological Studies 18 (2016), pp. 93-118. If you don't know the article already.
+
+Best, Herman
+
+
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201008/6aa05e95/attachment.htm>

@@ -1,0 +1,26 @@
++++
+title = "143 Tieken, H.J.H."
+date = "2018-01-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-January/047123.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-January/047123.html)
+
+Dear List members,
+Hultzsch (1925) and Falk (2006) provide conflicting descriptions of the arrangement of the edicts in Jaugada (Orissa). Harry Falk informed me that it it was difficult to get a good view of the inscription through the grill and take a photo of the entire inscription.I am particularly interested in the exact position of the two Separate Edicts in relation to REs 1-5 (left) and REs 6-10 + 14 (right). (Note that the lower edict sticks out to the left) I hope that there is someone on the list who can help me out.
+
+I must add that I do not know what I am actually looking for. In Dhauli the SepEs seem to bracket the text of the Rock Edict Series. In Sannati they are found on the rear of the slab with REs 12 and 14, but in the case of a slab there is no above, below or around.
+
+Best, Herman
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180104/b281c5f8/attachment.htm>

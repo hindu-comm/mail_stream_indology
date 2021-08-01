@@ -1,0 +1,53 @@
++++
+title = "206 Allen W Thrasher"
+date = "2001-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025777.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025777.html)
+
+I presume that when it says "this is the language which God spoke, it
+means that this is the language in which he inspired the Hebrew Bible"
+and in which when he talked with the Patriarchs and Prophets, he
+addressed them.
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+
+Senior Reference Librarian       101 Independence Ave., SE
+Southern Asia Section               LJ-150
+Asian Division                            Washington, DC 20540-4810
+Library of Congress                     U.S.A.
+tel. 202-707-3732                       fax 202-707-1724
+Email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+>>> Stephen Hodge <s.hodge at PADMACHOLING.FREESERVE.CO.UK> 03/17 11:06
+AM >>>
+Martin Delhey wrote:
+
+> But it should be noted that this view indeed existed in Christian
+Europe. It
+> seems have to be discarded by the 19th century. Refer e.g. to the
+> Encyclopedia Britannica. (Section on "Historical Attitudes toward
+> language").
+
+Not quite the same view but similar are quoted with approval in the
+introduction to the 1955 ed of Biblical Hebrew in the once
+prestigious
+Teach Yourself series (R.K. Harrison):  "[Hebrew] is the eternal
+mother-tongue of all true religion" and "This is the language which
+God spoke".  One assumes that his motives are to encourage the study
+of Hebrew among Christians as he deplores the lack of interst among
+theology students.
+
+Best wishes,
+Stephen Hodge
+
+
+

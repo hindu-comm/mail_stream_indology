@@ -1,0 +1,38 @@
++++
+title = "81 Allen W Thrasher"
+date = "2002-02-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-February/026717.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-February/026717.html)
+
+Georg v. Simson wrote:
+<<In Hindi, zer may denote both tiger and lion -
+people either do not know the distinction or they do not care because
+they regard it irrelevant.>>
+
+On the same line, in miniatures a lion is frequently represented as a
+tiger with a mane, or even with what looks less like a mane than a
+beard.  This pops up particular in representations of Vishnu Narasimha.
+Has anyone worked on when this change starts?  And can it be correlated
+with a decline in the population and spread of the Indian lion, so that
+it was harder and harder to see one even in royal menageries?
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+
+Senior Reference Librarian       101 Independence Ave., SE
+Southern Asia Section               LJ-150
+Asian Division                            Washington, DC 20540-4810
+Library of Congress                     U.S.A.
+tel. 202-707-3732                       fax 202-707-1724
+Email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

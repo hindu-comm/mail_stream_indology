@@ -1,0 +1,33 @@
++++
+title = "02 Steven Vose"
+date = "2015-04-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-April/041055.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-April/041055.html)
+
+For those of you who, like me, had some trouble reading the email from Ven. Samani Unnata Pragya, the text that will kick off our Online Lecture Series hosted by the Jain Studies Program at FIU is the Acaranga Sutra.
+
+Hermann Jacobi’s English translation of the text is available in the SBE series, vol. 22 (with the Kalpa Sutra; vol. 45 has the Uttaradhyayana and Sutrakrtanga Sutras). An electronic version of that translation is available at: http://www.archive.org/stream/gainastras01aco#page/n7/mode/2up <http://www.archive.org/stream/gainastras01aco#page/n7/mode/2up>
+
+Additionally, the Ardha-Magadhi text can be accessed via the Jain e-Library in a number of editions: jainlibrary.org <http://jainlibrary.org/>
+
+Looking forward to having you join us for this lecture series. The first lecture will be held May 6, GMT 17.00 (5:00PM). The series will be archived on the FIU Jain Studies Program website: jainstudies.fiu.edu <http://jainstudies.fiu.edu/>	
+
+Best,
+Steve
+
+Steven M. Vose
+Bhagwan Mahavir Assistant Professor of Jain Studies
+Director, Jain Studies Program
+Department of Religious Studies
+Florida International University
+11200 SW 8th St., DM 359-A
+Miami, FL 33199 USA
+jainstudies.fiu.edu <http://jainstudies.fiu.edu/>	
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150424/4b191643/attachment.htm>

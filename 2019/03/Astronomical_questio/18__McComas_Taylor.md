@@ -1,0 +1,35 @@
++++
+title = "18 McComas Taylor"
+date = "2019-03-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-March/049522.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-March/049522.html)
+
+Dear friends,
+
+I received this from Simon Burke, a PhD student at ANU. Can anyone help him?
+
+Please respond directly to Simon at:  simonlrburke at gmail.com
+
+---
+
+I am working on a Medieval Arabic text. At one point in this text I suspect a Sanskrit word transliterated into Arabic letters is being used. In the context of discussing the eclipse of the sun as being the conjunction of the sun and moon at a node the author clarifies the Arabic term for node by giving the Turkish word for node and then another word for node apparently of Indian origin: nubhar (نوبهر). If it is not burdensome I would ask if you would be able to confirm to me if nubhar (نوبهر) has a resemblance to a Sanskrit (or other  Indian language) word for a "node" and if so: what is that word?
+
+---
+
+[cid:e88926b1-85ae-4c4f-91aa-276c7baf26d2]
+
+McComas Taylor
+Associate Professor
+Reader in Sanskrit
+College of Asia and the Pacific
+The Australian National University
+WSC Website<http://www.wsc2021.com.au>| McC Website<https://sites.google.com/site/mccomasanu/>
+Tel: +61 2 6125 3179
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190318/70130dce/attachment.htm>

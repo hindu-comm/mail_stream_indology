@@ -1,0 +1,43 @@
++++
+title = "66 Jan E.M. Houben"
+date = "2000-02-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020108.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020108.html)
+
+In the Rgvedic horse sacrifice as it appears in RV 1.162 the horse was
+killed with an axe (1.162.9), parts of it are explicitly eaten (cf. RV
+1.162.12: y/e c/Arvato mAMsabhikS/Am upAsat/e; ). In the azvamedha of the
+zrauta-sUtras the horse is suffocated, and much attention is paid to the
+burning of parts (offering to the gods) after the ceremonies with the queen.
+Eating is not prominent (cf. Dumont's Asvamedha 1927, consommation of iDA).
+In the description of the azvamedha in the mahAbhArata mention is made of
+the smelling of horse meat by the sacrificer (yudhiSThira) (Dumont p. 387).
+For some reflections on a gradual receding in importance of actual eating in
+Vedic ritual in general (not specifically the horse sacrifice) cf.
+Heesterman, The Broken World of Sacrifice, Chicago Univ. Press p. 189ff.
+JH
+Jan E.M. Houben,
+Kern Institute, Leiden University,
+P.O. Box 9515, NL-2300 RA   Leiden
+jhouben at RULLET.LeidenUniv.NL
+-----Original Message-----
+From: Haridas C <haridasc at YAHOO.COM>
+To: INDOLOGY at LISTSERV.LIV.AC.UK <INDOLOGY at LISTSERV.LIV.AC.UK>
+Date: Sunday, February 06, 2000 5:35 PM
+Subject: ashvamedha--to eat or not to eat?
+
+
+>Dear listmembers,
+>
+>Was the flesh of the sacrificed horse eaten or not?
+>
+>Thanks in advance.
+>__________________________________________________
+>Do You Yahoo!?
+>Talk to your friends online with Yahoo! Messenger.
+>http://im.yahoo.com
+
+
+

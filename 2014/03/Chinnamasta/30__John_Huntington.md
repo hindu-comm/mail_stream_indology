@@ -1,0 +1,38 @@
++++
+title = "30 John Huntington"
+date = "2014-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-March/039142.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-March/039142.html)
+
+Traditionally Chinnamsta is shown as a red nude figure, in a dancing
+posture with her own  severed head and blood flowing into her own mouth and
+either the mouths or kapalas of Vijaya and Jaya, her two companions. All
+three as ascetic females wearing little but jewelry
+
+Her "Vahana" is Kama and Rati shown in Pahari painting as copulating
+
+There are numerous modern  interpretations including her as essentially
+also sa brandishing Durga's knife  (to slay the buffalo?) and occasionally
+with other figures in attendance.
+
+In Nepal the traditional for occurs in both Hinduism and Buddhism and in
+the latter she is is specifically an aspect of Vajravarahi.
+
+I know of no traditional images of her on a Lion and only one by a modern
+artist, Kailash Raj, Cited below at exoticindiaart.com It might be
+interesting to ask him if he has a traditional source for the iconography.
+
+John
+
+
+John C. Huntington, Professor Emeritus
+Buddhist Art, Asian Numismatics,
+Field and Object Art Photography
+ john.darumadera at gmail.com
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140315/b26451ce/attachment.htm>

@@ -1,0 +1,23 @@
++++
+title = "84 Arlo Griffiths"
+date = "2016-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-August/043787.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-August/043787.html)
+
+Thanks to several colleagues for pointing me to copies of the document that are accessible online, and for showing me how Way Back Machine preserves copies of the descriptive webpage that has gone offline.
+
+
+Seeing how poorly this standard is publicized, it is no wonder that it seems to have met with so little adherence in our field. Who were the scholars behind the "First edition 2001-10-01"? Was it the subject of broad discussion on INDOLOGY, more than fifteen years ago, before it was finalized? (If I was already a member of the forum then, I have no recollection of such discussion, or perhaps I was not interested at the time.)
+
+
+Would it be possible to recreate the ISO document in a free, natively online version, with the better fonts for Indian scripts now available, and publish this through indology.info? It is hard to fathom how such a standard could not be in the public domain. But if copyright issues stand in the way, then surely some version could be created that is sufficiently different from the published pdf document but still gives all essential information for scholars to know how to use this transliteration standard?
+
+
+Arlo Griffiths
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160805/488ad2a9/attachment.htm>

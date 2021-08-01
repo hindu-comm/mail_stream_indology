@@ -1,0 +1,23 @@
++++
+title = "96 Stephen Hodge"
+date = "1999-11-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/018960.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/018960.html)
+
+Hi, all Tamilologists (if that's what we can call you)
+
+When I recently asked for advice about learning Classical Tamil, some
+of you were kind enough to give me useful suggestions, for which I
+thank you.
+
+Just one more enquiry.  Does anybody know of a Tamil-Sanskrit or
+(better) Sanskrit-Tamil dictionary.  My assumption is that if any such
+work exists it would be pre-modern.
+
+Best wishes,
+Stephen Hodge
+
+
+

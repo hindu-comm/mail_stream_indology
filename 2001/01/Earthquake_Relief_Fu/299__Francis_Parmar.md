@@ -1,0 +1,21 @@
++++
+title = "299 Francis Parmar"
+date = "2001-01-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025110.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025110.html)
+
+Friends,
+It is quite heartening for us in Ahmedabad and Gujarat to realise that
+people from all over are concerned and want to help.  A lot of help is
+pouring in for the immediate relief in areas that have got media attention.
+I believe more needs to be done for far flung smaller towns and villages
+that have received no media attention.  Besides, long term rehabilitation is
+another area that needs to be thought of.  Some sort of adoption of an area
+may be of help.
+Once more, thanks for the concern expressed.
+Francis Parmar, SJ
+
+
+

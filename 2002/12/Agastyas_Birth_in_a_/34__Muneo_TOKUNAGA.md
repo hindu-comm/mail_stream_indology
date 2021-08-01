@@ -1,0 +1,21 @@
++++
+title = "34 Muneo TOKUNAGA"
+date = "2002-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-December/027329.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-December/027329.html)
+
+garzilli> Actually RV VII.33.11 refers specifically to Vasistha's birth.
+
+One may also refer to st.13, in which Maana=Agastya is born
+simultaneously (Geldner's note on 13c and his footnote, RV, Vol.I,
+p.237, fn.1). Thus the story goes back to the RV.
+
+I coundn't find the actual episode of his birth from the pot (besides
+the naming) in the main text of the MBh (Cr.Ed.).
+
+Tokunaga
+
+
+

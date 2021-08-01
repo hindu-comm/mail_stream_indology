@@ -1,0 +1,29 @@
++++
+title = "121 Dominik Wujastyk"
+date = "2001-04-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026064.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026064.html)
+
+Prof. Staal has written as follows (apparently this is not in print, I'm
+afraid):
+\begin{quote}
+Your memory is so excellent! However, that comment was made by Professor
+Sylvain Bromberger at MIT, a brilliant philosopher very close to the
+Chomsky crowd who had asked me how the Indians expressed the theorem. I
+wrote to Hayashi what he thought of it and he said it was certainly true
+that it could be interpreted thus but that the only interpretations he had
+come across were with regard to squares.
+
+It seems unlikely, then (though Takao is may be too careful a philologist
+to have taken that step!) that the Indians thought of other polygons or
+half-circles. Would be fascinating to find evidence.
+\end{quote}
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

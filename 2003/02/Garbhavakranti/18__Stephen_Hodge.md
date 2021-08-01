@@ -1,0 +1,42 @@
++++
+title = "18 Stephen Hodge"
+date = "2003-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027480.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027480.html)
+
+Jonathan Silk wrote:
+
+> There are two Garbhavakrantis in the collection [snip] (The Tibetan
+versions are
+> renderings from Chinese).
+There are, as you know, two in the Chinese RK and two in the Tibetan RK but
+though the colophon to one of the Tibetan versions indicates that it was
+translated by Chos-grub from the Chinese, the other version gives no such
+indication -- so is your suggestion based on a comparison with the other
+Chinese version or just an assumption ?
+Apart from the MS Vinaya connections, has anybody commented on the list of
+"worms" listed in these texts ?  The list has a great resemblance to that
+given in the Vimutti-magga, suggesting perhaps some influence from there.
+Yijing who translated one of the versions in the Chinese RK seems to have
+acquired some of his mss in Sri Lanka so could the Garbhavakranti have some
+S Indian origin or connection ?
+
+> I might also remark here that I believe that this text is very
+> important in one most interesting respect: it counts pregnancy in
+> weeks.
+Note that the Vimutti-magga also counts the development of the embryo in
+weeks.
+
+Years ago I did some work on the anatomical descriptions found in these and
+other works and I think there is clear evidence that they are presenting a
+distinct tradition that is unconnected with the Susruta / Caraka lineages --
+e.g. the way of enumerating the bones is different -- so your suggestion of
+a Hellenistic influence looks plausible.
+
+Best wishes,
+Stephen Hodge
+
+
+

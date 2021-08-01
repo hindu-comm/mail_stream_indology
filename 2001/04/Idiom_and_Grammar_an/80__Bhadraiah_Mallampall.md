@@ -1,0 +1,41 @@
++++
+title = "80 Bhadraiah Mallampalli"
+date = "2001-04-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026043.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026043.html)
+
+>S. Bhatta wrote..
+>The universality of language, is it that which qualifies to leave your
+> >area to wander into another?
+
+We need to support all inter-disciplinary approaches. Just in case Sanskrit
+is not the mother of all subjects, scholarly input from other subjects is
+indispensable. For instance who can formulate a theory about war without
+ever acknowledging Adam Smith and his work re: the "invisible hand" and rise
+and fall of civilizations?
+
+Human civilizations or any other colonies of life live on a very simple
+principle : it is called Anando brahma or what Adam Smith explained "self
+interest". Then why do wars happen? That is because capital always
+concentrates as people invest only in avenues that are most profitable, just
+as consciousness and happiness always concentrate as indra. This results in
+deprivation of capital for other avenues, leading to conflicts and wars;
+just as agni takes the brunt of pain and suffering and fights back (having
+been a victim of gods). "Ideally speaking" the whole subject of veda can be
+rediscovered using this one principle of Anando brahma because it is all
+about collective bargaining of gods for soma.
+
+To suggest that someone fought with one hand, selectively passing
+manuscripts like vedas with the other (but holding back other stories like
+Genesis etc) and sharing sperm between the blows, doesn't seem to go well
+Adam Smith.. any ideas?
+
+Regards
+Bhadraiah
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+
+

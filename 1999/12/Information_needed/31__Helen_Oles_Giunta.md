@@ -1,0 +1,27 @@
++++
+title = "31 Helen Oles Giunta"
+date = "1999-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019337.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019337.html)
+
+In a message dated 12/2/99 7:47:02 PM Eastern Standard Time,
+vpcnk at HOTMAIL.COM writes:
+
+<< www.bookfinder.com >>
+Dear Nanda,
+Thanks for that web address, I can assure you I will make good use of it. My
+best outlet for used and rare books dealing with indiology is half way up in
+the Rocky Mountains of Colorodo -- it will be much easier getting them this
+way ( and hopefully my Rocky Mountain treasure trove will be included in the
+addreses' dealers).
+Helen O.
+
+PS
+Great to be on board at this lister service. I have been reading for sometime
+now and just decied to begin contributing. (Also--Glad the AIT episode of a
+few days ago was cleared up as well.)
+
+
+

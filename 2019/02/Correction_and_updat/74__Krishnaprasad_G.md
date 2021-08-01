@@ -1,0 +1,174 @@
++++
+title = "74 Krishnaprasad G"
+date = "2019-02-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-February/049353.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-February/049353.html)
+
+Dear Harry Spier
+Thanks a lot this great. You helped me a lot.
+Dear all before creating fonts I was searching a lot for the most used
+conjuncts in Sanskrit(not Vedic) but could not found, I am glad that
+Dominik Wujastyk is going to send the list and I am waiting for that.
+And for benefit of others, I am sharing all the important conjuncts here.
+
+क्क क्त क्त्य क्त्व क्न क्न्य क्म क्य क्र क्र्य क्ल क्व क्ष क्ष्ण क्ष्म
+क्ष्म्य क्ष्य क्ष्व ख्य ग्ध ग्न ग्न्य ग्र ग्र्य ग्ल ग्व घ्न घ्न्य घ्य घ्र
+घ्र्य ध्व ङ्क ङ्ख ङ्ख्य ङ्क्त ङ्क्त्य च्च च्छ च्छ्र च्छ्व च्म च्य ज्ज ज्र
+ज्र्य ज्व ट्ट ट्त्रि ट्य ट्सु ट्स ठ्य ठ्र ठ्सु ड्ग ड्म ड्य ढ्व ढ्य ण्ण ण्म
+ण्य ण्व त्त त्त्य त्त्र त्थ थ्य त्न त्न्य न्त्र्य त्प त्प्र त्फ त्म त्म्य
+त्य त्र त्र्य त्व त्स त्स्न त्स्न्य त्स्य द्ग द्ग्र द्द द्द्य द्ध द्ब द्ब्र
+द्भ द्ध्य द्म द्य द्र द्र्य द्व द्व्य द्व्र  ध्न ध्न्य न्न न्न्य न्म न्य
+न्व प्त प्त्य प्न प्म प्य प्र प्ल प्स प्स्य ब्ज ब्द ब्द्य ब्ध ब्य ब्र भ्ण
+भ्न भ्य भ्र भ्व म्म म्ण म्ण्य म्य म्र म्ल म्व य्व र्ण्य र्ध्व र्व्य
+र्त्स्न्य ल्क ल्ग ल्प ल्म ल्य ल्ल ल्व व्य व्र श्च श्न श्म श्य श्र श्ल श्व
+ष्क ष्क्र ष्ट ष्ट्य ष्ट्र ष्ट्व ष्ठ ष्ठ्य ष्ण ष्प ष्प्र ष्म ष्य ष्व स्क स्ख
+स्त स्त्य स्थ स्थ्य स्न स्प्र स्फ स्म स्य स्र ह्ण ह्न ह्न्य ह्म ह्य ह्र ह्ल
+ह्व
+
+On Wed, Feb 20, 2019 at 8:53 AM Harry Spier <hspier.muktabodha at gmail.com>
+wrote:
+
+>
+> Dear Krishnaprasad,
+> I've attached a pdf of 4 examples of the cluster ṭtr taken from the the
+> paper transcripts of the IFP .  These are handwritten in  the 50's and 60's
+> .  They are by different scribes and they all use virama.  I didn't find
+> any in the IFP transcripts that had the tra underneath, but I stopped
+> searching after these four.
+>
+> Harry Spier
+>
+> On Mon, Feb 18, 2019 at 9:15 PM Madhav Deshpande via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear Krishnaprasad Ji,
+>>
+>>      I don't have access to a manuscript of Ṣaṭtriṃśattattvasandoha, but
+>> here is the title page of the printed book that does not use a cluster of
+>> "tra" hanging below "ṭ", but prints just "ṭ" with a virāma sign.
+>>
+>> [image: image.png]
+>> On the other hand, the title page of the edition in the Kashmir Text
+>> Series, uses such a vertical cluster:
+>>
+>> [image: image.png]
+>> However, it looks somewhat odd in its appearance to me.
+>>
+>> Madhav M. Deshpande
+>> Professor Emeritus
+>> Sanskrit and Linguistics
+>> University of Michigan
+>> [Residence: Campbell, California]
+>>
+>>
+>> On Mon, Feb 18, 2019 at 10:12 AM Madhav Deshpande <mmdesh at umich.edu>
+>> wrote:
+>>
+>>> Dear Krishnaprasad Ji,
+>>>
+>>>      Great to see your progress.  A comment.  Some horizontal lines,
+>>> like that न, look thicker than the top line and lines in some other
+>>> characters.  The thickness should be uniform.  Similarly, the knot for न,
+>>> म, भ etc. should look exactly the same, and it should look the same whether
+>>> it appears in full or half forms of these characters.
+>>>
+>>> Madhav M. Deshpande
+>>> Professor Emeritus
+>>> Sanskrit and Linguistics
+>>> University of Michigan
+>>> [Residence: Campbell, California]
+>>>
+>>>
+>>> On Mon, Feb 18, 2019 at 9:58 AM Krishnaprasad G via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>>> Dear all
+>>>> Some more characters.
+>>>> Thanks
+>>>> KP
+>>>>
+>>>> On Thu 27 Dec, 2018, 8:11 PM Madhav Deshpande, <mmdesh at umich.edu>
+>>>> wrote:
+>>>>
+>>>>> Dear Krishnaprasad Ji,
+>>>>>
+>>>>>      Thank you so much for this download link.  It is a wealth of
+>>>>> useful resources.  With best regards,
+>>>>>
+>>>>> Madhav M. Deshpande
+>>>>> Professor Emeritus
+>>>>> Sanskrit and Linguistics
+>>>>> University of Michigan
+>>>>> [Residence: Campbell, California]
+>>>>>
+>>>>>
+>>>>> On Wed, Dec 26, 2018 at 7:22 PM Krishnaprasad G <
+>>>>> krishnaprasadah.g at gmail.com> wrote:
+>>>>>
+>>>>>> Thanks, everyone for supporting me giving feedbacks.
+>>>>>>
+>>>>>> You can download from here.
+>>>>>> https://yadi.sk/d/rDIogm1J3WjKp4
+>>>>>>
+>>>>>> On Thu, Dec 27, 2018 at 8:43 AM Harry Spier <
+>>>>>> hspier.muktabodha at gmail.com> wrote:
+>>>>>>
+>>>>>>> Dominink Wujastyk wrote:
+>>>>>>>
+>>>>>>>>  modern font technology can help.  OpenType includes some
+>>>>>>>> "alternates" or "contextual alternates" features that allow the user (or
+>>>>>>>> auto-select) to select from multiple versions of a glyph.  But I'm sure you
+>>>>>>>> know this.  And it's only certain advanced text-setting programs like TeX
+>>>>>>>> that allow one to access such features easily (e.g., through
+>>>>>>>> fontspec <https://ctan.org/pkg/fontspec?lang=en>, manual part IV).
+>>>>>>>>
+>>>>>>>
+>>>>>>> I use the FontCreator program from Hi-Logic which allows you to
+>>>>>>> create open type "contextual features".  I've used this feature. I use the
+>>>>>>> professional product which retails for $199.00 but their website says that
+>>>>>>> the Home edition for $79.00 also has this feature (but the home edition
+>>>>>>> cannot be used for commercial purposes).  The program only works on windows.
+>>>>>>>
+>>>>>>>
+>>>>>>>>
+>>>>>>>> Such questions make me wish to consult Naik's classic work *Typography
+>>>>>>>> of Devanagari <http://www.worldcat.org/oclc/6241715>* (3 vols,
+>>>>>>>> 1971 rev. ed.), but I've never had access to a copy of this rare
+>>>>>>>> publication.
+>>>>>>>>
+>>>>>>>
+>>>>>>> I have this book. (Unfortunately its in storage in New York). Its
+>>>>>>> been 20 years since I looked at it but I recall it was absolutely
+>>>>>>> fascinating.  As I recall  one volume gives examples of devanagari printing
+>>>>>>> from the earliest printed editions up till fairly modern times (when it was
+>>>>>>> published), another volume  describes the authors ideas for a devanagari
+>>>>>>> typewriter and the third volume focuses on some esoteric ideas of the
+>>>>>>> author.  I can't recall the details.
+>>>>>>>
+>>>>>>> Harry Spier
+>>>>>>>
+>>>>>>>
+>>>>>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing
+>>>> committee)
+>>>> http://listinfo.indology.info (where you can change your list options
+>>>> or unsubscribe)
+>>>>
+>>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190221/ef9695f3/attachment.htm>

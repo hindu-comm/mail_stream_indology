@@ -1,0 +1,4 @@
++++
+title = "information about journal"
+
++++

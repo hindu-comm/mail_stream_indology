@@ -1,0 +1,30 @@
++++
+title = "175 Matthew Kapstein"
+date = "2016-09-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044000.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044000.html)
+
+Dear Jeffrey,
+
+Scholarly publications on Indological topics, but not destined solely for Indological
+readership, are increasingly dispensing with diacritical marks. If the scholarship is
+sound, I think that gives you a precedent. But I suppose I would want a doctoral
+student dealing with this material to be familiar with correct usage and so perhaps
+to supply an index in which the diacritical marks are given -- but that's just my preference.
+
+best,
+Matthew
+
+Matthew Kapstein
+Directeur d'études,
+Ecole Pratique des Hautes Etudes
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+_________
+
+
+

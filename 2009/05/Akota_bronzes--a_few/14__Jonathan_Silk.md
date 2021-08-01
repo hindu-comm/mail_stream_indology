@@ -1,0 +1,31 @@
++++
+title = "14 Jonathan Silk"
+date = "2009-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033156.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033156.html)
+
+Friends,
+
+Apparently, the copy of Akota Bronzes by U P Shah supposedly purchased by
+our library never made it into the collection, and the library has been
+unable to replace it. Therefore, I wonder whether someone who has it to hand
+would be willing to scan just a page or two for me. In particular, I am
+interested in the bronze apparently found on pg. 34, plates 75a-b, and the
+author's reading of its inscription (actually, I am only interested in the
+inscription, not the piece itself :-) So a scan of the inscription, if
+legible, and the editor's reading and translation would be great--many
+thanks in advance!
+
+jonathan silk
+
+-- 
+J. Silk
+Instituut Kern / Universiteit Leiden
+Postbus 9515
+2300 RA Leiden
+Netherlands
+
+
+

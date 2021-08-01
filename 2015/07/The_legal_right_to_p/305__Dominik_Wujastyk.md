@@ -1,0 +1,20 @@
++++
+title = "305 Dominik Wujastyk"
+date = "2015-07-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041616.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041616.html)
+
+In Holland and Germany, it seems, academics have the legal right to
+reproduce their own writings in an Open Access form after a "reasonable
+time" (Holland) or "12 months" (Germany).  That is, if the writings are
+funded - even partly - by public money.
+
+   -
+   https://blogs.ucl.ac.uk/copyright/2015/07/02/going-dutch-netherlands-law-on-green-open-access/
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150721/193f2ec1/attachment.htm>

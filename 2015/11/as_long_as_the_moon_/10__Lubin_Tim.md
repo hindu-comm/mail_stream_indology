@@ -1,0 +1,88 @@
++++
+title = "10 Lubin, Tim"
+date = "2015-11-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-November/042381.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-November/042381.html)
+
+Dear Herman,
+
+As it happens, I just presented a paper in Heidelberg that discussed this and other diplomatic idioms, their long duration and wide spread in South and Southeast Asia.
+http://www.haw.uni-heidelberg.de/md/haw/veranstaltungen/programm_nepal-tagung_07.08_ii.pdf
+I noted in particular that a surprising number of such idioms appear already in Aśoka’s edicts, even though these have often been regarded as quite unlike later South Asian inscriptions.  Here is a sampling of what I call the “perpetuity clause” in various forms.  There are many variations, but when moon and sun are mentioned (as they almost always are), it is always first and in that order, sometimes with stars inserted.  Here is a tiny selection of later examples in Sanskrit, (post-Aśoka) Prakrit, Tamil, and Javanese, though such examples are legion:
+
+Skt.:     ā-candrārkaṃ[1]/ ā-candrārka-tāra-kālīna[2]/ candra-tārārkka-sthiti-kāla-[3]/ etc. etc.
+            up to the time of the moon and sun [and stars]
+
+Pkt.:     ā-canda-tāra-kālīka[4]
+            up to the time of the moon and stars
+
+CT:      cantrātittaval[5]
+            as long as the moon and sun
+
+OJ:       kadi lavas saṅ hyaṅ candrāditya hana riṅ ṅ-ākāśa sumuluh hiṅ aṇḍabhuvana[6]
+            so long as the moon and sun remain in the sky and illuminate the earth-egg
+
+________________________________
+[1] Very common; an example from Nepal is the Yūpagrāmadraṅga grant of year 67 = 386, Gn. no. LXVII; DV no. 123; Regmi, no. 116, line 18, or the Lagan Tol stele above. -kāliya: Jamb CP, llines 30–31.
+
+[2] Many Bagh CPs from Orissa; sim. Paharpur CP, line 20, Baigram CP, line. 11, etc. etc.
+
+[3] Faridpur CP A, line 18.
+
+[4] Hirahadagalli CP, line 29.
+
+[5] Tirumūlanātar Temple, Bahur, year 27 of Kaṉṉaradeva = 966 (PI 9; ARE 1902.183; SII 7.810).
+
+[6] Kembang Arum A/B CP of Panggumulan I and II (ś 824-825 = 27 Dec. 902), 3v7–8.
+
+K. V. Ramesh has collected numerous examples from Kannada and Telugu inscriptions in his new Dictionary of Social, Economic, and Administrative Terms in South Indian Inscriptions (Oxford India, 2012), see pp. 8–9.
+
+The “sons and grandsons clause” that you mention is also almost as widespread, though it is not necessarily conjoined with the “moon  and sun clause.”
+
+I am revising the paper at them moment, but I would be willing to share it when it is ready, in mid-January.
+
+Best wishes,
+
+Tim
+
+Timothy Lubin
+Professor of Religion and Adjunct Professor of Law
+Washington and Lee University
+Lexington, Virginia 24450
+
+http://home.wlu.edu/~lubint
+http://wlu.academia.edu/TimothyLubin
+https://twitter.com/TimothyLubin
+
+ḷ
+
+
+From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of "Tieken, H.J.H." <H.J.H.Tieken at hum.leidenuniv.nl<mailto:H.J.H.Tieken at hum.leidenuniv.nl>>
+Date: Friday, November 27, 2015 at 10:36 AM
+To: "indology at list.indology.info<mailto:indology at list.indology.info>" <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: [INDOLOGY] as long as the moon and the sun shall shine
+
+
+Dear List members,
+
+In the Sāñcī version of Aśoka's Schism Edict we come across the expression (putapapotike) caṃdasūriyike, “(as long as my sons and great-grandsons shall reign and) the moon and the sun (shall shine)”. A variant is found in the so-called Seventh Pillar Edict: putapapotike caṃdamasuliyike hotu ti.
+
+I am certain I have come across the expression before, but at the moment can think only of cantirātitta-varai in a South Indian Tamil inscription. Furthermore, I remember having once seen a photograph of a hero-stone (or was it a satī-stone) with a sun and a moon carved in the upper part.
+
+I hope someone on the list can help me with some more information. What I would in particular like to know is how wide-spread this expression is, what are the oldest instances, and if it has been described in the secondary literature.
+
+With kind regards, Herman
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151127/37298793/attachment.htm>

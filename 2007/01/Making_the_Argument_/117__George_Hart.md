@@ -1,0 +1,22 @@
++++
+title = "117 George Hart"
+date = "2007-01-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030411.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030411.html)
+
+I find myself perplexed, to say the least, that apparently the most  
+potent argument for Sanskrit is that it has influenced a few (dead)  
+white men.  Surely Kalidasa and Ilango did not care in the slightest  
+what white people would think of their work.  And certainly any dean  
+approached about the importance of Sanskrit would be puzzled at these  
+arguments.  South Asia contains about 1.5 billion people. Their  
+cultures and ways of thought have been deeply influenced by the  
+classical tradition contained in Sanskrit (and Tamil).  Are we then  
+to argue that the importance of Sanskrit is that it influenced  
+Oppenheimer or Eliot in some minor way?  Is this not slightly  
+narcissistic?  George Hart
+
+
+

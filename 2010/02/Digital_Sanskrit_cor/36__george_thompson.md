@@ -1,0 +1,47 @@
++++
+title = "36 george thompson"
+date = "2010-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/033993.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/033993.html)
+
+Dear Oliver,
+
+I have had the chance today to look into your corpus & dictionary and I 
+too think that it is a valuable tool. I also thank you for your efforts.
+
+George Thompson
+
+Oliver Hellwig wrote:
+
+>Dear colleagues,
+>
+>I would like to announce that a digital corpus of lemmatized Sanskrit texts
+>is now available at
+>
+>http://kjc-fs-cluster.kjc.uni-heidelberg.de/dcs/
+>
+>The corpus contains more than 2.500.000 manually annotated entries. It
+>offers the possibilities to search for lemmata and collocations and presents
+>lists of referenced finite and infinite forms of each verbal lemma contained
+>in the lexical database. In addition, the corpus makes it possible to
+>examine the distribution of lexical units over the time using basic
+>statistical measures.
+>
+>
+>Best,
+>
+>Oliver Hellwig
+>
+>
+>PD Dr. Oliver Hellwig
+>Südasien-Institut, Universität Heidelberg
+>Im Neuenheimer Feld 330
+>69120 Heidelberg
+>
+>  
+>
+
+
+

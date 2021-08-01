@@ -1,0 +1,53 @@
++++
+title = "66 Lars Martin Fosse"
+date = "2010-04-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-April/034295.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-April/034295.html)
+
+I would like to thank all of you have supplied me with George Hart's email
+address!
+
+Best regards,
+
+Lars Martin Fosse
+
+
+From:
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo - Norway
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250
+Mobile phone: +47 90 91 91 45
+E-mail: lmfosse at getmail.no
+
+
+
+
+> -----Original Message-----
+> From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of 
+> Allen W Thrasher
+> Sent: Tuesday, April 13, 2010 4:37 PM
+> To: INDOLOGY at liverpool.ac.uk
+> Subject: Re: George Hart
+> 
+> George's email is glhart at BERKELEY.EDU.
+> 
+> 
+> Allen
+> 
+> 
+> Allen W. Thrasher, Ph.D.
+> Senior Reference Librarian
+> Team Coordinator
+> South Asia Team, Asian Division
+> Library of Congress, Jefferson Building 150
+> 101 Independence Ave., S.E.
+> Washington, DC 20540-4810
+> tel. 202-707-3732; fax 202-707-1724; athr at loc.gov The 
+> opinions expressed do not necessarily reflect those of the 
+> Library of Congress.
+
+
+

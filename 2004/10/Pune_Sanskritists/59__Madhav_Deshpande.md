@@ -1,0 +1,34 @@
++++
+title = "59 Madhav Deshpande"
+date = "2004-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-October/028685.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-October/028685.html)
+
+You may find some useful discussion on this matter in my article "Pandit and Professor: Transformations in the 19th Century Maharashtra" published in the Volume: The Pandit, Traditional Scholarship in India, edited by Axel Michaels, Manohar, Delhi, 2001, pp. 119-164; and in my forthcoming article "Aryan Origins: Arguments from the 19th Century Maharashtra" appearing in the Aryan Debate volume edited by Ed Bryant and Laurie Patton.  Also useful is the article by Mahadev L Apte, "Lokahitavadi and V.K. Chiplunkar: Spokesmen of Change in Nineteenth Century Maharashtra," in Modern Asian Studies, Volume 7, No. 2, 1973, pp. 193-208.  Such demands for change were perhaps more vocal in Maharashtra, and the Pune Sanskritists were perhaps just a subset of the Marathi intellectuals involved in the larger process of change.
+
+Madhav Deshpande
+
+
+
+-----Original Message-----
+From: Indology on behalf of Gary Tubb
+Sent: Tue 10/26/2004 12:02 PM
+To: INDOLOGY at liverpool.ac.uk
+Subject:      Pune Sanskritists
+
+A colleague has asked for help in finding secondary sources that deal with
+the Pune Sanskritists of the late nineteenth and early twentieth century
+and how their scholarship, ideology, and overall orientation was viewed as
+different from what was found in other places such as Benares or Calcutta.
+
+The Pune Sanskritists have, for example, been referred to as "scientific"
+or as "instrumental rationalists."  Where might one read about such
+characterizations?
+
+Thanks,
+Gary Tubb.
+
+
+

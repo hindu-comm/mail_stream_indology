@@ -1,0 +1,46 @@
++++
+title = "41 Olivelle, J P"
+date = "2016-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043627.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-July/043627.html)
+
+Hi Dagmar:
+
+Two persons to consult would be Osmond Bopeaarachchi and Sanjyot Mehendale. They were responsible for the underwater excavation of perhaps the oldest known shipwreck in the Indian ocean off Hambantota in Sri Lanka (c. 1st c. BCE, I think). And there were glassware and large glass ingot (I saw one of them in the museum in Colombo). The ship was probably going from Sri Lanka to Andhra.
+
+Patrick
+
+
+
+On Jul 7, 2016, at 3:02 AM, Dagmar Wujastyk <d.wujastyk at gmail.com<mailto:d.wujastyk at gmail.com>> wrote:
+
+Dear all,
+
+Can anyone point me to publications on the making and use of glassware in ancient India? I am particularly interested in bottles (kūpī), as these appear relatively late in medical literature in the context of alchemical procedures.
+
+Many thanks!
+
+Dagmar
+
+
+Dr Dagmar Wujastyk
+University of Vienna
+Institute for South Asian, Tibetan and Buddhist Studies
+Spitalgasse 2, Hof 2.7
+1090 Vienna
+Austria
+
+http://ayuryog.org<http://ayuryog.org/>
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160707/e373c5f5/attachment.htm>

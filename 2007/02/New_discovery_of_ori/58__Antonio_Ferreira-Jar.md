@@ -1,0 +1,47 @@
++++
+title = "58 Antonio Ferreira-Jardim"
+date = "2007-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-February/030552.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-February/030552.html)
+
+Dear colleagues,
+
+I was recently reading the 2004 Annual Report for the University of
+Hamburg's Asien-Afrika-Institut - Abteilung für Kultur und Geschichte
+Indiens und Tibets [available here:
+http://www.uni-hamburg.de/Wiss/FB/10/IndienS/Jahresbericht-2004.pdf]
+and came across the following fascinating note by Diwakar Acarya on
+page 25:
+
+[With regard to the Nepalese-German Manuscript Cataloguing Project]
+
+"The rewards of cataloguing these manuscripts are substantial: new
+texts are found, texts once considered lost are rediscovered, and
+records of historical events and dates traced. Now and then some quite
+surprising texts turn up. As an example, I take the original
+PraS"navyAkaraNa, the tenth of the twelve Jain aN"gasUtras. A text of
+the same title is in circulation, but it deals with the five AS"ravas
+– the five sins, and the five saMvaras – the consequences
+corresponding to them. This is a later work, which took the place of
+the original aNgasUtra dealing with vidyAs and mantras, as noted in
+the SthAnAN"ga-, SamavAyAN"ga- and NandisUtra. The text newly
+discovered in Nepal exactly matches the description of these three
+sUtras, and is preserved together with a quite old Sanskrit commentary
+by one JIvabhogin, a disciple of Devanandin. Two manuscripts of the
+text are available: one palm leaf and a paper transcript, which is
+rat-eaten in the left-hand side. Two folios are missing near the end
+of the palm-leaf manuscript, but the missing text on them is found in
+the paper transcript albeit with some lacunae."
+
+Does anyone have any further news on this fascinating find? Is an
+edition forthcoming?
+
+Yours sincerely,
+
+Antonio Ferreira-Jardim
+University of Queensland
+
+
+

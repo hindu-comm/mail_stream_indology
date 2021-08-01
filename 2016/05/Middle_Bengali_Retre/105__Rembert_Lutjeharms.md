@@ -1,0 +1,39 @@
++++
+title = "105 Rembert Lutjeharms"
+date = "2016-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-May/043373.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-May/043373.html)
+
+The organisers of the upcoming Middle Bengali Retreat asked me to
+forward this announcement to this list. Best wishes, Rembert.
+--
+
+Dear All,
+
+This is just to announce that the deadline for applications for the
+Middle Bengali Retreat that is due to take place this August (11-21)
+has been extended to 05 June 2016.
+
+For more information about the retreat, please go to:
+http://ghtk.csik.sapientia.ro/en/news/middle-bengali-retreat-cum-workshop-in-transylvania-2016
+
+Best wishes,
+Lucian
+
+DPhil Candidate in Theology and Religion
+University of Oxford
+
+
+
+-- 
+Dr. Rembert Lutjeharms
+Oxford Centre for Hindu Studies
+13-15 Magdalen Street
+Oxford OX1 3AE United Kingdom
+Tel.: +44 (0)1865 304300
+
+
+
+

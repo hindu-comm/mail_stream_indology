@@ -1,0 +1,29 @@
++++
+title = "278 Narayan R.Joshi"
+date = "2001-03-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025825.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025825.html)
+
+What happened between the Prophet of Islam and his wives is nobody's
+business. Rushdie's book is trash with four letter word scattered several
+times.It is not example of objective thinking but throwing trash
+everywhere. Hindus do not go searching drainages of the houses of the other
+people. When they enter the house of the other, they visit the little
+sanctuary(Devagriha) of the deities in the house.Hindus are trying to
+understand Islam through centuries of efforts from Saints like Guru
+Nanak,Kabir and Meher Baba.Hindus could discuss the birth of Jesus Christ in
+the line of David who was involved in adultry. But they do not do that. They
+are trying to understand the meaning of "In Jesus Christ, the God uniquely
+reconciled with Himself".Hindus believe that no avatAra takes place without
+reason. Hindus are trying to find out the reasons of avatAra of Jesus and
+Prophet Mohammad in the ancient history of middle east. Both Makka and Sea
+of Galili were holy places thousands of years before the patriarch Abraham
+the Hebrew. Whose holy places were these? By knowing their history Hindus
+might get the clues for their own prehistory which was messed up by alien
+scholars.I am not worried about attacks on Krishna. He will defend himself.
+The sun does not need the candle of Wendy to illuminate himself.Thanks.
+
+
+

@@ -1,0 +1,19 @@
++++
+title = "290 Leonard Zwilling"
+date = "2000-01-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019880.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019880.html)
+
+In Le Museon IV (1903) and V (1904), Cecil Bendall published an anonymous
+anthology of extracts from Buddhist literature under the title
+"SubhASita-SaMgraha." The library here at the University of
+Wisconsin-Madison is unfortunately lacking those very volumes and no library
+seems willing to send them on inter-library loan. Can anyone on the list
+tell me if  that collection was at some time reprinted elsewhere (which may
+be more accessible), or whether it has been the subject of scholarly
+investigation? Thank you.
+
+
+

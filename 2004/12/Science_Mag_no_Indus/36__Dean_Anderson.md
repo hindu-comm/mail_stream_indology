@@ -1,0 +1,26 @@
++++
+title = "36 Dean Anderson"
+date = "2004-12-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028874.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028874.html)
+
+A small point of information pertaining to the discussion between George
+and Ferenc.
+
+Although it is true there are significant remains of religious objects
+and cemeteries in the IVC they are rather scanty when one considers that
+the civilization lasted for over 700 years. The common explanation is
+much of the remains were made of perishable materials that have not
+lasted over the millennia -- this could also be relevant to the script.
+
+Regarding burial practices there is some evidence indicating both
+cremation and fractional burials which would, once again, reflect
+practices in South and Central Asia respectively which is to be expected
+since the IVC was a transition zone between these two regions.
+
+Dean Anderson
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "295 Dominik Wujastyk"
+date = "2000-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024436.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024436.html)
+
+No, I'm sorry Raman, but you are wrong on one point.
+
+On Thu, 14 Dec 2000, V.V. Raman wrote:
+> 1. The Indology group was formed by <ivory-tower> scholars  [...]
+
+This forum was founded by me, Dominik, personally, by myself.  If people
+have criticisms or comments about the founding orientation and management
+of the list, then they all lie at my door.  Because I founded this forum,
+I take a high-handed and dirigiste attitude to its management and
+direction (when I have time).
+
+Nowadays it is trivially easy to found a listserv group (which was not the
+case a decade ago, incidentally), so anyone who doesn't like the
+orientation of this list can so very easily go elsewhere for more
+congenial conversation.
+
+I have no quibble with the remainder of your remarks.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

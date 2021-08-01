@@ -1,0 +1,47 @@
++++
+title = "75 Christian Lee Novetzke"
+date = "2003-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027534.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027534.html)
+
+Hello,
+
+I am forwarding this announcement on behalf of Madhu Kishwar.  Please
+respond directly to her.
+
+Christian
+
+Deadline Extended for Indian Scholars
+
+We have received many requests from interested scholars in Indian
+Universities and research institutions for an extension of the deadline for
+submission of proposals from January 31 because they received information
+about this conference very late, and that too only through hearsay. We had
+sent posters to hundreds of academic institutions announcing the conference
+"Call for Papers". However, in a number of cases these posters were never
+put up. Hence the communication gap.
+
+We regret very much that we failed to advertise our Conference through
+academic journals with a wide reach and relied mainly on wall posters and
+email postings. Even though the response to our conference is already
+overwhelming, we are extending the deadline for submission of panel/paper
+proposals for Indian scholars to make amends for our lapse. All those who
+have submitted their proposals by January 31, will be informed about the
+decision of the Selection Committee in February itself. Those sending
+proposals late, will be informed accordingly.
+
+Extended Deadline for submission: March 10, 2003.
+
+Christian Lee Novetzke
+Assistant Professor of South Asia Studies
+University of Pennsylvania, 820 Williams Hall
+36th and Spruce Streets
+Philadelphia, PA 19104-6305, USA
+
+Email: cln at sas.upenn.edu      Website: http://www.sas.upenn.edu/~cln
+Tel: (215) 898-7475                  Fax: (215) 573-2138
+
+
+

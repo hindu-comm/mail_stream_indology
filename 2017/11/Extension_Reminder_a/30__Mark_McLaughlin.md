@@ -1,0 +1,47 @@
++++
+title = "30 Mark McLaughlin"
+date = "2017-11-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-November/046909.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-November/046909.html)
+
+Dear All,
+
+Just a reminder that the Muktabodha Indological Research Institute is
+marking its 20th anniversary this year with a celebratory tea in Boston,
+held in conjunction with the annual American Academy of Religion Conference
+next weekend.
+
+EXTENSION: The tea time inadvertently overlaps with the Yoga in Theory and
+Practice panel (4:30-6:30). As such, the tea has been extended so that it
+now runs from 5:30-8:00, with an honoring of Bill Mahony, the founding
+president of Muktabodha, to take place at 7:00.
+
+The details are thus: Saturday, November 18, from 5:30-8:00 at the Westin
+Copley Palace Hotel Newbury & Gloucester Rooms (10 Huntington Ave, Boston,
+MA).
+
+Hoping to see many of you there!
+
+Warm regards,
+Mark
+
+-- 
+Mark McLaughlin
+*Visiting Assistant Professor of South Asian Religions*
+
+
+*Department of Religious StudiesCollege of William and MaryWilliamsburg, VA*
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171111/cc64011e/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: MuktabodhaTeaReceptionInvitation2.pdf
+Type: application/pdf
+Size: 704957 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20171111/cc64011e/attachment.pdf>

@@ -1,0 +1,54 @@
++++
+title = "09 Periannan Chandrasekaran"
+date = "2001-04-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/025963.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/025963.html)
+
+On Mon, 2 Apr 2001 15:51:53 +0100, N. Ganesan <naga_ganesan at HOTMAIL.COM>
+wrote:
+
+>Dear List,
+>
+>How is the Sanskrit word, "preta", explained in terms of roots?
+>It's a late one, occuring in the epics like MBh.
+>
+>Regards,
+>N. Ganesan, PhD
+
+M-W:
+
+says preta < pre < pra +i
+
+where i = to go
+
+pre74ta
+Entry  preta
+
+Meaning  mfn. departed , deceased , dead , a dead person S3Br. Gr2S3rS.
+MBh. ; m. the spirit of a dead person (esp. before obsequial rites are
+performed) , a ghost , an evil being Mn. MBh. &c. (cf. RTL. 241 , 271 MWB.
+219).
+
+Entry  pre
+
+Meaning  (%{pra-} 5. %{i}) cl. 2. P. %{prai9ti} (Ved. inf. %{prai9tos}
+AitBr.) , to come forth , appear , begin RV. Br2A1rUp. MBh. ; to go on ,
+proceed , advance (esp. as a sacrifice) RV. VS. ; to go forwards or
+farther , come to , arrive at , enter (acc.) ib. S3Br. Up. MBh. ; to go out
+or away , depart (this life , with or without %{asmAl at lokAt} , or %
+{itas}) , die Br. Up. Mn. MBh. &c.: Intens. A1. %{pre7yate} , to drive or
+go forth (said of Ushas) RV.
+---------
+
+Online M-W is not listing the root i even if i* is tried.
+Neither does online Capellar's.
+What gives?
+
+
+Regards
+P.Chandrasekaran.
+
+
+

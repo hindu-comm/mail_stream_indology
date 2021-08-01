@@ -1,0 +1,80 @@
++++
+title = "77 Christian K. Wedemeyer"
+date = "2009-08-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033577.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033577.html)
+
+Hej, Ulrich! Går det godt med dej?
+
+This is unscientific--and perhaps entirely anachronistic--but since  
+you are urgently in need, I figured I'd give it a go:
+
+The end of the name, I would suggest, is more than likely Bihāralāla.  
+Nowadays, it would be pronounced Bihār Lāl.  "Lāl" is a pretty  
+common name, to this day. (Consider the early 17th century Hindi poet  
+Bihārī Lāl.)
+
+The beginning is more difficult, perhaps. It could refer to a  
+particular vihāra (bāhāḥ), but I don't know of one by that name.  
+It is possible that it could be a vihāra founded by (a) Mānadeva,  
+which was known as "Mānavihāra." But, my hunch is that it is in fact  
+māna, but for another reason. Māna ("Mān" today) is also a commonly  
+occurring name in that region (e.g the contemporary Nepali politician  
+Gopal Man Shrestha [gopālamāna śreṣṭha]).
+
+I'm not at all confident these names were current in the period you're  
+talking about (I don't see anything like it in the few inscriptions I  
+have to hand), but anyway, that's my hypothesis: Mānavihāralāla (or,  
+in a contemporary idiom, Mān Bihār Lāl).
+
+Sorry to say I have no idea who he was.
+
+Med venlig hilsen,
+
+Christian
+
+
+On Aug 21, 2009, at 7:47 PM, H-Buddhism wrote:
+
+> Subject: Identifying Pandita Manaviharala
+> Date: Thu, 20 Aug 2009 09:15:45 +0200
+> From: Ulrich T. Kragh <utkragh at hum.ku.dk>
+>
+> Dear List-members,
+>
+> I would like help with deciphering an Indian name and possibly  
+> obtain any information on the person behind this name.
+>
+> I am currently studying the history of the Tibetan translation of  
+> lakSmIMkarA's Sahajasiddhipaddhati (Derge 2261, Peking 3108; no  
+> Sanskrit text extant). The Tibetan translator 'Bro LotsA ba Shes rab  
+> Grags (11th century) made this translation in collaboration with an  
+> Indian scholar (Tib. rgya gar gyi mkhan po), and it is this Indian  
+> scholar that I am trying to identify.
+>
+> The first problem I have is to identify the proper form of the name  
+> of the Indian/Nepalese scholar, who probably was a Buddhist monk.  
+> The syntax of the sentence clearly only allows for this name to be  
+> interpreted as a personal name. Here is the Tibetan colophon of the  
+> text in which the name occurs:
+>
+> rgya gar gyi mkhan po chen po ma na bi ha ra la dang/ bod kyi  
+> lotstsha ba dge slong pradzny'a k'irtis legs par mnyan nas bsgyur pa  
+> lags so//
+>
+>  The name I wish to understand is the Tibetan word "ma na bi ha ra  
+> la."
+>
+
+--
+Christian K. Wedemeyer
+Assistant Professor of the History of Religions
+University of Chicago Divinity School
+1025 E 58th Street
+Chicago, IL 60637
+P Please consider the environment before printing this e-mail
+
+
+

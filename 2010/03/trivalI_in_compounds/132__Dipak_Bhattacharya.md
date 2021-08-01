@@ -1,0 +1,106 @@
++++
+title = "132 Dipak Bhattacharya"
+date = "2010-03-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-March/034173.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-March/034173.html)
+
+the following notehad beensent by me on 17 March in apprehension 
+Best
+DB
+
+"Sometimes it appeared to "me that the long ī here is a post-Pāṇinian development. See particularly the Pāmādigaṇa on 5.2.100.
+Best
+DB"
+
+
+--- On Sat, 20/3/10, girish jha <jhakgirish at YAHOO.COM> wrote:
+
+
+From: girish jha <jhakgirish at YAHOO.COM>
+Subject: Re: trivalI in compounds
+To: INDOLOGY at liverpool.ac.uk
+Date: Saturday, 20 March, 2010, 11:45 PM
+
+
+
+Dear colleagues,
+It is noteworthy that trivalī can’t be formed as a samāhāra Compound. If we try to form it by Pān.ini 2.1.51 taddhitārthottarapadasamāhāre ca the derivation will be tisr.n.ām valīnam samāhārah.
+1.The samāsa is ordained by 2.1.51,
+2.it is characterized as dvigu by 2.1.52 sankhyāpurvo dviguh.After that
+3.it takes singular by 2.4.1 dvigur ekavacanam and neuter gender by 2.4.17 sa napumsakam.
+As a result trivali a neuter –gender Compound word ending in short /i/ is formed. 
+Now we cannot replace the short vowel of trivali by long one by any of the three gan̦asūtras relating to 
+4.1.45 bahvādibhyaś ca as the sutra 4.1.14 anupasarjanāt recurs there. vali is an upasarjana as a compound form.We can’t convert it into a feminine form as only a dvigu ending in /a/ can be in feminine by prescribing ṅīp by 4.1.21 dvigoh. As such we will have to convert vali into valī and then trivalī may be formed by the vārttika śākapārthivadinam siddhaya uttarapadalopasyopasamkhyānam[sākapriyah pārthivah śākapārthivah]and the derivation will be triparimitā valī trivalī.
+GIRISH K. JHA
+SANSKRIT,PATNA UNIVERSITY
+
+
+--- On Thu, 3/18/10, Dipak Bhattacharya <dbhattacharya2004 at YAHOO.CO.IN> wrote:
+
+
+From: Dipak Bhattacharya <dbhattacharya2004 at YAHOO.CO.IN>
+Subject: Re: trivalI in compounds
+To: INDOLOGY at liverpool.ac.uk
+Date: Thursday, March 18, 2010, 10:54 PM
+
+
+After Jayāditya’s explanation of P.2.1.51 taddhitārthottarapadasamāhāre ca when, of a compoundformed after 2.1.50 the final meaning is that of a taddhita suffix or when a third word (uttarapada) follows the compound or when an ensemble is meant one gets a tatpuruṣa compound. This uttarapada compound is different from the uttarapadalopin compound commonly illustrated with siṃhāsana ‘lion (marked) seat ie a throne’. Naturally trilokanātha (Kumārasambhava 5.77) has been explained by Mallinātha as an uttarapada compound. This is implied also in the explanation of trilokasaundarya (5.41).
+trivalī is neither an uttarapadalopin nor an uttarapada compound. An ensemble is meant. Naturally 2.1.50 and 51 are sufficient for forming the compound without invoking the concept of uttarapadalopin. The gaṇasūtra 50 appended to 4.1.45 takes care of the long ī of words like trivalī. 
+Best 
+DB
+
+--- On Wed, 17/3/10, girish jha <jhakgirish at YAHOO.COM> wrote:
+
+
+From: girish jha <jhakgirish at YAHOO.COM>
+Subject: Re: trivalI in compounds
+To: INDOLOGY at liverpool.ac.uk
+Date: Wednesday, 17 March, 2010, 11:37 PM
+
+
+Dear colleagues,
+As far as trivalii in compounds is concerned,it makes an uttarapadalopinKarmadhaaraya Compound :Triparimitaa valii trivalii.
+GIRISH K.JHA
+Tue, 3/16/10, Oliver Fallon <opfallon at YAHOO.COM> wrote:
+
+
+From: Oliver Fallon <opfallon at YAHOO.COM>
+Subject: trivalI in compounds
+To: INDOLOGY at liverpool.ac.uk
+Date: Tuesday, March 16, 2010, 4:48 AM
+
+
+Dear List Members,
+
+Can anyone help finding a reference in Paninian literature for the
+lengthening of the final vowel of trivali to trivalI in compounds?
+
+MW says "f. in comp. the 3 folds over a woman's navel (regarded as a beauty)
+VarBṛS. lxx , 5 Ṛitus. GarP."
+
+I have looked in P. 6.3.114-139, which appears to be the relevant section,
+but may have missed something.
+
+With thanks,
+Oliver
+
+
+
+
+
+
+
+   The INTERNET now has a personality. YOURS! See your Yahoo! Homepage. http://in.yahoo.com/
+
+
+
+
+
+
+
+      The INTERNET now has a personality. YOURS! See your Yahoo! Homepage. http://in.yahoo.com/
+
+
+

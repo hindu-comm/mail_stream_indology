@@ -1,0 +1,21 @@
++++
+title = "94 Jonathan Silk"
+date = "2010-03-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-March/034209.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-March/034209.html)
+
+this to Allan Thrasher: LOC actually lists its ownership of Weber's files
+from the congress, if you wanted to wade through them for such
+information....
+
+-- 
+J. Silk
+Instituut Kern / Universiteit Leiden
+Postbus 9515
+2300 RA Leiden
+Netherlands
+
+
+

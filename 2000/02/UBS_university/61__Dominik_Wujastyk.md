@@ -1,0 +1,24 @@
++++
+title = "61 Dominik Wujastyk"
+date = "2000-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020088.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020088.html)
+
+It would be quite wrong of me to abuse my position as founder of the
+INDOLOGY list to mention a completely unrelated topic such as the inspired
+website of the University of Bums on Seats
+(http://www.cynicalbastards.com/ubs/), which exemplifies all that is so
+very special in British higher education today.
+
+However, perhaps there is a relevance after all, since members of INDOLOGY
+may be interested in registering for a fasttrack E-Degree in Post-Rational
+Discourse.  This would certainly have a dramatically exiguous impact on
+the discussion of some topics in this forum.
+
+--
+Dominik Wujastyk
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "137 Jakob Winkler"
+date = "2001-01-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/024927.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/024927.html)
+
+Subject: OCR for reading diacritics
+
+
+ Dear Indology List Members
+ I have a question regarding OCR. I want to get me a scanner and was
+ wondering which OCR software I need to be able to read romanised Sanskrit.
+I
+ would prefer a rather inexpensive program which is able to recognize
+ diacritics. The software does not to be capable to read any Indic letters
+or
+ transform Latin characters into e.g. Devanagari.
+
+ I can be contacted at Jakob.Winkler at t-online.de
+
+ Thank you very much.
+
+ Jakob Winkler
+
+
+

@@ -1,0 +1,51 @@
++++
+title = "92 Dominik Wujastyk"
+date = "2009-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032664.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032664.html)
+
+Sorry about the lexical error in typing.  The journal is indeed 
+"Lexicographica: Lexicographica. International Annual for Lexicography". 
+:-)
+
+-- 
+Dominik
+
+
+
+
+On Thu, 19 Feb 2009, Allen W Thrasher wrote:
+
+> Dominic,
+>
+> Which journal and what publisher is this?  Also, am I right in thinking 
+> the title is Lexicographica not Lexicograpohica?
+>
+> Allen
+>
+>
+> "There is a good article that many will know, that goes into this matter
+> with subtlety and care:
+>
+> Ladislav Zgusta, "Copying in Lexicography: Monier-Williams' Sanskrit
+> Dictionary and other cases (Dvaikosyam)" Lexicograpohica 4 (1988):
+> pp. 145-164."
+>
+>
+>
+>
+>
+> Allen W. Thrasher, Ph.D.
+> Senior Reference Librarian
+> Team Coordinator
+> South Asia Team, Asian Division
+> Library of Congress, Jefferson Building 150
+> 101 Independence Ave., S.E.
+> Washington, DC 20540-4810
+> tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+> The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

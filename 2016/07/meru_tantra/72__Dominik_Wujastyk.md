@@ -1,0 +1,185 @@
++++
+title = "72 Dominik Wujastyk"
+date = "2016-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043597.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-July/043597.html)
+
+A transcription of the Merutantra is available at the Muktabodha online
+library.
+
+link:
+http://muktalib5.org/DL_CATALOG/DL_CATALOG_USER_INTERFACE/dl_user_interface_display_catalog_record.php?M00195
+
+Metadata:
+
+Catalog number : M00195
+_________________________________
+Uniform title: merutantra
+Main title: merutantra with ṭippani
+Commentator : raghunāthaśāstri
+_________________________________
+...
+_________________________________
+Notes:
+Data-entered by the staff of Muktabodha under the supervision of Mark S.G.
+Dyczkowski.
+
+Revision 0: October 21, 2009
+Revision 1: February 11, 2010 - chapters 21-23 added
+Revision 2: April 5, 2010 - chapters 24-end added.
+_________________________________
+Publisher : śrīvenkateśvara
+Publication year : 1908
+Publication city : Bombay
+Publication country : India
+_________________________________
+
+________________________________
+
+Copyrights
+
+©2011 Muktabodha Indological Research Institute All Rights Reserved.
+
+E-texts may be viewed only online or downloaded for private study. E-texts
+may not, under any circumstances, be copied, republished, reproduced,
+distributed or sold, either in original or altered form, without the
+express permission of Muktabodha Indological Research Institute in writing.
+
+
+--
+Professor Dominik Wujastyk* <http://ualberta.academia.edu/DominikWujastyk>
+Singhmar Chair in Classical Indian Society and Polity
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+University of Alberta, Canada
+
+<https://mail.google.com/mail/u/0/goog_1525257691>
+​sas.ualberta.ca​
+
+
+On 3 July 2016 at 14:09, Lubomir Ondracka <ondracka at ff.cuni.cz> wrote:
+
+> Dear Patrick,
+>
+> for basic information about this text, see Goudriaan - Gupta: Hindu
+> Tantric nad Śākta Literature, p. 98 and Kavirāj: Tāntrik sāhitya, pp. 528-9.
+>
+> Regarding the date, Goudriaan - Gupta are inconclusive (Although it has
+> more than once been regarded as a late work because the town of London is
+> said to be mentioned in it, it
+> is possible that at least its core goes further back), as is Alexis
+> Sanderson (the Merutantra, a work composed or at least completed in its
+> present form after the arrival of the British in India).
+>
+> There is a couple of editions (the latest one is probably this one:
+> http://www.worldcat.org/oclc/917764869), but I am afraid there is no
+> searchable text available.
+>
+> Best,
+> Lubomir
+>
+>
+> On Sun, 3 Jul 2016 21:27:37 +1000
+> patrick mccartney <psdmccartney at gmail.com> wrote:
+>
+> > Dear Friends,
+> >
+> > Does anyone have or know where I could find a copy of the meru tantra? I
+> > know nothing about this text. When was it composed? I have looked on
+> > gretil, muktabodha, archive, google,wikipedia, but no luck.
+> >
+> > The searchable archives on Indology came up with not much:
+> >
+> http://list.indology.info/pipermail/indology_list.indology.info/2004-September/028666.html
+> > apart from a suggestion it was written in the 8th century.
+> >
+> >
+> > I would like a searchable document ideally.
+> > An organisation I am studying at the moment keeps referring to it for the
+> > definition of a 'Hindu'.
+> >
+> >
+> > From their website:
+> >
+> > The Holy text the *Merutantra *defines the word Hindu (हिंदु) as हीनानि
+> > गुणानि दूषयति इति हिंदु । (*hinaani gunaani dushyati iti Hindu*)'.
+> ‘हीनानि
+> > गुणानि दूषयति’  means that which destroys (*dushyati*) the base and
+> > inferior (*hin*)* Raja *and *Tama* components (*gun*). Thus Hinduism is
+> an
+> > attitude. It means being a seeker. If one is a seeker enriched with the
+> > *Sattva* component which destroys the *Raja* and *Tama* components then
+> one
+> > is certainly a Hindu. By this definition, a seeker belonging to any
+> > religion, can be considered a Hindu. Hence the Hindu religion, in a real
+> > sense, views all religions with equality.
+> >
+> > http://forumforhinduawakening.org/understanding/synonyms-dharma
+> >
+> >
+> > Thanks in advance.
+> >
+> >
+> >
+> > All the best,
+> >
+> > Patrick McCartney, PhD
+> > School of Culture, History & Language
+> > College of the Asia-Pacific
+> > The Australian National University
+> > Canberra, Australia, 0200
+> >
+> >
+> > Skype - psdmccartney
+> > Phone + Whatsapp:  +61 414 954 748
+> > Twitter - @psdmccartney
+> >
+> > academia <https://anu-au.academia.edu/patrickmccartney>
+> >
+> >    -
+> >
+> > Linkedin
+> > <
+> https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile
+> >
+> >
+> > #yogabodyANU2016 symposium
+> > <
+> http://chl.anu.edu.au/news-events/events/658/yoga-and-body-past-and-present-symposium?#tab
+> >
+> >
+> > <
+> http://chl.anu.edu.au/news-events/events/658/yoga-and-body-past-and-present-symposium?#tab
+> >
+> >
+> > Ep1 - Imagining Sanskrit Land <https://youtu.be/jMi7tkPBbJ4>
+> >
+> > Ep 2 - Total-am <https://youtu.be/7tAp8m9RHPU>
+> >
+> > Ep 3 - Jalam ≠ Chillum <https://youtu.be/cLZeuCT_mwQ>
+> >
+> > A Day in our Ashram
+> > <https://www.youtube.com/results?search_query=ek+din+hamaare+ashram+mein
+> >
+> >
+> > Stop animation short film of Shakuntala
+> > <https://www.youtube.com/watch?v=LVqBD_2P4Pg>
+> >
+> > Forced to Clean Human Waste <http://youtu.be/y3XfjbwqC_g>
+> >
+> > One of my favourite song <
+> http://trinityroots.bandcamp.com/track/all-we-be>s
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160703/61f49e61/attachment.htm>

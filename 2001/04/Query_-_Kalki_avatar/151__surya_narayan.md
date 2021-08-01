@@ -1,0 +1,47 @@
++++
+title = "151 surya narayan"
+date = "2001-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026066.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026066.html)
+
+This is a topic of great curiosity for me too. Any one knowledgeable on this
+sujbect may kindly send a copy of their mail to me also.In fact, there is one
+Kalki Bhagwan in Andhra Pradesh. I have heard from some people that if one
+prays, the Bhagwan even the writes the exams of students who are His
+devotees.
+
+Suryanarayana Korada,
+School of Computer&Systems Sciences,
+Jawaharlal Nehru University,
+New Delhi - 110 067.
+
+Sundeep Dougal <holden at GIASDL01.VSNL.NET.IN> wrote:
+
+
+I need credible and detailed information on:
+
+1. The Kalki avatar of Vishnu
+
+2. Diferent sects of sadhus in India, like the nagas and the aghoris
+etc.
+Can you please ask the Sanskritologists/indologists you know if
+there are any
+interenet resources where I can get this info. Or what are the best
+books on the
+subject, and if they are available in India or the web.
+
+I would be grateful for any help -- instead of cluttering up the
+list,  mail could be sent off-list to me.
+
+Thanks,
+
+Sundeep
+
+
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=1
+
+
+

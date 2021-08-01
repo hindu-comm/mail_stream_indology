@@ -1,0 +1,22 @@
++++
+title = "65 Alex Passi"
+date = "2005-09-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-September/029364.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-September/029364.html)
+
+For the association of the Shakyas (zAkya) with the Shaka (zAka)  
+tree, there is a canonical source in dIghanikAya 3.1.16 (ambaTTha  
+sutta). In the Pali episode -- basically the same one the  
+Saundarananda refers to -- the sakya princes, sons of ukkAka  
+(=ikSvAku), are said to take their dwelling in a sAka grove, thence  
+the name. The same texts also says that they are living with their  
+sisters, "sakAhi bhagInihi", so as not to spoil their race. This  
+would suggest a multiple pseudo-etymology.
+
+Alex Passi
+Bologna
+
+
+

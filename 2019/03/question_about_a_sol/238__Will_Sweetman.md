@@ -1,0 +1,25 @@
++++
+title = "238 Will Sweetman"
+date = "2019-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-March/049712.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-March/049712.html)
+
+The consequences of publishers' decisions to shift costs onto academics 
+and their institutions can be seen in their financial results. See e.g., 
+the results for the academic publishing division of Informa (owners of 
+Taylor and Francis, among others): 
+https://informa.com/investors/financial-summary/
+For 2017, these show an adjusted operating profit of £208million on 
+revenue of £530m, or an operating margin (i.e., profit) of an 
+astonishing 39.2%. Not every academic publisher is this profitable, but 
+then not every academic publisher charges the fees that Routledge and 
+others in the Informa group do.
+
+Will
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190328/1612ba05/attachment.htm>

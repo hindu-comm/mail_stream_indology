@@ -1,0 +1,51 @@
++++
+title = "52 Lars Martin Fosse"
+date = "2004-02-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-February/028199.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-February/028199.html)
+
+Dear members of the list,
+
+I am passing the message below on to you. Pls answer directly to Ruth
+Schmidt, who is not on this list.
+
+Best regards,
+
+Lars Martin Fosse
+
+-----Opprinnelig melding-----
+Fra: Ruth L. Schmidt [mailto:r.l.schmidt at east.uio.no]
+Sendt: 22. februar 2004 16:13
+Til: ScholarlyServices at yahoogroups.com
+Emne: [ScS] South Asian snake lore
+
+
+Dear members of the list,
+
+I am looking for recent references to South Asian Naga-lore or
+snake-lore. They may apply to any historical period including the
+present, but I am primarily interested in works written recently.
+
+Thank you for information on this topic.
+
+With best wishes,
+
+Ruth Schmidt
+--
+
+***********************************************
+Dept. of East European and Oriental Studies
+University of Oslo
+P.O. Box 1030 Blindern
+N-0315 Oslo, Norway
+Phone: (47) 22 85 55 86
+Fax: (47) 22 85 41 40
+Email: r.l.schmidt at east.uio.no
+DO NOT OPEN UNEXPECTED ATTACHMENTS.
+MY EMAIL ADDRESS IS BEING ABUSED BY
+MALICIOUS OPERATORS.
+
+
+

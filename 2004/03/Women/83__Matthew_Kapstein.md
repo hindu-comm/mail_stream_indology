@@ -1,0 +1,27 @@
++++
+title = "83 Matthew Kapstein"
+date = "2004-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-March/028293.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-March/028293.html)
+
+Some of the important figures in the Ga.n.davyuuhasuutra
+are also women. And don't forget the goddess chapter
+of the Vimalakiirtinirdes'a. Diana Paul edited an
+anthology of Buddhist texts on women that has some
+additional examples as well. Of course, in the Tamil
+Buddhist tradition Manimekhalai is very well known---your
+student may be interested in the works of Paula Richman and
+Anne Monius on this central text.
+
+My article, "The Illusion of Spiritual Progress," in Buswell
+and Gimello, eds., Paths to Liberation, offers an example
+of some of the problems surrounding the interpretation
+of attributions of agency, etc., to women in the Buddhist
+tantric traditions.
+
+Matthew Kapstein
+
+
+

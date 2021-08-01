@@ -1,0 +1,26 @@
++++
+title = "37 Thrasher, Allen"
+date = "2010-08-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-August/034688.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-August/034688.html)
+
+If the person who contacted me with questions about the illustrations to the Library of Congress ms of Padmavata (Padmavati, Padumavati) is on the list, could they please contact me again?  In switching from one email system to another our archives have become inaccessible and I have lost the message.
+
+Allen
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian and Team Coordinator
+South Asia Team
+Asian Division
+Library of Congress
+Washington, DC 20540-4810
+USA
+tel. 202-707-3732
+fax 202-707-1724
+
+
+
+
+

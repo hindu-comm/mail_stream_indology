@@ -1,0 +1,26 @@
++++
+title = "283 Peter Schreiner"
+date = "2000-11-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023750.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023750.html)
+
+By chance I read some of the responses to the query about
+the use of bhagavat on the same day when I read the episode
+about Rudra's birth in BhAgavata-PurANa.
+
+BhP 3,12.8 speaks of "bhagav-an bhava.h" (i.e. Rudra)
+BhP 3,12.9 speaks of "pAdmo bhagavAn" (i.e. Brahm-a)
+BhP 3,12.15 speaks of "bhagavAn nIlalohitaH" (i.e. Rudra)
+BhP 3,12.21 speaks of Brahm-a as "bhagavcchaktiyuktasya"
+(i.e. Vi.s.nu)
+
+This says of course nothing about the _origin_ of the title,
+but it certainly documents that the title is not used
+exclusively for any one deity in the BhP.
+
+Peter Schreiner
+
+
+

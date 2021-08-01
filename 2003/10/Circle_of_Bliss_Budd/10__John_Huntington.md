@@ -1,0 +1,36 @@
++++
+title = "10 John Huntington"
+date = "2003-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-October/027927.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-October/027927.html)
+
+Dear Colleagues,
+
+After three  years of planning and research, the  exhibition, "The
+Circle of Bliss: Buddhist Meditational Art," opened 05 October 2003
+at the Los Angeles County Museum of Art. The 157 object exhibition is
+accompanied by a major 560 page catalogue, authored by John C.
+Huntington and Dina Bangdel.  In addition, there are contributions by
+seventeen departmental  graduate students.
+
+For further information see:
+
+http://www.lacma.org/
+
+(Click  on "Exhibitions" in the column at the left)
+
+
+And, for an on line visit to the complete exhibition go to
+
+http://kaladarshan.arts.ohio-state.edu/
+
+If you wish to purchase a catalogue, we would very much appreciate
+your doing so through this site which helps support the archive
+through a percentage from Amazon.com.
+
+John C. Huntington
+
+
+

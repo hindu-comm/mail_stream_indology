@@ -1,0 +1,38 @@
++++
+title = "28 Dominik Wujastyk"
+date = "2007-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-October/031188.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-October/031188.html)
+
+
+The author Dinesh Chandra Bhattacharyya wrote a number of articles on the 
+cultural history of Bengal in the IHQ and similar journals in the 1940s, 
+including "New Light on Vaidyaka Literature", "Dates of early historical 
+records of Bengal," "Newly discovered copper-plate from Tipperah," "Pala 
+chronologya reply to Prof. Banerjee," "Mandana, Suresvara and Bhavabhuti 
+: the problem of their identity," "Sanskrit scholars of Akbars time," 
+"Vasudeva Sarvabhauma," etc.
+
+The author Dinesh Chandra Bhattacharya  wrote the book "History of Navya 
+Nyaya in Mithila" and journal articles on nyaya, Bengal, etc., at the same 
+period.
+
+Can anyone confirm or refute whether these are two spellings of the name 
+of one person?
+
+I've checked the LC name authority list, and it doesn't deal with the -yy- 
+name. SARDS and other sources don't seem to engage with the issue.
+
+Best, and thanks,
+
+-- 
+Dr Dominik Wujastyk
+Senior Research Fellow
+University College London
+http://www.ucl.ac.uk/histmed
+
+
+
+

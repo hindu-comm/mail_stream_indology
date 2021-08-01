@@ -1,0 +1,38 @@
++++
+title = "110 Jan Houben"
+date = "2007-06-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030917.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030917.html)
+
+Dear friends,
+As some of you might be knowing, ancient Rg Veda manuscripts have recently
+been nominated for acceptance on the Unesco "Memory of the World" List; for
+the text of the official nomination see:
+http://portal.unesco.org/ci/en/files/22246/1148911056158_India_Rigveda.doc/58+India+Rigveda.doc
+My colleague Françoise Nalini Delvoye now informed me the nomination has
+been accepted according to a recent newspaper article, click on one of the
+following links:
+Delvoye saw this article on HindustanTimes
+ePaper<http://epaper.hindustantimes.com/>,
+and thought you would find it interesting. You can find it at: 'Rig Veda
+manuscripts join Unesco heritage
+list<http://epaper.hindustantimes.com/artMailDisp.aspx?article=21_06_2007_001_016&typ=1&pub=47>'
+
+or see:
+http://epaper.hindustantimes.com/artMailDisp.aspx?article=21_06_2007_001_016&typ=1&pub=47
+
+Jan Houben
+
+Prof. Dr. Jan E.M. Houben,
+Directeur d'Etudes,
+Sources et Histoire de la Tradition Sanskrite
+Ecole Pratique des Hautes Etudes, SHP
+A la Sorbonne,
+45-47, rue des Ecoles,
+75005 Paris -- France.
+JEMHouben at gmail.com
+
+
+

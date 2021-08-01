@@ -1,0 +1,38 @@
++++
+title = "156 BP Jonsson"
+date = "2000-01-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019745.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019745.html)
+
+Dear Indologists,
+
+I'm looking for information on the Grantha script, but it is hard to come
+by where I am, so I would be very grateful for any help you can offer.  All
+I got so far--shame to say--is a photocopy of a rather poorly printed chart
+showing the basic ak.saras.  Thus any reference to sources that would be
+generally available by interlibrary loan at western libraries would be of
+interst, but especially so information on how conjunct characters are
+formed.  I would be equally grateful if somebody could provide me with
+scanned images; in that case please contact me by private email at
+<bpj at netg.se>.  Please note that I subscribe to Indology in subject-index
+form only, so I would appreciate if on-list responses are cc-ed to the same
+address!
+
+Bhavatu vah sarvam mangalam!
+
+
+/BP
+
+B. Philip Jonsson <mailto: bpj at netg.se> <mailto: melroch at my-deja.com>
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~ The parents spoke French and the governess German, and  ~
+~ at school Latin was spoken.  The tongue of the country  ~
+~ the boy had to learn in the streets.                    ~
+~                            (after L. Holberg 1684-1754) ~
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+
+
+

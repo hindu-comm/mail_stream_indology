@@ -1,0 +1,27 @@
++++
+title = "78 Michael Witzel"
+date = "2013-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-August/038252.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-August/038252.html)
+
+Dear All,
+
+A gentle reminder that the deadline for the submission of abstracts for the 6th International Vedic Workshop is near: Sept. 1.
+For details on the workshop see: www.ivw2014.org 
+
+Apart from the usual paper presentation sessions, the workshop is being planned to be made colorful and rich with Rigveda-Yajurveda-Samaveda chanting sessions, Koodiyaattam (the mode of Sanskrit theatre from Kerala, the oldest performing art form in India and the oldest extant form of theatre in the world today), Kalaripayattu (the traditional martial art form of Kerala), Theyyam (Kerala’s colourful and traditional temple art form), South Indian Classial Karnatic Music, demonstration and show casing of Indian crafts and artistic skills, pedal boating, river boating etc..
+
+An (optional) cultural tour following at the end of the workshop will include visits to a number of  traditional villages where the 3 Vedas are taught and recited along with the performance of Vedic rituals. It also includes a visit to an old, large  Nambudiri estate where various arts of Kerala are taught and preserved. 
+
+Looking forward to meeting you there.
+
+For the organizers,
+
+M. WItzel
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130805/4239c306/attachment.htm>

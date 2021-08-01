@@ -1,0 +1,28 @@
++++
+title = "210 Rosati"
+date = "2000-08-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022419.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022419.html)
+
+Greetings-
+
+There seem to be two publications available of the Gilgit Buddhist
+manuscripts:
+
+1 A reprint of the Vira/Chandra facsimilie edition, offered by Vedams books,
+in 3 volumes.
+
+2 A reprint of Dutt's 1939 4-volume edition, also offered by Vedams. Is this
+a critical edition? If so, is it legible and/or reliable?
+
+Is the Vira/Chandra reprint of good quality, that is, are the
+photoreproductions decent enough to work from?
+
+Thank you for any and all advice
+
+Dante Rosati
+
+
+

@@ -1,0 +1,26 @@
++++
+title = "124 Peter Friedlander"
+date = "2009-05-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033100.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033100.html)
+
+Dear colleagues,
+I am working on a 19th century Jain manuscript in Hindi which contains three 'Sanskrit' slokas. Well sort of, they are as follows, any guesses on where they might be from or might mean? You are welcome to reply off list to me as well on clspgf at nus.edu.sgif you can suggest any leads on them. thanks, Peter
+
+AtmvatsarvabhUtAnI par drabANI toSTvata
+para strImAtRataMyageyaM jo jAnAti paNDitaH 
+
+eva AtmacidrayaH sarIrIkarmAjAgataH 
+dhyAnAgani karmadagaddhAni sajA tiparamaMpadaH. 1
+
+prANa raSaNaM tulaMdharmanhI pApazcaprANaghAtakaH 
+kSamAtulaMtapasyai nabhUtobhaviSyatI
+
+
+
+      Enjoy a better web experience. Upgrade to the new Internet Explorer 8 optimised for Yahoo!7. Get it now.
+
+
+

@@ -1,0 +1,26 @@
++++
+title = "82 Dean Anderson"
+date = "2002-01-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-January/026607.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-January/026607.html)
+
+Has anyone seen this book who could comment on its value?
+
+Dean Anderson, PhD
+
+
+Title : Indus Script and Its Language
+Sub-Title : (an in-depth structural analysis)
+Author : Rama Sarker
+Price : Rs.800
+ISBN : 81-85616-70-1
+About the book : This book being the first critical assessment of all
+significant attempts at decipherment of the Indus script and technicalities
+involved in the models, explains how a breakthrough in decipherment has been
+achieved as a sequel to scientific analysis. It has highlighted the progress
+made in decoding the Indus people.
+
+
+

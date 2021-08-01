@@ -1,0 +1,40 @@
++++
+title = "59 KORN Agnes"
+date = "2019-03-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-March/049439.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-March/049439.html)
+
+Dear all, 
+
+For those who can't be in Vienna 19 March for the memorial mass (15h00 (3pm) in the Votivkirche), 
+but wish to participate in their thoughts / express their condolences, 
+I've started a list of names and will contact the priest (who has offered that people participate in the service) during the next days to ask whether he finds appropriate to read out the names during the service. 
+I am also thinking about printing the list, buying a card and give it to Chlodwig's family. 
+
+Anyone who wishes to have their name added to the list, please send a message to : 
+agnes.korn at cnrs.fr 
+Feel free to add a sentence or two (in German or English) if you wish to do so.
+
+Best,
+Agnes
+
+----------------------
+Agnes Korn
+agnes.korn at cnrs.fr
+
+CNRS 
+FRE Mondes iranien et indien 
+27 rue Paul Bert
+F - 94204 Ivry
+
+tél. : +33 (0)1 49 60 49 30
+fax : +33 (0)1 45 21 94 19
+http://www.iran-inde.cnrs.fr/membres/membres-permanents/korn-agnes.html 
+
+
+
+
+
+

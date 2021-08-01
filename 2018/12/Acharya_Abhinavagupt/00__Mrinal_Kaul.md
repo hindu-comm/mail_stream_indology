@@ -1,0 +1,52 @@
++++
+title = "00 Mrinal Kaul"
+date = "2018-12-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-December/049072.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-December/049072.html)
+
+Dear Friends and Colleagues,
+
+New Year Greetings!
+
+I thought someone might be interested in the following position advertised
+by the Indira Gandhi National Centre for the Arts (IGNCA), an Autonomous
+Trust under the administrative control of the Ministry of Culture,
+Government of India. The call invites applications in the prescribed format
+for the appointment of a suitable scholar to 'Acharya Abhinavagupta Chair',
+purely on contractual basis. Those interested in Tantra Studies and
+Abhinavagupta may apply.
+
+Applications in the prescribed proforma should be sent to the Director (A),
+C.V. Mess, Janpath, New Delhi -110 001 so as to reach latest by *21.01.2019*
+.
+
+Please find the job advertisement notice and process of application
+attached to this email or visit: http://ignca.gov.in/recruitments/
+
+Best wishes.
+
+Mrinal Kaul
+------
+Mrinal Kaul, Ph.D.
+Assistant Professor - Manipal Centre for Humanities (MCH)
+Coordinator - Centre for Religious Studies (CRS)
+Dr TMA Pai Planetarium Complex
+Alevoor Road, Manipal 576 104
+Karnataka, INDIA
+Tel +91-820-29-23567 Extn: 23567
+https://iuo.academia.edu/MrinalKaul
+email: mrinal.kaul at manipal.edu
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181231/99ca320d/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 27122018_Adv_Acharya_Abhinavagupta_Chair.pdf
+Type: application/pdf
+Size: 800717 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20181231/99ca320d/attachment.pdf>

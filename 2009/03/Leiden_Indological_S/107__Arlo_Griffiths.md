@@ -1,0 +1,43 @@
++++
+title = "107 Arlo Griffiths"
+date = "2009-03-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032893.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032893.html)
+
+[forwarded upon request, but without the flyer]
+Apologies for cross-postings! 
+Dear Sir / Madam, 
+We are happy to announce the fourth edition of the Leiden Summer School in Languages 
+and Linguistics which will be held from 27 July - 7 August 2009 at the Faculty of 
+Humanities of Leiden University. The Summer School offers a number of courses on a wide 
+range of subjects in the field of languages and linguistics. This year, the Summer School will 
+consist of seven programmes, including courses for beginners as well as for advanced 
+students, taught by internationally renowned specialists: 
+Indo-European Programme 
+Germanic Programme 
+Iranian Programme 
+Indological Programme 
+Semitic Programme 
+Russian Programme 
+Demotic Papyrology 
+For more information and registration, visit: http://www.hum.leiden.edu/summerschool/ . 
+Please do pass this message on to anyone possibly interested. We attach a flyer which can 
+be put on a notice board. 
+Yours sincerely, 
+Alexander Lubotsky (director) 
+Tina Janssen (organizer) 
+
+Comparative Indo-European Linguistics 
+Leiden University 
+PO Box 9515 
+NL-2300 RA Leiden 
+The Netherlands 
+
+_________________________________________________________________
+Express yourself instantly with MSN Messenger! Download today it's FREE!
+http://messenger.msn.click-url.com/go/onm00200471ave/direct/01/
+
+
+

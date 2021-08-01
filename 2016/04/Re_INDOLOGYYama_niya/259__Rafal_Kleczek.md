@@ -1,0 +1,120 @@
++++
+title = "259 Rafal Kleczek"
+date = "2016-04-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043160.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043160.html)
+
+Thank you very much for your observations. I have not been aware of the
+variations on the concept of yama/niyama in Puranas and later Yogic texts,
+it is most interesting.
+The subject of difference in "niyama" regulations for ascetics at different
+stages in Kauṇḍinya's theory is quite interesting. Kauṇḍinya himself
+considers it a peculiar trait of the system, or scripture ("tantra"). At
+the same time, a similar differentiation of niyama rules seems to be
+accepted by some early Naiyāyikas, who otherwise seem to follow quite
+closely the theory of Patañjali (with regard to the practice of Yoga).
+Even though it seems true, that Nyāya came under influence of Pāśupata
+authors at some point, this idea of differentiation of niyamas is hinted at
+even in Vātsyāyana's Bhāṣya--which was written too early to speak about
+Pāśupata influence, I think. Hence the search for other possible sources of
+this peculiar variation.
+With best wishes,
+Rafal
+
+On 26 April 2016 at 20:52, Seth Powell <sethpowell at g.harvard.edu> wrote:
+
+> Dear Rafal,
+>
+> Later medieval tantric and Haṭhayoga treatises sometimes include both 10
+> yamas and 10 niyamas. For example, Chapter 25 of the *Śāradā*
+> *tilakatantra*, the *Śivayogadīpikā*, *Yogayajñāvalkya*, and many
+> others — and here, I imagine, particularly for the Śaiva texts, they might
+> be drawing from the earlier Pāśupata yoga traditions.
+>
+> As always, across these yoga texts and traditions, there is fluidity and
+> malleability, but they seem to all draw from a shared yama-niyama palette,
+> if you will. The īśvāra-praṇidhāna of the PYŚ, for example, often takes on
+> a more sectarian flavor in the later texts, such as śaṅkara-pūjanaṃ
+> in the *Śivayogadīpikā*.
+>
+> Yet, often the medieval yoga texts appear to explicitly omit them, such as
+> Svātmārāma’s *Haṭhapradīpikā* (although a later 10-chapter version of
+> this text does include yamas and niyamas), and thus we are left to
+> speculate on their optionality. Perhaps they were left to be filled in by a
+> guru, or elsewhere from a sectarian tradition, or were in fact left out of
+> yogic praxis entirely (although I doubt this). But I think it’s safe to say
+> if they are included in a prescriptive yoga text, they were not considered
+> optional for that author, but rather par for the course. This is most clear
+> in the PYŚ and its commentaries, as Prof. Bryant astutely notes, but I
+> think also holds for the later medieval texts as well.
+>
+> Best wishes,
+>
+> Seth
+>
+> ---
+>
+> *Seth D. Powell*
+> *Doctoral Student*
+> Committee on the Study of Religion
+> Harvard University
+>
+> *ATG Student Consultant*
+> Academic Technology Group (ATG)
+> Harvard University Information Technology
+>
+> *p* 707 494 4721
+> *e* sethpowell at g.harvard.edu
+>
+>
+>
+>
+>
+>
+>
+> On Apr 26, 2016, at 8:02 AM, edbryant at rci.rutgers.edu wrote:
+>
+>
+> 1. Are there other traditions which consider yama regulations to be
+> permanent, and niyamas to be subject to change, depending on time, place,
+> etc.? Is it a common understanding of the division between yama and niyama
+> among philosophers of Yoga, or in other branches of Åšaivism?
+>
+>
+> I don't recall reading this in any YS commentary. It probably comes from
+> the idea that it is after the yama verse that Patanjali stresses (with
+> uncharacteristic emphasis, one might add, both in terms of his own overall
+> tone, and in terms of the sutra penchant for non-repetition or
+> redundancy), that they are inviolable (i.e. he chose not to state this
+> after the niyama verse which follows the yama verse). However, 3 of the
+> niyamas are listed under kriya yoga in the opening verse of chapter 2, so,
+> given they are repeated again in the astanga section there is no sense in
+> the YS tradition that they are optional.
+>
+> 2. Are there other traditions accepting ten yama regulations?
+>
+>
+> The Bhagavata Purana has 10 yamas.  If the Pasupata texts have 10, I would
+> probably search the Siva, Skandha or Linga puranas for precedents.
+>
+> With best wishes,  Edwin Bryant.
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160426/7cb81eb0/attachment.htm>

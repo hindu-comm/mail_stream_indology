@@ -1,0 +1,39 @@
++++
+title = "32 Jonathan Silk"
+date = "2004-04-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-April/028351.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-April/028351.html)
+
+Several days ago the following was announced here:
+
+A manuscript of an essay by Stcherbatsky has been discovered, edited
+and published by Y.V. Vasilkov; it has been made available online at
+<http://www.indology.ru/article642.html>.
+
+
+When I tried to use this cite, and download the article in question
+in pdf form, I found, as perhaps did others, the link broken (it is
+possible also to read it simply within the website, however). Now, Mr
+Dmitry Olenev has asked me to convey to the list the information that
+he has repaired the link and one may download the pdf (as indeed I
+have verified).
+
+He also added the following:   A number of misprints are scattered
+over the paper, but all of them were present in the printed original.
+
+--
+Jonathan Silk
+Department of Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310)206-8235
+fax:  (310)825-8808
+silk at humnet.ucla.edu
+
+
+

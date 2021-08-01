@@ -1,0 +1,16 @@
++++
+title = "10 Ashok Aklujkar"
+date = "2011-09-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-September/035894.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-September/035894.html)
+
+The dictionaries give aa;sviina as a measurement of distance: 'distance traveled by a horse, that is, by a horse-rider, in one day.' Saaya.na in his commentary of Pa;nca-vi.m;sa-braahma.na clarifies that a twenty-four hour day, ahoraatra, is meant in this context. Has anyone of you come across a statement expressing ancient understanding, especially ancient Indian understanding, of how much distance a horse/mare being normally ridden covered, assuming that the horse/mare did not stop? 
+
+(In actual practice, a horse/mare could have been changed at certain stops, but this possibility is obviously to be ignored in associating a distance with aa;sviina.)
+
+ashok aklujkar
+
+
+

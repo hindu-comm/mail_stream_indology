@@ -1,0 +1,51 @@
++++
+title = "73 Joerg Gengnagel"
+date = "2014-04-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-April/039293.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-April/039293.html)
+
+Dear Colleagues,
+
+just a reminder, since the deadline for application is approaching. 
+Please do circulate this among colleagues and students.
+
+Best,
+Joerg Gengnagel
+
+
+The Department of Classical Indology, Heidelberg University is 
+organizing two *Summer Schools*:
+
+- *Summer School in Spoken Sanskrit (Sadananda Das)*, and
+- *Nepali Intensive Course (Laxmi Nath Shrestha)
+*
+
+from *4th to 29th August, 2014* at the South Asia Institute, Heidelberg.
+
+Applications for participation in these courses are invited
+and should reach us by *15th May 2014*.
+
+For more information, please check the course website:
+http://www.sai.uni-heidelberg.de/abt/IND/summerschool/summerschool.php
+
+-- 
+apl. Prof. Dr. Jörg Gengnagel
+South Asia Institute
+Department of Cultural and Religious History of South Asia (Classical Indology)
+Research Group "Waterscapes in Transcultural Perspective" (Cluster "Asia and Europe")
+Im Neuenheimer Feld 330
+D-69120 Heidelberg
+phone: +49(0)6221/54-8906
+fax:   +49(0)6221/54-8841
+
+www.sai.uni-heidelberg.de
+www.asia-europe.uni-heidelberg.de
+www.kashidarpana.uni-hd.de
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140428/a51dfd1e/attachment.htm>

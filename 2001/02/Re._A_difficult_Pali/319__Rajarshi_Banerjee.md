@@ -1,0 +1,23 @@
++++
+title = "319 Rajarshi Banerjee"
+date = "2001-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025456.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025456.html)
+
+Dr. J. Silk wrote: >I cannot understand what tumbamatta might mean, unless
+tumba is taken as a >unit of measure, and the expression is intended to mean
+something like >"covered with creatures to the extent of a litre-bucket
+full" or something >like that.
+
+In hindi, bengali tumba is the hollow gourd used for making the resonant
+chamber of stringed musical instruments like the veena, sarod etc. So some
+sort of container is implied
+matta means intoxicated in bengali
+tumba matta could mean pitcher drunk
+
+RB
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "268 Anand M. Sharan"
+date = "2000-08-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022459.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022459.html)
+
+It has been published in a book by a professor at Baltimore that Ptolemy
+fudged the data . Those observations could not have been made in Egypt .
+This professor writes that those were from those of a Greek whose name
+started with a letter H.
+
+I have read a book by Kaye on Hindu Astronomy . He mentions that this
+astronomy , prior to Ptolemy, was indigenous but later on ( post second
+century A.D. ) , were essentially borrowed from Ptolemy's ideas. The Hindu
+Astronomers would include those in the Vikramaditya's court, and later on .
+
+It appears very surprising to me that the whole school of Indian thinking
+would change so quickly .
+
+
+At least, the truth should be known .
+
+Anand M. Sharan
+
+
+

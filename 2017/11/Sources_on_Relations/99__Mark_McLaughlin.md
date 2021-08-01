@@ -1,0 +1,66 @@
++++
+title = "99 Mark McLaughlin"
+date = "2017-11-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-November/046845.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-November/046845.html)
+
+Dear Indology mind-hive,
+
+
+
+I have an undergraduate student who is interested in writing a paper on
+questions of oral and literary traditions. I would like to solicit your
+opinions on potential sources for her. Please see her message below for a
+more detailed delineation of her questioning.
+
+
+
+Many thanks in advance!
+
+Mark
+
+
+
+
+
+Professor McLaughlin,
+
+
+
+I read through a little more of the Pollock book last night to get a better
+feel for some questions. I think generally this is what I'm thinking:
+
+
+
+What is the difference and relationship between the oral and literary
+tradition? How has that relationship evolved with the emergence of written
+texts, vernacularization, and the subsequent privileging of textual sources
+by the colonial West and the Academy? Who is excluded and/or included by
+the privileging of one kind of knowledge over the other? For scholars, what
+kind of nuanced understanding of literacy should be sought or acknowledged
+given that "to be literate" can mean different things in different
+cultures?
+
+
+
+Let me know if this sounds like what I was talking about the other day!
+
+
+
+Best,
+
+Emma
+
+-- 
+Mark McLaughlin
+*Visiting Assistant Professor of South Asian Religions*
+
+
+*Department of Religious StudiesCollege of William and MaryWilliamsburg, VA*
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171102/d85ef10f/attachment.htm>

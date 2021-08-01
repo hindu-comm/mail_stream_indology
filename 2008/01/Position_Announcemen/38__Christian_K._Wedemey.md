@@ -1,0 +1,36 @@
++++
+title = "38 Christian K. Wedemeyer"
+date = "2008-01-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-January/031345.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-January/031345.html)
+
+POSITION ANNOUNCEMENT: ASSOCIATE DIRECTOR- UC SALAC and COSAS
+
+The University of Chicago is searching for an Associate Director to
+
+work with the University's thriving Title VI Center, the South Asia
+
+Language and Area Center (SALAC), as well as its Committee for Southern
+
+Asian Studies (COSAS). The position would suit someone with a BA/MA
+
+background in South Asian studies with at least three years of suitable
+
+administrative experience. Full details of the position and information
+
+on how to apply are available at  https://jobopportunities.uchicago.edu/
+
+[job requisition # 078263].  We will begin with interviewing candidates soon
+
+after January 31, 2008.  Further details on South Asia at Chicago are
+
+available at http://southasia.uchicago.edu/about.htm.  The University of
+
+Chicago is an Equal Opportunity, Affirmative Action Employer.
+
+
+
+
+

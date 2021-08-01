@@ -1,0 +1,39 @@
++++
+title = "66 J L Brockington"
+date = "2009-03-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032794.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032794.html)
+
+Dear Colleagues,
+
+Earlier today I sent an e-mail message to all members of the  
+International Association of Sanskrit Studies announcing the  
+establishment of a new newsletter (to be distributed solely by e-mail)  
+and inviting contributions from members.  If you are a member of the  
+IASS and have not received that message (there are some members for  
+whom we do not have e-mail addresses and others whose addresses are  
+out of date), please contact me so that I can include you on the  
+mailing list.  If you want to renew your subscription or would like to  
+join the IASS as a personal member, please contact the Treasurer,  
+Professor Bruno Dagens.
+
+Yours
+
+John Brockington
+
+
+Professor J. L. Brockington
+Secretary General, International Association of Sanskrit Studies
+Asian Studies
+7-8 Buccleuch Place
+Edinburgh EH8 9LW
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+

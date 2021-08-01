@@ -1,0 +1,37 @@
++++
+title = "43 Gruenendahl, Reinhold"
+date = "2013-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-March/037626.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-March/037626.html)
+
+
+GRETIL is pleased to be able to report the following addition(s) to its collection:
+
+
+Tattvasamasasutravrtti, or Kramadipika [a comm. on the Tattvasamasa]: http://gretil.sub.uni-goettingen.de/gretil.htm#TattvSuVr
+
+Additional information:
+A complete e-book of the original edition of the Samkhyasamgraha (Benares 1918-1920),
+the source of the Samkhya texts announced in updates #413 and #414, can now be dowloaded from the GRETIL e-library:
+http://resolver.sub.uni-goettingen.de/purl/?gr_elib-246
+(Note: The e-book of the same edition on archive.org is incomplete.)
+
+
+Revision:
+Visnu-Purana: missing verse added: http://gretil.sub.uni-goettingen.de/gretil.htm#VisnuP
+
+
+
+__________________________________________________________________________
+
+"GRETIL is intended as a cumulative register of the numerous download sites for electronic texts in Indian languages." (from the 2001 "mission statement")
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+
+

@@ -1,0 +1,37 @@
++++
+title = "139 Karen O'Brien-Kop"
+date = "2016-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-March/042800.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-March/042800.html)
+
+Dear Colleagues
+
+I have been asked to circulate this notice about the *current scholarship*
+available for the *MA in Traditions of Yoga and Meditation at SOAS*,
+University of London:
+
+"SOAS University of London is delighted to be offering the Phiroz Mehta
+Scholarship for the academic year 2016-17. Made possible by the generosity
+of the Phiroz Mehta Trust, the scholarship is available for UK/EU
+post-graduate students undertaking the full-time MA Traditions of Yoga and
+Meditation at SOAS. The total value of the scholarship is *£7,678*, which
+will be used towards the cost of tuition fees.
+
+For further information about the award and how to apply, please visit the
+scholarship
+<https://www.soas.ac.uk/registry/scholarships/the-phiroz-mehta-scholarship-.html>
+page on the SOAS website."
+
+Kind regards
+
+Karen O'Brien-Kop
+
+
+*PhD candidate, Religions and Philosophies, SOAS, University of London*
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160307/3f0c324f/attachment.htm>

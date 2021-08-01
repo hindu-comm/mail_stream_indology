@@ -1,0 +1,127 @@
++++
+title = "47 Gruenendahl, Reinhold"
+date = "2008-02-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-February/031461.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-February/031461.html)
+
+Dominik Wujastyk wrote:
+Do you mean, Reinhold, that you can't download these Kielhorn volumes?
+
+Yes, Dominik, I guess that's how things are when you're outside, looking in.
+Of the 65 or so entries under "author: Kielhorn, Franz" Google Books gives me
+access to none (in numbers: 0). I take the "No preview available" message as
+a euphemism for: "Off limits to non-US residents". Curiously enough, there is
+a 1891 publication by Göttingen University among them (where Kielhorn taught
+in later years). Of course, unlike the Mexican bean farmer who suddenly finds
+his seed corns patented by the company across the border, I could circumvent
+these restrictions via a proxy, but I'm not sure whether I really want to
+play that game.
+
+Best regards
+Reinhold
+
+
+
+
+
+
+
+________________________________________________
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Göttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+
+
+________________________________
+
+Von: Indology im Auftrag von Dominik Wujastyk
+Gesendet: Fr 15.02.2008 17:56
+An: INDOLOGY at liverpool.ac.uk
+Betreff: Re: Digital Kielhorn
+
+
+
+Do you mean, Reinhold, that you can't download these Kielhorn volumes?
+I'm in the USA at the moment, and I used the "advanced search"
+books.Google.com screen, and ticked "full view" so that I would only see
+books that were wholly downloadable.  As a result, I have been able to
+download these volumes in toto.
+
+I know there are sometimes different permissions when using google from
+countries outside the USA.  I have in the past had success overcoming
+these limitations by connecting to Google through an anonymizing proxy
+server (http://en.wikipedia.org/wiki/Proxy_server).
+
+Best,
+Dominik
+
+On Fri, 15 Feb 2008, Gruenendahl, Reinhold wrote:
+
+> Dominik Wujastyk wrote:
+>
+> And here are the 3 volumes of his original edition of Patanjali's
+> Mahabhasya.
+>
+> http://books.google.com/books?q=editions:0tCJpU3zYmiqA_F_&id=GLMIAAAAQAAJ
+> <http://books.google.com/books?q=editions:0tCJpU3zYmiqA_F_&id=GLMIAAAAQAAJ>
+>
+> It's amazing what Google is doing.
+>
+>
+> Yes, indeed. It would be interesting to know for which parts of the world
+> Google provides access to the harvest it brings home from the libraries of
+> the world, and which are cut off with snippet views and "No preview
+> available" messages.
+>
+> Greetings
+> Reinhold Grünendahl
+>
+>
+>
+>
+>
+> ________________________________________________
+>
+> Dr. Reinhold Gruenendahl
+> Niedersaechsische Staats- und Universitaetsbibliothek
+> Fachreferat sued- und suedostasiatische Philologien
+> (Dept. of Indology)
+>
+> 37070 Göttingen, Germany
+> Tel (+49) (0)5 51 / 39 52 83
+> Fax (+49) (0)5 51 / 39 23 61
+> gruenen at mail.sub.uni-goettingen.de
+>
+> FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+> In English:
+> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+>
+> GRETIL - Goettingen Register of Electronic Texts in Indian Languages
+> http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+>
+>
+>
+> 
+
+
+

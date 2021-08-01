@@ -1,0 +1,68 @@
++++
+title = "203 Piotr Balcerowicz"
+date = "2021-05-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-May/054623.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-May/054623.html)
+
+Dear colleagues,
+
+I am pleased to draw your attention to an online symposium *The EU-India
+People’s Summit* (May 1-8, 2021).
+
+In order to participate in the symposium, one has tu register
+
+at individual topics (Schedule and Themes) https://euindiasummit.com/
+
+or at https://euindiasummit.com/schedule/
+
+------------------------------------------------------------
+
+*The EU-India People’s Summit*
+
+*On 8th May 2021, in the midst of the COVID pandemic, India and the
+European Union meet virtually to hold their 16th Summit, in which they will
+take steps to negotiate a free trade agreement. The diplomatic summit is
+closed to civil society and stakeholders whose future the Summit will
+influence in the short- and long-term. To understand how these two plural
+and multicultural democracies can positively engage with each other, we
+host the first ever People’s Summit from 1-8 May 2021.*
+
+*The People’s Summit is a non-partisan, non-bureaucratic festival of ideas.
+Through panels, fireside conversations, movie screenings, spoken words and
+workshops, we take a closer look at the core areas of collaboration as
+documented in the EU-India Strategic Partnership: A Roadmap to 2025
+<https://eeas.europa.eu/sites/default/files/eu-india_strategic_partnership_a_roadmap_to_2025_0.pdf>
+and the 9th EU-India Human Rights Dialogue
+<https://eeas.europa.eu/delegations/india/96472/9th-eu-india-human-rights-dialogue_en>.*
+
+*What results does our Summit produce?*
+
+*• With speakers from the European Parliament, domestic politics, academia,
+civil society, and the private sector, we look ahead to shape the vision
+for a future that envisages a plural, democratic, secular and rights-based
+collaboration between EU and India.*
+
+*• We give first-hand accounts that strongly support the idea that the
+future of diplomacy should be embedded in human rights and become
+progressively open sourced.*
+
+*• The Summit discussions will form the People’s Blue-Print of the Roadmap
+that EU and India relation should take. This will mean stronger commitment
+to human rights, religious freedom and minority rights in near and far
+future. *
+
+*Our People’s Summit is free of cost and accessible to all.*
+
+-----------------------------------------------------------
+
+
+With best regards,
+
+Piotr Balcerowicz
+~~~~~~~~~~~~~~~~~~
+http://balcerowicz.eu/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210502/3f5552d8/attachment.htm>

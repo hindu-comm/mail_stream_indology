@@ -1,0 +1,75 @@
++++
+title = "129 Luis Gonzalez-Reimann"
+date = "2012-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-February/036337.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-February/036337.html)
+
+Hans Heinrich,
+
+The answer to your questions is: because it's a joke.
+
+Best,
+
+Luis
+_____
+
+
+on 2/22/2012 6:52 PM Hock, Hans Henrich wrote:
+> Several things are odd about this.
+>
+> Why would someone get sent to Siberia because he "...was suddenly found to have stolen over 500,000 paper clips from work over the course of his tenure at Odessa University"?
+>
+> What is "contracted poloniumitis of the nose"? (The only google references are to variants of this story.)
+>
+> Why is a 6th-10th century statue of Vishnu relevant for Russian -- or Indian -- (pre)history?
+>
+> If Staraya Maina was so important in the history of Russia, why does its name not appear in a (pre)historic or archaeological context on web pages other than the ones reporting this story?
+>
+> Why is there no discussion of the other finds (coins, etc.)?
+>
+> What happened to the promised follow-up conference? (This was 5 years ago--plenty of time for some follow-up work, whether at a conference or elsewhere.)
+>
+> If you check many of the web pages that report the story, you can find plenty of questions being raised. Why does the story keep reappearing without addressing any of these questions?
+>
+> Cheers,
+>
+> Hans Henrich Hock
+>
+>
+>
+>
+>
+> On 22 Feb 2012, at 19:57, Jean-Luc Chevillard wrote:
+>
+>> For the record,
+>> here is a recent one:
+>>
+>> "http://www.tamilbrahmins.com/temples-pilgrimage/8308-ancient-idol-lord-vishnu-found-during-excavation-old-village-russia.html"
+>>
+>> -- Jean-Luc Chevillard (Pondicherry)
+>>
+>>
+>> On 23/02/2012 04:22, McComas Taylor wrote:
+>>> Google indicates that this article appears on 1200 different sites, some
+>>> dating back to 2007, most if not all in India.
+>>
+>>> I wonder if there is an 'original source'?
+>>
+>>> On 23/02/12, *Alexander Stolyarov *<astol007 at GATTAMELATA.COM>  wrote:
+>>>> http://www.globalhinduism.com/article/2012/01/ancient-idol-of-lord-vishnu-found-during-excavation-in-an-old-village-in-russias-volga-region/#.T0Sk82Nm5pT
+>>
+>>> ------------------------------------------------------------------------
+>>> McComas Taylor
+>>> Head, South Asia Program
+>>> ANU College of Asia and the Pacific
+>>> Tel: +61 2 6125 3179
+>>> Location: Baldessin Precinct Building, 4.24
+>>> Website: McComas Taylor<http://arktos.anu.edu.au/chill/index.php/mct>
+>>> ------------------------------------------------------------------------
+>>> Courses: Learn about some of my courses: Sanskrit 1
+>>> <http://www.screenr.com/NSBs>   | Indian Epics<http://screenr.com/uUBs>
+
+
+

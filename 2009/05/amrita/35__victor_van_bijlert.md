@@ -1,0 +1,19 @@
++++
+title = "35 victor van bijlert"
+date = "2009-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033149.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033149.html)
+
+Dear friends,
+As an extra favour I would like to ask the following. The Purusha-sukta
+mentions the four varnas, seemingly for the first time in the Rig Veda. Are
+there other references in the Rig Veda to the four varnas by name, or
+perhaps to any of these four separately? And what about the four varnas in
+the other Veda-Samhitas or the Brahmanas and Aranyakas?
+Thanks again
+Victor van Bijlert
+
+
+

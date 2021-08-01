@@ -1,0 +1,29 @@
++++
+title = "339 Satya Upadhya"
+date = "2000-11-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023821.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023821.html)
+
+Subhash Kak, the revisionist historian, has been churning out his trash at
+www.sulekha.com Here is the url of his latest column, which is highly
+thought provoking:
+
+http://www.sulekha.com/cgi-bin/column.cgi?resource=ms_macaulay
+
+Fortunately, www.sulekha.com has a comments section where readers can post
+their comments on the articles at this site. I request some of the stalwarts
+here to post at least one rebuttal of Kak in the comments section of Kak's
+sulekha article.
+
+-Satya
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

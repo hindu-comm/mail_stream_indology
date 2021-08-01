@@ -1,0 +1,25 @@
++++
+title = "79 Dominik Wujastyk"
+date = "2009-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-January/032539.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-January/032539.html)
+
+Full Professor, Modern South Asian Studies
+Leiden University Faculty of the Humanities
+Leiden, 2300 RA (Zuid-Holland), 38 hours per week
+
+Job description
+The successful candidate will work within one or more disciplines in the 
+Arts and Humanities, and/or Social and Political Sciences. He/she will 
+conduct research and teaching on the South Asian subcontinent, with a 
+demonstrable competency in one or more languages of the region. Modern 
+should be interpreted as including (late) colonial as well as 
+post-independence South Asia.
+
+more at:
+http://www.jobs.ac.uk/jobs/XE878/Full_Professor_Modern_South_Asian_Studies/
+
+
+

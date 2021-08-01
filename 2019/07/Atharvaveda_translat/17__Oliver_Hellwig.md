@@ -1,0 +1,31 @@
++++
+title = "17 Oliver Hellwig"
+date = "2019-07-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-July/050522.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-July/050522.html)
+
+Dear all,
+
+I have compiled some publicly available translations of the AV in a
+common format, so you can address translations of individual stanzas by
+searching for something like 1.3.2 (book 1, hymn 3, stanza 2; see the
+readme file). The data may be less useful for philologists, but
+interesting for NLP (e.g. information retrieval, machine translation
+[when much more data are available], automatic word sense
+disambiguation, ...):
+
+https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/atharvaveda-shaunaka/translations
+
+BTW: If you come across other pre-formatted and relatively error-free
+translations of relevant texts, I would be glad to get a short note.
+
+Best, Oliver
+
+---
+Oliver Hellwig, IVS Zürich
+
+
+
+

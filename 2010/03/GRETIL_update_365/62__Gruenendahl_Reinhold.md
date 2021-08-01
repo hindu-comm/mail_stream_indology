@@ -1,0 +1,43 @@
++++
+title = "62 Gruenendahl, Reinhold"
+date = "2010-03-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-March/034141.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-March/034141.html)
+
+GRETIL is pleased to be able to report the following addition(s) to its
+collection:
+
+Vasubandhu: Abhidharmakosabhasya
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Abhidhkbha> 
+
+
+Vasubandhu: Abhidharmakosa, Karikas
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#AbhidhkK>
+(revised)
+
+
+Visnudharmottara-Purana, Adhy. 2,217: Atharvavidhikathana [=Atharvavidhana]
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vdho_2,217> 
+
+
+Visnudharmottara-Purana, Adhy. 3,343-353
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Vdho_3,343> 
+
+(plain text and analytic version)
+
+
+
+__________________________________________________________________________ 
+
+"GRETIL is intended as a cumulative register of the numerous download sites
+for electronic texts in Indian languages." (from the 2001 "mission
+statement") 
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages: 
+
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+

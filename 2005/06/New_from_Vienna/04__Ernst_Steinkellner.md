@@ -1,0 +1,55 @@
++++
+title = "04 Ernst Steinkellner"
+date = "2005-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-June/029214.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-June/029214.html)
+
+Very sorry, my fault. Try .../Mat.html
+Best wishes,
+Ernst Steinkellner
+----- Original Message ----- 
+From: "Dan Lusthaus" <vasubandhu at EARTHLINK.NET>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Tuesday, May 31, 2005 6:13 PM
+Subject: Re: New from Vienna
+
+
+> Dear Dr. Steinkellner,
+>
+> This new attempt at Dignaga's text is exciting news. However, the link
+> doesn't work. The oeaw site gives this message:
+>
+> Die von Ihnen angeforderte Seite konnte nicht gefunden werden!
+> The requested page was not found on the server!
+>
+> Is there a different link than www.oeaw.ac.at/Mat/dignaga_PS_1.pdf  ?
+>
+> Thank you.
+>
+> Dan Lusthaus
+>
+> ----- Original Message ----- 
+> From: "Ernst Steinkellner" <ernst.steinkellner at UNIVIE.AC.AT>
+> To: <INDOLOGY at liverpool.ac.uk>
+> Sent: Tuesday, May 31, 2005 11:54 AM
+> Subject: New from Vienna
+>
+>
+> Dear Colleagues,
+>
+>
+> Following the efforts of H. R. Rangaswamy Iyengar in 1930, the Muni
+> Jambuvijaya in 1961, 1966,1976, and Masaaki Hattori in 1968, a further
+> attempt at reconstructing the Sanskrit text of Dignagats Pramanasamuccaya
+> with its Vrtti is now available for the first chapter "On Perception" as 
+> PDF
+> under the address www.oeaw.ac.at/Mat/dignaga_PS_1.pdf:
+>
+>
+>
+> Dignagats Pramanasamuccaya, Chapter 1. 
+
+
+

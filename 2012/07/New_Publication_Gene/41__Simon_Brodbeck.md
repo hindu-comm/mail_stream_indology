@@ -1,0 +1,27 @@
++++
+title = "41 Simon Brodbeck"
+date = "2012-07-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-July/036799.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-July/036799.html)
+
+Dear colleagues,
+
+We would like to bring to your attention a recently published guest-edited double-issue of the journal "Religions of South Asia", entitled "Genealogy and History in South Asia". 
+
+The following webpage lists the contents of the volume, and offers the introduction as a free download:
+
+http://www.equinoxpub.com/ROSA/issue/current
+
+These papers are the proceedings of a conference held in Cardiff in May 2010, in connection with a three-year project entitled "The History of Genealogy, the Genealogy of History: Family and the Narrative Construction of the Significant Past in Early South Asia", funded by the UK Arts and Humanities Research Council. We hope they will prove to be both interesting and useful.
+
+Yours faithfully,
+
+James Hegarty and Simon Brodbeck
+Cardiff University
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120712/b2c82bdc/attachment.htm>

@@ -1,0 +1,47 @@
++++
+title = "57 Hartmut Buescher"
+date = "2008-09-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-September/032052.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-September/032052.html)
+
+Dear Stephen,
+
+>the thing is, I am trying to identify a river somewhere between and 
+>including the Narmadaa and the Ulhas from a Tibetan translation (mdzes-'byor) 
+>which roughly means "endowed with beauty / prosperity / goodness". 
+
+mdzes-'byor may very well translate the term/name ullAsa (incl. connotations such 
+as splendor, brightness, beauty) itself.  
+Here is a map showing a lot of rivers in Maharashtra:
+
+http://www.mapsofindia.com/maps/maharashtra/maharashtraphysical.htm
+
+Best regards,
+
+Hartmut Buescher
+
+
+
+
+-----Oprindelig meddelelse-----
+Fra: Indology på vegne af Stephen Hodge
+Sendt: ma 15-09-2008 21:04
+Til: INDOLOGY at liverpool.ac.uk
+Emne: Re: River Ulhas
+
+Dear Ashok (and George),
+
+Thanks for the information.  That is somewhat helpful.  The thing is, I am 
+trying to identify a river somewhere between and including the Narmadaa and 
+the Ulhas from a Tibetan translation (mdzes-'byor) which roughly means 
+"endowed with beauty / prosperity / goodness".  I had wondered if the Ulhas 
+was at some time known as the Kalyaa.nika in view of the town upstream today 
+called Kalyana.
+
+Many thanks,
+Stephen Hodge
+
+
+

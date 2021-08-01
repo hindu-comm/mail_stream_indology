@@ -1,0 +1,27 @@
++++
+title = "85 Dominik Wujastyk"
+date = "2001-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025629.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025629.html)
+
+The British Library has been busy converting its old printed catalogues of
+manuscripts into machine-readeable format.  The work has been carried out
+on the catalogues of western manuscripts, not the catalogues from the
+Oriental and India Office Collections.  However, there are still a number
+of manuscripts of indological importance listed.
+
+For further information, go to
+
+        http://molcat.bl.uk/msscat/
+
+and after "entering", search the Descriptions using terms imaginatively,
+such as, for example, "Sanskrit", "Sanscrit", "Hindoo" and so forth.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Epidemics in Ayurveda"
+
++++

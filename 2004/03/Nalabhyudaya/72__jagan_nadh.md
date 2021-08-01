@@ -1,0 +1,21 @@
++++
+title = "72 jagan nadh"
+date = "2004-03-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-March/028281.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-March/028281.html)
+
+Dear collegues
+   Any body can give me a list of works done in Nalabhyudaya of
+VAmanabhattabana.(Ie Mphil.P.h.D woks etc.. other recent works
+
+             Jaganadh.G/Dept of Sanskrit /Univerity of Kerala /India
+
+_________________________________________________________________
+Join BharatMatrimony.com.
+http://www.bharatmatrimony.com/cgi-bin/bmclicks1.cgi?72 Unmarried? Join
+Free.
+
+
+

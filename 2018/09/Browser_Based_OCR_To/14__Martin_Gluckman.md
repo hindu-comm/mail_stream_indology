@@ -1,0 +1,35 @@
++++
+title = "14 Martin Gluckman"
+date = "2018-09-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-September/048216.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-September/048216.html)
+
+Dear Friends,
+
+
+I am happy to announce the completion of our browser based OCR tool that has been developed for working primarily with Sanskrit text (Devanagari/IAST or mixed) is now ready. This tool makes use of Google's machine learning and supports many scripts including some undocumented and experimental ones so you might be pleasantly surprised that a rare script you are working on is supported or will be supported in future.
+
+
+You may access it herewith: https://ocr.sanskritdictionary.com/
+
+
+To make use of it simply paste an image into the browser and the recognition will start automatically and output the text equivalent in Unicode text. I personally use a free tool called Lightshot<https://app.prntscr.com/en/index.html> to cut and paste selected parts of the screen. You may also manually upload an image file if you prefer.
+
+
+We have tested it with rather poorly printed texts and the results are very promising and we hope this will be of use to the scholarly community. As the system uses a machine learning engine it will constantly improve over time.
+
+
+I appreciate any feedback and suggestions for future improvement.
+
+
+With kindest wishes,
+
+
+Martin
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180901/a24d1394/attachment.htm>

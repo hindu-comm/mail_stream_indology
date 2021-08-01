@@ -1,0 +1,23 @@
++++
+title = "356 Narayan R. Joshi"
+date = "2000-09-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022907.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022907.html)
+
+I see the discussion about the ancient history of India prior to 6th
+century BC(the period of Jain Thirthankara Mahaveera) goes round and round
+about PIE, horse, Mohenjodaro,undeciphered Indus script and excavated
+Buddhist Stoopas and Viharas and Tamil language.Are there any
+archaeological excavations and/or discoveries that could fill up the gap
+between 600 BC and 3000 BC? For example who were in the south India when
+the Jewish king Soloman (900BC to 1000BC)had trade contract with Indian
+king or kings?Just saying that there were Aryan people or Dravidian people
+or mixture of both does not tell us anything.Portraying the picture of the
+ancient Indian civilization in one way or in another way makes no sense
+without the sufficient archaeological excavations.We need research papers
+and information without premature position papers from either side.
+
+
+

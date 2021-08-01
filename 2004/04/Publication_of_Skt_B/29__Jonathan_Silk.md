@@ -1,0 +1,43 @@
++++
+title = "29 Jonathan Silk"
+date = "2004-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-April/028347.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-April/028347.html)
+
+I forward the following, while noting that the book is priced at $129:
+
+Finally, a transliterated version of Sanskrit Vilamakirtinirdesa and
+Jnanalokalamkara is published. Please access to
+http://www.taishobooks.co.jp
+at which you can order the book.
+
+If you have any comments or suggestions to the website, please mail to
+info at taishobooks.co.jp
+or to me.
+
+Sincerely,
+
+--
+Y. YONEZAWA
+y-yonez at ya2.so-net.ne.jp (private)
+
+Tel/Fax +81-(0)47-431-8210
+Mobile  +81-(0)90-9814-0795
+
+
+--
+Jonathan Silk
+Department of Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310)206-8235
+fax:  (310)825-8808
+silk at humnet.ucla.edu
+
+
+

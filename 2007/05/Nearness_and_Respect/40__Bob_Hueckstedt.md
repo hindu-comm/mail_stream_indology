@@ -1,0 +1,29 @@
++++
+title = "40 Bob Hueckstedt"
+date = "2007-05-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-May/030794.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-May/030794.html)
+
+Colleagues:
+Otto Harrassowitz has decided not to keep in print my 1995 monograph on 
+the history of the interpretations of Astadhyayi 6.1.77: iko yan aci. 
+Therefore, it is being sold very cheaply until December 2007. I have not 
+been able to find it listed on their website, but if you write to 
+verlag at harrassowitz.de I'm sure they will be able to help you out. The 
+ISBN is 3-447-03631-1.
+
+Best,
+Bob Hueckstedt
+University of Virginia
+-- 
+This message (including any attachments) contains confidential 
+information intended for a specific individual and purpose, and is 
+protected by law. If you are not the intended recipient, you should 
+delete this message and are hereby notified that any disclosure, 
+copying, or distribution of this message, or the taking of any action 
+based on it, is strictly prohibited.
+
+
+

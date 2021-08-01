@@ -1,0 +1,52 @@
++++
+title = "61 Dominik Wujastyk"
+date = "2017-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-April/045599.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-April/045599.html)
+
+This publication would gladly consider news on Indian manuscripts, if we
+sent it.
+
+Sent from Android phone
+---------- Forwarded message ----------
+From: "LEngle, Susan" <lengles at slu.edu>
+Date: 17 Apr 2017 09:11
+Subject: Manuscripts on My Mind
+To: <wujastyk at gmail.com>
+Cc:
+
+Dear Colleagues and Manuscript Lovers,
+>
+> I hope you are enjoying some semblance of spring as you wind down this
+> first semester of 2017. Here the dogwood is beaming in pink and white, and
+> a few odd irises have already made it into light and air; in a week or so
+> they will fill the city with kaleidoscopic colors. My favorite is the
+> purple iris, featured on so many Netherlandish panels and altarpieces.
+>
+> I am starting work on the May 2017 issue of *Manuscripts on My Mind*, and
+> ask you all to send me any news on exhibitions, projects, conferences,
+> courses, calls for papers, publications, new research, burning questions,
+> startling discoveries, anything else manuscript-related you can think of—by
+> May 1st, 2017.
+>
+> Yours in manuscript studies,
+>
+> Susan L'Engle, Ph.D.
+> Assistant Director, Vatican Film Library
+> Editor, *Manuscripta*
+> Pius XII Memorial Library
+> Saint Louis University
+> 3650 Lindell Boulevard
+> St. Louis, Missouri  63108
+> Tel. (314) 977-3084 / Fax (314) 977-3108
+> Email: lengles at slu.edu
+> http://lib.slu.edu/special-collections
+> <http://list.slu.edu/t/2323051/3076903/2056/4/>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170417/c918157c/attachment.htm>

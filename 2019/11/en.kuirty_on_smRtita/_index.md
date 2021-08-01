@@ -1,0 +1,4 @@
++++
+title = "Enquirty on smṛtitattvam"
+
++++

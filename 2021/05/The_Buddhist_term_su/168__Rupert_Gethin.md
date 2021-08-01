@@ -1,0 +1,78 @@
++++
+title = "168 Rupert Gethin"
+date = "2021-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-May/054697.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-May/054697.html)
+
+Oskar von Hinüber suggests here that the Theravāda tradition offers no support for a derivation of sutta from sūkta. (In der Theravāda-Überlieferung findet die Annahme, daß sutta- eigentlich sūkta- entspräche, nirgends eine Stütze, wie die lange Erörterung  zu sutta-, As 19, 15–26 mit aller Deutlichkeit zeigt.)
+
+However, the Atthasālini passage cited here (= Sp I 19 = Sv I 17) quotes and explains a mnemonic verse that offers 6 ways of taking sutta; the second of these is precisely sūkta (Pali suvutta):
+
+"As revealing benefits, as well spoken (suvutta), as productive, as yielding,
+as sheltering well, as a universal measuring cord, it is called sutta.”
+
+"For a sutta reveals various benefits for ourselves and others. And in it these benefits are spoken well (suvutta) since they are spoken in accordance with the disposition of those who are to be trained …"
+
+atthānaṃ sūcanato suvuttato savanato ’tha sūdanato |
+suttāṇā suttasabhāgato ca suttan ti akkhātaṃ ||
+
+taṃ hi attatthaparatthādibhede atthe sūceti. suvuttā c’ ettha atthā veneyyajjhāsayānulomena vuttattā ...
+
+Rupert Gethin
+--
+Rupert Gethin
+Professor of Buddhist Studies
+University of Bristol
+Department of Religion and Theology
+3 Woodland Road ● Bristol BS8 1TB ● UK
+
+Email: Rupert.Gethin at bristol.ac.uk<mailto:Rupert.Gethin at bristol.ac.uk>
+
+On 10 May 2021, at 21:13, Lubin, Tim <LubinT at wlu.edu<mailto:LubinT at wlu.edu>> wrote:
+
+Oskar von Hinüber (1994: “Die Neun Aṅgas,” p. 132) approvingly cites Mayrhofer’s judgment (EWA III/ 492) that the derivation from sūkta is “entbehrlich”; he cites a long discussion of the term in Buddhaghosa’s Atthasālinī 19.15–26 as evidence against it.
+
+Tim Lubin
+
+
+From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of INDOLOGY <INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>>
+Reply-To: Andrew Ollett <andrew.ollett at gmail.com<mailto:andrew.ollett at gmail.com>>
+Date: Monday, May 10, 2021 at 3:28 PM
+To: Jim Ryan <jim_ryan at comcast.net<mailto:jim_ryan at comcast.net>>
+Cc: INDOLOGY <INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>>
+Subject: Re: [INDOLOGY] The Buddhist term sutta
+
+Dear Jim,
+
+See Max Walleser's 1914 book, footnote on p. 4:
+
+https://archive.org/details/dli.granth.87981/page/4/mode/2up<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Farchive.org%2Fdetails%2Fdli.granth.87981%2Fpage%2F4%2Fmode%2F2up&data=04%7C01%7Clubint%40wlu.edu%7C0333231e2b2a4612271008d913e9c5d1%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637562717033304457%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=DTNhc%2Bn9b9De7mhR5NFEIwsDBzS5Mmag%2B4MyhjFm2ak%3D&reserved=0>
+
+K. R. Norman and Gombrich accepted this suggestion. I suppose Pollock got it from Gombrich.
+
+Andrew
+
+On Mon, May 10, 2021 at 2:22 PM Jim Ryan via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+Dear all,
+
+Sheldon Pollock in The Language of the Gods in the World of Men (p. 52) suggests that the Buddhist term “sutta” does not derive from the Sanskrit sūtra, but rather from sūkta. Sanskrit double consonant clusters do show regular assimilation, regressively and progressively, in Prakrit, where two different consonants become a double of one of them. I’m interested in hearing learned opinion on Pollock’s suggestion. I had not noticed this interesting detail, when I first read this book some years ago.
+
+James Ryan
+Asian Philosophies and Cultures (Emeritus)
+California Institute of Integral Studies
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=04%7C01%7Clubint%40wlu.edu%7C0333231e2b2a4612271008d913e9c5d1%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637562717033304457%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=QhpIMwMX1t2wttLw14Lv%2FDk9z7oS7xcXKUjwMaTv1r8%3D&reserved=0>
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210510/6bd7da25/attachment.htm>

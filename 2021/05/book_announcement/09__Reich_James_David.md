@@ -1,0 +1,22 @@
++++
+title = "09 Reich, James David"
+date = "2021-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-May/054783.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-May/054783.html)
+
+Dear colleagues,
+
+With apologies for self-promotion, I would like to announce the publication of my first book, To Savor the Meaning (Oxford University Press). To Savor the Meaning examines the overlap of literary theory and religious philosophy in 9th-11th century Kashmir by looking at debates about how poetry communicates emotions to its readers, what it is readers do when they savor these emotions, and why this might be valuable. It focuses on the work of three influential figures-Anandavardhana [ca. 850 AD], Abhinavagupta [ca. 1000 AD], and the somewhat lesser known theorist Mahimabha??a [ca. 1050 AD]-placing them within the wider context of the religious philosophies current in Kashmir at the time, and showing that their ideas cannot be fully understood in isolation from this broader context.
+
+https://global.oup.com/academic/product/to-savor-the-meaning-9780197544839?cc=us&lang=en&
+
+I hope the book will be interesting and useful in its own way to some.
+
+Thank you,
+James?
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210519/fce67357/attachment.htm>

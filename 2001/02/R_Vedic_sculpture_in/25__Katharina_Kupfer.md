@@ -1,0 +1,28 @@
++++
+title = "25 Katharina Kupfer"
+date = "2001-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025168.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025168.html)
+
+The collection of the Museum in Naples contain at least 1 figurine of
+the godess Lakshmi, what has been found 1935 in Pompej (Insula I, Casa
+della Statuetta <singular!> Indiana, #149425). Maybe they have one or
+two more?
+
+Regards,
+Katharina Kupfer
+--
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Katharina Kupfer                        kupferka at uni-freiburg.de
+Sprachwissenschaftliches Seminar
+Albert-Ludwigs-Universitaet Freiburg
+Werthmannpl. 3                          Phone: +49/761/203-3167
+D-79085 Freiburg                        Fax: +49/761/203-3203
+        http://www.uni-freiburg.de/indogerm/kupfer.htm
+         http://titus.fkidg1.uni-frankfurt.de/tht.htm
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "04 Jan E.M. Houben"
+date = "2001-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-September/026335.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-September/026335.html)
+
+I found the following site interesting -- I did not
+yet see a link on the Indology homepage, perhaps
+rightly so because it only marginally deals with
+indological texts, and mainly in translation. For me
+only the thorough indexing of A.B. Keith's translation
+of TS may be of occasional use.
+The indexing of Sanskrit RV is no great succes. It
+seems that intratext can index any text-file for
+personal use, but I have not yet tried it.
+
+ http://www.intratext.com/BHI/
+
+The Buddhist section of this site gives some
+translated text as the "gospel" of the Buddha.
+
+Jan Houben
+
+__________________________________________________
+Do You Yahoo!?
+Get email alerts & NEW webcam video instant messaging with Yahoo! Messenger
+http://im.yahoo.com
+
+
+

@@ -1,0 +1,33 @@
++++
+title = "175 Akihiko Akamatsu"
+date = "2009-02-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032714.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032714.html)
+
+Dear Colleagues,
+
+The 14th World Sanskrit Conference will be held in Kyoto, Japan in 
+September 1-5, 2009. The organizers would like to inform that the 
+detailed information concerning the registration, accommodation, and 
+other practical matters is available at our revised web-site:
+
+http://www.indology.bun.kyoto-u.ac.jp/14thWSC/
+
+In addition to the web-version of the 2nd circular, the site contains 
+the on-line system of registration and payment of registration fee. We 
+request all the participants to make the on-line registration for the 
+sake of our manageability, even if you have already sent us your 
+registration form. We appreciate your cooperation.
+
+I apologize for a possible double mailing, as some of you might have 
+received this document in another posting.
+
+Conference Secretary
+14th WSC
+
+Akihiko Akamatsu
+
+
+

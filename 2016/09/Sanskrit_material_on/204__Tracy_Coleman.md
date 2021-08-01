@@ -1,0 +1,64 @@
++++
+title = "204 Tracy Coleman"
+date = "2016-09-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044034.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044034.html)
+
+Hi Toke,
+
+
+Brill's Encyclopedia of Hinduism has an entry, "Transmission of Knowledge," that might be helpful.
+
+
+Cheers,
+
+Tracy
+
+
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Toke Knudsen <Toke.Knudsen at oneonta.edu>
+Sent: Thursday, September 8, 2016 2:11 PM
+To: indology at list.indology.info
+Subject: [INDOLOGY] Sanskrit material on philosophy of education
+
+Dear all,
+
+A colleague of mine sent me the following question:
+
+"I am teaching a course on education and its objectives. We do a fair bit of philosophy in this course but most of our sources are European. Do you think there are certain Sanskrit treatises (hopefully available in English) which belong in a course on the philosophy of education?"
+
+Would any of you be able to comment on this question?
+
+Best wishes,
+Toke
+
+-----
+Toke Lindegaard Knudsen, Ph.D.
+Associate Professor of Mathematics
+Department of Mathematics, Computer Science, and Statistics
+264 Fitzelle Hall
+State University of New York at Oneonta
+108 Ravine Parkway
+Oneonta, NY 13820
+USA
+
+(607) 436-3726 (phone)
+(607) 436-2173 (fax)
+<toke.knudsen at oneonta.edu>
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+INDOLOGY Info Page<http://listinfo.indology.info/>
+listinfo.indology.info
+INDOLOGY is an internet discussion group whose primary purpose is to provide a forum for discussion among professional scholars of classical Indian (South Asian ...
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160908/aa00c1b8/attachment.htm>

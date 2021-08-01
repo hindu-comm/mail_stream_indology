@@ -1,0 +1,36 @@
++++
+title = "28 Robert Zydenbos"
+date = "2000-11-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023578.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023578.html)
+
+Am 1 Nov 2000, um 17:20 schrieb André Signoret:
+
+> As far as I can see, Tamil (we say also Tamoul in France, Gott weiss
+> warum) [...]
+
+This is because the pronunciation of the vowel that is represented
+by the grapheme 'i' (in transliteration, corresponding to a Tamil
+grapheme) is influenced by the following retroflex voiced fricative
+and therefore does not sound like an 'i' to the average speaker of
+French. And actually the final 'l' would better have been written 'r';
+but European languages do not have that phoneme, and given the
+choice between r and l, it somehow became customary to write 'l'
+(perhaps also because in the pronunciation of some Tamil
+speakers, the fricative becomes a lateral. And in later Kannada and
+Telugu, this sound became replaced by the retroflex lateral).
+
+It is the problem of what to do when you write words from another
+language in a script that was designed for a very different language.
+(Cf. the common Indian usage of transliterating the alveolar 't' and
+'d' of European languages as retroflexes.) French 'tamoul' is not
+really worse than English 'Tamil'.
+
+
+Robert Zydenbos
+Institut für Indologie und Iranistik
+
+
+

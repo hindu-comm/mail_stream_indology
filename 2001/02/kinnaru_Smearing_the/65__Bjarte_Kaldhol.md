@@ -1,0 +1,22 @@
++++
+title = "65 Bjarte Kaldhol"
+date = "2001-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025180.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025180.html)
+
+Dear listmembers,
+
+It appears that kinnaru is older in Akkadian than I thought. The word is
+attested at Ebla as GI.NA.RU12. This means that it is unlikely to be
+Sumerian. It seems to be an Akkadianized foreign word, but at this early
+time (2400 BC?) it cannot have entered Akkadian through Amorite dialects.
+Some later texts from Ugarit give the impression that kinnaru was a drum;
+perhaps it was a general word for different kinds of musical instruments?
+
+Best wishes,
+Bjarte Kaldhol
+
+
+

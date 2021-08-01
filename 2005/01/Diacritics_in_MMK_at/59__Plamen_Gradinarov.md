@@ -1,0 +1,30 @@
++++
+title = "59 Plamen Gradinarov"
+date = "2005-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-January/028958.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-January/028958.html)
+
+Dear Richard,
+
+I see less than half of the diacritics in the online UTF-8 rendering of MMK
+http://homepages.comnet.co.nz/~r-mahoney/mmk_text/mmk_01_utf8.html
+
+Correctly represented are only:
+long vowels
+circumflex vowels
+palatal n and s
+
+all the rest is replaced by squares
+
+I am using Code2000 and it seems to have problems with all utf-8 pages containing Dev. transliteration. PC, Windows 98
+
+Any suggestions or known solutions to this issue would be appreciated. 
+
+Thanks,
+Plamen
+http://www.yogadarsana.org
+
+
+

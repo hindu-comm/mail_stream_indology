@@ -1,0 +1,68 @@
++++
+title = "116 Dipak Bhattacharya"
+date = "2013-03-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-March/037656.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-March/037656.html)
+
+30
+3 13
+Re:
+Sākṣi-caitanya
+Dear
+Colleague,
+I
+hesitated to comment so far for self-evident reasons. I shall be glad if the
+following could be of any use to those who are interested. 
+The
+concept of sākṣi-caitanya, lit. ‘witness consciousness’ frequently occurs in
+traditional Indian philosophical parlance, particularly in the mixed Vedānta-Sāṅkhya
+circles. As far as I know there has been no extensive treatment of the matter
+in English. But Jhalakikar’s Nyāyakośa (BORI 1928) treats it in sufficient
+detail under ’Sākṣī’. His discussion is in Sanskrit.
+In
+the 16th-17th cent. the sākṣī was understood as pure
+consciousness with ‘upādhi’ on the universal plane, while in the individual
+plane it was consciousness endowed with mind. This interpretation will be found
+in the Vedāntaparibhāṣā. For obvious reasons the Sāṅkhya-Yoga concepts are
+different. 
+Long
+ago (1984) I hesitatingly noted that the idea of ‘witness-god’ had been apprehended
+in the ritual-cosmogonic hymns of the Atharvaveda, particularly in the concept
+of Vena and some other concepts of unsystematized philosophy. Edgerton did not have any such idea. And my
+idea did not create much impression among the scholars concerned, excepting
+mildly in India. The matter, along with many accompanying concepts, was mostly received
+by reviewers (Karel Werner JRAS April 87, Mylius JIP) as too obscure.
+I
+hope this will not be taken as shameless self-promotion, the fear that kept me
+in check so long. The story is one of defeat
+Best
+DB
+ 
+
+
+
+________________________________
+ From: patrick mccartney <psdmccartney at gmail.com>
+To: indology at list.indology.info 
+Sent: Friday, 29 March 2013 12:28 PM
+Subject: [INDOLOGY] Silent witness
+
+
+Dear List, 
+I am seeking clarification of the term from yoga /vedanta known as the silent witness. 
+In several modern yoga textbooks I have so far found only a poor transliteration as sakshi dreer.
+Could someone please confirm whether it is actually sAkSin + indriya, or something else.
+I would also appreciate knowing in what texts it is mentioned.
+Thanks
+Patrick McCartney
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+http://listinfo.indology.info
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130330/c5afcaa4/attachment.htm>

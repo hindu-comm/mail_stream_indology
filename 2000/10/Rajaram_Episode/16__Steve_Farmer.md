@@ -1,0 +1,56 @@
++++
+title = "16 Steve Farmer"
+date = "2000-10-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/022963.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/022963.html)
+
+Arun Gupta writes:
+
+> I ordered the two volumes, received them in three weeks,
+> and was able to locate Rajaram's "horse-seal" for myself; and I then
+> confirmed by the catalog number given by Witzel and Farmer.  The broken edge
+> of the seal is clearly visible there, and the fact that it is not a horse.
+>
+> I conclude that Rajaram, with more resources and more friends in academe
+> than I, could have easily checked this most important point for himself
+
+You miss the point  or, rather, are doing everything in your
+power to evade it. Rajaram didn't make an error caused by a lack
+of resources. We have hard evidence that he possessed a good
+reproduction of Mackay 453. Instead of printing that reproduction
+in his book, he doctored it in his "computer enhancement" and
+published that instead. M. Witzel and I didn't attack Rajaram for
+scholarly sloppiness but for falsifying data to deceive the
+public -- with very big historical and political issues at stake.
+
+Unlike Arun Gupta, Samar Abbas *does* get the point, and
+expresses it with considerable eloquence:
+
+>  It is not just one person - it is the whole Vedic Harappa theory that is
+> at stake here. The entire Vedic Indus hypothesis is now in severe danger
+> of going down with Rajaram.
+>
+>  As Rajaram's model is the only Sanskritic model to date, and is now part
+> of Indian school curriculum, it is only natural that so much attention
+> should be focussed on it. Also, Rajaram said that he only cared about the
+> Indian press where "millions" read his work, and did not bother about
+> Western academic publications which "rot away in dusty library shelves".
+> It was essentially an open challenge to Indologists - which has now at
+> last been taken up in the only forum which Rajaram bothers about: the
+> Indian mass media. Demolishing his claims in Western journals would have
+> had no effect and would have been too kind.
+
+Our deconstruction of Rajaram wasn't an unkind act of scholars
+vs. scholars. Rajaram doesn't care a bit about what researchers
+think about him. He does care very much about his public image,
+however. The mess this is kicking up in India -- including the
+attacks on M. Witzel and me as buddies of communists, etc. (see
+also recent IndianCivilization posts! -- shows how much trouble
+Rajaram's crowd is in.
+
+S. Farmer
+
+
+

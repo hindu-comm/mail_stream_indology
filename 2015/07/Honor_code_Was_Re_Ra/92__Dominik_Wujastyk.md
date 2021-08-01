@@ -1,0 +1,28 @@
++++
+title = "92 Dominik Wujastyk"
+date = "2015-07-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041545.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041545.html)
+
+My university, like many, has a rather well-developed set of guidelines
+about academic integrity
+<http://guides.library.ualberta.ca/content.php?pid=560222&sid=4617994>.
+There are separate sections aimed at faculty and at students. The student
+page "avoiding plagiarism
+<http://guides.library.ualberta.ca/content.php?pid=560222&sid=4618015>"
+contains useful guidelines that might have helped Malhotra when he was
+writing. There is a video guide about what is and what is not acceptable
+copying <https://youtu.be/8Bx5DAqTPhU>.  Humour is a personal thing, but I
+found it very funny.
+
+For the rappers among us, "cite your sources like a freaking adult
+<https://youtu.be/bT6S4ERI0o8>."
+​
+​Dominik Wujastyk​
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150717/863c91de/attachment.htm>

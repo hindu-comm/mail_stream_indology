@@ -1,0 +1,37 @@
++++
+title = "25 JAEKWAN SHIM"
+date = "1999-11-02"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/018908.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/018908.html)
+
+Dear Indologists,
+
+F.Staal says the following in his book AGNI(vol 1, p.18, or vol 2. p.465):
+
+"....During the 1975 performance of the ceremony several changes were made.
+One of the most important was that no animals were killed during the fourteen
+animal sacrifices traditionally prescribed. The goats were represented by
+cakes made of a paste of rice flour...."
+
+Except the vegetarian substite of pashuyajna in GrihyaSutra, anybody know that
+substition for pashuyajna in "SrautaSutra"?  F. Staal also says of 1955
+Vajapeya performance in Poona for the case(vol. 2, p.465). Is there any report
+on the substituted pashuyajna? I shall be most grateful for the information or
+biblio to help my understanding for the pashubandha-pratinidhi. 
+Thanks in advance.
+
+Jaekwan Shim
+
+shimj at usa.net
+
+Dept. of Indian Philosophy
+Dongguk. Univ.
+Seoul 
+
+____________________________________________________________________
+Get free email and a permanent address at http://www.netaddress.com/?N=1
+
+
+

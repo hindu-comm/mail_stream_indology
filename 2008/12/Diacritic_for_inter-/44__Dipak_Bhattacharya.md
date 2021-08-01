@@ -1,0 +1,18 @@
++++
+title = "44 Dipak Bhattacharya"
+date = "2008-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-December/032283.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-December/032283.html)
+
+1.12.08
+I sincerely thank two of our learned members for the information. To avoid misunderstanding I should state that the problem had been solved here. I just wanted to know if the problem was unique to India. The information "R with ring below was not included in the Unicode standard" is indeed the fact I was informed of at Calcutta. But I hardly believed that the situation could be the same in the West as in India. The men at work here took my suggestion of developing this character with some diffidence. This was puzzling. The addition "and there is no expectation that it will ever have a dedicated code point." is disheartening but explains the reason for the my initial puzzle. 
+With thanks again 
+DB
+
+
+      Add more friends to your messenger and enjoy! Go to http://messenger.yahoo.com/invite/
+
+
+

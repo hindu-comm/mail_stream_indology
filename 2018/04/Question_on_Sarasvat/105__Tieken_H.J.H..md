@@ -1,0 +1,39 @@
++++
+title = "105 Tieken, H.J.H."
+date = "2018-04-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-April/047566.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-April/047566.html)
+
+Dear Madhav,
+I have lost track of the reactions to your question.  Maybe someone has already drawn your attention to compounds like Kālidāsa, Lakṣmivardhana, etc. discussed in Wackernagel and Debrunner, Altindische Grammatik, Band II, 2, pp. 304-6. If not, I do hereby.
+Herman
+
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info] namens Madhav Deshpande via INDOLOGY [indology at list.indology.info]
+Verzonden: zondag 29 april 2018 20:23
+Aan: Indology; Bharatiya Vidvat parishad; e-shabda-charcha-peeth
+Onderwerp: [INDOLOGY] Question on Sarasvati as a masculine title
+
+Dear Colleagues,
+
+     This morning I came across this book, where the author's name is given as प्रबोधानन्दसरस्वतिपाद, where the word "sarasvati" occurs with a short "i".  This "sarasvatī", as well as "Bhāratī" is added in the title of many Sannyasins.  Sometimes I see the titles with a long "ī", and here is an instance of a short "i".  I am wondering as to what is the common practice and the grammar of that practice, especially since normally feminine expressions are being used in male titles.  Any suggestions?
+
+
+
+Madhav Deshpande
+Campbell, California
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180430/7ee6f3fc/attachment.htm>

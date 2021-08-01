@@ -1,0 +1,25 @@
++++
+title = "183 Dominik Wujastyk"
+date = "2016-09-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044010.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044010.html)
+
+I don't have any solid evidence for this, but I assume that transliteration
+was invented for Sanskrit because printing Devanagari was difficult.  It
+isn't difficult any more.  All modern computers can make a decent fist of
+Devanagari.  So why are we routinely using transliteration at all, any
+more?  People writing scholarship on Greek or Russian or Armenian don't use
+Latin script.  Why should we?
+
+And if you know any other windmills, I'd be glad to tilt at them too. :-)
+
+Best,
+Dominik
+​
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160905/3c2a4114/attachment.htm>

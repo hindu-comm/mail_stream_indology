@@ -1,0 +1,49 @@
++++
+title = "323 Dominik Wujastyk"
+date = "2000-01-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019928.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019928.html)
+
+On Wed, 19 Jan 2000, Stephen Hodge wrote:
+
+> Since you are possibly also doing some work on the KP, do you have any
+> ideas about the identity of the "u.s.tra-dhuumaka" insect/worm ?
+
+U.s.tradhuuma is mentioned in Vaagbha.ta's A.s.taa"ngah.rdayasa.mhitaa
+(ca. 600) in Uttaratantra 37.14, the chapter on insect and spider bites.
+The verse goes like this
+
+ucci.ti"ngas tu vaktre.na da"saty abhyadhikavyatha.h
+saadhyato v.r"scikaat stambha.m "sophaso h.r.s.taromataam 13
+karoti sekama"ngaanaa.m da.m"sa.h "siitaambuneva ca
+u.s.tradhuuma.h sa evokto raatricaaraa ca raatrika.h 14
+
+The Ucci.ti"nga bites with its mouth, causing very extreme pain, more than
+(?) a scorpion which is treatable.  The penis is erect, the body hair
+stands on end.  And one pours cold water on the limbs of the bite.  It is
+in fact called the U.s.tradhuuma, or again the Raatrika because it comes
+out at night.
+
+
+The passage is in the context of scorpions, so it seems that the
+ucci.ti"nga, u.s.tradhuuma, and raatrika are all names of something like a
+scorpion.  But in verse 15, it is distinguished from a scorpion: "the
+poison of the u.s.tradhuumaka, like the scorpion, mainly has an excess of
+wind".  This wind connection is taken from Su"sruta (kalpasthaana, 8.5).
+
+Su"sruta also says of the ucci.ti"nga that it is like the scorpion and
+other creatures in that it's poison is in its sting (kalpa 3.5:
+v.r"scikavi"svambharavara.tiiraajiivamatsyocci.ti"ngaa.h
+samudrav.r"scikaa"s caalavi.saa.h | There are some variants on the word
+for "sting", aala or aara, which the commentators discuss).
+
+
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

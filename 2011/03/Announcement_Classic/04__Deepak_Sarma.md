@@ -1,0 +1,70 @@
++++
+title = "04 Deepak Sarma"
+date = "2011-03-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-March/035325.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-March/035325.html)
+
+All:
+	Book announcement:
+
+Classical Indian Philosophy: A Reader 
+
+Table of Contents
+Introduction
+
+Part I. Nastika (Heterodox) Schools
+1. Carvaka
+2. Buddhism
+3. Yogacara Buddhism
+4. Madhyamaka Buddhism
+5. Jainism
+
+Part II. Five Astika (Orthodox) Schools
+6. Nyaya
+7. Vaisesika
+8. Samkhya
+9. Yoga
+10. Mimamsa
+
+Part III. Schools of Vedanta
+11. Advaita Vedanta
+12. Visitadvaita Vedanta
+13. Madhva Vedanta
+
+General Bibliography
+Index
+
+http://www.cup.columbia.edu/book/978-0-231-13398-2/classical-indian-philosophy 
+
+Anyone who uses the promo code “CLASA” to buy the book from this site will receive a 30% discount off the price of the book
+
+yours,
+Deepak
+
+Dr. Deepak Sarma
+
+Associate Professor of Religious Studies
+Associate Professor of Philosophy
+Associate Professor of Classics
+Associate Professor of Bioethics, Case Western Reserve University School of Medicine
+
+Guest Curator: Indian Kalighat Paintings May 1-Sept. 18, 2011
+The Cleveland Museum of Art
+
+The South Asia Initiative
+http://www.case.edu/artsci/southasia/
+
+Mailing Address:
+Department of Religious Studies
+Tomlinson Hall
+2121 MLK Jr. Drive
+Case Western Reserve University
+Cleveland, OH 44106-7112
+
+office: 216-368-4790
+deepak.sarma at case.edu
+
+
+

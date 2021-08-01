@@ -1,0 +1,66 @@
++++
+title = "00 Charles DiSimone"
+date = "2021-03-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-March/054441.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-March/054441.html)
+
+Dear Friends,
+
+With all apologies for crossposting, but this should be of interest to some
+folk on the list. Below please find information on the third lecture
+in the Ghent
+Center for Buddhist Studies <http://www.cbs.ugent.be/node/1> Spring Lecture
+Series (Permanent Training in Buddhist Studies (PTBS)) generously sponsored
+by the Tianzhu Foundation. Matthew D. Milligan Trinity University (San
+Antonio, TX) will give a lecture on March 30, 2021 at 19.00 Belgian
+time. All lectures in this series will be held remotely over Zoom.
+Interested parties are welcome to attend the series or individual talks. To
+get the Zoom link, please register by writing to CBS at ugent.be *by the
+morning *of March 30. The link will be sent out the day of the talk.
+
+With my kind regards,
+
+Charles DiSimone
+
+
+*Economic Class in Early South Asian Buddhism: Perspectives from Epigraphy
+and the Divyāvadāna*
+
+
+*Matthew D. Milligan Trinity University (San Antonio, TX)*
+
+To date, most studies of classical South Asian Buddhist demographics have
+focused on varṇa and conversion, mercantile professions, and, more
+recently, finally, on gender. Unfortunately, even when scholars have turned
+their gaze onto demographics they have primarily relied upon anachronistic
+and generalized readings of literature and/or century old tabulations of
+inscriptions. As far as I can tell, there have been no attempts to
+critically examine economic class through close readings of texts and
+historical documents together. In this paper, I will evaluate the
+definition of “economic class,” decouple it from classical Sanskrit
+concepts of idealized varṇa, and introduce some new data from texts and
+inscriptions to examine the lived realities of “class" from approximately
+300 BCE until at least the 5th c. CE when the *Divyāvadāna* was composed.
+
+*Bio*
+
+Matthew D. Milligan is a Visiting Assistant Professor at Trinity University
+in San Antonio, TX. He is also a Harwood Research Fellow at the American
+Institute for Economic Research. He works on the intersections of Buddhism,
+Economics, and Philology and has published numerous articles on the
+economic history of Buddhism in South Asia. In addition to forthcoming
+articles in the *Journal of Contemporary Religion *and *South Asian Studies*,
+he is completing a book manuscript titled *Of Rags and Riches: The
+Disruptive Business of Early Buddhism*. His latest project involves
+decolonizing the field of engaged Buddhist Economics in the United States.
+
+Dr. Charles DiSimone
+Department of Languages and Cultures
+Ghent University
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210326/a5f690d0/attachment.htm>

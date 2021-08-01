@@ -1,0 +1,38 @@
++++
+title = "87 Stefan Baums"
+date = "2002-01-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-January/026618.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-January/026618.html)
+
+Thank you very much.  My mistake was assuming that Kosambi's index is
+of padas whereas it actually is of the slokas' first padas only.  For
+what it's worth, I have since been able to locate it in Kale's "The
+Niti and Vairagya Satakas of Bhartrhari", 7th ed. 1971, p. 43.
+
+It would interesting to find out what form of Bhartrhari's text was
+available to Rask (who died in 1832): pAda d is
+
+   kurvA.no nAvasIdati
+
+on the gravestone, a reading that Kosambi cites for the Western
+(Maharashtrian) version of the text, while adopting
+
+   krtvA ya.m nAvasIdati
+
+in his textus constructus.  I seem to recall that there is a
+manuscript of the Satakatrayam among those Rask brought back from his
+travels (which did take him to Bombay en route to Ceylon), but I can
+first verify that next week when I'm back in Copenhagen.
+
+Best regards,
+Stefan Baums
+
+--
+Stefan Baums
+Asien-Instituttet
+Københavns Universitet
+
+
+

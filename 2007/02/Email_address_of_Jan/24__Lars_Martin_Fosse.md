@@ -1,0 +1,31 @@
++++
+title = "24 Lars Martin Fosse"
+date = "2007-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-February/030515.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-February/030515.html)
+
+Dear members of the list,
+
+do any of you have an email address for Janet Kamphorst?
+
+Best regards,
+
+Lars Martin Fosse 
+
+From:
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo - Norway
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250
+Mobile phone: +47 90 91 91 45
+E-mail:  <mailto:lmfosse at chello.no> lmfosse at chello.no
+http://www.linguistfinder.com/translators.asp?id=2164 
+
+
+
+
+
+
+

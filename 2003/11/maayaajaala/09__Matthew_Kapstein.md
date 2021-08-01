@@ -1,0 +1,26 @@
++++
+title = "09 Matthew Kapstein"
+date = "2003-11-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-November/027967.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-November/027967.html)
+
+A very interesting question indeed.
+I have no idea where the "earliest" occurrence
+of the term is to be found. I suppose I'd want
+to look for it in suutras like the Ga.n.davyuuha,
+Das'abhuumika, etc. But for the moment all
+that I know for sure is that it appears prominently
+in the titles of a group of tantras that seem to
+come into circulation in about the 8th c. The term
+had been long since established, I imagine, when the
+authors of these works appropriated it. Of course,
+it is immediately suggestive of similar terms -- brahmajaala,
+indrajaala -- whose antiquity is well-known, e.g., in the
+Brahmajaalasuutra of the Diighanikaaya.
+
+Matthew Kapstein
+
+
+

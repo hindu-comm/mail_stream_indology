@@ -1,0 +1,56 @@
++++
+title = "36 Dominik Wujastyk"
+date = "2008-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-May/031677.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-May/031677.html)
+
+I don't know what browswer you are using, but if it's Firefox, then you 
+would go to "View/Character encoding" and set it to UTF-8 (i.e., unicode). 
+That should do the trick.
+
+Best,
+Dominik
+
+-- 
+Prof. Dominik Wujastyk
+Visiting Associate Professor (Spring Semester '08)
+Department of Asian Studies
+University of Texas at Austin
+http://www.utexas.edu/cola/depts/asianstudies/
+
+
+On Tue, 6 May 2008, Deshpande, Madhav wrote:
+
+> Hello Dominik,
+>
+>     On my MacBook Pro, the fonts for the Mahabhasya page (in the 
+> Intratext version) are not showing up properly.  Do I need to change the 
+> font encoding settings to some special setting, or do I need a special 
+> font to view these pages?
+>
+> Madhav
+>
+>
+>
+> -----Original Message-----
+> From: Indology on behalf of Dominik Wujastyk
+> Sent: Mon 5/5/2008 3:18 PM
+> To: INDOLOGY at liverpool.ac.uk
+> Subject: Mahabhasya now available in Intratext version
+>
+> Thanks to the staff and funding at the intratext.com project, and to the
+> original data-analysis and data-entry project under Prof. Cardona, the
+> Mahabhasya of Patanjali is now available with the Intratext coding:
+>
+>   http://www.intratext.com/ixt/san0011/_INDEX.HTM
+>
+> This makes the generation of KWIC indexes trivially easy, as well as
+> providing various statistical and lexical analyses of the text.
+>
+> Best,
+>
+
+
+

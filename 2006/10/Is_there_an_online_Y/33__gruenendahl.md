@@ -1,0 +1,55 @@
++++
+title = "33 gruenendahl"
+date = "2006-10-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030043.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030043.html)
+
+Dear colleague,
+
+GRETIL has the Moksopaya [="Yogavasistha"] with 
+Bhaskarakantha's Tika in an e-text provided by Walter Slaje:
+
+www.sub.uni-goettingen.de/ebene_1/fiindolo/gret_utf.htm#MoTik
+
+(when there, choose the appropriate encoding, probably 
+Unicode/UTF-8).
+
+However, I could not find the quoted verse.
+
+You can contact members of the  Moksopaya Project via the 
+homepage of the Seminar fuer Indologie at Halle University:
+
+www.indologie.uni-halle.de
+
+Homepage of the Moksopaya project:
+adwm.indologie.uni-halle.de/projekte.htm
+
+Regards
+Reinhold Grünendahl
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Göttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian 
+Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+

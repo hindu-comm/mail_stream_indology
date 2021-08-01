@@ -1,0 +1,42 @@
++++
+title = "16 Ernst Steinkellner"
+date = "2003-09-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-September/027915.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-September/027915.html)
+
+Lieber Himal,
+
+there is und ich habe. Call me and I'll tell you where in my office.
+Steinkellner
+----- Original Message -----
+From: "Himal Trikha" <himal.trikha at UNIVIE.AC.AT>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Thursday, September 11, 2003 1:35 PM
+Subject: AW: Minoru Hara's publications
+
+
+> *Would any of you know if there is a list of Minoru Hara's publications
+> *anywhere on the Internet?
+> Taking the opportunity I would like to announce the recent publication of
+> Minoru Hara's "PAzupata Studies" as volume 30 of the Publications of the
+De
+> Nobili Research Library which can be ordered online:
+> http://www.univie.ac.at/ISTB/html/ger/benutz/sdn/sdn-order.html
+> (This book however does *not* contain a list of Professor Hara's
+> publications.)
+>
+> Himal Trikha
+> Sammlung De Nobili
+> Internet orders: http://www.univie.ac.at/istb/sdn
+> Email: himal.trikha at univie.ac.at
+> Tel.: 0043/1/4277 435 14
+> Postal adress:
+> Institut fur Sudasien-, Tibet- und Buddhismuskunde
+> Spitalgasse 2 / Hof 2.1
+> 1090 Vienna
+> Austria
+
+
+

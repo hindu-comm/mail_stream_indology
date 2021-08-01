@@ -1,0 +1,40 @@
++++
+title = "23 Robert Goldman"
+date = "2020-08-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-August/053208.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-August/053208.html)
+
+There was a debate among the pandits and as the chief priest notes, in the film, they took a decision to use packets of flour (attā) as, finally, a “veg” option to slaughtering the goats. 
+Dr. R. P.  Goldman
+Catherine and William L. Magistretti Distinguished Professor in South and Southeast Asian Studies
+Department of South and Southeast Asian Studies MC # 2540
+The University of California at Berkeley
+Berkeley, CA 94720-2540
+Tel: 510-642-4089
+Fax: 510-642-2409
+
+> On Aug 24, 2020, at 3:33 PM, Tracy Coleman via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Dear Indologists,
+> 
+> In the documentary film Altar of Fire, one of the priests discusses the deliberations surrounding the traditional goat sacrifices and reports that they decided not to sacrifice the goats in this Agnicayana.  What exactly do they substitute for the goats?
+> 
+> Thank you for your help.
+> Wishing everyone well,
+> 
+> Tracy Coleman
+> Colorado College
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200824/612a4e1d/attachment.htm>

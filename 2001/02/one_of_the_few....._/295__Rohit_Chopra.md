@@ -1,0 +1,38 @@
++++
+title = "295 Rohit Chopra"
+date = "2001-02-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025415.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025415.html)
+
+Suresh
+
+You are completely incapable of accepting a point of view other than your
+own pro-RSS, Muslim-bashing viewpoint. As such you are fundamentally
+incapable of debate, since you cannot obviously rise above your own
+interests. Also, your emails seem to follow the same pattern on every list:
+when you cannot offer an answer to a perfectly reasonable question, you
+resort to personal attacks, meaningless railing against 'leftists',
+'secularists' etc, and a lofty holier-than-thou attitude. As for your
+patrician refusal to 'debate', the pleasure, dear Suresh, is entirely mine,
+more than you can imagine.
+
+I may not be as learned as you are, and thus may not get what you perceive
+as the wonderfully profound significance of your proverb. However, I have
+the satisfaction of knowing that, unlike you, I do NOT need to make the
+Muslim population of India the scapegoat for anything and everything in this
+world.
+
+My apologies to members on this list as this mail has no direct Indological
+significance.
+
+Regards
+Rohit
+
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

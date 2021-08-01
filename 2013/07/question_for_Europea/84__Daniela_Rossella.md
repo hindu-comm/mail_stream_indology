@@ -1,0 +1,24 @@
++++
+title = "84 Daniela Rossella"
+date = "2013-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-July/038128.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-July/038128.html)
+
+Dear all, I can add Grammatica sanscrita by Giovanni Flechia (1856),  
+Elementi di Grammatica sanscrita by Oreste Nazari (1892) and  
+Grammatica dell'antico indiano by Vittore Pisani (1930). When I was a  
+student - alas! many years ago... - my beloved teacher, Carlo Della  
+Casa, gave me also Grammatica critica linguae sanscritae by Franz  
+Bopp, because Latin was considered, in those times, a sort of  
+universal (or, better, pan-European) language. Nowadays, in Italy  
+student learn Sanskrit through the grammars written by Della Casa or  
+Saverio Sani (1991), but quite recently also Roberto Perinu published  
+his Tabulae Sancriticae (in 7 small volumes printable on demand, in  
+Italian despite the title).
+All the best, Daniela Rossella
+
+
+
+

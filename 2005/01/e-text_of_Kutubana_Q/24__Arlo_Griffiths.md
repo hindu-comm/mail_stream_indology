@@ -1,0 +1,28 @@
++++
+title = "24 Arlo Griffiths"
+date = "2005-01-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-January/028917.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-January/028917.html)
+
+An e-text of the Old Avadhii Miragaavatii input by Joris ter Linden
+(Leiden) and myself, and proofread by Dick Plukker (Amsterdam), has
+been put on-line a few days ago in the text-archive of the Electronic
+Resources for Hindi and Other South Asian Languages at
+<http://hin.osaka-gaidai.ac.jp/>. If all goes well, this e-text will
+soon be available via GRETIL as well.
+
+Arlo Griffiths
+
+Institute of Indian Studies
+University of Groningen
+Oude Boteringestraat 23
+9712 GC Groningen
+the Netherlands
+
+email: a.griffiths at theol.rug.nl
+phone: +31-50-3635587
+
+
+

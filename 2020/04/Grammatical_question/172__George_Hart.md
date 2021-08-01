@@ -1,0 +1,12 @@
++++
+title = "172 George Hart"
+date = "2020-04-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-April/052355.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-April/052355.html)
+
+I’ve been enjoying the discussion on Indology. A friend had a question about Sanskrit that I could not answer properly. It involves the pronunciation of anusvāra before various consonants. I believe that before y, r, l and v, it is nasalized. Assuming that is correct, is it also nasalized before ś, ṣ, s and h? Some people say samskṛta, with an m sound, but I always assumed it was a nasal sound. I think the nasal is put in the same phonetic category as the ś etc. — i.e.in aṃśa it is a palatal nasal, in saṃskṛta it is a dental nasal, and in siṃha it is sort of a velar nasal sound. The problem is, everyone seems to say simha (m sound), not the nasal sound. What do the grammarians say? Is there a correct pronunciation, or can one choose between the nasal and the “m” before ś, ṣ, s and h? George Hart
+
+
+

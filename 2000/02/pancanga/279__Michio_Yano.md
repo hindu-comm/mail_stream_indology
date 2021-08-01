@@ -1,0 +1,29 @@
++++
+title = "279 Michio Yano"
+date = "2000-02-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020318.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020318.html)
+
+Dear Indologists,
+
+Let me announce that the pancanga program based on the
+Suryasiddhanta is now excutable at my homepage:
+
+http://www.kyoto-su.ac.jp/~yanom/pancanga
+
+This is a perl version of the same program that was put at
+my ftp site several years ago. The results of the two programs
+are not exactly identical, but as far as the dating is concerned,
+the difference is not very significant.
+
+Please remember that this program was written for the purpose
+of dating historical documents.
+
+Michio Yano
+yanom at cc.kyoto-su.ac.jp
+February 29, 2000
+
+
+

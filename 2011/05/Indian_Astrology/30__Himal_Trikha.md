@@ -1,0 +1,33 @@
++++
+title = "30 Himal Trikha"
+date = "2011-05-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-May/035441.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-May/035441.html)
+
+Am 04.05.2011 15:42, schrieb Tracy Coleman:
+ > Indologists--
+ >
+ > I have a student (from New Delhi, actually) who is interested in 
+writing his undergraduate thesis on Astrology.  I would appreciate your 
+bibliographic suggestions, since I'm not sure how much material will be 
+accessible to him (in English or Hindi) that is not overly technical.  I 
+know of Martin Gansten's book on Nadi Astrology.
+ >
+ > Thanks for any references.
+ >
+ > Tracy Coleman
+ > Colorado College
+
+Dear Tracy Coleman,
+
+the best book I have seen on this topic so far was David Pingree's "The 
+Yavanajataka of Sphujidhvaja", Harvard Oriental Series, 1978.
+
+With best regards
+
+Himal Trikha
+
+
+

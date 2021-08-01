@@ -1,0 +1,30 @@
++++
+title = "343 Swaminathan Madhuresan"
+date = "2001-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025463.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025463.html)
+
+CM inagurates TVU,
+http://www.indiaserver.com/thehindu/2001/02/18/stories/0418223s.htm
+
+<<
+Mr. Murasoli Maran, Union Minister for Industry and Commerce, who presided
+wanted the TVU to concentrate on promoting
+ modern, scientific Tamil. ``Please leave the ancient texts and hard grammar to
+scholars and concentrate on aspects such as short
+ term courses for tourists and visitors.''
+>>
+
+ I guess the Industry minister, (himself CEO of big businesses as well)
+wants (old) Tamil to be nurtured by foreigners. Like Sanskrit, i guess.
+
+
+__________________________________________________
+Do You Yahoo!?
+Get personalized email addresses from Yahoo! Mail - only $35
+a year!  http://personal.mail.yahoo.com/
+
+
+

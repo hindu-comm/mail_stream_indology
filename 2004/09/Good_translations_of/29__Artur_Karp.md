@@ -1,0 +1,42 @@
++++
+title = "29 Artur Karp"
+date = "2004-09-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-September/028582.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-September/028582.html)
+
+Dear Members of the list:
+
+
+An institute here (Center for the Study of Antique Tradition, University of
+Warsaw) wants to buy a set of books that represent the Indian antiquity.
+What they have in mind are modern (and available) translations of critical
+editions of original texts that could be safely used for comparative studies.
+
+Could you please help me in building a short bibliographical list?
+
+1. Rigveda, Russian & English
+2. Upanishads ?
+3. Mahabharata, Russian & English
+4. Ramayana ?
+5. Milindapanha, Russian & English
+6. Mahaparinirvanasutra
+7. Manusmriti
+8. Jataka
+9. Kathasaritsagara
+10. Dashakumaracarita
+
+Information on German translations would be highly appreciated.
+
+Thanking you in advance,
+
+Artur Karp
+
+Senior Lecturer in Sanskrit and Pali,
+South Asian Studies Deptt
+University of Warsaw
+Poland
+
+
+

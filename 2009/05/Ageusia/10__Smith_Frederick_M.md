@@ -1,0 +1,62 @@
++++
+title = "10 Smith, Frederick M"
+date = "2009-05-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033215.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033215.html)
+
+Also:
+
+arasajJataa
+
+Caraka (Suutrasthaana)
+
+1.28.8: tatra rasaadiSu sthaaneSu prakupitaanaaM doSaaNaaM yasmin sthaane ye ye vyaadhayaH saMbhavanti taaMstaan yathaavad anuvyaakhyaasyaamaH //
+1.28.9: azraddhaa caaruciz caasyavairasyam arasajJataa / hRllaaso gauravaM tandraa saaGgamardo jvarastamaH //
+
+Regards,
+Fred Smith
+
+On 5/27/09 4:17 AM, "G.J. Meulenbeld" <meulnbld at XS4ALL.NL> wrote:
+
+Dear colleague,
+
+Ageusia as a distinct syndrome is found in a late ayurvedic text, the
+Nigha.n.turatnaakara, compiled by Vi.s.nu Vaasudeva Go.dbole and his
+associates (see on this text my "History of Indian medical literature", IIA,
+365--368), bhaag duusraa 401:
+
+bhu~njaanasya narasyaanna.m madhuraprabh.rtiin rasaan /
+
+rasanaa yan na jaanaati rasaaj~naana.m tad ucyate //
+
+Verses on its treatment follow.
+
+The same verse on  rasaaj~naana, is also found in Vallabhendra's
+Vaidyacintaama.ni, a text of uncertain date but much earlier (see again IIA,
+481--489), chapter 10,  p.171 .
+
+I hope this will help,
+
+best wishes,
+
+Jan Meulenbeld
+
+----- Original Message -----
+From: "Stephen Hodge" <s.hodge at PADMACHOLING.PLUS.COM>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Wednesday, May 27, 2009 8:06 AM
+Subject: Ageusia
+
+
+> Dear all,
+>
+> Does anybody familiar with Ayurvedic material know if there is a Sanskrit
+> term for "aguesia" ~ the inability to taste ?
+>
+> Best wishes,
+> Stephen Hodge
+
+
+

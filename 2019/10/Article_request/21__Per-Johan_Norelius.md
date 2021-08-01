@@ -1,0 +1,23 @@
++++
+title = "21 Per-Johan Norelius"
+date = "2019-10-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-October/051025.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-October/051025.html)
+
+Many thanks to Kenji Takahashi and Jay Soni for helping me.
+
+Best,
+Per-Johan Norelius
+
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+Virusfritt.
+www.avast.com
+<https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=webmail>
+<#m_5285619234260055740_DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191003/2c5974dc/attachment.htm>

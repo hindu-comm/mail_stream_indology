@@ -1,0 +1,21 @@
++++
+title = "26 Horacio Francisco Arganis Juarez"
+date = "2005-10-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-October/029391.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-October/029391.html)
+
+Dear Professors: 
+Accept a coordial greeting. I havea interrogateand I hope your can help me with your professional experience. How can you categorize the movement of the Sisters from Calcutta, been founded by the Mother Teresa? Because they use elements characteristic of the bengali religius culture regional. Ne., the white sari that is the uniform of the women widows that when they are consecrated to the religion in the asramas or monasteries to an advanced age. The name matajis, is also an employee in the Hindu traditions for the womens, especially those that saints are considered. They use the rosary in similar form to the japa-mala rosaries that use the devote of Krishna in the school of the Gaudiya-vaisnavism  pf Bengala. In short, would they be rotted denomine new religious movement or how? 
+Prfr. Horacio F. Arganis J.
+U A de C
+IEFAC
+IBCH.
+
+_________________________________________________________________________
+¡Encuentra trabajo ya! Tenemos miles de vacantes.
+www.trabajahoy.com
+
+
+

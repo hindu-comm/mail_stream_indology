@@ -1,0 +1,35 @@
++++
+title = "32 Harry Spier"
+date = "2020-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-February/051714.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-February/051714.html)
+
+Macdonell in his grammar section 211 on the infinitive says:
+... It differs from the dative of an ordinary verbal noun solely in
+governing its object in the accusative. instead of the genetive.  .. . .
+It preserves its original accusative sense inasmuch as it is used as the
+direct object of verbs.   .  . .
+
+but then he goes on to say
+
+. . . The construction of the accusative with the infinitive is unknown to
+Sanskrit, its place being supplied, with verbs of saying, etc., by oration
+recta with iti . . . .
+
+I'm unclear what he means by "The construction of the acc. with the
+infinitive is unknown to Sanskrit". when in the first part of this section
+he describes its   its accusative sense and use as the direct object of
+verbs.
+
+ Is he saying that an infinitive can be used as a direct object of verbs
+except for verbs of saying etc. or something broader?
+
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200204/3f1f4727/attachment.htm>

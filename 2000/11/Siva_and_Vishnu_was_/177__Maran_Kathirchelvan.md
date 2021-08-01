@@ -1,0 +1,77 @@
++++
+title = "177 Maran Kathirchelvan"
+date = "2000-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023790.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023790.html)
+
+Vanbakkam Vijayaraghavan <vijay at VOSSNET.CO.UK> wrote:
+
+>While I thank you for the prodigious amount of reference you
+>have given, I am dismayed at your comments, which do not sound
+>logical.
+
+>You sume that familiarity with ANY tamil literature will lead
+>to all the references you have given. I did write that the
+>search I did with Cologne ebase yielded negative result
+
+Mr. Vijayaraghavan,
+
+> From your posts I surmise that you are a Tamil speaker, apparently from
+Tamil Nadu.  So, if you had studied Tamil at any level at all in Tamil Nadu,
+you won't need to search through any ebase to to KNOW that the words Saivam
+and vaiNavam have existed prior to the arrival of the British in India.
+This is too basic.
+
+Would you agree that if one doesn't know something it is unwise to
+speculate.  Most native Tamil speakers won't make the kind of mistakes that
+you make.  It is surprising that in a list where meticulous scholars gather,
+you are careless enough to make unfounded remarks using only an internet
+search engine as a substitute for research.  One is reminded of the chapters
+41 and 72 in the thirukkuRaL. ;-).
+
+>I also notice that you have failed to give any reference for
+>VaiNavam.
+
+Sir, I can only give references from the books that I have.  Do you expect
+me to be your research assistant?  You had asserted that ".. these words
+[saivam and vaiNavam] are the Tamil translations of the English words
+Saivism and Vaishnavism" based on a cursory search on the internet.  I have
+painstakingly searched through the references I have to prove that there
+really are hundreds of references to the word "saivam" in the medieval Tamil
+literature.  Now may I expect you do a more careful search of Vaishnavaite
+literature and look for the word "vaiNavam" before asserting that the term
+was coined in the post-British period?
+
+>>Sorry for the long post.  Since Mr. Vijayaraghavan often gets
+>>away with long posts, I hope the Administrator will allow me
+>>too, this time.
+
+>These are wholly unwarranted and untrue comemnts. ..If this is
+>what you term as "long" and "often", I would request you to use your
+>arithmetic sense, which I am sure you possess in
+>abundance.
+
+It is interesting that even in a short post you could not help but attack my
+logical and arithmetic sense.  Rather than restrict yourself to your most
+recent 5 posts, if you care to look at your posting history, you will see
+that you have the unfortunate habit of quoting an entire e-mail and then
+append your comments.  I forgot to put a smiley at the end of my comments.
+:-)). It was meant in good fun.  As for improving my logical and arithmetic
+sense, I am always open to learning from great scholars such as you. ;-)).
+
+Regards,
+
+Maran
+
+P.S.  If you can read Tamil, you may be interested in using on-line
+resources such as Project Madurai ( http://www.tamil.net/projectmadurai/ ).
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

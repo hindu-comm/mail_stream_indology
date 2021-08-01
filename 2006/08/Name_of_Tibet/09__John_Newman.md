@@ -1,0 +1,19 @@
++++
+title = "09 John Newman"
+date = "2006-08-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-August/029957.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-August/029957.html)
+
+The _Vimalaprabhaa_ (early 11th cent.) commentary on the Kaalacakra tantra 
+refers to Tibet in a list of countries: ...bo.ta lii ca 
+ciinaadide'sesu...sambhalavi.sayaantam... (sic. best MS).  (_lii_ appears 
+to be a transcription of the Tibetan name _li_ for Khotan.)  See John 
+Newman, "It1neraries to Sambhala" in Jose Cabezon and Roger Jackson 
+(eds.), _Tibetan Literature_ (Ithaca, NY: Snow Lion, 1996) p. 494, n. 9 & 
+10.  It is likely that the author of the _Vimalaprabhaa_ had contact with 
+Tibetans.
+
+
+

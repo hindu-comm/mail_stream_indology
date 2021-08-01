@@ -1,0 +1,27 @@
++++
+title = "102 Simon Brodbeck"
+date = "2015-07-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041516.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041516.html)
+
+Dear colleagues,
+
+Some of you may be interested in Carole Satyamurti’s “The Mahabharata: a Modern Retelling”, which appeared a few months ago, published by Norton and Co. The publisher’s webpage for this book is: http://books.wwnorton.com/books/Mahabharata/
+
+The author is an acclaimed poet, and a few weeks ago the book was announced as co-winner of the inaugural Roehampton Poetry Prize (see http://www.roehampton.ac.uk/News/2015/June/Inaugural-Roehampton-Poetry-Prize-announcement-celebrates--marvels--of-modern-poetry/ ). A paperback edition is expected early next year.
+
+In the same month as Satyamurti’s version, another retelling of the Mahabharata, by David Slavitt, was published by Northwestern University Press: http://nupress.northwestern.edu/content/mahabharata
+
+If anyone has seen (or can provide) a review of Slavitt’s version, I would be grateful to hear of it.
+
+Simon Brodbeck
+Cardiff University
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150713/edd05026/attachment.htm>

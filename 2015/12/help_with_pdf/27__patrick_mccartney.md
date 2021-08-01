@@ -1,0 +1,103 @@
++++
+title = "27 patrick mccartney"
+date = "2015-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-December/042402.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-December/042402.html)
+
+Thank you to Madhav Deshpande for his help with a copy of this article in
+world record time.
+
+
+
+All the best,
+
+Patrick McCartney
+
+PhD Candidate
+School of Culture, History & Language
+College of the Asia-Pacific
+The Australian National University
+Canberra, Australia, 0200
+
+
+Skype - psdmccartney
+Phone + Whatsapp:  +61 414 954 748
+
+
+
+   - *https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile
+   <https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile>*
+   - *https://anu-au.academia.edu/patrickmccartney
+   <https://anu-au.academia.edu/patrickmccartney>*
+
+https://www.youtube.com/watch?v=cy6lVABgjmg
+
+<http://goog_371544488>
+https://www.youtube.com/watch?v=LVqBD_2P4Pg
+
+http://youtu.be/y3XfjbwqC_g
+
+http://trinityroots.bandcamp.com/track/all-we-be
+
+
+
+On Fri, Dec 4, 2015 at 1:10 PM, patrick mccartney <psdmccartney at gmail.com>
+wrote:
+
+> Dear Friends,
+>
+> I'm trying to source a copy of this article
+> <http://onlinelibrary.wiley.com/doi/10.1111/j.1467-971X.1992.tb00061.x/abstract>
+> : A note on English and modern Sanskrit by
+>
+>    1. HANS HENRICH HOCK
+>    2.
+>    3.
+>    4. For whatever reason, my library search through my university cannot
+>    locate it nor provide access. Even though it is clearly available as a pdf.
+>    5.
+>    6.
+>    7.
+>    8. Your help is appreciated.
+>
+>
+>
+> All the best,
+>
+> Patrick McCartney
+>
+> PhD Candidate
+> School of Culture, History & Language
+> College of the Asia-Pacific
+> The Australian National University
+> Canberra, Australia, 0200
+>
+>
+> Skype - psdmccartney
+> Phone + Whatsapp:  +61 414 954 748
+>
+>
+>
+>    - *https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile
+>    <https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile>*
+>    - *https://anu-au.academia.edu/patrickmccartney
+>    <https://anu-au.academia.edu/patrickmccartney>*
+>
+> https://www.youtube.com/watch?v=cy6lVABgjmg
+>
+> <http://goog_371544488>
+> https://www.youtube.com/watch?v=LVqBD_2P4Pg
+>
+> http://youtu.be/y3XfjbwqC_g
+>
+> http://trinityroots.bandcamp.com/track/all-we-be
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151204/6a89edc1/attachment.htm>

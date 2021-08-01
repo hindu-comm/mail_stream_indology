@@ -1,0 +1,36 @@
++++
+title = "90 YAMABE Nobuyoshi"
+date = "2019-05-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-May/050033.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-May/050033.html)
+
+Dear Colleagues,
+
+It is my great pleasure to announce a public lecture by Professor Jonathan Silk at Waseda University on Sunday, May 19, 2019.
+
+Title: Editing without an Ur-text: Buddhist Sūtras, Rabbinic Text Criticism, and the Open Philology Digital Humanities Project.
+
+Speaker: Professor Jonathan A. Silk, Leiden University.
+
+Time: 2pm--3:30pm.
+
+Venue: Waseda University, Toyama Campus, Building 31, Room 208.
+
+Abstract: The works attributed to Homer, folktales, Rabbinic literarature and Buddhist scriptures share the feature that they all lack an Ur-text, an originary core. How are we to understand the nature of such literature, and how are we to edit it in a fashion that does not impose a unitary perspective onto what is inherently diverse and fluid? The ERC-funded Open Philology project is building a digital environment within which to edit Buddhist scriptures. This lecture introduces the problem of fluid texts, sketches how reflections on Rabbic and Biblical literature shed light on it, and outlines the approach being taken by our team to our multi-lingual corpora of Buddhist materials.
+
+About the Speaker: Professor Silk obtained his PhD from the University of Michigan in 1994 with a thesis on the Ratnarāśisūtraand related materials. During his studies, he spent several years in Japan and studied with Professor Nagao Gadjin and other leading scholars. Since 1994 he taught at Grinnell College, Western Michigan University, Yale University and UCLA, all in the US, and since 2007 he has been Professor in the study of Buddhism at  Leiden University. His academic interests include Mahāyāna sūtras, and Indian Buddhism in general.
+
+The lecture will be given in English and translated into Japanese. It is free of charge and open to the public. Anybody interested will be welcome.
+
+Nobuyoshi Yamabe
+
+Waseda University
+
+(Excuse me for cross-posting.)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190501/08408da4/attachment.htm>

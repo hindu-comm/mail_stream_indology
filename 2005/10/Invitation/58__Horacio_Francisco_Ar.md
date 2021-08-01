@@ -1,0 +1,59 @@
++++
+title = "58 Horacio Francisco Arganis Juarez"
+date = "2005-10-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-October/029422.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-October/029422.html)
+
+IEFAC
+
+Convocation 
+The Institute of Philosophical Studies A. C., it is allowed to invite to all the investigators and scholars of social sciences to participate in : 
+
+
+1° International Encounter, Philosophy of the Religion in a Globalizade Postmodern World 
+Saltillo, Coah. Mexico. March 30-31, 2006. 
+
+Masterful Conferences 
+1.- The Religion and Bioétic ( abortion and euthanasy) 
+Dr. Horacio Elías Arganis Diaz Leal. 
+
+2.- Religion and human rights. 
+Monsignor Raúl Vera. 
+
+3.- Buddhism and Hinduism, theirAxiological contributions to theModern world. 
+Mtro. Henry Williams. 
+
+4.- Dr.Elio Masferrer Kan 
+Secretary of the Latin American Association for the Study of Religion. 
+
+Works Tables or Symposias 
+
+The Philosophies of Religion from India and their proposals. 
+The Theology of the Liberation and Perspectives. 
+The Right of religious Diversity in a globalizade world and postmodernity. 
+The Big Challenges of the Catholic Church. 
+Fundamentalist, Islamism and Terrorism. 
+The overpassing the antinomy Faith-Reason. (Religion ?science before the scientific-technological advances of the contemporary world. 
+The theological-proposalbefore a axiológical convulsed society. 
+Holocaust and Judaism to sixty years from II World War. 
+Reforms and Protestantism. 
+Esoterism and animism in the modern world. 
+
+Space open to suggest symposia. 
+There will be translators .
+
+Inform: 
+Horacio Francisco Arganis Juárez
+Coordinader:
+arganis at todito.com
+(844) 417-7-56
+
+
+_________________________________________________________________________
+¡Encuentra trabajo ya! Tenemos miles de vacantes.
+www.trabajahoy.com
+
+
+

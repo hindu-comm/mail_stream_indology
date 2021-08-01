@@ -1,0 +1,48 @@
++++
+title = "128 Dominik Wujastyk"
+date = "2021-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-March/054428.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-March/054428.html)
+
+A colleague has asked me how he can get and read,
+
+Muttusvāmi Cāstirikal, T. K. 1987. *Śrībhuvaneśvarītattvaprakāśaḥ
+= Śrīpuvanecvari tatvaprakācam*. Putukkoṭṭai: Śrīpuvanecvari
+Carīṭis Ṭrasṭ.
+Worldcat permalink: http://www.worldcat.org/oclc/312444730
+
+Worldcat shows only one copy, at Universitätsbibliothek der Eberhard Karls
+Universität.
+
+Any suggestions should be sent to Hari Iyer <hari08161 at gmail.com> (and CC
+to the list).
+
+Best,
+Dominik Wujastyk
+
+--
+Professor Dominik Wujastyk
+<https://apps.ualberta.ca/directory/person/wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+SSHRC research: The Suśruta Project <http://sushrutaproject.org>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210322/4c972816/attachment.htm>

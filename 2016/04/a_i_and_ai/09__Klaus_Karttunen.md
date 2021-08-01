@@ -1,0 +1,99 @@
++++
+title = "09 Klaus Karttunen"
+date = "2016-04-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043171.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043171.html)
+
+Dear all,
+in one-word cases the traditional way is to use trema in the second vowel: praüga. In Sanskrit this is rare, but in Prakrit very common. In mana-indriya- hyphen is OK, but not inside one word.
+
+Best,
+Klaus
+
+Klaus Karttunen
+South Asian and Indoeuropean Studies
+Asian and African Studies, Department of World Cultures
+PL 59 (Unioninkatu 38 B)
+00014 University of Helsinki, FINLAND
+Tel +358-(0)2941 4482418
+Fax +358-(0)2941 22094
+Klaus.Karttunen at helsinki.fi
+
+
+
+
+
+
+> On 27 Apr 2016, at 12:57, Sven Sellmer <sellmers at GMX.DE> wrote:
+> 
+> Dear Dermot and Christophe,
+> 
+> yotsya iti does not seem to be a proper example, because it is no compound. I personally would use a hyphen, like so: 
+> 
+> mana-indriya-
+> 
+> Best wishes,
+> Sven
+> 
+>> Am 27.04.2016 um 11:39 schrieb dermot at grevatt.force9.co.uk <mailto:dermot at grevatt.force9.co.uk>:
+>> 
+>> Dear Christophe,
+>> 
+>> The usual practice in roman script is to separate the two vowels with a space, showing that they are not a diphthong but belong to two different syllables. E.g.
+>> 
+>>  manaḥ + indriya- = mana indriya-
+>> 
+>> I don't think that looks strange. You can see it for instance in Edgerton's Bhagavadgita (Harvard U. Press, 1952) ch 2 verse 9c: na yotsya iti govindam (na + yotsye + iti).
+>> 
+>> By the way, what distinguishes the separate vowels from the diphthong in nagari is not the space (which isn't always marked in manuscripts) but the fact that the second vowel (in your case the i) is written with a character, not with a stroke added to a consonant character. This makes a space possible, though not necessary. Indeed, such hiatus can occur within a word, which is rare in Sanskrit (e.g. pra'uga "the forepart of the shafts of a chariot; triangle"), but common in Prakrit. Here, it would be very odd to write a space, since it's within a word. I've marked the hiatus with an apostrophe, but Monier-Williams does it with diaeresis/tréma (two superscript dots).
+>> 
+>> I hope that solves your doubts quicker than Arjuna's.
+>> 
+>> With best wishes,
+>> 
+>> Dermot
+>> 
+>> On 27 Apr 2016 at 10:59, Christophe Vielle wrote:
+>> 
+>> Dear List,
+>> 
+>> is there a way in Roman script for distinguishing in a compound the result of - aḥ + vowel other than a which could be i =  a i, with hiatus, from the diphthong ai resulting from a/ā + e/ai ?
+>> ex. manaḥ + indriya- = manaindrya- (?) beside mānasa + aindriya = mānasaindriya
+>> In nâgarî script I find written mana indrya- with a space put between the two members, but it would look strange in Roman script.
+>> Any suggestion welcome.
+>> Best wishes,
+>> Christophe Vielle
+>> 
+>> 
+>> 
+>> -------------------
+>> Christophe Vielle <http://www.uclouvain.be/christophe.vielle>
+>> Louvain-la-Neuve
+>> 
+>> 
+>> --
+>> Dermot Killingley
+>> 9, Rectory Drive,
+>> Gosforth,
+>> Newcastle upon Tyne NE3 1XT
+>> Phone (0191) 285 8053
+>>   
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> indology-owner at list.indology.info (messages to the list's managing committee)
+>> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160427/4ccfe3f2/attachment.htm>

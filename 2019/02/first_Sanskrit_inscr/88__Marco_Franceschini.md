@@ -1,0 +1,55 @@
++++
+title = "88 Marco Franceschini"
+date = "2019-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-February/049287.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-February/049287.html)
+
+Dear Arlo,
+
+according to Salomon (Indian Epigraphy, 1998, p. 200), «the first publication of an old Indian inscription was by the "Sanskrit-mad" (Sir) Charles Wilkins» in 1781 (or 1785).
+
+Hope this helps,
+
+Marco 
+---
+
+Marco Franceschini
+———————————
+Ricercatore a tempo determinato
+Università di Bologna
+Dipartimento Storia Culture Civiltà
+via Zamboni 33 - 40126 Bologna
+marco.franceschini3 at unibo.it <mailto:marco.franceschini3 at unibo.it>
+www.unibo.it/sitoweb/marco.franceschini3 <http://www.unibo.it/sitoweb/marco.franceschini3>
+www.associazioneitalianadistudisanscriti.org <http://www.associazioneitalianadistudisanscriti.org/>
+---
+
+> Il giorno 14 feb 2019, alle ore 07:22, Arlo Griffiths via INDOLOGY <indology at list.indology.info> ha scritto:
+> 
+> Dear colleagues,
+> 
+> Does anyhow know a modern scholarly publication of a Sanskrit inscription older than the one that can be found here in the following?
+> 
+> John Crawfurd, An Inscription from the Kawi or Ancient Javanese Language, Verhandelingen van het Bataviaasch Genootschap der Kunsten en Wetenschappen 8, 1816, Batavia: Government Press.
+> 
+> The volume of the Verhandelingen in question can be found on archive.org <http://archive.org/>. The title is misleading, and the decipherment utterly unreliable, but the transcription clearly reflects the Sanskrit-text of the 'Calcutta Stone' (https://iias.asia/the-newsletter/article/kolkata-calcutta-stone-bicentennial-british-interregnum-java-1811-1816 <https://iias.asia/the-newsletter/article/kolkata-calcutta-stone-bicentennial-british-interregnum-java-1811-1816>). It occurred to me recently that this publication might mark the beginning of Sanskrit epigraphy as a modern scholarly enterprise. But perhaps there is competition from publications by British officers who were posted in India proper rather than in 'Farther India'. Please enlighten me.
+> 
+> Best wishes,
+> 
+> Arlo Griffiths
+> 
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190214/2644c28c/attachment.htm>

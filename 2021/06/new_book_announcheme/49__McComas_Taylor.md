@@ -1,0 +1,45 @@
++++
+title = "49 McComas Taylor"
+date = "2021-06-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-June/054885.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-June/054885.html)
+
+Dear friends,
+
+I am delighted to announce that my translation of the Viṣṇu Purāṇa has been published today.  Even better news is that is open access and can be downloaded free from the publisher's website:
+
+http://doi.org/10.22459/VP.2021
+
+This is the first complete English translation since HH Wilson's volumes of 1840. The great bulk of my translation is in blank verse. This is my attempt to honour the musicality and sonics of the śloka meter in which most of the VP was composed.
+
+As a readily accessible source for many important and memorable narratives of the Hindu tradition, I'm sure it will be useful for colleagues teaching courses on Hinduism or Religions more broadly.
+
+Thanks to all those kind folk, too numerous to name, who have offered support and encouragement over the past six years.
+
+I sincerely hope that you enjoy the Ancient Annals.
+
+Yours sincerely,
+
+McComas
+
+
+[cid:aa9bd466-2daf-4c2e-8abc-d511f0e330f1]
+McComas Taylor
+Associate Professor
+Reader in Sanskrit
+College of Asia and the Pacific
+The Australian National University
+WSC Website<http://www.wsc2021.com.au>| McC Website<https://sites.google.com/site/mccomasanu/>
+Zoom: https://tinyurl.com/p01tig8k
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210622/235c8e9f/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Outlook-05tnjxeq.png
+Type: image/png
+Size: 32659 bytes
+Desc: Outlook-05tnjxeq.png
+URL: <https://list.indology.info/pipermail/indology/attachments/20210622/235c8e9f/attachment.png>

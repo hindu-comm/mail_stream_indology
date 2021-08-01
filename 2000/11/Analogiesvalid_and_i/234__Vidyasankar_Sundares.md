@@ -1,0 +1,56 @@
++++
+title = "234 Vidyasankar Sundaresan"
+date = "2000-11-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023751.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023751.html)
+
+>I do not understand a word of what is being discussed here. Does
+Dear Dr. Kaldhol,
+
+I'm sorry that there was a communication gap. Your comments indicate that
+you did understand some of it after all.
+
+somebody
+>assert that the Aryan invasion/migration into India is so unique that
+
+I don't know. As a relatively new list member, you are perhaps unaware of
+the history behind these meta issues. What I find highly regretful is that
+some people on the list have a clear attitude problem. Whenever a person
+with an Indian name makes a comment, the response immediately seems to be to
+call him a name, rather than to address the merits of the issue.
+
+As for invasion or migration, I have no problem with either word. I agree
+with your contention that perhaps every people have been invaders of other
+peoples, throughout history. However, when Indologists vehemently disclaim
+the term "Aryan invasion" and insist that they nowadays talk only of "Aryan
+migration", I would like them to make it clear on what grounds they
+differentiate between the two, and how the latter can account for linguistic
+change in ancient India, without involving the former.
+
+>I agree that we should avoid using words like "chauvinist". Let us
+
+I am glad. Perhaps the gentleman who used the word will agree too.
+
+describe
+>our views clearly and succinctly and refrain from using emotionally loaded
+>words as well as abstruse philosophical terms.
+
+Sorry about that, but in my view, philosophical theories influence how
+people think and act. In an academically heavy list as this, it can get
+abstruse once in a while. I brought it up only to emphasize the importance
+of analogies in many fields of human knowledge. While no analogy can be
+perfect in all respects, it is still reasonable to demand that analogies
+should not be deeply flawed.
+
+Vidyasankar
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

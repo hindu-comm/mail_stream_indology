@@ -1,0 +1,41 @@
++++
+title = "15 Dominik Wujastyk"
+date = "2018-11-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-November/048768.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-November/048768.html)
+
+Travelling in India, especially by train, one occasionally sees large
+mounds of bricks, or maybe they are kilns or sun-drying piles.  There are
+workers at these places, making bricks.  Is there a scholarly *historical*
+literature about these communities and the practice of brick-making in
+earlier Indian history?
+
+With thanks,
+Dominik
+
+e.g., https://www.youtube.com/watch?v=DaNIydpOYYk
+https://www.youtube.com/watch?v=3kobW9nj-wQ
+
+
+--
+Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181106/629a560b/attachment.htm>

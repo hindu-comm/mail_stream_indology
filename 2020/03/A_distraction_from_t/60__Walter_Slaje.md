@@ -1,0 +1,260 @@
++++
+title = "60 Walter Slaje"
+date = "2020-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-March/051997.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-March/051997.html)
+
+> Rasikasaamaajikas will welcome your poems
+
+Prospective Sanskrit poets should never lose sight of the warning words of
+a true Mahākavi:
+
+kuryus tv anukṣaṇam aśikṣitalakṣaṇā ye
+
+kāpeyam āḥ kavipadādhigamaspṛhāyāḥ |
+
+te ’nudgatacchadapuṭā iva pakṣiśāvā
+vyagrā haṭhoḍḍayanabhūmny asakṛt patanti ||
+
+yātās te rasasārasaṃgrahavidhiṃ niṣpīḍya niṣpīḍya ye
+
+vāktattvekṣulatāṃ purā katipaye tattvaspṛśaś cakrire |
+
+jāyante ’dya yathāyathaṃ tu kavayas te tatra saṃtanvate
+ye ’nuprāsakaṭhoracitrayamakaśleṣādiśalkoccayam ||
+
+paraślokān stokān pratidivasam abhyasya nanu ye
+
+catuṣpādīṃ kuryur bahava iha te santi kavayaḥ |
+
+avicchinnodgacchajjaladhilaharīrītisuhṛdaḥ
+
+suhṛdyā vaiśadyaṃ dadhati kila keṣāṃcana giraḥ ||
+
+
+
+Am Sa., 28. März 2020 um 13:57 Uhr schrieb Nagaraj Paturi via INDOLOGY <
+indology at list.indology.info>:
+
+> Dear Valerie-ji,
+>
+> Please go ahead.
+>
+> Please don't get discouraged by such aprastutaprasanga/aprakritaprasanga.
+>
+> Rasikasaamaajikas will welcome your poems.
+>
+> Regards,
+>
+> Nagaraj
+>
+> On Sat, Mar 28, 2020 at 4:33 PM Valerie Roebuck <vjroebuck at btinternet.com>
+> wrote:
+>
+>> Dear Nagaraj
+>>
+>> Thank you for saying this. I was on the point of attempting to burst
+>> forth into Sanskrit verse, but have now been scared off again.
+>>
+>> Valerie J Roebuck
+>> Manchester, UK
+>>
+>>
+>> On 27 Mar 2020, at 12:35, Nagaraj Paturi via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>> Measuring number of claps, correlating with the number of pandas, what is
+>> all this ? If you are sincere in encouraging ' his first attempts at
+>> composing Sanskrit verses  ' ( I didn't know any such details about the
+>> poet ) do not drag this twisted discussion beyond this point. Please help
+>> the poet through some constructive criticism from your side, without
+>> involving comments of others made with good intentions.
+>>
+>> Sorry, Dr (?) Christian Ferstl for engaging with such unwarranted
+>> discussion. I am sure you will understand my true appreciation of your
+>> poetic skills.
+>>
+>> On Fri, Mar 27, 2020 at 4:29 PM Walter Slaje <walter.slaje at gmail.com>
+>> wrote:
+>>
+>>> As you can see, Prof. Deshpande only clapped three times, one clapping
+>>> hand for each correct Pāda. He used the dhvani of the missing hand to mark
+>>> the first pāda gentlemanly as incorrect.
+>>>
+>>> In contrast, 24 carrots were awarded for the full number of 4 Pādas, six
+>>> carrots each, although the quality is clearly unequally distributed over
+>>> the pādas. The assessment was therefore inadequate. Adequate would have
+>>> been 18 carrots at best, which is easy to understand if you subtract 6 of
+>>> your carrots for the failed Pāda a.
+>>>
+>>> Leaving aside that we have just learned that correct grammar plays no
+>>> significant role in assessing Sanskrit poetry, and, obviously, it never
+>>> has. Just look at the language of the ancient kavis. Wherever you look, no
+>>> trace of grammar.
+>>>
+>>> WS
+>>>
+>>>
+>>> Am Fr., 27. März 2020 um 11:15 Uhr schrieb Nagaraj Paturi via INDOLOGY <
+>>> indology at list.indology.info>:
+>>>
+>>>> How sarcastic that Prof. Deshpande's claps below don't look sarcastic
+>>>> in spite of the speciality of the rasikakavyaachaarya being grammar.
+>>>>
+>>>> On Fri, Mar 27, 2020 at 1:30 AM Madhav Deshpande via INDOLOGY <
+>>>> indology at list.indology.info> wrote:
+>>>>
+>>>>> 👏👏👏
+>>>>>
+>>>>> Madhav M. Deshpande
+>>>>> Professor Emeritus, Sanskrit and Linguistics
+>>>>> University of Michigan, Ann Arbor, Michigan, USA
+>>>>> Senior Fellow, Oxford Center for Hindu Studies
+>>>>>
+>>>>> [Residence: Campbell, California, USA]
+>>>>>
+>>>>>
+>>>>> On Thu, Mar 26, 2020 at 12:30 PM Christian Ferstl <
+>>>>> christian.ferstl at univie.ac.at> wrote:
+>>>>>
+>>>>>>
+>>>>>> And Arjuna says to Draupadi --
+>>>>>>
+>>>>>> करो न स्पर्शतु ह्यद्य तव पद्मोपमं करम् ।
+>>>>>> करोनाख्यातरक्षो ऽसौ कामदेवेन हन्यताम् ॥
+>>>>>>
+>>>>>> Today my hand must not touch your lotus-like hand.
+>>>>>> That demon called Corona must be killed by the God of Love!
+>>>>>>
+>>>>>> It seems I'm kind of infected by Prof. Deshpande's karona-kāvya virus.
+>>>>>>
+>>>>>> Christian Ferstl
+>>>>>> University of Vienna
+>>>>>>
+>>>>>>
+>>>>>> Am 26.03.2020 15:23, schrieb Madhav Deshpande via INDOLOGY:
+>>>>>> > Draupadi says to Arjuna -
+>>>>>> >
+>>>>>> > मत्स्यं मा विद्ध्य
+>>>>>> > कोन्तेय भविता न स्वयंवर: ।
+>>>>>> >
+>>>>>> > कोरोनानिर्गमादूर्ध्वं
+>>>>>> > पुनरायाहि सत्वरम् ।।
+>>>>>> >
+>>>>>> > O Arjuna, don’t shoot the fish [with your arrow, to prove that you
+>>>>>> > are the best archer], since the ceremony of choosing the groom will
+>>>>>> > not be happening. After the Coronavirus goes away, please come back
+>>>>>> > quickly.
+>>>>>> >
+>>>>>> > Madhav M. Deshpande
+>>>>>> > Professor Emeritus, Sanskrit and Linguistics
+>>>>>> > University of Michigan, Ann Arbor, Michigan, USA
+>>>>>> > Senior Fellow, Oxford Center for Hindu Studies
+>>>>>> >
+>>>>>> > [Residence: Campbell, California, USA]
+>>>>>> > _______________________________________________
+>>>>>> > INDOLOGY mailing list
+>>>>>> > INDOLOGY at list.indology.info
+>>>>>> > indology-owner at list.indology.info (messages to the list's managing
+>>>>>> > committee)
+>>>>>> > http://listinfo.indology.info (where you can change your list
+>>>>>> options
+>>>>>> > or unsubscribe)
+>>>>>>
+>>>>> _______________________________________________
+>>>>> INDOLOGY mailing list
+>>>>> INDOLOGY at list.indology.info
+>>>>> indology-owner at list.indology.info (messages to the list's managing
+>>>>> committee)
+>>>>> http://listinfo.indology.info (where you can change your list options
+>>>>> or unsubscribe)
+>>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Nagaraj Paturi
+>>>>
+>>>> Hyderabad, Telangana, INDIA.
+>>>>
+>>>>
+>>>> Director,  Inter-Gurukula-University Centre , Indic Academy
+>>>> BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+>>>> BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+>>>> BoS Veda Vijnana Gurukula, Bengaluru.
+>>>> Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+>>>> Former Senior Professor of Cultural Studies,
+>>>> FLAME School of Communication and FLAME School of  Liberal Education,
+>>>> Hyderabad, Telangana, INDIA.
+>>>>
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing
+>>>> committee)
+>>>> http://listinfo.indology.info (where you can change your list options
+>>>> or unsubscribe)
+>>>>
+>>>
+>>
+>> --
+>> Nagaraj Paturi
+>>
+>> Hyderabad, Telangana, INDIA.
+>>
+>>
+>> Director,  Inter-Gurukula-University Centre , Indic Academy
+>> BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+>> BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+>> BoS Veda Vijnana Gurukula, Bengaluru.
+>> Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+>> Former Senior Professor of Cultural Studies,
+>> FLAME School of Communication and FLAME School of  Liberal Education,
+>> Hyderabad, Telangana, INDIA.
+>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>>
+>>
+>
+> --
+> Nagaraj Paturi
+>
+> Hyderabad, Telangana, INDIA.
+>
+>
+> Director,  Inter-Gurukula-University Centre , Indic Academy
+> BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+> BoS, Chinmaya Vishwavidyapeeth, Veliyanad, Kerala
+> BoS Veda Vijnana Gurukula, Bengaluru.
+> Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+> Former Senior Professor of Cultural Studies,
+> FLAME School of Communication and FLAME School of  Liberal Education,
+> Hyderabad, Telangana, INDIA.
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200328/3cd2f8db/attachment.htm>

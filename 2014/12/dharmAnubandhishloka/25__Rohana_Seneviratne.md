@@ -1,0 +1,34 @@
++++
+title = "25 Rohana Seneviratne"
+date = "2014-12-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-December/040366.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-December/040366.html)
+
+Dear List,
+
+
+I am looking for the Dharmānubandhiślokacaturdaśī by Śeṣakṛṣṇa, which was published in 1927 as the No. 22 under the Princess of Wales Sarasavati Bhavana series. The usual places we find such texts do not seem to have it. I will be very much grateful if anybody would like to share with me a PDF of it.
+
+Thank you very much in advance.
+
+Best Wishes,
+Rohana
+------------------------------------------------
+Rohana Seneviratne
+DPhil Student in Sanskrit
+The Oriental Institute
+Faculty of Oriental Studies
+University of Oxford
+Pusey Lane, Oxford
+OX1 2LE
+United Kingdom
+
+Email: rohana.seneviratne at orinst.ox.ac.uk
+Web: http://users.ox.ac.uk/~pemb3753/
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141226/5aff2625/attachment.htm>

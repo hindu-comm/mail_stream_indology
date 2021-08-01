@@ -1,0 +1,23 @@
++++
+title = "348 Rajesh Kochhar"
+date = "2000-09-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022887.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022887.html)
+
+Anand M Sharan  says ,"He [Jaisingh}called his sundial-Jantar Manta".
+What is the basis of this statement. Where is it written or implied that the name Jantar Mantar was used by Jaisingh himself.
+Rajesh Kochhar
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Prof Rajesh Kochhar
+Director
+National Institute of Science, Technology and Development Studies
+Pusa Gate , K S Krishnan Marg , New Delhi 110012
+ph + 91 11  5764064 / 5743227/5765380 x231   fax 5754640
+hm + 91 11 576 0281
+altenative email rkochhar2000 at yahoo.com
+web site  http://nistads.res.in { NOTE no www}
+
+
+

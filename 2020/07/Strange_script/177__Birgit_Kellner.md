@@ -1,0 +1,86 @@
++++
+title = "177 Birgit Kellner"
+date = "2020-07-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-July/052961.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-July/052961.html)
+
+Thank you, this is very helpful. 
+
+With best regards, 
+
+Birgit Kellner
+
+Am Dienstag, den 14.07.2020, 18:21 +0200 schrieb Christophe Vielle:
+> Following my learned colleague Herman Seldeslachts, this is Tironian
+> notes
+> 
+> https://en.wikipedia.org/wiki/Tironian_notes
+> https://archive.org/details/introductionala00chatgoog
+> 
+> 
+> > Le 14 juil. 2020 à 16:38, Birgit Kellner via INDOLOGY <
+> > indology at list.indology.info> a écrit :
+> > 
+> > Dear colleagues, 
+> > 
+> > a colleague from the Academy sent me the attached image with a
+> > script
+> > they can't identify. This is a page from a 17th century marriage
+> > register from  the western parts of today's Austria. The Latin text
+> > on
+> > the page refers to a classical bible passage for the instruction of
+> > married couples (Ephesians 5:29). The mysterious script is not
+> > Semitic
+> > or Slawic, not Georgian or Armenian, not Coptic or some ancient
+> > derivative of the Greek alphabet. 
+> > 
+> > Does anyone have an idea? I suppose it's not exactly the right
+> > question
+> > for Indologists, but given the wide range of expertise among the
+> > subscribers to this list, I'd thought I'd give it a try. 
+> > 
+> > Many thanks in advance, and best regards, 
+> > 
+> > Birgit Kellner
+> > 
+> > -- 
+> > ---
+> > Prof. Dr. Birgit Kellner
+> > Direktorin
+> > Institut für Kultur- und Geistesgeschichte Asiens
+> > Österreichische Akademie der Wissenschaften
+> > Hollandstraße 11-13/2
+> > 1020 Wien
+> > Österreich
+> > 
+> > Director
+> > Institute for Cultural and Intellectual History of Asia
+> > Austrian Academy of Sciences
+> > Hollandstrasse 11-13/2
+> > 1020 Vienna
+> > Austria
+> > 
+> > Phone: +43-(1)-51581-6420
+> > 
+> > <Unbekannte_Schrift.JPG>___________________________________________
+> > ____
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> > indology-owner at list.indology.info (messages to the list's managing
+> > committee)
+> > https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&data=02%7C01%7Cchristophe.vielle%40uclouvain.be%7C38a42f95e47647de438b08d82803c039%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637303343862046687&sdata=nkLMRoH0xp8b1Qcx7Ue96FfPiELhIt7rKXR%2FwFHL%2BeQ%3D&reserved=0 (where you can change your list options or
+> > unsubscribe)
+> 
+> –––––––––––––––––––
+> Christophe Vielle
+> Louvain-la-Neuve
+> 
+> 
+> 
+
+
+
+
+

@@ -1,0 +1,24 @@
++++
+title = "40 Christophe Vielle"
+date = "2012-05-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-May/036661.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-May/036661.html)
+
+Dear Colleagues,
+for the front-cover of a book dealing with a (hitherto unpublished) Medieval Puranic text consisting in a dialogue between sage Dattatreya and king Janaka, in course of issuing in the Publications de l'Institut Orientaliste de Louvain series (http://www.peeters-leuven.be/boekoverz.asp?nr=9120), I would like to reproduce the image of the handsome piece of Later Chalukya sculpture that is
+the Dattatreya (in yoga posture) said from Badami, 
+as reproduced in Gopinatha Rao 1914, Pl. LXXIII (facing p. 254):
+http://www.archive.org/stream/cu31924071128825#page/n657/mode/2up
+(vol. 2 available at: http://www.archive.org/details/cu31924071128841)
+However, my estimate colleagues specialists in the field (Claudine Bautze-Picron, Carol Radcliffe Bolon, Gerard Foekema, Jürgen Neuss, Emmanuel Francis) who kindly tried to help me, did not success in tracing this sculpture, which appears to be neither in a temple, somewhere in situ, nor in any museum of India (AIIS, Huntington and IFP photography-archives have also been checked).
+I would therefore very much appreciate if somebody happens to know more about this lost sculpture, and if a picture of it could be got and used for a book-cover. Of course, the author of the picture will be mentioned and will receive an exemplar of the book when issued.
+With best wishes,
+Christophe Vielle
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120522/7b2c938b/attachment.htm>

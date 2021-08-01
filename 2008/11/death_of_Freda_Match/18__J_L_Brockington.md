@@ -1,0 +1,33 @@
++++
+title = "18 J L Brockington"
+date = "2008-11-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-November/032193.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-November/032193.html)
+
+Dear Colleagues,
+
+Some of you will have known Dr Freda Matchett, best known for her book  
+_K??na: Lord or Avat?ra?_.  I report with sadness her death on  
+Wednesday last week.  Her Funeral will be at Lancaster Priory at 2  
+p.m. on Thursday this week.
+
+Yours
+
+John Brockington
+
+
+Professor J. L. Brockington
+Secretary General, International Association of Sanskrit Studies
+Asian Studies
+7-8 Buccleuch Place
+Edinburgh EH8 9LW
+
+
+-- 
+The University of Edinburgh is a charitable body, registered in
+Scotland, with registration number SC005336.
+
+
+

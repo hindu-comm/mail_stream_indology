@@ -1,0 +1,40 @@
++++
+title = "176 Ashok Aklujkar"
+date = "2018-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-November/048789.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-November/048789.html)
+
+
+As I recall, Jerry / Gerald Barrier (Dept. of History, Univ. of Missouri, Columbia, Missouri 65211) had circulated a notice before closing his book-selling business. He probably gave his entire unsold stock to Amazon. What one should check is whether there is any evidence of Amazon selling “South Asia” books published after 2010, said to be the year of GB’s death. 
+
+South Asia Books also acted as an agent of Motilal Banarsidass in the USA / North America and published a modest newsletter,
+
+a.a.
+
+
+> From: "Witzel, Michael via INDOLOGY" <indology at list.indology.info>
+> Subject: Re: [INDOLOGY] South Asia Books
+> Date: November 7, 2018 at 2:21:38 PM PST
+> To: Indology <indology at list.indology.info>
+> Reply-To: "Witzel, Michael" <witzel at fas.harvard.edu>
+> 
+> Dear All,
+> 
+> recently there was a news item on this list that South Asia Books had shut down in July.
+> 
+> (They never told me though they distribute our HOS-OM books).  Does anybody know more?
+> 
+> A local colleague graciously drove by their location and here is the answer:
+> 
+> "I went by the address, and South Asia Books is completely gone. There is no longer a sign, and the store is closed and empty. “
+> 
+> A mystery.
+> 
+> Michael
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181107/a09478db/attachment.htm>

@@ -1,0 +1,59 @@
++++
+title = "63 Patrick Olivelle"
+date = "2002-10-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-October/027181.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-October/027181.html)
+
+Someone outside of he network has sent me a query here attached. If
+anyone can help him, please reply directly to Denis Fey. Thanks.
+
+Patrick
+
+
+
+>From: dennisfey at attbi.com
+>X-Sender: dennisfey at mail.attbi.com
+>Date: Wed, 23 Oct 2002 09:26:44 -0500
+>To: Patrick Olivelle <jpo at uts.cc.utexas.edu>
+>Subject: Sadhana catustaya
+>Mime-Version: 1.0
+>Status:
+>
+>Dr. Olivelle:
+>
+>Perhaps, you or someone you know, to whom you might forward this,
+>could help me:
+>
+>Presently, I am trying to locate Sankara's sources (if any) for the
+>so-called "four requirements" for the study of Vedanta (sadhana
+>catustaya).  As you know, these appear in Upadesasahasri (II.1.2;
+>and variously) and in Brahmasutrabhasya (I.1.1), which are
+>considered authentic, and with more development in the less
+>authentic prakarana granthas, Atmanatma viveka, Vivekachudamani,
+>Tattva-bodha, and Aparoksanubhuti.  The commonly seen list:
+>
+>Sadhana catustaya (from Tattva-bodha):
+>1. viveka
+>2. vairAgya
+>3. Six sub-qualifications: Sama, dama, uparama, titikshA, SraddhA,
+>and samAdhAnam.
+>4. Mumukshutvam
+>
+>Especially in Brahmasutrabhasya I.1.1, Sankara appears to be
+>pointing to some antecedent works, suggesting he is not the original
+>author of the four-fold scheme.
+>
+>If so, can you tell me what works or authors might be the source of
+>these antecedents?
+>
+>Gratefully and respectfully yours,
+>
+>Dennis Fey
+>2533 Asbury Avenue
+>Evanston, Illinois 60201
+>USA
+
+
+

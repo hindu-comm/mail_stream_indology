@@ -1,0 +1,27 @@
++++
+title = "73 Mathias Metzger"
+date = "2000-04-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/020972.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/020972.html)
+
+Does anybody have an idea on the meaning of the passage from 
+JaiminIya-BrAhmaNa quoted below (the concluding passage of JB 2.440, p.350 in 
+JB, ed. Raghu Vira & Lokesh Chandra, relating the story of SaramA and the 
+PaNis), especially on the meaning of the words followed by question marks? Or 
+otherwise maybe an idea on a grammar or dictionary or any other helpful work 
+which covers JB?
+
+kA kIrtiz cid gavAm iti hovAca | eSaiva kIrtir gavAm iti tasya hendro galam 
+utpILayann uvAca goSv evAhaM kila tavoSuSo (?) mukham iti | sa ha 
+dadhidrapsaM vAmikSAM vodAsa | so ´yaM babhUva yo ´yaM vasantA bhUmikapaThur 
+(?) jAyate | taM ha tac chazApAzliiIaM jAlma te jIvanaM bhUyAd yo no gA 
+anuvidya tA na prAvoca iti | tasya haitad grAmasya jaghanArdhe (?) yat 
+pApiSThaM taj jIvanam |
+
+Thanks in advance!
+Mathias
+
+
+

@@ -1,0 +1,31 @@
++++
+title = "61 Stella Sandahl"
+date = "2008-08-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-August/031983.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-August/031983.html)
+
+I stated that the word kadamba occurs 3 times in the GItagovinda.   
+However, it means tree in only one instance, viz. in song 5.7: vixada- 
+kadamba-tale militam ....harim... smarati mano mama. I suppose that  
+the qualifying adjective vizada makes it into a tree with white flowers.
+In the other two instances (5.3 and 22.2) kadamba means 'mass,  
+multitude' and is simply a pluralizer (see my book Le GItagovinda.  
+Tradition et innovation dans le kAvya, Stockholm 1977, p. 29).
+Sorry to have been sloppy in the first place.
+Best
+Stella Sandahl
+
+--
+Professor Stella Sandahl
+Department of East Asian Studies
+130 St. George St. room 14087
+Toronto, ON M5S 3H1
+ssandahl at sympatico.ca
+stella.sandahl at utoronto.ca
+Tel. (416) 978-4295
+Fax. (416) 978-5711
+
+
+

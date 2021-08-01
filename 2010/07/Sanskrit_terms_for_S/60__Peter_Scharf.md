@@ -1,0 +1,41 @@
++++
+title = "60 Peter Scharf"
+date = "2010-07-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-July/034590.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-July/034590.html)
+
+Is anyone aware of traditional Sanskrit terms for Sanskrit dialects  
+that would be equivalent to the following?
+
+Vedic
+Classical
+Epic
+Buddhist Hybrid Sanskrit
+
+Of course Panini distinguished between chandas and bhaa.saa and also  
+specified usages in particular Vedic traditions (yajus, mantra,  
+etc.).  The term 'chandas' might be taken to be equivalent to  
+'Vedic'.  However, I am not aware of any traditional terms for the  
+other three.  Are you?
+
+I ask because I proposed that tags based on these four terms be  
+adopted as standard xml language variant subtags.  Some respondents  
+want Indigenous terms, and are especially sensitive to the term  
+'classical'.  Any suggestions?
+
+Peter
+
+*********************************************************
+Peter M. Scharf                           (401) 863-2720 office
+Department of Classics             (401) 863-2123 dept.
+Brown University
+PO Box 1856                               (401) 863-7484 fax
+Providence, RI 02912                Scharf at brown.edu
+http://www.research.brown.edu/research/profile.php?id=10044
+http://sanskritlibrary.org/
+*********************************************************
+
+
+

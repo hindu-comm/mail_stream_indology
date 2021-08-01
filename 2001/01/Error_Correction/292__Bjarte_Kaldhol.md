@@ -1,0 +1,40 @@
++++
+title = "292 Bjarte Kaldhol"
+date = "2001-01-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025099.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025099.html)
+
+Dear Narayan R. Joshi,
+
+I am afraid your errors are not only those of spelling.
+You wrote:
+
+>It appears that kibret means four (Catur)...
+
+It is not kibrat (sic) that means "four", but arbaim (sic). This phrase,
+$ar kibrat(im) arbaim, means "king of the four edges/rims/shores" (of
+Mesopotamia), in Sumerian written as LUGAL.AN.UB.DA.LIMMU2.BA.
+
+Also, to think that Cakravarti has anything to do with relations between
+India and the Neolithic Near East of 4000 BC - if this is what you mean -
+is absurd. At this early date, there were no 'Aryan' speakers anywhere, no
+cities, no empires and therefore no "kings of the four edges of the world".
+
+Best wishes,
+Bjarte Kaldhol
+
+----------
+> From: Narayan R.Joshi <giravani at JUNO.COM>
+> To: INDOLOGY at LISTSERV.LIV.AC.UK
+> Subject: Error Correction
+> Date: 29. januar 2001 00:58
+>
+> Sorry for spelling errors! Here are the corrections. ....in the Eat
+should
+> be read as --in the East. Also I meant sound combination 'kr'as in Cakra
+> and not 'Cr'. Apology.
+
+
+

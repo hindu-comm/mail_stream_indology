@@ -1,0 +1,50 @@
++++
+title = "286 Lakshmi Srinivas"
+date = "2000-09-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022830.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022830.html)
+
+One more decipherment claim.  Here's the url:
+
+http://www.the-hindu.com/stories/14222183.htm
+
+According to the newsitem, the Archaeological Survey
+of India has, however, refused to authenticate this
+claim, arguing that the research study needed to be
+verified by a group of experts.
+
+In this context, the comments of the Director
+(Excavations) of the ASI, Mr RS Bisht are interesting.
+
+
+QUOTE
+
+Refusing to comment on the latest claim on the Indus
+script, Mr. Bisht said a large number of people have
+made similar claims but none have been accurate.
+
+UNQUOTE
+
+Wonder if Mr Bisht was including NS Rajaram et al in
+his 'large number of people'.
+
+Thanks and Warm Regards,
+
+LS
+
+
+
+
+
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Send instant messages & get email alerts with Yahoo! Messenger.
+http://im.yahoo.com/
+
+
+

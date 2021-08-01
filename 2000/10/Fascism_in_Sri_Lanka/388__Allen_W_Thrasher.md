@@ -1,0 +1,41 @@
++++
+title = "388 Allen W Thrasher"
+date = "2000-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023244.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023244.html)
+
+There were a couple of small errors in Raveen Satukurunathan's useful
+bibliographic list, which may delay people in locating the books:
+
+S. S. Misra's book is Ethnic Conflict and Security Crisis in Sri
+Lanka, not Ethnicity, Conflict....
+
+Manogaran and Paffenberger's is The Sri Lankan Tamils..., not The Sri
+Lanka Tamils.
+
+
+(No, I don't suspiciously check out everyone's citations to trip them
+up; I was just making sure we had everything.)
+
+Sincerely,
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+
+Senior Reference Librarian       101 Independence Ave., SE
+Southern Asia Section               LJ-150
+Asian Division                            Washington, DC 20540-4810
+Library of Congress                     U.S.A.
+tel. 202-707-3732                       fax 202-707-1724
+Email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

@@ -1,0 +1,70 @@
++++
+title = "16 Birgit Kellner"
+date = "2016-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-February/042733.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-February/042733.html)
+
+The paper "What is South Asian Knowledge Good For?" was published online
+and is available here: http://www.sai.uni-heidelberg.de/sai-paper/
+
+Best wishes,
+
+Birgit
+
+Am 27.02.2016 um 18:28 schrieb Eli Franco:
+> 
+> 
+> Does anyone have a scan of Pollock's paper? I would be grateful if
+> someone could send it to me.
+> Best wishes,
+> Eli
+> 
+> 
+> 
+> 
+> 
+> Zitat von Matthew Kapstein <mkapstei at uchicago.edu>:
+> 
+>> Dear Dominik,
+>>
+>> Thank you for taking the care to pick this apart, but
+>> I do not think that there is any question of "misunderstanding."
+>>
+>> I believe that it is, rather, a manifestation of a willful
+>> misconstrual of contemporary Indology
+>> and that we find also expressed in R. Jagannathan's "American
+>> Orientalism" piece
+>> to which Nityanand Misra called our attention in a post to this list
+>> not long ago.
+>>
+>> all best,
+>> Matthew
+>>
+>> Matthew Kapstein
+>> Directeur d'études,
+>> Ecole Pratique des Hautes Etudes
+>>
+>> Numata Visiting Professor of Buddhist Studies,
+>> The University of Chicago
+>> ________________________________
+> 
+> 
+
+
+-- 
+-------
+Prof. Dr. Birgit Kellner
+Director
+Institute for the Cultural and Intellectual History of Asia
+Austrian Academy of Sciences
+Apostelgasse 23
+A-1030 Vienna / Austria
+Phone: (+43-1) 51581 / 6420
+Fax: (+43-1) 51581 / 6410
+http://ikga.oeaw.ac.at
+
+
+
+

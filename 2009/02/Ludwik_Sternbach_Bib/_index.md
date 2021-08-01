@@ -1,0 +1,4 @@
++++
+title = "Ludwik Sternbach Bibliography"
+
++++

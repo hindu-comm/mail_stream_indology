@@ -1,0 +1,115 @@
++++
+title = "30 Sven Sellmer"
+date = "2016-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-October/044335.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-October/044335.html)
+
+See also:
+
+Arp, Susmita
+Kālāpāni : zum Streit über die Zulässigkeit von Seereisen im kolonialzeitlichen Indien
+Stuttgart : Steiner, 2000
+
+Best wishes,
+Sven Sellmer
+
+
+> Am 13.10.2016 um 18:56 schrieb Madhav Deshpande <mmdesh at UMICH.EDU>:
+> 
+> I have seen two interesting works on this topic, Abdhi-Nauyāna-Mīmāṃsā and Paryaṭana-Mīmāṃsā, composed around 1890-1900, that deal with the contemporary issue of Indians traveling to Europe, during colonial times.  I have these pdfs, and I would be happy to share them with interested scholars.
+> 
+> Madhav Deshpande
+> 
+> On Thu, Oct 13, 2016 at 11:59 AM, Olivelle, J P <jpo at austin.utexas.edu <mailto:jpo at austin.utexas.edu>> wrote:
+> And the basic question to ask concerning Dominik’s question is: Who says that twice-born people cannot cross oceans? The Dharmaśāstras who say this, and other working under that ideological pronouncements, represent only one segment even of the Brahmanical tradition. Going by sea is take as normal in Kauṭilya’s Arthaśāstra, and that is,  I think, the first century CE. And, of course, the Buddhist examples and the spread of Sanskrit to SE Asian kingdoms (as Pollock has shown) required Brahmins and others to travel by sea. So, probably we should take the prohibition agains traveling by sea as an ideological statement rather than a historical fact. 
+> 
+> Patrick
+> 
+> 
+> 
+>> On Oct 13, 2016, at 9:46 AM, Valerie Roebuck <vjroebuck at btinternet.com <mailto:vjroebuck at btinternet.com>> wrote:
+>> 
+>> I think these are two different issues, and the prohibition on crossing the ocean is distinct from the practical one for Buddhist monks against walking in the rainy season and stepping on small animals in puddles. The prohibition on ocean travel primarily affected Brahmins, who lost their ritual purity by leaving the sacred land of India where their rites could be carried out. In Buddhist and Jain texts, unlike Hindu ones, sea-going merchants are treated as heroic figures - no doubt in part because the merchant classes were powerful early supporters of these religions.
+>> 
+>> Valerie J Roebuck
+>> Manchester, UK
+>> 
+>> 
+>>> On 13 Oct 2016, at 14:49, Rolf Heinrich Koch <rolfheiner.koch at gmail.com <mailto:rolfheiner.koch at gmail.com>> wrote:
+>>> 
+>>> I think the origin of that idea is the ahiṃsā-precept: Conquering water may kill animals (by accident). 
+>>> 
+>>> I remember while working on my Ph. D. (Edition of Prakrit-manuscripts):
+>>> For a monk it is forbidden to step across water (e. g. during the rainy season) because he might step into the water and kill small animals.
+>>> ...aṇṇayā so sādhū vivarayaṃ uttarai. tattha ya pāda-vikkhaṃbhaṃ pāṇiyaṃ. teṇa pādo pasārio gai-bhedeṇaṃ. tattha ya devayāe chiddaṃ labhiūṇaṃ [ūruo] chiṇṇo. so bhaṇai: »micchā-dukkaḍaṃ mā āukkāe paḍio bhojja«tti. aṇṇāe sammaddiṭṭhiyāe diṭṭhā. sā ghā-ḍiyā. tah’eva sappadeso laio rūḍho ya devayā-pabhāveṇaṃ...(āvaśyaka-cūrṇi 514sq.)
+>>> 
+>>> 
+>>> This idea is also connected with the buddhist precept for monks not to travel during the rain season (vassa).
+>>> 
+>>> Best
+>>> 
+>>> Heiner
+>>> 
+>>> Rolf Heinrich Koch
+>>> 
+>>> Am 13.10.2016 um 14:51 schrieb Matthew Kapstein:
+>>>> Dear Dominik,
+>>>> 
+>>>> When does the ban on ocean travel first appear? And when and how did it become the norm?
+>>>> Ocean travel is often mentioned in Buddhist texts (e.g. BaverujAtaka) and the extension of
+>>>> Indian civilization throughout SE Asia during the first millennium required Brahmans to journey
+>>>> as well. 
+>>>> 
+>>>> The theme of "India and the Sea" perhaps requires further inquiry -- or am I merely ignorant
+>>>> of a great mass of research laying, so to speak, submerged?
+>>>> 
+>>>> best,
+>>>> Matthew
+>>>> 
+>>>> Matthew Kapstein
+>>>> Directeur d'études, 
+>>>> Ecole Pratique des Hautes Etudes
+>>>> 
+>>>> Numata Visiting Professor of Buddhist Studies,
+>>>> The University of Chicago
+>>>> 
+>>>> 
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>>>> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+>>>> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+>>> 
+>>> -- 
+>>> www.rolfheinrichkoch.wordpress.com <http://www.rolfheinrichkoch.wordpress.com/>_______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>>> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+>>> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+>> 
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+>> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161013/477456bf/attachment.htm>

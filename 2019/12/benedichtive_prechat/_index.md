@@ -1,0 +1,4 @@
++++
+title = "Benedictive/precative ātmanepa"
+
++++

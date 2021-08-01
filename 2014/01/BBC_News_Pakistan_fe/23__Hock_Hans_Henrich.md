@@ -1,0 +1,26 @@
++++
+title = "23 Hock, Hans Henrich"
+date = "2014-01-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-January/038881.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-January/038881.html)
+
+I saw this story on the BBC News iPhone App and thought you should see it:
+
+Pakistan festival 'damaging ruins'
+
+Conservationists in Pakistan urge Unesco to stop the opening ceremony of a festival from being held on the World Heritage ruins of Mohenjo Daro.
+
+Read more:
+http://www.bbc.co.uk/news/world-asia-25962278
+
+
+** Disclaimer **
+The BBC is not responsible for the content of this e-mail, and anything written in this e-mail does not necessarily reflect the BBC's views or opinions. Please note that neither the e-mail address nor name of the sender have been verified.
+
+
+Sent from my iPhone
+
+
+

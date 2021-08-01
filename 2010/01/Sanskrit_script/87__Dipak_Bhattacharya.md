@@ -1,0 +1,40 @@
++++
+title = "87 Dipak Bhattacharya"
+date = "2010-01-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033821.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033821.html)
+
+Interesting! I did not know of the use of Lan-tsha outside Nepal. P.C.Bagchi reported some Chinese examples too, now kept with the library here in published form. But their use too in north India is not known to me. Anyway, thanks for reminding of the Lan-tsha. It is not impossible that I missed a few others too. But the distinction between the Hindi script and the Sanskrit still eludes. Best wishes! Has the discussion gone too far? 
+DB
+Visva Bharati University, Santiniketan
+
+--- On Fri, 1/1/10, mkapstei at UCHICAGO.EDU <mkapstei at UCHICAGO.EDU> wrote:
+
+
+From: mkapstei at UCHICAGO.EDU <mkapstei at UCHICAGO.EDU>
+Subject: Sanskrit script?
+To: INDOLOGY at liverpool.ac.uk
+Date: Friday, 1 January, 2010, 7:47 PM
+
+
+Ranjana ("Lan tsha" in Tibetan), used as an ornamental script
+in Nepal and perhaps to some extent elsewhere in the north,
+may qualify as a dedicated Sanskrit script. I am
+not familiar, at least, with its use for other
+languages.
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+
+      The INTERNET now has a personality. YOURS! See your Yahoo! Homepage. http://in.yahoo.com/
+
+
+

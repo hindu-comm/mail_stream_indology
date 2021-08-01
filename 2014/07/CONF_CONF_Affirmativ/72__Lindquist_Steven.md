@@ -1,0 +1,72 @@
++++
+title = "72 Lindquist, Steven"
+date = "2014-07-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039718.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-July/039718.html)
+
+Dear all,
+
+Apologies for the x-posting.  Please see the announcement below for our Annual South Asia Conference at SMU.
+
+My best,
+
+Steven
+
+
+STEVEN LINDQUIST, PH.D.
+ASSOCIATE PROFESSOR, RELIGIOUS STUDIES
+DIRECTOR, GLOBAL AND REGIONAL STUDIES INITIATIVE
+DIRECTOR, ASIAN STUDIES
+____________________
+
+Dedman College of Humanities and Sciences, SMU
+PO Box 750202 | Dallas | TX | 75275
+Email: slindqui at smu.edu<mailto:slindqui at smu.edu>
+Web: http://faculty.smu.edu/slindqui
+
+
+
+
+AFFIRMATIVE ACTION POLICIES AND HIGHER EDUCATION IN INDIA
+
+A conference jointly presented by Asian Studies (Southern Methodist University) and the South Asia Research and Information Institute (Dallas).
+
+Saturday, September 6, 2014
+9:00 AM - 5:00 PM
+McCord Auditorium, Dallas Hall, Southern Methodist University
+
+Marc Galanter, JD
+University of Wisconsin - Madison
+Title: TBA
+
+Ashwini Deshpande, Ph.D.
+Delhi School of Economics
+"Caste Disparities, Discrimination and Affirmative Action: Two Stories from Tamil Nadu and Gujarat”
+
+Guilhem Cassan, Ph.D.
+The University of Namur, Belgium
+"Quantifying the Effect of Reservations for Low Castes on Educational Attainment"
+
+Veronica Frisancho, Ph.D.
+Inter-American Development Bank
+"Affirmative Action in Higher Education in India: Targeting, Catch Up, and Mismatch"
+
+Ajantha Subramanian, Ph.D.
+Harvard University
+"The Meritocrats: the Indian Institutes of Technology and the Social Life of Caste"
+
+Discussant:
+Prathiba Natesan, Ph.D.
+University of North Texas
+
+
+Conference is free, but registration is required by August 23rd (please email: affirmative at sarii.org<mailto:affirmative at sarii.org>)
+Abstracts and further info will be available at www.smu.edu/asianstudies<http://www.smu.edu/asianstudies> and www.sarii.org<http://www.sarii.org/>
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140717/fadad9a7/attachment.htm>

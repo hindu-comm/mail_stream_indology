@@ -1,0 +1,27 @@
++++
+title = "81 Witzel, Michael"
+date = "2017-12-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-December/047063.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-December/047063.html)
+
+We are happy to announce the second volume of our journal COMPARATIVE MYTHOLOGY.
+
+It can be accessed here:
+
+http://compmyth.org/journal/index.php/cm/issue/view/2<https://urldefense.proofpoint.com/v2/url?u=http-3A__compmyth.org_journal_index.php_cm_issue_view_2&d=DwMFaQ&c=WO-RGvefibhHBZq3fL85hQ&r=tFXzIbyKS2C0TpVqKsMrj46qwsAermBN5wzaDe51So0&m=SHnlxDmY410Xkz2vty_kqH0eOBDqqgRNpPH8_hms94E&s=v6ZH_L0QSqmPFKRdPH3XRre1HqR0HAfvhc2SF2ksSl4&e=>
+
+
+Volume 3 will be published in early 2018.
+
+For the International Association of Comparative Mythology (http://compmyth.org/),
+
+with our best wishes,
+
+M. Witzel
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171221/d3bfa4ac/attachment.htm>

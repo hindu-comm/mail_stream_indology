@@ -1,0 +1,34 @@
++++
+title = "217 Hock, Hans Henrich"
+date = "2015-06-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041361.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-June/041361.html)
+
+Thanks, Joanna.
+
+This paper, too, has not drawn on South Asian/Indian data (or of data from Iran or Southern Europe), but considers work on these areas an important desideratum.
+
+Cheers,
+
+Hans Henrich
+
+
+On 20 Jun 2015, at 14:18, jo <gok-8 at spro.net<mailto:gok-8 at spro.net>> wrote:
+
+X-posted from the IER list (by Joanna Kirkpatrick):
+
+Titled, “Massive migration from the steppe is a source for Indo-European languages in Europe”.
+Link: http://arxiv.org/ftp/arxiv/papers/1502/1502.02783.pdf<https://urldefense.proofpoint.com/v2/url?u=http-3A__arxiv.org_ftp_arxiv_papers_1502_1502.02783.pdf&d=AwMFAg&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=F22atMKmV5CcmpVInxXHW6486ujtDLnJQ1HaHcw-ps0&s=o7tjChsFA3FyGep4XkWgWiWg4nax6IBlu2TxnPLltd8&e=>
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info<http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150620/ad1dc04c/attachment.htm>

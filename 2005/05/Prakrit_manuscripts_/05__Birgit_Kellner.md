@@ -1,0 +1,41 @@
++++
+title = "05 Birgit Kellner"
+date = "2005-05-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-May/029173.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-May/029173.html)
+
+Dominik Wujastyk wrote:
+
+> One doesn't know whether to laugh or cry.  Cry, probably.
+>
+> Illustrations from Kalpasutra MSS are now being auctioned on the new
+> Indian Ebay.
+>
+>   http://search.ebay.in/manuscript_W0QQfromZR40QQsojsZ1
+>
+>
+> At least they are only available for delivery within India.
+>
+> Dominik
+
+A few years ago, individual pages of some fairly recent Devanagari
+manuscripts were auctioned off on Ebay Germany. I contacted the seller,
+trying to explain to him that if he wants to sell these items, he should
+preferably sell the whole bundle, and not auction them off page by page.
+He went on selling individual pages for a while - more precisely put,
+trying to sell them, for he rarely got any bids.
+
+I suppose that one will always find such offers, usually coming from
+people who don't know what they have on their hands, or who know it's
+not worth a lot and try to make the most money out of it. At any rate,
+if we really want to cry, visiting antique dealers is more efficient
+than Ebay.
+
+Best regards,
+
+Birgit Kellner
+
+
+

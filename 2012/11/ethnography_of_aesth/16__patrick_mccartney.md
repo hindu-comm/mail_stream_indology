@@ -1,0 +1,48 @@
++++
+title = "16 patrick mccartney"
+date = "2012-11-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-November/037208.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-November/037208.html)
+
+Dear List,
+
+I would appreciate any advice on whether recent research into
+Abhinavagupta's theory of aesthetic appreciation has been applied
+ethnographically?
+
+I am trying to theorise my observations of satsa.nga as performance; what
+constitutes epistemological access to rasa, particularly zaanta rasa; and
+the identity of the true connoisseur (sah.rdaya).
+
+My departure point is that the guru's performance during satsa.nga is akin
+to the poet's performance and that similar elements are required for the
+guru's message to be understood as in the performance of poetry.
+
+As Sanskrit poetic theory is quite new to me, I am not sure of many things.
+I would appreciate the names of any relevant texts that you may feel could
+benefit me in this endeavour.
+
+-- 
+All the best,
+
+Patrick McCartney
+
+PhD Candidate
+School of Culture, History & Language
+College of the Asia-Pacific
+The Australian National University
+Canberra, Australia, 0200
+Rm 4.30 Baldessin Precinct Building
+
+skype - psdmccartney
+W- +61 2 6125 4323
+M - +91 9714120772
+
+http://www.youtube.com/watch?v=AfpCc8G_cUw&feature=related
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20121121/b7a51492/attachment.htm>

@@ -1,0 +1,41 @@
++++
+title = "27 veeranarayana Pandurangi"
+date = "2005-12-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-December/029514.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-December/029514.html)
+
+dear you can contact Narang
+spnarang at yahoo.com
+veeranaryana Pandurangi
+
+
+On 12/9/05, oliver fallon <opfallon at yahoo.com> wrote:
+>
+>      Dear Indologists,
+> I am trying to track down an article in a festschrift:
+>
+> NARANG S.P., 2003. An analysis of the Prakrta of Bhasa-sama of the
+> Bhatti-kavya (Canto XIII) (On the basis of Jayamangala and Bharatamallika).
+> In: Prof. Mahapatra G.N., Vanijyotih: Felicitation Volume, Utkal
+> University, Bhuvaneshwar. (in press).
+>
+> Does anyone know the email address of the author or know whether the book
+> actually appeared in print and if so where I can get a copy? Please contact
+> me off list if you can help.
+>
+> Many thanks,
+> Oliver Fallon
+>
+>
+>
+>
+>
+> ---------------------------------
+> Yahoo! Shopping
+> Find Great Deals on Holiday Gifts at Yahoo! Shopping
+>
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "129 DIEGO LOUKOTA SANCLEMENTE"
+date = "2019-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/050004.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/050004.html)
+
+  Dear all,
+
+  I feel the entire search for a Sanskrit etymon be a red herring. 19th
+century reports on the chimaerical *kadimakara*, as far as I have been able
+to track, always make reference to the mythology of the Dieri/Diyari people
+in the area of Lake Eyre, and therefore not in "Northern Australia." Peter
+K. Austin's *Dictionary of Diyari *(
+https://www.academia.edu/2491259/A_Dictionary_of_Diyari_South_Australia)
+gives *markara* as the name of a fish, *Macquaria Ambigua*; the element *kati
+*enters into the composition of the Diyari name for Lake Eyre, Katithandra.
+So perhaps it is all a coincidence? I doubt that a Sanskrit *kandhi=**"ocean"
+attested only in lexica could have spread in South East Asia, although, who
+knows. If possible, though, I would ask Dr. Bailey to ask his friend to
+share with us the list of Sanskrit lexical items in northern Australian
+languages, I would love to know which those are.
+
+  *namaskaromi,*
+
+  Diego Loukota
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190425/6eae9ab9/attachment.htm>

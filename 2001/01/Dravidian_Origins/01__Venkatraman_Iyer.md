@@ -1,0 +1,50 @@
++++
+title = "01 Venkatraman Iyer"
+date = "2001-01-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/024812.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/024812.html)
+
+S. Palaniappan wrote:
+ >An important factor in the advancement of this community was the
+ >Christian missionary activity.  In 1858, the demand for Shanan women
+ >to wear a cloth covering their breasts led to riots. But for the
+ >missionary help, the Shanan women would not have been allowed to
+ >wear a cloth covering their breasts in Southern Travancore which was
+ > given by Sir Charles Trevelyen, the governor of Madras in 1859.
+
+The Dravidian low caste women, especially in Kerala, not
+(being allowed to)  wearing breast cloths is recorded in a
+Telugu poem:
+
+   Not entirely hidden,
+   like the enormous breasts of those Gujarati women,
+   and not open to view,
+   like a Tamil woman's breasts,
+   but rather,
+   like the supple, half-uncovered breasts
+   of a Telugu girl,
+   neither concealed nor exposed:
+
+   that's how a poem should be composed.
+   Anything else
+   is a joke.
+
+Telugu original:
+
+ghanatara-ghuurjarii-kuca-yuga-kriya guu.dhamu gaaka draavi.dii-
+stana-gati tee.ta gaaka aracaa.t' agu aandhra-vadhuu.ti cokkapun
+canu-gava-liila guu.dhatayu caa.tutanambunu leekay u.n.da cep-
+pinan adipo kavitvam' anipi~ncu nagi~nc' a.tugaakay u.n.dinan
+
+(From a poem at the right moment; VNRao, DShulman).
+
+Happy 2001,
+V. Iyer
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

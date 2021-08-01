@@ -1,0 +1,44 @@
++++
+title = "03 Tieken, H.J.H."
+date = "2006-09-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-September/029977.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-September/029977.html)
+
+There is a brief article on the sresthin by Sheo Bahadur Singh, "Sresthin in Epigraphy", Journal of the Epigraphical Society of India [Bharatiya Purabhilekha Patrika] (Being vol. X of Studies in Indian Epigraphy) Vol. ten: 1993, 104-107. The author also refers, albeit very briefly, to some Buddhist sources.
+Herman Tieken
+
+Herman Tieken
+Lecturer in Sanskrit and Tamil
+Kern Institute/Department of South and Central Asian Studies
+University of  Leiden
+
+Postal address/private:
+Garenmarkt 3
+2311 PG Leiden
+The Netherlands
+Ph.: 31 (0)71 5226732
+
+________________________________
+
+From: Indology on behalf of Valerie J Roebuck
+Sent: Fri 9/1/2006 8:58 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: 'Treasurer'
+
+
+
+Does anyone know of any research that has been done on the figure of
+the seTThi or zreSThin, usually translated as 'Treasurer',  in
+Buddhist texts?  I am particularly interested in the development in
+the Dhammapada commentary, where he in fact seems to function as a
+wealthy banker or money-lender (though without the usual negative
+connotations of the latter), but with almost magical powers over
+money, as a result of kamma/karma in previous lives.
+
+Valerie J Roebuck
+Manchester, UK
+
+
+

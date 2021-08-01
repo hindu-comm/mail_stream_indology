@@ -1,0 +1,34 @@
++++
+title = "153 Atimidus"
+date = "2000-01-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019736.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019736.html)
+
+Respected scholars,
+
+could you, please, suggest some ideas on the imagination faculty in the
+Indian philosophy.
+
+I.Kant, for example, in the "Critique of pure reason" on the one hand,
+attributes facultas imaginandi to the sensual activities, yet on the other,
+to the spontaneity of the reason. In the latter work, "Anthropology from the
+pragmatic point of view", I.Kant reasons, that imagination is twofold, it
+can be productive (exhibitio originaria) and reproductive (exhibitio
+derivativa). First one is connected only with perception of time and space
+and the second reproduces images from the previous experience solely. One
+could think that productive imagination can be creative, since reproductive
+one only combines sensual data, but I.Kant deprives it of this facility,
+giving the example of the blind person, who cannot have the feeling of the
+colors. Do schools of Indian thought agree, that one has to perceive
+something first, before imagining? What is the role of the imagination in
+the cognition according to the Indian thought?
+
+Thank you,
+Timoschuk Alexey
+Lecturer in History of religion
+Vladimir University
+
+
+

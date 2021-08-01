@@ -1,0 +1,23 @@
++++
+title = "230 Valerie J Roebuck"
+date = "2001-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026167.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026167.html)
+
+I'm sorry the Indology list is closing.  I'm not sure that I want to be in
+a yahoo group!
+
+Thanks, Dominik, for all the work you've put in.
+
+Dr Valerie J Roebuck
+Manchester, UK
+
+PS  I think David Salmon is quite wrong about Steve Farmer.  Steve may be
+provocative, but he is never insulting, and the list has benefited greatly
+from his contributions.  It's a shameful thing when people try to silence a
+scholar whose views they don't like.
+
+
+

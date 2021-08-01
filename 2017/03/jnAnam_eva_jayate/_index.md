@@ -1,0 +1,4 @@
++++
+title = "Jñānam Eva Jayate"
+
++++

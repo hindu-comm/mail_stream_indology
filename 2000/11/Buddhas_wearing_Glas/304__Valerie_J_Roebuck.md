@@ -1,0 +1,32 @@
++++
+title = "304 Valerie J Roebuck"
+date = "2000-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023763.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023763.html)
+
+Slightly off the main area of the list, but perhaps someone can help?
+
+I have recently seen two reproductions of Burmese images of the Buddha
+wearing glasses.  One was a colossal image, apparently in concrete, from
+Shwedaung. (A man on a ladder cleaning the glasses reached only from its
+forehead to its chin.)  Only the head and shoulders appeared in the
+picture.  The other, perhaps not quite so large, was in the earth-touching
+mudrA.  In each case the glasses were the round, gold-rimmed kind, with
+plain (but slightly tinted) lenses.
+
+In every other way, these were completely traditional Burmese images of the
+Buddha.
+
+Can anyone explain this phenomenon? Is this some kind of symbolism
+connected with vision and insight, or a tribute to a respected local
+teacher who wore glasses?
+
+Thanks for any suggestions!
+
+Dr Valerie J Roebuck
+Manchester, UK
+
+
+

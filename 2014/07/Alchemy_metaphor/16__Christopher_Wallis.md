@@ -1,0 +1,119 @@
++++
+title = "16 Christopher Wallis"
+date = "2014-07-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039626.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-July/039626.html)
+
+Dear Dr Aklujkar,
+
+Cognisant as I am of your expertise, I must respectfully disagree. In the
+context of the Pratyabhijñā philosophy being expounded by Abhinavagupta
+here, the idea is that the body mind etc., which are clearly objects of
+awareness, lose their separate objectivity in this *turyā *state, becoming
+expressions of awareness itself (*tadā bodha-svarūpīk**ṛtaṃ**
+tad-rasānuviddham eva śūnyādi-dehāntam avabhāti*, further on in the passage),
+not separate from it. So this is not the *turyā *of other schools (=
+*samādhi*), because a complete withdrawal from the objects of cognition is
+here called *turyātīta*. In the *turyā *state under discussion, it is
+specifically the objectivity of the objects of consciousness that falls
+away, not their appearance within consciousness -- but he specifies that
+the impressions (*sa.mskāra*) of objectivity remain.
+
+With regard to your second point, the *Rasa-ratna-samuccaya *(5.11)
+citation (thank you for that!) I think shows that *vedha *can indeed mean
+transmute; so what we have in the Abhinavagupta passage is three stages in
+the process (in which the agent is *ahambhāva *or *svātantryarūpa-bodha*).
+The first is denoted by *vidh-,  *permeate, infuse, but also transmute; the
+second, *abhini+viś*, immerse completely (now dehādi have become like
+gold); the third, *jīrṇa*, in which all trace of objectivity (the
+*sa.mskāra*s referred to above) are "worn away" or the gold is "digested"
+by the mercury in the metaphor. (This is now *turyātīta-daśā*). Thus the
+mercury preparation (*siddha-rasa*) changes the base metal to gold, then
+with prolonged exposure eats away that pure gold itself, since Abhinava
+wants no trace of objectivity left in this process. A nice (if surprising)
+metaphor, since the idea of pure gold triggers our *rāga*, and therefore
+must be dissolved, leaving only the dynamism of consciousness itself.
+
+Torella (1994) supports my reading in his summary paraphrase of this
+passage:
+"The objective realities with which the I had identified himself are
+themselves transformed on contact with the I . . . so that they continue to
+subsist, but as though they have ceased to be objects; they are compared to
+copper which on contact with mercury is transformed into gold. The state
+beyond the fourth state, in which . . . the differentiation is now
+completely dissolved, the idantā dispelled; remaining within the terms of
+the simile suggested by Abh., even the gold into which the various levels
+of subjectivity have been transformed - from the body to the void - as it
+is increasingly permeated by the mercury wears away and finally dissolves,
+these realities only surviving in the residual form of samskāra."  but
+later he seemingly changed his understanding of the passage, writing "This
+experience, which corresponds to the
+fourth state, can be extended further, until it flows into the state beyond
+the fourth, where the components of limitation, including *sa.mskāra*, are
+totally dissolved and incorporated in the I."
+
+This last confusion hinges on the interpretation of the phrase *sa
+drutarasa iva ābhāti kevalaṃ tat-saṃskāraḥ.*
+I am taking *tat-sa.mskāra *to refer to the sole impression of awakened
+consciousness itself (*drutarasa = cidrasa*).
+
+very best,
+CW
+
+
+On 7 July 2014 21:34, Ashok Aklujkar <ashok.aklujkar at gmail.com> wrote:
+
+> The understanding of the passage that is being proposed is largely on the
+> right track, especially with the contribution of Dominik.However, I should
+> draw attention to two points that may lead to a different understanding of
+> the chemical/alchemical process.
+>
+> 1. Literally, the translation of *yena prameyatvāt tat cyavata iva*
+> should be
+> "whereby that (thing śūnyādi-deha-dhātv-anta) slips down/falls away, as it
+> were, from being an object of cognition" (i.e., it ceases to be -- no
+> longer figures in -- cognition, although it is out there as before),"
+> not
+> "by which their objectivity falls away as it were".
+> Note that the subject of *cyavate* is *ta*t,  a neuter gender word, and
+> *prameyatvāt* is an ablative. *śūnyādi-deha-dhātv-anta* is a bahu-vriihi
+> and, therefore, something like 'thing', 'entity', 'assemblage' must be
+> understood as its vi;se.sya.
+> Now, one can say that the earlier translation may be grammatically opaque
+> but it essentially conveys the same thing as the translation I have
+> offered. However, as you will see from the next point, the literal
+> translation assists us in understanding the analogy rightly.
+>
+> 2. In *prāṇa-dehādi-dhātuḥ saṃvid-rasena abhiniviṣṭo
+> ’tyantaṃ kanaka-dhātur iva jīrṇaḥ kriyate,* one would expect pure
+> consciousness to be similar to pure gold. It would be inappropriate to
+> compare it with what is left after gold is taken out. The process conveyed
+> by *jīrṇaḥ* should, therefore, be one in which impurities of gold are
+> taken out as a result of its saturation by something (there is no word in
+> the passage that would suggest that we should set aside the usual meanings
+> of *vidhyate*, *viddha *and *abhinivi.s.ta* ranging from 'pierce' to
+> 'permeate').
+>
+> That that 'something' is paarada 'mercury' is what we learn from
+> Rasa-ratna-samuccaya 5.11: वेधजं सुवर्णम् -- पारद-वेधेन संजातं सुवर्णम्.
+>
+> Note that here gold is spoken of as the outcome, not anything else that
+> goes with gold.
+>
+> The same Rasa-ratna-samuccaya, at 5.21-22, speaks of सुवर्णं जलवद् द्रुतं
+> द्रव-रूपं वा करोति, which 'liquidity' notion is also found in the
+> Abhinava-gupta passage under consideration.
+>
+> (I give the Rasa-ratna-samuccaya references according to the आयुर्वेदीय
+> महाकोश अर्थात् आयुर्वेदीय शब्दकोश, p. 1628, of वेणीमाधवशास्त्री जोशी and
+> नारायण हरी जोशी, मुम्बई : महाराष्ट्र राज्य साहित्य आणि संस्कृति मंडळ, १९६८.
+> I do not have access at the moment to the Rasa-ratna-samuccaya itself).
+> a.a.
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140708/f2d41e8c/attachment.htm>

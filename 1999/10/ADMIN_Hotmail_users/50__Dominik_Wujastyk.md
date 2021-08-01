@@ -1,0 +1,33 @@
++++
+title = "50 Dominik Wujastyk"
+date = "1999-10-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018681.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018681.html)
+
+I am increasingly unhappy about the subscribers coming to INDOLOGY via the
+Hotmail service.  A disproportionate number of our problems with fake
+identities, over-zealous posting, and so forth, seem to end up being
+caused by Hotmail subscribers.
+
+Obviously I don't wish to vilify individual Hotmail users: for some people
+it is a valuable and perhaps essential service.  I really don't know what
+action to take about this, if any.
+
+Perhaps the best I can do at present is to ask Hotmail (and Yahoo) users
+to give serious consideration to switching to a service provider whose
+clients are not quite so anonymous.  Ideally, members' identities should
+be queryable using the "finger" command, although I know that this is not
+always possible, even in major universities.  If you must use Hotmail, and
+Hotmail-alikes, please give your name and postal address in the footer of
+your email at least once a month.
+
+This posting is just to register an area of concern.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Two quick queries"
+
++++

@@ -1,0 +1,37 @@
++++
+title = "128 Hans T Bakker"
+date = "2009-03-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032795.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032795.html)
+
+Mitraani,
+
+It is my pleasure to announce that,
+
+Arlo Griffiths,  /The Paipaladasamhita of the Atharvaveda, Kandas 6 and
+7. A new Edition with Translation and Commentary/,
+has come out.
+
+The book has appeared as volume 22 of the /Groningen Oriental Studies.
+/ISBN: 978-906980-777-5.
+The book is published by Egbert Forsten, Groningen and may be ordered
+through the following website:
+
+http://www.forsten.nl/
+
+-- 
+
+Prof Dr Hans T. Bakker
+Institute of Indian Studies
+University of Groningen
+Oude Boteringestraat 23
+9712 GC Groningen
+the Netherlands
+tel: +31.(0)50.363.5819
+fax: +31.(0)50.363.7263
+www.rug.nl/india
+
+
+

@@ -1,0 +1,69 @@
++++
+title = "130 Tyler Williams"
+date = "2019-11-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-November/051251.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-November/051251.html)
+
+I've attached an example of results here...
+
+
+
+On Sun, Nov 3, 2019 at 3:57 PM Tyler Williams <tylerwwilliams at gmail.com>
+wrote:
+
+> Dear Andrew,
+>
+> I've created tables quickly and easily using Adobe Illustrator; I
+> essentially trace scanned images from manuscripts (automatically or
+> manually depending on the complexity of the character). The benefit of
+> creating vector graphics is that they are easy to modify and reproduce in
+> all sorts of software and application contexts (and are obviously much
+> smaller in size than other types of image files).
+>
+> Since Adobe is proprietary and costly, I've also looked at some free
+> graphic design applications
+> <https://www.nyfa.edu/student-resources/six-free-alternatives-to-adobe-illustrator/>
+> which are solid, though Illustrator is still my favorite.
+>
+> Best,
+> Tyler
+>
+>
+> On Sun, Nov 3, 2019 at 9:43 AM Andrew Ollett via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear list members,
+>>
+>> I was wondering whether anyone has experience drawing up "script tables,"
+>> representating the characters used either in a given document (say a
+>> manuscript or inscription) or in a collection of documents. I realize that
+>> a lot depends on whether the table will be printed or published online
+>> (e.g., the use of color images), but I'm interested in recommendations for
+>> producing suitable images. (I'm aware of the very useful charts, adapted
+>> from Bühler’s Indische Palaeographie, that Dániel Balogh posted on this
+>> list some time ago.)
+>>
+>> Andrew
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191103/0fbb6a81/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: character_chart.pdf
+Type: application/pdf
+Size: 357188 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20191103/0fbb6a81/attachment.pdf>

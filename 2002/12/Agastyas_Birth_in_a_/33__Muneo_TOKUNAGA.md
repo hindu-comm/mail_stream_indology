@@ -1,0 +1,26 @@
++++
+title = "33 Muneo TOKUNAGA"
+date = "2002-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-December/027328.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-December/027328.html)
+
+vielle> RgV 7, 33, 11-3
+vielle> BRhaddevatA 5, 149-54 (ed. Macdonell)
+vielle> SarvAnukramaNI ad RgV I, 166
+vielle> See Geldner 1892, p. 138-43, and Sieg 1902, p. 105-6.
+
+Cf. further SaDguruziSya's VedArthadIpikA on SA 1.166 and
+SkandasvAmin's commentary on RV i.117; also Nirukta v.13, SA on RV
+viii.67.  For the detail, see my editorial notes on BD v.107, 108,
+107-114(Story of the birth of VasiSTha and Agastya), and 151M-152cdM
+(Macdonell ed.) [pp.245--46 of The BRhaddevatA Reconstructed from the
+Shorter Recension, Kyoto 1998].
+
+Yours,
+
+Tokunaga
+
+
+

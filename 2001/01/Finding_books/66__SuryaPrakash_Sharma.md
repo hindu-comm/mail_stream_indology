@@ -1,0 +1,51 @@
++++
+title = "66 SuryaPrakash Sharma"
+date = "2001-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/024856.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/024856.html)
+
+  Daniela Rossella <ghezziem at TIN.IT> wrote:
+
+
+
+Dearest Colleagues, I am eagerly looking for a lot of Sanskrit texts (with
+or without a translation in a Western language) and, as usual, I have sent
+my order to a number of Indian bookshops. On 13th December "Motilal
+Banarsidass" and "Books & Periodical Agency" have written to me "ok", but,
+afterwards, unfortunately, I don't have received no more any news. The
+"Indian Books Centre" has not these texts; and "Biblia Impex" did not answer
+a word. So, can someone give to me an advice?
+Many thanks in advance and sorry for this annoyance.
+Yours,
+Daniela Rossella
+
+*****************************************************
+Ph.D. Dr. Daniela Rossella
+Piazza Buzzati, 5
+43100 PARMA (Italy)
+tel. & fax +39.0521.773854
+cell. +39.0338 3198904
+ghezziem at tin.it
+*****************************************************
+
+
+dear friend in jan fsecond week i am going india,ther if possible i wll try to help you.you can send your required list at my email address given below:-
+
+
+i will forword your requirement to indian suppliers and try to get you your requirements;
+
+
+spsharma,<ridhi88 at yahoo.com>
+
+
+
+
+
+---------------------------------
+Do You Yahoo!?
+Yahoo! Photos - Share your holiday photos online!
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "272 Dominik Wujastyk"
+date = "2000-08-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022475.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022475.html)
+
+---------- Forwarded message ----------
+Date: Fri, 28 Jul 2000 00:37:54 -0700
+From: Vivienne Lo <viv.lo at iname.com>
+
+
+Dunhuang 2000: The Medical Manuscripts
+
+10th September, SOAS
+
+Programme, abstracts, biographies of speakers and registration details are
+posted on the conference website url is
+
+        http://www.soas.ac.uk/dunhuang2000
+
+
+In January 2001 it will be one hundred years since Sven Hedin (1865 -
+1952) excavated the first bamboo manuscripts from a Wei/Jin dynasty tomb
+and stimulated a new era of research into ancient Chinese manuscripts. To
+celebrate this centenary four eminent scholars from the history
+departments at the Chinese Academy of Social Sciences and the Academy of
+Research into Chinese Medicine will spend three months in London examining
+the Dunhuang Manuscripts related to medicine. Their visit will culminate
+in an international conference on early Chinese Medicine at the Centre for
+the History and Culture of Medicine, SOAS on September, 10th September
+2000.
+
+For more information contact viv.lo at iname.com
+
+
+

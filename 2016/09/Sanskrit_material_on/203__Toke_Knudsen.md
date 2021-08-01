@@ -1,0 +1,35 @@
++++
+title = "203 Toke Knudsen"
+date = "2016-09-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044033.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044033.html)
+
+Dear all,
+
+A colleague of mine sent me the following question:
+
+“I am teaching a course on education and its objectives. We do a fair bit of philosophy in this course but most of our sources are European. Do you think there are certain Sanskrit treatises (hopefully available in English) which belong in a course on the philosophy of education?”
+
+Would any of you be able to comment on this question?
+
+Best wishes,
+Toke
+
+-----
+Toke Lindegaard Knudsen, Ph.D.
+Associate Professor of Mathematics
+Department of Mathematics, Computer Science, and Statistics
+264 Fitzelle Hall
+State University of New York at Oneonta
+108 Ravine Parkway
+Oneonta, NY 13820
+USA
+
+(607) 436-3726 (phone)
+(607) 436-2173 (fax)
+<toke.knudsen at oneonta.edu>
+
+
+

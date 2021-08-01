@@ -1,0 +1,20 @@
++++
+title = "156 Bob Peck"
+date = "2000-03-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020440.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020440.html)
+
+in reference to Prof. Witzel's search for translation articles.
+As an amateur I found that the ParAtriiSikA Vivarana, was able to give me
+insights that I had never found in other texts. Abhinavagupta's discussion
+on how to translate the ParAtriMSikA struck me as pointing to the many
+problems of translating Sanskrit plus also indicating out the absolute
+requirment to understand the starting thesis of the text (that may be in
+partial support for Dr.Wujastyk's stand).
+regards
+Bob Peck
+
+
+

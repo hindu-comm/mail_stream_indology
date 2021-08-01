@@ -1,0 +1,30 @@
++++
+title = "15 Arun Gupta"
+date = "2000-08-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022309.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022309.html)
+
+Whoa ! Hold your horses !
+
+The "What you see is (on the computer screen) is what you get (on the
+printed page" is a skillfully created illusion created courtesy of computer
+engineers.
+
+One of the reasons that this is an illusion is simply because the video
+screen has a resolution of about 100 dots per inch, while the low end
+desktop printer today does at least 300 dots per inch.
+
+Try scanning in and displaying on computer screen a group photograph with
+lots of small faces in which every face appears clear to you on the print
+version, and you will understand better what the above means.
+
+The accusation of fraud against Rajaram is well-justified based on the
+scanned evidence presented here.  I would not base a conviction on anything
+but the printed evidence, however.
+
+-arun gupta
+
+
+

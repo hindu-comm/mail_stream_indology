@@ -1,0 +1,51 @@
++++
+title = "76 Asko Parpola"
+date = "2019-05-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-May/050181.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-May/050181.html)
+
+
+
+> Begin forwarded message:
+> 
+> From: Asko Parpola <aparpola at gmail.com>
+> Subject: Re: [INDOLOGY] Brahma Jnana
+> Date: 31 May 2019 at 16.08.01 EEST
+> To: "Bijlert, V.A. van" <v.a.van.bijlert at vu.nl>
+> 
+> The madhuvidyā of BĀU 2,5 ends in 2,5,16-19 with a reference to the (secret knowledge of) madhu communicated by Dadhyañc Ātharvaṇa to the Aśvins.  Śatapatha-Brāhmaṇa 4,1,5,18 speaks of madhu nāma brāhmaṇam, which Dadhyañc Ātharvaṇa imparted to the Aśvins.  I am briefly discussing what is involved in my book “The Roots of Hinduism” (OUP 2015), chapter 11: The Aśvins as Funerary Gods (pp. 117-129). 
+> 
+> Best wishes, Asko Parpola
+> 
+>> On 31 May 2019, at 15.49, Bijlert, V.A. van via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>> 
+>> As far as I know this refers to Brihadaranyaka Upanishad 2.5.
+>> Regards 
+>> Victor van Bijlert 
+>> 
+>> 
+>> Op 31 mei 2019 13:24 schreef Harsha Dehejia via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>>:
+>> Friends:
+>> 
+>> The Vedas mention knowledge as madhu vidya.
+>> Does anyone have a reference to this?
+>> 
+>> Kind regards,
+>> 
+>> Prof. Harsha V. Dehejia
+>> College of the Humanities, Carleton University
+>> Ottawa, ON., Canada.
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> indology-owner at list.indology.info <mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+>> http://listinfo.indology.info <http://listinfo.indology.info/> (where you can change your list options or unsubscribe)
+> 
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190531/43fc5a53/attachment.htm>

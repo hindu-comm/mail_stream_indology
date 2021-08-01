@@ -1,0 +1,28 @@
++++
+title = "13 Thrasher, Allen"
+date = "2011-03-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-March/035327.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-March/035327.html)
+
+Is there any indication whether this was at the beginning, the end, or the middle of the ms?  E.g., did the ms come stringed and with numbered folios mostly in order and was this one at the beginning or the end, so that it might originally have been one of a number of blank folios meant to protect those with the main body of the text?  I ask because I have noticed in both South Asian and Southeast Asian mss that there is often doodling on the blank folios, though I confess I have never noticed it on palm leaf mss.  Sometimes the doodling has struck me as by adults and other times as by children.
+
+Admittedly, from your description it does not sound like a 'random' doodle to pass the time, but still might just be a case of using any convenient piece of writing material for a nonce use unrelated to the body of the ms.
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian and Team Coordinator
+South Asia Team
+Asian Division
+Library of Congress
+Washington, DC 20540-4810
+USA
+tel. 202-707-3732
+fax 202-707-1724
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

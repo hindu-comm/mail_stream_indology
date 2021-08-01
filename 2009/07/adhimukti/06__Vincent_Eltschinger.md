@@ -1,0 +1,43 @@
++++
+title = "06 Vincent Eltschinger"
+date = "2009-07-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-July/033469.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-July/033469.html)
+
+Dear Taylor,
+A very highlighting conceptual discussion of adhimukti/adhimok.sa can be
+found in Lambert Schmithausen: Der Nirvaa.na-Abschnitt in der
+Vini'scayasa.mgraha.nii der Yogaacaarabhuumi.h, Vienna 1969, pp. 179-180
+(= endnote 263). As for the term adhimukticaryaa, your colleague is
+certainly aware of the fact that it designates a pre-stage (but actually
+already a bhuumi) in the system of the bodhisattvabhuumi-s. Although the
+book is not availabe to me at the present moment, I guess some semantic
+informations might be found in Har Dayal's classic work on the Bodhisattva
+doctrine in Buddhism.
+With best regards,
+Vincent E.
+
+> Dear friends
+>
+> A colleague, Ruth Gamble, has posted me this question:
+>
+> "The word is adhimukti [mos pa or mos gus in Tibetan].  In one of the
+> poems I am looking at it is used in conjunction with spyod pa, or carya
+> -- adhimukticarya...  adhi [above, over, on] and mukti is liberation,
+> right?  So why does the Cologne Digital Sanskrit Lexicon list the
+> meaning for adhimukti as "propensity, confidence"?  And, more
+> intriguingly, why do you think most Tibetan translators translate mos
+> pa/mos gus as "devotion"?"
+>
+> A can anyone cast any light on why adhimukti might mean 'propensity,
+> confidence'?
+>
+> Thanks in advance
+>
+> McComas
+>
+
+
+

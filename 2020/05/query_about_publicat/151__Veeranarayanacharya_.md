@@ -1,0 +1,90 @@
++++
+title = "151 Veeranarayanacharya Pandurangi"
+date = "2020-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-May/052614.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-May/052614.html)
+
+Thank you very much. These books may be useful.
+Also I will look in Indology archive datewise.
+
+On Thu, 21 May, 2020, 10:41 PM David and Nancy Reigle, <dnreigle at gmail.com>
+wrote:
+
+> Dear Prof. Pandurangi,
+>
+> Sorry that this is not the book you were looking for. Hopefully someone
+> here will recall it.
+>
+> In the meantime, I can mention a few older books related to this topic.
+>
+> *The Buddha-Mimansa: or, The Buddha and His Relation to the Religion of
+> the Vedas*, by Yogiraja's Disciple Maitreya, 2nd ed., London: Thacker,
+> 1925; several reprints.
+>
+> *The Doctrine of the Upaniṣads and The Early Buddhism*, *Die Lehre der
+> Upanishaden und die Anfänge des Buddhismus*, by Hermann Oldenberg,
+> translated into English by Shridhar B. Shrotri, Delhi: Motilal Banarsidass,
+> 1991 (German original, 1908).
+>
+> *Upanisads and Early Buddhism*, by Sanjay Govind Deodikar, Delhi: Eastern
+> Book Linkers, 1992.
+>
+> Best regards,
+>
+> David Reigle
+> Colorado, U.S.A.
+>
+>
+> On Mon, May 18, 2020 at 12:35 AM Veeranarayanacharya Pandurangi <
+> dharmayuddha2017 at gmail.com> wrote:
+>
+>> Thanks for your reply. But It is not the one I was looking for. It was
+>> about what Buddhism represented really. It was the representative of vedic
+>> tradition.
+>> Please help me.
+>>
+>>
+>> On Sun, 17 May, 2020, 7:31 AM David and Nancy Reigle, <dnreigle at gmail.com>
+>> wrote:
+>>
+>>> Dear Prof. Pandurangi,
+>>>
+>>> Perhaps you are thinking of this book by Kamaleswar Bhattacharya, *The
+>>> Ātman-Brahman in Ancient Buddhism*. It was announced here:
+>>>
+>>>
+>>> http://list.indology.info/pipermail/indology_list.indology.info/2015-May/041196.html
+>>>
+>>> An Indian reprint of it from Motilal Banarsidass is also now available.
+>>>
+>>> Best regards,
+>>>
+>>> David Reigle
+>>> Colorado, U.S.A.
+>>>
+>>> On Sat, May 16, 2020 at 1:18 AM Veeranarayanacharya Pandurangi via
+>>> INDOLOGY <indology at list.indology.info> wrote:
+>>>
+>>>> Dear All
+>>>> I am finding it difficult to locate a publication announcement in
+>>>> Indology list that appeared sometimes back.
+>>>> It was about a new book on buddhism. author claimed that early buddhism
+>>>> was not a revolutionary one, instead it was to represent real vedic spirit.
+>>>> I would be grateful if any of members help me in knowing about this
+>>>> book.
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing
+>>>> committee)
+>>>> http://listinfo.indology.info (where you can change your list options
+>>>> or unsubscribe)
+>>>>
+>>>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200523/111a726e/attachment.htm>

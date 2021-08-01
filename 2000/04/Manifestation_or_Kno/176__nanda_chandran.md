@@ -1,0 +1,29 @@
++++
+title = "176 nanda chandran"
+date = "2000-04-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021066.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021066.html)
+
+I've a question for those who're knowledgable in the following three schools
+of Indian Philosophy : 1. Advaita, 2. MAdhyamaka and 3. YogAcAra.
+
+It's to be noted that the first two schools deny the ultimate validity of
+the pramAnas or the means of knowledge i.e., empirical knowledge is only for
+practical use but is ultimately useless.
+
+So my question is, according to the above schools :
+
+Is reality to be known? (if so, then how and using what means?)
+
+Or is it that when all knowledge ceases, reality will manifest itself?
+
+I would be grateful if appropriate quotations from the original texts are
+quoted with the replies.
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

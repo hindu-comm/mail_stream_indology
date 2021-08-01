@@ -1,0 +1,37 @@
++++
+title = "33 Jonathan Silk"
+date = "2010-08-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-August/034639.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-August/034639.html)
+
+Dear Colleagues,
+
+This morning I received email about the following:
+
+The Digital Preservation Society has released their Digital Tempangma
+manuscript kangyur recently.
+
+More information on this release is available in this website.
+
+http://www.tibet-dps.org/
+
+What they have digitzed is a Peking Kanjur and what appears to be the
+so-called "Ulan Bator Manuscript of the *Kanjur* Rgyal-rtse Them-spangs-ma"
+catalogued by Géza *Bethlenfalvy*.
+The quality (one can download samples) is stunning--but the price is also
+impressive, I'm afraid (note, in case you're thinking of ordering, that the
+Yen price is somewhat cheaper than the dollar price, at the current exchange
+rate).
+
+Best, jonathan
+-- 
+J. Silk
+Instituut Kern / Universiteit Leiden
+Postbus 9515
+2300 RA Leiden
+Netherlands
+
+
+

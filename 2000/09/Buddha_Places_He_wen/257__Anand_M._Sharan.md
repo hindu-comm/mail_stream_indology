@@ -1,0 +1,33 @@
++++
+title = "257 Anand M. Sharan"
+date = "2000-09-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022808.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022808.html)
+
+The following web sites show the places he went with actual photographs of
+those places now
+
+http://www.engr.mun.ca/~asharan/bihar/buddhism.html
+
+and in the next one, one can see the map - the road on which he walked .
+
+http://www.engr.mun.ca/~asharan/bihar/indus/indus3.htm
+
+
+For others interested in the dialacts spoken in and around Magadh are :
+
+Magadhi - South of the Ganges river but east of Sone river in Bihar
+
+Vaishali, Kashi , Gorakhpur ( Kushinagar ) - Close to Bhojpuri -
+
+Buddha was born in Lumbini, close to Gorakhpur . His palace was farther
+from Gorakhpur .
+
+Thanks.
+Anand M. Sharan
+Anand M. Sharan
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "292 Shrinivas Tilak"
+date = "2000-03-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020616.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020616.html)
+
+    Two years ago Dharmabhaskar,a Marathi monthly, published an article
+entitled "Marutsakha" by D.R. Bhave in which the writer explains that Pundit
+Shivkar Bapuji Talpade, a graduate of J.J. School of Art, flew a prototype
+of aeroplane on the beach in Mumbai (Chowpatty) in 1895 (that is some years
+before the Wright Brothers).  Apparently, a large crowd watched the
+demonstration including the Maharaja Sayajirao Gaekwad of Baroda, Justice
+Mahadeo Govind Ranade, and Lalji Narayanji. Mr Bhave claims that the British
+administration hushed up the whole incident.
+    I have seen similar accounts of Mr Talpade's experiments in other Indian
+print media including The Times of India (05-09-1995). A photo journalist of
+Banglore by the name of Mr Ayyar persuaded the Talpade family to donate his
+notes, research papers etc to the Hindustan Aeronautics Ltd, Banglore some
+years ago. But I have not seen any follow up on that. Does anyone on the
+list know about any attempts to investigate the claims made on behalf of Mr
+Talpade?
+    According to Mr Bhave, Mr Talpade based his experiments on some ancient
+manuscripts. Mr Bhave may be reached at 401 Anand House, E.M.E. Temple Road,
+Fatteganj, Vadodara 390 002.
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

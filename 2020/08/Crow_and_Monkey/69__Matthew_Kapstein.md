@@ -1,0 +1,62 @@
++++
+title = "69 Matthew Kapstein"
+date = "2020-08-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-August/053087.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-August/053087.html)
+
+Dear Jason,
+
+Interestingly, in terms of two approaches to liberation, the eagle (but not crow) and the monkey are evoked in the famous eighth-century debate in Tibet between Kamalaśīla and the Chan master Heshang Moheyan. A brief discussion will be found on p. 3 of my article here:
+https://www.academia.edu/18322463/Buddhist_Thought_in_Tibet_An_Historical_Introduction
+
+best,
+Matthew
+
+
+Matthew Kapstein
+Directeur d'études, émérite
+Ecole Pratique des Hautes Etudes, Paris
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Jason Birch via INDOLOGY <indology at list.indology.info>
+Sent: Friday, July 31, 2020 4:07 AM
+To: indology at list.indology.info <indology at list.indology.info>
+Subject: [INDOLOGY] Crow and Monkey
+
+Greetings,
+
+I’m wondering if anyone on this list has come across a reference to a monkey and crow representing different approaches to liberation? Even an allegorical story of a crow and monkey may be helpful.
+
+The reference I have is from the Yogabīja, which explains the different views (mata) of the crow and monkey in regard to yoga and liberation. The monkey achieves liberation by practising yoga for a long time in one life. The crow achieves liberation very quickly in one lifetime after practising yoga over the course of many past lives. The author mentions that this has been taught in another work (anyagrantha).
+
+I’m aware of Bhusuṇḍa, the immortal crow in the Mokṣopāya but, as far as I know, that text does not feature a monkey.
+
+Any suggestions are most appreciated.
+
+Yours,
+
+Jason
+
+__
+Jason Birch (DPhil Oxon)
+Research Fellow
+SOAS University of London
+https://soas.academia.edu/jasonbirch
+http://hyp.soas.ac.uk
+www.theluminescent.org<http://www.theluminescent.org>
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200803/fab85515/attachment.htm>

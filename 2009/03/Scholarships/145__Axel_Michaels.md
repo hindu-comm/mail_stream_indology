@@ -1,0 +1,23 @@
++++
+title = "145 Axel Michaels"
+date = "2009-03-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032830.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032830.html)
+
+A new Round of Applications  for 16 Scholarships in the PhD/Doctoral Programmes of the Graduate Programm of Transcultural Studies (GPTS) of the Excellence Cluster "Asia and Europe in a Global Context" at tHeidelberg University has been opened. The Scholarships will start in the Winter Term 2009/2010. Students of Indology with a transcultural interest are also invited to apply.
+
+You are asked to register before you can fill in the application form. Only applications submitted via the online application system will be considered. Applications by mail or e-mail will not be eligible. 
+
+Deadline for Application is May 1st 2009. 
+
+For further information see: http://www.asia-europe.uni-heidelberg.de/Plone/graduate-programme
+
+Kindly forward this information to students who are qualified and interested.
+
+Best greetings,
+Axel Michaels
+
+
+

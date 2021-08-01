@@ -1,0 +1,73 @@
++++
+title = "29 George Hart"
+date = "2008-06-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-June/031764.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-June/031764.html)
+
+One of the most intriguing poems written to the Earth is Purananuru  
+365 from the great Tamil Sangam anthology of that name.  In it, the  
+poet MaarkaNTeeyanaar addresses the Earth Goddess who, like a  
+courtesan (parattai, devadasi) has many lovers (kings) and is a  
+nityasumangali, never inauspicious even after they die.  The poem  
+probably dates to the first 3 centuries CE.  It may also hint at  
+suttee, which was practiced (though not commonly) by the Tamils of  
+that age.  This is from the translation made by Hank Heifetz and  
+myself.  Kaanci is a tuRai (conventional category, also a raaga,  
+called paN in Tamil) of works about the evanescence of things.  I'd be  
+interested to know if anyone has encountered this idea (earth=whore  
+because she outlives her consorts) elsewhere.  The meaning of niittam  
+(here translated as "ocean") is problematic -- the modern commentator,  
+Duraisamy Pillai, says this refers to ether, the fifth element.   
+George Hart
+
+Her face is like the sky marked with the immense confusion
+of a storm and her eyes are like the two huge moving spheres,
+as the Earth Goddess weeps, she who is so virtuous, crying out,
+“I do not pass away as former kings have done, their power
+so immense they found no new enemies, as they rolled their chariot  
+wheels
+that are beautiful, of gold, with sapphire spokes and hubs of diamond
+over the ocean so difficult to cross, where even the shifting
+wind does not go!  No, I remain here like a whore,
+while many who praise me wish that I may long endure!”
+The Kaanci odes of grief and mourning
+have even reached that far those say who know these things!
+
+On Jun 22, 2008, at 5:50 AM, Dipak Bhattacharya wrote:
+
+> Atharvaveda (;Saunakiiya)12.1.1 without accent marks
+> satya.m brhad .rtam ugra.m diik.saa    tapo yaj;na.h p.rthivii.m  
+> dhaarayanti/
+> saa no bhuutasya bhavyasya patny     uru.m loka.m p.rthivii na.h  
+> k.r.notu//
+> DBhattacharya
+>
+> --- On Sun, 22/6/08, Harsha Dehejia <harshadehejia at HOTMAIL.COM> wrote:
+>
+> From: Harsha Dehejia <harshadehejia at HOTMAIL.COM>
+> Subject: Prithvi Sukta
+> To: INDOLOGY at liverpool.ac.uk
+> Date: Sunday, 22 June, 2008, 5:40 PM
+>
+> Friends:
+>
+> I have to do a lecture next week and am looking for a line or two  
+> from the
+> Prithvi Sukta where the earth is being eulogised.
+>
+> Any help would be greatly appreciated.
+>
+> Please send it to me in Romanised Sanskrit.
+>
+> Many thanks.
+>
+> Harsha V. Dehejia
+> Ottawa, ON., Canada.
+>
+>
+>      Did you know? You can CHAT without downloading messenger. Go to http://in.messenger.yahoo.com/webmessengerpromo.php/
+
+
+

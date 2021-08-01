@@ -1,0 +1,28 @@
++++
+title = "241 Shrinivas Tilak"
+date = "2000-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020280.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020280.html)
+
+    Winnipeg Free Press of February 26, 2000 carried a column called "They
+all discovered America," by Tom Oleson, one of the editorial writers. In his
+column Oleson informs the reader that in April Canada will commemorate the
+millenium of the arrival of a party of Icelanders from Greenland (led by
+Leif Eiriksson) to North America in 1,000. A settlement dating from that
+period has been uncovered at L'Anse aux Meadows in Newfoundland.
+    But after spending only a few years in what is now Canada, the
+Icelanders realized that they were unwelcome and therefore returned to
+Greenland. About 400 years later this group mysteriously vanished from the
+face of the Earth.
+    I wonder if the same fate befell the "Aryans." Montreal based Bhagwan
+Gidwani's novel "Return of the Aryans" is based on a similar idea. His
+Aryans return to India after a similar experience in Europe, although they
+do not disappear.
+    S.Tilak
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

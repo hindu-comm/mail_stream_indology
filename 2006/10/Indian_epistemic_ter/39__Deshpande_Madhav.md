@@ -1,0 +1,42 @@
++++
+title = "39 Deshpande, Madhav"
+date = "2006-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030050.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030050.html)
+
+Dear Harsha,
+
+     'pazya' and 'dRz' have a suppletive relationship in Sanskrit like'go' and 'went' in English.  Both 'pazya' and 'dRz' taken separately have incomplete paradigms, but in the actual usage of the language, these two roots complement each other.  So the passive form corresponding to pazyati is dRzyate, and so on.  The Rgvedic passage uta tvaH pazyan na dadarza vAcam uta tvaH zRNvan na zRNoty enAm exhibits this suppletive behavior.  
+
+Madhav M. Deshpande
+
+
+
+
+-----Original Message-----
+From: Indology on behalf of Harsha Dehejia
+Sent: Wed 10/11/2006 5:08 PM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Re: Indian epistemic terms
+
+Friends:
+
+An important concept that is overlooked by epistemologists is that of 
+DRISHTI or visual knowledge.
+
+While PASHYATI is a verb there is no verb like DRASHYATI. This is  the 
+beginning of an inquiry into visual knowledge.
+
+I am trying to develop this concept further.
+
+Regareds.
+
+Harsha
+Harsha V. Dehejia
+Professor of Indian Studies, College of Humanities
+Carleton University, Ottawa, ON. Canada.
+
+
+

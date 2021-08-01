@@ -1,0 +1,42 @@
++++
+title = "42 Jan Westerhoff"
+date = "2021-06-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-June/054946.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-June/054946.html)
+
+Dear Colleagues,
+having just read a recent article in JIP (2021, 49, p. 468) making the
+curious claim that there are "many texts of early Madhyamaka and
+Yogācāra with clear modal reasoning" I started wondering about
+the status of modal notions in Indian philosophy again. It was my
+understanding that the discussions of modal notions we could find in
+ancient Indian sources were confined to aspects of logical and deontic
+modalities, but had very little to say on necessary, possible, or
+contingent existence (indeed there seems to be no clear differentiation
+between the contingently non-existent (flowers in the sky) and the
+logically impossible (sons of barren women)).
+
+Are you aware of any primary (or secondary) Indian philosophical sources
+that discuss modal existence questions?
+
+Any suggestions would be greatly appreciated!
+
+Thank you,
+
+Jan Westerhoff
+
+
+
+***************************
+JC Westerhoff
+Lady Margaret Hall
+University of Oxford
+Norham Gardens
+Oxford OX2 6QA
+United Kingdom
+
+www.janwesterhoff.net
+westerhoff at cantab.net
+

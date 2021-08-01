@@ -1,0 +1,36 @@
++++
+title = "25 Oliver Hellwig"
+date = "2020-01-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-January/051642.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-January/051642.html)
+
+Dear all,
+
+those working with Vedic texts may be interested in this resource:
+
+https://github.com/OliverHellwig/sanskrit/tree/master/dcs/data/bloomfield-vedic-concordance
+
+It contains a script which resolves complex citations in the VC and
+stores the result in a new file (data/ directory).
+
+E.g.:
+original: RV.8.23.22b; 39.8e; 60.2d
+transformed: RV.8.23.22b; RV.8.39.8e; RV.8.60.2d
+
+Should make searching in the VC much easier.
+The data directory also contains parts of the transformed data in
+various formats such as JSON or an R-style data frame, which can be used
+for analyzing the data more closely.
+
+If you find errors, please adapt and update the script or send me a mail.
+
+Best, Oliver
+
+---
+Oliver Hellwig, IVS Zürich
+
+
+
+

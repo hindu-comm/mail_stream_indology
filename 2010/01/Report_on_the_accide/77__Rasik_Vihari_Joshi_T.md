@@ -1,0 +1,47 @@
++++
+title = "77 Rasik Vihari Joshi Tripathi"
+date = "2010-01-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-January/033921.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-January/033921.html)
+
+Dear Dominik,It seems my name has been removed from the membership list
+of INDILOGY. I was a member for the past several years. I would lie to a
+member again. Kindly help me.
+Rasik Vihari Josh M.A.,,Ph.D.(Banaras), D Litt (Paris)Professor of
+Sanskrit
+El Colegio de Mexico, Mexico
+
+
+-----Mensaje original-----
+De: Indology [mailto:INDOLOGY at liverpool.ac.uk] En nombre de Dominik
+Wujastyk
+Enviado el: Lunes, 18 de Enero de 2010 09:51 a.m.
+Para: INDOLOGY at liverpool.ac.uk
+Asunto: Report on the accident of Munishri Jambuvijayji and colleagues
+
+
+Dear colleagues,
+
+A "Report on the accident of Param Pujya Munishri Jambuvijayji Maharaj
+Saheb" by Hiroko Matsuoka has been posted to the "Members' queries and
+information" section of the INDOLOGY website, http://indology.info
+See:
+
+     http://indology.info/email/email-members.shtml
+
+It is a PDF file (600kb).
+
+Ms Matsuoka was in the harrowing situation of being one of the party
+travelling with Jambuvijayaji and his colleagues at the time of the
+accident, and she arrived on the scene less than an hour after the
+event, and before the arrival of the police.  Ms Matsuoka has granted
+permission for her account to be shared on the internet with members of
+the INDOLOGY list.
+
+Dominik Wujastyk
+INDOLOGY website
+
+
+

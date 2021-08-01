@@ -1,0 +1,24 @@
++++
+title = "141 Dominik Wujastyk"
+date = "2016-08-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-August/043868.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-August/043868.html)
+
+>From Prof. Diwakar Acharya
+
+Dear All,
+
+It is with great sadness that we inform you that Prof. Muneo Tokunaga has
+passed away on 1st August 2016, Kyoto.
+
+Yuko Yokochi and Akihiko Akamatsu
+Professors of Indological Studies, Kyoto University
+
+==================
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160812/3a52ded5/attachment.htm>

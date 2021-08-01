@@ -1,0 +1,49 @@
++++
+title = "26 Matthew Kapstein"
+date = "2020-07-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-July/052941.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-July/052941.html)
+
+Dear Alakendu Das,
+
+There is no "proof" of this, but it is certainly a very old and widespread tradition.
+The important Mahāyāna scripture, the Laṅkāvatārasūtra, which dates in its present form to about the early fifth century C.E.,
+is in part based on this tradition, for example, and therefore shows that it must have been current before this time.
+
+Perhaps the rapid and successful implantation of Buddhism in Sri Lanka encouraged the development and acceptance of the legend.
+
+Matthew Kapstein
+Directeur d'études, émérite
+Ecole Pratique des Hautes Etudes, Paris
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of alakendu das via INDOLOGY <indology at list.indology.info>
+Sent: Sunday, July 12, 2020 8:20 AM
+To: indology <indology at list.indology.info>
+Subject: [INDOLOGY] Buddha's visit to Lanka
+
+Respected Scholars,
+I had posted this query in the past
+.May I be excused to raise it once again , as I haven't got any answer to it.
+I quote from "Dipavamsa" the oldest Pali Chronicle , from Sri Lanka,which goes as follows-
+
+"DipAgamanam Buddhassa Dhatu ca Bodhiyagamam"
+I would like to stress on the word"DipAgamanam Buddhassa"
+
+My question is whether any evidence exists which goes on to prove that Siddharth Gautam Buddha  visited Sri Lanka?
+
+Alakendu Das.
+
+
+
+Sent from RediffmailNG on Android
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200712/66551ab5/attachment.htm>

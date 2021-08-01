@@ -1,0 +1,47 @@
++++
+title = "28 Allen W Thrasher"
+date = "2005-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-February/028973.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-February/028973.html)
+
+His renown likely wouldn't have been as great if he actually settled in
+the States, and less if he took out citizenship.  We may be arrogant in
+foreign policy, but there is still the cultural cringe.  ;>)
+
+So likewise perhaps it was better to remain an Indian.  Double ;>)
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+>>> mkapstei at MIDWAY.UCHICAGO.EDU 2/2/2005 5:38:35 PM >>>
+In response to Jonathan Silk's comment:
+if an Indian travelled, was he thereby no longer
+Indian "as such"?
+
+JayAnanda's comm. was likely composed in Xixia,
+according to the colophon, but the author was
+a visiting professor from abroad.
+
+One wonders: was Foucault no longer French "as such"
+when he lectured in the States?
+
+Matthew Kapstein
+
+
+

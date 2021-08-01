@@ -1,0 +1,56 @@
++++
+title = "187 Allen W Thrasher"
+date = "2001-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025740.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025740.html)
+
+>>> Swaminathan Madhuresan <smadhuresan at YAHOO.COM> 03/15 9:52 AM >>>
+This is a request for info from the venerable list.
+
+1. Is Gurmukhi script given any patronage by Punjabis?   YES.  It is
+the official script for Panjabi in India, as a Scheduled Language.
+How are the administrative affairs conducted in print?
+Gurmukhi? YES.
+
+2. Does Marathi have a historic script? Or, is it the same
+as Devanagari? If there was a switch, when?
+
+It is Devanagari, with some variations in letter forms from that used
+in North India.
+
+3. Is Maithili still used by Bihar pundits?
+
+4. What about Kashmir? Is it made into Devanagari script now?
+Urdu or Sarada?
+
+The most common script for it is Perso-Arabic.  The administrative
+language of Jammu and Kashmir State is Urdu, which is taught much more
+in the schools than Kashmiri.  Printing in Sarada continued into the
+20th c. but as far as I can find has been extinct for some decades.
+Traditional Kashmiri Hindu poetry I believe tends to be printed in
+Nagari.  Kashmiri poetry is now usually in Perso-Arabic but may also
+be printed in Nagari and even Roman (I am referring to printing for
+Kashmiris, not scholarly or language instruction works for a foreign
+or cosmopolite audience).  In neither of these is there a settled and
+agreed upon system to deal with sounds peculiar to Kashmiri, of which
+there are a good number.
+
+There are eds. of Hindu, particularly Kashmiri Shaiva, religious
+classics in Sanskrit that are both in Nagari and Arabic script, the
+Arabic script version starting at the 'back' of the book if the
+binding is held to the left.
+
+Allen Thrasher
+
+Thanks.
+
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Auctions - Buy the things you want at great prices.
+http://auctions.yahoo.com/
+
+
+

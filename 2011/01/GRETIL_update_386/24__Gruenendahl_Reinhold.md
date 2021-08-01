@@ -1,0 +1,38 @@
++++
+title = "24 Gruenendahl, Reinhold"
+date = "2011-01-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-January/035071.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-January/035071.html)
+
+GRETIL is pleased to be able to report the following addition(s) to its
+collection:
+
+
+
+Anityatasutra
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Anityatasu> 
+
+
+Nagarjuna: Salistambakamahayanasutratika
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#NagSaliTik> 
+
+
+Namaskaraikavimsatistotra
+<http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm#Namask21st> 
+
+
+
+__________________________________________________________________________ 
+
+"GRETIL is intended as a cumulative register of the numerous download sites
+for electronic texts in Indian languages." (from the 2001 "mission
+statement") 
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages: 
+
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+

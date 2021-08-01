@@ -1,0 +1,25 @@
++++
+title = "248 Katharina Kupfer"
+date = "2001-04-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026182.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026182.html)
+
+First I want to thank Dominik Wujastyk for running INDOLOGY and then I
+would ask him not to close this list.
+
+K. Kupfer
+--
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Katharina Kupfer                        kupferka at uni-freiburg.de
+Sprachwissenschaftliches Seminar
+Albert-Ludwigs-Universitaet Freiburg
+Werthmannpl. 3                          Phone: +49/761/203-3167
+D-79085 Freiburg                        Fax: +49/761/203-3203
+        http://www.uni-freiburg.de/indogerm/kupfer.htm
+         http://titus.fkidg1.uni-frankfurt.de/tht.htm
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+

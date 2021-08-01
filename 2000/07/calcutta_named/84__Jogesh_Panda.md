@@ -1,0 +1,34 @@
++++
+title = "84 Jogesh Panda"
+date = "2000-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021779.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021779.html)
+
+Rajesh Kochhar <rkk at NISTADS.RES.IN> wrote:
+It is not a coincidence that Calcutta and Calicut sound so similar. The
+original settlement in Calcutta came up at a village called Sutanati, but
+the new town was named after Kolkata, which would remind Europe of Calicut
+already known through Portuguese trade. Note that Kolkata and Kalighat were
+two distinct localities in the pre-Calcutta days.
+
+
+The new town[Calcutta] was named after Kalikata [or Kolikata], and not
+Kolkata, the latter being the modern calit Bangla name of the city. Kalikata
+is mentioned in the rent-roll of of Akbar [the Mughal emperor]and the early
+sevententh century Bengali mangal kAvya Manasamangal. 
+
+As about  coincidences and non-coincidences, alam atipallavitena.
+[Vasco did not land in/on Calcutta. That is the fact.]
+
+Best.
+
+Jogesh Panda
+
+
+____________________________________________________________________
+Get your own FREE, personal Netscape WebMail account today at http://webmail.netscape.com.
+
+
+

@@ -1,0 +1,33 @@
++++
+title = "220 Arun Gupta"
+date = "2000-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023716.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023716.html)
+
+In Frontline, Professor Asko Parpola gives mentions two historical cases of
+how the language of a minority displaced a majority.  Supposedly these
+parallel what happened in ancient India with the incursion of the
+Indo-Aryans.
+
+The two examples given are the British in India, and the displacement of the
+native languages in South America.  Neither case parallels what may have
+happened in ancient India because the technological gap between ingressor
+and resident was much more significant in these two examples; the ingressor
+remained vitally connected to a flourishing and
+technologically-rapidly-advancing external culture in these two examples,
+and in the case of South America, the native population was decimated by
+diseases new to them that came from Europe.  In the case of India, English
+was spoken by around 10% of the population when the British left.  If
+English has not faded away in India, it is because of the external dominance
+of the United States, and because English is associated with technological
+advancement.
+
+None of these factors applies to the hypothesized language replacement that
+took place in ancient India.
+
+-Arun Gupta
+
+
+

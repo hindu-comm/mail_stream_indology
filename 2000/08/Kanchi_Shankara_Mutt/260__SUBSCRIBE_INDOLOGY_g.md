@@ -1,0 +1,42 @@
++++
+title = "260 SUBSCRIBE INDOLOGY ganapathi"
+date = "2000-08-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022504.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022504.html)
+
+On Fri, 25 Aug 2000 20:41:52 GMT, Vidyasankar Sundaresan
+<vsundaresan at HOTMAIL.COM> wrote:
+
+>With all due respect, you could have made your point more effectively, a
+>couple of days ago, by quoting all these pieces of evidence, instead of
+>releasing them in bits and pieces. I hope you don't view this exchange
+>simply as a means to proclaim, "Vidyasankar is wrong." Tanjavur Maratha
+>history is still a rather obscure thing, and "prior disclosure" might help
+>us all develop a better idea of those events.
+
+It was not intentional.I couldn't quote all the data because of their
+nature and volume.I will try to provide complete ref. details hereafter..
+
+
+>Could you also share with us the publication details of your sources? I am
+>aware only of R. S. Shelvankar's 1933 book on the Modi manuscripts at the
+>Tanjavur Saraswati Mahal Library. You seem to be quoting from more recent
+>publications.
+
+I rely upon the books published by the Tamil University and Saraswathi
+Mahaal Library, Tanjore. The Annual nUmbers of The Saraswathi Mahaal
+Library are also referred often.
+
+My conclusion is that The kanchi Kamakoti Mutt had come to Kumbhakonam
+during the reign of Prathapa Simhan. The modi manuscripts and other
+inscriptions (during the 18th and 19th Centuries)do refer the institution
+only as Kanchi Kamakoti Shankara mutt and the Peetadhipathi as The
+shankaracharya of Kanchi Kamakoti Peetam.
+
+Thanks
+BGS
+
+
+

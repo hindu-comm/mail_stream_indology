@@ -1,0 +1,38 @@
++++
+title = "135 Swaminathan Madhuresan"
+date = "2001-03-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025680.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025680.html)
+
+<<<
+ Thank you for the information! I have never heard the term before, but when
+ I see it explained, it seems fairly logical to create such a term.
+ Islamicate then becomes "Islamic without the religion of Islam" or
+ "non-Islamic but Islam-influenced". Quite neat.
+
+ Lars Martin
+>>>
+
+ Thanks for kind acknowledgement.
+
+ Yes, to many South Indians, some temple practices of Northern Hindus
+ appear highly Islamicate.
+
+ One of the main differences between Hindi vs. Urdu and the
+ creation of Devanagari vs. Islamic scripts is the Hindus'
+ efforts to "come out" of their Islamicate culture.
+ This is one reason why an easy Roman based script is not
+ acceptable to many politicians.
+
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Auctions - Buy the things you want at great prices.
+http://auctions.yahoo.com/
+
+
+

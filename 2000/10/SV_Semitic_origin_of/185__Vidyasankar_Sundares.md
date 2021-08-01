@@ -1,0 +1,48 @@
++++
+title = "185 Vidyasankar Sundaresan"
+date = "2000-10-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023205.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023205.html)
+
+>thing we expect of engineers, physicists, mathematicians etc. with an
+>Indological itch is to do their homework. That is, read the relevant
+
+No quarrel with that.
+
+>lashes out at seasoned scientists for not seeing what has become obvious to
+>him. Like: electrons are not what you think they are, they are quite to the
+>contrary...
+
+Sometimes, this works in science, but one has to be an Einstein
+to pull it off. Engineers do have to do a humanities requirement
+to graduate, so they read a little more than the equivalent of
+the "XYZ for Dummies" books that are popular nowadays. My feeling
+is that the problem is not so much the lack of required homework
+reading as with the expectation that theories in the humanities
+and social sciences should be scientific.
+
+
+>I am sorry for the parody, but this is precisely the impression some
+>engineers etc. create on this list. I am afraid that even sensible
+>engineers etc. get lumped together with the all-too-imaginative-and-naive,
+>but there it is: this is the mechanism behind all prejudice.
+
+Maybe so, but the prejudice does not look very good, when worn
+with pride on one's sleeves, on the Internet and in public print
+media. Besides, when a respected Indologist's prejudice extends
+to some of his own colleagues, it hampers objectivity, as I
+showed in at least one case.
+
+Best wishes,
+Vidyasankar
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

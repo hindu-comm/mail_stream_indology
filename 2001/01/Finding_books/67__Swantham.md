@@ -1,0 +1,62 @@
++++
+title = "67 Swantham"
+date = "2001-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/024864.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/024864.html)
+
+Dear Rosella,
+What books would you like to have? My daughter runs a book business. You
+may ask at
+<swantham at techpark.net>
+They publish books and also deal books.
+With regards
+Dr.K.Maheswaran Nair
+Professor of Sanskrit &
+Director
+Centre for Vedanta Studies
+University of Kerala
+Kariavattom P.O.
+Thiruvananthapuram,Kerala,India,PIN 695 581
+E-mail<swantham at techpark.net>
+----------
+> From: SuryaPrakash Sharma <ridhi88 at YAHOO.COM>
+> To: INDOLOGY at LISTSERV.LIV.AC.UK
+> Subject: Re: Finding books
+> Date: Saturday, January 06, 2001 6:43 AM
+>
+>   Daniela Rossella <ghezziem at TIN.IT> wrote:
+> Dearest Colleagues, I am eagerly looking for a lot of Sanskrit texts
+(with
+> or without a translation in a Western language) and, as usual, I have
+sent
+> my order to a number of Indian bookshops. On 13th December "Motilal
+> Banarsidass" and "Books & Periodical Agency" have written to me "ok",
+but,
+> afterwards, unfortunately, I don't have received no more any news. The
+> "Indian Books Centre" has not these texts; and "Biblia Impex" did not
+answer
+> a word. So, can someone give to me an advice?
+> Many thanks in advance and sorry for this annoyance.
+> Yours,
+> Daniela Rossella
+>
+> *****************************************************
+> Ph.D. Dr. Daniela Rossella
+> Piazza Buzzati, 5
+> 43100 PARMA (Italy)
+> tel. & fax +39.0521.773854
+> cell. +39.0338 3198904
+> ghezziem at tin.it
+> *****************************************************
+>
+>
+>
+>
+> ---------------------------------
+> Do You Yahoo!?
+> Yahoo! Photos - Share your holiday photos online!
+
+
+

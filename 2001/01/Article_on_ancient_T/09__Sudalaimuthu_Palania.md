@@ -1,0 +1,31 @@
++++
+title = "09 Sudalaimuthu Palaniappan"
+date = "2001-01-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/024808.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/024808.html)
+
+Dear Indologists,
+
+Happy new year and new millennium.
+
+On this first day of the new millennium, please take a look at the following
+URL for a new look at the ancient Tamil society two millennia ago.
+
+http://www.ucl.ac.uk/~ucgadkw/members/palaniappan/bards/Bards01.htm
+
+I hope members interested in society, religion, literature, and Tamil will
+find it of some interest.
+
+I have to thank the University of Cologne's IITS for their Digital Tamil
+Literature site which is a great resource for Tamil studies. I also thank
+Dominik for his help in mounting the article.
+
+I look forward to your comments.
+
+Regards
+S. Palaniappan
+
+
+

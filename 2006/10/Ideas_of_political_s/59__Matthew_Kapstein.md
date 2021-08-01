@@ -1,0 +1,18 @@
++++
+title = "59 Matthew Kapstein"
+date = "2006-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030062.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030062.html)
+
+No doubt the best place to begin now, in order to consider
+the interrelationship between kaavya and politics,
+is Sheldon Pollock's The Language of the Gods in the World
+of Men (University of California Press, 2006).
+
+Matthew Kapstein
+Paris and Chicago
+
+
+

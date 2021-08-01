@@ -1,0 +1,21 @@
++++
+title = "19 Matthew Kapstein"
+date = "2002-08-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-August/027057.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-August/027057.html)
+
+One thing is sure -- the term Ciina cannot predate the
+Qin dynasty, during the late 3rd c. BCE. And clear evidence
+of Buddhist contact -- which cannot have been the earliest
+contact -- dates to the 1st - 2nd c. CE. Victor Mair for one
+would like to push contact much further back, however, in
+the context of more general Indo-European - Chinese contacts
+beginning in the 2nd or even 3rd millenium BCE. There's a lot
+of relevant lit. on all this, but I'm travelling and away
+from my references just now.
+Matthew Kapstein
+
+
+

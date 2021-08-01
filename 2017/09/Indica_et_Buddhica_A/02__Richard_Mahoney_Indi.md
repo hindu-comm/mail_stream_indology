@@ -1,0 +1,45 @@
++++
+title = "02 Richard Mahoney | Indica et Buddhica"
+date = "2017-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046623.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-September/046623.html)
+
+
+Dear Colleagues,
+
+Following on from the recent discussion on publishers agreements ...
+
+
+My solicitors and patent attorneys have recently finished reviewing the
+IeB author-publisher Copyright Licence. We've been trying to make it
+reasonable, balanced and fair.
+
+Clause 2.8.1 allows for the distribution of an Open Access PDF. Other
+clauses that may be of interest cover the Author's Copyright
+(Background, 3, 12 & 13), Royalties (8 & 9), Format and Publishing
+Decisions &c. (19 & 20), and the Reversion of Rights (25). Each author
+will have different needs so I would also like each licence to be
+negotiated project by project.
+
+http://indica-et-buddhica.org/indica-et-buddhica-draft-copyright-licence.pdf
+
+
+I would welcome comments so please feel free to mail me off-list.
+
+
+With best regards,
+
+  Richard
+
+
+
+--
+                              Richard Mahoney | INDICA ET BUDDHICA
+                         Littledene  Bay Road  Oxford  New Zealand
+                    T: +64-3-312-1699 | www.indica-et-buddhica.org
+
+
+
+

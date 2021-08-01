@@ -1,0 +1,149 @@
++++
+title = "77 Dominik Wujastyk"
+date = "2016-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-December/044877.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-December/044877.html)
+
+Anyone thinking seriously about how to understand the skandhas should read
+Sue Hamilton's brilliant study, *Identity and Experience: The Constitution
+of the Human Being According to Early Buddhism* (2001). Amazon
+<https://www.amazon.com/Identity-Experience-Constitution-According-Buddhism/dp/1898942234/>
+
+​
+--
+Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
+​,​
+
+Singhmar Chair in Classical Indian Society and Polity
+​,​
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+​,​
+University of Alberta, Canada
+​.​
+
+South Asia at the U of A:
+
+​sas.ualberta.ca​
+​​
+
+
+On 15 December 2016 at 00:04, Nagaraj Paturi <nagarajpaturi at gmail.com>
+wrote:
+
+> https://trans4mind.com/personal_development/buddhist/5skandhas.htm
+>
+>
+>
+> The Five Aggregates are (with the Pali):
+>
+> 1.      material form, or the physical world (*rūpa)*
+> <https://trans4mind.com/personal_development/buddhist/5skandhas.htm#01Material_Form>
+>
+> 2.      feeling or sensations (*vedanā)*
+> <https://trans4mind.com/personal_development/buddhist/5skandhas.htm#02Feelings>
+>
+> 3.      perception
+> <https://trans4mind.com/personal_development/buddhist/5skandhas.htm#03Perception>
+> (saññā)
+>
+> 4.      mental formations
+> <https://trans4mind.com/personal_development/buddhist/5skandhas.htm#04Mental_Formations>
+> (saṅkhāra*)*, and
+>
+> 5.      consciousness
+> <https://trans4mind.com/personal_development/buddhist/5skandhas.htm#05Consciousness>
+> (viññāṇa)
+>
+> http://www.rigpawiki.org/index.php?title=Five_skandhas
+>
+>
+>
+> *Five skandhas* (Skt. *pañcaskandha*; Tib. ཕུང་པོ་ལྔ་
+> <http://www.rigpawiki.org/index.php?title=%E0%BD%95%E0%BD%B4%E0%BD%84%E0%BC%8B%E0%BD%94%E0%BD%BC%E0%BC%8B%E0%BD%A3%E0%BE%94%E0%BC%8B> *pungpo
+> nga*; Wyl. <http://www.rigpawiki.org/index.php?title=Wyl.> *phung po lnga*)
+> — the five psycho-physical aggregates, which according to Buddhist
+> philosophy are the basis for self-grasping
+> <http://www.rigpawiki.org/index.php?title=Self-grasping>. They are:
+>
+>    1. form
+>    <http://www.rigpawiki.org/index.php?title=Form&action=edit&redlink=1>
+>    (Skt. *rūpa*; Tib. གཟུགས་
+>    <http://www.rigpawiki.org/index.php?title=%E0%BD%82%E0%BD%9F%E0%BD%B4%E0%BD%82%E0%BD%A6%E0%BC%8B>,
+>    Wyl. *gzugs*)
+>    2. feeling <http://www.rigpawiki.org/index.php?title=Feeling> or
+>    sensation <http://www.rigpawiki.org/index.php?title=Sensation> (Skt.
+>    *vedanā*; Tib. ཚོར་བ་
+>    <http://www.rigpawiki.org/index.php?title=%E0%BD%9A%E0%BD%BC%E0%BD%A2%E0%BC%8B%E0%BD%96%E0%BC%8B>,
+>    Wyl.* tshor ba*)
+>    3. perception <http://www.rigpawiki.org/index.php?title=Perception>
+>    (Skt. *saṃjñā*; Tib. འདུ་ཤེས་
+>    <http://www.rigpawiki.org/index.php?title=%E0%BD%A0%E0%BD%91%E0%BD%B4%E0%BC%8B%E0%BD%A4%E0%BD%BA%E0%BD%A6%E0%BC%8B>,
+>    Wyl. *‘du shes*)
+>    4. formations <http://www.rigpawiki.org/index.php?title=Formations>
+>    (Skt. *saṃskāra*; Tib. འདུ་བྱེད་
+>    <http://www.rigpawiki.org/index.php?title=%E0%BD%A0%E0%BD%91%E0%BD%B4%E0%BC%8B%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BC%8B>,
+>    Wyl. *‘du byed*)
+>    5. consciousness
+>    <http://www.rigpawiki.org/index.php?title=Consciousness> (Skt.
+>    *vijñāna*; Tib. རྣམ་ཤེས་
+>    <http://www.rigpawiki.org/index.php?title=%E0%BD%A2%E0%BE%A3%E0%BD%98%E0%BC%8B%E0%BD%A4%E0%BD%BA%E0%BD%A6%E0%BC%8B>,
+>    Wyl. *rnam shes*)
+>
+>
+>
+> On Thu, Dec 15, 2016 at 12:25 PM, alakendu das <
+> mailmealakendudas at rediffmail.com> wrote:
+>
+>>
+>> The 5 skandhas or aggregates in Buddhism refers to
+>> Rupa,Vedana,Sangnya,Samskara,and Vigyan. The
+>> apporxiamate English equivalent of Sangnya ,which I could make out is -
+>> definition.
+>>
+>> Can anybody suggest any other term for Sangnya?
+>>
+>>
+>>
+>> ALAKENDU DAS
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+>
+>
+> --
+> Nagaraj Paturi
+>
+> Hyderabad, Telangana, INDIA.
+>
+> Former Senior Professor of Cultural Studies
+>
+> FLAME School of Communication and FLAME School of  Liberal Education,
+>
+> (Pune, Maharashtra, INDIA )
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161215/0f1c85a6/attachment.htm>

@@ -1,0 +1,45 @@
++++
+title = "31 Sudalaimuthu Palaniappan"
+date = "1999-08-14"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-August/018108.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-August/018108.html)
+
+N. Ganesan wrote on  Fri, 6 Aug 1999 15:43:34 PDT:
+
+<<Even though Saivism succeeded in appropriating the four rishis and
+patanjali as disciples of Dakshinamurti or Nataraja, Namakkal caves show the
+vaishnavaite attempt.>>
+
+The earliest attested attempt by vaishnavites to appropriate dakSiNAmUrti is
+found in the following lines from paripATal, a late CT text.
+
+azal purai kuzai kozu nizal tarum pala cin2ai
+Alam um kaTampu um nal yARRu naTu um
+kAl vazakku aRu nilai kun2Ram um piRa um
+a avai mEviya vERu vERu peyarOy
+e vayin2Oy um nI E ...                                            (pari.
+4.66-70)
+
+A trough translation is:
+"O, tirumAl!, you are the one who resides (1) under the banyan tree with many
+branches and flame-like flourishing young leaves, (2) under the kaTampu tree,
+(3)on the island in the middle of the river and (4) on hills where the flow
+of winds is stopped. Although you reside in these places under different
+names, you are the one in all places."
+
+Here (1) refers to dakSiNAmUrti (2) refers to murukan2 and (3) to tirumAl as
+the popularly known raGganAtha.
+
+One has to see the vaishnavite attempt to subsume murukan2 as an aspect of
+tirumAl relative to the zaivites' successful attempt at Madurai which has
+been also known as kaTampavan2am. If there was ever a cultic presence of
+murukan2 in Madurai's kaTampavan2am, it must have disappeared with the rise
+of zaivite AlavAy.
+
+Regards
+S. Palaniappan
+
+
+

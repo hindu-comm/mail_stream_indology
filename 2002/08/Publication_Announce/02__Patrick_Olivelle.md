@@ -1,0 +1,50 @@
++++
+title = "02 Patrick Olivelle"
+date = "2002-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-August/027040.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-August/027040.html)
+
+Walter:
+
+I went on line and there was a three line statement, but no way to
+order the book. Thanks.
+
+Patrick
+
+
+
+>The first volume in the Halle series "Geisteskultur Indiens. Texte und Studien
+>(Indologica halensis)" has been released:
+>
+>Bhaskarakantha´s Moksopaya-Tika I. Vairagyaprakaranam. Revised edition in
+>Devanagari script by Juergen Hanneder and Walter Slaje.
+>(Geisteskultur Indiens. Texte und Studien. 1.) (Indologica halensis).
+>Aachen: Shaker 2002. ISBN 3-8322-0217-X. Euro 35,80
+>
+>In addition to the revised text the volume contains also introductions in
+>Sanskrit and English outlining the present state of research in the
+>Moksopaya (/
+>Yogavasistha) as well as an updated Moksopaya-bibliography.
+>
+>In case of interest, orders may also be placed online:
+>
+>http://www.shaker.de/Online-Gesamtkatalog/Details.asp?ID=244090&CC=2045&ISBN
+>=3-8322-0217-X&Reihe=275&IDSRC=1&LastAction=Search
+>
+>
+>With kind regards,
+>
+>Walter Slaje
+>
+>
+>
+>-----------------------------------------------
+>Prof. Dr. Walter Slaje
+>Hermann-Loens-Str. 1, D-99425 Weimar (Germany)
+>Tel/Fax: (+49)03643-501391 (office: (+49)0345-55-23650)
+>e-mail: slaje at t-online.de (office: slaje at indologie.uni-halle.de)
+
+
+

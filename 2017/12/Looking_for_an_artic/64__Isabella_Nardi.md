@@ -1,0 +1,34 @@
++++
+title = "64 Isabella Nardi"
+date = "2017-12-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-December/047051.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-December/047051.html)
+
+Dear All,
+Since I have received so many requests regarding Ojhi's paper, I am attaching it below.
+Best wishes,Isabella 
+
+    Il Lunedì 18 Dicembre 2017 16:47, isabella nardi via INDOLOGY <indology at list.indology.info> ha scritto:
+
+
+ Dear List Members, I am looking for a copy/pdf of the following article: Ohji Toshiaki, “The ‘Ideal’ Hindu City of Ancient India asDescribed in the Arthaśāstra and the Urban Planning of Jaipur,” East AsianCultural Studies, vol. 29, no. 1-4 (March, 1990), pp. 55-73. Is there anyone who has access to it through theirinstitution? I have been looking for it with no success. Thank you in advance for any help you can provide. Best wishes,Isabella Nardi_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171219/fd57149b/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ohjijaipur.pdf
+Type: application/pdf
+Size: 12897932 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20171219/fd57149b/attachment.pdf>

@@ -1,0 +1,4 @@
++++
+title = "Vācaspati Miśra"
+
++++

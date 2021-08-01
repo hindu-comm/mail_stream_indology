@@ -1,0 +1,32 @@
++++
+title = "142 Dominik Wujastyk"
+date = "2000-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020602.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020602.html)
+
+You need to write your own bst file, I'm afraid.  Have you looked at
+Bibdb, which might help, and is very customizable.  It's a
+graphical-interface bibliography database which works with bibtex
+files.  I can imagine you could write a format for MSS.  But you would
+still need a bst for bibtex to process when reading the database.
+
+Two more tools: natbib and custom-bib, both available from CTAN, are
+indispensible, to my mind.  It's a long time since I used custom-bib,
+but you might be able to do something for MSS, or use it in some
+non-standard way to invent what you need.
+
+The problem is that you need your .bst file to define headings for you
+like "scribe" and "script" etc.  One thing I've done is have a basic bst
+written using custom-bib, and then go in and add features I want by
+analogy to what is there.  But bibtex's bst language is reverse-Polish
+notation, and pretty nasty.  Okay for PostScript hackers, but not mere
+mortals.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

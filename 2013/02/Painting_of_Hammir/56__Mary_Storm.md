@@ -1,0 +1,44 @@
++++
+title = "56 Mary Storm"
+date = "2013-02-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-February/037431.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-February/037431.html)
+
+Dear Indologists and Art Historians,
+
+I am trying to track down the whereabouts of the painting of the hero Hammir, attached below.
+
+I thought it might be in the Binney Collection, now in the San Diego Museum, but I have had no luck with email enquiries.
+
+If anyone knows where this painting might now reside, I would be immensely grateful for your help.
+
+Many Thanks for your help,
+
+Mary Storm
+
+Mary Storm, Ph.D.
+Academic Director 
+India National Identity and the Arts
+And
+Himalayan Buddhist Art and Architecture
+SIT Study Abroad
+F 301 Lado Sarai
+New Delhi, 110030  India
+Mobile: +91 98106 98003
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130205/9e2d6edb/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: CP3-HammirSacrificesHisHead.jpg
+Type: image/jpg
+Size: 51301 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20130205/9e2d6edb/attachment.jpg>

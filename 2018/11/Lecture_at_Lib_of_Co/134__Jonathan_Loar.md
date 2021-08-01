@@ -1,0 +1,54 @@
++++
+title = "134 Jonathan Loar"
+date = "2018-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-November/048735.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-November/048735.html)
+
+Dear colleagues,
+
+
+With apologies for cross-posting, I wanted to draw attention to a very
+exciting lecture taking place on Thursday November 15 in the Asian Reading
+Room of the Library of Congress in Washington D.C. Richard Salomon will
+discuss LC’s Gandhara birch-bark scroll, which dates from around the
+beginning of the Common Era. A translation of the scroll appears in Dr.
+Salomon’s new publication, The Buddhist Literature of Ancient Gandhara (
+https://lccn.loc.gov/2017026919).
+
+
+
+If possible, please join us in the Asian Reading Room on Thurs Nov 15 at
+4pm! And please feel free to spread the word to any groups, listservs, and
+the like with folks who may be interested. I’ll attach the flyer here, and
+it is also available from LC’s 4 Corners of the World blog:
+http://blogs.loc.gov/international-collections/2018/10/4-corners-international-collections-program-calendar-10-19-2018/salomon-flyer-new-with-logo/.
+If you cannot join us on Nov 15, we will record the lecture and release it
+as a webcast about 5-6 weeks afterwards.
+
+
+
+Kind regards,
+
+
+
+Jonathan Loar
+
+South Asia reference librarian
+
+Asian Division, Library of Congress
+
+jloa at loc.gov
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181101/898d7727/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: LCNov15-OneBuddha15Buddhaslectureflyer.jpg
+Type: image/jpeg
+Size: 203693 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20181101/898d7727/attachment.jpg>

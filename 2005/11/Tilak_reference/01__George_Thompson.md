@@ -1,0 +1,27 @@
++++
+title = "01 George Thompson"
+date = "2005-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-November/029424.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-November/029424.html)
+
+Dear List,
+
+I am in the process of reading the proofs of an article that I have 
+written.  The editors would like a full reference to the following.
+
+In Keith's *Religion & Philosophy of the Veda & Upanisads* vol. p. 81 n. 
+2, there is reference to an article by Tilak in *The Bhandarkar 
+Commemorative Volume*, pp. 32 ff.  Would anyone on the list know full 
+title of the volume, with date, the name of the article and the pages 
+numbers occupied by it?
+
+Thanks in advance for help.
+
+George Thompson
+
+>
+
+
+

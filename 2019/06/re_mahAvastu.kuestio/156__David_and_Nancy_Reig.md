@@ -1,0 +1,85 @@
++++
+title = "156 David and Nancy Reigle"
+date = "2019-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-June/050304.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-June/050304.html)
+
+Dear Valerie,
+
+On your question no. 2, the scan of the J. J. Jones translation that I made
+and posted is searchable:
+
+http://prajnaquest.fr/downloads/BookofDzyan/Sanskrit%20Buddhist%20Texts/mahavastu_vol_one_1949_eng.pdf
+http://prajnaquest.fr/downloads/BookofDzyan/Sanskrit%20Buddhist%20Texts/mahavastu_vol_two_1952_eng.pdf
+http://prajnaquest.fr/downloads/BookofDzyan/Sanskrit%20Buddhist%20Texts/mahavastu_vol_three_1956_eng.pdf
+
+On your question no. 3, Jones inserted the page numbers of the Senart
+edition into his translation, so that is the easiest way to correlate the
+two.
+
+On your question no. 4, I do not have Basak's edition, but when I examined
+it at a library I noted that it is based on or copied from Senart's
+edition. He added a Bengali translation.
+
+Glad that someone else already answered no. 1, with a link to the online
+searchable Sanskrit text at GRETIL. As you know, and as noted here by
+Seishi Karashima on May 16, a new (and much improved) edition is coming out
+shortly:
+
+*The Mahāvastu: A New Edition*, vol. III, ed. by Katarzyna Marciniak
+(Bibliotheca Philologica et Philosophica Buddhica XIV,1)
+
+ISBN 978-4-904234-18-1.
+
+A PDF file will soon be made available at the following link:
+http://iriab.soka.ac.jp/en/publication/bppb.html
+
+
+Best regards,
+
+David Reigle
+Colorado, U.S.A.
+
+
+On Sat, Jun 15, 2019 at 10:02 AM Valerie Roebuck via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Colleagues
+>
+> (1) Does anyone know where there is a searchable Sanskrit text of the
+> Mahāvastu Avadāna online? The one formerly at
+> http://fiindolo.sub.uni-goettingen.de/gretil/1_sanskr/4_rellit/buddh/mhvastuu.htm
+> seems to have disappeared.
+>
+> (2) Similarly with a searchable translation? The versions I’ve found of
+> the J J Jones one are frustrating to use: see (3).
+>
+> (3) Does anyone understand the verse and chapter numbering of this text?
+> The text references and translation seem to use a completely different
+> system.
+>
+> (4) Has anyone got Basak’s text to hand? If so, I would be grateful to see
+> copies of a couple of pages.
+>
+> Many thanks -
+>
+> Valerie J Roebuck
+> Manchester, UK
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190615/b3d6609e/attachment.htm>

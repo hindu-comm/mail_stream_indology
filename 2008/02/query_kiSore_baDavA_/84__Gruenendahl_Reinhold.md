@@ -1,0 +1,88 @@
++++
+title = "84 Gruenendahl, Reinhold"
+date = "2008-02-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-February/031520.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-February/031520.html)
+
+Richard Mahoney wrote:
+
+
+On Fri, 2008-02-29 at 15:54, Maheswaran Nair wrote:
+> Dear List members,
+> Please help me locate this in the Mahabharata:
+>
+> kiSore baDavA yathA
+
+For what its worth a quick search of the IeB Philologica version
+(http://philologica.indica-et-buddhica.org/
+<http://philologica.indica-et-buddhica.org/> ) of the Mahabharata and
+Ramaya?a turned up the following:
+
+Mahabharata:
+
+ 04,003.003d*0072_001 nadu??as ca bhavi?yanti kisora va?ava api
+
+ 04,003.003d*0074_001 na ma? paribhavi?yanti kisora va?avas tatha
+
+....
+
+****************************************************
+
+What is advertised here as "the IeB Philologica version" comes remarkably
+close to the GRETIL version launched in 2003:
+
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gret_utf.htm#MBh
+
+In fact, I consider it identical, unless Richard Mahoney can point to an
+independent source of this version integrating constituted text, star
+passages and appendices, with exactly the same references. So the lines in
+question could have been found there, too, without registration and
+circumstance.
+
+[Unfortunately, the above version is not identical with the "Mahabharata
+online" by Hans Ruelius, also on GRETIL. An update is long overdue, and
+perhaps it would be better to shut this service down until it finally
+arrives.]
+
+Greetings
+
+Reinhold Grünendahl
+
+P.S. I haven't registered for "IeB Philologica" so far, but Richard Mahoney's
+hint has aroused my curiosity.
+
+
+
+
+
+
+
+________________________________________________
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Göttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+
+
+
+
+
+

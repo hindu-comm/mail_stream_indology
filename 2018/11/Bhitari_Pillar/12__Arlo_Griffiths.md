@@ -1,0 +1,54 @@
++++
+title = "12 Arlo Griffiths"
+date = "2018-11-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-November/048758.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-November/048758.html)
+
+Dear Csaba,
+
+You must be aware that the database produced by Michael Willis' project at <http://siddham.uk/object/OB00032> states the pillar to be 'in situ', and dates this information to 1983. As far as I understand the Siddham database, this information must be based on Agarwala 1983, who is not necessarily a reliable source on such issues. (I don't have the work at hand.) Has no-one in Michael Willis' team undertaken fieldwork at Bhitari?
+
+The fact that you have to ask this question on this forum illustrates the very general problem confronted by epigraphists today, namely that previous generations or scholars and institutions in charge of inscriptions have on the whole shown very little interest in reliably recording the whereabouts of inscriptions, once 2-dimensional reproductions had been published.
+
+If the pillar has been lost, it would not be the only instance of a massive inscribed pillar that appears to have vanished. For another example, and one that concerns a relatively recent discovery, see <http://hisoma.huma-num.fr/exist/apps/EIAD/works/EIAD0164.xml?&odd=teipublisher.odd>.
+
+Warm greetings,
+
+Arlo
+
+
+
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Csaba Dezso via INDOLOGY <indology at list.indology.info>
+Sent: Wednesday, October 31, 2018 4:36 PM
+To: Indology
+Subject: [INDOLOGY] Bhitari Pillar
+
+Dear Colleagues,
+Does anyone happen to know where the Bhitari Pillar Inscription of Skandagupta is kept these days?
+Many thanks for any info,
+Csaba Dezső
+
+
+
+
+------
+Csaba Dezső, PhD
+Senior Lecturer
+Department of Indian Studies
+Eötvös Loránd University
+H-1088 Budapest
+Múzeum krt. 6-8/A.
+Hungary
+tel.: +36-1-4116500 / ext. 5368
+e-mail: dezso.csaba at btk.elte.hu<mailto:dezso.csaba at btk.elte.hu>
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181105/1b76f3dd/attachment.htm>

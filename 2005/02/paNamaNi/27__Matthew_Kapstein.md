@@ -1,0 +1,23 @@
++++
+title = "27 Matthew Kapstein"
+date = "2005-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-February/028970.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-February/028970.html)
+
+In response to Jonathan Silk's comment:
+if an Indian travelled, was he thereby no longer
+Indian "as such"?
+
+JayAnanda's comm. was likely composed in Xixia,
+according to the colophon, but the author was
+a visiting professor from abroad.
+
+One wonders: was Foucault no longer French "as such"
+when he lectured in the States?
+
+Matthew Kapstein
+
+
+

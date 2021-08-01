@@ -1,0 +1,26 @@
++++
+title = "14 Patrick Olivelle"
+date = "2005-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-December/029498.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-December/029498.html)
+
+Hope this is not perceived as a self-promotion -- just a note to 
+inform you about a new book that may be a useful resource published 
+by Motilal.
+
+Dharmasuutra Parallels, Motilal, 2005.
+
+This contains in four columns on each page the parallel passages in 
+the four ancient Dharmasuutras bearing on a particular topic -- both 
+the Sanskrit and the English translation. Having them visually side 
+by side, I hope, is helpful in seeing the similarities and 
+differences in the treatment of various topics by these texts.
+
+Thanks.
+
+Patrick
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "298 Julie Vig"
+date = "2019-04-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049841.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049841.html)
+
+Dear governing committee,
+
+Would you kindly accept to circulate my message below about a workshop on premodern South Asia in Toronto?
+
+Many thanks and best wishes,
+Julie
+
+Dear colleagues,
+
+We have an exciting workshop coming up on April 13-14 at the University of Toronto on the theme of encounters in premodern South Asia. 15 scholars will join us at the Department for the Study of Religion for two days of stimulating presentations and productive discussions on the notion of encounters. The workshop will take place in the Jackman Humanities Building, room 418, on Saturday, and in room 318 on Sunday: https://goo.gl/maps/2d2AHFFKUGQ2
+
+The participants are: Anne Murphy (UBC), Christoph Emmrich (U of T), Dolores Pizarro Minakakis (U Hamburg), Genoveva Castro Meagher (U of W), Gregory Clines (Trinity University), Hasan Siddiqui (UBC), Karen Ruffle (U of T), Luther Obrock (U of T), Pasha Mohammad Khan (McGill), Pegah Shahbaz (UBC/McGill), Prashant Keshavmurthy (McGill), Robin Rinehart (Lafayette), Rahul Bjorn Parson (U Colorado, Boulder), Timothy Lorndale (UPenn/McGill), and Usman Hamid (U of T).
+
+There will be lunch, coffee/tea, and snacks available for everyone attending. If you have any questions, please email me at julie.vig at utoronto.ca
+
+I very much look forward to seeing you in great numbers. Please share widely within your circles.
+
+With best wishes,
+Julie
+
+Julie Vig
+Assistant Professor
+Department for the Study of Religion
+University of Toronto
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190409/5d830fb0/attachment.htm>

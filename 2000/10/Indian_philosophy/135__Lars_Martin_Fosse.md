@@ -1,0 +1,33 @@
++++
+title = "135 Lars Martin Fosse"
+date = "2000-10-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023034.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023034.html)
+
+Honored members of the list!
+
+Wanting to update my indological library, I would be grateful for some
+bibliographic advice on the latest, state-of-the art introductions to
+Indian philosophy. (Indian philosophy in general as well as more specialist
+studies of Vedanta, Samkhya etc.)
+
+All suggestions are appreciated!
+
+Best regards,
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone: +47 22 32 12 19
+Mobile phone: +47 90 91 91 45
+Fax 1:  +47 22 32 12 19
+Fax 2:  +47 85 02 12 50 (InFax)
+Email: lmfosse at online.no
+
+
+

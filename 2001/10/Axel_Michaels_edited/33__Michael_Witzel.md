@@ -1,0 +1,36 @@
++++
+title = "33 Michael Witzel"
+date = "2001-10-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-October/026415.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-October/026415.html)
+
+G. Hart & H. Hock have their points.
+
+However, the book is entitled : "The Pandit", and its deals with
+traditional PANDITs in INDIA. Otherwise, A. Michaels --as a long time
+resident of the Kathmandu Valley-- could easily have included, for example,
+the still persisting traditional Buddhist Sanskrit scholarship. etc. etc.
+I would also take a look at Aklujkar's paper first, before sounding off.
+
+The title says it all.
+
+=============
+>Just released:
+>
+>Axel Michaels (ed.)
+>The Pandit: Traditional Scholarship in India (Festschrift Paramesvara
+>Aithal)
+========================================================
+Michael Witzel
+Department of Sanskrit & Indian Studies, Harvard University
+2 Divinity Avenue, Cambridge MA 02138, USA
+
+ph. 1- 617-496 2990 (also messages)
+home page:  http://www.people.fas.harvard.edu/~witzel/mwpage.htm
+
+Elect. Journ. of Vedic Studies: http://nautilus.shore.net/~india/ejvs/
+
+
+

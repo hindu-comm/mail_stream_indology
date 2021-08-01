@@ -1,0 +1,84 @@
++++
+title = "125 Harry Spier"
+date = "2017-05-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-May/045713.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-May/045713.html)
+
+CORRECTION.  The searchable text we have in the Muktabodha digital library
+(Gaekwad Oriental Series edition) is the Baroda edition.
+
+www.muktabodha.org
+
+Thanks,
+Harry Spier
+
+On Tue, May 2, 2017 at 5:01 AM, Kenneth Gregory Zysk via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Lubomir,
+> Many thanks for the links.
+> Best,
+> Ken
+>
+> Kenneth Zysk, PhD, DPhil
+> Head of Indology
+> Department of Cross-Cultural and Regional Studies
+> University of Copenhagen
+> Karen Blixens Plads 8, Bygn. 10,
+> DK-2300 Copenhagen S    Denmark
+> Ph:  +45 3532 8951                          Email: zysk at hum.ku.dk
+>
+> -----Original Message-----
+> From: Lubomír Ondračka [mailto:ondracka at ff.cuni.cz]
+> Sent: 02 May 2017 10:20
+> To: Kenneth Gregory Zysk
+> Cc: Kenneth Gregory Zysk via INDOLOGY
+> Subject: Re: [INDOLOGY] Natyasastra
+>
+> Dear Ken,
+>
+> all the volumes are in DLI, but they are not so easy to identify:
+>
+> vol. 1 (GOS 36) http://www.new.dli.ernet.in/handle/2015/553623
+> vol. 2 (GOS 68) http://www.new.dli.ernet.in/handle/2015/210713
+> vol. 3 (GOS 124) http://www.new.dli.ernet.in/handle/2015/326319
+> vol. 4 (GOS 145) http://www.new.dli.ernet.in/handle/2015/408430
+>
+> Best,
+> Lubomir
+>
+> On Tue, 2 May 2017 07:43:34 +0000
+> Kenneth Gregory Zysk via INDOLOGY <indology at list.indology.info> wrote:
+>
+> > Dear List,
+> > I should appreciate it if someone could tell me where I can obtain a
+> scanned copy of the Baroda edition of Bharata's Natyasastra with
+> Abhinavabharati.
+> > Many thanks,
+> > Ken
+> >
+> > Kenneth Zysk, PhD, DPhil
+> > Head of Indology
+> > Department of Cross-Cultural and Regional Studies
+> > University of Copenhagen
+> > 1 Karen Blixens Vej, Bygn. 10,
+> > DK-2300 Copenhagen S    Denmark
+> > Ph:  +45 3532 8951                          Email: zysk at hum.ku.dk
+> <mailto:zysk at hum.ku.dk>
+> >
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170502/91fc3076/attachment.htm>

@@ -1,0 +1,40 @@
++++
+title = "166 David Magier"
+date = "2000-04-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021053.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021053.html)
+
+The following position announcement is being forwarded to your mailing
+list or listserv from the ACADEMIC POSITIONS section of SARAI. Please
+contact the University of Chicago directly for any further
+information.
+
+David Magier
+http://www.columbia.edu/cu/libraries/indiv/area/sarai
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+From: Clinton Seely <c-seely at uchicago.edu>
+
+==========
+
+Lecturer in Tibetan
+
+The University of Chicago, Department of  South Asian Languages and
+Civilizations, seeks applicants for the position of lecturer in Tibetan
+Language, 100% time, for a term of two-years (2000-2002). Qualifications
+include: native or demonstrable near-native fluency in Lhasa Tibetan,
+mastery of literary Tibetan, familiarity with current English-medium
+Tibetan teaching materials, previous experience teaching the Tibetan
+language, and an M.A. or higher degree in a relevant humanities or social
+sciences field. The successful candidate will be responsible for
+elementary and intermediate Tibetan language instruction of both
+undergraduate and graduate students. Salary and benefits competitive. Send
+CV and the names and addresses of three references to: Tibetan Language
+Search, SALC, Foster Hall, 1130 E. 59th Street, Chicago IL 60637.
+Applications are due no later than May 15, 2000. AA/EO Employer.
+
+
+

@@ -1,0 +1,52 @@
++++
+title = "41 George Thompson"
+date = "2012-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-February/036273.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-February/036273.html)
+
+Dear Dominik,
+
+Thank you for your advice about my potential copyright violations
+here.  What I conclude from the moral of this tale is that this is
+stuff that I have written, and I am willing to share it freely with
+anyone.  If the editors of JAOS want to sue me for openly sharing what
+I myself have written, let them.
+
+Best,
+
+George
+
+On Tue, Feb 7, 2012 at 7:47 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
+> This list is unmoderated, George. Your INDOLOGY posts go straight to all
+> the members as soon as you hit "send."
+>
+> Neither I nor the INDOLOGY managing committee accept responsibility for
+> copyright violations by members. It is up to you to check whether you
+> signed away your copyright and, if so, whether the new owners of your
+> research publications will give you permission to distribute copies.
+>
+> I leave it to you to deduce the moral of this tale.
+>
+> Best,
+> Dominik, INDOLOGY committee
+> --
+> अनुज्ञप्तिर्न दातव्या प्रतिमायाः कदाचन ||
+>
+>
+>
+> On 7 February 2012 04:40, George Thompson <gthomgt at gmail.com> wrote:
+>>
+>>
+>> I don't know whether it is legal for me to post files of my own
+>> reviews to this list that are under copyright to others [i.e., the
+>> journals].
+>>
+>> I will leave it to Dominik and his co-moderators to stop this email if
+>> I am doing something wrong here.
+>>
+>
+
+
+

@@ -1,0 +1,39 @@
++++
+title = "62 Toke Lindegaard Knudsen"
+date = "2018-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047614.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-May/047614.html)
+
+Hi all,
+
+This might be of interest to some members of the list.
+
+Best,
+Toke
+
+=====
+
+Sub: Call for Nomination 2018
+
+Dear Madam/Sir,
+
+INSA Young Historian of Science Award is instituted by Indian National Science Academy, New Delhi with the aim of recognizing young historians of science of extraordinary promise and creativity who have made notable research contributions in areas relating to History of Science. This award, considered to be the highest recognition of promise, creativity and excellence is made annually to those historians of science who are distinguished for these attributes as evidenced by their research work carried out in India or abroad. Only those born on or after January 1, 1983 are eligible for consideration in the year 2018.
+            The awardee shall receive a certificate‚ a bronze medal, cash award of Rs. 25,000/- and a seed amount to initiate research project and further scope for overseas training for advancement of career.
+            A candidate is to be nominated by a Fellow of the Indian National Science Academy and other National Scientific Societies, Vice Chancellors of Universities and Heads of Research Institutions.
+            Nomination proforma may be availed from Assistant Executive Director at email ijhs at insa.nic.in<mailto:ijhs at insa.nic.in> or be downloaded from website www.insaindia.res.in<http://www.insaindia.res.in>. One hard copy and a soft copy (in MS Word only) of the nomination duly filled in, along with all supporting documents, must reach the Academy latest by June 30, 2018.
+
+--
+__________________________________________
+Madhvendra Narayan
+AED History of Science & Associate Editor, IJHS
+Indian National Science Academy
+Bahadur Shah Zafar Marg
+New Delhi 110002
+email:ijhs at insa.nic.in<mailto:ijhs at insa.nic.in>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180510/ef473e45/attachment.htm>

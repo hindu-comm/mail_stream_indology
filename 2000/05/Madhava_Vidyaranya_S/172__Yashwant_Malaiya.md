@@ -1,0 +1,43 @@
++++
+title = "172 Yashwant Malaiya"
+date = "2000-05-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021338.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021338.html)
+
+a. I'm curious about the Jain inscription found at Shringeri.
+What does it say?
+
+b. Sudalaimuthu Palaniappan wrote:
+
+>turukkar or tulukkar originally meant Turks (as used by kampan2)
+>but later came to mean Muslims in general. The word tulukkan is
+>thus related to Skt. turuSka.
+
+The word Turk has generally been used in North as opposite of
+Hindu, both words imply ethnicity.
+
+Jain Poet Banarasidas(1586-1643), has written
+
+ek ruup Hinduu turuk, duujii dashaa na koy,
+man kii dvividhaa maanakar, bhaye ek so.n doy .. (itrans transliteration)
+
+Trans: Hindus and Turks are same, nobody is another
+kind. Because they think differently, they have become
+two from one.
+
+Kabir has used the word-pair Hindu and Turk very frequently.
+The popular term for Muslims then must have been Turk. Word
+Musalaman probably had not come into use then.
+
+ko Hinduu ko turuk kahaavai,
+ek jimii par rahiye..  Bijak Shabda 30
+
+Who is Hindu, who is Turk?
+both live on the earth.
+
+Yashwant
+
+
+

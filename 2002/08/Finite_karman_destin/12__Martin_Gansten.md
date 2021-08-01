@@ -1,0 +1,20 @@
++++
+title = "12 Martin Gansten"
+date = "2002-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-August/027051.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-August/027051.html)
+
+Has anyone come across, within any Indic religious tradition, a doctrine to
+the effect that there exist a finite (albeit great) number of possible
+human life-patterns -- or in other words, a limitation to the variety of
+karmic manifestation? Such a view seems to underlie certain (late)
+astrological texts which I am studying, and I would be very interested to
+know of any parallels.
+
+Best regards,
+Martin Gansten
+
+
+

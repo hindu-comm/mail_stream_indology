@@ -1,0 +1,43 @@
++++
+title = "13 (Maitreya) Borayin Larios"
+date = "2017-04-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-April/045533.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-April/045533.html)
+
+Dear Colleagues and Friends,
+
+Please excuse the self-promotion, but I’m really pleased to announce that
+after much delay my book "Embodying the Vedas. Traditional Vedic Schools of
+Contemporary Maharashtra" has finally seen the light of the day. It has
+been published by De Gruyter Open and it is available and downloadable in
+Open Access, as well as a hardcover. Unfortunately, the price of the book
+in its printed version is very expensive, but since it is available for
+free in a digital format, I think it is a good compromise.
+
+You can get your copies and more information about the book here:
+https://www.degruyter.com/view/product/480043
+
+With best wishes,
+Borayin Larios
+
+-- 
+Borayin Larios
+Ezanvillestraße 59
+69118 Heidelberg
+Germany
+Office: (+49) 6221548939
+
+Mobile: (+49) 17672329143
+
+http://about.me/borayin.larios
+
+https://uni-heidelberg.academia.edu/BorayinLarios
+
+http://www.sai.uni-heidelberg.de/abt/IND/mitarbeiter/larios/larios.php
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170404/b5ce8cad/attachment.htm>

@@ -1,0 +1,21 @@
++++
+title = "20 Deshpande, Madhav"
+date = "2010-10-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-October/034790.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-October/034790.html)
+
+Dear Indologists,
+
+     I would appreciate if someone has or knows how to access either a pdf or an e-text of Aggavamsa's Saddaniti.  Thanks.
+
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, Michigan 48104-1608, USA
+
+
+

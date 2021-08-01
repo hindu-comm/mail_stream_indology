@@ -1,0 +1,56 @@
++++
+title = "29 Artur Karp"
+date = "2003-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027496.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027496.html)
+
+At 04:07 2003-02-10, you wrote:
+
+>Not being an expert, I still try. Can anyone point me to a Sanskrit source
+>that gives translations into English of animal names in Skt to their common
+>or biological or both names in English?
+>
+>Not much of Indian birds or flowers in Monier-Williams it seems, nor on the
+>Capeller online or Cologne online lookup machines.
+>
+>Thanks
+>Joanna Kirkpatrick
+
+Dear Joanna,
+
+Not much additional advice re: animals & birds Sanskrit and biological names.
+
+As far as botany is concerned, my constant companion is:
+
+Chopra R.N., Nayar S.L., Chopra I.C., Glossary of Indian Medicinal Plants,
+Council of Scientific & Industrial Research, New Delhi 1956, 330 pages. (On
+pp. 263-318 Index of Common Vernacular Names [including Sanskrit])
+
+and
+
+Chopra R.N., Chopra I.C., Varma B.S., Supplement to Glossary of Indian
+Medicinal Plants, Publications & Information Directorate, New Delhi 1969,
+120 pages.
+
+No photographs or drawings of the plants, though. Which is annoying. But
+otherwise a mine of dependable information.
+
+
+Regards,
+
+Artur Karp
+
+Senior Lecturer in Sanskrit and Pali
+
+University of Warsaw
+
+
+---
+Outgoing mail is certified Virus Free.
+Checked by AVG anti-virus system (http://www.grisoft.com).
+Version: 6.0.449 / Virus Database: 251 - Release Date: 2003-01-27
+
+
+

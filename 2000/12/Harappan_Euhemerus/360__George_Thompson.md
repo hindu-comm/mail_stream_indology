@@ -1,0 +1,25 @@
++++
+title = "360 George Thompson"
+date = "2000-12-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024494.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024494.html)
+
+In response to Stephen Hodge's posts
+
+Defense of Euhemerism as a theoretical possibility is one thing.  Defense of
+Shendge's books on Vedic is quite another.  These books are fantastic
+misinterpretations of Vedic. That is an inescapable fact that makes your
+theoretical defense of them moot.
+
+Look at these books.  You will see what I mean.  In short, Steve Farmer is
+not being closed minded here at all, as you seem to suggest.  He is merely
+stating what is obvious.
+
+Best wishes,
+
+George Thompson
+
+
+

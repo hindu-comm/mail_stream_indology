@@ -1,0 +1,68 @@
++++
+title = "77 Dominik Wujastyk"
+date = "2010-02-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/034046.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/034046.html)
+
+So anyone can pronounce any word any way they like?  Surely you don't think
+that?
+
+I don't think it's being precious at all, Matthew.  Of course, as Einstein
+proved, it's all relative (that's a joke).  But then again, it's not all
+relative, and there is indeed right and wrong, in a particular framed,
+situated locale (like spoken Sanskrit).  The criterion is what is received
+as comfortable, acceptable, and immediately intelligible by the community of
+other local speakers.  We're not launching a campaign, but answering
+frequently-asked questions.  (Or will be, if anyone actually writes any of
+this in faq.indology.info)
+
+I am reminded of a big bust-up that I had with my English teacher once, at
+school.  I was about 9 years old, and I was at Comboni College, Khartoum,
+where my teacher was an Egyptian gentleman.  He was teaching us about
+London, where I was born, and when he got to the name of London's river, he
+told the class that it was the river /thaymees/ (like "rabies").  I put up
+my hand and offered another opinion.  But he wouldn't have it.  I was
+severely reprimanded, and the class was reassured about the correct
+pronunciation.
+
+Actually, most people quite like "getting the pronunciation right," as part
+of a modest process of acculturation.  All they need is some information
+about the history of word change, and they can make up their own minds
+whether they want to emulate historical speakers of Sanskrit (who cared, and
+followed a learned tradition of śikṣā, after all) or contemporary tourists
+superimposing English speech patterns on written words in unhelpful
+transliterations.
+
+I'm absolutely certain I don't get my Arabic right, but I'd really like to.
+Now, where's the FAQ.arabic.com? :-)
+
+Best,
+Dominik
+
+
+On 15 February 2010 17:52, <mkapstei at uchicago.edu> wrote:
+
+> Isn't every one being a bit too precious about all this?
+> What do French speakers do with English names?
+> What does everyone do with Chinese?
+> How many of us get our Arabic quite right?
+> Not to mention Thai, Tibetan or Khmer...
+>
+> The idea that one is going to launch a campaign to
+> rectify the massacre of Indian names and terms in
+> English is plain silly when you think about it.
+>
+> Matthew
+>
+> Matthew T. Kapstein
+> Numata Visiting Professor of Buddhist Studies
+> The University of Chicago Divinity School
+>
+> Directeur d'études
+> Ecole Pratique des Hautes Etudes, Paris
+>
+
+
+

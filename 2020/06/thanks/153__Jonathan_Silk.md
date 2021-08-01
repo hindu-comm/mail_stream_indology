@@ -1,0 +1,30 @@
++++
+title = "153 Jonathan Silk"
+date = "2020-06-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-June/052720.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-June/052720.html)
+
+dear friends
+thanks to the support of colleagues I received copies of both the Raghavan
+and the Sternbach -- many many thanks!! It is wonderful, especially in such
+trying times, to know that there are colleagues who will lend a hand!
+
+Jonathan
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+https://leidenuniv.academia.edu/JASilk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200607/5d0b238c/attachment.htm>

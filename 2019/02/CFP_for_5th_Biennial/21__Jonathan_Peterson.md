@@ -1,0 +1,27 @@
++++
+title = "21 Jonathan Peterson"
+date = "2019-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-February/049255.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-February/049255.html)
+
+Dear all,
+
+Please see the following call for papers for the 5th biennial Graduate Conference on South Asian Religions at the University of Toronto:
+
+
+The Department for the Study of Religion at the University of Toronto is pleased to announce its Fifth Biennial Graduate Conference on South Asian Religions, to be held October 3rd and 4th, 2019. The GCSAR is an inherently interdisciplinary conference, facilitating critical and scholastically rigorous conversations across historical periods, geographies, methodologies, and subject matter. We are delighted to welcome Ayesha Irani, Assistant Professor of Asian Studies at University of Massachusetts-Boston, as our keynote for the conference.
+
+We encourage single-paper proposals as well as panel submissions from graduate students working on South Asian traditions including, but not limited to, Islam, Sikhism, Hinduism, Buddhism, Jainism, Christianity, Judaism, and Zoroastrianism. We invite submissions from graduate students engaged in original research in disciplines including religious studies, women and gender studies, philosophy, anthropology, history, linguistics, sociology, area or diasporic studies, political science, and geography.
+
+Please submit a 300-word abstract, 5 keywords describing your proposal, and a CV to: southasianreligionsatutoronto at gmail.com<mailto:southasianreligionsatutoronto at gmail.com> by April 15th, 2019. Decisions will be communicated by May 15th, 2019.
+
+For more information, please visit the website conference webpage (http://bit.ly/GCSARUofT)
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190209/16c8dde8/attachment.htm>

@@ -1,0 +1,50 @@
++++
+title = "212 Nagaraj Paturi"
+date = "2015-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041456.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041456.html)
+
+Dear Prof. Artur Karp,
+
+1. Sanskritization is a process in the direction  just  opposite to the one
+being brought for direction by the thread initiator. It is the
+puranic/Hindu/Brahmanic side which does the absorption of local/tribal
+traditions in the process brought for discussion. In Sanskritization, the
+non-Sanskritic communities emulate the rituals and practices of the
+Sanskritic communities.
+
+2. Emulation or imitation of the class by the non-class is a process well
+recognized and well studied in the inductive empirical discipline of
+sociology. These studies are different from deductive Marxist studies.
+
+3. I did not name Professors MN Srinivas, Milton Singer etc. because the
+issues they were handling are the ones such as Sanskritization that are not
+relevant in the context of the present thread.
+
+4. Disciplines of Sociology and Anthropology have many explanations other
+than the political motives on the part of the adopter of the other
+culture, offered for the intercultural processes such as the one being
+discussed by the thread initiator.
+
+5. The thread initiator is justified in choosing one of the explanations
+for his study. It was with the considerations of propriety that I wanted to
+focus only on that approach and share my understanding that many books from
+the Marxist school of scholarship should be useful for the purpose of the
+thread initiator.
+
+Thanks for your patience.
+
+Warm regards,
+
+Nagaraj
+
+-- 
+Prof.Nagaraj Paturi
+Hyderabad-500044
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150707/309dc26b/attachment.htm>

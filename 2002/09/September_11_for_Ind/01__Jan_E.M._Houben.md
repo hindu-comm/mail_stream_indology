@@ -1,0 +1,47 @@
++++
+title = "01 Jan E.M. Houben"
+date = "2002-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-September/027082.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-September/027082.html)
+
+According to the Indology Archive of September
+2001 the events of the "eleventh" went entirely
+unnoticed. Justly so, because the focus of the
+List is on "classical Indian civilisation". Even
+then, although it is not widely known,
+Indologists have their own almost classical
+"September 11".
+
+Since Herodotus and esp. since F.W.J. Hegel,
+"history" is in the hands of "the West". "The
+West" makes and writes history, even in the East
+-- see now also Ranajit Guha, History at the
+Limit of World History, Columbia Univ. Press,
+2002. September 11 seems to have been an
+exception. At that moment "the East" manifested
+itself unexpectedly -- wrote history -- in "the
+West". It created an impact which redefined the
+relation between the continents and between the
+world religions. After all, it was on September
+11, 10 o'clock, that Swami Vivekananda's speech
+for the World Parliament of Religions, Chicago
+1893, took place -- exactly 108 years before the
+events on that other September 11, in 2001.
+(Swami Vivekananda spoke on Monday, whereas 11
+September in 2001 was on Tuesday.)
+
+The link between the two events was *perceived*
+and suggested to me last year by G.B. Palsule
+(author of biography in Sanskrit of Vivekananda).
+
+Jan Houben
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Finance - Get real-time stock quotes
+http://finance.yahoo.com
+
+
+

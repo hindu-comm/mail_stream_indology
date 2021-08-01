@@ -1,0 +1,4 @@
++++
+title = "Nyayabhusana of Bhasarvajna"
+
++++

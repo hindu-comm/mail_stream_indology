@@ -1,0 +1,21 @@
++++
+title = "59 Deshpande, Madhav"
+date = "2010-08-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-August/034673.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-August/034673.html)
+
+Dear Indologists,
+
+     Previously, the URL (http://results2.ap.nic.in/general/s1/index.html) used to open the website of the online version of the New Catalogus Catalogorum, but it is no longer opening.  Does anyone know a functioning URL to get to this website?  Thanks for your attention.
+
+Madhav M. Deshpande
+Professor of Sanskrit and Linguistics
+Department of Asian Languages and Cultures
+202 South Thayer Street, Suite 6111
+The University of Michigan
+Ann Arbor, Michigan 48104-1608, USA
+
+
+

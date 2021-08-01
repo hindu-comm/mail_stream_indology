@@ -1,0 +1,23 @@
++++
+title = "95 Richard Barz"
+date = "2000-08-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022316.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022316.html)
+
+I'd very much appreciate any information on the use of the Sanskrit term
+"agnikuNDa".
+
+Monier-Williams identifies it as "a pan with live coals" and "a hole or
+enclosed space for the consecrated fire" and a Hindi dictionary  calls it
+"a havan kuND", but these definitions don't say whether or not the word is
+a recognised technical term for an implement or feature in the Vedic
+sacrifice.
+
+Richard Barz
+Australian National University
+Canberra
+
+
+

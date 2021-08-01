@@ -1,0 +1,32 @@
++++
+title = "16 Dominik Wujastyk"
+date = "2009-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033541.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033541.html)
+
+It is with great sadness that I pass on the news of the death of Charles 
+Leslie, who pioneered the anthropological understanding of medicine in 
+Asia and especially India, and wrote on many topics, always casting 
+incisive new light.
+
+Amongst many achievements in a busy professional career, Charles Leslie, 
+with A. L. Basham, founded the International Association for the Study of 
+Traditional Asian Medicine (www.iastam.org) that continues to thrive. 
+IASTAM is holding a conference in Bhutan next month, at which two newly 
+inaugurated prizes in Charles Leslie's name will be announced.  Charles 
+knew about this, and was in email correspondence about it only a couple of 
+weeks ago.
+
+Charles died on Saturday August 15, 2009.  He is survived by Zelda, his 
+wife of 63 years, his sons Mario and Sam, his daughter Mira, and 
+grandchildren.
+
+
+
+-- 
+Dr Dominik Wujastyk
+
+
+

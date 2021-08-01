@@ -1,0 +1,20 @@
++++
+title = "70 Patrick Olivelle"
+date = "2007-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030881.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030881.html)
+
+Would anyone know the common meaning of a Gujarati word which when 
+given in Sanskrit is like this: ghaNTaala? This is given by Hemadri 
+in his Caturvargacintamani (3/1.492: gurjaradeze) in explaining the 
+Sanskrit term :ghaaNTika. I am also not quite sure about the exact 
+meaning of the Sanskrit term, which, in Visnu Smriti 45.25 appears to 
+indicate some kind of a bad person (in Hemadri he is listed as 
+apaankeya). Thanks.
+
+Patrick
+
+
+

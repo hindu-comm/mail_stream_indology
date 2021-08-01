@@ -1,0 +1,27 @@
++++
+title = "26 Dominik Wujastyk"
+date = "2008-02-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-February/031434.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-February/031434.html)
+
+Kielhorn's Paribhasendusekhara tr., i.e., vol.2, is now downloadable from
+
+  http://books.google.com/books?id=0cEIAAAAQAAJ&pg=PR6&dq=panini&lr=&as_brr=1#PPP9,M1
+
+as are several other valuable catalogues, reports and articles by 
+Kielhorn:
+
+  http://books.google.com/books?lr=&as_brr=1&q=franz+kielhorn&btnG=Search+Books
+
+Best,
+-- 
+Prof. Dominik Wujastyk
+Visiting Associate Professor (Spring Semester '08)
+Department of Asian Studies
+University of Texas at Austin
+http://www.utexas.edu/cola/depts/asianstudies/
+
+
+

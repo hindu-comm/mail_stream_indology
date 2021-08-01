@@ -1,0 +1,40 @@
++++
+title = "107 Enrica Garzilli"
+date = "2006-10-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030118.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030118.html)
+
+p.s. The link to the pictures is http://asiatica.org/misc/pleasure_gardens/
+
+**********************************************************
+Dr. Enrica Garzilli
+University of Macerata, (Italy)
+Editor-in-Chief IJTS-JSAWS, Asiatica Association 
+http://www.asiatica.org
+**********************************************************
+  ----- Original Message ----- 
+  From: Enrica Garzilli 
+  To: Multiple recipients of list RISA-L ; h-asiA at H-NET.MSU.EDU ; INDOLOGY at yahoogroups.com ; ScholarlyServices at yahoogroups.com ; Indology 
+  Sent: Sunday, October 22, 2006 3:00 PM
+  Subject: Asiatica and Mughal art
+
+
+  Dear Colleagues,
+
+  We have just published nine wonderful pictures and a presentation of the exhibition "Pleasure Gardens and Garden Tombs: Courtly Arts under the Mughals" held at the Museum fr Indische Kunst, Berlin - Dahlem (Germany). The exhibition is culled from significant German private collections and three of the Collections of the State Museums of Berlin. 
+
+  Enjoy!
+
+  Enrica Garzilli
+
+  **********************************************************
+  Dr. Enrica Garzilli
+  University of Macerata, (Italy)
+  Editor-in-Chief IJTS-JSAWS, Asiatica Association 
+  http://www.asiatica.org
+  **********************************************************
+
+
+

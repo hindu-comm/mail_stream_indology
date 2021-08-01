@@ -1,0 +1,75 @@
++++
+title = "108 Walter Slaje"
+date = "2017-07-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-July/046223.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-July/046223.html)
+
+Thanks! Its ultimate source was what has become a fee-based provider now
+called “Liberation Philology” (http://www.libphil.ca/sanskrit.php). We have
+removed both sets from our website.
+Kind regards, WS
+
+
+2017-07-03 5:00 GMT+02:00 Hock, Hans Henrich <hhhock at illinois.edu>:
+
+> Unfortunately, the 3000-list is full of mistakes, and there is no way of
+> correcting them (the document is protected).
+>
+> All the best,
+>
+> Hans Henrich Hock
+>
+>
+> On 27 Jun 2017, at 00:28, Walter Slaje via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Two basic vocabulary sets containing 100 and 3000 Sanskrit words
+> respectively in Devanāgarī script, Roman transliteration and English
+> translation can be downloaded from here (under "Sanskrit Grundwortschatz"):
+> http://www.indologie.uni-halle.de/studium/studienmaterialien/#
+> anchor2397405
+>
+> Regards,
+> WS
+>
+>
+> 2017-06-27 7:00 GMT+02:00 Dean Michael Anderson via INDOLOGY <
+> indology at list.indology.info>:
+>
+>> Does anyone know of any Sanskrit flash cards?
+>>
+>> Or a database with a list of Sanskrit words and their translations that
+>> might be used to create a database for flash cards?
+>>
+>> Best,
+>>
+>> Dean Anderson
+>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170703/abf930c5/attachment.htm>

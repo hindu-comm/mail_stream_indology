@@ -1,0 +1,62 @@
++++
+title = "42 Alex Passi"
+date = "2006-06-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-June/029894.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-June/029894.html)
+
+An all-time favorite in grammars and excercise books!
+It was mentioned in Boehtlingk's Indische Spruche, vol. III No, 5848,  
+p. 246-47, variants: Nos. 5747,  7345. Sources given: Caa.nakya, from  
+Haeberlin's Kaavya-Sa'ngraha, A Sanskrit Anthology, Calcutta, 1847,  
+Weber, V.rddha-Caa.nakya, 3.18. This text (Caa.nakya-niiti-darpa.na)  
+is now freely available on-line, see http://www.granthamandira.org/ 
+details.php?image_id=478.
+
+Alex Passi.
+
+On 28/06/2006, at 2:39 PM, Allen W Thrasher wrote:
+
+I don't know right off, but the rest of the sloka is:
+
+PaJcavarSANi lAlayet, daZavarSANi TADayet
+
+Allen
+
+
+Allen W. Thrasher, Ph.D., Senior Reference Librarian
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the  
+Library of Congress.
+
+>>> swantam at ASIANETINDIA.COM 06/28/06 8:10 AM >>>
+Hello,
+
+"praapte tu SoDaSe varSe putram mitravadaacaret"
+
+Please tell me, in which text does this exist?
+
+Thanks in advance
+
+K.Maheswaran Nair
+University of Kerala
+India
+
+Alex (Alessandro) Passi,
+Department of Linguistic and Oriental Studies
+University of Bologna,
+Via Zamboni 16
+Bologna, 40126, Italy.
+
+a.passi at alma.unibo.it
+alexpassi at gmail.com
+phone +39-338.269.4933
+fax +39-059-975.0280
+
+
+

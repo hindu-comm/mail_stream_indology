@@ -1,0 +1,30 @@
++++
+title = "80 Ashok Aklujkar"
+date = "2013-02-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-February/037413.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-February/037413.html)
+
+The book and its CDs are very much available from
+5346 Opal Place
+Richmond, BC
+Canada V7C 5B4
+
+It is also being used as a textbook at some universities. 
+
+Detailed information can be sent to those who email to the address <vidyut.aklujkar at gmail.com> or call 1-604-274-5353.
+
+Amazon's "not available" note against the title "Sanskrit: an Easy Introduction to an Enchanting Language" misleads many interested persons. I requested Amazon more than once to change the wording to "not available from us" if not to the more helpful "available from the publisher."  It refuses!
+
+An Italian adaptation of the book came out from the publisher Hoepli in Milano last year. 
+
+ashok aklujkar
+
+
+On 2013-02-01, at 11:34 AM, Patrick Olivelle wrote:
+
+Ashok Aklujkar's Sanskrit book had audio cassettes along with the printed books. I am not sure whether these are still available, but Ashok should be able to let us know. 
+
+
+

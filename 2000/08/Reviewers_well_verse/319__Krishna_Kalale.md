@@ -1,0 +1,30 @@
++++
+title = "319 Krishna Kalale"
+date = "2000-08-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022518.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022518.html)
+
+Dr. SMS Chari has written a new book - "Philosophy of the Upanisads, a
+comparitive assessment based on the bhasyas of Samkara, Ramanuja & Madhva".
+
+Dr. Chari is a seasoned "Vedanta Expert" with 5 or 6 books ( in English)  to
+his credit.  He has studied under traditional scholars in India and is
+active in Vedanta for the last 60 or so years.  His previous book was
+"Philosophy of the Brahmasutras - a comparitive assessment based on the
+bhasyas of Samkara, Ramanuja & Madhva
+
+He wanted a few reviewers for his current book.
+
+I would appreciate if anyone can suggest experts who have studied different
+commentaries on the Upanisads to review this book. The book is written in
+English.  I had a chance to look into this book myself.  I did study under
+him while he was preparing these two books.  I feel that it is a book that
+is "one of its kind".
+
+Krishna Kalale
+kkalale1 at san.rr.com
+
+
+

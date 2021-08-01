@@ -1,0 +1,38 @@
++++
+title = "17 Cohen, Signe"
+date = "2004-09-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-September/028573.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-September/028573.html)
+
+Could you be thinking if the Sigala Jataka, which features a jackal unhappily in love with a lioness? The jackal in this story does not marry her, however, and eventually dies...
+
+Best regards,
+
+Signe Cohen
+
+
+
+________________________________
+
+From: Indology on behalf of McComas Taylor
+Sent: Sat 9/4/2004 1:15 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Lioness married to a jackal
+
+
+
+Dear friends
+
+May I ask for your patient assistance again? I have seen somewhere a tale
+about a jackal who married a lioness. Can any of you good folk tell me where
+I might find an original text? I don't think it is anywhere in the
+PaJcatantra or Hitopadeza cycles. Is it a JAtaka?
+
+With thanks in advance
+
+McComas
+
+
+

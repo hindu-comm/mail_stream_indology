@@ -1,0 +1,72 @@
++++
+title = "151 Antonio Ferreira-Jardim"
+date = "2018-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048708.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048708.html)
+
+Hi Clemency,
+
+The photographs are the intellectual property of the researcher and can use
+them as they see fit - unless the terms of sale of the manuscript to the
+museum contained restraint of use clauses - which may or may not be legally
+enforceable in an Indian court.
+
+Kind regards,
+Antonio
+UQ
+Australia
+
+On Wed., 31 Oct. 2018, 3:25 pm Clemency Montelle via INDOLOGY, <
+indology at list.indology.info> wrote:
+
+> Dear colleagues,
+>
+> A researcher purchased an original Sanskrit manuscript, date of copying
+> unknown, from a dealer in India, and made photocopies of it.  The original
+> manuscript was then donated to a manuscript library in India. (The
+> manuscript never left India so there is no conflict with the 1972
+> Antiquities and Art Treasures Act's export restrictions.) The researcher
+> now wants to use some of the photocopied images of the manuscript---which
+> were made while the researcher owned the manuscript---in a publication.
+>
+> Who needs to give permission for the use of those photocopied images?  The
+> researcher (and past owner of the original manuscript) who made and owns
+> the photocopies, the manuscript library which is the present owner of the
+> original manuscript, or both?
+>
+> Thanks to any insight anyone might have in this particularly complicated
+> question!
+>
+> Best wishes,
+> Clemency
+>
+> ----
+>
+> Dr. Clemency Montelle
+>
+> Associate Professor
+>
+> School of Mathematics and Statistics
+>
+> University of Canterbury | Te Whare Wananga o Waitaha
+>
+> Private Bag 4800, Christchurch 8140
+>
+> NEW ZEALAND
+>
+> http://www.math.canterbury.ac.nz/~c.montelle/
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181031/1c9edc6f/attachment.htm>

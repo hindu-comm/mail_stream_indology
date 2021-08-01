@@ -1,0 +1,22 @@
++++
+title = "43 Vanessa Sasson, Dr."
+date = "2012-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-September/036958.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-September/036958.html)
+
+Dear colleagues,
+
+I am looking for a few new film recommendations for my Introduction to Hinduism course. I am embarrassed to admit that I still use the "Long Search Series" (which I love dearly), but our institutional copy is nearing the end of its life and I am certain that much better films have been produced since the 1970's! I don't use films very much and Hinduism is not actually my specialty, so I am very much out of the loop on this topic. The H-Buddhism list recently had a wonderful online conversation about good films to use for Buddhism courses and we compiled an extensive list of useful resources. I am hoping a similar phenomenon might take place here. I would be happy to compile all the recommendations that circulate as a result of this query and send them to the list.
+
+Sincerely,
+
+Vanessa R. Sasson
+Religious Studies
+Marianopolis College
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120916/b0c5f059/attachment.htm>

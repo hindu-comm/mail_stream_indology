@@ -1,0 +1,31 @@
++++
+title = "62 Marion Rastelli"
+date = "2002-10-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-October/027180.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-October/027180.html)
+
+Dear colleagues,
+
+D.B.K. Rangachari (The Sri Vaishnava Brahmans. Bulletin of the Madras
+Government Museum. New Series. General Section 2, 2. Madras 1930 [first
+repr. Delhi 1986]) writes: "Amongst the Archakas those who follow the
+Bodhaayana, Vaikhaanasa and Zaunakaadi suutrams are entitled to worship
+God in temples. This is so as rules pertaining to worship are given only
+in the Grihya suutras of these three suutras." (p. 100)
+Does anyone know what is meant by "Zaunakaadisuutra"?
+I have two associations:
+1) The KauzikagRhyasuutra of the Zaunakazaakhaa of the Atharvaveda.
+2) The AAzvalaayanagRhyasuutra (according to a legend, Zaunaka was the
+teacher of AAzvalaayana).
+I would greatly appreciate any further ideas or references.
+
+Yours sincerely,
+
+Marion Rastelli
+Institute for the Cultural and Intellectual History of Asia
+Austrian Academy of Sciences
+
+
+

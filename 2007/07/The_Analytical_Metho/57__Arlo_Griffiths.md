@@ -1,0 +1,31 @@
++++
+title = "57 Arlo Griffiths"
+date = "2007-07-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-July/031011.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-July/031011.html)
+
+BOOK ANNOUNCEMENT
+
+Toshihiro Wada
+The Analytical Method of Navya-Nyaya
+Gonda Indological Studies volume XIV
+Groningen, Egbert Forsten - 2007
+ISBN 90 6980 153 1
+
+For information on how to obtain this book, consult <www.forsten.nl>  
+(Indology/GIS).
+
+Arlo Griffiths
+Instituut Kern, Universiteit Leiden
+Postbus 9515
+2300 RA Leiden, the Netherlands
+
+phone: +31-(0)71-5272622
+fax: +31-(0)71-5272956
+email: <arlo.griffiths at let.leidenuniv.nl>
+<www.kerninstitute.leidenuniv.nl>
+
+
+

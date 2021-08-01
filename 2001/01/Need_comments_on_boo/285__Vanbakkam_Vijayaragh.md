@@ -1,0 +1,35 @@
++++
+title = "285 Vanbakkam Vijayaraghavan"
+date = "2001-01-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025093.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025093.html)
+
+On Mon, 29 Jan 2001 05:40:44 -0000, Vidyasankar Sundaresan
+<vsundaresan at HOTMAIL.COM> wrote:
+
+>From -
+>
+>>3. D.N.Jha's review of Trautman's Aryans and British India at
+>>http://www.indolink.com/Book/archive.html
+>
+>"...some scholars in contemporary India have tried to whip up the Aryanness
+>of the Hindus as against the followers of Islam. The degree of their
+success
+>is difficult to assess but one thing is quite clear: the champions of the
+>idea of the Aryan as a race in the biological sense today have much in
+>common with our erstwhile imperial masters."
+>
+>The question is whether these said people think of Aryan as a "race
+>in the biological sense", when they talk of the Aryanness of Hindus.
+>For one, I doubt if many have the sophistication to distinguish a
+>false idea of "biological race" from other equally (or more) false
+>ideas of race.
+
+The American Anthropological association has decided that the idea of race
+itself is unscientific with no basis in biology and has asked the US Govt.
+to drop race as a category in census.
+
+
+

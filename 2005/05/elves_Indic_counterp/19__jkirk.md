@@ -1,0 +1,65 @@
++++
+title = "19 jkirk"
+date = "2005-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-May/029193.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-May/029193.html)
+
+Thanks for clarifying this thread's history.....
+Yes Tolkien seems to have been most particular about his different
+characters.
+JK
+================
+----- Original Message -----
+From: "Valerie J Roebuck" <vjroebuck at MACUNLIMITED.NET>
+To: <INDOLOGY at liverpool.ac.uk>
+Sent: Monday, May 23, 2005 12:00 PM
+Subject: Re: elves: Indic counterpart?
+
+
+> The thread began with this enquiry, but took off in various
+> directions afterwards:
+>
+> At 7:43 pm -0500 7/2/05, Allen W Thrasher wrote:
+> >A Thai friend is trying to translate the poem on the Ring in the Lord of
+> >the Rings into Thai, for a multilingual page of such translations.  She
+> >asked me for help on what would be a good translation for "elves," since
+> >Thai lore of supernatural beings is largely based on Indian. ...
+>
+> Allen found out afterwards that there was already a Thai translation
+> of the whole of The Lord of the Rings in existence, but I don't think
+> he has actually seen a copy yet.  (I for one am very interested to
+> know how these sorts of problems are handled.)
+>
+> Whatever may be the situation elsewhere, in Tolkien's works Elves and
+> Dwarves are quite distinct beings.
+>
+> Valerie J Roebuck
+> Manchester, UK
+>
+> At 5:21 pm -0600 22/5/05, jkirk wrote:
+> >I'm revisiting this question--wasn't it prompted by a query on the
+> >translation of elf into Hindi for exhibiting the Lord of the Rings movie
+in
+> >India?  Seems the translators could have used the word vaaman -- dwarf. A
+> >dwarf in folklore is close to an elf, after all.
+> >Joanna K.
+> >============
+> >>  aspects of yak.sa-lore seem relevant, too, particularly
+> >>  associations with vegetation and wealth,
+> >>  though they have a malevolent side which would
+> >>  not do for Tolkein's elves (though perhaps accords
+> >>  with the mythology more generally).
+> >>  On this, of course, see Coomaraswamy.
+> >>
+> >>  And what of the vidyaadharas and siddhas, as known
+> >>  in the epics? Elvish longevity and command of wonders
+> >>  might incline one to favor the vidyaadharas here.
+> >>
+> >>  MK
+> >>
+>
+
+
+

@@ -1,0 +1,33 @@
++++
+title = "141 Dominik Wujastyk"
+date = "2000-12-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024250.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024250.html)
+
+Dear Sanjay,
+
+As I mentioned to you earlier, I have the highest regard for the Shri
+Venkateshwar Steam Press, and I am delighted to have been able to include
+a link to your web pages from the INDOLOGY webstite.
+
+However, please note that the INDOLOGY discussion list is purely for
+academic matters, and it is absolutely forbidden to use the list for
+advertising or commercial promotion.
+
+May I ask you to limit your postings to the list to matters relating to
+actual research in indology.
+
+Authors are positively encouraged to send news to INDOLOGY about any
+recent scholarly publications, but publishers are asked not to use the
+list for promoting their companies; the proper outlet for that is their
+own websites, which are linked to INDOLOGY.
+
+Many thanks,
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

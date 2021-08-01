@@ -1,0 +1,29 @@
++++
+title = "21 Richard P. Hayes"
+date = "2006-03-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-March/029668.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-March/029668.html)
+
+What Peter M. Scharf wrote on the Indian inference schema (which I
+resist calling a syllogism) is exactly right (or at least is in exact
+agreement with what I believe---we could both be wrong). If the
+classical Indian schema is taken as a whole, that is, if how one arrives
+at vyāpti is taken into account, then the schema as a whole cannot yield
+the certainty of a deductive argument. It can yield only a probable (but
+perhaps highly reasonable) conclusion. 
+
+That it is fallible is its greatest strength, I would dare to opine. But
+that is perhaps a matter of taste. I thrive on uncertainty and get
+overcome with nausea when people start having fits of certainty about
+things. The only cure I have found for imagined certainty is a healthy
+dose of mockery.
+
+-- 
+Richard Hayes
+Department of Philosophy
+University of New Mexico
+
+
+

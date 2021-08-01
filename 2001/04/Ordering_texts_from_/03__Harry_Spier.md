@@ -1,0 +1,45 @@
++++
+title = "03 Harry Spier"
+date = "2001-04-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/025951.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/025951.html)
+
+Dear Lubomir,
+
+Many thanks!
+
+Harry
+
+>From: Lubomir Ondracka <ondracka at TIGER.VSCHT.CZ>
+>Reply-To: Indology <INDOLOGY at LISTSERV.LIV.AC.UK>
+>To: INDOLOGY at LISTSERV.LIV.AC.UK
+>Subject: Re: Ordering texts  from K.S.T.S. series
+>Date: Sun, 1 Apr 2001 13:29:52 METDST
+>
+> > Also in particular I'm looking for ziva dRSTi no. LIX in the series .
+>
+>You can get a good reprint of this title (ed. by Madhusudan Kaul) from the
+>Rashtriya Sanskrit Sansthan in New Delhi for Rs 24! It was published by
+>Aroma Publishing House (New Delhi) in 1991.
+>
+>--
+>  Lubomir Ondracka
+>=============================================
+>  Institute of Philosophy & Religious Studies
+>  Charles University
+>  Namesti Jana Palacha 2
+>  116 38 Prague 1
+>  Czech Republic
+>---------------------------------------------
+>  e-mail:   ondracka at tiger.vscht.cz
+>---------------------------------------------
+>  phone:    00420-2-21619356
+>=============================================
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+
+

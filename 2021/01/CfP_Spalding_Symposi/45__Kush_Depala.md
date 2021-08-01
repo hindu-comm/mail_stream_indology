@@ -1,0 +1,62 @@
++++
+title = "45 Kush Depala"
+date = "2021-01-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-January/053933.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-January/053933.html)
+
+Dear Indology list members,
+
+A reminder that the CfP deadline is in ten days' time. Apologies for
+cross-posting.
+Call for papers: 2021 Spalding Symposium
+<https://spaldingsymposium.org/2020/12/06/call-for-papers-2021-spalding-symposium/>
+
+*Spalding Symposium on Indian Religions*
+
+
+Call for Papers – Deadline 22 January 2021:
+
+We invite proposals for papers for the 46th Spalding Symposium on Indian
+Religions, which will be held *online*, on 23-25 April 2021. Our purview
+includes both religions of South Asian origin wherever in the world they
+are being practised, and those of non South Asian origin present within
+South Asia. We welcome papers based upon all research methods, including
+textual, historical, ethnographic, sociological and philosophical.
+
+
+Presenters are allocated forty minutes for their paper and twenty
+minutes for discussion. There is no conference fee, but all presenters and
+attendees must register. We also welcome proposals from doctoral students,
+who will be allocated twenty minutes for their paper and ten
+minutes for discussion.
+
+
+We are delighted to announce our keynote speakers:
+
+   - Dr Jacqueline Suthren Hirst, who recently retired from Manchester
+   University, UK
+   - Prof. Oliver Freiberger of the University of Texas at Austin, USA
+
+If you would like to give a presentation, please send a title and abstract
+(maximum 500 words) to the Spalding Symposium committee:
+spaldingsymposium1 at gmail.com, by 22 January 2021.
+
+Best wishes,
+
+Kush on behalf of the Spalding Symposium organising committee
+
+The Spalding Symposium organising committee:
+Dr Avni Chag (a.chag at soas.ac.uk), Dr Karen O'Brien-Kop (
+Karen.OBrien-Kop at roehampton.ac.uk), Dr Brian Black (b.black at lancaster.ac.uk
+),
+and Kush Depala (kush.depala at stud.uni-heidelberg.de).
+
+
+Kush
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210113/b3093b6d/attachment.htm>

@@ -1,0 +1,21 @@
++++
+title = "15 DiSimone Charles"
+date = "2008-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-June/031756.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-June/031756.html)
+
+Valerie,
+
+Bukkyo Dendo Kyokai (Society for the the Promotion of Buddhism) provides introductory literature in multiple languages www.bdkamerica.org.  I do not know if Farsi is one of these languages however.
+
+Good luck!
+Charles DiSimone
+Berkeley, USA> Date: Sun, 15 Jun 2008 19:39:58 +0100> From: vjroebuck at MACUNLIMITED.NET> Subject: Buddhism in Farsi?> To: INDOLOGY at liverpool.ac.uk> > This is a request I received from someone who is putting together an > inter-faith slot on a Muslim radio station: does anyone know of any > introductory materials on Buddhism in Farsi?> > Valerie J Roebuck> Manchester, UK> > Apologies for cross-posting.
+_________________________________________________________________
+Enjoy 5 GB of free, password-protected online storage.
+http://www.windowslive.com/skydrive/overview.html?ocid=TXT_TAGLM_WL_Refresh_skydrive_062008
+
+
+

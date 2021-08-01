@@ -1,0 +1,35 @@
++++
+title = "57 Plamen Gradinarov"
+date = "2004-12-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028866.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028866.html)
+
+As promised, the universal scholarly communication and content
+management system has been set up for holiday experiments.
+
+http://www.indopedia.org
+
+Any page is open for editing, the major task being the categorial
+framework. Every change is documented in a separate version of the
+article changed. So everyone is invited to change and add whatever
+deemed necessary.
+
+The base code is Western European, but in the end of the testing period
+it will be changed to UTF-8 to allow for full-fledged diacritics,
+Devanagari, and other Indic and Eastern scripts.
+
+Why Wikipedia fork? Because there is not even an article on Indology in
+the Wikipedia, and because most of the terminological entries are not
+appropriate there, being redirected to another open project called
+Wiktionary. Which is clearly far away from the Indology.
+
+If there is interest to this project, a special discussion  forum can be
+set up.
+
+Best regards,
+Plamen
+
+
+

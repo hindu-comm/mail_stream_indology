@@ -1,0 +1,25 @@
++++
+title = "78 David Donald Drewes"
+date = "2008-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-April/031581.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-April/031581.html)
+
+The University of Manitoba Department of Religion and Asian Studies Centre 
+will shortly be advertising for a sessional instructor to teach courses in 
+Sanskrit, South Asian Civilization, and World Religions during the 2008-2009 
+regular session.  Although the teaching positions for these three courses 
+will be advertised separately, qualified applicants may apply to teach all 
+three. Masters degree in appropriate field required; A.B.D. or Ph.D. 
+preferred. For more information, please contact Dr. David Drewes at 
+d_drewes at umanitoba.ca.
+
+David Drewes
+Assistant Professor
+University of Manitoba
+Winnipeg, MB
+Canada
+
+
+

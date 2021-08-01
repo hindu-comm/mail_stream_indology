@@ -1,0 +1,12 @@
++++
+title = "264 Richard Gwyn Thomas"
+date = "2000-10-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023170.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023170.html)
+
+I am studying the archaeology of Champa (Vietnam), and in the course of my work I have been looking at the inscriptions of the kings of that country. Beginning in the 9th century AD the kings of Champa (particularly the usurpers) start to reference their lineages back to a mythical figure named Uroja. In the first inscription in which this appears the gender of Uroja is slightly ambiguous as he/she is referred to as a 'receptacle' the 'dust beneath the feet of Cambhubhadesvara and in the context of the Bhuddist inscription, this would seem to be a feminine receptacle world. However, in later sivaite inscriptions Uroja is definately referred to as a mythical king. Does anyone know the basis for this figure, Uroja within an Indic context?  
+
+
+

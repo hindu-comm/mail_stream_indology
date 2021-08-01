@@ -1,0 +1,45 @@
++++
+title = "14 Heinz Werner Wessler"
+date = "2000-01-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019632.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019632.html)
+
+Artur Karp schrieb:
+
+> I need the freshest possible data on major languages of India - could you
+> please direct me to a web page with solidly grounded statistics (I know of
+> Ethnologue)?
+>
+> How many constitutional languages does India possess at present?
+
+Dear Artur Karp,
+
+check
+
+http://www.censusindia.net/cendat/languagemenu.html
+
+and tables 25 and 26 in particular for the 1991 census data.
+
+Keep in mind that the information of the census always has to be interpreted
+carefully, it is not simply to be taken as the objective truth. Compare for
+example Krishna, Sumi, India's Living Languages : The Critical Issues, New Delhi
+[etc.] 1991.
+
+The Indian Union has 18 "scheduled languages" according to the 8th amendmend of
+the constitution. It had been less earlier - first of all, Sindhi was added, and
+some years ago Nepali (as the second exterritorial language [English isn't
+"scheduled"]), Konkani and Manipuri.
+
+Yours,
+
+HWW
+
+Dr. Heinz Werner Wessler
+Bergstr.27A
+D-53844 Troisdorf
+Fon/Fax +49-228-455125
+
+
+

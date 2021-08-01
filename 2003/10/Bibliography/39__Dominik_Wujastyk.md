@@ -1,0 +1,36 @@
++++
+title = "39 Dominik Wujastyk"
+date = "2003-10-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-October/027960.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-October/027960.html)
+
+> that can supplement it. What is also the best intro to Vyakarana for
+> those who have not yet read Panini.
+
+Dear Patrick,
+
+Have you had a look at P-S Filliozat's little "Que sais-je?" volume, also
+available in English tr.:
+
+Filliozat, Pierre-Sylvain
+Title Details:
+The Sanskrit language : an overview : history and structure, linguistic
+and philosophical representations, uses and users / Pierre-Sylvain
+Filliozat ; translated from the French by T.K. Gopalan
+Publisher:
+Varanasi : Indica Books, 2000
+Physical desc.:
+135 p ; 23 cm
+ISBN/ISSN:
+8186569170
+
+It has quite a lot on Panini, what it means to be a Pandit, and so on.
+It's not an introduction to the sastra as such, but a very good overview
+of the social and intellectual background of Sanskrit.
+
+Dominik
+
+
+

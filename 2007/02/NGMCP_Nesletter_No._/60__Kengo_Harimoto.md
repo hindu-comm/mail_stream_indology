@@ -1,0 +1,40 @@
++++
+title = "60 Kengo Harimoto"
+date = "2007-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-February/030547.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-February/030547.html)
+
+Dear Colleagues,
+
+Some of you might have noticed that our server was down over the  
+weekend.  It is up again, and we have an improved version of our  
+Newsletter, no. 3, with some bug-fixes.  (Thanks for the comments  
+that led to corrections.)  Some might want to download it again.
+
+The files can be accessed from:
+
+http://www.uni-hamburg.de/fachbereiche-einrichtungen/indologie/ngmcp/ 
+newsletter_e.html
+
+or if the site has not been updated, one can obtain the PDF files  
+directly from:
+
+http://134.100.72.204:3000/newsletter/ngmcpnl3_light.pdf
+(about 1.7 MB, with low resolution graphics for onscreen viewing and  
+printing at home/office)
+
+http://134.100.72.204:3000/newsletter/ngmcpnl3.pdf
+(about 7 MB, with high resolution graphics)
+
+In a few weeks, hardcopies of Newsletter 3 will be ready.  We will  
+send a copy to anyone who requests one.  Requests should be addressed  
+to kengo.harimoto at uni-hamburg.de (DO NOT reply to this message; it  
+will be posted to INDOLOGY.)
+
+-- 
+kengo harimoto
+
+
+

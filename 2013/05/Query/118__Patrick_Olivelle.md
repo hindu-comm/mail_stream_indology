@@ -1,0 +1,14 @@
++++
+title = "118 Patrick Olivelle"
+date = "2013-05-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-May/037886.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-May/037886.html)
+
+A colleague who is not a member of Indology asked me to post this. Does anyone know of work done on the term "mata" -- as view, ideology, philosophy, religion (often used this was in 19th century Indian writing). Perhaps you all know a word study on this ubiquitous term. Thanks.
+
+Patrick
+
+
+

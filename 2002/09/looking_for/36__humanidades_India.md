@@ -1,0 +1,23 @@
++++
+title = "36 humanidades India"
+date = "2002-09-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-September/027117.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-September/027117.html)
+
+My daer Sirs:
+I am requesiting for your help. Dr. Prasada Gokhale, had how the follow discoveries:
+1.- In Mohenjodaro, table dated 2600 B.C. is found which depicts Lord Krishna in his cildhood days. (Agrawal, V.S. India in the days of Panini, 1953 apud. mackay s report part I)
+2.- On one excavation from Egytian Pyramid, date 3000 B. C., is found engraved a verse of Bhagavad-gita. (Nava Bharata 18-4-67)
+Some body of your educated persons could give me more infortmation about this founds????.
+Horacio F. Arganis
+U A deC
+www.uadec. org
+
+
+_________________________________________________________
+http://www.latinmail.com.  Gratuito, latino y en espa�ol.
+
+
+

@@ -1,0 +1,71 @@
++++
+title = "09 Mahony, Bill"
+date = "2004-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028830.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028830.html)
+
+Dear INDOLOGY Colleagues,
+
+Please feel free to announce these dissertation research fellowships to any
+students you feel would be qualified and interested in applying.
+
+Thank you,
+
+William K. Mahony
+Professor of Religion
+Davidson College
+President,
+Muktabodha Indological Research Institute.
+
+***********
+
+
+NAME OF FELLOWSHIP:
+
+Muktabodha Indological Research Institute
+Dissertation Research Fellowships in Hindu Studies
+
+
+AMOUNT OF AWARD
+
+$10,000 per student, to be used between June 2005 and December 2006.
+
+
+QUALIFICATIONS:
+
+Applicants must have completed their doctoral coursework in a Religion,
+South Asian Studies, or related program and are now undertaking their
+dissertation research. Fellows will normally use their grants to support
+them while undertaking research in India.
+
+
+FIELDS OF STUDY:
+
+Preference will be given to the study of textual sources of the Hindu
+Tantric tradition. However, applications from other fields of Hindu studies
+are also welcome.
+
+
+APPLICATION DEADLINE:
+
+February 15, 2005.
+
+
+ANNOUNCEMENT OF AWARDS:
+
+Approximately March 15, 2005.
+
+
+FOR APPLICATION MATERIALS, PLEASE CONTACT:
+
+Muktabodha Indological Research Institute
+www.muktabodha.org
+info at muktabodha.org
+P. O. Box 8585
+Emeryville, CA  94662  USA
+510-655-2170
+
+
+

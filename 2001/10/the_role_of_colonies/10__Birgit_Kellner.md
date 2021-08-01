@@ -1,0 +1,35 @@
++++
+title = "10 Birgit Kellner"
+date = "2001-10-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-October/026392.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-October/026392.html)
+
+Dear list-members,
+
+this is a relatively modern question pertaining to colonial history in
+India: I recall having read, but not where, about the phenomenon that
+British governance in colonies - India, in particular - played a crucial
+role in establishing administrative and political practices on the British
+isles themselves - contrary to common belief, it was not the case that
+forms of administration which already existed in Britain were simply
+exported to the colonies; rather, forms of administration which developed
+in the colonies were later taken "back home". In other words, colonies
+served as a kind of "testing ground" for administrative practices.
+
+Unfortunately, I don't remember where I read this, nor am I sure that this
+specific type of interaction between colonial and "home" governance was
+postulated expressly with regards to administration. It might also have
+been described within a wider framework of customs and social values.
+
+I would appreciate any bibliographical references on this topic,
+
+best regards,
+
+Birgit Kellner
+Institute for South Asian, Tibetan and Buddhist Studies
+Vienna University
+
+
+

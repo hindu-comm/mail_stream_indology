@@ -1,0 +1,18 @@
++++
+title = "34 Chris Eade"
+date = "1999-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-August/018082.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-August/018082.html)
+
+As a consequence of computer dating some 500 South Indian inscriptions I am
+interested to know whether scholars are in the habit of assuming that the
+tithi mentioned in historical texts is considered to be necessarily the one
+that is in force at dawn (6 a.m.).
+        What do members think? Do you adopt the dawn tithi as the one that
+is in force for that entire day, or do you look to the tithi that might
+have come into action later in the day?
+
+
+

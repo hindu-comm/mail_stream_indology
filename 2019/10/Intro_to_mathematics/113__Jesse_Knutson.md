@@ -1,0 +1,89 @@
++++
+title = "113 Jesse Knutson"
+date = "2019-10-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-October/051202.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-October/051202.html)
+
+Thanks so much Eric and thanks also to Ramkrishna Bhatt for a ref to his
+new book The Origins of Geometry in India.
+
+On Sat, Oct 26, 2019, 11:33 PM Eric Gurevitch <ericmgurevitch at gmail.com>
+wrote:
+
+> Dear Jesse,
+>
+> The HAMSI-website run by Clemency Montelle and Kim Plofker contains a
+> useful bibliography that is slightly expanded from that found in Plofker's
+> excellent book. It can be accessed here:
+> http://www.hamsi.org.nz/p/annotated-bibliography.html
+>
+> all the best,
+> Eric
+>
+> Eric Gurevitch
+>
+> PhD Candidate, South Asian Languages and Civilizations and
+>
+> Committee on Conceptual and Historical Studies of Science
+>
+> University of Chicago
+>
+> gurevitch at uchicago.edu
+>
+> On Sun, Oct 27, 2019 at 1:58 PM Alessandra Petrocchi via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear Jesse,
+>> just to expand a bit the reading list: if your student or yourself would
+>> like to investigate this subject further, I also would recommend to look
+>> at the publications by the following scholars, who are experts in this
+>> field as well: Takao Hayashi, Agathe Keller, Takanori Kusuba, Clemency
+>> Montelle, Francois Patte,  and myself.
+>>
+>> Best wishes,
+>> Alessandra.
+>>
+>> Dr Alessandra Petrocchi
+>> Leverhulme Trust Early Career Research Fellow
+>> Faculty of Linguistics Philology and Phonetics
+>> University of Oxford
+>>
+>>
+>> On Sat, October 26, 2019 21:43, Jesse Knutson via INDOLOGY wrote:
+>> > Dear Friends, I am asking on behalf of a student with a math background,
+>> > but am also interested for myself, despite very limited math: Can you
+>> > recommend some good introductions to Sanskrit mathematical traditions?
+>> > Best,J
+>> > _______________________________________________
+>> > INDOLOGY mailing list
+>> > INDOLOGY at list.indology.info
+>> > indology-owner at list.indology.info (messages to the list's managing
+>> > committee) http://listinfo.indology.info (where you can change your
+>> list
+>> > options or unsubscribe)
+>> >
+>>
+>>
+>> --
+>> Dr Alessandra Petrocchi
+>> Leverhulme Trust Early Career Research Fellow
+>> Faculty of Linguistics Philology and Phonetics
+>> University of Oxford
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191027/2b11a9de/attachment.htm>

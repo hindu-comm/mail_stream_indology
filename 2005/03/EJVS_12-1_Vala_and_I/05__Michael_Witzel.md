@@ -1,0 +1,56 @@
++++
+title = "05 Michael Witzel"
+date = "2005-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-March/029057.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-March/029057.html)
+
+The Electronic Journal of Vedic Studies is now beginning its 11th year
+(after completing 10 vols. and one special volume on Soma).
+
+We now start off with vol. 12, issue 1 (March 1, 2005), 1-69,
+containing a longish paper on comparative mythology:
+
+"Vala and Iwato. The Myth of the Hidden Sun in India, Japan, and
+beyond."
+
+Similarities and congruences across Eurasia and the Americas (Laurasia)
+are investigated, and a scenario is proposed for the surprisingly close
+relationship between the Vedic and Old Japanese versions, both in myth
+and ritual.
+
+Available at:
+http://www.courses.fas.harvard.edu:80/~indst206/Background_Information/
+Vala_Iwato.pdf
+
+and the journal site:
+http://users.primushost.com/~india/ejvs/ejvs1201/ejvs1201article.pdf
+
+Additional pictures, plans and maps (big file!) at:
+
+http://www.fas.harvard.edu/~witzel/Vala-Iwato-pics.pdf
+
+As always, serious discussion is welcome; please write to:
+witzel at fas.harvard.edu,
+and watch out for our new discussion list, Indo-Eurasia, to be
+announced soon.
+
+
+Michael Witzel
+Department of Sanskrit and Indian Studies, Harvard University
+1 Bow Street, 3rd fl., Cambridge MA 02138
+1-617-495 3295           Fax: 496 8571
+direct line:       496 2990
+http://witzel@fas.harvard.edu/~witzel/mwpage.htm
+
+
+Michael Witzel
+Department of Sanskrit and Indian Studies, Harvard University
+1 Bow Street , Cambridge MA 02138
+1-617-495 3295           Fax: 496 8571
+direct line:       496 2990
+http://witzel@fas.harvard.edu/~witzel/mwpage.htm
+
+
+

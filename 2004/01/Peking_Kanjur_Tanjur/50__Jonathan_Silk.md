@@ -1,0 +1,37 @@
++++
+title = "50 Jonathan Silk"
+date = "2004-01-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-January/028126.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-January/028126.html)
+
+Friends,
+
+I wonder if anyone has or knows of a table correlating which Peking
+Kanjur/Tanjur texts are in which volumes of the reprint edition. I
+know of the catalogue, of course, but I do not have a copy, and since
+the whole of our university's set of the Kanjur/Tanjur is in storage,
+it must be requested by volume number. Therefore, a table of text
+numbers to reprint vol. would be most helpful.
+
+Any hints most welcome (apologies for cross-posting to H-Buddhism and
+Indology).
+
+JAS
+--
+Jonathan Silk
+Department of Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310)206-8235
+fax:  (310)825-8808
+silk at humnet.ucla.edu
+********************************************
+These statements are my own, not those of the University of California.
+
+
+

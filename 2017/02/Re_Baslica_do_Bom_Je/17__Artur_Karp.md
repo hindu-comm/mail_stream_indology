@@ -1,0 +1,72 @@
++++
+title = "17 Artur Karp"
+date = "2017-02-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-February/045261.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-February/045261.html)
+
+Dear Colleagues,
+
+Is it possible that no one on the List has access to Konkani descriptions
+of the Goan Basilica do Bom Jesus?
+
+With sad regards,
+
+Artur Karp
+
+2017-01-31 10:15 GMT+01:00 Artur Karp <karp at uw.edu.pl>:
+
+> Dear List,
+>
+> I am involved in the preparation of the supplement to the *Official List
+> of Polish Geographical Names of the World *- already published in 2005,
+> by the Head Office of Geodesy and Cartography (Główny Urząd Geodezji i
+> Kartografii), Warsaw, Poland -  and accessible at:
+>
+> https://www.academia.edu/9062314/Azja_Po%C5%82udniowa_Artur_
+> Karp_ed._Nazewnictwo_geograficzne_%C5%9Awiata_Zeszyt_4_G%C5%
+> 82%C3%B3wny_Urz%C4%85d_Geodezji_i_Kartografii_Warszawa_2005
+>
+> The supplement  - planned to be published as the *Official List of Polish
+> Names of Historical Monuments and Buildings of the World *- is  to
+> include formal names of selected important South Asian historical
+> buildings/monuments; a provisional, not yet completed list, is accessible
+> at:
+>
+> https://www.academia.edu/23167699/Nazwy_budowli_-_Azja_Po%C5
+> %82udniowa_Names_of_buildings_and_other_architectural_monume
+> nts_in_South_Asia_
+>
+> Usually, I do not have problems in locating the formal, official names of
+> geographical objects in India.
+>
+> The *Basílica do Bom Jesus*, however,  eludes me. What I come across is *Borea
+> Jezuchi Bajilika, *as at:
+>
+> https://en.wikipedia.org/wiki/Basilica_of_Bom_Jesus
+>
+> Since the presumably Konkani name is already a transliteration, it cannot
+>  serve as the basis for precise transliteration and the Polish
+> transcription.
+>
+> What I need are VERY FORMAL names of the Basilica - both in *Hindi* and
+> *Konkani *- such as those formally used and published in the Indian
+> Catholic Church sources.
+>
+> If you would give me the names as they are written in Devanagari, I could
+> easily transliterate them - using myself the ISO 15919 rules of
+> Romanization.
+>
+> Thank you in advance for your kind help,
+>
+> Artur Karp (ret.)
+> South Asian Studies Dept.
+> University of Warsaw
+> Poland
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170206/d7e347d2/attachment.htm>

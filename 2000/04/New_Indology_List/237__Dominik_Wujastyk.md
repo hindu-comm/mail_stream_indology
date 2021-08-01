@@ -1,0 +1,40 @@
++++
+title = "237 Dominik Wujastyk"
+date = "2000-04-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021159.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021159.html)
+
+On Thu, 27 Apr 2000, Periannan Chandrasekaran wrote:
+
+> I wonder if Dominik is alreay thinking of talking in legal terms with the
+> operators of egroups.com and with the founders of the fake group.
+
+By no means.  I do think you are right in suggesting that the new egroup
+list name has been chosen to try and compete head-on with this list.  But
+that's fine.  Competition is useful, and if they produce a sparkling list
+which everyone wants to join, I'll happily close down INDOLOGY.  No
+problem.  This isn't *my* list, it is the members' list.  I just happen to
+have founded it, and because of that I control certain aspects of it.
+
+When I set up the INDOLOGY list in 1990, I never imagined it would have
+more than thirty or so members.  It currently has over six hundred
+members.  This is very odd, but quite nice.  And I have come to think that
+the list does fulfil a rather important function for a profession whose
+members are usually isolated in separate universities and
+institutions.  But six hundred is a big number, and there is clearly room
+for diversity and for other similar lists to be formed.
+
+Alternative invitation-only lists have already been set for the more
+specific discussion of topics like vyakarana, ayurveda, and so
+forth.  This is healthy.
+
+As I've said before: good luck to the new list.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

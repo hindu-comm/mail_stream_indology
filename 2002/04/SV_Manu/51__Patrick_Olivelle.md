@@ -1,0 +1,21 @@
++++
+title = "51 Patrick Olivelle"
+date = "2002-04-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026896.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026896.html)
+
+Thanks to all those who responded to my query about Manu -- one or
+two volumes. I received several interesting and helpful comments. The
+vote however is divided down the line -- half wanting a single volume
+and half a single volume -- the latter especially in view of the fact
+that the translation alone will be published in the Oxford World
+Classics series.
+
+Thanks again.
+
+Patrick
+
+
+

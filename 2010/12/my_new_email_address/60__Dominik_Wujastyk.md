@@ -1,0 +1,45 @@
++++
+title = "60 Dominik Wujastyk"
+date = "2010-12-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-December/035010.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-December/035010.html)
+
+Dear colleagues,
+
+My email address is
+   wujastyk at gmail.com
+
+Please be sure to use that address if you write to me, and weed out any
+references to
+d.wujastyk @ ucl.ac.uk
+wujastyk @ ucl.ac.uk
+ucgadkw @ ucl.ac.uk.
+In fact, <anything> @  ucl.ac.uk
+
+I switched address a couple of years ago, and I've been rather pro-active in
+spreading the new address.  There's also an auto-response from the old
+address that informs about the change.
+
+But today I logged in to my old UCL account after a longish gap, and was
+horrified to discover amongst hundreds and hundreds of spams a few important
+messages from colleagues that had never reached me.
+
+I'm hoping that the gmail address above will be good for life.
+
+Thank you!
+
+
+Dr Dominik Wujastyk
+Institut für Südasien-, Tibet- und Buddhismuskunde
+Universität Wien
+Spitalgasse 2-4, Hof 2, Eingang 2.1
+A-1090 Vienna
+Austria
+--
+Long-term email address: wujastyk at gmail.com
+PGP key: http://wujastyk.net/pgp.html
+
+
+

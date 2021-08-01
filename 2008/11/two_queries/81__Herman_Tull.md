@@ -1,0 +1,39 @@
++++
+title = "81 Herman Tull"
+date = "2008-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-November/032245.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-November/032245.html)
+
+Betel (tambUla) is mentioned in the Mahavamsa (e.g., 35.75) and according to 
+the references in Rhys Davids and Stede (Pali-English dictionary) it also 
+occurs in a number of Jatakas.  I think the story Jonathan Silk refers to is 
+the above referenced Mahavamsa section.
+
+Herman Tull
+
+--------------------------------------------------
+From: "Ashok Aklujkar" <ashok.aklujkar at UBC.CA>
+Sent: Monday, November 24, 2008 8:15 PM
+To: <INDOLOGY at liverpool.ac.uk>
+Subject: Re: two queries
+
+> Dear George,
+>
+> As I recall, P.K. Gode traces the history of betel chewing back to the 2nd
+> century B.C. (to Patanjali's Mahabhasya?). I do not have access to his
+> article at present. Kindly check the collection Allen Thrasher mentioned.
+>
+> ashok aklujkar
+>
+>
+> On 11/24/08 1:16 PM, "George Hart" <glhart at BERKELEY.EDU> wrote:
+>
+>> I learned that the earliest reference to betel chewing is in the
+>> Cilappatikaram (about 400 CE?).  Don't know if that is accurate.
+>> George Hart
+> 
+
+
+

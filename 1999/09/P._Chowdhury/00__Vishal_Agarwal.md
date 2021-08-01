@@ -1,0 +1,36 @@
++++
+title = "00 Vishal Agarwal"
+date = "1999-09-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018217.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018217.html)
+
+V. Iyer wrote:
+Would like to know the details on
+a book by Chowdhury so that I can place an order.
+The book title is something like
+"The Indian origin of the Chinese Nation".
+
+Vishal responds:
+I have read two books authored by him (but not the volume on China). The
+sole merit of his work lies in the fact that it is the best anthology of
+statements and facts which expose the racial and Judeo-Christian biases of
+Caldwell, Weber, Cowell etc. Other than that, I would not spend my money and
+time on his works. The 'Out of India' school too does not take cognizance of
+his works and I have not found 1 quotation from P. Chaudhary's books in
+their works.
+Incidently, a recent work moves a step further in questioning the prejudices
+of modern Indologists like Erdosy, Dr. Witzel et al (I can email a detailed
+reference to you personally if you wish) and the authors claim to have
+witnessed excavations in Central Asia, where they were dismayed to discover
+the pre-conceived notions and the unscientific handling of data by the
+archaeologists and Indologists. Otherwise, this book too resembles Pramesh
+Chaudhary's works in its methodology.
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

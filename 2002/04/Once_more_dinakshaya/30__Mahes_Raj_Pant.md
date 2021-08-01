@@ -1,0 +1,27 @@
++++
+title = "30 Mahes Raj Pant"
+date = "2002-04-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026866.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026866.html)
+
+Dear List Members
+
+just checking once more the photo of the inscription I found that the
+correct reading is dinakshaya. If you translate it literally, needless to
+point out, it means 'day-decline', as Monier-Williams does. Traditionally,
+the udag-ayana starts on the day of the Makara- sam.kraanti and this
+sam.kranti this year occured on 14 January. Due to the precession of the
+equinoxes the makara-sam.kraanti is observed these days 23 days behind, as
+Kane has noticed. Is not correct that when winter solstice occures days
+start being longer day by day?
+
+Mahes Raj Pant
+
+_________________________________________________________________
+MSN Photos is the easiest way to share and print your photos:
+http://photos.msn.com/support/worldwide.aspx
+
+
+

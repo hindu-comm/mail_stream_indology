@@ -1,0 +1,68 @@
++++
+title = "81 Anurupa Naik"
+date = "2020-01-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-January/051636.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-January/051636.html)
+
+*JUST RELEASED*
+(The Table of Contents is attached)
+
+*/The Commentary Idioms of the Tamil Learned Traditions/*. Edited 
+by**Suganya Anandakichenin and Victor D’Avella. Collection Indologie n° 
+141 / NETamil Series n° 5, Ecole française d’Extrême-Orient / Institut 
+Français de Pondichéry, 2020, iv, 603 p.
+Language: English, Tamil. Rs 1000 (43 EUR). ISBN: 978-81-8470-232-3 
+(IFP) / 978-2-85539-236-3 (EFEO).
+
+*About the book:*
+This volume presents several detailed studies of the commentary 
+traditions of South India with a particular emphasis on Tamil, but 
+extended to Sanskrit and Telugu as well. The importance of commentaries 
+for our understanding of classical Indian languages and their 
+literatures has long been acknowledged, but rarely have the commentaries 
+themselves, especially minor ones, been the subject of systematic study. 
+Contributors to this volume begin to remedy this desideratum in several 
+ways. Some describe the specific methods employed by particular 
+commentators and offer translations of passages, many of which have 
+never before been rendered into English. Others examine what impact 
+ancient commentators have had on the development of modern philological 
+and lexicographical tools. More broadly, the role of the commentary in 
+textual exegesis is taken up by several authors, and, in one case, this 
+has led to an extension of the very notion of a commentary to include 
+translation. This volume will serve as an important reference point for 
+further research into commentarial traditions both in India and around 
+the world.
+
+*About the editors:***
+*Suganya Anandakichenin*, a postdoctoral research fellow at the Centre 
+for the Study of Manuscript Cultures, University of Hamburg, specialises 
+in the Āḻvār bhakti poetry as well as Śrīvaiṣṇava Manipravalam literature.
+
+*Victor D’Avella *is a postdoctoral researcher at the University of 
+Hamburg, working for the international project “Texts Surrounding Texts” 
+(ANR/DFG) and formerly part of the ERC-funded NETamil project. His main 
+area of interest is the linguistic and literary traditions of India with 
+a focus on Sanskrit, Tamil, and Telugu.
+
+*Institut Français de Pondichéry*
+(Library and Publication Division)
+P. B. 33, 11, St. Louis Street,
+Pondicherry-605001, INDIA
+Ph: +91-413-2231660 / 661
+E-mail: _library at ifpindia.org <mailto:library at ifpindia.org>_**
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200123/7e4050a6/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ToC_CI141.pdf
+Type: application/pdf
+Size: 210742 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20200123/7e4050a6/attachment.pdf>

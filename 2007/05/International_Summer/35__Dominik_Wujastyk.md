@@ -1,0 +1,46 @@
++++
+title = "35 Dominik Wujastyk"
+date = "2007-05-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-May/030791.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-May/030791.html)
+
+---------- Forwarded message ----------
+From: Dr. Atul K. Shah  <atul at diverseethics.com>
+Date: Fri, 25 May 2007 16:52:26 +0100
+Subject: International Summer School on Jainism
+
+[...]
+
+Distinguished Prof Cromwell Crawford at University of Hawaii has started
+a wonderful initiative - an international Jain Summer School which is
+growing from strength to strength and is fully funded. This year 35
+scholars from North America are heading for India shortly - it is
+accredited and very well coordinated. There is a special website
+www.jainstudies.org <http://www.jainstudies.org/>   We would request you
+to promote it to your colleagues and postgraduate students.
+
+[...]
+I am writing to request your cooperation to promote this for 2008 and
+future using <the> Indology list ...
+
+Best wishes,
+Atul
+
+DR. ATUL K. SHAH
+Chief Executive, Diverse Ethics Ltd.
+
+
+Consultants on Diversity, Media and Corporate Social Responsibility
+9 Redmill, Colchester, CO3 4RT, UK
+http://www.diverseethics.com
+Tel: 07804294903
+Email: atul at diverseethics.com
+Company Regn No. 5872648
+Blogs: Latest projects are at http://www.diverseethics.com/casestudies
+Subscribe to our free and informative monthly Diversity Ideas and Events
+Bulletin at our website homepage: http://www.diverseethics.com
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "06 Artur Karp"
+date = "2018-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-January/047214.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-January/047214.html)
+
+> his subjects all immolate themselves
+
+Clear. Extremely ashamed.
+
+But - the king?
+
+Artur
+
+
+
+2018-01-19 19:31 GMT+01:00 Allen Thrasher <alanus1216 at yahoo.com>:
+
+> There is a story in the Yogavasista about a Candala who becomes a king and
+> is found ot, whereupon his subjects all immolate themselves.
+>
+> Allen
+>
+> Sent from Yahoo Mail on Android
+> <https://overview.mail.yahoo.com/mobile/?.src=Android>
+>
+> On Fri, Jan 19, 2018 at 12:24 PM, Artur Karp via INDOLOGY
+> <indology at list.indology.info> wrote:
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180119/dcdcb98d/attachment.htm>

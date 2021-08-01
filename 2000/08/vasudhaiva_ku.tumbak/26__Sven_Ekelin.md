@@ -1,0 +1,34 @@
++++
+title = "26 Sven Ekelin"
+date = "2000-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022349.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022349.html)
+
+On August 7, 2000, Jan E.M. Houben wrote
+
+     >The Mahopani.sad occurs in P. Deussen´s 60 Upani.sads of the
+     >Veda /.../ but is there much shorter than in the MLBD volume.
+     >The first verses are similar, but the verse with vasudhaiva ...
+     >is missing.
+
+Ergo, the camps that want to establish
+
+     >a sufficiently "ancient" Vedic source for the phrase
+      (Peter Freund on August 4, 2000)
+
+must not only consider the age of the MahopanoSad in itself, but also
+the age of the passage, which is perhaps part of a later addition.
+
+Deussen´s translation (*Sechzig Upanishad´s des Veda*, Leipzig 1897)
+appears (p. 538 - 539) to be based on the edition of G. A. Jacob:
+*Eleven ÂtharvaNa Upanishads with Dîpikâs*. *Bombay Sanskrit Series*
+# 40. 1891, (2)1916.
+
+According to Deussen, MahopaniSad belongs to the generally
+acknowledged UpaniSads of the Atharvaveda (p. 543), and it is the
+oldest of the âtharvaNa vaiSNava UpaniSads (p. 743, n.1).
+
+
+

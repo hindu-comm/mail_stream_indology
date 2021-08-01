@@ -1,0 +1,31 @@
++++
+title = "94 strauchi@zedat.fu-berlin.de"
+date = "2007-01-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030298.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030298.html)
+
+I think we should differ between arguments for Indian studies in general 
+(i.e the importance of India, Indian culture etc.) and arguments for 
+classical Indology including Sanskrit etc. Both types of arguments are 
+important, but we have to link them properly. Otherwise it is quite 
+possible that we are said: Ok, we completely agree, Indian studies are 
+important, but one minor point can be dismissed: these old-fashioned 
+languages. As far as I understand the present-day situation in Indology 
+and other antiquities, we have to argue especially in favour of our 
+threatened classical departments.
+In this sense I suggest an argument like this:
+
+Only the profound knowledge of Sanskrit and Middle Indian languages and 
+the literature transmitted in these languages opens the way to a deep 
+and differentiated
+understanding of Indian culture.
+
+
+Ingo Strauch
+
+>
+
+
+

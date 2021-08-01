@@ -1,0 +1,30 @@
++++
+title = "17 Peter M. Scharf"
+date = "2003-07-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-July/027804.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-July/027804.html)
+
+We have a Sanskrit sort program but have not yet posted it at our
+website.  We have plans to post this and other programs at
+sanskritlibrary.org and will do so soon.  We'll post an announcement
+when it is publicly available.  If you have a Perl environment
+installed, we can send you the program to run locally in the
+meantime.  We conduct sorting in a phonological encoding and
+transliterate to and from it from Harvard-Kyoto, CSX, and Unicode
+encodings.
+Peter Scharf
+--
+**************************************************
+Peter M. Scharf             (401) 863-2720 office
+Department of Classics      (401) 863-2123 dept
+Brown University
+PO Box 1856                 (401) 863-7484 fax
+Providence, RI 02912        Scharf at brown.edu
+http://www.brown.edu/Departments/Classics/Scharf/
+http://sanskritlibrary.org/
+**************************************************
+
+
+

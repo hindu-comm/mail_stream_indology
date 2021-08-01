@@ -1,0 +1,81 @@
++++
+title = "241 Periannan Chandrasekaran"
+date = "2000-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024424.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024424.html)
+
+--- Vidyasankar Sundaresan <vsundaresan at HOTMAIL.COM> wrote:
+> Thanks, Ganesan. This has been educative, but I couldn't find
+> naalikam in the online Tamil lexicon, at
+>
+> http://www.uni-koeln.de/phil-fak/indologie/tamil/otl_search.html.
+>
+> nAL, nAl, nal etc. were listed, but nothing turned up under the
+> spellings naalika, naalaka, nAlaka, nAlika, nor under the same
+> entries with the letter m added at the end.
+
+
+nAlikam
+
+otl nAlikam nAlikam 01 1. lotus; 2. buffalo
+
+nAlikam
+
+otl nAlikam nAlikam 02 crow
+
+
+>
+> >Gowda-Emeneau is right to point out -aNa in sAyaNa as Drav.
+> >Do you think they are not Tamil?
+>
+> I think it is right to derive it from Dravidian roots. Emeneau
+> and Gowda do cite Burnell and Cowell. But perhaps, it is not
+> right to link -aNa to -aNNa as in elder brother?
+
+-aNa can be very authoritatively linked to -aNNa as in elder brother.
+DEDR # 131:
+Ta. aNNan....
+Ka. aNNa, aNa = elder brother; respectful address to an older male
+Konda. ana elder brother;
+
+The aN- words for elder brother are derived from the Drav. root aN = upper
+DEDR #110:
+
+Ta. aNNal = great person; aNNam = palate, roof of mouth;
+aNNavi = teacher, director of theatrical performances.
+Ka. aNNe, aNNa, aNa = excellence, purity
+
+
+It is interesting to see from DEDR entries that onlyt Kannada seems
+to drop one of the double Ns.
+
+...
+>
+> The only problem is that k/c => z does not explain s in
+> the name sAyaNa, which was never written as zAyaNa.
+
+A cursory look at the c-initial entries of DEDR shows that there
+are so many entries that have s- for non-Tamil languages.
+example:
+DER #2464:
+Ta. cAri = time, turn
+Ma. sAri = id.
+Ka. sAri, sAre = id.
+Te. sAri = id., repetition, occasion
+
+>
+> Best regards,
+> Vidyasankar
+
+Regards,
+P. Chandrasekaran
+
+__________________________________________________
+Do You Yahoo!?
+Yahoo! Shopping - Thousands of Stores. Millions of Products.
+http://shopping.yahoo.com/
+
+
+

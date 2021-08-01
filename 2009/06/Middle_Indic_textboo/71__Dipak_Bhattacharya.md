@@ -1,0 +1,36 @@
++++
+title = "71 Dipak Bhattacharya"
+date = "2009-06-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-June/033322.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-June/033322.html)
+
+Dear Dr.Smith,
+Pischel's is more a synchronic descriptionof liiterary Prakrit. Chatterji-Sen's MIA Reader was accompanied by a grammar. These paid attention to inscriptional Prakrit too and from a delopmental point of view. As far as I know, the idea of Apabhramsa as a short lived intermediate stage between MIA and NIA was Chatterji's. But one knows more of his view from the introductory part of the ODBL. I do not think that sufficient attention has been paid to the development aspect of inscriptional Prakrit. Scholars cite Asokan parallels and the matter ends. Diachronic desriptions will be found.
+The BORI/Puneworks aremostly synchronic barring one on Apabhramsa (Tagare).
+I am unaware of recent developments, if any
+Best
+DB
+
+--- On Tue, 16/6/09, Smith, Frederick M <frederick-smith at UIOWA.EDU> wrote:
+
+
+From: Smith, Frederick M <frederick-smith at UIOWA.EDU>
+Subject: Middle Indic textbook?
+To: INDOLOGY at liverpool.ac.uk
+Date: Tuesday, 16 June, 2009, 12:44 AM
+
+
+What's the most authoritative account of the development of Middle Indic? Is it Pischel's book of more than a century ago? Or is there something more recent? Also, how has the work of S.K. Chatterji on Middle Indic and Bengali held up?
+
+Thanks
+
+Fred Smith
+
+
+
+      Own a website.Get an unlimited package.Pay next to nothing.*Go to http://in.business.yahoo.com/
+
+
+

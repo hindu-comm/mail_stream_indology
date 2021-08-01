@@ -1,0 +1,29 @@
++++
+title = "67 Arun Gupta"
+date = "2000-08-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022406.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022406.html)
+
+Professor Witzel wrote :
+
+
+ Rajaram recently boasted to some of us that he has many friends in the
+ Indian Government and that the Union Government has "advised" the National
+ Book Trust to bring out his "popular  book"  'From Sarasvati River to the
+ Indus Script' in English and thirteen  other languages." (Sanskrit seems to
+ be missing? -- I hope the Book Trust will at least fill in the article!)
+
+You have convinced us that Rajaram is boastful and possibly untruthful.  So
+perhaps R's claim of "friends in the Indian Government" is untrue as well.
+
+I wouldn't lose sleep over it. If Rajaram is not boasting, the ensuing fight
+to preserve the integrity of academia in India will do a world of good.
+Such values are never granted from above; they are won from below.  A people
+who are not willing to fight for it do not deserve it.
+
+-arun gupta
+
+
+

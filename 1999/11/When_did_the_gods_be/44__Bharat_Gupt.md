@@ -1,0 +1,33 @@
++++
+title = "44 Bharat Gupt"
+date = "1999-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/019010.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/019010.html)
+
+Robert P. Goldman wrote:
+>
+> There seems to be little in the way of unambiguous reference to writing in
+> the Valmiki Ramayana other than the references to Rama's signet ring,
+> famously given by him to Hanuman as a token of recognition for Sita.
+>
+> At 4. 43 11 the ring is said to be svanAmANKopaZobhitam and again at 5.34.
+> 2 to be rAmanAmANkitam. ( refs. are to the crit. ed.).   This would
+> certainly appear to suggest that some kind of writing was involved although
+> it is not, perhaps, conclusive..
+
+I am wondering why  Naama  and anka  are not conclusive enough to indicate that writing
+that spells "Rama" existed. This is even more conclusive than Kalidasa's Meghadutam in
+which the Yaksha tells the Cloud that his wife shall be heard singing a stanza
+containing his name , " Mat gotraankitapadam geyamudgaatukaamaa"
+
+I suppose the cardinal question is not whether writing was known in Valmiki's time (if
+that is certain!) but whether the technlogy of writing was inluential in communication,
+education, preservation of texts and so on?
+
+At what time does the impact of writing show itself in India? A useful field of research
+for indologists perhaps!
+
+
+

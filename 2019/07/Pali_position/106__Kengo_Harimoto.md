@@ -1,0 +1,38 @@
++++
+title = "106 Kengo Harimoto"
+date = "2019-07-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-July/050584.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-July/050584.html)
+
+Dear Members of the list
+
+There is an opening for a Pali lecturer at Mahidol University. Here is an announcement, posting on behalf of Mattia Salvini <prasajya at gmail.com>
+
+---- 
+
+Position: Pāli, Full-Time Lecturer, International PhD Program in Buddhist Studies, Mahidol University
+
+We are looking for a Pāli lecturer interested in working in a program focusing on textual studies. The position will allow for later application for academic titles (assistant professor, associate professor, professor). Candidates need to have a PhD in a relevant field and demonstrable abilities to teach and conduct research related to the Pāli textual corpus. Preference will be given to candidates who also have knowledge of Sanskrit, and who intend to remain in Thailand for a considerable number of years. 
+
+For further information, kindly contact Mattia Salvini <prasajya at gmail.com>
+
+--- 
+
+A few additional details:
+
+• Candidates will be asked to submit their CV
+• Candidates may be asked for names/email addresses of a few referees
+• Candidate aged below the age 60 are considered for the position, as per the University regulations
+• The position stays open till a suitable candidate is found
+
+With best wishes,
+
+-- 
+Kengo Harimoto
+
+
+
+
+

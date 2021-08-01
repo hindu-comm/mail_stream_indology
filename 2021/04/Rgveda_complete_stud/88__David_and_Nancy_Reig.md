@@ -1,0 +1,84 @@
++++
+title = "88 David and Nancy Reigle"
+date = "2021-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-April/054571.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-April/054571.html)
+
+Dear Prof. Pandurangi,
+
+Regarding comprehensive study material for the Ṛgveda, and in particular
+your question as to whether a Ṛgveda reverse word index had been prepared
+by anyone: I do not know of a reverse word index. You no doubt already use
+the complete Ṛgveda word index prepared by Vishva Bandhu and his team.
+Besides this, there is another helpful study tool, *A Ṛgvedic Word
+Concordance*, by Alexander Lubotsky, 2 volumes, 1997. It lists every word
+found in the Ṛgveda, followed by the number of its occurrences there, and
+then it gives every pāda in which the word occurs. So you can easily see
+the usage of each word throughout the whole Ṛgveda in one convenient place.
+Of course, you often have to go to the whole verse, or even the whole sūkta,
+to get the context. But it provides a good start. I do not know if it is
+available online.
+
+Best regards,
+
+David Reigle
+Colorado, U.S.A.
+
+On Sat, Apr 24, 2021 at 8:04 PM Veeranarayanacharya Pandurangi via INDOLOGY
+<indology at list.indology.info> wrote:
+
+> Thanks.
+> It is good they are moving ahead with this commentary, which was available
+> partly few years ago.
+>
+> Still many mantras are left out for being too clear? for example 1.2.4-6
+> are left.
+> I hope they will cover whole rgveda.
+>
+> This will help us to understand the western perspective which I want to
+> note in my new commentary on first mandala.
+>
+> Any other suggestions?
+>
+> On Sat, 24 Apr, 2021, 8:16 pm Olivelle, J P, <jpo at austin.utexas.edu>
+> wrote:
+>
+>> You can see the commentary here:
+>>
+>> http://rigvedacommentary.alc.ucla.edu
+>>
+>>
+>>
+>>
+>> > On Apr 24, 2021, at 9:04 AM, Veeranarayanacharya Pandurangi via
+>> INDOLOGY <indology at list.indology.info> wrote:
+>> >
+>> > Dear all
+>> > I would like to have  comprehensive study material of rgveda which
+>> includes most of the recent research scholarship. I use Jamison 2014. But
+>> there is no explanation for translation followed. I would like to see such
+>> explanation for each and every word. A detailed commentary in English.
+>> >
+>> > I would like to know if
+>> > Rgveda reverse word index is prepared by anyone.
+>> > Thanks to all of you
+>> > Veeranarayana NK Pandurangi
+>> >
+>> > _______________________________________________
+>> > INDOLOGY mailing list
+>> > INDOLOGY at list.indology.info
+>> > https://list.indology.info/mailman/listinfo/indology
+>> >>> This message is from an external sender. Learn more about why this <<
+>> >>> matters at https://links.utexas.edu/rtyclf.                        <<
+>>
+>>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210425/08010200/attachment.htm>

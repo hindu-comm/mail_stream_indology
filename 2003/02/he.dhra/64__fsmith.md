@@ -1,0 +1,22 @@
++++
+title = "64 fsmith"
+date = "2003-02-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027518.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027518.html)
+
+I have a lexical question: the 12th century Tantric text from Kerala,
+Iizaanazivagurudevapaddhati 42.1,15ab has the word he.dhra /he.dhraga in its
+account of bhuutavidyaa. 15ab reads: One possessed by a he.dhraga graha stands
+on his knees, keeps his head down, smiles, and holds his hands in a fist. I am
+unable to find this word elsewhere. Has anyone out there seen it? If so,
+where? I do not have here the Paaiasaddamaha.n.navo
+(Praak.rtazabdamahaar.nava.h). Can someone out there who might have it easily
+accessible please let me know if it's in there (or, as I say, anywhere else)?
+Thanks
+
+Fred Smith
+
+
+

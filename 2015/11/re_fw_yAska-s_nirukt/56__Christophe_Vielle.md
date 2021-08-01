@@ -1,0 +1,81 @@
++++
+title = "56 Christophe Vielle"
+date = "2015-11-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-November/042361.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-November/042361.html)
+
+- The Nirukta is still to be found on GRETIL in Veda > Vedanga > Pratisakhyas
+http://gretil.sub.uni-goettingen.de/gret_utf.htm#Nirukta
+http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/1_veda/5_vedang/3_pratis/niruktau.htm
+
+- On Indologica/Digitalisierte Werke <http://www.indologica.de/drupal/?q=node/62 >, there is a reference to the 1st ed. (1921) of Sarup + to Roth's edition of 1852:
+The Nighaṇṭu and the Nirukta : the oldest Indian treatise on etymology, philology and semantics / critically ed. from original manuscripts and transl. for the first time into English, with introd., exegetical and critical notes, three indexes and eight appendices. English Translation and Notes by Lakshman Sarup. - London : Oxford University Press, 1921. - 259 S.	URL: http://library.du.ac.in/dspace/handle/1/1765 (Digital Library, University of Delhi) Dateiformat: PDF	Notiz: In der Vorlage fehlt das Titelblatt 
+
+Roth, Rudolf von (1821-1895) [Hrsg.]
+Jāska's Nirukta sammt den Nighaṇṭavas / hrsg. und erläutert von Rudolph Roth. - Göttingen : Verlag der Dieterichschen Buchhandlung, 1852. - LXXII, 228, 230 S.
+Notiz: Yāska: Nirukta.	URL: http://books.google.com/books?id=eagIAAAAQAAJ (Google Books. Digitalisiert: 13. Juni 2007, Vorlage: Oxford University)	Dateiformat: G; PDF 
+
+- On the DLI < http://www.new1.dli.ernet.in > s.v. "Nirukta", no less than 4 pages of references : various editions (e.g. the one by H.M. & R.G. Bhadkamkar, vols 1 & 2, 1918 & 1942, Bombay Sanskrit and Prakrit Series 73 & 85) and works (e.g. Yaskas Nirukta And The Science Of Etymology. Bhattacharya,Bishnupada. 1958). 
+Note that for the DLI, a better viewing (and whole .pdf) is now available for some items, see this one: http://dli.serc.iisc.ernet.in/handle/2015/283544
+
+Le 23 nov. 2015 à 21:07, Dan Lusthaus <yogacara at gmail.com> a écrit :
+
+> Dear Martin,
+>  
+> For some reason GRETIL no longer carries Yāska. I saved a copy that used to be there, which I am attaching. Since it marks word boundaries with periods e-searches have to be careful.
+>  
+> Lakshman Sarup's edition and translation is quite readable.
+>  
+> L. Sarup. The Nighaṇṭu and the Nirukta. Motilal Banarsidass (numerous rpts)
+>  
+> The following discuss Yaska in detail, primarily evaluating his etymologies from the perspective of modern 'scientific' etymologies:
+>  
+> Siddheshwar Varma. The Etymologies of Yāska. Hoshiarpur: Vishveshvanand Institute Publications, 1953
+> and
+> Hannes Skold. The Nirukta: Its place in old Indian Literature and Etymologies. Lund, London, Paris, Oxford, Leipzig, 1926
+>  
+> I'm unaware of e-editions of those.
+>  
+> best,
+> Dan Lusthaus
+>  
+> ----- Original Message -----
+> From: Martin Gluckman
+> To: Indology List
+> Sent: Monday, November 23, 2015 1:18 PM
+> Subject: [INDOLOGY] Yāska's Nirukta - Digital editions and word lists
+> 
+> Dear Friends,
+> 
+> I am searching for digital editions of Yāska's Nirukta (both the source text and any translations done till date) and any other digital material in this light (word lists with definitions as given in any translations/commentary and so forth).
+> 
+> With much appreciation in advance,
+> 
+> Martin Gluckman
+> 
+> 
+> 
+> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+> <Yaska-niruktau.htm>_______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+–––––––––––––––––––
+Christophe Vielle
+Louvain-la-Neuve
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151124/300dc1a5/attachment.htm>

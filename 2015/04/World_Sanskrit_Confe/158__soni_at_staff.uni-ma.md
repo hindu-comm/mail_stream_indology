@@ -1,0 +1,34 @@
++++
+title = "158 soni at staff.uni-marburg.de"
+date = "2015-04-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-April/041061.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-April/041061.html)
+
+Dear Friends and Colleagues,
+In case you have not seen them, may I draw your attention to the Third  
+Announcement and Attendance Detail Form ? Our colleagues in Bangkok  
+have just announced them together with the academic programme. Please  
+see the links here:
+
+http://www.sanskrit-silpakorn.org
+
+Please note that the Attendance Form now requires our passport  
+details, etc. In case you have any questions concerning the  
+organisation in Bangkok please write to the Secretariat there at the  
+mail address in the Cc.
+
+Looking forward to seeing you there.
+
+With best wishes and thanks to our colleagues in Bangkok,
+Jay Soni
+Secretary General of the IASS
+
+
+--
+
+
+
+
+

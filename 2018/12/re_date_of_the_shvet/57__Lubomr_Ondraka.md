@@ -1,0 +1,40 @@
++++
+title = "57 Lubomír Ondračka"
+date = "2018-12-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-December/049041.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-December/049041.html)
+
+I thank to James Madaio who promptly sent me a recently published article discussing this problem (doi:10.1093/jhs/hiy014).
+The author convincingly argues that the Śvetāśvataropaniṣadbhāṣya "might have been composed tentatively between the twelfth century...  and the fourteenth century".
+
+Best
+Lubomir
+
+
+On Tue, 25 Dec 2018 16:34:36 +0000
+Lubomír Ondračka via INDOLOGY <indology at list.indology.info> wrote:
+
+> Dear Colleagues,
+> 
+> is there any serious attempt to date the Śvetāśvataropaniṣadbhāṣya attributed to Śaṅkarācārya? Already  the editors of this text (AAS 17) list several reasons why this work cannot be written by Śaṅkara and almost all scholars accept this view. So it seems there is a scholarly consensus that this is a late text, but I did not find any discussion on the date of this work.
+> 
+> Thanks,
+> Lubomir
+> 
+> -- 
+> Lubomír Ondračka
+> Department of Philosophy & Religious Studies
+> Faculty of Arts, Charles University
+> Nam. J. Palacha 2, Praha 1, 116 38
+> CZECH REPUBLIC
+> e-mail: ondracka at ff.cuni.cz
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+

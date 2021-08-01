@@ -1,0 +1,4 @@
++++
+title = "Repudiating Subhash Kak"
+
++++

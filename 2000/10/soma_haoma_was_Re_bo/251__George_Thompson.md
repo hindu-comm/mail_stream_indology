@@ -1,0 +1,29 @@
++++
+title = "251 George Thompson"
+date = "2000-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023130.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023130.html)
+
+Jan Houben is certainly right to question any book that treats soma/haoma
+without taking into account the ephedra theory.
+
+Stephen Hodge is certainly right to remind us of the worthy book of Flattery
+and Schwartz which tackles the Iranian side of the problem.
+
+I look forward to the publication of the proceedings of last year's
+soma/haoma workshop in Leiden, at which Harry Falk and Victor Sarianidi, two
+advocates of the ephedra theory, gave reports.  Along with the other reports,
+the proceedings of this workshop will tell us where we now stand on
+soma/haoma.
+
+In my view, the ephedra theory needs to be re-examined. Many questions remain
+unanswered, at least in my mind.
+
+Best wishes,
+
+George Thompson
+
+
+

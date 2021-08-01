@@ -1,0 +1,48 @@
++++
+title = "121 KORN Agnes"
+date = "2020-06-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-June/052765.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-June/052765.html)
+
+Dear Jonathan,
+
+The journals hompepage is here
+https://read.dukeupress.edu/cssaame/
+but searching for “Hertel” or “Neubert” does not yield anything.
+Maybe one could write to the editors and ask?
+
+Best,
+Agnes
+
+
+De : INDOLOGY [mailto:indology-bounces at list.indology.info] De la part de Jonathan Silk via INDOLOGY
+Envoyé : jeudi, 11 juin 2020 17:00
+À : Indology <indology at list.indology.info>
+Objet : [INDOLOGY] published?
+
+Dear Friends,
+
+In its entry on Johannes Hertel, Iranicaonline refers to the following:
+Frank Neubert, “German Indology, Aryan Studies and Anti-Semitism: The Case of Johannes Hertel,” in Comparative Studies of South Asia, Africa and the Middle East, vol. III, 2003 (forthcoming).
+
+Whatever happened to this piece, it did not appear in this journal (despite it having been cited at least once as if it did, itself interesting...). Was it ever published?
+
+Jonathan
+
+--
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+https://leidenuniv.academia.edu/JASilk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200612/fcac12ad/attachment.htm>

@@ -1,0 +1,25 @@
++++
+title = "35 Asko Parpola"
+date = "2008-10-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-October/032142.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-October/032142.html)
+
+Professor Kim Juwon from the Seoul National University has sent me a  
+sample of a dhaaraNii text printed in Korea in the 18th century,  
+asking for help in identifying the script and transcribing parts of  
+the text. This is not my field of expertise, and I cannot easily do  
+what he asks, but I trust there are members of the Indology list who  
+can fairly easily read this siddham script and identify the text --  
+may I ask for your help? Thanks to Dominik Wujastyk and Richard  
+Mahoney for mounting the sample on the indology.info server:
+
+  http://indology.info/temp/Parpola_Korean_Dharani_1.jpg
+
+With best regards,
+
+Asko Parpola, University of Helsinki
+
+
+

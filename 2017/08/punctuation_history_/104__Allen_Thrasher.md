@@ -1,0 +1,18 @@
++++
+title = "104 Allen Thrasher"
+date = "2017-08-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046386.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046386.html)
+
+I could have sworn there was a thread on the history of punctuation some months ago, though there was a thread on word-divisions, but for the life of me I can't find it in the archives and respond appropriately. But if there is some interest, a possibly useful, and certainly lively and interesting book, on the history of the punctuation of English is:
+David CrystalMaking a Point: The Persnickety History of Engish PunctuationNew York: St. Martin's Press, 2015London: Profile Books, 2016
+Crystal also deals with the history of punctuation prior to there being any form of written English, examining the punctuation of Latin largely from manuscripts from the British Isles.His main point is that there are two concerns that do not necessarily yield the same results: assistance in reading aloud, and making the meaning clear as efficiently as possible.
+
+Allen
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170811/1fcb831d/attachment.htm>

@@ -1,0 +1,35 @@
++++
+title = "41 Manring, Rebecca"
+date = "2003-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-April/027645.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-April/027645.html)
+
+Indiana University, Bloomington, Department of Religious Studies,
+announces a one year, non-tenure track position for 2003-04, with the
+possibility of renewal for 2004-05.  Area of specialization: Buddhism,
+with a focus on South Asia preferred.  Annual teaching responsibilities
+include 4 courses a year.  Applications should include a cover letter,
+current c.v.; three letters of recommendation; and sample teaching
+syllabi, if available.  Applicants with teaching experience and Ph.D.
+degree in hand by the fall of 2003 will be given preference.  Please
+send materials by June 1 to the Buddhism Search Committee, Department of
+Religious Studies, Sycamore 230, Indiana University, Bloomington, IN
+47405.  Women and minorities are encouraged to apply.  Indiana
+University is an equal opportunity employer. 
+
+
+
+
+
+Rebecca J. Manring
+
+India Studies and Religious Studies
+
+Indiana University
+
+
+
+
+

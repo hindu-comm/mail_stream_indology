@@ -1,0 +1,29 @@
++++
+title = "12 John Huntington"
+date = "2004-05-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-May/028379.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-May/028379.html)
+
+Dear all,
+
+While testing our forthcoming database, I ran across a long forgotten
+example of Makaras that I though might be interesting to the "makara"
+discussants.
+
+It is the Chakra from the Chausa Hoard in the Patna museum  and dated
+from ca. fi4rst century B.C.E. It is one of the earliest examples of
+a (pair)  of makara(s) with a human figure emerging from its mouth.
+
+Our Web Master, Andrew LaMoreaux has added it to the Makara
+discussion page at the very bottom.
+
+http://kaladarshan.arts.ohio-state.edu/makara/index.html
+
+Cheers to all
+
+John
+
+
+

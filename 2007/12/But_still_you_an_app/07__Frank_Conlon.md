@@ -1,0 +1,31 @@
++++
+title = "07 Frank Conlon"
+date = "2007-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-December/031294.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-December/031294.html)
+
+Dominick,
+
+Well, yes, I think I knew you were no longer trying to handle the whole 
+enterprise, but let me take this moment to thank you personally for the 
+enormous amounts of energy, good will, humor and (definitely) patience, 
+that you invested in the success of Indology.  It represents a wonderful 
+resource and a model scholarly online community.
+
+best wishes,
+
+Frank
+
+Frank F. Conlon
+Professor Emeritus of History, South Asian
+      Studies & Comparative Religion
+University of Washington
+Seattle, WA 98195-3560      USA
+President, H-NET Humanities and Social Sciences Online
+Co-editor, H-ASIA
+Managing Director, Bibliography of Asian Studies Online
+
+
+

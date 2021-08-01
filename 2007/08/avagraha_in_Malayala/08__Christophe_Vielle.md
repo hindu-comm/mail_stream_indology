@@ -1,0 +1,38 @@
++++
+title = "08 Christophe Vielle"
+date = "2007-08-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-August/031064.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-August/031064.html)
+
+ From my personal experience of reading Sanskrit manuscripts in 
+Malayalam script, I never came across  any special sign noting the 
+avagraha, which appears to be never written in this script.
+Christophe Vielle (at the snake-boat race in Aranmula, Kerala)
+
+>Collegues
+>Is there any evidence for use of avagraha (akAra praslesha) sign in 
+>Malayalam Manuscripts. If so please try to give refereance or image 
+>of the same with details
+>With thanks and regards
+>
+>
+>JAGANADH.G
+>LINGUIST
+>HDG-LTS
+>C-DAC
+>VELAYAMBALAM
+>THIRUVANANTHAPURAM
+>P-H+91 9895420624
+>E-MAIL- jaganadh at cdactvm.in,navadipanyaya at hotmail.com/jaganadhg at gmail.com
+>http://sabdabodha.googlepages.com
+>www.malayalammorph.blogspot.com
+>www.malayalamresourceceter.org
+>
+>_________________________________________________________________
+>Live the life in style with MSN Lifestyle. Check out! 
+>http://content.msn.co.in/Lifestyle/Default
+
+
+

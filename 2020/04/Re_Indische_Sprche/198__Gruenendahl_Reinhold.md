@@ -1,0 +1,47 @@
++++
+title = "198 Gruenendahl, Reinhold"
+date = "2020-04-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-April/052440.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-April/052440.html)
+
+Dear colleagues,
+
+please note that the standard "Zweite vermehrte und verbesserte Auflage" (1870-1873) is available for download in the GRETIL e-library:
+
+
+http://opac.sub.uni-goettingen.de/DB=1.20/TTL=1/FAM?PPN=659042797
+
+
+In addition to a searchable text of the German translation, each PDF has an index/bookmarks according to initial letters and Böhtlingk's running numbers -- but, alas, no searchable Sanskrit text.
+
+Best wishes,
+Reinhold Grünendahl
+
+
+
+________________________________
+Von: INDOLOGY <indology-bounces at list.indology.info> im Auftrag von Arlo Griffiths via INDOLOGY <indology at list.indology.info>
+Gesendet: Donnerstag, 30. April 2020 09:07
+An: INDOLOGY
+Betreff: [INDOLOGY] Indische Sprüche
+
+Dear colleagues,
+
+I have just found this remarkable resource: <https://digi.ub.uni-heidelberg.de/diglit/boehtlingk1863ga>. But has any virtuous person created an e-text of the Indische Sprüche?
+
+Best wishes,
+
+Arlo Griffiths
+
+Böhtlingk, Otto von [Hrsg.]: Indische Sprüche, Sanskrit und Deutsch (St. Petersburg)<https://digi.ub.uni-heidelberg.de/diglit/boehtlingk1863ga>
+Zu diesem Faksimile gibt es Annotationen. Einzelne Seiten mit Annotationen sind im "Überblick" durch das Symbol gekennzeichnet.
+digi.ub.uni-heidelberg.de
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200430/e077ca4d/attachment.htm>

@@ -1,0 +1,32 @@
++++
+title = "99 Vitus Angermeier"
+date = "2019-09-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-September/050898.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-September/050898.html)
+
+Dear List Members,
+
+In representation of the convenor Jutta Jain-Neubauer I would like to 
+draw your attention to the Call for Papers for the ECSAS 2020 panel 
+"Designing Water: Morphology, Ecology and Histories of Waterscapes in 
+South Asia."
+
+The panel intends to explore innovative narratives of water structures 
+in terms of their eco-historical, socio-political and aesthetic siting, 
+beyond the conventional art historical parameters, and breaking the 
+boundaries of hitherto often tightly fenced disciplines.
+More details can be found at the panel website: 
+https://ecsas2020.univie.ac.at/panels/1zbrn/
+
+As stated by others before, the Call for Papers at ECSAS closes on 
+November 17. Submissions are very welcome.
+
+Best wishes,
+Vitus Angermeier
+
+
+
+
+

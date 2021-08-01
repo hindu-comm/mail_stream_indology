@@ -1,0 +1,39 @@
++++
+title = "96 Harry Spier"
+date = "2000-09-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022692.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022692.html)
+
+Dear list members,
+
+Since I posted my query regarding regional variations in calculating
+kshayamaasa (particularily for Maharashtra) I have come across a website
+www.datepanchanga.com of Date's Almanac Ltd. based in Solapur and Pune.
+This website contains a very brief overview of discrepancies of panchangs of
+this century.  The teacher (and father of one of the current pandits) is
+Shree Pandit Dhundirajshastri Date who is described in the website as
+"...first to decipher the shAsthrArtha (religious decisions related to
+kshayamAsa) of the kshayamAsa..." .
+
+This appears to be what I am looking for.  Are any of the members familiar
+with the reputation of their panchangs?
+
+Many thanks in advance,
+
+
+
+Harry Spier
+371 Brickman Rd.
+Hurleyville, New York
+USA 12747
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

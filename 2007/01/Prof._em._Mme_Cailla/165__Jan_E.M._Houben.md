@@ -1,0 +1,21 @@
++++
+title = "165 Jan E.M. Houben"
+date = "2007-01-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030442.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030442.html)
+
+Forwarded to the list:
+
+  Mrs Colette Caillat, member of the Institute, died on January 15, 2007, the day of her eighty-sixth birthday. We will remember her as a demanding and precise scholar; as an excellent Professor; as an efficient and critical dissertation guide, entirely devoted to her students; as founder and director of a research team associated with the CNRS with remarkable results; and as the Director of the Institute of Indian Civilization who, during a very difficult time, succeeded in maintaining and developing the institution. 
+  Paris, January 19 2007, 
+  G Fussman
+
+
+---------------------------------
+The fish are biting.
+ Get more visitors on your site using Yahoo! Search Marketing.
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Garuda's resolution"
+
++++

@@ -1,0 +1,32 @@
++++
+title = "80 mkapstei at UCHICAGO.EDU"
+date = "2010-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-December/034945.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-December/034945.html)
+
+Dear colleagues,
+
+Thanks to those who responded to my query. You very
+well confirmed my hunch that the issue has not 
+been very much treated so far: just the article by
+Funayama and some in the Zaastraarambha vol. ed. by
+Walter Slaje. To these I may add that there is
+one article discussing the matter in respect to 
+its treatment by the 16th c. Tibetan figure
+Padma dkar-po: M. Broido, "Notes on dgos 'brel" in
+Bulletin of the Tibet Society 1983.
+
+So not a lot, to date, on a topic that's almost ubiquitous in
+the Sanskrit and Tibetan zaastric literature (and no doubt
+Pali as well, though I've not yet verified this).
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

@@ -1,0 +1,38 @@
++++
+title = "75 George Thompson"
+date = "2007-09-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-September/031128.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-September/031128.html)
+
+Dear Yaroslav,
+
+This is sad news for all of us.  She was a leader not only of Russian 
+Indology but of all of us.  Of course, I did not know her as well as you 
+and your Russian colleagues knew her, but I do know this: she was 
+generous and attentive also to unknown and unpublished graduate 
+students, as I was when I first introduced myself to her at one of the 
+early Vedic workshops.  She was very generous.
+
+My sincere condolences,
+
+George Thompson
+
+Yaroslav Vassilkov wrote:
+
+>Dear colleagues,
+>I feel it my sad duty to inform you that Professor
+>Tatiana Elizarenkova passed away on Wednesday,
+>5th September in Moscow. She would be 78 later this month.
+>As far as I know two months ago she was still actively working on the 2nd volume of the ZaunakIya Atharvaveda (Russian translation).
+>It is impossible to imagine a greater and more painful loss for us. Tatyana Yakovlevna was always the non-formal leader of Russian Indology, our highest authority and the perfect, unattainable example to follow.
+>We all loved her.
+>Yaroslav Vassilkov
+>
+>
+>  
+>
+
+
+

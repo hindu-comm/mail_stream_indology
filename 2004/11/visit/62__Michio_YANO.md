@@ -1,0 +1,25 @@
++++
+title = "62 Michio YANO"
+date = "2004-11-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-November/028770.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-November/028770.html)
+
+Dear Dr Peter Scharf
+
+I am planning to visit Providence to see Prof.
+Pingree in the beginning of January.
+
+If you have time in January 3 or 4 I would like
+to see you in Brown.
+
+With best wishes,
+
+Michio YANO                    Tel +81-75-705-1781
+Faculty of Cultural Studies    Fax +81-75-705-1799
+Kyoto Sangyo University        e-mail: yanom at cc.kyoto-su.ac.jp
+Kyoto 603-8555 Japan           http://www.kyoto-su.ac.jp/~yanom/
+
+
+

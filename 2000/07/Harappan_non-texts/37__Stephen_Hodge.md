@@ -1,0 +1,27 @@
++++
+title = "37 Stephen Hodge"
+date = "2000-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/021770.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/021770.html)
+
+I think there are difficulties in arguing one way or another for the
+existence of an extensive but lost IV literature, but I wonder if the
+IV script was used in a similar way to the NW European runes and the
+Irish ogham script.   The majority of these inscriptions are quite
+short -- mainly ownership tags, short invocations to the gods and the
+like.  I have not heard any theories that the Norse people wrote
+lengthy texts in the script but they did, of course, have a great
+bardic tradition of oral poetry and sagas.  What they did write was on
+pieces of bone, wood, metal and stone but there is no evidence, as far
+as I know, of books per se.  In the fullness of time, if and when the
+IV inscriptions are deciphered, it will probably turn out that the
+content of the IV written material is much the same kind of thing the
+Vikings wrote.
+
+Best wishes,
+Stephen Hodge
+
+
+

@@ -1,0 +1,60 @@
++++
+title = "78 James Hartzell"
+date = "2013-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-December/038687.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-December/038687.html)
+
+Great work!
+
+Do you have a Mac OSX version to use on laptops?
+
+
+On Sat, Dec 7, 2013 at 11:48 PM, Audrey Truschke
+<audrey.truschke at gmail.com>wrote:
+
+> Dear Indology Folks,
+>
+> This announcement comes courtesy of Harpreet Singh at Harvard. Exciting
+> news!
+>
+> *ANNOUNCEMENT: Sanskrit Dictionary App for **iPhone and iPad*
+>
+> Our national nightmare of lugging around Monier-Williams is finally over.
+>  We have just released a Sanskrit dictionary app for iPhone and iPad. The
+> app, developed in the Harvard Innovation Lab, combines three major
+> dictionaries that are commonly used by scholars of
+> Sanskrit--Monier-Williams, Apte and Macdonell. In addition, references from
+> *dhatu-patha* (a collection of verbal roots with final forms) are also
+> provided, when available. All words can be searched using a Devanagari
+> keyboard.  Once downloaded, the app does not require internet access to
+> operate. Special thanks to the faculty in Harvard's Department of South
+> Asian Studies for their encouragement and support during the app's
+> development.
+>
+> More Information: http://www.tinyurl.com/sanskrit-app
+>
+> If you missed the announcement about classical Hindi app for iOS and
+> Android, you can learn about it here: http://tinyurl.com/hindi-app
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+James Hartzell, PhD
+Center for Mind/Brain Sciences (CIMeC)
+The University of Trento, Italy
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20131207/f37cad17/attachment.htm>

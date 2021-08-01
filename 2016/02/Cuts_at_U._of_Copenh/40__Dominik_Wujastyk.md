@@ -1,0 +1,39 @@
++++
+title = "40 Dominik Wujastyk"
+date = "2016-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-February/042646.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-February/042646.html)
+
+"Copenhagen University – the largest research and education institution in
+the country – has this week announced that it is cutting 532 jobs of
+professors, researchers and administrative staff, due to government
+austerity measures.
+
+"The job losses will amount to 7.4% of the total workforce at the
+university and will begin by terminating the employment of 209 people next
+week. There will also be 255 voluntary redundancies, and 68 positions not
+filled. In addition, some 61 jobs will be shortened in hours.
+...
+
+"The university also announced that it will cut the number of PhD places by
+10% in future years.
+There will also be no new students admitted in 2016 in modern Indian
+studies, Indology, Southeast Asian studies, Tibetology, Balkan studies,
+Hebrew, Turkish, Indian language and culture, and ancient Greek."
+
+Read the full article at
+http://www.universityworldnews.com/article.php?story=20160203182208163
+
+
+--
+Professor Dominik Wujastyk* <http://ualberta.Academia.edu/DominikWujastyk>
+Singhmar Chair in Classical Indian Society and Polity
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+University of Alberta, Canada
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160204/60665dd4/attachment.htm>

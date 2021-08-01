@@ -1,0 +1,26 @@
++++
+title = "70 girish jha"
+date = "2008-10-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-October/032168.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-October/032168.html)
+
+Dear Indologists,
+It is well known that the Present World is passing through the age of Economic globalization,industrial growth and electronic systems.Today's young men prefer job-oriented courses such as Engg,Medical,Economics,Management,etc.,which are updated regularly according to the needs of the hour.
+Unlike it numbers of students in Indology are going small day by day.Now these are the burning questions :
+1.What are the problems and prospects of Sanskrit Studies in Modern World?
+
+2.How could the invaluable elements of Sanskrit Studies figure as a new discipline/curriculum and be utilized in current Educational Set up?
+I request you all to shed light on it and suggest a solution to this problem in global perspective?
+Thanks,
+Sincerely
+GIRISH K. JHA
+DEPT OF SANSKRIT
+PATNA UNIV. INDIA
+
+
+
+
+
+

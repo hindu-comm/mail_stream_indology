@@ -1,0 +1,44 @@
++++
+title = "227 Dominik Wujastyk"
+date = "2000-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021434.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021434.html)
+
+On Sun, 21 May 2000, Steve Farmer wrote:
+
+> Proof is tough, but that's true in every scientific discipline. All
+> you can do when an historical issue is ambiguous is weigh the evidence
+> on both sides and make a tentative judgment.
+
+But this is exactly what Falk has been doing, surely.  Falk has looked
+longer and harder at the issue of ancient Indian writing than any other
+living scholar I can think of, except perhaps Richard Salomon.  He has
+personally walked to all the known Asokan inscription sites.  He has
+developed very interesting arguments based on graphic variablility in the
+Asokan inscriptions, etc. etc.
+
+Patrick is a much respected colleague and friend, and I'm sure he would be
+the first to agree that you can't present his informal conversational
+musings on this topic at the same level as Falk's extensive and sustained
+scholarly enquiry.
+
+> especially when some of the most important adherents of non-mainsteam
+> views are no longer on this list?
+
+To whom are you referring?  The people I have had to unsubscribe for rude
+behaviour number no more than about four people, and none of them -- if I
+recall -- contributed to the present topic in past discussions.  The
+INDOLOGY membership still stands at over 600 people.  I don't think you
+can really sustain a view that this list is somehow lacking in people with
+diverse views and a willingness to discuss scholarly issues energetically,
+even in sharp disagreement.  My policy about rudeness is exactly that; it
+has nothing to do with supressing views of one or other faction.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list.
+
+
+

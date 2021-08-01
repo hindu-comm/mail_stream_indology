@@ -1,0 +1,4 @@
++++
+title = "Another sad news"
+
++++

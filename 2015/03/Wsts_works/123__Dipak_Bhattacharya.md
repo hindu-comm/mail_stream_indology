@@ -1,0 +1,35 @@
++++
+title = "123 Dipak Bhattacharya"
+date = "2015-03-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-March/040811.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-March/040811.html)
+
+<indology at list.indology.info>
+
+Is there any way to edit and publish Wüst’s unpublished works? He seems to
+have been ostracized for his Nazi connections. I should not be
+mis-understood. Though a hard-core democrat I do not see any harm just by
+knowing his philological contribution? It will be a different question if
+he propagated Nazi ideology in his post-1940 philological work. But we
+should know if that is the case. In spite of Oldenberg’s racialist views
+all his works are not avoided.
+
+I benefited from both Western and Soviet publications, particularly the
+dictionaries and encyclopedias, without subscribing to any ideology. One
+can do the same with the scientific works of holders of obnoxious political
+views.
+
+Is the Vergleichendes und Etymologisches Wörterbuch des Alt-Indoarischen
+(1935) available on the internet? Mayrhofer (1956-1980) refers to it, but
+at present it is very difficult to consult in India.
+
+Best
+
+DB
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150309/e633742c/attachment.htm>

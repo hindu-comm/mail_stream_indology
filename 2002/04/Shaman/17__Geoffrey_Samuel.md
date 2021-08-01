@@ -1,0 +1,36 @@
++++
+title = "17 Geoffrey Samuel"
+date = "2002-04-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026853.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026853.html)
+
+On the derivation of shaman from zramaNa, see also the discussion at
+pp.240-3 of Karl Heinrich Menges, "Aus dem
+animistisch-schamanistischen Wortschatz der Altajer." In W. Heissig
+and K. Sagaster (ed), Gedanke und Wirkung: Festschrift zum 90.
+Geburtstag von Nikolaus Poppe, pp.221-251. Wiesbaden Harrassowitz,
+1989.
+
+Menges supports the derivation (not everybody does), citing inter
+alia a letter from Sir Harold Bailey to Carmen Blacker (included in
+Blacker's The Catalpa Bow) which traces the term through Prakrit,
+Saka, Tokharian, Sogdian "and other forms in Uigur Turkish, Asokan
+Greek and New Persian until it reached China as sha-men. Thence it
+made its way to Japan as shamon."
+
+Geoffrey Samuel
+--
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Geoffrey Samuel and Santi Rozario, Department of Sociology & Anthropology,
+University of Newcastle, NSW 2308, AUSTRALIA
+phone (home) (02) 4957 0244, (work, Geoffrey) 4921 5698 (work, Santi) 4921 6790
+fax +61-2-49216902 email (Geoffrey) sogbs at alinga.newcastle.edu.au
+(Santi) sostr at alinga.newcastle.edu.au
+WWW (work) http://www.newcastle.edu.au/school/socsci
+WWW (personal) http://users.hunterlink.net.au/~mbbgbs
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+
+

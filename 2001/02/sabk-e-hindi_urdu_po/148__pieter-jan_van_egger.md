@@ -1,0 +1,26 @@
++++
+title = "148 pieter-jan van eggermont"
+date = "2001-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025267.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025267.html)
+
+I am looking for information on the local Indian influence in
+sabk-e-hindi/early Urdu poetry. It seems from my research on "Mirza Rafi
+Sauda" that the "highly persianised character" that is often taken as a
+standard for early Urdu poetry (with Persian poetry as its ancestor) might
+need some modification. The local Indian themes in Sauda's qasida are
+manifold : Hindu ceremonies and festivals, Braj-styled figures of speech,
+etc...
+I want to continue research on this theme in earlier sabk-e-hindi literature
+in order to look and redefine Indian influence on Persian literature (also
+outside the Indian subcontinent). Any information would be most welcome, as
+I haven't been able to contact any scholars working on this particular
+theme.
+Pieter-Jan van Eggermont
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

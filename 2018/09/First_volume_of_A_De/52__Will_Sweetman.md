@@ -1,0 +1,24 @@
++++
+title = "52 Will Sweetman"
+date = "2018-09-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-September/048480.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-September/048480.html)
+
+Could anyone point me to a scan of the first volume of P.P.S. Sastri's A 
+Descriptive Catalogue of the Sanskrit Manuscripts in the Tanjore 
+Mahārāja Serfoji’s Sarasvatī Mahāl Library, Tanjore (1928)? I can 
+find only from Vol.2 onwards in places like archive.org or the DLI 
+mirror at https://dli.sanskritdictionary.com/
+
+Failing that, can anyone confirm the date of ms. no. 134?
+
+Many thanks
+
+Will Sweetman
+University of Otago
+
+
+
+

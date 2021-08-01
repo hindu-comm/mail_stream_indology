@@ -1,0 +1,32 @@
++++
+title = "126 Paolo Eugenio Rosati"
+date = "2015-06-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041369.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-June/041369.html)
+
+Thanks to Corinna Wessel-Mavissen for the help in finding the Nagaswamy's
+article (that maybe was published in 1996 and wasn't in 1966).
+
+Thanks to all that help and try to help me, this list is great!!!
+
+Best wishes,
+Paolo
+
+-- 
+Paolo E. Rosati
+Oriental Archaeologist
+PhD candidate in Civilisations of Asia & Africa
+Section: South Asian Studies
+Dep. Italian Institute of Oriental Studies (ISO)
+'Sapienza' University of Rome
+paoloe.rosati at uniroma1.it
+paoloe.rosati at gmail.com
+Mobile: (+39) 3387383472
+Skype: paoloe.rosati
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150622/864236e7/attachment.htm>

@@ -1,0 +1,29 @@
++++
+title = "12 Klaus Karttunen"
+date = "2001-10-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-October/026395.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-October/026395.html)
+
+Dear Birgit,
+
+there must be some more special written about this, but in any case
+Moorhouse in his book India Britannica emphasizes the role of the I.C.S.
+as a sort of new creation later used as a model elsewhere, too.
+According to Moorhouse the very word "civil servant" was coined in
+British India.
+
+All the best
+Klaus
+
+
+--
+Klaus Karttunen, Ph.D.
+Docent of Indology and Classical Ethnography
+Institute of Asian and African Studies
+PL 59 (Unioninkatu 38 B), 00014 University of Helsinki, FINLAND
+phone 358-0-19122188, fax 358-0-19122094
+
+
+

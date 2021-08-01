@@ -1,0 +1,52 @@
++++
+title = "04 Tomoyuki Kono"
+date = "2013-05-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-May/037848.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-May/037848.html)
+
+Dear Colleagues (with apologies for cross-posting),
+
+We are pleased to announce the publication of the fourth issue of the Journal of the Oxford Centre for Buddhist Studies. We enclose a section of the Editorial, together with the table of contents.
+
+**From the Editorial**
+Here I wish to draw particular attention to three contributions, all of which say something new and important, making real additions to our knowledge of Buddhism. I think that any reader can see for themselves that “The Silent Mentors of Tzu Chi” is a remarkable article. It is remarkable firstly in being both a primary and a secondary source... the whole is further enhanced by the comments of the author, himself a prominent member of Tzu Chi. Rey’s article is uplifting. That by Suren Rāghavan is deeply depressing. Here we overlap with journalism – and Suren has indeed worked as a journalist – for he is recording the activities of a new movement which 3 months ago, when he started writing, hardly anyone outside Sri Lanka had heard of, while now more news, much of it lurid, is appearing on the Internet every day. But his article is far from ephemeral. He adds to his report of ongoing events a profound analysis of their background and current context, leading to a chilling warning of where they seem to be heading. The article by Brett Shults could hardly be more different, for it deals in painstaking detail with facts which have been available for over two thousand years – but not adequately understood.
+
+**Contents**
+Editorial.
+Richard Gombrich. Page 5
+
+Early Buddhist and Confucian Concepts of Filial Piety: A Comparative Study.
+Guang Xing. Page 8.
+
+The Silent Mentors of Tzu Chi.
+Rey-Sheng Her. Page 47.
+
+In Search of the Khmer Bhikkhunī: Reading Between the Lines in Late Classical and Early Middle Cambodia (13th–18th Centuries).
+Trude Jacobsen. Page 75.
+
+Buddhicizing or Ethnicizing the State: Do the Sinhala Saṅgha Fear Muslims in Sri Lanka? Suren Rāghavan. Page 88.
+
+Brahmanical Terminology and The Straight Way in the Tevijja Sutta.
+Brett Shults. Page 105.
+
+Parmenides and Nāgārjuna: A Buddhist Interpretation of Ancient Greek Philosophy.
+Nathan Tamblyn. Page 134.
+
+Book Review
+Reading Buddhist Sanskrit Texts: An Elementary Grammatical Guide. K.L. Dhammajoti. Reviewed by Brett Shults. Page 147.
+
+---
+
+For information on how to subscribe, please visit http://www.ocbs.org/ojs/index.php/jocbs.
+Institutional subscribers can contact Steven Egan (steven.egan at ocbs.org) for further information.
+
+---
+Tomoyuki Kono, MA, DPhil
+Production Manager
+Oxford Centre for Buddhist Studies
+Oxford
+
+
+

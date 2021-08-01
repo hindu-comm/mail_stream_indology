@@ -1,0 +1,29 @@
++++
+title = "19 Ulrich T. Kragh"
+date = "2005-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-February/028975.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-February/028975.html)
+
+I would like some references in Sanskrit sources and/or secondary literature
+on "the hood-jewel" (paNamaNi/phaNamaNi), i.e., the concept that there is a
+jewel either on or inside the hood of the cobra. I imagine that this refers
+figuratively to the characteristic drawings and dots found naturally on the
+cobra-hood, but is there some more mythology associated with this concept,
+and if so, where?
+
+I have a dedication-verse by the Buddhist Madhyamaka-commentator
+CandrakIrti, wherein merit (puNya) is compared to lit. "the hood-jewel on
+the mind-snake" (verse extant only in Tibetan: "sems kyi sbrul la gdengs
+ka'i nor bu", perhaps *cittAgapaNamaNi). A later Indian commentary by
+JayAnanda attests a reading-variant as "the jewel of the day (i.e., the sun)
+in the night of the mind" (also only in Tibetan: "bsam pa'i mtshan la nyin
+gyi nor bu", perhaps *cittAktAdinamaNi).
+
+With best regards,
+Ulrich Timme Kragh
+Post-Doctoral Associate, Harvard University
+
+
+

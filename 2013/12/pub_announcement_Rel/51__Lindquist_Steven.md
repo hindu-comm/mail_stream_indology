@@ -1,0 +1,98 @@
++++
+title = "51 Lindquist, Steven"
+date = "2013-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-December/038682.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-December/038682.html)
+
+Newly released paperback edition (and at a much more affordable $40/£25):
+
+_Religion and Identity in South Asia and Beyond: Essays in Honor of
+Patrick Olivelle_ (New York/London/Delhi: Anthem Press, 2013). 392 pages.
+ISBN 978-1783080670. http://tinyurl.com/k2l8zno
+<http://tinyurl.com/k2l8zno>
+
+TOC below.
+
+My best,
+
+Steven
+
+STEVEN LINDQUIST, PH.D.
+ASSOCIATE PROFESSOR, RELIGIOUS STUDIES
+DIRECTOR, GLOBAL AND REGIONAL STUDIES INITIATIVE
+DIRECTOR, ASIAN STUDIES
+____________________
+
+Dedman College of Humanities and Sciences, SMU
+PO Box 750202 | Dallas | TX | 75275
+Email: slindqui at smu.edu
+Web: http://faculty.smu.edu/slindqui
+
+
+
+
+TABLE OF CONTENTS
+
+STEVEN E. LINDQUIST
+Introduction: Patrick Olivelle and Indology 9
+Major Publications of Patrick Olivelle 15
+
+I. WORD, TEXT, CONTEXT
+
+TIMOTHY LUBIN: The Elusive Snataka 23
+
+JARROD L. WHITAKER: Who Gets to Live Forever in Ancient India? Rethinking
+ayus in the Rgveda 41
+
+STEVEN E. LINDQUIST: One Yajnavalkya... Two? On the (Questionable)
+Historicity of a Literary Figure 69
+
+ROBERT A. GOODDING: A Theologian in a South Indian Kingdom: The Historical
+Context of the Jivanmuktiviveka of Vidyaranya 83
+
+BRIAN BLACK: The Rhetoric of Secrecy in the Upanishads 101
+
+II. CUSTOM AND LAW
+
+ROBERT A. YELLE: Punishing Puns: Etymology as Linguistic Ideology in Hindu
+and British Traditions 129
+
+DONALD R. DAVIS, JR.: Matrilineal Adoption, Inheritance Law, and Rites for
+the Dead among Hindus in Medieval Kerala 147
+
+FEDERICO SQUARCINI: Punishing in Public: Imposing Moral Self-Dominance in
+Normative Sanskrit Sources 165
+
+III. BUDDHISTS AND JAINS AS SELVES AND OTHERS
+
+OLIVER FREIBERGER: How the Buddha Dealt with Non-Buddhists 185
+
+DANIEL BOUCHER: Sacrifice and Asceticism in Early Mahayana Buddhism 197
+
+LISA N. OWEN: Text and Image: Identifying Ellora¹s Jain Deities 225
+
+IV. (RE)CONSIDERING GEOGRAPHICAL AND CONCEPTUAL BOUNDARIES
+
+DEVIN DEWEESE: Spiritual Practice and Corporate Identity in Medieval Sufi
+Communities of Iran, Central Asia, and India: The Khalvati/Ishqi/Shattari
+Continuum 251
+
+JASON BEDUHN: Digesting the Sacrifices: Ritual Internalization in Jewish,
+Hindu, and Manichaean Traditions 301
+
+MANU BHAGAVAN: The Hindutva Underground: Hindu Nationalism and the Indian
+National Congress in Late Colonial and Early Postcolonial India 321
+
+LAURA R. BRUECK: Marking the Boundaries of a New Literary Identity: The
+Assertion of 'Dalit Consciousness' in Dalit Literary Criticism 347
+
+KARLINE MCLAIN : Young Shvetaketu in America: Learning to be Hindu in the
+Diaspora 369
+
+
+
+
+
+

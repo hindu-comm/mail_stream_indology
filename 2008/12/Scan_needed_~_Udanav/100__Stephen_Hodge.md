@@ -1,0 +1,27 @@
++++
+title = "100 Stephen Hodge"
+date = "2008-12-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-December/032288.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-December/032288.html)
+
+Dear Friends,
+
+Does anybody have access to Vol I of Franz Berhard's edition of the 
+Udaanavarga ?  Yet again, I find that this is another book that has 
+mysteriously disapppeared from the SOAS Library collection.   If any kind 
+soul could help, I need a scan of the few pages where he covers XXX.35-36 
+(the udana beginning "ayo-ghana-hatasya .. ").  I would be indebted to 
+anybody who could help !
+
+Best wishes,
+Stephen Hodge
+
+PS:  Is this phenomenon of depleted library stocks especially unique to SOAS 
+?  Every visit I make, I find that at least one out of every six books I am 
+looking for has disappeared.   The security system is an absolute joke as 
+probably every student knows how to by-pass it ! 
+
+
+

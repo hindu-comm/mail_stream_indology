@@ -1,0 +1,16 @@
++++
+title = "192 Stefano Pellò"
+date = "2001-03-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025744.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025744.html)
+
+I am a graduate in Persian studies at Venice University, Italy, and I'm interested in three specific aspects of Persian culture in islamic India: Persian literature written by Hindus (e.g. the Chahar Chaman by Chandra Bhan Brahman), from either a linguistic or a religious point of view; interpretative works of Indian culture written in Persian by Muslims, such as the Tuhfat al-Hind by Mirza Khan b. Fakhr al-Din; traditional studies on Persian language written in India (in the field of lexicography, grammar, etc.), such as the works by Hansawi and Arzu. I would be grateful if you could suggest me names of scholars and/or centres involved in this kind of research, both in India (I'm going there in April) and Europe.
+            Thank you in advance
+
+            Yours sincerely,
+                                     Stefano Pellò
+
+
+

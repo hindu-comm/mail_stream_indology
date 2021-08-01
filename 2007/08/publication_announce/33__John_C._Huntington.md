@@ -1,0 +1,38 @@
++++
+title = "33 John C. Huntington"
+date = "2007-08-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-August/031041.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-August/031041.html)
+
+Dear Anna,
+
+You might tell us the regional emphasis of your study.  There are  
+major regional differences, and where you geographically  locate your  
+study is of considerable importance.
+
+John
+
+
+
+>
+
+John C. Huntington, Professor
+(Buddhist Art and Methodologies)
+http://history-of-art.osu.edu/3_people/faculty.php
+Visit the Huntington Archive At:
+<http://huntingtonarchive.osu.edu>
+Department of the History of Art
+The Ohio State University
+Columbus, OH, U.S.A.
+
+Street Address:
+108 North Oval Mall
+Columbus, OH 43210-1318 U.S.A.
+
+Phone:
+(614) 688-8198
+
+
+

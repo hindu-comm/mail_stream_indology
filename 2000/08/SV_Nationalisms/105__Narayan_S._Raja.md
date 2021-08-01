@@ -1,0 +1,49 @@
++++
+title = "105 Narayan S. Raja"
+date = "2000-08-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022359.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022359.html)
+
+On Wed, 9 Aug 2000, Lars Martin Fosse wrote:
+
+   Narayan S. Raja [SMTP:raja at IFA.HAWAII.EDU] skrev 9. august 2000 00:41:
+
+[...deleted...]
+
+   > > This bunch themselves - most of them thugs - are a product of Brit
+   > > cunning and Indian naivete.
+
+   In all haste, I am rather bogged down right now: To be on the
+   safe side, I would like to say that I did not make the remark above.
+
+
+[...deleted...]
+
+   > > What meaning has democracy in a country
+   > > where half the population is illiterate?
+
+   Not my comment either.
+
+
+I never said you said this.  My original posting
+started with:
+
+       "On Mon, 7 Aug 2000, nanda chandran wrote:
+        > Lars Martin Fosse wrote:"
+
+This, by convention, means that lines marked
+with a single ">" came from Nanda Chandran,
+whereas lines marked with "> >" came from you.
+However, I well appreciate that you want to
+make it even clearer to casual readers that
+you din't say the above things.  OK, that's natural.
+
+Best wishes,
+
+
+Raja.
+
+
+

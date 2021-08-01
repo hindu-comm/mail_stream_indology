@@ -1,0 +1,45 @@
++++
+title = "03 Axel Michaels"
+date = "2012-09-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-September/036957.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-September/036957.html)
+
+>From 11th Feb. - 1st Mar. 2013 the Department of Classical Indology, Heidelberg University is organizing an Advanced Course in Spoken Sanskrit
+
+The course will be taught by Dr. Sadanada Das (Leipzig University, Germany) who has been conducting courses on spoken Sanskrit since two decades including every year the Summer School in Spoken Sanskrit in Heidelberg.
+
+The venue of the Advanced Course in Spoken Sanskrit is Śādvala - Center for Sanskrit Studies in Goa (India)
+
+The maximum strength of the course is limited to seven participants.
+
+Course fee is 400 Euro and accommodation charges are 290 Euro 
+(21 days, from 10th Feb. - 2nd Mar. 2013, incl. vegetarian meals and refreshments)
+
+Applications should reach us by 31st Oct. 2012.
+
+More information and application form is available here:
+
+http://www.sai.uni-heidelberg.de/abt/IND/en/aktuelles/advanced.php
+
+
+
+Prof. Dr. Axel Michaels
+
+Director Excellence Cluster "Asia and Europe in a Global Context", Sprecher des SFB 619 ("Ritualdynamik")
+
+Universität Heidelberg, Südasien-Institut, Im Neuenheimer Feld 330, D-69120 Heidelberg
+Tel. +49-6221-548917 / Fax +49-6221-546338 
+http://www.asia-europe.uni-heidelberg.de/ -- www.ritualdynamik.uni-hd.de -- http://www.sai.uni-heidelberg.de/abt/IND/index.html
+Emails: sek-michaels at uni-heidelberg.de (SAI office) -- Axel.Michaels at urz.uni-heidelberg.de (official and personal) -- michaels at asia-europe.uni-heidelberg.de (Cluster mail)
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120916/5faa198c/attachment.htm>

@@ -1,0 +1,134 @@
++++
+title = "12 Charles DiSimone"
+date = "2016-10-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-October/044291.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-October/044291.html)
+
+Hey Patrick,
+
+At the risk of telling you something that you probably already know. MW
+cites this word from the *Dhūrtasamāgama*. I hope all is well and you're no
+longer flooded!
+
+All best,
+Charles
+
+On Fri, Oct 7, 2016 at 1:00 AM, patrick mccartney <psdmccartney at gmail.com>
+wrote:
+
+> Dear Friends,
+>
+> I came across this word below while looking up the meaning of another word
+> in the dictionary. I am curious to know in which text(s) it might be found.
+> Is there a section on capital punishment in the arthaśāstras?
+>
+> तुषानल tuSAnala
+> <http://spokensanskrit.de/index.php?tinput=tuSAnala&direction=SE&script=HK&link=yes&beginning=0>
+> m. capital
+> <http://spokensanskrit.de/index.php?tinput=capital&direction=ES&script=HK&link=yes&beginning=0>
+>  punishment
+> <http://spokensanskrit.de/index.php?tinput=punishment&direction=ES&script=HK&link=yes&beginning=0>
+>  consisting
+> <http://spokensanskrit.de/index.php?tinput=consisting&direction=ES&script=HK&link=yes&beginning=0>
+>  in
+> <http://spokensanskrit.de/index.php?tinput=in&direction=ES&script=HK&link=yes&beginning=0>
+>  *twisting*
+> <http://spokensanskrit.de/index.php?tinput=twisting&direction=ES&script=HK&link=yes&beginning=0>
+>
+> dry
+> <http://spokensanskrit.de/index.php?tinput=dry&direction=ES&script=HK&link=yes&beginning=0>
+>  straw
+> <http://spokensanskrit.de/index.php?tinput=straw&direction=ES&script=HK&link=yes&beginning=0>
+>  round
+> <http://spokensanskrit.de/index.php?tinput=round&direction=ES&script=HK&link=yes&beginning=0>
+>  a
+> <http://spokensanskrit.de/index.php?tinput=a&direction=ES&script=HK&link=yes&beginning=0>
+>  criminal's
+> <http://spokensanskrit.de/index.php?tinput=criminal%27s&direction=ES&script=HK&link=yes&beginning=0>
+> limbs
+> <http://spokensanskrit.de/index.php?tinput=limbs&direction=ES&script=HK&link=yes&beginning=0>
+>  and
+> <http://spokensanskrit.de/index.php?tinput=and&direction=ES&script=HK&link=yes&beginning=0>
+>  setting
+> <http://spokensanskrit.de/index.php?tinput=setting&direction=ES&script=HK&link=yes&beginning=0>
+>  it
+> <http://spokensanskrit.de/index.php?tinput=it&direction=ES&script=HK&link=yes&beginning=0>
+>  on
+> <http://spokensanskrit.de/index.php?tinput=on&direction=ES&script=HK&link=yes&beginning=0>
+>  fire
+> <http://spokensanskrit.de/index.php?tinput=fire&direction=ES&script=HK&link=yes&beginning=0>
+>
+> All the best,
+>
+> Patrick McCartney, PhD
+> Fellow
+> School of Culture, History & Language
+> College of the Asia-Pacific
+> The Australian National University
+> Canberra, Australia, 0200
+>
+>
+> Skype - psdmccartney
+> Phone + Whatsapp:  +61 414 954 748
+> Twitter - @psdmccartney
+>
+>
+> academia <https://anu-au.academia.edu/patrickmccartney>
+>
+>    -
+>
+> Linkedin
+> <https://www.linkedin.com/profile/view?id=241756978&trk=nav_responsive_tab_profile>
+>
+> Edanz <https://www.edanzediting.com/expert/anthropology/patrick-mccartney>
+>
+> #yogabodyANU2016 symposium <https://www.youtube.com/watch?v=X80KxW2bb0w>
+> <http://chl.anu.edu.au/news-events/events/658/yoga-and-body-past-and-present-symposium?#tab>
+>
+> Ep1 - Imagining Sanskrit Land <https://youtu.be/jMi7tkPBbJ4>
+>
+> Ep 2 - Total-am <https://youtu.be/7tAp8m9RHPU>
+>
+> Ep 3 - Jalam ≠ Chillum <https://youtu.be/cLZeuCT_mwQ>
+>
+> Ep 4 - It's Time to get Married
+> <https://www.youtube.com/watch?v=_B3un7aHEAc>
+>
+> A Day in our Ashram
+> <https://www.youtube.com/results?search_query=ek+din+hamaare+ashram+mein>
+>
+> Stop animation short film of Shakuntala
+> <https://www.youtube.com/watch?v=LVqBD_2P4Pg>
+>
+> Forced to Clean Human Waste <http://youtu.be/y3XfjbwqC_g>
+>
+> One of my favourite song
+> <http://trinityroots.bandcamp.com/track/all-we-be>s
+>
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+
+-- 
+Charles DiSimone
+Promotionsprogramm Buddhismus-Studien
+Institut für Indologie und Tibetologie
+Ludwig-Maximilians-Universität München
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161007/abc1b411/attachment.htm>

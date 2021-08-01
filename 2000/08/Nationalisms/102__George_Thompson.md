@@ -1,0 +1,37 @@
++++
+title = "102 George Thompson"
+date = "2000-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022344.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022344.html)
+
+In a message dated 8/8/00 8:55:16 PM Eastern Daylight Time,
+rajarshi.banerjee at SMGINC.COM writes:
+
+> GT> So it appears that it is not impossible for the contemporary Indian to
+>  become well-informed about recent scholarship in Vedic, if he or she is so
+>  inclined. But the 'millions' who read Rajaram will perhaps take more
+>  pleasure in Rajaram's horses than in genuine scholarship?
+
+>  An understanding of the indian public would tell you that rajarams's books
+>  is not being read by millions and is not a mainstream topic. Out of all the
+>  educated indians I have met, I have only met one person who knew Rajaram's
+>  name and about his decipherment attempts.
+>  I also remember a list member who keeps track of indian news and finds it
+>  "somewhat nuanced". This is a bit thick. The news is written with a certain
+>  audience in mind. Dont see why the news of a whole nation has to be nuanced
+>  in a way to satisfy the requirements of an individual.
+>   I remember reading the indian coverage on the recent WTO conference in
+>  seattle and also the US coverage. There is an obvious dfference and it
+would
+>  be surprising if there wasn't.
+>  regards RB
+
+
+This is good news.  Thanks.
+
+GT
+
+
+

@@ -1,0 +1,63 @@
++++
+title = "272 Dominik Wujastyk"
+date = "2001-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026213.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026213.html)
+
+---------- Forwarded message ----------
+Date: Tue, 17 Apr 2001 15:27:17 +0200
+From: Michael Zimmermann <fo0a002 at uni-hamburg.de>
+
+*****************************************************************
+
+Dear colleagues,
+
+We are planning to compile a list of all publications for which material
+(manuscripts, xylographs, historical documents, etc.) microfilmed by the
+Nepal-German Manuscript Preservation Project (NGMPP) was used, i.e.
+editions, translations, studies, be it articles or books.
+
+If you have published anything using NGMPP material, we would appreciate
+it if you could send us a list of these publications.
+
+Information on publications involving texts in Sanskrit, Nepali, Newari,
+and other South Asian languages should be emailed to
+
+Johannes Vagt:  fo0a003 at uni-hamburg.de or
+Michael Zimmermann:  fo0a002 at uni-hamburg.de
+
+Information on publications involving texts in Tibetan
+should be emailed to
+Orna Almogi:  fo0a004 at uni-hamburg.de
+
+  With best regards,
+
+    the NGMPP team, University of Hamburg, Germany
+
+
+PS Please note that the NGMPP doesn't have a representative in Nepal at
+present. If you wish to order microfilms, please contact the National
+Archives in Kathmandu directly. The contact details are to be found on our
+homepage: http://www.uni-hamburg.de/Wiss/FB/10/IndienS/NGMPP/index.html.
+
+*********************************************************************
+
+--
+Michael Zimmermann
+Nepal-German Manuscript Preservation Project (NGMPP)
+University of Hamburg
+Institute for India and Tibet
+Neue Rabenstr. 3
+20354 Hamburg
+Germany
+
+tel.:  +49-40-42838 6267
+fax:  +49-40-42838 6944
+email: fo0a002 at uni-hamburg.de
+
+http://www.uni-hamburg.de/Wiss/FB/10/IndienS/NGMPP/index.html
+
+
+

@@ -1,0 +1,4 @@
++++
+title = "Patanjali quote (fwd)"
+
++++

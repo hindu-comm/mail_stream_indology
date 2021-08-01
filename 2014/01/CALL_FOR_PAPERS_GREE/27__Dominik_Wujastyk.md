@@ -1,0 +1,58 @@
++++
+title = "27 Dominik Wujastyk"
+date = "2014-01-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-January/038775.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-January/038775.html)
+
+​----- forwarded message -----
+
+*From:* Classicists [CLASSICISTS at liverpool.ac.uk] on behalf of Seaford,
+Richard
+*Sent:* 18 October 2013 09:11
+*To:* CLASSICISTS at liverpool.ac.uk
+*Subject:* Greece and India
+
+ *CALL FOR PAPERS: GREECE and INDIA.*
+
+
+
+*Proposals are invited for 30-minute papers at a Conference on Indian and
+Greek Thought, at the University of Exeter, July 9-12, 2014.*
+
+
+
+This is part of the AHRC funded project  'Ātman and Psyche. Cosmology and
+the Self in Ancient India and Ancient Greece', conducted by Dr. Richard
+Fynes of de Montfort University and Professor Richard Seaford of the
+University of Exeter..
+
+
+
+More information about the project appears at
+http://atmanandpsyche.exeter.ac.uk/
+
+
+
+The theme of the conference is the striking similarities (and reasons for
+the similarities) in philosophical thought between India and Greece in the
+period before Alexander crossed the Indus in 326 BCE. Papers that
+concentrate mainly on one or other of the two cultures, or on a later
+period, are not necessarily ineligible, provided that they are likely to
+stimulate discussion of the main theme.
+
+
+
+If you would like to be on the circulation list, please contact
+R.A.S.Seaford at ex.ac.uk
+
+If you would also like to give a paper, please send an abstract (300 words
+maximum).
+
+Funding may be available for the expenses of those giving papers.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140104/f1468474/attachment.htm>

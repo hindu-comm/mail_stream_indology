@@ -1,0 +1,59 @@
++++
+title = "00 Allen W Thrasher"
+date = "2005-03-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-March/029052.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-March/029052.html)
+
+For various reasons I have to give a library patron a quick evaluation of this book:
+
+LC Control Number:       91222347 
+
+Type of Material:        Book (Print, Microform, Electronic, etc.)
+
+Personal Name:           Puskás, Ildikó.
+
+Main Title:              India bibliográfia / Puskás Ildikó = India bibliography / Ildikó
+                            Puskás.
+
+Published/Created:       Budapest : Akadémiai Kiadó, 1991.
+
+Related Titles:          India bibliography.
+
+Description:             602 p. ; 25 cm.
+
+ISBN:                    9630555913
+
+Notes:                   Includes index.
+
+Subjects:                India--Bibliography.
+
+Series:                  Bibliotheca orientalis Hungarica ; v. 35
+
+LC Classification:       Z3206 .P87 1991 DS407
+
+
+My library's copy is not on shelf.  Can anyone tell me  (1) if it is well-organized,  (2) if it confines itself wholly or mostly to Hungarian scholarship, and (3) does it have evaluative essays on works, or just list them?
+
+Thanks,
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

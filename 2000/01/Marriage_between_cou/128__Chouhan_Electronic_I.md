@@ -1,0 +1,34 @@
++++
+title = "128 Chouhan Electronic Informatics P Ltd."
+date = "2000-01-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019708.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019708.html)
+
+Marriage between stars of same kind cannot happen.
+
+It is simple.
+
+Ramesh
+
+At 06:40 PM 01/07/2000 +0500, you wrote:
+>At 1/5/00 4:38:00 PM, you wrote:
+>>Is the practice of marrying one's maternal uncle's
+>>daughter prevalent amongst Tamil brahmins. Is it
+>>dependent on the subsect ?
+>>
+>>Thanks,
+>>Nikhil
+>>
+>I cannot say it is actively persued; but it is not discouraged. it does
+happen, irresepective of region and subsects. Please
+>read 'Tamil Brahmins' by N.Subrahmanian for elucidation.
+>
+>With regards,
+>RM.Krishnan.
+>
+>
+
+
+

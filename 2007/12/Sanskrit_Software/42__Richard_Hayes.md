@@ -1,0 +1,42 @@
++++
+title = "42 Richard Hayes"
+date = "2007-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-December/031304.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-December/031304.html)
+
+On Friday 14 December 2007 22:09, Nivedita Rout wrote:
+
+> Another programme called 'MikeTex' which is
+> most used by western scholars are one of the advance programmes for
+> convertion of Devanagari and roman transliteration.
+
+It is possible that what Nivedita Rout has in mind is mikTeX, which is the 
+name given to one of the entire TeX/LaTeX installations ported to Windows.
+See http://miktex.org/ There are also implementations ported to Mac. TeX/LaTeX 
+is native to UNIX systems and is a standard part of most Linux distributions.
+
+Any implementation of TeX/LaTeX can make use of either of two excellent sets 
+of macros developed by Velthuis or Wikner. TeX is a markup language, not a 
+WYSIWYG editor, so what one sees at the input level is romanized Sanskrit. 
+When the code is run through a compiler, it produces a file (either DVI or 
+PDF) that can be viewed on screen or printed out. In the viewed or printed 
+version one sees Devanagari--either Hindi or Sanskrit, depending on which 
+options one chooses. There are also quite good LaTeX macros for typesetting 
+Tibetan, Bengali, Panjabi and all the south Indian languages.
+
+Although LaTeX is often called TeX for the impatient, it is not really for 
+people who are impatient with computers. It takes time to master the code, 
+but once one learns it, one is unlikely ever to want to use anything else. 
+
+A place to start learning more about various TeX options for typesetting 
+Devanagari is http://www.ctan.org/tex-archive/languages/devanagari/ 
+
+-- 
+Richard Hayes
+Department of Philosophy
+University of New Mexico
+
+
+

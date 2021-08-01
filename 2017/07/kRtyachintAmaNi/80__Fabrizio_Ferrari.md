@@ -1,0 +1,77 @@
++++
+title = "80 Fabrizio Ferrari"
+date = "2017-07-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-July/046329.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-July/046329.html)
+
+Dear colleagues,
+
+
+
+would anybody be able to help me locate Vacaspati Miśra’s Kṛtyacintāmaṇi? From information gathered in various secondary sources, it seems the volume was published in Bengali in Benares (Śaka 1814). I also know of a Sāhitya Pariṣad (Calcutta) partial edition titled Vacaspatimiśra kṛta durgottsavaprakaraṇam. So far, I have failed to find them both. I will be very thankful if you could assist in locating a copy to consult or, even better, to share a scanned/digital version of it.
+
+
+
+With many thanks,
+
+Fabrizio Ferrari
+
+
+
+Professor of Religious Studies (Indian Religions)
+Department of Theology and Religious Studies
+University of Chester
+Parkgate Road
+Chester CH1 4BJ
+Tel 01244 511039
+f.ferrari at chester.ac.uk<mailto:f.ferrari at chester.ac.uk>
+
+
+
+
+
+
+
+
+
+
+-----Original Message-----
+From: INDOLOGY [mailto:indology-bounces at list.indology.info] On Behalf Of indology-request at list.indology.info
+Sent: 24 July 2017 17:00
+To: indology at list.indology.info
+Subject: INDOLOGY Digest, Vol 54, Issue 23
+
+
+
+Send INDOLOGY mailing list submissions to
+
+                indology at list.indology.info<mailto:indology at list.indology.info>
+
+
+
+To subscribe or unsubscribe via the World Wide Web, visit
+
+                http://list.indology.info/mailman/listinfo/indology_list.indology.info
+
+
+
+or, via email, send a message with subject or body 'help' to
+
+                indology-request at list.indology.info<mailto:indology-request at list.indology.info>
+
+
+
+You can reach the person managing the list at
+
+                indology-owner at list.indology.info<mailto:indology-owner at list.indology.info>
+
+
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of INDOLOGY digest..."
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170724/c6c0f428/attachment.htm>

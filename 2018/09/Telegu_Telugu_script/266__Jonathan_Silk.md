@@ -1,0 +1,39 @@
++++
+title = "266 Jonathan Silk"
+date = "2018-09-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-September/048387.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-September/048387.html)
+
+Dear Colleagues
+I wonder whether a kind soul would be able and willing to help me. I have a
+text I am editing, most of the MSS of which are in nāgarī (or something
+like it), one in Tilagari, and one in Telegu. The Tilagari MS has been
+deciphered (not by me) but the Telegu... well, let's just say that my
+optimism that with a script table I could make something of it (since I
+already know what the text says!) was hyper-over-optimistic. Therefore, I
+wonder if anyone familiar with the script already would be willing to
+contact me off list; I could send you both the text (edited) and the
+photos, which are extremely high quality, and... well, if it works out that
+would be wonderful. It's very short, 27 āryā verses (probably + maṅgala and
+a colophon).
+
+Very best thanks in advance, jonathan
+
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+https://leidenuniv.academia.edu/JASilk
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180912/cc4412aa/attachment.htm>

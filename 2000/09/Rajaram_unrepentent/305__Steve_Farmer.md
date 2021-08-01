@@ -1,0 +1,54 @@
++++
+title = "305 Steve Farmer"
+date = "2000-09-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022868.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022868.html)
+
+Swaminathan Madhuresan writes:
+
+>  Dear Dr. Farmer,
+>
+>  Learnt from your web URL about the computer-enhanced version of "horse"
+>  in the Indus seal by Sri Rajaram. It is interesting that he is
+>  determined to show the world that the Indus folks used "horses".
+>
+>  At the same time, why is he denying with authority about the Dravidian
+> language
+>  family altogether? N. S. Rajaram writes, "empirical data provides no
+>  support for the existence of Dravidian languages independent of Sanskrit."
+>  (The politics of history: Aryan invasion theory and the suversion of
+>  scholarship [1995:177] ). With this mindset, will he allow for Dravidian
+>  to exist in the Indus age?
+
+Wow, the non-existence of Dravidian languages is a new Rajaramism
+on me: I missed that one. It is hardly surprising, however. It is
+totally in harmony with Rajaram's Hindutva propaganda that the
+language of the Harappans (NB: language, not languages) was "late
+Vedic Sanskrit," which according to Rajaram arrived on the Indian
+scene 2000-3000 years before the language itself existed. (That's
+right, you can trace "late Vedic Sanskrit" to the 4th millennium
+BCE, if not to the Primal Ooze.) That means, of course, that the
+language of the Rigveda goes back at least to the 5th millennium,
+maybe earlier, thousands of years before domesticated horses or
+chariots existed anywhere on the planet. (The wheel hadn't even
+appeared on the planet that early, but what's a little historical
+technicality like this between Hindutva friends?)
+
+All this would be simply crackpot fun if Rajaram's writings
+didn't have a nasty fascist edge to it, and weren't meant to
+mobilize the Indian masses. Stay tuned to Rajaram's definitive
+deconstruction in a cover story written by Michael Witzel and me,
+with a backup article from Romila Thapar, that will hit the
+magazine stands in India later this week. Pretty cover, too!
+
+Until then, see the links at
+http://www.safarmer.com/horseseal/update.html (which will also
+take you to Michael's early paper on Rajaram's pseudo-Sanskrit).
+
+Cheers,
+Steve
+
+
+

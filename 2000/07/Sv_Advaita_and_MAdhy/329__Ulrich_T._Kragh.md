@@ -1,0 +1,18 @@
++++
+title = "329 Ulrich T. Kragh"
+date = "2000-07-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022037.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022037.html)
+
+Nanda Chandran wrote an extensive mail on some points of similarity and dissimilarity between the Madhyamaka and Advaita traditions regarding the notions of saMsAra and nirvANa. As such this is an interesting discussion, but your approach, which might be called "nAgArjuna and zaGkara in a nutshell" hardly does justice to these thinkers.
+
+If you seriously want to discuss this, I suggest that you base your theses and arguments on concrete quotations from their texts. Otherwise, we would only be discussing the way in which you read these thinkers (which is probably never the same for two different readers).
+
+Sincerely,
+Ulrich T. Kragh
+University of Copenhagen
+
+
+

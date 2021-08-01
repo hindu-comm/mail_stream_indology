@@ -1,0 +1,64 @@
++++
+title = "70 Ute Hüsken"
+date = "2016-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044161.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-September/044161.html)
+
+Dear colleagues
+
+I would be very interested in Bapat's article on Narayanabala, too.
+
+Best wishes
+
+Ute Huesken
+
+
+--
+
+Ute Hüsken, PhD
+Professor, South Asia Studies (Sanskrit)
+Department of Culture Studies and Oriental Languages
+University of Oslo
+Faculty of Humanities
+P.O. Box 1010 Blindern
+N-0315 Oslo
+Norway
+
+Room 387, P.A. Munch's Building
+phone: +47 22 85 48 16
+telefax: +47 22 85 48 28
+ute.huesken at ikos.uio.no
+http://www.hf.uio.no/ikos/personer/vit/uteh/index.html
+
+
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Seishi Karashima <skarashima at gmail.com>
+Sent: 18 September 2016 03:10
+To: indology at list.indology.info
+Subject: [INDOLOGY] Help with PDF files
+
+
+Dear colleagues,
+
+  Could you help me to obtain PDF copies of the following book and article?
+
+
+(1) John K. Locke, Buddhist Monasteries of Nepal: A Survey of the Bahas and Bahis of the Kathmandu Valley, Kathmandu 1985: Sahayogi Press.
+
+
+(2) P.V. Bapat, "Narayanabala," Studia Indologica Internationalia, I. (Poona and Paris, 1954)
+
+
+"Studia Indologica Internationalia" is an enigma. I have asked colleagues in India, Paris etc., but nobody knows about it. However, it is quoted in old articles.
+
+
+Many thanks in advance,
+
+Seishi Karashima
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160918/3344ad2c/attachment.htm>

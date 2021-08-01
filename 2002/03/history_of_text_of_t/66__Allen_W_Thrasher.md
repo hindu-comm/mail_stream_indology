@@ -1,0 +1,35 @@
++++
+title = "66 Allen W Thrasher"
+date = "2002-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-March/026815.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-March/026815.html)
+
+Could anyone provide me with a bibliography of the process by which the
+text of the Avesta was generated, transmitted, fixed, and the transition
+to its being written down?  I am interested in possible parallels and
+divergences with these process in the case of the Vedas.
+
+I posted this on the largely quiescent Indo-Iranian group and got no
+response except for someone who expressed a similar interest.
+Thanks,
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+
+Senior Reference Librarian       101 Independence Ave., SE
+Southern Asia Section               LJ-150
+Asian Division                            Washington, DC 20540-4810
+Library of Congress                     U.S.A.
+tel. 202-707-3732                       fax 202-707-1724
+Email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

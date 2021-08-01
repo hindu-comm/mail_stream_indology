@@ -1,0 +1,40 @@
++++
+title = "83 Dragomir Dimitrov"
+date = "2009-03-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-March/032765.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-March/032765.html)
+
+> I don't think it makes sense to oppose the need to read books (or
+> journal) in German [...] 
+
+For those Sanskritists in search of a suitable German textbook, it may 
+be useful to recall what George Abraham Grierson has remarked in his 
+review of Bruno Liebich's "Sanskrit-Lesebuch" (1905):
+
+"Again, while the book will introduce Sanskrit to Europeans, it will 
+equally well introduce German to Sanskrit Paṇḍits. If even half-a-dozen 
+good Paṇḍits are helped to acquire German by its pages, it will have 
+done excellent work." (Indian Antiquary. Vol. XXXV. Bombay 1906, p. 
+184). 
+
+Liebich's Sanskrit Reader can be had for free from 
+http://books.google.com.
+
+Cheers,
+D.D.
+
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Dr. Dragomir Dimitrov
+FG Indologie und Tibetologie,
+Philipps-Universität Marburg
+Deutschhausstraße 12,
+D-35032 Marburg, Germany
+
+http://www.uni-marburg.de/fb10/ios/indologie/dimitrov
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+
+

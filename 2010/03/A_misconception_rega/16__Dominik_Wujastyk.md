@@ -1,0 +1,25 @@
++++
+title = "16 Dominik Wujastyk"
+date = "2010-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-March/034228.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-March/034228.html)
+
+Very impressionistically - I haven't done any real test testing - my
+experience is that if I use Unicode for my source file, then I get a Unicode
+PDF.  So I can cut-and-paste and get all the diacritics.  And if I do "save
+as" plain text from PDF, I get a plain text file that's correctly Unicode
+too.
+
+I'm using XeTeX.
+
+Best,
+Dominik
+
+PS Zdenek Wagner has done successful but still experimental work on getting
+TeX + Velthuis Devnag => searchable Devanagari PDFs.
+Cf. http://sarovar.org/projects/devnag/
+
+
+

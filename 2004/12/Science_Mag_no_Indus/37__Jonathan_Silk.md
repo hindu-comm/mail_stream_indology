@@ -1,0 +1,31 @@
++++
+title = "37 Jonathan Silk"
+date = "2004-12-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028873.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028873.html)
+
+I wonder if the zi.s.tas would care to comment on what has always
+seemed to me a classic case of circular reasoning: the IVC looks
+like, and should be understood at least in part as, a precursor to
+later Indian developments (e.g., in the cases of Ziva, ritual
+bathing, status of certain animals), but primarily so seen in light
+of those later developments--thus one proves the other. Is there a
+way to de-link the IVC objects/evidence from their retrospective
+reconstructions, and still establish some continuity with later
+Indian facts?
+--
+Jonathan Silk
+Department of Asian Languages & Cultures
+Center for Buddhist Studies
+UCLA
+290 Royce Hall
+Box 951540
+Los Angeles, CA 90095-1540
+phone: (310)206-8235
+fax:  (310)825-8808
+silk at humnet.ucla.edu
+
+
+

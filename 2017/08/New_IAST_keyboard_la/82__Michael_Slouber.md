@@ -1,0 +1,32 @@
++++
+title = "82 Michael Slouber"
+date = "2017-08-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046374.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046374.html)
+
+Dear colleagues,
+
+Those of you who use Linux (or are considering making the switch), may 
+like to know about a new keyboard layout I created for the X keyboard 
+system.  It is based on, and works just like, Toshiya Unebe’s extremely 
+convenient “EasyUnicode” keyboard layout for OSX.
+
+Details are here: 
+http://www.garudam.info/sanskrit-transliteration-keyboard-on-linux/
+
+Best regards,
+
+Michael
+
+—
+Michael Slouber
+Assistant Professor of South Asia
+Liberal Studies
+Western Washington University
+
+
+
+
+

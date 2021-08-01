@@ -1,0 +1,33 @@
++++
+title = "43 Allen W Thrasher"
+date = "2003-12-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-December/028074.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-December/028074.html)
+
+Another library has sent me photocopies of two pages of a Simhala script
+palmleaf manuscript, whose contents they have no idea of.  Our Simhala
+cataloger is unable to read it.  The script is highly cursive but to my
+eye neat and potentially legible.  Is there anyone who could help the
+library find out what it is so that it may be cataloged?
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

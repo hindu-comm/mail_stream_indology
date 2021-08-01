@@ -1,0 +1,36 @@
++++
+title = "145 Martin Straube"
+date = "2020-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-July/052895.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-July/052895.html)
+
+Dear colleagues,
+
+I'm looking for G. Jan Meulenbeld, Developments in traditional Indian  
+nosology: the emergence of new diseases in post-classical times, in:  
+Curare 4,4 (1981), pp. 211-216; also published in: Hans Jochem  
+Diesfeld (ed.), Health research in developing countries, Frankfurt am  
+Main-Bern 1982 (Medizin in Entwicklungsländern 11), pp. 117-128.
+
+I would be grateful if someone on the list can help me with a pdf.
+
+With best wishes
+Martin Straube
+
+-- 
+Martin Straube
+Research Fellow in Pali Lexicography
+Pali Text Society
+
+Philipps-Universität Marburg
+Indologie und Tibetologie
+Deutschhausstrasse 12
+35032 Marburg
+Germany
+
+
+
+
+

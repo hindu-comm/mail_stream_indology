@@ -1,0 +1,39 @@
++++
+title = "57 Michael Witzel"
+date = "2015-12-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-December/042476.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-December/042476.html)
+
+Dear All, 
+
+two new issues of EJVS vol. 22 are available now at our website http://ejvs.laurasianacademy.com <http://ejvs.laurasianacademy.com/>, and additionally now at our new location at the University of Heidelberg: http://crossasia-journals.ub.uni-heidelberg.de/index.php/ejvs/index <http://crossasia-journals.ub.uni-heidelberg.de/index.php/ejvs/index>. — These are: 
+
+Stefan Zimmer, on 6 new Vedic etymologies and the late Frits Staal about the reactions to his book on Nambudiri Veda Recitation (1961), some 50 years later.
+
+(NB: Frits’ paper is not yet uploaded at Heidelberg but accessible at Laurasian; eventually all old numbers of EJVS will become available at Heidelberg).
+
+A Happy New Year to All !
+
+Michael
+
+============
+> Michael Witzel
+> witzel at fas.harvard.edu
+> <www.fas.harvard.edu/~witzel/mwpage.htm>
+> Wales Prof. of Sanskrit,
+> Dept. of South Asian Studies, Harvard University
+> 1 Bow Street,
+> Cambridge MA 02138, USA
+> 
+> phone: 1- 617 - 495 3295, fax 617 - 496 8571;
+> direct line:  617- 496 2990
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151228/a667880f/attachment.htm>

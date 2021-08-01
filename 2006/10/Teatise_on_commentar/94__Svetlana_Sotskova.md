@@ -1,0 +1,19 @@
++++
+title = "94 Svetlana Sotskova"
+date = "2006-10-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030104.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030104.html)
+
+Dear colleagues,
+
+Can anybody help me to find any substantial or any at all teatises on Indian commentary tradition, especially related to Kaavya, or mentioning cases when one commentary looks more like a shorter or simplified version of another.
+
+Thank you in advance,
+
+Svetlana Sotskova,
+University of Copenhagen.
+
+
+

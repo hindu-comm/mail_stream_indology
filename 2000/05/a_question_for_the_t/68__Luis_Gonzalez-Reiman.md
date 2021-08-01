@@ -1,0 +1,42 @@
++++
+title = "68 Luis Gonzalez-Reimann"
+date = "2000-05-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021264.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021264.html)
+
+Concerning Steve Brown's question:
+
+>>i am curious about the methodology of finding a guru in classical
+>>hinduism...How does one look?  when does one know he/she has found their
+guru?
+
+And Chris Beetle's response:
+>
+>The following is one verse from Padma Purana:
+>
+>sat-karma-nipuno vipro, mantra-tantra visaradah,
+>avaisnava guru na syad, vaisnavah sva paco guruh
+>
+>A brahmana (priest or intellectual) with all brahminical qualities and
+>abilities is not qualified to be a guru unless he is a devotee of Lord
+>Vishnu (the Supreme Lord).  While a devotee of Lord Vishnu, even if born in
+>the lowest class, is qualified to act as guru.
+
+This verse, of course, is not about how to find a Hindu spiritual guru in
+general.  It is, rather, a sectarain VaiSNava statement.  The Padma Purana
+is a VaiSNava Purana, and a very sectarian one at that: it fiercely
+condemns non VaiSNava Hindus of several traditions.
+
+It all depends on what Steve Brown is looking for, a guru within a specific
+sectarian branch of Hinduism, or a more open spiritual teacher that accepts
+different branches of Hinduism.
+
+Best,
+
+Luis Gonzalez-Reimann
+University of California, Berkeley
+
+
+

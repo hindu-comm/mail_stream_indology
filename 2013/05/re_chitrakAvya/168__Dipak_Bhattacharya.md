@@ -1,0 +1,96 @@
++++
+title = "168 Dipak Bhattacharya"
+date = "2013-05-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-May/037849.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-May/037849.html)
+
+‘The
+concept of citrakāvya
+in Sanskrit literary criticism’ Pratap Bandyopadhyay Traividyam:Vedic
+studies in memory of Durgamohan Bhattacharya, Subarnarekha, Kolkata, 2001:
+91—102 may be of some help. It has a small list of publications.
+Best
+DB
+
+
+
+________________________________
+ From: Adriano Aprigliano <aprigliano at usp.br>
+To: Indology <indology at list.indology.info> 
+Sent: Wednesday, 15 May 2013 10:54 PM
+Subject: [INDOLOGY] Citrakāvya
+
+
+
+Dear list members,
+
+I'm trying to help a friend who's looking for a solid bibliography on Citrakāvya. She's been finding it very hard to find, especially, good analysis and translations of the poems.
+
+Does any one also know of editions of the texts quoted bellow with commentaries or glosses explaining the citra passages?
+
+śiśupālavadha, canto 19
+
+kirātārjuṇīya, canto 15
+
+jānakīharaṇa,canto 18
+
+Bellow she gives a list of the poems she worked on in her thesis (in which she also worked with greek and latin carmina figurata), many of which she couldn't understand fully well. If anyone could help us in finding any other bibliographic info on them, we'd be very grateful.
+
+1. padmabandha - quoted in Jha (1975; 197)
+
+2. khadgabandha - Leela (1999: 61), Lienhard (1992: 211)
+
+3. śarabandha - Leela (1999: 63), Lienhard (1992: 212).
+
+4. musalabandha - Leela (1999: 62).
+
+5. śakti - (Leela: 1999).
+
+6. dhanus
+
+7. hala
+
+8. triśula - Leela (1999: 63)
+
+9. murajabandha - (29th stanza of śiśupālavadha's canto 19 (Jha, 1975: 201); Leela (1999: 68).
+
+10. chatrabandha - Jha (1975: 199)
+
+11. cakrabandha --(one in śiçśpālavadha's canto 19), another one quoted byLienhard (1992: 209) from Kumāradāsa's Jānakīharaṇa (18.148); a third one byJha (1975:. 198)
+
+13. turagapadabandha - Jha (1975: 196)
+
+14. śārayantrabandha - Jhaa (1975: 61)
+
+15. sarvatobhadra - also form śiśupālavadha (19. 27).
+
+16. gomūtrikā - one jānakīharaṇa(18. 21), another one from kirātārjunīya (15. 12?)
+
+The authors citing theses poems, she says, usually don't say where they got them from.
+
+If any one may have digitized material that could send us, I thank him/her in advance.
+
+Best wishes
+Prof. Dr. Adriano Aprigliano
+Área de Língua e Literatura Latina
+
+Faculdade de Filosofia, Letras e Ciências Humanas
+Universidade de São Paulo
+São Paulo, Brasil
+
+
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+http://listinfo.indology.info
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130516/a462f564/attachment.htm>

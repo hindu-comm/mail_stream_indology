@@ -1,0 +1,24 @@
++++
+title = "38 Matthew Kapstein"
+date = "2003-10-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-October/027956.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-October/027956.html)
+
+As an introduction to at least some
+aspects of the vyaakara.na traditions,
+I've found Matilal's The Word and the World
+to be excellent for classroom use.
+Staal's 'Euclid and Panini' article
+(reprt. in his collection 'Universals')
+is also good in this context.
+Some of the articles in the Cultural
+History of India that Basham edited for OUP
+are useful as introductions to
+the various sastra-s.
+
+Matthew
+
+
+

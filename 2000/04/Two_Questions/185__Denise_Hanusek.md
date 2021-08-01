@@ -1,0 +1,28 @@
++++
+title = "185 Denise Hanusek"
+date = "2000-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021110.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021110.html)
+
+Dear members of the Indology list,
+
+I have two questions that I hope someone on the list may be able to answer:
+
+1) I am currently reviewing a book whose introduction was written by
+someone named Kala Acharya.  He is most likely a Maharashtrian and may be
+in the Pune area.  The introduction deals with Hindu spirituality.  Does
+anyone know who he is?  Can you give me any information about him?
+
+2) There is an aphorism in the Poetic Eddas which says something like:
+"Better to remain silent and have people think you a fool than to speak and
+remove all doubt."  Does anyone know if there is a similar aphorism in
+Sanskrit literature?
+
+Thanks very much for your help.
+
+Denise
+
+
+

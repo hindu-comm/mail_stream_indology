@@ -1,0 +1,64 @@
++++
+title = "24 Dominik Wujastyk"
+date = "2001-11-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-November/026451.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-November/026451.html)
+
+---------- Forwarded message ----------
+Date: Thu, 15 Nov 2001 14:41:31 +0100
+From: Tanja Amini <amini at uni-hamburg.de>
+To: emmerick at uni-hamburg.de
+Subject: academic memorial service
+
+Ladies and Gentlemen
+
+We would like to invite you to the Academic Memorial Service in honour of
+Prof. Dr. Ronald E. Emmerick, who died on the 31. August this year.
+
+ Place:  Warburg-Haus, Heilwigstraße 116, 20249 Hamburg
+  Directions under <http://www.warburg?haus.hamburg.de/>
+
+ Time: Friday the 14. December 2001, at 5 p.m.
+
+Programme
+
+1. Address by the Vicepresident of the University of Hamburg, Herr
+Weidner
+2. Address by the Dean of the Oriental Faculty, Prof. Dr. Manfred Pohl
+3. Recitation
+4. Lecture by Prof. Werner Sundermann (Berlin - BBAW Turfanforschung)
+ Erinnerungen an Ron Emmerick
+5. Music
+6. Lecture by Prof. Mauro Maggi (University of Naples)
+ Ronald E. Emmerick and the Siddhas¢ra: Khotanese, Iranian and Oriental
+Studies
+7. Closing music
+
+Wine will be served in the Foyer after the service.
+
+We would be very pleased if you could attend, and would let us have your
+reply by the
+30. November.
+
+In connection with this occasion we would like to produce a small
+pamphlet of personal reminiscences by friends and colleagues in
+appreciation of Ronald E. Emmerick. If you would like to share in this,
+would you please let us have your contribution, also by the 30.
+November.
+Please present your text on a DinA4-page, script 12pt, line spacing 1 -
+and if possible without diacritics and in rtf- or wpd-format.
+
+Arbeitsbereich Iranistik
+Universität Hamburg
+Asien-Afrika-Institut
+Rothenbaumchaussee 36
+20148 Hamburg
+Germany
+Tel.: +49-(0)40-42838-3178 (Tanja Amini)
+Fax: +49-(0)40-42838-5674
+e-mail: iranistik at uni-hamburg.de
+
+
+

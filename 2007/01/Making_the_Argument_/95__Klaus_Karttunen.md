@@ -1,0 +1,34 @@
++++
+title = "95 Klaus Karttunen"
+date = "2007-01-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030301.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030301.html)
+
+Dear colleagues,
+I rather agree with Lars Martin. It is not much use to say that 
+"Indology is a field of study that offers students a rigorous 
+intellectual training that is applicable to almost any of their future 
+fields of study and employment", many other fields are capable of the 
+same claim. The fascination of the study and the aesthetic value are 
+also poor arguments. What matters is the importance of India (and South 
+Asia) and the essential role of Sanskrit in understanding it. To 
+cultural and religious arguments we could also add linguistics and 
+history -- everywhere Sanskrit is important.
+
+Klaus
+
+
+Klaus Karttunen, Ph.D.
+Professor of South Asian and Indoeuropean Studies
+Institute for Asian and African Studies
+PL 59 (Unioninkatu 38 B)
+00014 University of Helsinki, FINLAND
+
+Tel +358-(0)9-191 22674
+  Fax +358-(0)9-191 23100
+  EmailKlaus.Karttunen at helsinki.fi
+
+
+

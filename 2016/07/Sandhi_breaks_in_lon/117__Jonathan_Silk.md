@@ -1,0 +1,94 @@
++++
+title = "117 Jonathan Silk"
+date = "2016-07-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043734.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-July/043734.html)
+
+I hardly dare to comment when my teacher, Madhav Deshpande, is on this list
+as well, and what little I know I know from him, but.... I recall very well
+learning that external sandhi is, according to the grammarians, always
+optional.
+Because
+One
+Can
+Always
+Speak
+Like
+This
+If
+One
+Wants
+To.
+In other words, the use of sandhi is a convention, so the question might be
+slightly rephrased as: what are the conventions of the poets, and of the
+scribes. No?
+(Perhaps, as is quite likely, of course, this was implied in the question,
+and I should have kept my ideas to myself.
+In
+Which
+Case,
+Sorry ;)
+
+Jonathan
+
+On Thu, Jul 28, 2016 at 4:26 PM, Valerie Roebuck <vjroebuck at btinternet.com>
+wrote:
+
+> Correction: I meant ‘at the end of one line’.
+>
+> > I’ve just had a quick look at an edition of the Saundaryalaharī, in
+> Śikhariṇī (17 syllables to a line), and sandhi is broken only between half
+> verses and whole verses. For example, there's a ś  at the end of one
+> half-line followed by a c at the beginning of the next.
+>
+> Valerie J Roebuck
+> Manchester, UK
+>
+> > On 28 Jul 2016, at 15:07, Harry Spier <hspier.muktabodha at gmail.com>
+> wrote:
+> >
+> > Dear list members,
+> >
+> > In the longer sanskrit meters (Vasantatilaka for examplbe 14 syllables
+> to a line) is Sandhi broken after each line or only after the half verse
+> and end of verse.
+> >
+> > Thank you,
+> > Vasishtha
+> > _______________________________________________
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> > indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> > http://listinfo.indology.info (where you can change your list options
+> or unsubscribe)
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+
+
+
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+http://www.buddhismandsocialjustice.com/silk_publications.html
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160728/a69ae615/attachment.htm>

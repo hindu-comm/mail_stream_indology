@@ -1,0 +1,36 @@
++++
+title = "138 Peter Scharf"
+date = "2013-05-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-May/037864.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-May/037864.html)
+
+Dear colleagues,
+	The History of Linguistic Theory lab. at the University of Paris 7, Denis Diderot, will host a seminar on Sanskrit syntax 13-15 June. The program begins with a keynote address by Professor Emeritus Hans Hock who in 1986 edited the volume on Sanskrit syntax in honor of the centennial of Speier's Sanskrit Syntax.  The second day of the program begins with a special lecture by George Cardona concerned with contributions of Paninian grammar to Sanskrit syntax.  The afternoon of the 15th will include several presentations on the state of image-text alignment for Sanskrit manuscripts.  Please see the announcement of the seminar and the full program under Events on the Sanskrit Library website.
+	Scholars are invited to attend.  Please register at no cost on the seminar website.
+	The seminar is sponsored by the Chaire Internationale de Recherche Blaise Pascal financée par l’Etat et la Région d'Ile-de-France, gérée par la Fondation de l’Ecole Normale Supérieure.
+	Yours sincerely,
+	Peter
+
+Peter M. Scharf, President
+The Sanskrit Library
+scharf at sanskritlibrary.org
+*************************************************
+Peter M. Scharf, Ph.D.
+Université Paris Diderot
+Laboratoire d'Histoire des Théories Linguistiques
+5 rue Thomas Mann, Case 7034
+Cedex 13
+75205 Paris
+France
+33-1-5727-5742 (phone)
+peter.scharf at univ-paris-diderot.fr
+*************************************************
+peter.scharf at inria.fr
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130520/e801d0c2/attachment.htm>

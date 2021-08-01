@@ -1,0 +1,46 @@
++++
+title = "59 Marco Franceschini"
+date = "2021-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-January/053971.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-January/053971.html)
+
+Dear friends and colleagues,
+
+I have prepared two keyboard layouts for Italian keyboards in Mac OS (10.4 and later): “ITA diacritici” and “ITAdia+”.
+
+“ITA diacritici” is a keyboard layout designed for typing all the (latin) base characters with diacritics used for the transliteration of Indic, Arabic and Perso-Arabic scripts together with text in Italian (or English etc.). Its main features are:
+– diacritics are produced by means of “dead keys” (21 of them are available!);
+– up to four diacritics can be added to a single base character;
+– diacritics can be typed in whatever order (but the base character must be typed last).
+
+“ITAdia+” is especially thought for typing in IAST quickly. Basically, it works on two levels:
+1) Caps Lock off: it works the same as “ITA diacritici”;
+2) Caps Lock on: a special scheme is activated which allows you to type trasliterated Sanskrit (IAST) and/or Tamil texts fast, since no combined key-strokes are required (i.e. you never have to press more then one key at a time).
+
+Both the keyboard layouts are licensed under Creative Commons BY-NC 4.0 (Attribution-NonCommercial) and can be freely dowloaded from the website of the "Associazione italiana studi sanscriti” (Italian Association for Sanskrit Studies): http://www.associazioneitalianadistudisanscriti.org/risorse/page/3/ <http://www.associazioneitalianadistudisanscriti.org/risorse/page/3/>
+
+Feedbacks (to be sent to me: marco.franceschini3 at unibo.it <mailto:marco.franceschini3 at unibo.it>) will be extremely appreciated.
+
+Best wishes,
+
+Marco
+---
+
+Marco Franceschini
+———————————
+Senior Assistant Professor
+University of Bologna
+Department of History and Cultures
+marco.franceschini3 at unibo.it <mailto:marco.franceschini3 at unibo.it>
+https://www.unibo.it/sitoweb/marco.franceschini3/en <https://www.unibo.it/sitoweb/marco.franceschini3/en>
+http://unibo.academia.edu/MarcoFranceschini <http://unibo.academia.edu/MarcoFranceschini>
+www.associazioneitalianadistudisanscriti.org <http://www.associazioneitalianadistudisanscriti.org/>
+---
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210119/19fc7ea1/attachment.htm>

@@ -1,0 +1,34 @@
++++
+title = "81 Jonathan Silk"
+date = "2000-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-February/020112.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-February/020112.html)
+
+Well... I actually have a paper that's been sitting *almost* finished
+for years (I've presented it a few times) on this. For now, one might
+just refer to AK Ramanujan's paper on the Indian Oedipus, and a paper
+of Robert Goldman. I can quickly get you the exact references if you
+need them. My paper concerns Buddhist versions, which among other
+things I believe disprove some of the claims made by Ramanujan and
+Goldman. On the other hand, I can see no reason for believing there
+to be an Indo-European version that might underlie Indic and Greek
+versions.
+
+
+Jonathan Silk
+
+jonathan.silk at yale.edu
+
+Dept. of Religious Studies
+Yale University
+320 Temple St.
+New Haven CT 06520-8287
+USA
+
+tel. 203-432-0828
+fax. 203-432-7844
+
+
+

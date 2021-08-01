@@ -1,0 +1,61 @@
++++
+title = "23 Elisa Freschi"
+date = "2018-03-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-March/047390.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-March/047390.html)
+
+Dear friends and respected colleagues,
+
+if you plan a visit to Germany in April, please consider attending the next
+Coffee Break Conference in Tübingen, 9--11.4.2018. Coffee Break Conferences
+are chances for active interactions, reading is banned and discussions are
+welcome. This eight instantiation will focus on European and Asian
+Renaissances.
+
+I am attaching the program, but in case you don't receive it, you can find
+all infos here:
+
+https://asiaticacoffeebreak.wordpress.com/cbc-2017-2018/
+
+Looking forward to seeing you in Tübingen,
+
+elisa (freschi)
+
+
+
+
+-- 
+Dr. Elisa Freschi
+
+(Tue to Thu)
+Institute for the Cultural and Intellectual History of Asia
+Austrian Academy of Sciences
+Hollandstraße 11-13, 2nd floor NEW ADDRESS!
+1020 Vienna, Austria
+Phone ++43 (0)1 51581 6433
+Fax ++43 (0)1 51581 6410
+
+
+(Fri to Tue)
+Institute for South Asian, Tibetan and Buddhist Studies
+University of Vienna
+Spitalgasse 2, Hof 2, Eingang 2.1
+1090 Vienna, Austria
+Phone ++43 (0)1 4277 43505
+
+http://elisafreschi.com
+http://oeaw.academia.edu/elisafreschi
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180308/7dd6b8db/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Program_CBC2017_2_kl1.pdf
+Type: application/pdf
+Size: 1095389 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20180308/7dd6b8db/attachment.pdf>

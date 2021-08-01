@@ -1,0 +1,67 @@
++++
+title = "73 Anna A. Slaczka"
+date = "2010-03-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-March/034217.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-March/034217.html)
+
+Dear Victoria,
+
+I don't know about full text but if you haven't found anything yet and if you are really desperate, try Google Books. Large parts of the Kalika purana and its English translation are there.
+
+Best regards,
+
+Anna.
+
+Dr. Anna A. Slaczka
+Curator Indian Art
+Rijksmuseum
+Amsterdam, The Netherlands
+
+--- On Sun, 3/21/10, Horacio Francisco Arganis Juarez <h.arganisjuarez at YAHOO.COM.MX> wrote:
+
+> From: Horacio Francisco Arganis Juarez <h.arganisjuarez at YAHOO.COM.MX>
+> Subject: Re: Kalika-purana in e-form
+> To: INDOLOGY at liverpool.ac.uk
+> Date: Sunday, March 21, 2010, 3:57 PM
+> Dear Madam:
+> Could you fine persona said me what is e-form? I want to
+> help your quest.
+> Lic. M.A. Horacio Francisco Arganis Juárez
+> Catedrático Investigador de la Universidad
+> Internacional Euroamericana.
+> Departamento de Filosofía y Religión Comparada.
+> Miembro del Instituto de Estudios Filosóficos de Saltillo
+> A. C.
+> www.uie.edu.es
+> 
+> 
+> --- El dom 21-mar-10, Viktoria Lyssenko <vglyssenko at YANDEX.RU>
+> escribió:
+> 
+> > De:: Viktoria Lyssenko <vglyssenko at YANDEX.RU>
+> > Asunto: Kalika-purana in e-form
+> > A: INDOLOGY at liverpool.ac.uk
+> > Fecha: domingo, 21 de marzo de 2010, 14:44
+> > Dear Colleagues,
+> > One of my students needs an English translation of
+> > Kalika-purana in e-form. Could anybody help?
+> > Victoria Lysenko,
+> > Research fellow,
+> > Institute of philosophy,
+> > Russian Academy of Sciences
+> > 
+> 
+> 
+>    Encuentra las mejores recetas en
+> Yahoo! Cocina.     
+>     
+> http://mx.mujer.yahoo.com/cocina/
+> 
+
+
+
+
+
+

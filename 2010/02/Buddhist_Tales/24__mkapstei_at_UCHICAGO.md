@@ -1,0 +1,27 @@
++++
+title = "24 mkapstei at UCHICAGO.EDU"
+date = "2010-02-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/033986.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/033986.html)
+
+There's a very good collection of tales of the
+major bodhisattvas culled from the Mahayana
+sutras by the 19th c. Tibetan scholar Mi pham.
+There is a recent English translation:
+A GARLAND OF JEWELS: The Eight Great Bodhisattvas
+by Jamgon Mipham Rinpoche, trans. by Yeshe Gyamtso.
+I have not yet seen it myself, but I imagine
+that it is competent, if not a work of scholarship.
+
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

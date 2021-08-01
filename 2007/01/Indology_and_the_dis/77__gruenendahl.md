@@ -1,0 +1,53 @@
++++
+title = "77 gruenendahl"
+date = "2007-01-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-January/030439.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-January/030439.html)
+
+On 18 Jan 2007 at 18:08, Dominik Wujastyk wrote:
+
+
+> There can be little doubt that Hauer, however, was convinced by NS 
+> anti-semitic, blood-and-soil, and other creeds, and considered Hitler "the 
+> genius of our people."
+
+A short addendum on Hauer:
+In 1940, he demanded a fundamental reorientation of all fields of learning (including 
+natural science) according to the principals of "race science" (with reference to 
+Galton, Gobineau, Clauß and H.F.K. Günther), but it never came about, not even in 
+his primary field of interest, religious studies. Wüst voiced similar demands for 
+indology (see my article), but also to no avail.
+
+On Hauer see, e.g., Horst Junginger: Von der philologischen zur völkischen 
+Religionswissenschaft ... 1999 (with whom I do not agree on all points, as will be 
+explained in my book).
+
+
+RG
+
+
+
+********************************************************************
+
+Dr. Reinhold Gruenendahl
+Niedersaechsische Staats- und Universitaetsbibliothek
+Fachreferat sued- und suedostasiatische Philologien
+(Dept. of Indology)
+
+37070 Göttingen, Germany
+Tel (+49) (0)5 51 / 39 52 83
+Fax (+49) (0)5 51 / 39 23 61
+gruenen at mail.sub.uni-goettingen.de
+
+FACH-INFORMATIONEN INDOLOGIE, GOETTINGEN:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindolo.htm
+In English:
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/fiindole.htm
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages
+http://www.sub.uni-goettingen.de/ebene_1/fiindolo/gretil.htm
+
+
+

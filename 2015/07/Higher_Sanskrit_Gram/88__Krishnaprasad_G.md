@@ -1,0 +1,30 @@
++++
+title = "88 Krishnaprasad G"
+date = "2015-07-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041500.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041500.html)
+
+Dear all
+
+I am searching for Higher Sanskrit Grammar by M R Kale which revised and
+enlarged. 7th edition. The one which is available in the market is 1st
+edition.
+which is also available online.
+
+Can any one please help me by sending the 7th edition printed Gopal Narayan
+Co Bombay. 1931
+
+
+With regards
+
+Krishna Prasad
+PhD candidate
+Karnataka Sanskrit University
+Bengaluru
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150712/76a852a9/attachment.htm>

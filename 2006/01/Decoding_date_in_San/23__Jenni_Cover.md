@@ -1,0 +1,34 @@
++++
+title = "23 Jenni Cover"
+date = "2006-01-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-January/029562.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-January/029562.html)
+
+Thankyou to all those who contributed to the discussion - I am in awe of
+your knowledge and appreciate your kind contributions. Apologies for the
+delay but I have been away since the last posting last December.
+
+To summarize the outcome of this learned discussion.
+The original question was to decode the date in a verse of Divakara's
+commentary on Narahari's Bodhasara.
+
+Sake gajatrimunibhUmimite tu varshe
+rAmAdrinAgaSaSacihnamite tapasye
+pakshe site sutaSaSAnkatithau jnavAre
+vyAkhyA samAptimagamadvibudhaikavandyA 
+
+After ranging through a variety of possibilities, the final outcome was
+Wednesday 13th March 1816 CE. 
+
+If this is incorrect please let me know.
+
+Thankyou,
+Jenni Cover
+PhD Student
+University of Sydney
+Australia
+
+
+

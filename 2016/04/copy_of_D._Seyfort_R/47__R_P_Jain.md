@@ -1,0 +1,83 @@
++++
+title = "47 R P Jain"
+date = "2016-04-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043092.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043092.html)
+
+THE BOOK IS AVAILABLE WITH US.IT IS PUBLISHED IN INDIA.VISIT mlbd at mlbd.com TO ORDER.
+rajeev
+
+Sent from my iPhone
+
+> On 20-Apr-2016, at 4:21 AM, David and Nancy Reigle <dnreigle at gmail.com> wrote:
+> 
+> Dear Deepak and all,
+> 
+> I have made a scan of this article by D. Seyfort Ruegg, and will try to attach it here, in case others may also want it. If this does not work, just email me off-list for it.
+> 
+> Best regards,
+> 
+> David Reigle
+> Colorado, U.S.A.
+> 
+>> On Tue, Apr 19, 2016 at 2:45 PM, Deepak Sarma <dxs163 at case.edu> wrote:
+>> All:
+>>         My students are looking for a copy of
+>> 
+>> 
+>>  D. Seyfort Ruegg "Does the Madhyamika Have a Thesis and Philosophical Position?” found in
+>> 
+>>  Buddhist logic and epistemology : studies in the Buddhist analysis of inference and language / edited by Bimal Krishna Matilal and Robert D. Evans
+>> 
+>> we do not have it in my library and, while I can ILL the book, it will take 4 days for it to come —too late for my students papers. Does anyone have a copy?
+>> 
+>> 
+>> thanks in advance for y our help,
+>> 
+>> Deepak
+>> 
+>> 
+>> Dr. Deepak Sarma
+>> 
+>> Professor of Religious Studies
+>> Acting Chair of the Department of Religious Studies
+>> 
+>> Professor of Bioethics (secondary appointment)
+>> School of Medicine, Case Western Reserve University
+>> 
+>> 
+>> Curatorial Consultant, Department of Asian Art
+>> Cleveland Museum of Art
+>> 
+>> Mailing Address:
+>> Department of Religious Studies
+>> Tomlinson Hall
+>> 2121 MLK Jr. Drive
+>> Case Western Reserve University
+>> Cleveland, OH 44106-7112
+>> 
+>> office: 216-368-4790
+>> deepak.sarma at case.edu
+>> 
+>> deepaksarma.com
+>> 
+>> 
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing committee)
+>> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+> 
+> <Madhyamika, Does . . . Have a Thesis, Seyfort Ruegg 1986.pdf>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing committee)
+> http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160420/7b3e1720/attachment.htm>

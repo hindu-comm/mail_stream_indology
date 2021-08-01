@@ -1,0 +1,32 @@
++++
+title = "31 Peter"
+date = "2006-11-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-November/030157.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-November/030157.html)
+
+The following new publication might be of interest for Indology readers:
+
+Dundas, P. History, Scripture and Controversy in a Medieval Jain Sect. 
+Routledge Advances in Jaina Studies Vol. 2. London: Routledge, 2006. 
+ISBN 10: 0-415-37611-4
+
+Peter Fluegel
+
+Dr Peter Flügel
+Chair, Centre of Jaina Studies
+Department of the Study of Religions
+Faculty of Arts and Humanities
+School of Oriental and African Studies
+University of London
+Thornhaugh Street
+Russell Square
+London WC1H OXG
+United Kingdom
+Tel.: 0044-(0)20-7898 4776
+E-mail: jainstudies at soas.ac.uk
+Website: http://www.soas.ac.uk/jainastudies
+
+
+

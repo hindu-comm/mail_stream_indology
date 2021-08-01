@@ -1,0 +1,33 @@
++++
+title = "18 Christoph Emmrich"
+date = "2004-02-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-February/028166.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-February/028166.html)
+
+Dear friends and colleagues,
+
+This is just a brief note to tell you that the 1st International
+Workshop on the Dynamics of Rituals is currently being organized by the
+Collaborative Research Centre (SFB 619) "Dynamics of Ritual" of
+Heidelberg University. The workshop will be held in Bhaktapur, Nepal
+from 23. August until 12. September 2004 and focus on "Rituals in
+Nepal". For more information on the workshop, how to apply etc. please
+click here and look at our website. (You may also use the hyperlink:
+http://www.ritualdynamik.uni-hd.de/index2.htm)
+
+With best regards,
+the organisers,
+
+Prof. Niels Gutschow, Dr. Brigitte Merz and Prof. Axel Michaels
+
+--
+
+Christoph Emmrich
+Classical Indology
+South Asia Institute
+University of Heidelberg
+
+
+

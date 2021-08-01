@@ -1,0 +1,47 @@
++++
+title = "314 Venkat Kesaraju"
+date = "2001-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025465.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025465.html)
+
+--- "Narayan R.Joshi" <giravani at JUNO.COM> wrote:
+> According to my opinion, Indology is not the place
+> to wash dirty linens of
+> Indian politics, especially self-serving politics
+> practiced by late Indira
+> Gandhi.
+
+Right on Sir, then where is the need for this posting?
+Aren't we misusing the Indology forum.Let us stop
+discussions on politics and get along with usual
+(Indological) discussions.
+
+>Since no
+> body is saying, I
+> believe India has remained enslaved indirectly even
+> after 1947.N.R.Joshi.
+
+Again no comments, since this is not the right forum
+for a debate on this topic.
+
+Venkat
+
+
+=====
+VENKAT KESARAJU
+49 D Reading Road
+Edison, NJ - 08817
+Phone: 732-603-2726(Home)
+       201-804-7231(Work), 732-768-4123 (Cell)
+E-mail:kevenkat at yahoo.com,kevenkat at hotmail.com
+       vkesaraju at axc.com
+
+__________________________________________________
+Do You Yahoo!?
+Get personalized email addresses from Yahoo! Mail - only $35
+a year!  http://personal.mail.yahoo.com/
+
+
+

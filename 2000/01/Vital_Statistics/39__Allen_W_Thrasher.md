@@ -1,0 +1,37 @@
++++
+title = "39 Allen W Thrasher"
+date = "2000-01-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019690.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019690.html)
+
+Rajarshi Banerjee said:
+
+<<Even if we assume that indian scripts are derived from west asia.
+A paper plane flew in from west asia and was converted into a lear
+jet.>>
+
+True engough.
+
+<<Now we go back to the paper plane. The way english is represented
+by its
+alphabet is conceptually not a vast improvement over sumerian. The
+letters
+can mean so many things depending on context. And the speaker has to
+memorize each word. Its only the human brain which is peculiarly
+suited to
+memorizing a large number of context switches which makes the use
+such of
+such a poor conceptual system possible.>>
+
+Come on, it's not _that_ bad.  If you were raised in India, surely
+you had phonics, unlike the idiotic "total language" system used in
+much of the US nowadays (learn each word separately).  Indeed, some
+students of the question argue that the spelling in some ways
+represents the deep structure of the language
+
+//
+
+
+

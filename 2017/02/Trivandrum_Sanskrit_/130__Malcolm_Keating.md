@@ -1,0 +1,54 @@
++++
+title = "130 Malcolm Keating"
+date = "2017-02-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-February/045252.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-February/045252.html)
+
+Thanks for your very quick reply!
+
+On February 5, 2017 at 20:01:47, Madhav Deshpande (mmdesh at umich.edu) wrote:
+
+Hello Malcolm,
+
+     I have sent this volume to you using WeTransfer.  Here is the download
+link:
+
+https://we.tl/rH9qwHSwef
+
+The link will remain alive for the next 7 days.
+
+Madhav Deshpande
+
+On Sun, Feb 5, 2017 at 6:21 AM, Malcolm Keating via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear list members,
+> I am looking for a scan of Trivandrum Sanskrit Series Volume 150 (part 3
+> of Sucaritamiśra’s Kāśika on the Ślokavārttika). It looks like Prof.
+> Deshpande answered this same query in April 2016 with a WeTransfer link for
+> the volume, but it has now expired. If anyone has a newer link, I would
+> appreciate it.
+>
+> Best,
+> Malcolm
+>
+> --
+> Malcolm Keating
+> Yale-NUS College | Assistant Professor | Humanities Division (Philosophy)
+> | malcolm.keating at yale-nus.edu.sg | www.malcolmkeating.com
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170205/cadfbb34/attachment.htm>

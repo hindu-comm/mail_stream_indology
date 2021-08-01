@@ -1,0 +1,75 @@
++++
+title = "17 Sudalaimuthu Palaniappan"
+date = "2019-03-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-March/049503.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-March/049503.html)
+
+Dear Victor,
+
+
+
+Have you explored if the first initial represents either cursive ‘Th’ (may be as an abbreviation of ‘Thiru’) or the Tamil character ‘பு’ written in a cursive form, possibly written in a different way from the first letter of the name possibly because it is an initial? If you have other letters by him or to him, you can test these possibilities. From the Tamil Wikipedia page (https://ta.wikipedia.org/wiki/பு._இரா._புருடோத்தமர்), based on his work history, it is possible he was in Chidambaram before 1935. 
+
+
+
+Regards,
+
+Palaniappan
+
+
+
+ 
+
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of victor davella via INDOLOGY <indology at list.indology.info>
+Reply-To: victor davella <vbd203 at googlemail.com>
+Date: Thursday, March 14, 2019 at 5:50 AM
+To: <indology at list.indology.info>
+Subject: Re: [INDOLOGY] An Initial
+
+
+
+Dear all,
+
+
+
+Thank you very much for your replies. I too had read and H., but hoped that I could still link the name with the more well-known Puruṣōttama Nāyaṭu. I will keep on searching.
+
+
+
+Many Thanks,
+
+Victor
+
+
+
+On Tue, Mar 12, 2019 at 7:02 PM victor davella <vbd203 at googlemail.com> wrote:
+
+Dear all,
+
+
+
+I am hoping that someone might be able to help me with the reading of the first initial found in the image below. I would like this to be the autograph of Pu. Rā. Puruṣottama Nāyaṭu, a renowned Śrī-Vaiṣṇava scholar, but I find it difficult to see a P or a B (as it is sometimes given) in the letter as written. The date, 10/4/(19)28 falls comfortably within his lifespan (1901-1976).
+
+
+
+Many Thanks,
+
+
+
+Victor
+
+
+
+P.S. Please let me know if the image has not come through.
+
+
+
+_______________________________________________ INDOLOGY mailing list INDOLOGY at list.indology.info indology-owner at list.indology.info (messages to the list's managing committee) http://listinfo.indology.info (where you can change your list options or unsubscribe) 
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190314/c418d6e6/attachment.htm>

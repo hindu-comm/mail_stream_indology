@@ -1,0 +1,55 @@
++++
+title = "13 Lubin, Tim"
+date = "2019-07-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-July/050469.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-July/050469.html)
+
+As for Caland:
+https://archive.org/details/dassrautasutrade00apasuoft/page/n8
+https://archive.org/details/in.ernet.dli.2015.279914
+
+Tim
+
+
+Timothy Lubin
+Professor of Religion and Adjunct Professor of Law
+Chair of the Department of Religion
+204 Tucker Hall
+Washington and Lee University
+Lexington, Virginia 24450
+
+https://lubin.academic.wlu.edu/
+http://wlu.academia.edu/TimothyLubin
+http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=930949
+
+
+
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of INDOLOGY <indology at list.indology.info>
+Reply-To: Oliver Hellwig <hellwig7 at gmx.de>
+Date: Thursday, July 4, 2019 at 12:05 PM
+To: INDOLOGY <indology at list.indology.info>
+Subject: [INDOLOGY] ApSS Garbe/Caland
+
+Dear list,
+
+I am looking for pdfs of Garbe's edition of the ApSS 16ff. and Caland's
+translation of ApSS 1-15.
+I was able to locate Garbe 1-15 and Caland 16-24 on archive, but cannot
+find the other parts.
+Any help is highly appreciated!
+
+Best, Oliver
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info<mailto:indology-owner at list.indology.info> (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190704/c6b86d10/attachment.htm>

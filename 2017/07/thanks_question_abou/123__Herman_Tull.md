@@ -1,0 +1,51 @@
++++
+title = "123 Herman Tull"
+date = "2017-07-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-July/046342.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-July/046342.html)
+
+Since the pictures of the object were shared with us, would it be possible
+to share the responses also?
+
+Thanks!
+
+Herman Tull
+
+
+
+On Sun, Jul 30, 2017 at 10:52 AM, BG via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> I would like to thank Ron Davidson, Bruno Galasek-Hul, Gerard Huet, John
+> Huntington, Matthew Kapstein and Stella Sandall for their helpful replies
+> to my inquiry.
+>
+> Brendan Gillon
+>
+> --
+>
+> Brendan S. Gillon                       email: brendan.gillon at mcgill.ca
+> Department of Linguistics
+> McGill University                       tel.:  001 514 398 4868
+> 1085, Avenue Docteur-Penfield
+> Montreal, Quebec                        fax.:  001 514 398 7088
+> H3A 1A7  CANADA
+>
+> webpage: http://webpages.mcgill.ca/staff/group3/bgillo/web/
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170730/407cec97/attachment.htm>

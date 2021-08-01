@@ -1,0 +1,96 @@
++++
+title = "129 Witzel, Michael"
+date = "2017-06-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-June/046039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-June/046039.html)
+
+Madhav, I remembered that there even was a book on this topic:
+
+Cheers,  M.
+
+  *   Send to[https://hollis.harvard.edu/primo_library/libweb/images/icon_arrow_sendTo.png]<https://hollis.harvard.edu/primo_library/libweb/action/display.do?tabs=detailsTab&ct=display&fn=search&doc=HVD_ALEPH003420310&indx=1&recIds=HVD_ALEPH003420310&recIdxs=0&elementId=0&renderMode=poppedOut&displayMode=full&frbrVersion=&frbg=&&vl(51615747UI0)=any&vl(1UI0)=contains&dscnt=0&scp.scps=scope%3A%28HVD_FGDC%29%2Cscope%3A%28HVD%29%2Cscope%3A%28HVD_VIA%29%2Cprimo_central_multiple_fe&tb=t&vid=HVD&mode=Basic&srt=rank&tab=everything&vl(394521272UI1)=books&dum=true&vl(freeText0)=Goethe%20sakuntala%20sanskrit&dstmp=1497445988090#>
+
+  *
+  *   Title:
+Re-visiting Śākuntalam : a commentary on Goethe's Sakuntala-epigram
+  *   Attribution:by Girdhari Lal Chaturvedi.
+  *   Author / Creator:Chaturvedi, Girdhari Lal.<https://hollis.harvard.edu/primo_library/libweb/action/search.do?vl(freeText0)=Chaturvedi%2c+Girdhari+Lal.&vl(51615747UI0)=creator&vl(394521272UI1)=books&vl(1UI0)=exact&fn=search&tab=everything&mode=Basic&vid=HVD&scp.scps=scope%3a(HVD_FGDC)%2cscope%3a(HVD)%2cscope%3a(HVD_VIA)%2cprimo_central_multiple_fe&ct=lateralLinking>
+  *   Edition:1st ed.
+  *   Published:Mathura : Brijrani Publication, 1991.
+  *   Description:xii, 152, [1] p. ; 22 cm.
+  *   Summary:Critical study of a poem on Śakuntalam of Kālidāsa, by Johann Wolfgang von Goethe, 1749-1832.
+  *   Language:English; German; Sanskrit
+  *   Notes:Includes passages in Sanskrit and German.
+Includes bibliographical references (p. [153]).
+  *   Subject:Goethe, Johann Wolfgang von, -- 1749-1832 -- Criticism and interpretation.<https://hollis.harvard.edu/primo_library/libweb/action/search.do?vl(freeText0)=%20Goethe%20%2c+Johann+Wolfgang+von%2c+--+1749-1832+--+Criticism+and+interpretation.&vl(51615747UI0)=sub&vl(394521272UI1)=books&vl(1UI0)=exact&fn=search&tab=everything&mode=Basic&vid=HVD&scp.scps=scope%3a(HVD_FGDC)%2cscope%3a(HVD)%2cscope%3a(HVD_VIA)%2cprimo_central_multiple_fe&ct=lateralLinking>;
+Kālidāsa. -- Śakuntalā.<https://hollis.harvard.edu/primo_library/libweb/action/search.do?vl(freeText0)=K%c4%81lid%c4%81sa.+--+%20%c5%9aakuntal%c4%81%20.&vl(51615747UI0)=sub&vl(394521272UI1)=books&vl(1UI0)=exact&fn=search&tab=everything&mode=Basic&vid=HVD&scp.scps=scope%3a(HVD_FGDC)%2cscope%3a(HVD)%2cscope%3a(HVD_VIA)%2cprimo_central_multiple_fe&ct=lateralLinking>;
+Sanskrit poetry -- History and criticism.<https://hollis.harvard.edu/primo_library/libweb/action/search.do?vl(freeText0)=%20Sanskrit%20+poetry+--+History+and+criticism.&vl(51615747UI0)=sub&vl(394521272UI1)=books&vl(1UI0)=exact&fn=search&tab=everything&mode=Basic&vid=HVD&scp.scps=scope%3a(HVD_FGDC)%2cscope%3a(HVD)%2cscope%3a(HVD_VIA)%2cprimo_central_multiple_fe&ct=lateralLinking>
+  *   Form / Genre:
+<https://hollis.harvard.edu/primo_library/libweb/action/search.do?vl(freeText0)=Criticism%2c+interpretation%2c+etc.&vl(51615747UI0)=lsr30&vl(394521272UI1)=books&vl(1UI0)=exact&fn=search&tab=everything&mode=Basic&vid=HVD&scp.scps=scope%3a(HVD_FGDC)%2cscope%3a(HVD)%2cscope%3a(HVD_VIA)%2cprimo_central_multiple_fe&ct=lateralLinking>
+
+On Jun 14, 2017, at 9:02 AM, Madhav Deshpande via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+
+Going through old papers, I found my Sanskrit rendering of Goethe's German poem on Shakuntala.  This was done sometime during my Fergusson College days in Pune.
+
+
+GOETHE’S POEM ON SHAKUNTALA
+
+
+
+Willst du die Blüthe des frühen, die Früchte des späteren Jahres,
+
+Willst du, was reizt und entzückt, willst du was sättigt und nährt,
+
+Willst du den Himmel, die Erde, mit Einem Namen begreifen;
+
+Nenn’ ich, Sakuntala, Dich, und so ist Alles gesagt.
+
+
+
+English Translation
+
+Wouldst thou the young year's blossoms and the fruits of its decline
+
+And all by which the soul is charmed, enraptured, feasted, fed,
+
+Wouldst thou the earth and heaven itself in one sole name combine?
+
+I name thee, O Sakuntala! and all at once is said.
+
+—translation by Edward Backhouse Eastwick
+
+
+
+संस्कृतानुवाद:
+
+स्पृहयसि वसन्तकुसुमेभ्यो यदि
+
+ग्रीष्मे यदि फलराशीनिच्छसि ।
+
+कान्तं पुष्टिकरं तुष्टिकरम्
+
+सन्तर्पणमात्मनो यदीच्छसि ।
+
+शब्दैक्ये यदि कर्तुम् ग्रहणम्
+
+वसुन्धरास्वर्गयोरीप्सितम् ।
+
+त्वामभिदधामि हे शाकुन्तल
+
+सपदि सकलमेकपदे प्रोक्तम् ॥
+
+Madhav Deshpande
+Ann Arbor, Michigan, USA
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170614/470f1d67/attachment.htm>

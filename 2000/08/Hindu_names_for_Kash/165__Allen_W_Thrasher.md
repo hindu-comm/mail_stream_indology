@@ -1,0 +1,38 @@
++++
+title = "165 Allen W Thrasher"
+date = "2000-08-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022377.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022377.html)
+
+The idea that the Nehrus were Muslims seems pretty absurd to me, but I
+want to take issue with one contention:
+
+<<A Muslim cannot have the surname `Gandhi' or `Nehru', they are
+definitely forbidden. It would have to be changed to Shaikh
+on conversion.>>
+
+Whether it's forbidden or not, I have met or read of Kashmiri Muslims
+with what one would usually consider Hindu family names, such as Bhat,
+or even Shaiva.  Whether their families were recent converts or not I
+would not know.
+
+Allen Thrasher
+
+
+
+Allen W. Thrasher, Ph.D.
+
+Senior Reference Librarian       101 Indendence Ave., SE
+Southern Asia Section               LJ-150
+Asian Division                            Washington, DC 20540-4810
+Library of Congress                     U.S.A.
+tel. 202-707-3732                       fax 202-707-1724
+Email: athr at loc.gov
+
+The opinions expressed do not necessarily represent those of the
+Library of Congress.
+
+
+

@@ -1,0 +1,28 @@
++++
+title = "03 jagan nadh"
+date = "2003-07-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-July/027790.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-July/027790.html)
+
+Dear friends,
+             Any body can give me the details and availability of the book
+Vibhaktyarthacintanam written by Girirdharabhatta.According to the details
+got to me thisw book belongs to the nyaya school of Philosophy.It discuses
+the meaning of the seven cases in Nyaya view.
+
+        I would ike to get acoppy of the book ( Printed / xerox ) or the
+manuscript of the book.If any body knows any details regading the book
+please convey it to me
+
+                                Thanking you
+                                Jaganadh.G
+                               e-mail-navadipanyaya at hotmail.com
+
+_________________________________________________________________
+HCL Beanstalk PCs. You could win one.
+http://server1.msn.co.in/sp03/hclbeanstalktour/index.asp Interested?
+
+
+

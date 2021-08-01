@@ -1,0 +1,28 @@
++++
+title = "54 Matthew Kapstein"
+date = "2005-10-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-October/029419.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-October/029419.html)
+
+Dear Indology list members,
+
+I would be grateful for any recommendations regarding
+what you think to be the best and most valuable
+work on the history and culture of the Candela dynasty. 
+However, I'm not looking for lists of references such as can be
+generated using RLG, WorldCat, etc., and which I know
+some of you would generously take time to provide.
+
+The most thorough work I've located so far seems to
+be Kes'avaca.mdra Mis'ra, *ca.mdel aur unkaa raajatvakaal*
+(Varanasi: Naagariipracaari.nii sabhaa, 1999), though I've
+not yet had time to read this in detail. Informed critical
+assessments of this work would be most welcome.
+
+Matthew Kapstein
+Chicago and Paris
+
+
+

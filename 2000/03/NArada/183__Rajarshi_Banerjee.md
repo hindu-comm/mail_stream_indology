@@ -1,0 +1,31 @@
++++
+title = "183 Rajarshi Banerjee"
+date = "2000-03-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020460.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020460.html)
+
+Looks like the root (DEDR #3651)
+nAr = fibre, string, cord, rope is not finding mention so far.
+nAri = bow-strin
+nAram = cord.
+Ma. nAr; Ko.nar; To. nOr; Ka. nAr, nAri; Kod. narI; Tu. nAru;
+Te. nAra, nAri; Kol. nARA, nAra; Go. nAr; Konda. nari.
+
+
+Sanskrit nAda = sound
+
+and in
+Hindi, Bengali .....  etc
+
+nARI = pulse/vein/sinew/nerve
+nARA = draw string of pyjamas
+nAl = double headed drum
+
+Are these words considered loans from dravidian then ? Is it always possible
+to trace words which have widespread use all over India to a certain
+language family?
+
+
+

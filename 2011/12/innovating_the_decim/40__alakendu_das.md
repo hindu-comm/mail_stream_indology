@@ -1,0 +1,28 @@
++++
+title = "40 alakendu das"
+date = "2011-12-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-December/036102.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-December/036102.html)
+
+
+To all listed Members and scholars in Indology,
+
+
+ In course of my earnest study of Indology, ,I learnt that India of the Rig Vedic age was the first to innovate  decimal system or place-value principle in Mathematics. Taitteriya Upanishads(one of the eleven Upanishads)have references of decimal system.In the "Shukla" version of Yajurveda , we find Medhatithi's verse in the Vajrasaneyi Samhita which speaks of the various powers of ten.Rigveda has evidences of writing 720 as "sapta satati vimsatih" or 1110 as "sahasrani sata dasha"  Thus concepts like place -value , powers of ten dawned upon the Indians of the Rig Vedic age. while the romans could use upto 10 to the power 3 , and the greeks 10 to the power 4, it was quiet natural for the Rig vedic India to imagine 10 to the power 14.
+                                                Rig vedic age existed between 1500 B.C.and 500 B.C. 
+                          Can anyone enlighten me whether any other civilisation or age pre-dated  the Rig Vedic India in innovating the Decimal system ?
+
+  Thanking You
+  ALAKENDU DAS
+ mailmealakendudas at redifmail.com                                            
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20111204/5f0f27b0/attachment.htm>

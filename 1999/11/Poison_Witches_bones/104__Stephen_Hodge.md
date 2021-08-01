@@ -1,0 +1,33 @@
++++
+title = "104 Stephen Hodge"
+date = "1999-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-November/018966.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-November/018966.html)
+
+Hi, Richard
+
+****************
+I would also be grateful if anyone help me find references to bones
+being
+transmitted to the offspring by the father, whereas flesh is coming
+from
+the mother (again in Uttar Pradesh or in the Himalaya).  I am
+particularly
+interested in any relationship of the idea of flesh with the idea of a
+flower (like what Carrin noticed for the Santal - does this appear
+anywhere
+in the Vedas?).
+ ****************
+
+I haven't had time to check any references for you, but I think this
+is also the Tibetan Buddhist view (and possibly Indian Buddhist) -- it
+may derive from medical theories.
+I'll get back to you if I can find anything.
+
+Best wishes,
+Stephen Hodge
+
+
+

@@ -1,0 +1,24 @@
++++
+title = "42 Kenneth Zysk"
+date = "2010-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-May/034445.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-May/034445.html)
+
+I just acquired a new computer with Windows 7. I downloaded Gandhari Unicode fonts and tried, but failed, to download the Keyman keyboard layout. Can someone kindly tell me how to acquire the necessary keyboard accessory for the Gandhari Unicode fonts with Windows 7.
+
+Many thanks in advance.
+
+Best,
+Ken
+
+Kenneth Zysk
+Department of Cross-Cultural and Regional Studies
+University of Copenhagen
+Artillerivej 86    
+DK-2300 Copenhagen S    Denmark
+ Email: zysk at hum.ku.dk
+
+
+

@@ -1,0 +1,126 @@
++++
+title = "53 Harry Spier"
+date = "2016-05-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-May/043282.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-May/043282.html)
+
+I'm more than happy to forward the articles sent to me on OM but none
+of them were about the representation of OM.
+
+Harry Spier
+
+On 5/6/16, Nagaraj Paturi <nagarajpaturi at gmail.com> wrote:
+> In
+>
+> http://list.indology.info/pipermail/indology_list.indology.info/2016-January/042596.html
+>
+> Harry Spier thanked list members for sending articles on OM.
+>
+> Contacting him should be helpful to her.
+>
+> On Sat, May 7, 2016 at 12:19 AM, Nagaraj Paturi <nagarajpaturi at gmail.com>
+> wrote:
+>
+>> Ganesh-Vidya: The Traditional Indian Approach to Phonetic Writing by L.
+>> S. Wakankar has a discussion on the shape of om.
+>>
+>> On Sat, May 7, 2016 at 12:10 AM, Nagaraj Paturi <nagarajpaturi at gmail.com>
+>> wrote:
+>>
+>>> There was a thread on this.
+>>>
+>>> This post thee:
+>>>
+>>>
+>>> http://list.indology.info/pipermail/indology_list.indology.info/2016-January/042599.html
+>>>
+>>> should be useful to her.
+>>>
+>>> On Sat, May 7, 2016 at 12:00 AM, Corinna Wessels-Mevissen via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing
+>>>> committee)
+>>>> http://listinfo.indology.info (where you can change your list options
+>>>> or unsubscribe)
+>>>>
+>>>> ---------- Forwarded message ----------
+>>>> From: Corinna Wessels-Mevissen <corinnawessels at yahoo.de>
+>>>> To: "indology at list.indology.info" <indology at list.indology.info>
+>>>> Cc:
+>>>> Date: Fri, 6 May 2016 18:29:24 +0000 (UTC)
+>>>> Subject: Early Representations of OM
+>>>> Dear All,
+>>>>
+>>>> A colleague of mine, who is not a List member, Prof. Doris M.
+>>>> Srinivasan, asks the following question on the part of a
+>>>> recent Harvard PhD, who worked on the development of OM in the Vedas:
+>>>>
+>>>> "Does any one have knowledge and/or references regarding the imagery
+>>>> (sculpture; images on manuscripts; any sort of visual renderings) of OM
+>>>> from any period through the medieval period?"
+>>>>
+>>>> Kindly either write to her directly (dmswh at earthlink.net), to me
+>>>> off-list, or to the List, of course. Thank you!
+>>>>
+>>>> Best wishes,
+>>>>
+>>>> Corinna Wessels-Mevissen
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Nagaraj Paturi
+>>>
+>>> Hyderabad, Telangana, INDIA.
+>>>
+>>> Former Senior Professor of Cultural Studies
+>>>
+>>> FLAME School of Communication and FLAME School of  Liberal Education,
+>>>
+>>> (Pune, Maharashtra, INDIA )
+>>>
+>>>
+>>>
+>>>
+>>
+>>
+>>
+>> --
+>> Nagaraj Paturi
+>>
+>> Hyderabad, Telangana, INDIA.
+>>
+>> Former Senior Professor of Cultural Studies
+>>
+>> FLAME School of Communication and FLAME School of  Liberal Education,
+>>
+>> (Pune, Maharashtra, INDIA )
+>>
+>>
+>>
+>>
+>
+>
+>
+> --
+> Nagaraj Paturi
+>
+> Hyderabad, Telangana, INDIA.
+>
+> Former Senior Professor of Cultural Studies
+>
+> FLAME School of Communication and FLAME School of  Liberal Education,
+>
+> (Pune, Maharashtra, INDIA )
+>
+
+
+
+

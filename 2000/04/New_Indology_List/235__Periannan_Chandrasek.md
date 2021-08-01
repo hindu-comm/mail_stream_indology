@@ -1,0 +1,66 @@
++++
+title = "235 Periannan Chandrasekaran"
+date = "2000-04-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021140.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021140.html)
+
+--- yuki rajiv <yukirajiv at YAHOO.COM> wrote:
+> Please note that there is a new Indology List that
+> does not censor member comments nor exile researchers
+> for their opinions.
+>
+> To join the new Indology List, simply choose ONE of
+> these 2 options:
+>
+> 1) REPLY to this email by clicking "reply" in your
+> email program
+>
+> -OR-
+
+Mr. Yuki Rajiv:
+Greetings.
+I find that naming your new egroup with the same name as this
+reputed forum is indecent because:
+1. It confuses people who have heard of this forum and rely on the solid
+reputation it has earned.
+
+2. Based on the sample  ethical flimsiness that has gone into choosing the name
+for that group, it is my humble but considered prediction that your egroup is
+not going to be as scholarly as this and hence is going  to be a place for
+"weak" postings that will *tarnish* the reputation of this group.
+
+3. Your forum will unfairly take advantage of brand name of this derived from
+the sustained reputation built over the years.
+
+I wonder if Dominik is alreay thinking of talking in legal terms with the
+operators of egroups.com and with the founders of the fake group.
+
+
+Peace be on earth.
+
+Regards
+P.Chandrasekaran.
+
+
+>
+> 2) Go to the site at
+>     http://www.egroups.com/subscribe/indology
+>     and click the "JOIN" button
+>
+> That's all you need to do!
+>
+>
+> __________________________________________________
+> Do You Yahoo!?
+> Talk to your friends online and get email alerts with Yahoo! Messenger.
+> http://im.yahoo.com/
+
+__________________________________________________
+Do You Yahoo!?
+Talk to your friends online and get email alerts with Yahoo! Messenger.
+http://im.yahoo.com/
+
+
+

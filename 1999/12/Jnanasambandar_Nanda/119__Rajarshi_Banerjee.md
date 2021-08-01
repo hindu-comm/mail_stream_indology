@@ -1,0 +1,23 @@
++++
+title = "119 Rajarshi Banerjee"
+date = "1999-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019384.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019384.html)
+
+I kind of agree, but the statement that brahmins exploited less privileged
+sections of society is misleading. Brahmins cannot be accused of direct
+exploitation genocide, enslavement and stealing wealth.
+
+They were responsible for instituting cruel and unfair traditions. How much
+mileage they gained from this is arguable. They must already be in a
+position of authority in order to have instituted such traditions.
+
+I have seen a dalit student from a remote village who topped his class and
+entrance exams. Respect for learning in Indian society is a brahmanical
+trait and makes us quite unique compared to other developing countries.
+There is much that India has to be thankful to brahmins for also.
+
+
+

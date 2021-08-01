@@ -1,0 +1,51 @@
++++
+title = "11 Richard Mahoney"
+date = "2003-08-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-August/027822.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-August/027822.html)
+
+Dear Colleagues,
+
+On Tue, Jul 22, 2003 at 02:24:55AM +0100, Stephen Hodge wrote:
+
+> Does anybody know if there is a program around for sorting romanized
+> Sanskrit into correct dictionary order.
+
+The perl module `Sort::ArbBiLex -- make sort functions for arbitrary
+sort orders' seems appropriate. With scripting, this module will sort
+head words for multilingual lexicons.
+
+Details at:
+
+ http://search.cpan.org/dist/Sort-ArbBiLex/ArbBiLex.pm
+
+
+I've written a short perl script to sort utf-8 Romanised Skt.,
+`sort-utf8-rom-skt-proto' (my first, so be kind). The script calls
+`Sort::ArbBiLex' and is based on a couple of examples in the man
+pages.
+
+Script at:
+
+ http://homepages.comnet.co.nz/~r-mahoney/biblio/biblio.html
+
+
+I would welcome remarks, bug reports &c.
+
+
+Best regards,
+
+ Richard Mahoney
+
+
+--
+Richard Mahoney  | e-mail: rbm49 at ext.canterbury.ac.nz
+Woodfield Estate |         r.mahoney at comnet.net.nz
+Duncan Road, RD3 | cellular: 0064-25-829-986
+HAMILTON, NZ     | http://homepages.comnet.net.nz/~r-mahoney
+http://homepages.comnet.net.nz/~r-mahoney/pgp_public_key.txt
+
+
+

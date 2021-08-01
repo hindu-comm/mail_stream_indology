@@ -1,0 +1,52 @@
++++
+title = "16 Mahendra Kumar Mishra"
+date = "2009-11-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-November/033740.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-November/033740.html)
+
+ My book  Oral Epics  of kalahandi  has ben published  by  National
+Folklore Support Center, Chennai.India. Any body  who is interested in the
+book can be ordered  to  the director  www.indianfolklore.org (
+muthu at indianfolklore.org
+ Besides, if any body want  to know of this  book  can contact  me  in my  e
+mail  mkmfolk at gmail.com
+
+The book   is all about the forest  culture  and  agriculture  narratives
+of   the   tribal people of Kalahandi  related to  their socio- cultural
+epic  narration, ritual, culture hero, gods and goddesses, mythic  heroes ,
+epic singers, caste genealogies  and drought song. It is the out come of a
+long term research  taken up by me in Kalahandi.
+Mahendra  K Mishra
+Orissa, India
+
+
+
+On Sat, Nov 14, 2009 at 12:08 AM, Stephen Hodge <
+s.hodge at padmacholing.plus.com> wrote:
+
+> Dear Reinhold,
+>
+> This latest addition of the Jnanalokalamkara-sutra to GRETIL you have just
+> announced is very timely.  I was just about to start inputting the text for
+> my own immediate use.  So many thanks for saving me the time and effort !
+>
+> Best wishes,
+> Stephen Hodge
+>
+
+
+
+-- 
+Dr Mahendra Kumar Mishra
+State   SC/ST  and Minority  Education Coordinator,
+Unit-V OPEPA
+
+Residential Address:
+D-9 Flat  Kalpana Area  Bhubaneswar  751014,India
+phone 91+674-2310167(r)
+094376-36436(m)
+
+
+

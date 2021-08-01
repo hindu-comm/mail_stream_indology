@@ -1,0 +1,39 @@
++++
+title = "270 John Brockington"
+date = "2001-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026208.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026208.html)
+
+Dear Colleagues,
+
+Before the INDOLOGY list closes, let me announce to those of you professionally interested
+in the subject that a web site with some basic information about the International
+Association of Sanskrit Studies has now been established, thanks to the good offices of
+Dominik Wujastyk, to whom I tender my thanks on behalf of the IASS,     as well as sending my
+own personal thanks to him for all that he has done to further the cause of Indology through
+this list over the years.
+
+The address for the site is  http://iass.findhere.com
+
+(this is in fact an alias for its less memorable true address, which is
+http://www.ucl.ac.uk/~ucgadkw/iasss/).
+
+
+Yours sincerely
+
+John Brockington
+Secretary General of the IASS
+
+Professor J. L. Brockington
+Sanskrit, School of Asian Studies
+University of Edinburgh
+7-8 Buccleuch Place
+Edinburgh   EH8 9LW     U.K.
+
+tel: +131 650 4174
+fax: +131 651 1258
+
+
+

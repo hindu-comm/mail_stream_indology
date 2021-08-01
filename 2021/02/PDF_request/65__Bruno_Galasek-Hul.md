@@ -1,0 +1,35 @@
++++
+title = "65 Bruno Galasek-Hul"
+date = "2021-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-February/054267.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-February/054267.html)
+
+Esteemd scholars, 
+
+Might anyone on this list possess a soft copy of the following and be wiling to share it with me privately?  
+
+Tilak Raj Chopra (Bonn). "BHS triyantara and Hindi teṃtara. Notes on a folk-belief in the Mahāvastu and some other Buddhist Sanskrit texts.” In Frank-Richard Hamm Memorial Volume. Edited by Helmut Eimer (IeT, 21). Bonn: Indica et Tibetica Verlag, 1990, pp. 19–47.
+
+I’m aware that the volume is still in print. But I have no access to a library and I need the article or, in particular, the 'Supplement: Text of the Sabhika-Parivarta, edited for the First Time from Manuscripts’, relatively quickly for a research project. Ordering the book and waiting for it to be delivered would take too long...    
+
+Many thanks! 
+
+Bruno Galasek-Hul
+
+
+Bruno Galasek-Hul, Ph.D.
+Cell: +1-203-507-0080
+E-mails: bgalasek at pm.me <mailto:bgalasek at pm.me>; bgalasek at gmail.com <mailto:bgalasek at gmail.com>
+https://independent.academia.edu/BrunoGalasekHul
+http://84000.co/about/translators/
+https://mangalamresearch.shinyapps.io/VisualDictionaryOfBuddhistSanskrit/
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210219/38e5dea5/attachment.htm>

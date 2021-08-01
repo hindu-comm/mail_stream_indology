@@ -1,0 +1,43 @@
++++
+title = "57 Richard MAHONEY"
+date = "2008-05-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-May/031714.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-May/031714.html)
+
+Dear Colleagues,
+
+I've recently set up an RSS 1.0 feed for the main INDOLOGY web site:
+
+ http://indology.info/
+
+To subscribe to this feed please point your web browser or feed reader
+at this address:
+
+ http://indology.info/rss1.xml
+
+When browsing the INDOLOGY site you should also be seeing an RSS icon
+in your web browser's URL address line (Firefox, Opera &c.). I've also
+added a link marked with the same icon at the bottom right hand corner
+of each page.
+
+>From now on the INDOLOGY feed will be updated whenever we make changes
+to the site.
+
+
+Kind regards,
+
+ Richard
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 27 482 9986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+

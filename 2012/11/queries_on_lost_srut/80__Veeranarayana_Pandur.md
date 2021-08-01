@@ -1,0 +1,30 @@
++++
+title = "80 Veeranarayana Pandurangi"
+date = "2012-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-November/037151.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-November/037151.html)
+
+Dear all
+Patanjali said there were 21 rgvedic sakhaas 100 yajurvedic 1000 samavedic
+and 9 atharvasakhas. How much time it  might have taken to loose these
+shaakhas.
+What might be correct time of patanjali when he says these sakhas are
+present. based on this lossing period.
+And bigger question is whether he can be taken speaking truth on the number
+of shakhaas or not.
+One more thiing is i had heard from prof prabhakara shastriji that   a list
+of nearly 500 lost smrtis in baroda library. Thiis list of works that were
+in the possession of kavindracharya  a is ascribed to some student  of
+that acharya in varanasi. During muslim attack somebody fled to gujarat
+with this library list to survive attack. List survived While the listed
+smrtis are lost in the process. Is it true?
+Can somebody send the pdf of list.
+
+निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः।। (भ.गी.)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20121101/e78ef98c/attachment.htm>

@@ -1,0 +1,105 @@
++++
+title = "06 Tyler Williams"
+date = "2015-10-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-October/042131.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-October/042131.html)
+
+Dear friends,
+
+Thank you for sharing Vajpeyi's and Tufail Ahmad's articles.  In the case
+of Tufail, I find it difficult to take seriously (in a strictly
+intellectual sense) the political analysis of a writer who opines
+ "Conservatives are rooted, truthful and pessimistic. Liberals are hopeful,
+divisive and untruthful when describing realities."  Ahmad's suggestion
+that those who desire justice should simply stand back and wait to see what
+the state does ignores the thrust of Vajpeyi's (and others') arguments:
+that a state ruled by an explicitly fundamentalist party (be it the BJP or
+any other party) is not going to do anything in such a case as this.
+Public agitation is necessary in order to keep the state accountable, and
+to hold elected representatives (including the Prime Minister)
+responsible.  To ask for justice through protest is not simply 'liberals
+playing politics'.
+
+Similarly, Tufail ignores what Sonia Faleiro (see her Op-Ed in the New York
+Times <http://nyti.ms/1KVCBVn>) and others have been pointing out for some
+time: that the frequency of attacks on scholars, writers, and religious
+minorities has increased observably since the installment of the current
+BJP government, and the government has been noticeably silent and
+uninterested in pursuing the causes and groups responsible for this
+spreading violence.
+
+This is because the enactment of violence upon scholarly, religious, and
+caste communities are not isolated phenomena but closely linked-- exactly
+what Vajpeyi is trying to point out.  Ahmad and others seem willing to deny
+this, but as scholars (one of the groups under threat) I don't think we
+have the luxury (moral or material) to ignore such structural and
+ideological linkages.
+
+Best,
+Tyler Williams
+
+
+On Wed, Oct 7, 2015 at 1:53 AM, Nityanand Misra <nmisra at gmail.com> wrote:
+
+> Here is a different view by Tufail Ahmed, former BBC journalist and
+> Director of South Asia Studies Project at MEMRI (Washington DC), on linking
+> the mob-lynching to Modi and the NDA government:
+>
+> http://indiafacts.co.in/indias-thought-cops-are-angry-with-modi/
+>
+> Also notable are the statements of Mohammad Sartaj, son of Mohammad
+> Akhlaq, published by The Times of India and Firstpost today. Sartaj says he
+> wants justice, not politics over his father's killing:
+>
+>
+> http://timesofindia.indiatimes.com/india/Dadri-lynching-We-want-justice-not-politics-says-Akhlaqs-son-Sartaj/articleshow/49250333.cms
+>
+>
+> http://www.firstpost.com/india/dadri-lynching-case-do-not-politicise-my-fathers-death-says-akhlaqs-son-2456684.html
+> On Oct 6, 2015 10:07 PM, "Audrey Truschke" <audrey.truschke at gmail.com>
+> wrote:
+>
+>> This may interest list members:
+>>
+>> The Reactionary Present, by Ananya Vajpeyi, The Hindu.
+>>
+>> "Under a government of the Hindu Right, India is witnessing yet another
+>> phase of reaction and orthodoxy, a return to medieval Brahminical values
+>> that seek to monopolise rights for a select few and turn everyone else out
+>> of the body politic."
+>>
+>>
+>> http://www.thehindu.com/opinion/lead/the-reactionary-present/article7727181.ece
+>>
+>>
+>> Audrey Truschke
+>> Mellon Postdoctoral Fellow
+>> Department of Religious Studies
+>> Stanford University
+>> e- <audrey.truschke at gmail.com>mail <audrey.truschke at gmail.com> | website
+>> <http://www.stanford.edu/~truschke/>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151007/44d061ee/attachment.htm>

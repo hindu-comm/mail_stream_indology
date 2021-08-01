@@ -1,0 +1,32 @@
++++
+title = "13 Monika Nowakowska"
+date = "2001-08-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-August/026272.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-August/026272.html)
+
+I've already sent the details to Christian K. Wedemeyer but here it is
+again for all the interested:
+"Studia Indologiczne", published by Oriental
+Institute, Warsaw University, since 1994.
+Studia Indologiczne 4 (1997) contain the Proceedings of the
+International Seminar on Buddhist Studies, Liw 25 June 1994; ed. by
+Agata Bareja-Starzynska and Marek Mejor.
+Several copies of the journal have been sent all over the world and
+should be
+available in some libraries.
+With regards,
+Monika Nowakowska
+Warszawa
+
+
+
+--
+
+Jest niezly ... i liscik napisze
+OnetKomunikator [ http://ok.onet.pl/instaluj.html ]
+
+
+
+

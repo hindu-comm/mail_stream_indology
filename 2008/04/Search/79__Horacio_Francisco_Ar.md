@@ -1,0 +1,27 @@
++++
+title = "79 Horacio Francisco Arganis Juarez"
+date = "2008-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-April/031596.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-April/031596.html)
+
+Dear Professor Tony K. Stewart
+  North Carolina State University.
+  Dear Professor:
+  I shall so thanks  to you and other colleagues specialized in the history of Gaudiya-Vaisnavism, actualizen to me on the philological  status  of the Jayananda's text Caitanya Mangala. Also the apologetic written reactions about this book inside of  Caitanya's scholars, because it work holds a natural death narration of Caitanya Mahaprabhu. Thank you very much.
+  Sincerily
+  Horacio F. Arganis-Juarez
+  Researcher of IEFAC, IBCH and U A de C.
+  Saltillo, Coah.
+  Mexico.
+
+
+---------------------------------
+
+¡Capacidad ilimitada de almacenamiento en tu correo!
+No te preocupes más por el espacio de tu cuenta con Correo Yahoo!:
+http://correo.yahoo.com.mx/
+
+
+

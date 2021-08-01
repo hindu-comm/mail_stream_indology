@@ -1,0 +1,30 @@
++++
+title = "44 Michael Witzel"
+date = "2005-01-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-January/028942.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-January/028942.html)
+
+Google has a Sanskrit search engine now, with internet (antarajaalam)
+etc. search
+
+http://www.google.com/intl/sa/
+
+Looks like using Itrans transliteration, with a mid-Indian
+(Gujarati-Marathi-Telugu-Oriya) twist: e.g., krushna  for kRSNa
+
+Nice picture  (chitrANi) collection...
+Have fun!
+MW
+
+
+Michael Witzel
+Department of Sanskrit and Indian Studies, Harvard University
+1 Bow Street , Cambridge MA 02138
+1-617-495 3295           Fax: 496 8571
+direct line:       496 2990
+http://witzel@fas.harvard.edu/~witzel/mwpage.htm
+
+
+

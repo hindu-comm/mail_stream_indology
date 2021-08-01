@@ -1,0 +1,39 @@
++++
+title = "08 McComas Taylor"
+date = "2018-10-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048580.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048580.html)
+
+http://chl.anu.edu.au/news-events/news/1035/17th-world-sanskrit-conference-vancouver-2018
+
+[http://style.anu.edu.au/_anu/4/images/logos/anu_logo_fb_350.png]<http://chl.anu.edu.au/news-events/news/1035/17th-world-sanskrit-conference-vancouver-2018>
+
+The 17th World Sanskrit Conference, Vancouver, 2018 - CHL ...<http://chl.anu.edu.au/news-events/news/1035/17th-world-sanskrit-conference-vancouver-2018>
+chl.anu.edu.au
+It is easy to love Vancouver in the summertime: long mild days, trees in full leaf and snow on the mountain tops across the water. The University of British Columbia campus occupies most of a peninsular that juts out into the Strait of Georgia and is fringed by national park that drops down to the water’s edge.
+
+
+
+
+------------------------------------------------------------------------
+McComas Taylor, SFHEA
+Associate Professor, Reader in Sanskrit
+College of Asia and the Pacific
+The Australian National University, Tel. + 61 2 6125 3179
+Website: https://sites.google.com/site/mccomasanu/
+
+Address: Baldessin Building 4.24, ANU, ACT 0200
+
+
+[1498624349007_vishnu_small.png]
+
+Ask me about my new project:
+
+'Translating the Viṣṇu Purāṇa'
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181014/9406b79a/attachment.htm>

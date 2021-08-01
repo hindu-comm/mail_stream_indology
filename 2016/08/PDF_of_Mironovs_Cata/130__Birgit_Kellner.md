@@ -1,0 +1,54 @@
++++
+title = "130 Birgit Kellner"
+date = "2016-08-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-August/043845.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-August/043845.html)
+
+Thanks to Dmitry Olenev and Dominik Wujastyk for responding to my query
+so quickly and efficiently!
+
+With best regards, Birgit Kellner
+
+Am 10.08.2016 um 17:35 schrieb Dominik Wujastyk:
+> Dear All, 
+> 
+> Please use 
+> 
+>   * http://catalogues.indology.info 
+>     <http://catalogues.indology.info>
+> 
+> as the canonical address for the digitized catalogues collection,
+> not wujastyk.net/mscats <http://wujastyk.net/mscats>. 
+> 
+> It's true that the actual PDFs are sitting at wujastyk.net
+> <http://wujastyk.net> at the present time, where I moved them last year,
+> from a private directory at the U. of Vienna.  But they will move again
+> in the future to a more durable repository.   Wherever the physical
+> files live, the URL http://catalogues.indology.info will always be
+> adjusted to get you to the right place.  This URL is also found on the
+> main INDOLOGY.info <http://INDOLOGY.info> website (in the left menu).
+> 
+> And yes, the Mironov catalogues are there, under Biswas 827 and 828.
+> 
+> Best,
+> Dominik
+> ​
+
+
+-- 
+-------
+Dr. Birgit Kellner
+Director
+Institute for the Cultural and Intellectual History of Asia
+Austrian Academy of Sciences
+Apostelgasse 23
+A-1030 Vienna / Austria
+Phone: (+43-1) 51581 / 6420
+Fax: (+43-1) 51581 / 6410
+http://ikga.oeaw.ac.at
+
+
+
+

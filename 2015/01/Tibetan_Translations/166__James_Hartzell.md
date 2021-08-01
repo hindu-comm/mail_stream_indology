@@ -1,0 +1,81 @@
++++
+title = "166 James Hartzell"
+date = "2015-01-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-January/040592.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-January/040592.html)
+
+HI James
+
+You may also have a look at my article
+
+Hartzell,  J.F.  (2012) Buddhist  Sanskrit  Tantras: the samādhi of  the
+ploughed  row,”  Pacific World: Journal of  the Institute  of  Buddhist
+Studies, third  series,  no.  14,  pp.  63-178.
+
+it provides some information on the dates of translations of Buddhist
+Sanskrit Tantras into Tibetan.
+
+It is available via free download from the journal website
+http://www.shin-ibs.edu/publications/pacific-world/pacific-world-third-series-number-14-fall-2012/
+
+Cheers
+James
+
+On Fri, Jan 30, 2015 at 7:29 AM, Matthew Kapstein <mkapstei at uchicago.edu>
+wrote:
+
+>
+>
+> James,
+>
+> I don't have a copy at hand to double check, but if memory serves me, vol.
+> 2 of
+> L'Inde Classique has useful overviews of Tibetan and Chinese translations
+> of Indian works.
+>
+> My article, "The Indian Identity in Tibetan Literature," in S. Pollock,
+> Literary Cultures in History,
+> surveys some aspects of the "indianization" of Tibetan literature.
+>
+> Peter Verhagen's two vols. (Brill) on Tibetan studies of Sanskrit grammer
+> provide a
+> very thorough guide to that area.
+>
+> The useful site of the University of Vienna
+> https://www.istb.univie.ac.at/kanjur/xml3/xml/
+> provides a variety of resources for exploring the Tibetan canonical
+> collections,
+> with emphasis on the Kanjur rather than the Tanjur (where most of the
+> material on
+> the vidyaashtaana-s is found). It does reference the various catalogues of
+> both
+> collections.
+>
+> Matthew
+>
+> Matthew Kapstein
+> Directeur d'études,
+> Ecole Pratique des Hautes Etudes
+>
+> Numata Visiting Professor of Buddhist Studies,
+> The University of Chicago
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+James Hartzell, PhD
+Center for Mind/Brain Sciences (CIMeC)
+The University of Trento, Italy
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150130/0bc32a09/attachment.htm>

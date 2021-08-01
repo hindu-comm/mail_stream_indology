@@ -1,0 +1,125 @@
++++
+title = "145 Bradley Clough"
+date = "2019-09-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-September/050833.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-September/050833.html)
+
+This probably goes down a rabbit hole that Jessie's colleague wouldn't be
+interested in, but Jessie's referencing the Visuddhimagga and Matthew's
+referencing tales of Maudgalyayana's journeys makes me think that in
+Buddhist contexts at least, these experiences were typically assumed to be
+had with what was termed a "body made of mind" (manomaya kāya [two words]
+or manomayakāya [one compounded word], depending on the source). This
+raises the question of whether or not these experiences were literally
+"out-of-body". The Pāli sources I'm familiar with at least typically say
+the manomaya kāya is "rūpin", in other words it has form. But I suppose
+that might well take us into the issue of whether or not terms like "kāya"
+and "rūpin" connote PHYSICAL form in these contexts...
+
+But to get back to Jessie's colleague's interests, among the many Buddhist
+sources that speak of such journeying to other realms by arhats, the
+Sanskrit ones that Matthew cited are indeed the ones that we can most
+reliably date as closest to the Common Era's beginnings, the specific
+period that this colleague is apparently focusing on.
+
+Brad Clough
+
+On Sat, Sep 14, 2019 at 9:29 AM Matthew Kapstein via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> For materials closer to the period you are looking at - i.e. beginning of
+> CE -- I would suggest the stories of the arhat Maudgalyayana in the
+> Mahavastu-avadana (trans. Jones) and the Saundarananda of Asvaghosa (trans.
+> Johnston or Covill).
+>
+> good luck!
+>
+> Matthew Kapstein
+> Directeur d'études,
+> Ecole Pratique des Hautes Etudes
+>
+> Numata Visiting Professor of Buddhist Studies,
+> The University of Chicago
+> ------------------------------
+> *From:* INDOLOGY <indology-bounces at list.indology.info> on behalf of Dean
+> Michael Anderson via INDOLOGY <indology at list.indology.info>
+> *Sent:* Saturday, September 14, 2019 10:02 AM
+> *To:* indology at list.indology.info <indology at list.indology.info>; Jessie
+> Pons <jessie.pons at ruhr-uni-bochum.de>
+> *Subject:* Re: [INDOLOGY] Out-of-body experience in Indian religions
+>
+> There must be many stories of things like this in texts like the Puranas,
+> but these two references come to mind.
+>
+> ) The biography of Shankara mentions him leaving his body and entering the
+> body of a king. Shankara-dig-vijaya is one of the classic texts on this.
+> Perhaps some know of other sources.
+>
+> 2) Yoga Sutra III.38 says:
+>
+> By loosening the cause of bondage and through sensitivity to the movements
+> (of the mind), consciousness can enter another body.
+>
+> bandhakaaraNashaithilyaatprachaarasaMvedanaachcha chittasya
+> parasharIraaveshaH
+>
+> Best,
+>
+> Dean
+>
+> On Saturday, September 14, 2019, 7:35:26 PM GMT+5:30, Jessie Pons via
+> INDOLOGY <indology at list.indology.info> wrote:
+>
+>
+> Dear list-members,
+>
+> A colleague is developing a research project on Out-of-body experiences
+> in religious contexts at the turn of the common era and would be
+> interested in comparing her material (her focus is on the Mediterranean
+> world) with that of other regions.
+>
+> I have mentioned Buddhaghosa's Visuddhimagga and the Yoga-Vāsiṣṭha
+> (though I understand this is a later source) but I would be very
+> grateful to anyone who could suggest additional or more pertinent
+> sources.
+>
+> Thank you very much in advance for any help you can provide!
+>
+> All best,
+> Jessie Pons
+>
+> --
+> Jun.-Prof. Dr. Jessie Pons
+> Professor for the History of South Asian Religions
+> CERES — Centre for the Study of Religions
+> Käte-Hamburger-Kolleg „Dynamics in the History of Religions between Asia
+> and Europe"
+> Ruhr-Universität Bochum
+> Universitätsstraße 90a
+> 44789 Bochum
+> Tel. 02 34 32 22955
+> E-Mail: jessie.pons at rub.de
+> Room 1/04
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190914/877b5514/attachment.htm>

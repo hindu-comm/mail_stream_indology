@@ -1,0 +1,16 @@
++++
+title = "56 George Hart"
+date = "2009-06-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-June/033311.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-June/033311.html)
+
+A researcher working on the Justinianic Plague (6th-8th century CE) is  
+looking for references to it in Tamil -- I am wondering if anyone  
+knows of such a source in either Tamil or Sanskrit.  He says that he  
+has read that there are references to it in Tamil but does not know  
+what they are.  I have not come across them.  George Hart
+
+
+

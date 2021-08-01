@@ -1,0 +1,58 @@
++++
+title = "104 Richard MAHONEY"
+date = "2009-08-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033575.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033575.html)
+
+On Sat, Aug 22, 2009 at 06:28:13PM -0400, Dan Lusthaus wrote:
+
+> I believe the problem is not related to versions of Adobe, since I am 
+> even able to read them in Adobe 6. The problem is the slow server speed 
+> feedling the pdfs. The first few articles I tried to download also were 
+> broken and unreadable.
+>
+> To test whether that is case, look at the size (in k or MBs) of the file 
+> you are trying to download, and then look at the size of what you have  
+> downloaded. If the one on your computer is smaller, you've downloaded an  
+> incomplete file which won't open.
+>
+> The server is sending them at such a slow rate, that downloads terminate, 
+> without warning or error message, prematurely. That can only be cured by  
+> faster server speed on the ZDMG end.
+
+If the Halle servers are indeed suffering from inadequate bandwidth
+&c. then it might help to use a dedicated download manager rather than
+one's web browser to get hold of the material. I've found Sun
+Microsystems' `Download Manager' useful (it can also automatically
+unzip archives after the download):
+
+ Sun Download Manager 2.0 :: Download
+ http://www.sun.com/download/sdm/download.xml
+
+This application is free and runs on any system with Java installed on
+it. Reasonably exhaustive instructions are available here:
+
+ Sun Download Manager 2.0 :: Help
+ http://www.sun.com/download/sdm/sdm_help.xml
+
+
+
+Kind regards,
+
+ Richard
+
+
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 275 829 986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+

@@ -1,0 +1,20 @@
++++
+title = "13 Herman Tull"
+date = "2011-06-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-June/035580.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-June/035580.html)
+
+Thanks to everyone who responded to my query regarding early Sanskrit grammar books.  Although I still was not able to get access to Colebrooke’s grammar, I have been able to track down quite a few interesting works.  For those interested in this sort of thing, nearly all the early works are available in digitized form, among them grammars by Wilkins, Bopp (translated into English), Kielhorn, and Benfey.  The “standard” grammar works by Max Mueller, Whitney, Monier-Williams, Bhandarkar, and Macdonell are also available (the genealogies of these works is well-known, but interesting to review nonetheless).  Additionally, Cambridge University has just issued a reprint of Wilkins’s 1808 grammar in a highly readable and fairly sturdy paperback edition ( I have no idea why the press undertook this project, but if anyone has any inside information, please do fill me in).
+
+with regards to the list-members
+
+Herman Tull
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20110626/afaceae0/attachment.htm>

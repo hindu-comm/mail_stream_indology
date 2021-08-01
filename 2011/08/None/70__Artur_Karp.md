@@ -1,0 +1,47 @@
++++
+title = "70 Artur Karp"
+date = "2011-08-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-August/035755.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-August/035755.html)
+
+---------- Forwarded message ----------
+From: Artur Karp <karp at uw.edu.pl>
+Date: 2011/8/14
+Subject: Re: [INDOLOGY]
+To: Dominik Wujastyk <wujastyk at gmail.com>
+
+
+Dominik,
+
+The image caption still says: "A pillar in Vaishali, India, displaying
+edicts of Emperor Asoka (272—231 BCE)".
+
+But another page of Wikipedia informs the reader that "The pillars
+found at Vaishali (with single lion capital) and Rampurva (with bull
+capital) do not bear any edict."
+
+
+http://en.wikipedia.org/wiki/Pillars_of_Ashoka
+
+
+And, I would suggest changing "animals" to either "cattle" or "farm
+animals". In Aśoka's Edicts the term "cattle/farm animals" reflects
+the real economic interests of the Mauryan state. The term "animals"
+seems to reflect ideological concerns of the late Western commentators
+of the Edicts. There is no indication that Aśoka wanted to
+institutionalize the care for the state of health of animals - animals
+as such. Including serpents, monkeys, gavials and tigers.
+
+[A long time ago I visited the famous Delhi Birds Hospital. Yes, some
+birds were being taken care of there, but none of them predatory or
+living on carrion. Wouldn't it be better if the Hospital were named
+The Vegan Birds Hospital?]
+
+Regards,
+
+Artur
+
+
+

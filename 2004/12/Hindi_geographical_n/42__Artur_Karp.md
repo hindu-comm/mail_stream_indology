@@ -1,0 +1,121 @@
++++
+title = "42 Artur Karp"
+date = "2004-12-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028833.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028833.html)
+
+Dear List Memebers:
+
+I was asked (by the Polish Geodetical Service) to prepare a list of Indian
+geographical names - with their Polish, Hindi and English versions.
+Being unable to locate in Poland any detailed map of India in Devanagari
+characters, I would like to ask for your kind assistance in determining
+the Hindi equivalents (Kyoto transcription, with retroflex consonants) of
+the following geographical names:
+
+Paithan Dam
+Aharbal Falls
+Barehipani Falls
+Nohkalikai Falls
+Nohsngithiang Falls
+Kynrem Falls
+Hogenakal Falls
+Gugamal N.P.
+Marine N.P.
+Neora Valley N.P.
+Moiling N.P.
+Namdapha N.P.
+Balphakram N.P.
+Intanki N.P.
+Krem Um Lawan Cave
+Krem Maw Tynhiang Cave
+Borra Cave
+
+Peaks:
+
+Baintha Brakk
+Barabar
+Batura
+Chameringu
+Changabang
+Chogolisa
+Dapha Bum
+Dhond
+Dapjo Pahar
+Falchan Kangri
+Gasherbrum
+Gurudongmar
+Kangto
+Kephyaklo
+Kokthang
+Kolahoi
+Kunyang Chhish
+Langpo Peak
+Lulupo
+Lungreng Tlang
+Masherbrum
+Mathuri
+Namprik Phuk
+Nunkun
+Panchchuli
+Pangol kha
+Pemikhangchhen
+Rakaposhi
+Rataban
+Richi La
+Saramati
+Saser Kangri
+Satopanh
+Shispare
+Singarsi Peak
+Sonam
+Tatakuti
+Tent Peak
+Tungar
+
+Towns:
+
+Dhamtari
+Dhurbi
+Dindori
+Godda
+Gondia
+Gumla
+Haflong
+Harda
+Kasargode
+Katnio
+Keonjhar
+Khurda
+Koraput
+Madikeri
+Nongstoin
+Orai
+Oras
+Orraiya
+Painavu
+Pakur
+Parlakhemundi
+Pathanamthitta
+Perambalur
+Rajouri
+Reckong Peo
+Saiha
+Sidhi
+Theni
+Tinsukia
+Tura
+
+
+Thanking you in advance,
+
+Artur Karp
+
+South Asian Studies Deptt
+University of Warsaw
+Poland
+
+
+

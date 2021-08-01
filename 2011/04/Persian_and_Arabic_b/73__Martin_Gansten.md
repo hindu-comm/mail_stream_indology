@@ -1,0 +1,29 @@
++++
+title = "73 Martin Gansten"
+date = "2011-04-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-April/035367.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-April/035367.html)
+
+Many thanks to all who responded to my query so far. I have consulted 
+Weber's work, and now find that I need to qualify my original question 
+somewhat.
+
+Weber (1887: 21) gives a list of Sanskritization of Persian phonemes in 
+the Pārasīprakāśa (c. 1600). However, this list does not quite tally 
+with the examples I have seen in Sanskrit astrological works dating 
+(probably) from the 13th century or earlier. One obvious possible 
+explanation is that pronunciation had changed over the intervening 
+centuries.
+
+My modified question, therefore, must be: what are the earliest 
+documented examples (preferably lists) of Sanskritized Persian or Arabic 
+words after, say, 1000 CE?
+
+Vidvajjanadayāpātram,
+
+Martin Gansten
+
+
+

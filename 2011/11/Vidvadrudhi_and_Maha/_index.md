@@ -1,0 +1,4 @@
++++
+title = "Vidvadrudhi and Mahayoga"
+
++++

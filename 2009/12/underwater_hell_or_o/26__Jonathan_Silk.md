@@ -1,0 +1,25 @@
++++
+title = "26 Jonathan Silk"
+date = "2009-12-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-December/033774.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-December/033774.html)
+
+a friend who is a student of Indo-european and currently working on Welsh
+asked me whether there are things like underwater hells in Indic folklore
+(she referred for instance to an Irish underwater otherworld)--I don't
+recall any such thing, but that may be nothing more than a statement about
+my ignorance or bad memory. Any ideas?
+
+thanks, jonathan
+
+-- 
+J. Silk
+Instituut Kern / Universiteit Leiden
+Postbus 9515
+2300 RA Leiden
+Netherlands
+
+
+

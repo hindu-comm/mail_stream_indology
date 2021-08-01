@@ -1,0 +1,35 @@
++++
+title = "55 Birgit Kellner"
+date = "2001-04-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026003.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026003.html)
+
+Friday, April 06, 2001, 4:30:59 PM, Ernst Steinkellner wrote (via
+Ulrich Pagel):
+
+DW> A guest-professorship for Tibetan and/or Buddhist Studies was announced
+DW> by the University of Vienna at the Institute for Southasian, Tibetan
+DW> and Buddhist Studies (formerly Institutes for Indology and  for Tibetan
+DW> and Buddhist Studies) for the period of February 1, 2002 to Jannuary
+DW> 31, 2004, as a temporary replacement of myself (taking a research
+DW> professorship at the Austrian Academy of Sciences during this period).
+DW> Your applications should reach our dean's office by May 2, 2001. Since
+DW> you would have to teach German, at least for a major part of your
+DW> activities, I add the original German announcement below for your
+DW> informatuion:
+
+If I may be so bold as to add a small remark: It is not required that applicants teach German (the language), but
+that they teach their classes in Tibetan and/or Buddhist Studies IN
+German :-)
+
+--------
+Best regards,
+
+Birgit Kellner
+Institute for South Asian, Tibetan and Buddhist Studies
+Vienna University
+
+
+

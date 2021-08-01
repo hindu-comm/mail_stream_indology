@@ -1,0 +1,38 @@
++++
+title = "130 Dominik Wujastyk"
+date = "2014-02-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/039020.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/039020.html)
+
+The Hindu reports today that Odia now joins Sanskrit, Tamil, Telugu,
+Kannada and Malayalam as an official "classical language" of India.
+
+   -
+   http://www.thehindu.com/news/national/odia-gets-classical-language-status/article5709028.ece
+
+It would be nice if we could now look forward to the opening of many new
+departments of classics in Indian universities, and the appointment of
+professorships and lectureships to support the study of the Indian
+classics!  And an acceptance by banks, computer companies and other
+employers that a degree in classics is a valid and valuable education for
+any subsequent profession.
+
+Best,
+--
+Dr Dominik Wujastyk
+Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>
+,
+University of Vienna,
+Spitalgasse 2-4, Courtyard 2, Entrance 2.1
+1090 Vienna, Austria
+and
+Adjunct Professor,
+Division of Health and Humanities,
+St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140220/3eac97e7/attachment.htm>

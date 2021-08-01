@@ -1,0 +1,83 @@
++++
+title = "09 McComas Taylor"
+date = "2011-12-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-December/036154.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-December/036154.html)
+
+Dear Indology Colleagues
+
+Would you kindly circulate this to all your Hindi teaching colleagues?
+
+Apologies for any cross-posting
+
+With thanks in advance and best wishes for the holiday season
+
+McComas
+
+========
+
+Dear Colleagues,
+
+It would be appreciated if you 
+could kindly circulate this update to your Hindi students regarding an 
+extension to the upload deadline for the Australian National 
+University's Hindi Short Film Competition.
+
+
+
+With the festive season in full swing, we have decided to extend the deadline by one month to the 31st of January, 2012.
+
+
+I
+ encourage you all to use this opportunity as a fun platform in which 
+your students and departments can showcase their Hindi skills and 
+creativity to the rest of the South Asian academic departments around 
+the world. This is an opportunity for us to come closer together in a 
+celebration of our shared passion of Hindi.
+
+
+
+Please remind all of the potential entrants that apart from guaranteed global fame, there is a first (and only) prize of aud$500 up for grabs.
+
+
+The rules are quite simple:
+
+
+
+
+	5 minute maximum duration
+	Current non-native pg / ug students of Hindi are eligible
+	Content should be fun, informative, creative and in Hindi
+
+
+
+
+
+
+
+
+
+-- 
+All the best,
+
+Patrick McCartney 
+skype - psdmccartney
+Canberra
+Australia
+
+http://www.youtube.com/watch?v=AfpCc8G_cUw&feature=related
+
+--
+McComas Taylor
+Head, South Asia Program
+ANU College of Asia and the Pacific
+Tel: +61 2 6125 3179
+Location: Baldessin Precinct Building, 4.24
+Website: McComas Taylor(http://arktos.anu.edu.au/chill/index.php/mct)Courses: Learn about some of my courses: Sanskrit 1(http://www.screenr.com/NSBs) | Indian Epics(http://screenr.com/uUBs)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20111221/7dcadfe9/attachment.htm>

@@ -1,0 +1,44 @@
++++
+title = "24 Madhav Deshpande"
+date = "2009-09-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-September/033622.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-September/033622.html)
+
+Please forward this information to all those who may be interested.
+
+Madhav Deshpande
+
+UNIVERSITY OF MICHIGAN, Department of Asian Languages and Cultures 
+invites applications for a tenure-track position in HINDU STUDIES, 
+beginning September 2010.  This university-year appointment is 
+possible at any rank. Ph.D. is required prior to appointment. 
+Applicants from a wide variety of periods and fields within Hindu 
+Studies will be considered. All applicants should possess a high 
+level of proficiency in one or more South Asian languages. The 
+successful candidate is expected to teach a range of courses in 
+Hindu Studies from introductory undergraduate lecture courses 
+through graduate seminars; to supervise doctoral dissertations; 
+and to participate actively in the programs of the department as 
+well as in area studies initiatives within a larger university 
+community that encourages interdisciplinary efforts. Evidence of 
+excellent teaching and research abilities is essential. Please 
+submit a letter of application, CV, statement of teaching 
+philosophy and experience, evidence of teaching excellence (if 
+any), and a statement of current and future research plans.  
+Junior candidates may submit a placement dossier with 
+representative publications or writing sample and at least three 
+letters of recommendation. Senior candidates should send the names 
+of suggested reviewers.  Please send applications to Hindu Studies 
+Search, Department of Asian Languages and Cultures, 202 South 
+Thayer Street, Suite 6111, University of Michigan, Ann Arbor, MI 
+48104-1608 (email chair’s assistant: kjmunson at umich.edu). To be 
+assured consideration, applications must be received by October 
+15, 2009.  The University of Michigan is an Equal Opportunity/
+Affirmative Action Employer. Women and minorities are encouraged 
+to apply. The University is supportive of the needs of dual career 
+couples.  All applications will be acknowledged.
+
+
+

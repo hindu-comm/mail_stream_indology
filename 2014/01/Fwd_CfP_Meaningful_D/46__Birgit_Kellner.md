@@ -1,0 +1,72 @@
++++
+title = "46 Birgit Kellner"
+date = "2014-01-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-January/038813.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-January/038813.html)
+
+Dear colleagues,
+
+find attached a CfP for an interdisciplinary conference that seeks to 
+question conventional thought on the value of preservation and 
+destruction in connection with cultural heritage, a topic that may be of 
+interest to Indologists. The deadline for abstracts has been set at 31 
+January.
+
+With best regards,
+
+Birgit Kellner
+
+
+--------- Original-Nachricht --------
+Betreff: 	CfP "Meaningful Destruction - Contingent Preservation",
+Heidelberg, 4-5 July 2014
+Datum: 	Mon, 13 Jan 2014 08:03:59 +0100
+Von: 	Diamantis Panagiotopoulos
+<diamantis.panagiotopoulos at ZAW.UNI-HEIDELBERG.DE>
+Antwort an: 	Diamantis Panagiotopoulos
+<diamantis.panagiotopoulos at ZAW.UNI-HEIDELBERG.DE>
+An: 	CLUSTER-ALL at LISTSERV.UNI-HEIDELBERG.DE
+<CLUSTER-ALL at LISTSERV.UNI-HEIDELBERG.DE>
+
+
+
+Dear all,
+
+
+please find attached the CfP for the conference "Meaningful Destruction
+- Contingent Preservation" which is scheduled on 4-5 July at Heidelberg.
+The deadline for applications has been extended to 31 January. Abstracts
+can be submitted either to Guido Sprenger or me.
+
+
+All best,
+
+
+Diamantis Panagiotopoulos
+
+
+
+
+---------------------------------------------------
+Professor Diamantis Panagiotopoulos
+Director of the Institute of Classical Archaeology
+University of Heidelberg
+
+Speaker of Research Area A
+Cluster of Excellence "Asia and Europe in a Global Context"
+
+Marstallhof 4
+D-69117 Heidelberg
+
+Tel.: ++49-(0)6221-542511
+Fax:  ++49-(0)6221-543385
+---------------------------------------------------
+
+
+
+
+
+
+

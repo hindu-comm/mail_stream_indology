@@ -1,0 +1,27 @@
++++
+title = "207 Anand M. Sharan"
+date = "2000-09-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022834.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022834.html)
+
+In my last posting, I had indicated the drying up of the Saraswati river
+around 1700 BCE, and that the Mahabharata War took place before that based
+on the description in Mahabharata, about Balram's pilgrimage along the
+Saraswati river. I had also mentioned about Fitzgerald's work on the use of
+iron during the War. I had mentioned other instances where the use of iron
+is mentioned.
+I have read another source about dating the Mahabharata based on the
+planetary configuration. It gives the date of starting of the War on Nov.
+22, 3067 BCE ( I will try to post the details on a web site shortly -
+within a few days ) . Therefore, considering any of these sources- drying
+up of the Saraswati river,  and the planetary configuarations, one can say
+that the Iron Age in India was far older than previously believed .
+
+Thanks.
+
+Anand M. Sharan
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "46 Gruenendahl, Reinhold"
+date = "2014-02-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/038999.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/038999.html)
+
+GRETIL is pleased to be able to report the following addition(s) to its collection:
+
+
+Maitreyanatha: Abhisamayalamkaranamaprajnaparamitopadesasastra revised:
+http://gretil.sub.uni-goettingen.de/gretil.htm#Abhis
+
+
+Visnu-Purana (plain text / text with pada markers / pada index):
+http://gretil.sub.uni-goettingen.de/gretil.htm#ViPCE
+
+
+__________________________________________________________________________
+
+"GRETIL is intended as a cumulative register of the numerous download sites for electronic texts in Indian languages." (from the 2001 "mission statement")
+
+GRETIL - Goettingen Register of Electronic Texts in Indian Languages:
+
+http://gretil.sub.uni-goettingen.de/gretil.htm
+
+
+

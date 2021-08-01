@@ -1,0 +1,4 @@
++++
+title = "adṛṣṭa in Vaiśeṣikasūtra?"
+
++++

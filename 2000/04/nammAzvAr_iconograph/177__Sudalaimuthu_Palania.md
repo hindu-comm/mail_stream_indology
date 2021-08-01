@@ -1,0 +1,29 @@
++++
+title = "177 Sudalaimuthu Palaniappan"
+date = "2000-04-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021078.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021078.html)
+
+In her book, "Slaves of the Lord", Vidya Dehejia calls tirumaGkai AzvAr and
+nammAzvAr as zUdras (pp. 183-186). But in figure 61 she presents an icon from
+Tirubhuvani which is supposed to be that of nammAzvAr. Strangely, the saint
+is shown with a sacred thread. Figures 59 and 60 show icons of tirumaGkai
+AzvAr which do not have any sacred thread.
+
+The questions I have are:
+(1) Is Dehejia's identification of figure 61 as nammAzvAr correct?
+(2) If so, is nammAzvAr usually portrayed with a sacred thread while
+tirumaGkai is not and what are the traditional explanations for this
+difference in treatment?
+
+Of course, it is possible Vidya Dehejia is simply confused about the Tamil
+society as shown by her use of zUdra and veLLaLa designations to different
+saints.
+
+Regards
+S. Palaniappan
+
+
+

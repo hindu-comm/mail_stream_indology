@@ -1,0 +1,42 @@
++++
+title = "62 Stephen Hodge"
+date = "2009-05-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033248.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033248.html)
+
+Dear Matthew,
+
+Thanks for your Vinaya suggestion ~ though, of course it does not fit as you 
+yourself mention.
+
+> As Stein pointed out (Tibetica Antiqua I),
+> the conventions adopted in Tibetan translations
+>from Chinese are sometimes quite different from
+>the "standard" Tibetan Buddhist vocabulary.
+
+Very true, but this is not a translation from Chinese at all ~ I am not 
+working with the secondary translation into Tibetan, of Dharmaksema's 
+"extended" Chinese text, even though that happens to be popular with Tibetan 
+writers.  Actually the parallel Chinese versions by Faxian and Dharmaskema 
+of the Indic text of the Mahayana Mahaparinirvana-sutra, each ultimately 
+based on the same ancestral South Indian text as the Tibetan text, are 
+unhelpful since they have in most cases converted the "gzhi gsum" into a 
+simple "san bao" (Three Jewels).  As for possible Skt candidates, it is a 
+probably a toss up between "vastu" or "bhaava" for "gzhi".
+
+I am interested because it seems an unusual expression, and I wondered 
+whether it might be a idiosyncratic term of choice among whichever 
+Mahasanghika sub-group produced the Mahayana Mahaparinirvana-sutra in the 
+first place. This is not unimportant since the Mahayana 
+Mahaparinirvana-sutra spends quite a bit of time discussing the Three Jewels 
+in the guise of these "gzhi gsum" (and never "dkon mchog gsum"), when they 
+are eventually subsumed into the buddha-dhaatu and thus interiorized as a 
+personal, internal refuge.
+
+Best wishes,
+Stephen Hodge
+
+
+

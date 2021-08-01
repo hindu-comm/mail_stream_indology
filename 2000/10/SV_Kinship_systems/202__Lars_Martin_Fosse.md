@@ -1,0 +1,40 @@
++++
+title = "202 Lars Martin Fosse"
+date = "2000-10-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023123.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023123.html)
+
+Vidyasankar Sundaresan [SMTP:vsundaresan at HOTMAIL.COM] skrev 10. oktober
+2000 22:54:
+> ps. In Naga Ganesan's recent post, the word "ethnic" appears, to talk of
+> Aryan vs. Dravidian. In order to keep the discourse on track, may I point
+> out that "ethnic" is simply another word that attempts to bring race in,
+> through the back door?
+
+Not necessarily. Greek ethnos means "people", and interestingly, "race"
+originally could mean "people" or "nation", even "family" as well as
+"race". Both in English and German, by the way. Today, "race" seems to have
+become specialized to mean "biological" race, whereas "ethnic" may refer to
+groups of different cultures or nationalities that may, however, belong to
+the same "biological race". Compare the recent war in Yugoslavia, where
+three ethnic groups that all belong to the same "race" and speak almost
+identical languages have been busy making war on each other.
+
+Best regards,
+
+Lars Martin Fosse
+
+Dr. art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo
+Norway
+Phone: +47 22 32 12 19
+Mobile phone: +47 90 91 91 45
+Fax 1:  +47 22 32 12 19
+Fax 2:  +47 85 02 12 50 (InFax)
+Email: lmfosse at online.no
+
+
+

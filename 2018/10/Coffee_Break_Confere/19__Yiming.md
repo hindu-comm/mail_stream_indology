@@ -1,0 +1,42 @@
++++
+title = "19 Yiming"
+date = "2018-10-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048644.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048644.html)
+
+Dear list,
+
+
+We are happy to announce that the 9th Coffee Break Conference, with the
+theme "Science and Technology in Premodern Asia", will be hosted at Wolfson
+College, University of Oxford, on 4-6 December 2018.
+
+
+
+We attach herewith a flyer of the conference, and would like to remind that
+the ongoing CfP will end on 31 Oct.
+
+
+
+We will be more than happy to answer any questions in the following email
+address: yiming.shen at wolfson.ox.ac.uk
+
+
+
+Looking forward to hearing from / seeing you,
+
+Yiming
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181024/80d6c0ff/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: CBC9Flyer1024.pdf
+Type: application/pdf
+Size: 122142 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20181024/80d6c0ff/attachment.pdf>

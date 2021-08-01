@@ -1,0 +1,42 @@
++++
+title = "97 Peter Flugel"
+date = "2006-10-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-October/030105.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-October/030105.html)
+
+Dear Friends and Collegues,
+
+In 2006, the International Journal of Jaina Studies was launched in 
+2005. It is published online as an open access journal by the Centre of 
+Jaina Studies (CoJS) at the Department of the Study of Religions at SOAS:
+
+http://www.soas.ac.uk/ijjs/index.html
+
+Hardcopies of the journal will in future be published by the Jain 
+publishers Hindi Grantha Karyalaya in Mumbai:
+
+http://www.hindibooks.8m.com/
+
+The CoJS also publishes the new series Advances in Jaina Studies with 
+Routledge: 
+
+http://www.soas.ac.uk/centres/centreinfo.cfm?navid=1042
+
+
+Dr Peter Flugel
+Chair of the Centre for Jaina Studies
+Department of the Study of Religions
+Faculty of Arts and Humanities
+School of Oriental and African Studies
+University of London
+Thornhaugh Street
+Russell Square
+London WC1H OXG
+Tel.: +44 (+20) 7898 4776
+E-mail: pf8 at soas.ac.uk
+http://www.soas.ac.uk/jainastudies
+
+
+

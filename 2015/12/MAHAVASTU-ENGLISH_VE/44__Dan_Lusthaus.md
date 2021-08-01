@@ -1,0 +1,51 @@
++++
+title = "44 Dan Lusthaus"
+date = "2015-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-December/042416.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-December/042416.html)
+
+Jones, J.J. (trans.) (1949–56). The Mahāvastu (3 vols.) in Sacred Books of the Buddhists. London: Luzac & Co.
+
+It's not a Mahayana text, however. It is attributed to the "Lokottaravādins belonging to the Mahāsaṅghikas".
+
+See http://www.ancient-buddhist-texts.net/Reference/Early-Buddhist-Texts/03-EBT-Mahavastu.htm
+
+and
+
+https://en.wikipedia.org/wiki/Mah%C4%81vastu
+
+Dan Lusthaus
+  ----- Original Message ----- 
+  From: alakendu das 
+  To: indology at list.indology.info 
+  Sent: Monday, December 07, 2015 4:54 AM
+  Subject: [INDOLOGY] MAHAVASTU-ENGLISH VERSION
+
+
+
+  To All,
+  Is there any English Translation of the Mahayana text MAHAVASTU available? This being the book which contains siginificant references about Siddhartha Gautam Buddha'a Birth.
+
+
+  ALAKENDU DAS
+  Post-Graduate Indology 
+
+        Get your own FREE website, FREE domain & FREE mobile app with Company email.   Know More > 
+
+
+
+------------------------------------------------------------------------------
+
+
+  _______________________________________________
+  INDOLOGY mailing list
+  INDOLOGY at list.indology.info
+  indology-owner at list.indology.info (messages to the list's managing committee)
+  http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20151207/cf4eb8fe/attachment.htm>

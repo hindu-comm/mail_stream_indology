@@ -1,0 +1,29 @@
++++
+title = "44 Chandan R. Narayan"
+date = "2000-03-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020354.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020354.html)
+
+Dear List members,
+
+Does anybody know the second half of the verse that begins:
+
+sUtraArtho varNyate yatra  padaiH sUtrAnukAribhiH |
+.....
+
+I only remember the first half.  Any help would be most appreciated.
+Thanks,
+chandan
+
+
+
+chandan r. narayan || cnarayan at socrates.berkeley.edu
+                   || socrates.berkeley.edu/~cnarayan
+
+"You couldn't fool your mother on the most foolingist day
+of your life, even if you had an electrified fooling machine. "
+
+
+

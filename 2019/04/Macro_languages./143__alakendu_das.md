@@ -1,0 +1,107 @@
++++
+title = "143 alakendu das"
+date = "2019-04-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049932.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049932.html)
+
+Dr.Gunkel,Yes,Punjabi and Bihari are different linguistic subgroups from two different parts of India, namely North and East.But they have ramified from Hindi,(a regional variant) which in it's turn ,has its roots in Sanskrit, written in Devnagari script .It's like a tree spreading out from a seed.           Alakendu Das.
+
+Sent from RediffmailNG on Android
+
+
+
+
+From: Dieter Gunkel <dcgunkel at gmail.com>
+Sent: Mon, 15 Apr 2019 07:36:03 GMT+0530
+To: "Tieken,  H.J.H." <H.J.H.Tieken at hum.leidenuniv.nl>
+Subject: Re: [INDOLOGY] Macro languages.
+
+Dear all,
+There's a chance that the two of you are operating with different notions of "macro-languages." Within Indo-Aryan, the languages that Alekandu Das mentioned are (I think) ones that are spoken by a relatively large number of people, which could be understood as rendering them as "macro." I don't think, however, that they belong to a single linguistic subgroup within Indo-Aryan. For example, Punjabi and Bihari belong to different linguistic subgroups of Indo-Aryan.
+For that reason, if looking for European parallels, one could point to regional languages with a large number of speakers vs. smaller ones, e.g. Spanish vs. Valencian. This is not to suggest that the situation is completely parallel, just to try to sort out what is meant by "macro" — I don't think it's defining characteristic is linguistic affiliation.
+Best,
+Dieter
+
+
+On Sun, Apr 14, 2019 at 6:53 AM Tieken, H.J.H. via INDOLOGY <indology at list.indology.info> wrote:
+
+
+
+
+
+
+For instance, the Romance and Slavonic languages.
+
+
+
+
+
+
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+
+
+website:
+hermantieken.com
+
+
+
+
+
+
+
+
+Van: INDOLOGY [indology-bounces at list.indology.info] namens alakendu das via INDOLOGY [indology at list.indology.info]
+
+Verzonden: zondag 14 april 2019 11:25
+
+Aan: indology
+
+Onderwerp: [INDOLOGY] Macro languages.
+
+
+
+
+
+Of the Indo-Aryan language category, prevalent in India, it has been known that the combination -Punjabi-Hindi-Bihari-Rajasthani-Pahari form a group of Macrolanguages.I was interested to know about similar instances prevalent in European languages,if
+ at all, there exists any such categorisation.
+   Alakendu Das.
+
+
+
+
+
+
+
+Sent from RediffmailNG on Android
+
+
+
+
+
+
+
+
+
+_______________________________________________
+
+INDOLOGY mailing list
+
+INDOLOGY at list.indology.info
+
+indology-owner at list.indology.info (messages to the list's managing committee)
+
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190415/fd32666f/attachment.htm>

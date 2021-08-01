@@ -1,0 +1,38 @@
++++
+title = "371 Anand M. Sharan"
+date = "2000-10-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023231.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023231.html)
+
+Steve Farmer wrote:
+"I know many of them. The question in this forum is whether being
+a engineer qualifies you to speak on Indological issues,
+especially when you come from a system that mistakes narrow
+technological training for a broader education. This is a problem
+in US schools as well, but at a lesser level. It is much less of
+a problem in most European school systems."
+
+
+There have been many experts on Indology who have been proven wrong,
+especially on the Aryan Invasion Theory or The Asian Migration Theory when
+the statements were not backed up by evidences .
+
+There are many think that they know about India by reading books which do
+not contain facts .
+
+First thing is to know India first hand otherwise forming opinions based on
+incomplete survey does not lead any one any where . For example, if one
+reads literature sold at the check out counters of the grocery stores in
+U.S.A., the opinion so formed would be totally false .
+
+So, the best thing is not to make generalized statements about any
+profession . I understand your frustrations.
+
+Thanks
+
+Anand M. Sharan
+
+
+

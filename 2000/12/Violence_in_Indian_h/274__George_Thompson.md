@@ -1,0 +1,26 @@
++++
+title = "274 George Thompson"
+date = "2000-12-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024423.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024423.html)
+
+I would like to call the List's attention to a pertinent article on this
+matter:
+
+"Temple desecration in pre-modern India," by RICHARD M. EATON
+
+ the first part of which has appeared in the most recent issue of *Frontline*
+--
+ Volume 17 - Issue 25, Dec. 9 - 22, 2000
+
+Many thanks to T. Mahadevan for calling it to my attention and suggesting
+that it be forwarded to the list.
+
+Best wishes,
+
+George Thompson
+
+
+

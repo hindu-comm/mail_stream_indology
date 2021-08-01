@@ -1,0 +1,90 @@
++++
+title = "212 Elisa Freschi"
+date = "2018-10-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-October/048632.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-October/048632.html)
+
+Dear Patrick,
+
+perhaps you got already enough replies, but just in case: The problem of
+"inaccurate" Vedic quotations in the ŚBh was acknowledged already by Garge
+in his *Citations in Śabara-Bh**āṣ**ya (A Study) *(1952). My sense is that
+a scholar could reuse freely whatever belonged to their school, whereas one
+had to be more cautious about quoting from another school. And one's
+Vedaśākhā was probably felt as "own" as one's own philosophical school. I
+discussed this in my Introduction to the 2015 issue of the Journal of
+Indian Philosophy on textual reuse.
+
+Hope this helps! Please keep me updated if you continue working on the
+topic.
+
+Best,
+
+elisa
+
+On Sun, 21 Oct 2018 at 19:50, Olivelle, J P via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Friends:
+>
+> I am sure this is a problem we have all encountered. A presumably Vedic
+> citation is given in a text, and it cannot be traced. But when such
+> citations are given in such an ancient and authoritative text as Śabara’s
+> commentary on the Mīmāṃsā Sūtras, however, they raise an issue. What do we
+> make of such citations, which, I am sure, Śabara knew to be Vedic. Some of
+> these can be traced, as Agrawal (Mīmāṃsā-Uddharaṇa-Koṣa) does, to extant
+> texts such as the Śatapatha, but the wording is only approximate.
+>
+> So we have
+> सुवाससा भवितव्यम् । रूपमेव तेन बिभर्ति (Śabara on PMS 3.4.20)
+> traced to ŚBr 3.1.2.16 (Agrawal give 3.2.1.16, which is an error), but
+> there we have: सुवाससा एव बुभूषेत् (rest omitted).
+>
+> I wonder whether anyone has thought about this. Thanks.
+>
+> Patrick
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-- 
+Dr. Elisa Freschi
+
+(Tue to Thu)
+Institute for the Cultural and Intellectual History of Asia
+Austrian Academy of Sciences
+Hollandstraße 11-13, 2nd floor
+1020 Vienna, Austria
+Phone ++43 (0)1 51581 6433
+Fax ++43 (0)1 51581 6410
+
+
+(Fri to Tue)
+Institute for South Asian, Tibetan and Buddhist Studies
+University of Vienna
+Spitalgasse 2, Hof 2, Eingang 2.1
+1090 Vienna, Austria
+Phone ++43 (0)1 4277 43505
+
+http://elisafreschi.com
+http://oeaw.academia.edu/elisafreschi
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20181022/d390df9e/attachment.htm>

@@ -1,0 +1,28 @@
++++
+title = "37 Marco Franceschini"
+date = "2007-05-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-May/030787.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-May/030787.html)
+
+Dear members of the list,
+
+on behalf of a student I'm forwarding to you the following information request.
+
+Kind regards,
+
+Marco Franceschini
+University of Bologna,
+Department of Linguistics and Oriental Studies
+
+----
+
+I'm translating the "VakroktipancAzikA" by RAjAnaka RatnAkara and I'm 
+looking for manuscripts of it. Can anybody help me to locate them?
+Thank you in advance,
+Best regards
+Elisa Ramponi
+
+
+

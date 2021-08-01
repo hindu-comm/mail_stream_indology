@@ -1,0 +1,22 @@
++++
+title = "81 Artur Karp"
+date = "2012-03-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-March/036472.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-March/036472.html)
+
+Dear Dipak, dear List Members,
+
+Thanks. The search at JSTOR, sadly, doesn't show any results. And I
+don't believe any library in Poland would have JRASB on its shelves.
+
+Could anyone with access to the Journal make, please, a copy - xerox,
+scan - of the first 15 pages and post it here?
+
+Regards,
+
+Artur Karp
+
+
+

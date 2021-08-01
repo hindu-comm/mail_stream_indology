@@ -1,0 +1,106 @@
++++
+title = "22 Lars Martin Fosse"
+date = "2003-09-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-September/027902.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-September/027902.html)
+
+Hello Arlo,
+
+Ruth Schmidt asked me to pass on the following comments on your
+question:
+
+*********
+
+I never collected this lexical item, nor did Fussman.
+
+If Phalura does not show the -ka-suffix, I would be surprised to find 
+it in any of the accessible modern languages, since Phalura is by far 
+the most archaic of the dialects (originating in Chilas, in the 
+ancient center of the Shina-speaking zone). This is also the picture 
+one gets from a glance at CDIAL. All the reflexes show the pattern 
+kúl, kúlu [-u ~ -o is the suffix for a marked masculine noun], and 
+that is what is borrowed into Burushaski. The dialects shown, though 
+few, also span the range of Shina from west to east and south to 
+north, with the exception of Brokskat. If the word is the same in 
+Phalura, Gilgiti, Kohistani and Guresi, it will probably not differ 
+in Chilasi, Astori or Drasi.
+
+I have not found the -ka-suffix as such surviving in modern Shina, 
+though Turner often needs it to show why the Shina reflex survives as 
+a closed syllable, instead of being further reduced.
+
+Regards,
+
+Ruth
+
+**************
+
+Regards,
+
+Lars Martin
+
+From:
+Dr.art. Lars Martin Fosse
+Haugerudvn. 76, Leil. 114,
+0674 Oslo - Norway
+Phone: +47 22 32 12 19 Fax:  +47 850 21 250
+Mobile phone: +47 90 91 91 45
+E-mail: lmfosse at online.no 
+DO NOT OPEN UNEXPECTED ATTACHMENTS. 
+MY EMAIL ADDRESS IS BEING ABUSED BY 
+MALICIOUS OPERATORS.
+
+
+> -----Opprinnelig melding-----
+> Fra: Indology [mailto:INDOLOGY at liverpool.ac.uk] På vegne av 
+> Arlo Griffiths
+> Sendt: 11. september 2003 11:29
+> Til: INDOLOGY at liverpool.ac.uk
+> Emne: (second attempt) CDIAL 3331
+> 
+> 
+> [this message was posted yesterday, but seems not to have 
+> been delivered]
+> 
+> Can anyone with a better understanding of the historical 
+> phonology of Dardic languages inform me whether any of the 
+> lexical items from modern languages listed by Turner under 
+> 3331 kulaka- 'stone of a fruit' (attested as far as I know 
+> only Carakasa.mhitaa 6.1 [thus pw]) actually shows a trace of 
+> the -ka-suffix of their supposed OIA source?
+> 
+> Two passages from the Paippalaada Sa.mhitaa rather clearly 
+> attest kula- 'stone of a fruit, pit', without the -ka-suffix, 
+> and I am tempted to see here another example of an isogloss 
+> between Vedic and Dardic (see G. Buddruss, "Der Veda und 
+> Kaschmir", KZ/ZVS 77, 235--245, esp. 241--244).
+> 
+> PS 7.19.3
+> yayaahus +t.r.s.ta.m ka.tukam apaguu.dha.m phale kulam |
+> tasyai hira.nyake;s{i}yai nama.h k.r.nmo araataye ||
+> 
+> She by whom, they say, a harsh, sharp pit is hidden away in 
+> [its] fruit, to her, the golden haired Araati, do we bring homage.
+> 
+> PS 9.11.7
+> gandharvas te muulam +aasiic chaakhaa apsarasas tava | 
+> mariiciir aasan par.naani siniivaalii kula.m tava ||
+> 
+> The Gandharva was your root, the Apsarases your branches, the 
+> particles of light were [your] leaves, Siniivaalii your pit.
+> 
+> Perhaps Paa.nini 5.4.62 ni.skul;aa kar points to the same 
+> meaning, although the example object of this verbal 
+> construction, daa.dima- `pomegranate', quoted in Böhtlingk's 
+> ed. seems not to be old. See also EWAia I, 373.
+> 
+> Arlo Griffiths
+> 
+> [apologies for cross-postings]
+> 
+> 
+
+
+

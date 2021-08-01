@@ -1,0 +1,58 @@
++++
+title = "13 Hartmut Buescher"
+date = "2007-05-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-May/030747.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-May/030747.html)
+
+
+Only recently, it seems, the Anandashram Sanstha went online:
+
+http://www.anandashramsanstha.org/index1.html
+
+--  lists of their publications can be downloaded:
+
+http://www.anandashramsanstha.org/publicaions.html
+
+HB
+
+
+-----Original Message-----
+From: Indology
+To: INDOLOGY at liverpool.ac.uk
+Sent: 04-05-2007 18:15
+Subject: Re: Commentaries on Rasaratnasamuccaya
+
+If I remember correctly Anandashrama also published a 
+commentary to this text mentioned by Dom under a separate title, 
+but I don't have it handy to check the details. Perhaps someone 
+else has the specifics.
+
+KZ
+
+-----Original Message-----
+From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Dominik
+Wujastyk
+Sent: 4. maj 2007 17:57
+To: INDOLOGY at liverpool.ac.uk
+Subject: Re: Commentaries on Rasaratnasamuccaya
+
+PS The Anandashrama edition of the RRS is digitized and available from
+the 
+DLI (www.dli.ernet.in).  It's a careful edition, done by V K Bapat and M
+C 
+Apte in Pune in "saalivaahana"saka 1812 (+78 = 1890).  Without
+commentary, 
+but with a series of interesting drawings at the end of the book.
+
+D
+
+-- 
+Dr Dominik Wujastyk
+Senior Research Fellow
+University College London
+http://www.ucl.ac.uk/histmed
+
+
+

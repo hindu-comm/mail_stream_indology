@@ -1,0 +1,38 @@
++++
+title = "24 Allen W Thrasher"
+date = "2002-12-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-December/027318.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-December/027318.html)
+
+A pleasant curiosity I just discovered is that the mosaic "Law"  in the
+Congressional Members Room of the Library of Congress is inspired by Sir
+William Jones's poem "An Ode in Imitation of Alcaeus." See
+http://www.loc.gov/law/public/asl/htdoc/index.html for the mosaic,
+the ode, and background information.  A further Indian connection is
+that the republican sentiments of the poem delayed his appointment to
+the Supreme Court of Bengal.
+
+Allen
+
+
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

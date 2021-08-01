@@ -1,0 +1,47 @@
++++
+title = "14 Allen W Thrasher"
+date = "2003-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-March/027587.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-March/027587.html)
+
+My apologies.  I thought of another search strategy, which worked.  The
+foundation in question is the Ancient India and Iran Trust, in Cambridge
+http://www.indiran.co.uk/.  But please look at the homepage if you're
+not aware of it.  The library in question is that of Prof. Sir Harold
+Bailey, but it also includes part of the library of the Allchins, and
+several other distinguished scholars.
+
+The presentation I attended emphasized the Trust was interested in gifts
+of offprints, which might help us when thinning our collections of them.
+
+Allen
+
+Several years ago at AAS or AOS I attended a presentation on a research
+foundation that had recently been established in Cambridge or Oxford,
+whose basic library was that of some distinguished British scholar of
+South Asia. I thought I had recorded the address but find I haven't, and
+can't remember the name.  Could anyone help me out?
+
+Thanks,
+
+Allen
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

@@ -1,0 +1,56 @@
++++
+title = "92 Ananya Vajpeyi"
+date = "2017-02-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-February/045317.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-February/045317.html)
+
+Dear Colleagues,
+
+Wanted to share a new essay: "Thinking and Counter-Thinking: On 'Classical
+India'" which appears in the February issue of Guftugu, (www.guftugu.in), a
+quarterly e-journal of poetry, prose, conversations, images and videos run
+by the Indian Writers’ Forum.
+
+http://guftugu.in/2017/02/thinking-and-counter-thinking-on-classical-india/
+
+In earlier issues of Guftugu you will find essays on language, literature,
+criticism, civilisation, culture and related matters of interest to this
+list by Romila Thapar, K. Satchidanandan, Githa Hariharan, Ritu Menon,
+Shashi Deshpande and others.
+
+http://guftugu.in/category/essay/
+
+I hope you enjoy the piece, and find it worth your while exploring and
+engaging with other materials on this very interesting and relatively new
+site.
+
+All best,
+
+Ananya Vajpeyi
+vajpeyi at csds.in
+
+
+
+
+
+
+
+-- 
+
+*Ananya Vajpeyi *
+*Fellow*
+*Centre for the Study of Developing Societies*
+*29 Rajpur Road, Civil Lines*
+*New Delhi 110054*
+*e: vajpeyi at csds.in <vajpeyi at csds.in>*
+*ext: 229*
+
+*http://www.csds.in/faculty_ananya_vajpeyi.htm
+<http://www.csds.in/faculty_ananya_vajpeyi.htm>*
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170216/0162b63f/attachment.htm>

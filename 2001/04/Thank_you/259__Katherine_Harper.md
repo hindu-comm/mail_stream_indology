@@ -1,0 +1,26 @@
++++
+title = "259 Katherine Harper"
+date = "2001-04-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026181.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026181.html)
+
+Dear Dominik;
+I would like to thank you for the endless hours of hard work that you have
+given to
+the members of the list. Like other members, the list started my day, gave
+a sense
+of purpose to my own research, and provided me endless resources. I shall
+be very
+sad at the demise of the list. I hope that you might reconsider and restart
+the list by
+enforcing very strict codes of behavior. Whatever you choice, I am grateful
+to you for
+the wonderful opportunity you gave all of us.  Sincerely,
+
+Katherine Anne Harper
+Loyola Marymount University
+
+
+

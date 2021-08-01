@@ -1,0 +1,55 @@
++++
+title = "123 Dominik Wujastyk"
+date = "2016-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-May/043279.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-May/043279.html)
+
+The Banting Postdoctoral Fellowship
+<http://banting.fellowships-bourses.gc.ca/en/home-accueil.html> is a
+prestigious two-year
+​research grant ​
+program offered at Canadian universities
+​,​
+aimed at the highest-calibre
+​recent PhDs
+from Canada and abroad
+​.​
+
+The University of Alberta has just advertised it's Banting Postdoctoral
+Fellowship application procedure for September 2017 submissions.  The
+application procedure is somewhat complex, with applications first being
+prepared through the University of Alberta, and only then being submitted
+onwards to the relevant Canadian Research Council.
+
+The University of Alberta's procedures are described here:
+
+   - http://www.postdoc.ualberta.ca/FundingandFellowships/Banting.aspx
+
+There are numerous eligibility criteria, including the requirement
+​that a
+pplicants to the 2017 program must fulfill or have fulfilled all degree
+requirements for a PhD between September 21, 2013 and September 30, 2017.
+
+If you think you would like to apply for a Banting Fellowship to work on an
+indological topic at the University of Alberta, please contact me
+personally in the first instance.  Competition is tough, and the
+application is a two-stage process with the preliminary application package
+due on June 10, 2016. Those preliminary packages will be reviewed by
+adjudication committees; selected nominees will be instructed on submission
+of the full application package by August 31, 2016.
+
+Sincerely,
+Dominik Wujastyk
+
+--
+Professor Dominik Wujastyk* <http://ualberta.Academia.edu/DominikWujastyk>
+Singhmar Chair in Classical Indian Society and Polity
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+University of Alberta, Canada
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160506/cca8e64e/attachment.htm>

@@ -1,0 +1,27 @@
++++
+title = "357 Dominik Wujastyk"
+date = "2000-07-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022050.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022050.html)
+
+---------- Forwarded message ----------
+
+UNIVERSITY OF FLORIDA, Department of Religion invites applications for a
+tenure-track position in the area of Buddhist Studies at the rank of
+Assistant Professor beginning August 2001 pending authorization.  Salary
+commensurate with experience.  The appointee's specialization may be in any
+geographical area or historical period.  Qualifications include the PhD in
+hand, evidence of success/promise in teaching college-level courses, and
+the ability to contribute to the intellectual life and growth of the
+Department.  Initial interviews will be conducted with a limited number of
+candidates at the AAR Annual Meeting in November.  Send letter of
+application, CV, three letters of recommendation, brief statement of
+research and teaching interests, and examples of scholarly work by November
+1, 2000 to David G. Hackett, Department of Religion, 125 Dauer Hall,
+University of Florida, Gainesville, FL 32611.  The University of Florida is
+an EEO/AA/ADA employer.
+
+
+

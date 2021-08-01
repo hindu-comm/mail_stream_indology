@@ -1,0 +1,30 @@
++++
+title = "92 mkapstei at UCHICAGO.EDU"
+date = "2010-11-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-November/034913.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-November/034913.html)
+
+Western sources were clearly aware of the treatment
+of higher numbers in Indian sources in the
+early 19th c. 
+
+John Taylor, in his _Lilawati_ (Bombay 1816) already 
+gives them up to 17 places (giving ko.ti in the form kotya)
+and mentions that Wilkins had earlier presented the
+decimal numbers up to 22 places.
+
+I mentioned Ifrah just as a handy compilation -- it is not
+an Indological work, nor a work that treats the history
+of the many disciplines from which Ifrah compiled his
+material.
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

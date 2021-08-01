@@ -1,0 +1,43 @@
++++
+title = "64 Michaels, Axel"
+date = "2016-06-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-June/043453.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-June/043453.html)
+
+Great, congratulations, Patrick. You really deserve it.
+
+Best, Axel
+
+Von: INDOLOGY <indology-bounces at list.indology.info> im Auftrag von "Lindquist, Steven" <slindqui at mail.smu.edu>
+Datum: Wednesday 8 June 2016 at 23:55
+An: "indology at list.indology.info" <indology at list.indology.info>
+Betreff: [INDOLOGY] Honorary Degree, Patrick Olivelle
+
+Dear all,
+
+It's my pleasure to draw your attention to our own Patrick Olivelle receiving an honorary degree from the University of Chicago this weekend:
+
+https://news.uchicago.edu/article/2016/06/03/university-bestow-three-honorary-degrees-527th-convocation
+
+Congratulations, Patrick!
+
+Steven
+
+
+STEVEN LINDQUIST, PH.D.
+ASSOCIATE PROFESSOR, RELIGIOUS STUDIES
+DIRECTOR, ASIAN STUDIES
+____________________
+
+Dedman College of Humanities and Sciences, SMU
+PO Box 750202 | Dallas | TX | 75275
+Email: slindqui at smu.edu<mailto:slindqui at smu.edu>
+Web: http://faculty.smu.edu/slindqui
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160609/49e55a04/attachment.htm>

@@ -1,0 +1,74 @@
++++
+title = "82 George Thompson"
+date = "2014-12-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-December/040350.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-December/040350.html)
+
+Dear Sam,
+
+'vipra' is- a well-attested word in  Vedic, starting with the Rigveda.  It
+has a solid Avestan cognate, 'vifra', with a similar semantic range as in
+Vedic: 'trembling, shaking, inspired, ecstatic.'  Among its many
+Indo-European cognates is Latin 'vibrare' [to vibrate], as well as English
+'wipe.'
+
+In the RV 'vipra' is frequently associated with nouns that are more or less
+synonyms with the term 'Brahmin': e.g., rsi and kavi.
+
+In my view, 'vipra' is a word that is rooted in the earliest cultural
+strata in the RV that preserve memory of Central Asian shamanism.
+
+See Jan Gonda: *The Vision of the Vedic Poets.*  This book's Index will
+steer you toward useful discussions of this word.  See also Louis Renou:
+*Etudes sur le vocabulaire de Rgveda* [see index des mots etudies], as well
+as Renou's EVP I [index of words].  There is also useful discussion in J.W.
+Hauer: *Die Anfaenge der Yoga Praxis im Alten Indien [see Sachregister
+'vipra'].
+
+I can't help you with 16th-17th century evidence. I hope that this is
+helpful.
+
+Best wishes,
+
+George Thompson
+
+On Thu, Dec 11, 2014 at 9:52 AM, Samuel Wright <swright at nalandauniv.com>
+wrote:
+
+> Dear List Members,
+>
+> Can anyone point me to any studies dealing with the uses/meanings of the
+> term 'vipra'? While it is usually glossed as 'brāhmaṇa', I'm wondering if
+> there were any semantic changes in this term, particularly in the 16th/17th
+> centuries.
+>
+> Keith and MacDonnell's 'Vedic Index' (page 302, vol. 2) provides some very
+> early glosses such as "inspired singer" but then it is noted that "[i]n the
+> epic style it comes to mean no more than 'Brahmin.'"
+>
+> Yet, Medhatithi comments on Manusmrti 3.199:
+>
+> vipragrahaṇam anuvādatvāt kṣatriyādipradarśanārtham |
+>
+> I'm also aware of Staal's very brief remarks in his article 'Sanskrit and
+> Sanskritization' (pg. 267).
+>
+> Any suggestions would be appreciate on why the word 'vipra' might be used
+> as opposed to 'dvija' or 'brāhmaṇa' as well as which studies on the word
+> are available, if any.
+>
+> Many thanks,
+> Sam
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141211/fc4387f8/attachment.htm>

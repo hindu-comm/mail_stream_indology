@@ -1,0 +1,68 @@
++++
+title = "69 Manu Francis"
+date = "2019-12-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-December/051427.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-December/051427.html)
+
+NB: the deadline for application to the TST postdoc is 2020/01/01.
+
+Le mer. 11 déc. 2019 à 11:24, Manu Francis <manufrancis at gmail.com> a écrit :
+
+> Dear colleagues,
+>
+>
+>
+> The project Texts Surrounding Texts <https://tst.hypotheses.org/> (TST),
+> which brings together the CEIAS <http://ceias.ehess.fr/?lang=en&curr=0>
+> (UMR 8564, CNRS & EHESS) and the CSMC
+> <https://www.manuscript-cultures.uni-hamburg.de/index_e.html>, is looking
+> to recruit one postdoc in South Asian manuscript studies.
+>
+>
+>
+> See the CNRS job portal:
+>
+> http://bit.ly/38rrc3d
+>
+> (click on the Union Jack to get the English version)
+>
+>
+>
+> NOTE :
+>
+> The job is in Paris.
+>
+> The contract is for one year and may be extended up to a maximum of two
+> years in total.
+>
+> It is meant preferably for a specialist of Tamil manuscripts, but *all*
+> applications from specialists in *any* South Asian manuscript culture
+> will be *seriously* considered.
+>
+>
+>
+> Please forward to potentially interested colleagues.
+>
+>
+>
+> With very best wishes.
+>
+>
+> Emmanuel FRANCIS <http://ceias.ehess.fr/index.php?1725>
+> Chargé de recherche CNRS, Centre d'études de l'Inde et de l'Asie du Sud
+> <http://ceias.ehess.fr/> (UMR 8564, EHESS-CNRS, Paris)
+> Online CV HAL <https://cv.archives-ouvertes.fr/emmanuel-francis>
+> Regionalism & Cosmopolitism: South India <http://rcsi.hypotheses.org/>
+> Associate member, Centre for the Study of Manuscript Culture
+> <http://www.manuscript-cultures.uni-hamburg.de/index_e.html> (SFB 950,
+> Universität Hamburg)
+>
+>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20191211/a73f1be7/attachment.htm>

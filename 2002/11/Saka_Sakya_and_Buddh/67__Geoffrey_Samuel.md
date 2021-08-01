@@ -1,0 +1,33 @@
++++
+title = "67 Geoffrey Samuel"
+date = "2002-11-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-November/027265.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-November/027265.html)
+
+Speaking for myself, I don't find it at all tedious, and would
+welcome further  discussion on the list.
+
+Geoffrey Samuel
+
+>Anyway, I think this topic grows tedious to many list members. I shall be
+>happy to continue the discussion off the list.
+>
+>sincerely,
+>Sumit Guha
+
+--
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * * * * *
+Geoffrey Samuel and Santi Rozario, School of Social Sciences, University
+of Newcastle, NSW 2308, Australia (CRICOS provider number 00109J).
+Web site at http://users.hunterlink.net.au/~mbbgbs
+Postal address July-Dec 2002: c/o G. Samuel, Oriental Institute, Pusey Lane,
+Oxford OX1 2LE, UK. Home telephone numbers October-December 2002:
+Geoffrey in Oxford 01865 429479; Santi in Manchester 0161 226 4795
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * * * * *
+
+
+

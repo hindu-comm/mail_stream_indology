@@ -1,0 +1,61 @@
++++
+title = "107 mkapstei at UCHICAGO.EDU"
+date = "2010-02-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/033971.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/033971.html)
+
+With apologies for cross-posting:
+
+I am pleased to announce the imminent publication
+of _Esoteric Buddhism at Dunhuang: Rites and Teachings
+for this Life and Beyond_, edited by Matthew Kapstein
+and Sam van Schaik, and published by Brill. (It may
+now be ordered on the brill.nl website.) The contents are:
+
+
+RITES AND TEACHINGS FOR THIS LIFE…
+
+CATHY CANTWELL AND ROBERT MAYER
+A Dunhuang Phurpa Consecration Rite:
+IOL Tib J 331.III’s Consecrations Section
+
+SAM VAN SCHAIK
+The Limits of Transgression: The Samaya vows of Mahāyoga
+
+KAMMIE MORRISON TAKAHASHI
+Ritual and Philosophical Speculation
+in the Rdo rje Sems dpa’i zhus lan
+
+
+… AND BEYOND
+
+YOSHIRO IMAEDA
+The Bar do thos grol, or ‘The Tibetan Book of the Dead’:
+Tibetan Conversion to Buddhism or Tibetanisation of
+Buddhism?
+
+MATTHEW T. KAPSTEIN
+Between Na rak and a Hard Place: Evil rebirth
+and the Violation of Vows in Early Rnying ma pa
+Sources and Their Dunhuang Antecedents
+
+KATHERINE R. TSIANG
+Buddhist Printed Images and Texts of the Eighth-Tenth
+Centuries: Typologies of Replication and Representation
+
+The volume should be ready for distribution within the
+next few weeks.
+
+
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

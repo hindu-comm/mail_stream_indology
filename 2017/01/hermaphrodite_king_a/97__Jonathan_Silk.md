@@ -1,0 +1,105 @@
++++
+title = "97 Jonathan Silk"
+date = "2017-01-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-January/045036.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-January/045036.html)
+
+perhaps I have been over-hasty in assuming the identification of these
+terms with the specific category of hermaphrodite. Should we understand
+rather eunuch? In any event, what is the connection with a monkey?
+
+On Tue, Jan 10, 2017 at 4:13 PM, Jonathan Silk <kauzeya at gmail.com> wrote:
+
+> The terms, perhaps I should specify, in the Skt sources are variously
+> found as paṇḍaka and vikalendriya.
+>
+> Jonathan
+>
+> On Tue, Jan 10, 2017 at 2:18 PM, Matthew Kapstein <mkapstei at uchicago.edu>
+> wrote:
+>
+>> Dear Jonathan,
+>>
+>> I do not know of the hermaphrodite part, but otherwise the prophecy of
+>> the monkey will indeed be
+>> fulfilled in Washington next week.
+>>
+>> best regards,
+>> Matthew
+>>
+>> Matthew Kapstein
+>> Directeur d'études,
+>> Ecole Pratique des Hautes Etudes
+>>
+>> Numata Visiting Professor of Buddhist Studies,
+>> The University of Chicago
+>>
+>> ________________________________________
+>> From: INDOLOGY [indology-bounces at list.indology.info] on behalf of
+>> Jonathan Silk [kauzeya at gmail.com]
+>> Sent: Tuesday, January 10, 2017 5:33 AM
+>> To: Indology
+>> Subject: [INDOLOGY] hermaphrodite king as an evil omen
+>>
+>> Dear Friends,
+>>
+>> This may be something well known, but...
+>> I am working now on a set of prophecies of the evil to beset the Buddhist
+>> community after the Buddha's death. These (they are relatively well known)
+>> are cast as dreams of King Kṛkin, who lived in the distant past, and whose
+>> dreams were interpreted by the Buddha Kāśyapa (some sources say this was
+>> his son!) as pertaining to his far future, namely, our time, more or less.
+>> Anyway, one of the dreams is that a monkey will be consecrated as king,
+>> which is interpreted to mean that a hermaphrodite will be consecrated king.
+>> I've looked (sort of, not exactly sure even how to look for this!) to see
+>> whether this is considered a sign of decline, but I've come up empty.
+>> Probably i'm just looking in the wrong place... but one of you śiṣṭas must
+>> know...?
+>>
+>> thanks!  jonathan
+>>
+>> --
+>> J. Silk
+>> Leiden University
+>> Leiden University Institute for Area Studies, LIAS
+>> Matthias de Vrieshof 3, Room 0.05b
+>> 2311 BZ Leiden
+>> The Netherlands
+>>
+>> copies of my publications may be found at
+>> http://www.buddhismandsocialjustice.com/silk_publications.html
+>>
+>
+>
+>
+> --
+> J. Silk
+> Leiden University
+> Leiden University Institute for Area Studies, LIAS
+> Matthias de Vrieshof 3, Room 0.05b
+> 2311 BZ Leiden
+> The Netherlands
+>
+> copies of my publications may be found at
+> http://www.buddhismandsocialjustice.com/silk_publications.html
+>
+
+
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+copies of my publications may be found at
+http://www.buddhismandsocialjustice.com/silk_publications.html
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170110/a55e7ab6/attachment.htm>

@@ -1,0 +1,41 @@
++++
+title = "56 Horacio Francisco Arganis Juarez"
+date = "2008-02-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-February/031401.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-February/031401.html)
+
+Dear Professors: 
+  A greeting. I am looking for who can advise me with the etymological and literal translation of the Sanskrits words, Amba, Ambika, Kanya Kumari, Isani, Maya. Thank you to all.
+  Horacio Francisco Arganis-Juarez Lic. M.A.
+  Research Departament of  IBCH, IEFAC
+
+
+Peter Flugel <pf at CIX.CO.UK> escribió:  IJJS Vol. 3 (2007) is now online:
+
+http://www.soas.ac.uk/research/publications/journals/ijjs
+
+Centre of Jaina Studies
+Department of the Study of Religions
+Faculty of Arts and Humanities
+School of Oriental and African Studies
+University of London
+Thornhaugh Street
+Russell Square
+London WC1H OXG
+United Kingdom
+Tel.: 0044-(0)20-7898 4776
+E-mail: jainstudies at soas.ac.uk
+Website: http://www.soas.ac.uk/jainastudies
+
+
+
+---------------------------------
+
+¡Capacidad ilimitada de almacenamiento en tu correo!
+No te preocupes más por el espacio de tu cuenta con Correo Yahoo!:
+http://correo.yahoo.com.mx/
+
+
+

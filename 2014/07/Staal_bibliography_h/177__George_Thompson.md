@@ -1,0 +1,32 @@
++++
+title = "177 George Thompson"
+date = "2014-07-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039735.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-July/039735.html)
+
+Dear List,
+
+We are trying to update Frits Staal's bibliography for our forthcoming
+memorial volume.  We have sent emails to the editors of the 1997
+Festschrift volume published by the International Institute for Asian
+Studies in Leiden, requesting use of their bibliography, but the email
+addresses cited there do not seem to be accessible any more.  The editor of
+this Festschrift was Dick van der Meij.
+
+Does anyone have contact information for him or anyone else at IIAS?  We
+plan to supplement this bibliography with the one that Frits published in
+his "Discovering the Vedas."  As for Frits' bibliography post "Discovering
+the Vedas," all I have are early drafts that Frits sent to me for
+comments.  He never sent me any publication information on these last
+papers.
+
+Help on references to Frits' last papers would be greatly appreciated.
+
+George Thompson and Richard Payne
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140720/d979513e/attachment.htm>

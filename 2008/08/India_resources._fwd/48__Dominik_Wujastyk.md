@@ -1,0 +1,43 @@
++++
+title = "48 Dominik Wujastyk"
+date = "2008-08-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-August/031883.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-August/031883.html)
+
+This is a quasi-commercial project, but has partnership backing from 
+UNESCO too, so I am forwarding this information here.  I have visited the 
+Invis company in Trivandrum, and they are doing interesting work on 
+promoting and publicizing popular aspects Indian culture.
+
+Best,
+Dominik
+
+
+---------- Forwarded message ----------
+Date: Fri, 18 Jul 2008 09:01:37 +0530
+From: Hari M.R. <hari at invis.in>
+Subject: India resources.
+
+Dear Sir,
+Kindly recall our discussion regarding the recomendation of
+www.indiavideo.org to  indiology group.
+We have added more  content to our website like monuments etc.  We have also
+added a text session which covers Yoga, Ayurveda, Panchakarma etc., which we
+continuously enrich by adding more topics. Please visit
+http://www.indiavideo.org/text/ and let us know whether there is any chance
+to link the site.
+with regards
+Hari
+
+-- 
+
+M.R.Hari
+Managing Director
+Invis Multimedia Pvt Ltd
+www.invismultimedia.com
+www.indiavideo.org
+
+
+

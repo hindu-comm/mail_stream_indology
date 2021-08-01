@@ -1,0 +1,66 @@
++++
+title = "03 Swantham"
+date = "1999-09-01"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018221.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018221.html)
+
+Dear Dr.Thompson,
+Thank you for saying what I have been thinking to say.Let me repeat:
+I for one am  eager to advance reseach in my field. How much time should I
+> waste on this sort of uninformed ethnocentric rant?
+>
+> Rajaram, put some facts on the table. Then let us debate them.
+Unfortunately what is going on in the name of research in our Universities
+mostly is such junk.
+With regards
+K.Maheswaran Nair
+Professor
+Department of Sanskrit
+University of Kerala
+Trivandrum
+----------
+> From: George Thompson <GthomGt at CS.COM>
+> To: INDOLOGY at LISTSERV.LIV.AC.UK
+> Subject: Re: Book Review: An Update on AIT (Part 1)
+> Date: Monday, August 30, 1999 9:31 AM
+>
+> It seems to me that if Rajaram wants us to take him seriously, he should
+> start, finally, now that the rest of us are preparing for the next
+> milllennnium, to make his entry into the twentieth century.  Why does he
+keep
+> on harping on an out of date scholar like poor Max Mueller.? Or even
+older
+> Sir Wm. Jones?  How long will it take Rajaram to enter the twentieth
+century?
+> How long is it polite for the rest of us to wait for him to catch up with
+the
+>  rest of us? The repetition in these arguments is nothing if not tedious.
+We
+> keep on rebuting the silly arguments that he poses. Hoiw much longer must
+we
+> endure the waste of time involved in restuing his banalities over and
+over
+> and over again? And what about  the accompanying insults? How long shall
+we
+> bite our tongues while this sort of charlatan persaudes all of India that
+it
+> is Atlantis all over again?
+>
+> I for one am eager to advance reseach in my field. How much time should I
+> waste on this sort of uninformed ethnocentric rant?
+>
+> Rajaram, put some facts on the table. Then let us debate them.
+>
+> How can this review be called an 'update' when it says nothing,
+absolutely
+> nothing, about what has gone on  in the AIT debate over the past hundred
+> years?
+>
+> Let the list see what kind of opponent stands before us.
+>
+> George Thompson
+
+
+

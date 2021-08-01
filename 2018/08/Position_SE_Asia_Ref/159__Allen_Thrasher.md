@@ -1,0 +1,53 @@
++++
+title = "159 Allen Thrasher"
+date = "2018-08-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-August/048106.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-August/048106.html)
+
+
+
+Sent from Yahoo Mail on Android 
+
+   ----- Forwarded Message ----- From: "Jonathan Loar" <jonathanloar1 at gmail.com> To: "consald at utlists.utexas.edu" <consald at utlists.utexas.edu> Cc:  Sent: Mon, Aug 20, 2018 at 10:57 AM Subject: [consald] Position: SE Asia Reference Librarian, Asian Division, Library of Congress  
+Dear colleagues, 
+
+
+
+I happily pass along this call for applications for aSoutheast Asia reference librarian in the Asian Division of the Library ofCongress:
+
+
+
+https://www.usajobs.gov/GetJob/ViewDetails/508355400
+
+
+
+Please note the very tight turnaround, with the application closing on Friday 8/31. Please share this far and wide with colleagues, programs,and institutes. With regard to questions about working in the Asian Division, I’dbe happy to share about my duties as South Asia reference librarian off-list.And with regard to qualifications, I copy the following form the position description:
+
+
+
+·Knowledge of history,politics and literature of one or more Southeast Asian countries; preferablyIndonesia.**
+
+
+
+·Ability to communicate inone or more Southeast Asian languages, preferably Indonesian, and English.**
+
+
+
+All the best,
+
+
+
+Jonathan Loar 
+
+South Asia reference librarian
+
+Asian Division, Library of Congress 
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20180820/75247a07/attachment.htm>

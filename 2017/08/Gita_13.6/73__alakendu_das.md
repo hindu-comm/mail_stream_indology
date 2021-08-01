@@ -1,0 +1,48 @@
++++
+title = "73 alakendu das"
+date = "2017-08-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046482.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046482.html)
+
+
+
+   Dr.Ranganathan,
+
+                    I apologise for responding  a bit late to your mail owing to connectivity 
+
+problems.
+
+             With respect to my mail on the 25th, I would  humbly put in a few words . I never 
+
+intended to state  that the whole of SmGita is identical with  the whole of Kantian 
+
+philosophy....I am equally unsure of the fact whether the whole of  Gita can be at all  
+
+identified with Kantian ideals I just referred to  SAMKHYA Yog and KARMA YOG( illustrated with 
+
+Slokas) as those which have identity with  De-ontology  and hence with Kant as well.( I am 
+
+equally aware of the fact that De-ontology is not the whole of Kantianism)  I believe some of 
+
+the word I used, gave you a wrong impression.
+
+
+
+                                         Thank you for your mail.
+
+
+
+                      Regards,
+
+                                                                      ALAKENDU DAS.
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170828/cccbf238/attachment.htm>

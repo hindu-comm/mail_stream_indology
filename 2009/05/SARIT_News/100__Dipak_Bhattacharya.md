@@ -1,0 +1,58 @@
++++
+title = "100 Dipak Bhattacharya"
+date = "2009-05-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033098.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033098.html)
+
+Fine! Couldthe Shriimuulaa commentary, T.G.Shastri, K.A. be uploaded? It is for sometime out of print with not much assurance from MLBD of a quick reprint.
+DB
+
+--- On Fri, 1/5/09, Dominik Wujastyk <d.wujastyk at UCL.AC.UK> wrote:
+
+
+From: Dominik Wujastyk <d.wujastyk at UCL.AC.UK>
+Subject: SARIT News
+To: INDOLOGY at liverpool.ac.uk
+Date: Friday, 1 May, 2009, 8:03 PM
+
+
+Dear colleagues,
+
+Richard Mahoney and I have been pushing the SARIT project
+ http://sarit.indology.info
+forward with energy.
+
+1.
+The British Association of South Asian Studies has awarded a grant to promote the SARIT project. The amount we were awarded is lower than we requested, but is still enough to enable progress.
+
+I would like to thank all those who provided letters of support for our application. I am certain that these votes of confidence made a major difference.
+
+2.
+We have recently been in active discussions about possible collaboration
+with institutions in India. We have also been talking with members of the TEI consortium about setting up training courses in India for inputters. If this initiative succeeds, and there are still many hurdles, it might be possible for SARIT to grow rapidly. Of course, the bigger the database of searchable Indic texts, the more useful it will be to all of us.
+
+3.
+Richard has now developed a software pipeline so that all texts added to
+the SARIT library will not only be searchable, indexable, etc., but will
+also be downloadable in toto, as HTML (as with GRETIL) or as PDF. See the
+new "Downloads" menu entry in the Navigation menu on the right side of the
+main screen.
+
+
+Best,
+Dominik
+
+-- Dr Dominik Wujastyk
+International Institute of Asian Studies
+http://iias.nl
+
+long term email address: wujastyk at gmail.com
+
+
+
+      Now surf faster and smarter ! Check out the new Firefox 3 - Yahoo! Edition http://downloads.yahoo.com/in/firefox/?fr=om_email_firefox
+
+
+

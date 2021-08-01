@@ -1,0 +1,26 @@
++++
+title = "45 Stefan Baums"
+date = "2009-01-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-January/032477.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-January/032477.html)
+
+Dear Alexandra van der Geer,
+
+Manohar Laxman Varadpande, Woman in Indian sculpture, p. 94
+
+    http://www.worldcat.org/oclc/72992587
+
+refers to a fifth‐century sculpture from Uttar Pradesh (now in the Indian Museum, Kolkata) of a girl in a hurry with a scorpion on her thigh (unfortunately not clearly visible on his plate 44). There must be more.
+
+Best wishes,
+Stefan Baums
+
+-- 
+Stefan Baums
+Asian Languages and Literature
+University of Washington
+
+
+

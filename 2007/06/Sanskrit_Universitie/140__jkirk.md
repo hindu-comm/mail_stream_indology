@@ -1,0 +1,51 @@
++++
+title = "140 jkirk"
+date = "2007-06-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-June/030803.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-June/030803.html)
+
+You need to fix the link for Uppsala University.
+ All one gets is a dialog box to log in to someplace or other.
+
+Joanna Kirkpatrick
+Also a member of Indology
+
+
+
+-----Original Message-----
+From: Indology [mailto:INDOLOGY at liverpool.ac.uk] On Behalf Of Pankaj Jain
+Sent: Sunday, June 03, 2007 8:11 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Sanskrit Universities List Updated and more...
+
+Thanks to all the kind inputs and suggestions, I have just added all of
+them.
+
+As an ex-alumni, I was myself surprised why name of Columbia University was
+missing, especially when Prof Gary Tubb's lectures full of wisdom and
+anecdotes still ring in my ears!
+
+Also, enthused by your welcoming responses, I am now building a similar list
+for South Asian Religions also. Kindly send me (off-list) names and weblinks
+of departments, thanks!
+
+Pankaj Jain
+Edison, New Jersey
+http://myweb.uiowa.edu/pjai
+
+No virus found in this incoming message.
+Checked by AVG Free Edition. 
+Version: 7.5.472 / Virus Database: 269.8.6/828 - Release Date: 6/1/2007
+11:22 AM
+
+
+No virus found in this outgoing message.
+Checked by AVG Free Edition. 
+Version: 7.5.472 / Virus Database: 269.8.7/830 - Release Date: 6/3/2007
+12:47 PM
+
+
+
+

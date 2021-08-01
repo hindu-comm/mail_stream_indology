@@ -1,0 +1,62 @@
++++
+title = "85 Dean Anderson"
+date = "2006-03-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-March/029727.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-March/029727.html)
+
+I and a few others on this list have been agitating to get Vedic Accents added to the Unicode standard. I received the following email today. 
+
+  I'll post more details when I get them.
+
+  I'd be interested in finding out if any members of this list or others plan on attending.
+
+  Dean
+
+  Dr. Dean Anderson
+  Director
+  East West Cultural Institute
+
+  ---------- Forwarded message ----------
+From: MJain at mit.gov.in <MJain at mit.gov.in>
+Date: Mar 22, 2006 1:24 PM
+Subject: Re: Vedic Accents in Unicode
+To: Dean Anderson <eastwestcultural at gmail.com>, Uma Umamaheswaran <umavs at ca.ibm.com>
+
+
+
+Dear Sirs, 
+
+Government of India is very much concerned with the encoding of the Vedic accents in the Unicode. Dr. Om Vikas has proceeded on deputation to Indian Institute of Information Technology & Management, Gwalior (India). 
+
+We are planning to organize a workshop of Vedic/ Sanskrit scholars and all the stake holders to discuss the issues and build consensus wrt to encoding of Vedic accents, in the second week of the April, in Delhi. We hope to evolve some consensus, so that we may proceed further.   
+
+regards, 
+
+Manoj Jain
+Joint Director
+Government of India
+Ministry of Communications & IT
+Department of Information Technology
+New Delhi 110003
+Phone +91-11-24301240 Fax +91-11-24363076
+
+
+
+
+  "Dean Anderson" <eastwestcultural at gmail.com> 
+    21-03-2006 15:07 
+
+            To
+
+  "Uma Umamaheswaran" <umavs at ca.ibm.com> 
+
+
+
+---------------------------------
+ Yahoo! Mail
+ Use Photomail to share photos without annoying attachments.
+
+
+

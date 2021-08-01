@@ -1,0 +1,116 @@
++++
+title = "151 Eugen Ciurtin"
+date = "2014-10-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-October/040148.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-October/040148.html)
+
+Dear Prof Koch,
+
+Your example and illustrations are of course rather curious. They are
+unknown to the early 19th c. Newari Vess too (as reproduced by the late
+Siegfried Lienhard).
+
+However, even for (older) Pali only, the weighing of woman is not unknown.
+In the Therīgāthā (v. 153), the nun Anopamā (‘Unsurpassed’), daughter of a
+wealthy merchant, is courted by princes and proposed by merchants for eight
+times her weight (Masset 2005: 52, ‘huit fois l’équivalent en or et pierres
+précieuses!’; and the cty as transl. by Pruitt 1998: 179–180, ‘what she
+weighs as measured by those who know marks’). For a context, see my "Karma
+accounts: supplementary thoughts on Theravāda, Madhyamaka, theosophy, and
+Protestant Buddhism, Religion, 43:4, 487-498, with an addendum
+https://www.academia.edu/4245222/Karma_accounts_supplementary_thoughts_on_Therav%C4%81da_Madhyamaka_theosophy_and_Protestant_Buddhism
+
+As far as I know, the best recent work on the *tūlāpuruṣa *belongs
+to Annette Schmiedchen:
+
+2003. “Die Tūlāpuruṣa-Zeremonie: Das rituelle Aufwiegen des Herrschers
+gegen
+Gold.” Beiträge des Südasien-Instituts der Humboldt-Universität zu Berlin
+12: 21–49.
+
+and
+
+2006. The Ceremony of Tūlāpuruṣa: The Puranic Concept and the Epigraphical
+Evidence. In Script and Image. Papers on Art and Epigraphy, eds. Adalbert
+J. Gail, Gerd J. R. Mevissen,
+Richard Salomon, Proceedings of the 12th World Sanskrit Conference 11.1,
+New Delhi: Motilal
+Banarsidass, 145–184.
+
+Kind regards,
+Eugen Ciurtin
+(Institute for the History of Religions, Bucharest)
+
+2014-10-28 11:54 GMT+02:00 Rolf Heinrich Koch <rolfheiner.koch at gmail.com>:
+
+>  Dear listmembers,
+> continous paintings of the Vessantara-Jataka murals in Sri Lankan
+> monasteries
+> depict always an episode which I cannot trace back to Pali-, buddhist
+> Sanskrit or
+> Tibetean sources.
+>
+> It is the following episode (picture attached):
+> the Brahman Jujaka gets for the release of Vessantara's daughter
+> golden coins accoring to the weight of this girl. The murals depicting
+> always a balance with Kṛṣṇajalī (the daughter) sitting in one
+> scale pan, coins are visible the second pan.
+>
+> Now I could find the description of this part of the mural in the
+> Sinhalese tradition (13th century).
+> Did anyone came across literal descriptions with a similar content?
+> Probably in Chinese, Burmese or Siam sources?
+>
+> Best
+>
+> Heiner
+>
+> (Rolf Heinrich Koch)
+>
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> http://listinfo.indology.info
+>
+
+
+
+-- 
+Dr E. Ciurtin
+Secretary of the Romanian Association for the History of Religions
+
+Publications Officer of the European Association for the Study of Religions
+www.easr.eu
+
+Lecturer & Secretary of the Scientific Council
+Institute for the History of Religions, Romanian Academy
+Calea 13 Septembrie no. 13 sect. 5, Bucharest 050711
+Phone: 00 40 733 951 953
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20141028/6d5482d0/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Vessantara.Waage.Telvatta.Totagamuva.jpg
+Type: image/jpeg
+Size: 383550 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20141028/6d5482d0/attachment.jpg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: VessantaraWaage.Kasagala.jpg
+Type: image/jpeg
+Size: 422761 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20141028/6d5482d0/attachment-0001.jpg>

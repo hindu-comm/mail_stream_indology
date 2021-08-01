@@ -1,0 +1,58 @@
++++
+title = "153 Lubin, Tim"
+date = "2016-04-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043017.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-April/043017.html)
+
+“English” is a common enough last name, though in neither case would I expect that the personal name reflects the language per se so much as the ethnic or regional identity (though these are closely linked anyway).  For an unscientific sample of the incidence of the name in the U.S., see:
+http://www.whitepages.com/name/English
+
+Best,
+
+Timothy Lubin
+Professor of Religion and Adjunct Professor of Law
+Washington and Lee University
+Lexington, Virginia 24450
+
+http://home.wlu.edu/~lubint
+http://wlu.academia.edu/TimothyLubin
+
+ḷ
+
+From: INDOLOGY <indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>> on behalf of "Tieken, H.J.H." <H.J.H.Tieken at hum.leidenuniv.nl<mailto:H.J.H.Tieken at hum.leidenuniv.nl>>
+Date: Monday, April 11, 2016 at 1:57 PM
+To: rajam <rajam at earthlink.net<mailto:rajam at earthlink.net>>, INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>
+Subject: Re: [INDOLOGY] Language names and Personal names ...
+
+Dear Rajam, if you are referring to Johnny English, the movie by Rowan Atkinson, the name is a joke. Herman
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info<mailto:indology-bounces at list.indology.info>] namens rajam [rajam at earthlink.net<mailto:rajam at earthlink.net>]
+Verzonden: maandag 11 april 2016 19:21
+Aan: INDOLOGY
+Onderwerp: [INDOLOGY] Language names and Personal names ...
+
+Dear List Members,
+
+Recently, there was a webmail entry in a Tamil forum about including a language-name in one’s personal name.
+
+There are numerous personal names that include the word “Tamil” in some form. So, the author of the enquiry was wondering if there would be a similar practice in other languages. I know for sure that "English” is the last of name of some individuals I know.
+
+Further examples and descriptions would be appreciated.
+
+Thanks and regards,
+rajam
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160411/9af172e6/attachment.htm>

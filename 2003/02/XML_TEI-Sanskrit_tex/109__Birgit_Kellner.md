@@ -1,0 +1,33 @@
++++
+title = "109 Birgit Kellner"
+date = "2003-02-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027571.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027571.html)
+
+The potential of XML/XSLT, in combination with the TEI guidelines, is
+really amazing. I'm just starting to look into all these things, and
+therefore my question:
+
+Are there already any Indic e-texts available which make use of these
+technologies? Or are such projects under way, anywhere?
+
+For those who are interested: I experimented a little with perl and XML. I
+used Tilman Vetter's edition of the first chapter of the PramANavinizcaya
+by DharmakIrti (Tibetan text) as an example. This has no XSLT background;
+just a simple perl script using perl XML modules to translate XML markup
+into HTML entities.  I used Andrew Glass' Gandhari Unicode font for the
+diacritics:
+
+http://mailbox.univie.ac.at/Birgit.Kellner/cgi-bin/xmldom.cgi?file=pvin1&pa
+ge=30
+
+I would appreciate any information about similar projects.
+
+Best regards,
+
+Birgit Kellner
+
+
+

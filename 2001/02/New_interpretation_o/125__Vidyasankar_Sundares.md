@@ -1,0 +1,26 @@
++++
+title = "125 Vidyasankar Sundaresan"
+date = "2001-02-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-February/025265.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-February/025265.html)
+
+>Just to correct my statement:
+>There are commentaries, such as that one Madhva, which read this line as:
+>naasata.h vidyate abhaava.h, naabhava.h vidyate sata.h.  Madhva says:
+>asata.h kaara.nasya sato brahma.naz caabhaavo na vidyate.  (BG 2.16).
+
+To clarify a little further, for those who are wondering how
+asata.h abhaavao na vidyate, or why asat = kaara.na - Madhva
+interprets the word asat here as prak.rti, which is material
+cause. And sat = brahman, which is instrumental cause. For
+Madhva, unlike other vedAnta commentators, brahman is not
+the material cause of the universe.
+
+Vidyasankar
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+
+

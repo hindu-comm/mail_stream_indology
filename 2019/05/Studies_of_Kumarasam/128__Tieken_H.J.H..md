@@ -1,0 +1,39 @@
++++
+title = "128 Tieken, H.J.H."
+date = "2019-05-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-May/050061.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-May/050061.html)
+
+It is not much. but on the last page of my article "The Structure of Kālidāsa's Raghuvaṃśa" (Studien zur Indologie und Iranistik 15 (1989), pp.151-158) I also say something about the Kumārasaṃbhava. A pdf of the article can be found on my website. For a study of the Mahākāvya genre, of which the KS is a fine example, see my article "On Beginnings: Introductions and Prefaces in Kāvya", in Bronner, Shulman and Tubb (eds.). Innovations and Turning Points ..., Oxford 2014, pp. 86 ff, pdf on my website.
+Herman
+
+Herman Tieken
+Stationsweg 58
+2515 BP Den Haag
+The Netherlands
+00 31 (0)70 2208127
+website: hermantieken.com<http://hermantieken.com/>
+________________________________
+Van: INDOLOGY [indology-bounces at list.indology.info] namens Donald R Davis via INDOLOGY [indology at list.indology.info]
+Verzonden: woensdag 8 mei 2019 19:01
+Aan: Indology
+Onderwerp: [INDOLOGY] Studies of Kumarasambhava
+
+Dear Colleagues,
+
+I would appreciate references to studies of Kalidasa’s Kumarasambhava. I am aware of work by Gary Tubb, David Smith, Ayal Amer, Martina Jackmuth, and contributions (though not pointed studies) by Daniel Ingalls, Yigal Bronner, David Shulman, and Edwin Gerow. Is Prof. Tubb’s dissertation, "The Kumārasaṃbhava in the light of Indian theories of the Mahākāvya" available? Proquest/UMI seems not to have a master from which to order a copy.
+
+Many thanks,
+
+Don Davis
+Dept. of Asian Studies
+University of Texas at Austin
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190508/c17f2219/attachment.htm>

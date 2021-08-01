@@ -1,0 +1,34 @@
++++
+title = "312 Ferenc Ruzsa"
+date = "2000-08-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022542.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022542.html)
+
+Friends,
+
+perhaps it is too obvious to mention, but I think SK 17 is relevant:
+"saMghAta-
+parArthatvAt [...] puruSo 'sti" - there must be a soul, because a system
+always serves someone else's purpose. Here saMghAta clearly refers to the
+body, and its meaning seems to be 'system, organisation, structured compound'.
+
+
+This fits the context well: BhG 13, 5 listed all the elements (tattva) of
+nature, in the order 8 prakRtis - 16 vikAras (cf. Buddhacarita XII, 18-19).
+Verse 6 does not add more elements; it mentions two other general factors -
+motives (desire and aversion, pleasure and pain) and structuring forces
+(organisation, consciousnes and coherence). Perhaps these are those phenomena
+in the world that most clearly show the effect of the kSetrajJa.
+
+My best,
+Ferenc
+--------------------------------------------------------
+Ferenc Ruzsa, PhD
+associate professor of philosophy
+Eötvös Loránd University, Budapest
+e-mail: f_ruzsa at isis.elte.hu
+
+
+

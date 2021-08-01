@@ -1,0 +1,20 @@
++++
+title = "63 Roland Steiner"
+date = "2001-03-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-March/025627.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-March/025627.html)
+
+According to Paul Thieme saarasa designates the "Antigone-
+Kranich" (Grus antigone); see his article: "Kranich und Reiher
+im Sanskrit", in "Studien zur Indologie und Iranistik 1 (1975), pp.
+3-36, esp. pp. 5-8. For an illustration of this bird, see Salim Ali,
+"The Book of Indian Birds", 2nd ed., Bombay 1943,  p. 333
+("The Sarus Crane").
+
+With best regards,
+Roland Steiner
+
+
+

@@ -1,0 +1,30 @@
++++
+title = "39 Ram Sabnavis"
+date = "1999-09-03"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-September/018268.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-September/018268.html)
+
+>>> "N. Ganesan" <naga_ganesan at HOTMAIL.COM> 09/03/99 08:14AM >>>
+>I would agree that the date of the Upani.sads is indeed closely
+>related to the date of the Buddha and Mahavira, but I would not
+>extend the same logic to the date of the RV, which would have to be
+>reasoned on the basis of independent evidence.
+
+Arvind Sharma disagrees: "If we move the Rgveda to 1000 B.C. and
+still insist that Buddha died in 480 B.C. then the whole Vedic
+period is squeezed to five hundred years and not everyone is
+comfortable with it. The other option is to move the Buddha's date
+closer to the common era - to around 350 B.C. as Japanese scholars
+have been suggesting for a long time. This might provide a solution
+though it plays havoc with the chronology of the Buddhist councils,
+but that is a grey area anyway." from G. Erdosy, The Indo-Aryans
+of Ancient South Asia, 1995. Regards, N. Ganesan
+
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

@@ -1,0 +1,76 @@
++++
+title = "53 Sven Sellmer"
+date = "2010-12-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-December/034999.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-December/034999.html)
+
+There is a nice little program called Ukelele which enables you to make your own keyboard layouts with all the diacritics you need: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele
+
+Best wishes,
+Sven Sellmer
+
+************************************
+Dr. Sven Sellmer
+Adam Mickiewicz University
+Institute of Oriental Studies
+South Asia Unit
+ul. 28 czerwca 1956 nr 198
+61-485 Poznań
+POLAND
+sven at amu.edu.pl
+
+Am 17.12.2010 um 07:30 schrieb Arlo Griffiths:
+
+> Thank you. I had gotten so far, and am used to working that way. The problem is that those key combinations don't work for every imaginable combination. E.g., option + n + m will not place ˜ above an m. And of course it doesn't help yet for the more exotic diacritics.
+> Arlo Griffiths
+> 
+>> Date: Thu, 16 Dec 2010 22:36:46 -0700
+>> From: Bradley.Clough at MSO.UMT.EDU
+>> Subject: Re: [INDOLOGY] making diacritics (on my Mac)
+>> To: INDOLOGY at liverpool.ac.uk
+>> 
+>> Arlo,
+>> 
+>> 1.) Under Systems Preferences: select Language and Text, then Input Sources, then Keyboard and Character Viewer (make sure it is on); then go down the list and select US extended (you will also see that you can use devanagari and gujarati etc). This enables the diacritics with only one extra stroke.
+>> 
+>> 2) On the top bar on your screen, make sure the US flag has little u under it indicating US extended.
+>> 
+>> 3) This enables the Option key to add extra strokes. For example, a long vowel stroke is Option A plus the letter (this will give you the stroke over any letter); a dot under a letter, for example, is Option X plus the letter (this will give you the dot under any letter); for the diacritic over the s (sh) for example, hit Option E plus letter; others include Option n and Option W for dots over a letter etc.
+>> 
+>> option + a = ¯   then add any letter lower case or upper case
+>> option + e = ´
+>> option + n = ˜
+>> option +w = ?
+>> option + x = .
+>> 
+>> Best Wishes,
+>> Brad
+>> 
+>> Bradley S. Clough (bradley.clough at mso.umt.edu)
+>> Assistant Professor of Asian Religions
+>> Liberal Studies Program
+>> LA 101
+>> The University of Montana
+>> Missoula, MT 59812
+>> 
+>> 
+>> 
+>> -----Original Message-----
+>> From: Indology on behalf of Arlo Griffiths
+>> Sent: Thu 16-Dec-10 8:58 PM
+>> To: INDOLOGY at liverpool.ac.uk
+>> Subject: [INDOLOGY] making diacritics (on my Mac)
+>> 
+>> Sorry, for asking help about mundane issues such as the following: 
+>> In Luis González-Reimann's last posting, I admired his ability to produce r with subscript circle. I haven't yet found a way to make this combination (let alone the corresponding long vocalic r, or accented ones for Vedic) on my Mac with any of the inbuilt fonts/keyboards. Is there a way?
+>> I am also looking for a way to make the candrabindu on top of an m. Is there any simple way to do so or must one work with specific Indological fonts and keyboards?
+>> Finally, I'd like to make a tilde (~) on top of an m. This would seem to be an easy one, but the usual key combination for placing tilde on top does not yield the desired result when used with m in the U.S. Extended Keyboard. Does anyone know a solution?
+>> Of course I'd be happiest if I could do all of the above tricks in one font and keyboard and still be able to make the usual diacritics too.
+>> Thanks again,
+>> Arlo Griffiths (EFEO/Jakarta) 		 	   		  
+> 		 	   		  
+
+
+

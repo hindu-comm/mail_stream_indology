@@ -1,0 +1,32 @@
++++
+title = "225 Robert A. Hueckstedt"
+date = "2000-09-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022766.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022766.html)
+
+I post the following ad on behalf of the History Department at the
+University of Virginia.
+
+Bob Hueckstedt
+
+==================================================================
+
+South Asia, modern period.  The history department at the University
+of Virginia seeks a historian of the Indian subcontinent in the modern
+period.  Rank: tenure-track assistant or tenured associate professor.
+PhD required; teaching experience expected.  Publications desirable
+for applicants at assistant level, essential for those at associate
+level.  The successful candidate will join an established program in
+Indian history and hold membership in the University of Virginia
+Center for South Asian Studies.  Send letter of application, c.v., and
+three letters of recommendation to Anne Jacobson Schutte, Chair, South
+Asia Search Committee, Corcoran Department of History, University of
+Virginia, Charlottesville, VA 22904-4180.  Deadline: 1 December.
+Women and members of minority groups are urged to apply.  The
+University of Virginia is an affirmative action/equal opportunity
+employer.
+
+
+

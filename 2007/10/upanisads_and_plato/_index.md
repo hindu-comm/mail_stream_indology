@@ -1,0 +1,4 @@
++++
+title = "upanisads and plato"
+
++++

@@ -1,0 +1,49 @@
++++
+title = "47 Dominik Wujastyk"
+date = "1999-10-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018682.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018682.html)
+
+The person to contact is
+
+Mr P Perumal,
+Chief Conservator,
+Thanjavur Maharaja Serfoji's Saraswati Mahal Library,
+Thanjavur 613 009,
+Tamil Nadu,
+India.
+
+The Thanjavur Collector, Mr T. Shanmuga Rajeswaran, is also Director of
+the TMSSML, but I think Mr Perumal is a better first contact.  Mr Perumal
+has studied conservation in Japan and the UK, including visiting periods
+at the V & A and the Wellcome Library.  He is well-acquainted with the
+international scene, and generally a Good Thing :-)  Perumal's phone no.
+is
++91 4362 51036 (res),
++91 4362 34107 (office).
+
+Also at the TMSSML is Smt. Rajalakshmi, a Sanskrit Pandit, who is very
+nice and a good source of information on the Sanskrit collections.  Also
+Mr Padmanabhan, Records Clerk, is kind and helpful.
+
+When I was there in April, email was just being talked about as Real Soon
+Now.  They had a bunch of computers, but no connectivity.  I'm afraid I
+have lost the fax number (if you get it, could you let me have it?).
+
+Best,
+Dominik
+
+
+On Fri, 8 Oct 1999, Kenneth Zysk wrote:
+
+> I am trying to obtain copies of Sanskrit manuscripts from the Tanjore
+> Maharaja Serfoji's Sarasvati Mahal Library in Tanjore.
+
+--
+Dominik Wujastyk
+Founder, INDOLOGY list
+
+
+

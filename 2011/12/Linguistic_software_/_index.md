@@ -1,0 +1,4 @@
++++
+title = "Linguistic software SanskritTa"
+
++++

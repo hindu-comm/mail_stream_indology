@@ -1,0 +1,57 @@
++++
+title = "06 Muneo TOKUNAGA"
+date = "2003-03-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-March/027581.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-March/027581.html)
+
+Dear Dr. Reinhold Gruenendahl
+
+Gruenen> In a way, that's just what GRETIL was intended for. A "news centre"
+
+Thank you for your reply. I find GRETIL is quite useful as a register
+of available e-texts in Indian languages. Also, I agree with your
+principles such as ``plain text file preferable,'' ``a scholarly
+reference aid for a given text,'' etc. for e-texts.
+
+I guess you pay a good attention to various sites in the world
+perpetually, and we owe you for it. (the Divyaavadaana is already in
+it, although I have not reported to the net yet. But it misses the
+Zakuntalaa.) I will inform you directly when I release a revised
+version of an older e-text or a new e-text on my site:
+http//tiger.bun.kyoto-u.ac.jp/mtokunag/skt_texts. I hope others, too.
+
+Gruenen> registering - and perhaps coordinating - all ongoing activities could
+Gruenen> be set up in no time at all. In case anyone is interested, please let
+Gruenen> me know.
+
+Do you mean you have no idea of such a ``new center'' in Goettingen?
+It is almost necessary for those who who work on a new e-text, but, I
+admit, it's not easy to register, let alone, to coordinate ongoing
+activities of digitization in the world --- a topic in WSC12?
+
+Gruenen> One more thing: Some of you may have noticed that all GRETIL files
+Gruenen> have at last been converted to UTF-8. However, I'm not so sure
+
+No problem for a general user like me.
+
+So much on this net.
+With best regards,
+
+
+                      ===============================================
+                                    Dr. Muneo TOKUNAGA
+                                   Professor of Sanskrit
+                                Graduate School of Letters
+                                     Kyoto University
+                                   Sakyo-ku, Kyoto City
+                              Japan (postal code: 606-8501)
+                                     Tel: 075-753-2778
+                                Fax(domestic): 075-753-2778
+                               Fax(international) 075-761-0692
+                              email: mtokunag at bun.kyoto-u.ac.jp
+                     ================================================
+
+
+

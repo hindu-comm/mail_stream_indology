@@ -1,0 +1,4 @@
++++
+title = "Madhavacharya's PurnaPragnyaDa"
+
++++

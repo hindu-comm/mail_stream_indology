@@ -1,0 +1,34 @@
++++
+title = "125 Harry Spier"
+date = "2017-02-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-February/045232.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-February/045232.html)
+
+Dear list members,
+
+In the chanting of the taittiriya samhita anusvara is pronounced as the so
+called gumkara before sibilants, r and visarga.  A kind of "gum" or "gu"
+sound.
+
+I couldn't find any mention of the gumkara pronounciation of anusvara
+before sibilants and snd visarga in the taittiriya pratisakhya.  My search
+was somewhat superficial. I looked at Whitneys english translation using
+the index entries for anusvara.
+
+Can any list member confirm that the taittiriya pratisakhya doesn't have
+any mention of pronouncing anusvara as "gum" beforre sibilants, r and
+visarga.
+
+If that is the case what does that mean? Does that mean the gumkara
+pronounciation of anusvara in the taittiriya samhita is a post vedic
+innovation?? And if so how late an innovation would it be?
+
+Thanks,
+Harry Spier
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170202/b2f5ec0c/attachment.htm>

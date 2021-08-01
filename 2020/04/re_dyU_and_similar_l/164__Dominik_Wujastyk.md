@@ -1,0 +1,70 @@
++++
+title = "164 Dominik Wujastyk"
+date = "2020-04-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-April/052435.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-April/052435.html)
+
+Try the font called "Sanskrit 2003".  Or "Murty Sanskrit".
+
+Best,
+Dominik
+--
+Professor Dominik Wujastyk
+<https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+On Tue, 28 Apr 2020 at 04:43, John Lowe via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> I am trying to write words like dyūtam in nāgarī in MS Word (using Keyman)
+> but I end up without the ligature: it seems that whenever d is followed by
+> consonant+u/ū/ṛ, the d ends up followed by virāma. This affects things like
+> dyū, ddhṛ, etc. I will type the nāgarī here, but your systems may well
+> correct it:
+>
+> द्यूतम्, -अद्बु-, -अद्धृत-
+>
+> When followed by -a-, the ligatures dy, db, ddh, etc come out correctly,
+> but they split (into d-virāma-y etc) as soon as another vowel follows.
+>
+> Even if I copy and paste the correct ligature from e.g. the Cologne
+> dictionary, it splits when pasted.
+>
+> Can anyone recommend a solution to this problem? My font selection seems
+> to default to Nirmala or Kokila when writing in nāgarī, but perhaps there
+> is a better Unicode font out there that has a wider range of ligatures?
+>
+> I prefer not to use Word, but in this case there is no choice...
+>
+> Thanks for any suggestions,
+> John
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200429/88f543c0/attachment.htm>

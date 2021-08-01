@@ -1,0 +1,22 @@
++++
+title = "102 Kenneth Zysk"
+date = "2008-08-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-August/031897.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-August/031897.html)
+
+Please see the following announcement for a position in modern
+Indian/South Asian Studies and kindly forward to other appropriate
+lists. Thank you.
+
+http://asiandynamics.ku.dk/english/vacancies/india_southasia/
+
+Kenneth Zysk
+Department of Asian Studies
+University of Copenhagen                  Ph:  +45 3532 8832
+Leifsgade 33,5                                  Fax: +45 3532 8835
+DK-2300 Copenhagen S    Denmark                 Email: zysk at hum.ku.dk
+
+
+

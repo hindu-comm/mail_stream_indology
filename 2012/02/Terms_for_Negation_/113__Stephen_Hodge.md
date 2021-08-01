@@ -1,0 +1,53 @@
++++
+title = "113 Stephen Hodge"
+date = "2012-02-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-February/036248.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-February/036248.html)
+
+Dear All,
+
+Thanks for the various suggestions on- and off-list. They have been helpful 
+in general terms and will be of use in the future. However, I do not think 
+they help with the term I am seeking to establish.
+
+Birgit:  The word in question is T: bzlog-pa with C: 遮, which normally 
+retroverts to "vyāvartana". In this instance, it occurs in one passage 
+forming part of Ch14 of the Mahāyāna Mahāparinirvāṇa-sūtra which contains a 
+varṇa-patha allocated various doctrinal significations letter by letter. 
+This version is interesting since it has no connection with the
+
+well-known A RA PA CA NA ones from NW India, nor, in terms of content, with 
+those found elsewhere following the standard sequence of sounds. Most 
+noteworthy is that it was originally based on a shorter Prakrit varṇa-patha, 
+as can be seen in many of the term or explanations allocated to the 
+individual letters.
+
+The specific lemma with "bzlog-pa" is:
+
+aṃ zhes bya ba ni nga'i bstan pa la <rung ba ma yin pa> thams cad <bzlog pa 
+dang> | gser dang dngul spangs pa ste | <de bas na> bzlog pa'i don du aṃ 
+zhes bya'o ||
+
+Here I believe that "aṃ" is understood as the negative prefix "an-" ~ hence 
+my enquiry. The bracketed portions do not belong to the hyparchetype, but 
+are interpolations from two textual lineages that have been merged to form 
+the extant Tibetan text.
+
+Birgit: Why have you put quotes around retrovert ? I am curious. Are you not 
+very familiar with the term ? True, it is not used much in Buddhist circles 
+though it ought to be. The terms retrovert and retroversion are widely used 
+in Biblical Studies, esp LXX research, to describe exactly what I, and you 
+too on occasion, am doing with Buddhist materials. See for example, Emmanuel 
+Tov's "Text-Critical Use of the Septuagint in Biblical Research" which could 
+be studied with benefit by any Buddhist scholar working with Tibetan or 
+Chinese translation material, though the need for a knowledge of Hebrew and 
+Greek may be a deterrent for some.
+
+Best wishes,
+
+Stephen Hodge
+
+
+

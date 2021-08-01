@@ -1,0 +1,81 @@
++++
+title = "11 Arlo Griffiths"
+date = "2015-05-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-May/041156.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-May/041156.html)
+
+Dear John,
+
+I don't have the volume at hand here at home, so cannot check it down to the comma, but basically this reference seems accurate --- except that I believe the article was published in Indonesian. The volume Sadur was published by the EFEO branch in Jakarta during my tenure there, in collaboration with the commercial publisher KPG. I can easily obtain a scan of the published version, and probably likewise easily obtain a file of the English original if, as I expect, the latter as such remains unpublished.
+
+I presume you are aware of the following, which is presented as part 2 of the article published in Sadur?
+
+
+  Worsley, Peter. 2006. “Cosmopolitan vernacular culture and illustrations of the Rāma story at Caṇḍi Loro Jonggrang, Prambanan. Part 2: The marriage of the crown prince and the succession in polygamous royal households.” In Anamorphoses: hommage à Jacques Dumarçay, edited by Henri Chambert-Loir and Bruno Dagens, 227–42. Paris: Les Indes savantes.
+
+
+
+Best wishes,
+
+Arlo Griffiths
+École française d'Extrême-Orient
+
+
+Date: Tue, 26 May 2015 11:20:52 +0100
+From: John.Brockington at btinternet.com
+To: indology at list.indology.info
+Subject: [INDOLOGY] article wanted
+
+
+
+
+
+
+
+    Dear colleagues,
+
+
+
+    Does anyone have access to the journal with the article noted below
+    (page numbers regrettably unknown), which I cannot track down
+    anywhere in Britain.  I would very much appreciate firstly
+    confirmation of the accuracy of the reference and secondly, if
+    possible, a PDF of the article.
+
+
+
+      Worsley, Peter
+          2009:
+          “Cosmopolitan vernacular culture and illustrations of the Rāma
+          story at Caṇḍi Loro Jonggrong, Prambanan”, in Sadur:
+            Sejarah Terjemahan di Indonesis dan Malaysia,
+            ed. by Henri Chambert-Loir (Jakarta: Kepustakaan Populer
+            Gramedia).
+
+
+    John Brockington
+
+
+
+
+
+
+    Professor J. L. Brockington
+Fellow, Oxford Centre for Hindu Studies
+Emeritus Professor of Sanskrit, University of Edinburgh
+Vice President, International Association of Sanskrit Studies
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe) 		 	   		  
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150526/5edb6e46/attachment.htm>

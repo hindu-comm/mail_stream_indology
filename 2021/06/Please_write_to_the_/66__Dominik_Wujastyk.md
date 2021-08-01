@@ -1,0 +1,28 @@
++++
+title = "66 Dominik Wujastyk"
+date = "2021-06-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-June/054835.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-June/054835.html)
+
+Dear colleagues,
+
+If there is a problem with your subscription, first try to fix it
+yourself.  You have full access to the controls :-)  Everything is
+available from the INDOLOGY website <http://indology.info>.  Select
+"subscribe / manage your preferences"
+
+Second, please write to the INDOLOGY committee about anything else, as
+requested on the website <https://indology.info/contact/>.
+
+Please don't write to me personally, for the reasons given on the website.
+I will not be able to help
+
+Dominik Wujastyk
+INDOLOGY list <http://indology.info> committee member
+*Please do not reply to me personally: re*ply to
+indology-owner at list.indology.info
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210601/113980fb/attachment.htm>

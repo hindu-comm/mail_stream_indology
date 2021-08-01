@@ -1,0 +1,23 @@
++++
+title = "21 Patrick Olivelle"
+date = "2002-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-February/026674.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-February/026674.html)
+
+Friends:
+
+I have a question about a reading in Manu 11.58 (or 57 in some
+editions). All editions read the paada-a as: retaHsekaH svayoniiSu.
+This is, of course, the grammatically correct reading. But most of my
+manuscripts -- especially the important southern manuscripts in
+Grantha, Telugu, and Malayalam scripts -- read svayonyaasu [sometimes
+svayonaasu]. Can you account for the form -yonyaasu? Have you seen it
+elsewhere? It is not recorded in the dictionaries. Thanks for your
+help.
+
+Patrick Olivelle
+
+
+

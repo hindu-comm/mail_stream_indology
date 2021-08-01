@@ -1,0 +1,33 @@
++++
+title = "07 Harry Spier"
+date = "2017-05-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-May/045845.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-May/045845.html)
+
+Dear list members,
+
+One of the list members has informed me that when he accesses the Gokarna
+Vedic Collection of the Muktabodha Digital Library with a Mac and the
+Safari browser when he clicks on the pdf link to a manuscript instead of a
+pdf file opening with photos of the manuscript he gets gibberish text.
+
+I am able to access the pdf's of the manuscripts with windows with no
+problems.
+
+Would it be possible for a list member who has a mac and safari to try to
+access pdf's of the Gokarna Vedic collection and tell me if he gets a pdf
+of the manuscript or if he also gets gibberish.
+
+The direct link to the Gokarna Vedic collection is:
+http://muktalib5.org/gokarna_collection_secure_entry.htm
+
+Thanks,
+Harry Spier
+Manager, Muktabodha Digital Library
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170518/11f2f23b/attachment.htm>

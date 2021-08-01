@@ -1,0 +1,40 @@
++++
+title = "226 Nagaraj Paturi"
+date = "2015-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041472.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041472.html)
+
+Should be relevant :
+
+
+Sontheimer G.D.*‘The Vana and the K**ṣ**etra**: The Tribal Background of
+Some Famous Cults’, in Tripathi G.C., Kulke H. , eds, Eschmann Memorial
+Lectures, Bhubaneswar, 1987*
+
+Chattopadhyaya B.D.*‘Autonomous Spaces and the Authority of the State: The
+Contradiction and its Resolution in Theory and Practice in Early India’, in
+Kolver Bernhard, von Elisabeth Muller-Kuckner unter Mitarbeit , eds, The
+State, the Law and Administration in Classical India, Munchen, 1997*
+
+Chattopadhyaya B.D.*‘State’s Perception of the Forest and the Forest as
+State in Early India’, in Chaudhuri B.B., Bandopadhyay A. , eds, Tribes,
+Forests and Social Formations, New Delhi, 2004*
+
+Durga P.S. Kanaka, Reddy Y.A.S.*‘Kings, Temples and Legitimation of
+Autochthonous Communities: A Case Study of a South Indian Temple’, JESHO,
+Vol. 35(2), 1992*
+
+Kulke H.*Kings and Cults: State Formation and Legitimation in South and
+Southeast Asia, New Delhi, 1993.*
+
+
+-- 
+Prof.Nagaraj Paturi
+Hyderabad-500044
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150708/1ba60973/attachment.htm>

@@ -1,0 +1,30 @@
++++
+title = "54 mkapstei at UCHICAGO.EDU"
+date = "2009-07-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-July/033445.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-July/033445.html)
+
+As I recall, Peissel's identification of the gold-digging
+ants with marmots in the West Tibetan regions now
+partially in HP, was based in part on his assumption
+that Herodotus's "city of Caspatyrum" could be
+identified with Tsaparang, the capital of the 
+West Tibet Guge kingdom. But, phonological
+approximations aside, this was totally arbitrary
+and anachronistic. We have no evidence for urbanization
+on the Tibetan plateau in Herodotus's time (though
+there were neolithic villages), and the foundation of
+Tsaparang cannot be documented before the 10th century
+CE.
+
+Matthew T. Kapstein
+Numata Visiting Professor of Buddhist Studies
+The University of Chicago Divinity School
+
+Directeur d'études
+Ecole Pratique des Hautes Etudes, Paris
+
+
+

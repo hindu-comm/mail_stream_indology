@@ -1,0 +1,48 @@
++++
+title = "150 DC Lammerts"
+date = "2015-07-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041490.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-July/041490.html)
+
+Buddhist Dynamics in Premodern and Early Modern Southeast Asia
+Edited by D Christian Lammerts
+
+Institute of Southeast Asian Studies | Nalanda-Sriwijaya Series | 2015
+https://bookshop.iseas.edu.sg/publication/2082
+
+About the Publication
+The study of historical Buddhism in premodern and early modern Southeast Asia stands at an exciting and transformative juncture. Interdisciplinary scholarship is marked by a commitment to the careful examination of local and vernacular expressions of Buddhist culture as well as to reconsiderations of long-standing questions concerning the diffusion of and relationships among varied texts, forms of representation, and religious identities, ideas, and practices. The twelve essays in this collection, written by leading scholars in Buddhist Studies and Southeast Asian history, epigraphy, and archaeology, comprise the latest research in the field to deal with the dynamics of mainland and (pen)insular Buddhism between the sixth and nineteenth centuries C.E. Drawing on new manuscript sources, inscriptions, and archaeological data, they investigate the intellectual, ritual, institutional, sociopolitical, aesthetic, and literary diversity of local Buddhisms, and explore their connected histories and contributions to the production of intraregional and transregional Buddhist geographies.
+
+Contents
+1. Introduction, by D Christian Lammerts
+
+2. An Untraced Buddhist Verse Inscription from (Pen)insular Southeast Asia, by Peter Skilling
+
+3. How Many Monks? Quantitative and Demographic Archaeological Approaches to Buddhism in Northeast Thailand and Central Laos, Sixth to Eleventh Centuries CE, by Stephen Murphy
+
+4. Miniature Stūpas and a Buddhist Sealing from Candi Gentong, Trowulan, Mojokerto, East Java, by Titi Surti Nastiti
+
+5. A Bronze Hoard from Muara Kaman, Kutei, by E Edwards McKinnon
+
+6. Re-exploring the Buddhist "Foundation Deposits" at Chedi Chula Prathon, Nakhon Pathom, by Nicolas Revire
+
+7. Aspects of Buddhism in Tenth-Century Cambodia, by Hiram W Woodward
+
+8. Revisiting the Cult of "Śiva-Buddha" in Java and Bali, by Andrea Acri
+
+9. Building a Buddhist Monarchy in Đại Việt: Temples and Texts under Lý Nhân-tông (r.1072—1127), by John K Whitmore
+
+10. Sīhaḷa Saṅgha and Laṅkā in Later Premodern Southeast Asia, by Anne M Blackburn
+
+11. Dynamics of Monastic Mobility and Networking in Seventeenth- and Eighteenth-century Upper Burma, by Alexey Kirichenko
+
+12. Buddhist Diplomacy: Confrontation and Political Rhetoric in the Exchange of Letters between King Alaungmintaya and King Banya Dala of Pegu (1755 —56), by Jacques P Leider
+
+13. Court Buddhism in Thai-Khmer Relations during the Reign of King Rama IV (King Mongkut), by Santi Pakdeekham
+
+
+
+
+

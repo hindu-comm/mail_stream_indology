@@ -1,0 +1,26 @@
++++
+title = "46 Richard Salomon"
+date = "2004-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-February/028192.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-February/028192.html)
+
+List members:
+
+February 28th is the 100th birthday of the great Indologist Murray B.
+Emeneau, which is being celebrated at a symposium in Berkeley CA on Feb.
+20-21; see
+http://socrates.berkeley.edu/~garrett/LanguageEcologyConference.pdf .
+
+A contact address is given there, which, I suppose, can be used for sending
+congratulatory messages.
+
+May all Indologists live to be 100 in the future! ("jijiivis.ecchatam.
+samaah.")
+
+
+Richard Salomon
+
+
+

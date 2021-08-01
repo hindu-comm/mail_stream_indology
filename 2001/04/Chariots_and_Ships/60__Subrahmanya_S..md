@@ -1,0 +1,33 @@
++++
+title = "60 Subrahmanya S."
+date = "2001-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-April/026006.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-April/026006.html)
+
+saf, as always a cool-headed empiricist, writes:
+
+Can I suggest as bedtime reading M. Sparreboom's _Chariots of the Veda_
+(1985), which copiously discusses the iconographical, archaeological, and
+textual evidence? Or would you agree with D. Frawley that the composers of
+the Vedas (aka the Mother Culture) were a maritime people? ("That's not a
+chariot, that's a ship!")
+
+saf
+--------------------------
+
+Thank you very much for the suggestion. I have the book with me.
+Could you please point  me where there is evidence of the war chatiot ?
+
+Also, keep in mind that this has to be in the RV not from later periods or
+texts.
+
+
+S.
+
+_________________________________________________________________
+Get your FREE download of MSN Explorer at http://explorer.msn.com
+
+
+

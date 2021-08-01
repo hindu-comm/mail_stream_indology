@@ -1,0 +1,25 @@
++++
+title = "75 Matthew Kapstein"
+date = "2004-12-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028892.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028892.html)
+
+Pace Prof. Witzel, my message was not
+an exercise in "facile" comparison, but
+a response to Dean Anderson's query:
+
+"Has anyone seen any discussion of red ochre in this wider context or
+what it might have symbolized?"
+
+I of course made no assertion that either the Chinese and Tibetan
+data, or the use of sinduura in Buddhist tantric contexts has
+any interesting connection whatever with IVC. This, however, should
+not stop anyone from pondering whether or not there seems
+to be a coherent symbolic nexus to be found here.
+
+Matthew Kapstein
+
+
+

@@ -1,0 +1,36 @@
++++
+title = "109 McComas Taylor"
+date = "2009-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-July/033404.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-July/033404.html)
+
+Dear Friends
+
+Ms Tomomi Sato, a Sanskrit student at the ANU, has created a wonderful 
+website on the trees and flowers of the Meghaduta. For each item, she 
+provides her own artwork, the relevant verse, an audio file with her own 
+recitation, and translations into English and Japanese.  I and delighted 
+to invite you to view Tomomi's beautiful work. It is best viewed with 
+Internet Explorer. It does not work with Firefox. To enable the sound 
+files to play, you may have to disable ActiveX control.
+
+Tomomi's website is here:
+
+http://www.anu.edu.au/asianstudies/meghaduta/
+
+I'm sure Tomomi would be pleased to hear from you.  If you would like to 
+send her a message offlist, she can be reached at:
+
+u4238655 at anu.edu.au
+
+Please feel free to circulate as widely as possible among friends and 
+colleagues.
+
+Yours
+
+McComas
+
+
+

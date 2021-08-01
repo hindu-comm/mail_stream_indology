@@ -1,0 +1,27 @@
++++
+title = "218 Gerard Huet"
+date = "2000-05-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021442.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021442.html)
+
+Re I don't think any language can be called inherently ambiguous, unless such
+a claim is based on some quantitative measure of, say, numbers of
+homonyms. Certainly Sanskrit is not any more inherently ambiguous than
+other languages.
+
+Well, the fact that Sanskrit insists on phonetic assimilation, through the
+use of sandhi, which glues all the words within a phonetic stream, poses an
+extra
+level of non-determinism in understanding a sentence, even in written form.
+This ambiguity in sandhi deciphering precedes the possible ambiguities in
+homonyms. This may explain why certain techniques of recitation were useful,
+since they revealed the individual words from the phonetic mess. If you
+recite
+the words backward in an english or french sentence you will not get extra
+information, but in Sanskrit you certainly do.
+GH
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "05 Matthew Kapstein"
+date = "2006-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-August/029952.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-August/029952.html)
+
+I regret if this seems cynical, but the
+notion that Trivi.s.tapa = Tibet smells
+to me like another revisionist effort
+to rationalize India's mythological past
+in pseudo-historical terms.
+
+Recently a nephew, visiting Paris, wanted to
+see the film "Mystic India" showing in the Geode
+(Imax) film center here, and I innocently obliged. I was astounded to
+find a public, scientific venue, showing what
+turned out to be a (generally mild and inoffensive) Hindu sectarian film
+(produced by the Gujerat-based NGO BAPS Care International) 
+that included such claims as "archaeology shows
+Indian civilization beginning more that 8000 years
+ago, prior to either Mesopotamia or Egypt" and, of course,
+the now standard praises of the "democratic" civilization
+of the Veda. (I hasten to add that I know very little
+of BAPS and what I have so far discovered suggests that
+it is a fairly liberal service organization, devoted to
+good works in education and health-care. My reservations
+about aspects of the film are in no intended as a global judgement on
+BAPS or its projects.)
+
+Although this has no direct connection with
+Dan and Jonathan's query about Tibet, 
+the sad fact appears to be that revision of Indian
+history is being pursued aggressively on all possible
+fronts, and that even apparently trivial matters now
+require vigilant assessment.
+
+Happy fact checking!
+
+Matthew Kapstein
+
+
+

@@ -1,0 +1,24 @@
++++
+title = "03 Christian Ferstl"
+date = "2014-07-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039754.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-July/039754.html)
+
+Dear members of the Indology list,
+
+I've been reading most of your messages with interest for several years now, but never contributed to it. Nevertheless I dare to ask for your help now. But let me introduce myself first. 
+After my MA thesis on Mahendravarman's Mattavilāsaprahasana I am presently working on a PhD thesis on the early depictions of Pāśupata in kāvya literature (both at the University of Vienna). 
+
+In context of the latter I would be very interested in a certain scene of the Ajanta cave paintings, found in the main hall of cave 16, left hand wall. Dieter Schlingloff has interpreted it as the Bhārgava scene (as it is found in the Buddhacarita, Divyāvadāna and Sanghabhedavastu versions of the Buddha's biography). It is scene Nr. 25 of the drawings in Schlingloff's publication from 1983 (WZKS 27) and 2000 (Handbook of the Paintings 1, Vol. I, p. 366, and Vol. III, XVI,19 / No. 64). 
+
+I wonder if there are pictures of the original painting in J. Griffiths' 1896 book on The Paintings in the Buddhist Cave-Temples in Ajanta, probably Vol. 1 (Nr. 16 B). Also Ghulam Yazdani's Ajanta. The Colour and Monochrome Reproductions of the Ajanta Frescoes Based on Photography, Part III, London 1946, should have it (plate LIX). I could not get hold of the books by Griffiths and Yazdani, neither didgital nor real. Pictures taken in more recent times are also welcome, but perhaps original paintings were less weathered in the 19th century? 
+
+With many thanks in advance,
+Christian Ferstl
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140724/122da049/attachment.htm>

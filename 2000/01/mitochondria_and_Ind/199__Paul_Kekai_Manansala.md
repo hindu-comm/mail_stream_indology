@@ -1,0 +1,39 @@
++++
+title = "199 Paul Kekai Manansala"
+date = "2000-01-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-January/019845.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-January/019845.html)
+
+Vidyasankar Sundaresan wrote:
+>
+> Paul Kekai Manansala <kekai at JPS.NET> wrote:
+>
+> >_mtDNA Shows Signs of Paternal Influence_
+> >        Evelyn Strauss
+> >        Science 1999 December 24; 286: 2436a
+> >
+>  This recent discovery of paternal influence in hominid
+> species mtDNA will have far-reaching consequences for anthropological
+> conclusions based on genetic studies. Shows how science constantly forces
+> one to challenge long-held assumptions.
+>
+
+Well, we will have to wait and see.  There still is no known mechanism
+for recombination in mtDNA. The researchers came to their conclusions
+because they found anomalies that could not be explained by maternal
+inheritance.  However, you also can not directly link it to paternal
+inheritance. That is an assumption.
+
+Critics point out that the anomalies could be due to other factors
+besides paternal influence.
+
+Regards,
+Paul Kekai Manansala
+
+--
+Check out http://AsiaPacificUniverse.com/
+
+
+

@@ -1,0 +1,21 @@
++++
+title = "07 alakendu das"
+date = "2011-12-12"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-December/036127.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-December/036127.html)
+
+
+To all Members,
+
+                   It was inspiring indeed going through Matthew Kapstein's  mail referring to John Huntington's ideas on "Annapurna'.However, may  I  humbly take this oppurtunity to state that two mountain peaks in the Kumayun Himalaya mountain range in Uttarakhand region of Northern India are  respectively named "Trishul" and " PanchaChulli", where shape of the peak has been emphasied. The peak which is shaped like a trident( a constant accompaniment of Lord Shiva) came to be known as "Trishul', while the peak "Panchachullhi" took it's name from the shape of five(pancha) ovens(chulha) placed side by side.  However, mountains in India, on an average , are named on mythogical characters.
+
+
+   Alakendu Das.
+mailmealakendudas at rediffmail.com
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20111212/b2789bca/attachment.htm>

@@ -1,0 +1,36 @@
++++
+title = "24 Plamen Gradinarov"
+date = "2006-02-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2006-February/029636.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2006-February/029636.html)
+
+To my knowledge, the idea of Nyaya inference being intensional and inductive rather than extensional and deductive is as new as wrong. Udaharana doesn't prove the vyapti as expressed previously in the hetu, it only shows an example of invariable concomitance that can help the opponent (or the disciple) grasp the local nature of the general rule (its paksadharmata) rather than its universality. As for the real metalogical question at issue here, how do the Naiyayikas establish the universality of vyapti, the answer is: from practice (purvavat and sesavat) and Yogic perception, samanyatodrsta being one of the forms of it. In any case, correct inference is based on the relation between sadhana and sadhya universally established in the general rule by means other than anumana.
+
+Best regards,
+Plamen
+http://nyaya.darsana.org/topic71.html
+
+
+*****
+Please, Naiyaayikas of the e-world! I have not received any feedback on my 
+abstract on Nyaaya (posted 17.02); but it would be quite important for me to 
+know if it really does not contain any new idea. So please, send me the name 
+of the relevant book or article that has a similar view on old inference so 
+that I may update my knowledge. Otherwise (this is a threat) I will write it 
+in full...
+
+Thank you,
+Ferenc Ruzsa 
+
+
+
+
+-- 
+No virus found in this incoming message.
+Checked by AVG Free Edition.
+Version: 7.1.375 / Virus Database: 268.1.0/269 - Release Date: 24.2.2006 _.
+
+
+

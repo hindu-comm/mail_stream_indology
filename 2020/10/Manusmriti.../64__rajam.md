@@ -1,0 +1,27 @@
++++
+title = "64 rajam"
+date = "2020-10-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-October/053547.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-October/053547.html)
+
+Dear List Members,
+
+I need your help in understanding something from Manusmriti.
+
+Is there any passage/rule in this text that states that ‘all women are prostitutes’? Or anything close to such thought?
+
+In Tamilnadu, there is a severe extremist movement wanting to burn Manusmriti. As the next election is approaching, the political scene is getting ugly as usual. One party’s propaganda includes that Manusmriti should be removed/burned down since it looks at women as prostitutes.
+
+I was wondering if any of you would kindly check Manusmriti and let me know if he really declared that all women are prostitutes.
+
+I would very much appreciate your help.
+
+Thanks and regards,
+V.S.Rajam
+
+
+
+
+

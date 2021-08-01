@@ -1,0 +1,21 @@
++++
+title = "135 Jon Skarpeid"
+date = "2017-11-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-November/046847.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-November/046847.html)
+
+Dear Indologists!
+
+I bought this miniature<http://www.exoticindiaart.com/book/details/tabiji-gita-amuletic-gita-NZA602/> (37 mm x 12 mm x 25 mm) online, published by Khemraj Shrikrishnadass of Mumbay. On the last page I read SaMvat 1990 and Sak 1855, which means roughly 1933 according to the Gregorian Calendar. The language style of the publisher's page is old, so this must be a reprint of some kind. Does anybody know if it came as miniature back in 1933? (I tried to contact the publisher, but no response so far, and the website has been down for a long, long time).
+
+One more question,  this miniature<http://www.iwm.org.uk/collections/item/object/30087640> belongs to the collection of Imperial Was Museums (UK). Does anybody know when it was released and by whom? I doubt it is published by David Bryce, but am I wrong?
+
+Kind regards,
+Jon Skarpeid
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20171102/b46adaec/attachment.htm>

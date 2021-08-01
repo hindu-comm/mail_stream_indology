@@ -1,0 +1,33 @@
++++
+title = "42 Deshpande, Madhav"
+date = "2007-04-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-April/030654.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-April/030654.html)
+
+I am forwarding the following information to the list on behalf of the Indology Committee.
+
+Madhav M. Deshpande
+
+Dear Indology Committee, 
+Could you please forward the announcement of the following workshop to the list? 
+Thanking you in advance, yours sincerely,
+Saraju Rath
+
+Dr. Saraju Rath
+Research Fellow
+International Institute for Asian Studies (IIAS)
+P.O. Box no. 9515, 2300 RA Leiden The Netherlands
+s.rath at let.leidenuniv.nl
+
+20-21 April 2007, IIAS, Leiden. 
+"Production, distribution and collection of Sanskrit manuscripts in Ancient South India," 
+Workshop organized by IIAS:  Convenor: Dr. Saraju Rath 
+For more information see: 
+http://www.iias.nl/index.php?q=node/9
+or:
+http://213.207.98.211/index.php?q=node/9
+
+
+

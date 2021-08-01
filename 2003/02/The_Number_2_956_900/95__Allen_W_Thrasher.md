@@ -1,0 +1,33 @@
++++
+title = "95 Allen W Thrasher"
+date = "2003-02-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027552.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027552.html)
+
+I am if anyone has any ideas why the text would have fixed upon this as
+the number of vessels.  I have tried dividing by 108 (a number I have
+played around with already), 365 (days of year), 360 (ibid.
+approximately), and gotten numbers with fractions.
+
+Allen
+
+
+
+Allen W. Thrasher, Ph.D.
+Senior Reference Librarian
+Southern Asia Section
+Asian Division
+Library of Congress
+Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732
+fax 202-707-1724
+athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library
+of Congress.
+
+
+

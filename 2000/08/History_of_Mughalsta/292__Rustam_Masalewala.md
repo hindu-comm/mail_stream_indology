@@ -1,0 +1,48 @@
++++
+title = "292 Rustam Masalewala"
+date = "2000-08-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022535.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022535.html)
+
+Anand M. Sharan,
+
+>1. Bakhtiar Khilji , when he captured Bihar, burnt the Nalanda University
+>library.
+
+Excuse me, was there a library spared? You talk of Nalanda as if that was
+the only one destroyed.
+
+>2. Allauddin Khilji had imposed one of the heaviest taxes on his subjects.
+
+That greatly minimizes what happened. A large number
+of people, both ordinary and noble, were taken into
+slavery, flooding the slave markets.
+
+I have seen an estimate that a third of India's
+population perished in the first 2-3  centuries
+of Islamic expansion.
+
+>3. Malik Kaafoor had destroyed temples in South India .
+
+Were they spared in North? Is there one that the
+conquerers did not destroy in the area conquered?
+
+However it must be said that India was luckier
+than Iran where devastation was almost total,
+leaving only a trace of the past.
+
+Rustam
+
+...
+
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

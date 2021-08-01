@@ -1,0 +1,23 @@
++++
+title = "31 James Hegarty"
+date = "2014-02-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-February/039085.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-February/039085.html)
+
+Dear Colleagues,
+
+I am organising a workshop with an Archaeologist colleague on connections between literary and material culture (much influenced by the work of Alfred Gell on artistic production). I am planning to contact U.K. Archaeologists with an interest in South Asian material culture. Excuse my rather limited geographical horizons, but funding is, as always, something of an issue.
+
+To this end, does anyone have an up to date email address for Prof. Chakrabarti? Can anyone also advise me of U.K. Archaeologists with an interest in early South Asian materials (post-Indus valley), other than Prof. Robin Coningham, whose contact details are easily obtainable.
+
+If Prof. Coningham is a member of the list, perhaps he can advise!
+
+With Thanks and Best Wishes,
+
+James Hegarty
+Cardiff University
+
+
+

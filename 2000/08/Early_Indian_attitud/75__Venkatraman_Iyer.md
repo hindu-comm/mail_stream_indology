@@ -1,0 +1,50 @@
++++
+title = "75 Venkatraman Iyer"
+date = "2000-08-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022450.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022450.html)
+
+Tradition records teaching of vedas, sanskrit, tamil to the
+whites with hesitation, opposition, etc., A Dravidian example,
+and for the Telugu original, consult V. Narayanarao and
+D. Shulman, A poem at the right moment: remembered verses
+from premodern south India, p. 47
+
+   " New Age
+
+    They now read proofs at printing shops
+    just to stay alive,
+    or teach Telugu to the white Huns,
+    expound religion in the houses
+    of those grocers who give them credit.
+    Phenomenal scholars have been humbled.
+    Times have changed."
+
+Did Maxmueller print the Veda from oral recitations first?
+
+Best,
+V. Iyer
+
+
+<<<
+In the last few centuries what were the Indian attitudes to passing
+on to the western colonizers the traditional knowledge of:
+
+1)The Sanskrit language and literature in general.
+
+2)The Vedas.  When western editions of the Vedas were being prepared
+in the last century was this done only from manuscripts or were the
+Brahmin priests willing to recite them to foreigners.
+
+3)Would it have been controversial for a Brahmin priest or
+traditional pandit to cooperate with a western indologist.
+>>>
+
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

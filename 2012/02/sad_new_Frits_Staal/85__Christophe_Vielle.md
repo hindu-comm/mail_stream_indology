@@ -1,0 +1,23 @@
++++
+title = "85 Christophe Vielle"
+date = "2012-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-February/036350.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-February/036350.html)
+
+Long article by K. Santhosh in the Hindu devoted to the great scholar:
+http://www.thehindu.com/news/states/kerala/article2913333.ece
+Frits Staal, an influential Indologist, passes away
+
+Short notices in the Dutch medias:
+http://www.nrc.nl/boeken/2012/02/21/frits-staal-81-overleden/
+(with video-extract from Agni]
+http://nos.nl/artikel/343646-filosoof-frits-staal-overleden.html
+
+CV
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120223/b0645b6b/attachment.htm>

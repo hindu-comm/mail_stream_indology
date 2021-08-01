@@ -1,0 +1,21 @@
++++
+title = "91 JAGANADH GOPINADHAN"
+date = "2008-04-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-April/031642.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-April/031642.html)
+
+Collegues
+
+The Unicode CLDR(Common Locale Data Repository) data submission started. There is no sufficient data for Sanskrit in CLDR . I request the scholars to contribute for the same . For reference see the link http://www.unicode.org/cldr/ 
+
+If you have any querry please reply and add the id jaganadh at cdactvm.in as cc 
+
+With regardsJAGANADH.G LINGUIST HDG-LTSC-DACVELAYAMBALAMTHIRUVANANTHAPURAMP-H+91 9895420624 E-MAIL- jaganadh at cdactvm.in,navadipanyaya at hotmail.com/jaganadhg at gmail.com http://sabdabodha.googlepages.comwww.malayalammorph.blogspot.comwww.malayalamresourceceter.org
+_________________________________________________________________
+Video: Get a glimpse of the latest in Cricket, Bollywood, News and Fashion. Only on MSN videos.
+http://video.msn.com/?mkt=en-in
+
+
+

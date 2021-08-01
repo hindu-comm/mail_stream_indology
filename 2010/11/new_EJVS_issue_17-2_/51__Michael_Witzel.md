@@ -1,0 +1,48 @@
++++
+title = "51 Michael Witzel"
+date = "2010-11-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-November/034934.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-November/034934.html)
+
+Dear List Members,
+
+we are happy to announce a new issue of the Electronic Journal of  
+Vedic Studies:
+
+Vol.17 Issue 2, Nov. 29, 2010:
+
+
+Gautama V. Vajracharya
+
+Unicorns in Ancient India and Vedic Ritual
+
+
+It is available at: <http://www.ejvs.laurasianacademy.com/>
+as quick download (compresssed pdf 1 MB) and as slower download (11  
+MB pdf).
+
+
+Issue 3 (Y. Vassilkov on Siberian rattle-mirrors with early Indian  
+motifs) to follow shortly.
+
+
+Best,
+MW
+
+
+============
+Michael Witzel
+witzel at fas.harvard.edu
+<www.fas.harvard.edu/~witzel/mwpage.htm>
+
+Dept. of Sanskrit & Indian Studies, Harvard University
+1 Bow Street,
+Cambridge MA 02138, USA
+
+phone: 1- 617 - 495 3295, 496 8570, fax 617 - 496 8571;
+my direct line:  617- 496 2990
+
+
+

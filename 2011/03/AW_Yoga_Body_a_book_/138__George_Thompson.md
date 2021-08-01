@@ -1,0 +1,63 @@
++++
+title = "138 George Thompson"
+date = "2011-03-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-March/035235.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-March/035235.html)
+
+On Wed, Mar 9, 2011 at 8:20 PM, George Thompson <gthomgt at gmail.com> wrote:
+
+> Dear Philipp,
+>
+> I apologize for not replying sooner, but I have other duties to attend to.
+>
+> The word 'yoga' in all western languages is a LOANWORD from Sanskrit,
+> regardless of etymology.  This is not a matter of two words.  It is a matter
+> of a borrowed word going in strange new directions.  Julia Roberts is
+> entitled to her own sense of what "yoga" means to her.  But let us be
+> clear.  The word that she is using is the same one that Patanjali used and
+> the Gita used the authors of the Upanisads used.
+>
+> It is this very confusion that Singleton has created, whether
+> accidentally or intentionally.
+>
+> Best Wishes,
+>
+> George
+>
+>   On Wed, Mar 9, 2011 at 5:15 AM, Philipp Maas <phmaas at arcor.de> wrote:
+>
+>> Dear Critstoph,
+>> the question, as I understand our discussion, is not whether there are two
+>> or more words “yoga” in classical Sanskrit, but whether the word “yoga” in
+>> modern western languages is the same word as in classical Sanskrit. The
+>> common derivation of both words from the (one or other) Sanskrit root “yuj”
+>> is no sufficient criterion to settle this question.
+>>
+>> In my view, a good example to support the view that there is such a
+>> radical break between the meaning of “yoga” in Indian philosopies and
+>> religions and its use in connection with postural modern yoga as to speak of
+>> two different words is a statement ascribed to the actress Julia Roberts (
+>> http://ezinearticles.com/?Yoga-Down----Twist-This-Mess-Around&id=203078)
+>> who allegedly said that she don't want yoga to change her life. Just her
+>> butt.
+>>
+>> This statement makes perfect sense if “yoga” means a form of gymnastics
+>> and it is absurd when “yoga” is semantically related to soteriology.
+>>
+>> As Bußman explains, semantic differences are an important but not a
+>> sufficiently exact criterion to establish homonymy. Therefore Singleton’s
+>> use of the word “homonym” is maybe more open to a scholarly discussion than
+>> the question of whether an intellectual continuum leads from the Paatañjala
+>> Yoga"saastra to some mainstream forms of postural modern yoga.
+>>
+>> All the best,
+>>
+>> Philipp
+>>
+>
+>
+
+
+

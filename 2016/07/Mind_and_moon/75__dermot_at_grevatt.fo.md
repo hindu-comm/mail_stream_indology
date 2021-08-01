@@ -1,0 +1,33 @@
++++
+title = "75 dermot at grevatt.force9.co.uk"
+date = "2016-07-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043720.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-July/043720.html)
+
+Can anyone explain why the mind is the microcosmic counterpart of the moon? The 
+correspondence appears in Rgveda 10.90.13 and in countless passages of the Brahmanas 
+and Upanisads, but it's not obvious like breath and wind. 
+
+Renou Études Védiques vol XVI p. 150 says it's a play on words. I find that hard to accept, 
+because the words (candra-mas and manas) are not very similar (they are in Latin, but the 
+sages didn't have access to an Indo-European comparative dictionary).
+
+Could the connection be through soma (often linked or identified with the moon), since the 
+mind is called a pavitra through which poetic insight (dhI) flows and becomes offerings 
+(Gonda Vision of the Vedic Poets pp. 278-9)?
+
+Or is it that the mind, like the moon, is constant though its content continually changes?
+
+-- 
+Dermot Killingley
+9, Rectory Drive,
+Gosforth,
+Newcastle upon Tyne NE3 1XT
+Phone (0191) 285 8053
+
+
+
+
+

@@ -1,0 +1,24 @@
++++
+title = "288 iplel"
+date = "2001-01-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-January/025090.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-January/025090.html)
+
+Dear Mr. Joshi
+Your attempt to interpret the word cakra (circle, a wheel) as four is very
+artificial and wrong. This political concept firstly, then the title
+cakravartin and sanskrit term cakra are well known in ancient (see, for
+example the concordance Vaidikapada), first of all, Buddhist literature. Its
+meaning is evident and can be interpreted as the 'whole world' in political
+concept and title. Its meaning in Arthashastra evident, too - see I.7.9,
+VI.2.39-40 where cakra is identified with other important political term,
+maNDala (circle, too), and especially IX.I.17-18 (cakravarti-kZetra). And in
+early epigraphy, as I know, this titul is not mentioned.
+
+Best wishes.
+D.Lielukhine, Moscow
+
+
+

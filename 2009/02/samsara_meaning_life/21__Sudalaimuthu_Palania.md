@@ -1,0 +1,33 @@
++++
+title = "21 Sudalaimuthu Palaniappan"
+date = "2009-02-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-February/032579.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-February/032579.html)
+
+On February 2, 2009, George Hart wrote: 
+ <In modern Brahmin Tamil, it means wife.
+
+Actually, 'camcAram' in the sense of 'wife' is to be considered as more of 
+a non-brahmin usage. In non-brahmin colloqial usage, among the three words 
+for wife 'peNTATTi', 'camcAram'/'camucAram', and 'manaivi', 
+Tamil 'peNTATTi' is considered less refined than Sanskrit-
+derived 'camcAram' and Tamil 'manaivi' is considered to be the most refined 
+usage. The common brahmin dialect usage includes Tamil AmuTaiyAL/AmpaTaiyAL 
+< akamuTaiyAl and hybrid AttukkAri < AkattukkAri. 
+
+Brahmins may use 'camcAram' while conversing with non-brahmins because it 
+is of wide currency. That 'camcAram' is widely used can be inferred from 
+the line "cAram niRainta ulakai cEytavaL camcAram" in the film 
+song "nethiyile oru" , the second song in the following link 
+http://www.hummaa.com/music/album/13897/Nitchya+Thamboolam+(tml) . The line 
+starts at 3min:23sec from the start of the introduction by the music 
+director. The lyrics were by late Kannadasan, a well-known poet and 
+lyricist and the situation had nothing to do with brahmins.
+
+Regards,
+S. Palaniappan
+
+
+

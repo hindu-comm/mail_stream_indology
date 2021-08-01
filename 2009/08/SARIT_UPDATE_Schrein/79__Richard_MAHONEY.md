@@ -1,0 +1,53 @@
++++
+title = "79 Richard MAHONEY"
+date = "2009-08-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-August/033539.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-August/033539.html)
+
+Dear Colleagues,
+
+The Schreiner/Söhnen Brahmapurāṇa, Tübingen Purâna Project Version, is
+now available through SARIT. Please follow this link to the table of
+contents:
+
+http://bit.ly/1n88AN
+
+
+Downloads, as usual, are here:
+
+http://bit.ly/YYga5
+
+
+Bibliographic notes are here:
+
+http://bit.ly/A1qBj
+
+
+We would like to thank The British Association for South Asian Studies
+for supporting the encoding and distribution of this text.
+
+
+If any readers would like to see a particular text incorporated within
+SARIT, and are in a position to support its encoding, please feel free
+to send us a note.
+
+
+
+Best regards,
+
+ Richard Mahoney
+
+
+
+-- 
+Richard MAHONEY | internet: http://indica-et-buddhica.org/
+Littledene      | telephone/telefax (man.): +64 3 312 1699
+Bay Road        | cellular: +64 275 829 986
+OXFORD, NZ      | email: r.mahoney at indica-et-buddhica.org
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Indica et Buddhica: Materials for Indology and Buddhology
+
+
+

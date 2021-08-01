@@ -1,0 +1,25 @@
++++
+title = "58 Vanessa Sasson"
+date = "2014-09-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-September/040019.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-September/040019.html)
+
+Dear colleagues,
+
+This coming January, I will be making the adventurous move of bringing 15 students to Nepal. I have not been in 20 years, so there is a lot of catching up to do!
+
+The students will each be bringing at least one book about Nepal with them (aside from the research they will be doing before we leave), and the books will serve as a kind of on-site library at the hotel for them.  I am trying to put together a good reading list for them to choose from - anything from history of Nepal, to the environment, and of course religion, art and culture. I have already included a few of David Gellner's books, Todd Lewis' Popular Buddhism, and Whelpton's History of Nepal.
+
+If any of you have recommendations to add, I would be most grateful. I am happy to circulate the results of this reading list after I am done putting it together. Of course, if you have great articles to include, I will happily to include those as well.
+
+Best wishes,
+Vanessa R. Sasson
+Religious Studies
+Marianopolis College
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140930/e915da34/attachment.htm>

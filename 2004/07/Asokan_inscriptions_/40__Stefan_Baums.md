@@ -1,0 +1,34 @@
++++
+title = "40 Stefan Baums"
+date = "2004-07-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-July/028431.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-July/028431.html)
+
+We have the text of the Mansehra and Shahbazgarhi versions online
+at the EBMP site:
+
+   http://depts.washington.edu/ebmp/software.html
+
+This is based on the Hultzsch edition, input in 1997 by Nakatani
+Hideaki (contact details in the file), and with corrections by
+Andrew Glass.
+
+I am not aware of more comprehensive online resources, but would
+also be interested to learn of such.  Maybe the Indoskript project
+
+   http://www.indoskript.de/
+
+has done something in that direction, but if so it’s not on their
+website yet.
+
+Stefan
+
+--
+Stefan Baums
+Asian Languages and Literature
+University of Washington
+
+
+

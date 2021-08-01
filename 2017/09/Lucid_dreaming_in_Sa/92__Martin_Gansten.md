@@ -1,0 +1,26 @@
++++
+title = "92 Martin Gansten"
+date = "2017-09-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046558.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-September/046558.html)
+
+In recent years there has been a surge of popular books on the topic of 
+cultivating one's ability to experience lucid dreams -- that is, dreams 
+in which the dreamer is aware that he/she is dreaming and is able to a 
+greater or lesser extent to influence the unfolding of dream events; 
+extreme clarity and wealth of detail are other commonly reported 
+features. Some of these books expound (with varying degrees of 
+knowledge, or so it seems to a non-Tibetologist like myself) on the 
+connection between lucid dreaming and Tibetan 'dream yoga'. But what 
+about Sanskrit sources? Are there any works in Sanskrit -- Buddhist or 
+otherwise -- dealing with such states of mind and/or practices? I know 
+of works on svapnaśāstra in the sense of oneiromancy, but that is all.
+
+Martin Gansten
+
+
+
+
+

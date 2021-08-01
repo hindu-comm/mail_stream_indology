@@ -1,0 +1,40 @@
++++
+title = "24 Zimmermann, Michael"
+date = "2020-07-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-July/052975.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-July/052975.html)
+
+
+Dear Colleagues,
+
+We are pleased to announce a new three-volume publication (in German) in our Hamburg Buddhist Studies series on the topic of meat eating and vegetarianism in Indian Buddhism by Lambert Schmithausen:
+
+Lambert Schmithausen, Fleischverzehr und Vegetarismus im indischen Buddhismus bis ca. zur Mitte des ersten Jahrtausends n. Chr., 3 volumes, Bochum/Freiburg: projektverlag, 2020
+
+
+Summary:
+Vegetarianism and Buddhism is often assumed to go hand in hand, but this is hardly factual. The main focus of these three volumes is to show how an attitude which can be labelled as strictly vegetarian came into existence in Indian Mahāyāna Buddhism and how it manifested in three important texts of the Mahāyāna: the Mahāparinirvāṇa-, the Aṅgulimālīya- and the Laṅkāvatāra-sūtra. Based in large parts on these three texts, Lambert Schmithausen portrays the thoughts, arguments and motives which promoted vegetarianism among Buddhists in a relatively late period (ca 4th century CE), when Buddhism had already been in existence for more than seven hundred years. He discusses the special features and common line of arguments in these three texts and translates their most important passages. Text critical editions of these important text parts in Sanskrit, Tibetan and Chinese are found in the third volume and are meant to serve the specialists of Buddhist textual history to access the original wording of these sūtras.
+Schmithausen convincingly shows that this pronounced vegetarian strand of Buddhism is in stark contrast to traditional mainstream Indian Buddhist attitudes regarding the consumption of fish and meat. There are no traces in the literary traditions of early Buddhism that a broad vegetarian diet might have been part of the daily routine of the large majority of Buddhist monks and nuns or followers. An attempt at prescribing a strictly vegetarian diet is even expressly discarded. Still, there are certain restrictions concerning the consumption of meat. In the first part of the book these restrictions are portrayed based on the relevant source texts. They are discussed in light of their origins, possibly deriving from ethical considerations, ascetic practices and widely accepted societal norms.
+Another important issue raised by Schmithausen is the question whether the turn to a vegetarian diet in Indian Mahāyāna Buddhism has its roots in Buddhism itself or whether it was inspired by a rigid anti meat attitude found in influential sectors of Hindu society. Chapter IV deals with this question and discusses ideas from inside the early Buddhist traditions that could have triggered or supported the emergence of Buddhist vegetarianism which later so deeply influenced the dietary norms in East Asian Buddhism
+
+See: https://www.buddhismuskunde.uni-hamburg.de/en/ueber-uns/aktuelles/21-publikation-schmithausen2020.html
+
+Best regards,
+Michael Zimmermann & Steffen Döll
+
+  --------
+  Numata Center for Buddhist Studies
+  Universität Hamburg
+  Alsterterrasse 1
+  D-20354 Hamburg
+  Germany
+
+  www.buddhismuskunde.uni-hamburg.de<http://www.buddhismuskunde.uni-hamburg.de>
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200716/f1653f53/attachment.htm>

@@ -1,0 +1,25 @@
++++
+title = "08 Allen W Thrasher"
+date = "2005-08-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-August/029290.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-August/029290.html)
+
+Does anyone have recent contact information for the distinguished Gujarati writer Sitanshu Yashaschandra?  I would be most grateful to have it.
+
+Allen Thrasher
+
+
+
+
+Allen W. Thrasher, Ph.D., Senior Reference Librarian
+South Asia Team, Asian Division
+Library of Congress, Jefferson Building 150
+101 Independence Ave., S.E.
+Washington, DC 20540-4810
+tel. 202-707-3732; fax 202-707-1724; athr at loc.gov
+The opinions expressed do not necessarily reflect those of the Library of Congress.
+
+
+

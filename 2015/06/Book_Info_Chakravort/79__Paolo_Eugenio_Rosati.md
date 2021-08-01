@@ -1,0 +1,35 @@
++++
+title = "79 Paolo Eugenio Rosati"
+date = "2015-06-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041180.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-June/041180.html)
+
+Dear Indologist,
+
+I am looking for this book:
+
+Pallabi Chakravorty & S. A. Kugle. (2009). *Performing Ecstasy: The Poetics
+And Politics Of Religion In India*. Manohar: [I am also unsure about the
+place of publication].
+
+anyone can sand me the index of it? I would check if is there anything of
+interest for my PhD research.
+
+Best,
+Paolo
+
+-- 
+Paolo Eugenio Rosati
+'Sapienza' University of Rome
+Dep. Italian Institute of Oriental Studies
+PhD candidate in Civilisations of Asia & Africa
+Section: South Asian Studies
+
+Skype:  paoloe.rosati
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150601/6eb21022/attachment.htm>

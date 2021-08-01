@@ -1,0 +1,34 @@
++++
+title = "126 Swaminathan Madhuresan"
+date = "2000-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021021.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021021.html)
+
+>At the AOS meeting in Baltimore (1999), Joshua Katz gave a paper on "How the
+>Mole Got his Name" [...]    Reading his handout, I see that he emphasizes
+>that we are dealing indeed with Mongooses, NOT ichneumons. As for mongooses
+>in India, he says that "we find a number of kinds of mongoose (the word
+>mongoose [and other spellings; cf. Germ. Mungo] is a borrowing from
+Dravidian),
+>including two species in the north: Herpestes edwardsi (Common or Indian
+>Grey Mongoose) and Herpestes auropunctatus (Golden or Small Indian Mongoose).
+> Katz refers to:
+>- Encyclopedia of Indian natural History 97; R.F. Ewer, The Carnivores
+>(Ithaca, NY 1973), 402f.; Walker's Mammals of the World (II.), 1043f.
+
+  Mongooses occur in Tolkaappiyam, said to be the earliest extant work.
+  "mUGkA" is the tamil for mongoose.
+
+   "mUGkA veruku eli mUvari aNiloTu
+    AGku avai nA_nkum kuTTikku uriya" -tol.
+
+
+__________________________________________________
+Do You Yahoo!?
+Send online invitations with Yahoo! Invites.
+http://invites.yahoo.com
+
+
+

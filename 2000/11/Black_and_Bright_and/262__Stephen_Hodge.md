@@ -1,0 +1,40 @@
++++
+title = "262 Stephen Hodge"
+date = "2000-11-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023806.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023806.html)
+
+Valerie J. Roebuck wrote:
+> This seems to represent the Sanskrit word s'yAma, which is
+black/dark
+> blue/green with connotations of "attractive" or "beautiful".  It is
+used
+> for e.g. the skin-colour of KRSNa, the colour of a rain-cloud, and
+(in
+> KAlidAsa, I think) for the colour of fresh grass after rain.
+This seems a very reasonable explanation though looking through all
+the Tib/Skt indices and dictionaries I have, "sngon-po" is
+overwhelmingly the word of choice for "niila", occasionally for "hari"
+and very rarely for "`syaama" for which another word is normally used;
+and as I previously mentioned, I have only found "sngon-po" for the
+skin-colour of Indians in native works not translations.   I can only
+surmise that it must have entered into use in this way from some
+translated text which had "sngon-po" for "`syaama".
+While we are talking about "black/white", I can mention that the
+Tibetan word for India is "rgya-gar" (white expanse) and "rgya-nag"
+(black expanse) for China -- apparently because of the predominant
+soil colour in Tibetan eyes.
+Colour terminology can be quite surprising -- I have a Japanese book
+which gives a huge range of terms with colour samples which shows that
+a number of colours given conventinoal translations in English are
+actually quite different to what we would call them ourselves -- the
+word for purple being one example.   I wonder if anything has been
+produced like this for other languages.
+
+Best wishes,
+Stephen Hodge
+
+
+

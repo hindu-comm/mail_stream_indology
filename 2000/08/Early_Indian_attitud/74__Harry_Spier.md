@@ -1,0 +1,36 @@
++++
+title = "74 Harry Spier"
+date = "2000-08-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-August/022252.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-August/022252.html)
+
+Dear list members,
+
+In the last few centuries what were the Indian attitudes to passing on to
+the western colonizers the traditional knowledge of:
+
+1)The Sanskrit language and literature in general.
+
+2)The Vedas.  When western editions of the Vedas were being prepared in the
+last century was this done only from manuscripts or were the Brahmin priests
+willing to recite them to foreigners.
+
+3)Would it have been controversial for a Brahmin priest or traditional
+pandit to cooperate with a western indologist.
+
+Many thanks,
+
+
+
+Harry Spier
+371 Brickman Rd.
+Hurleyville, New York
+USA 12747
+
+________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com
+
+
+

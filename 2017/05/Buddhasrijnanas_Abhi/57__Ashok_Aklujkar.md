@@ -1,0 +1,35 @@
++++
+title = "57 Ashok Aklujkar"
+date = "2017-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-May/045729.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-May/045729.html)
+
+I
+> On May 5, 2017, at 10:44 AM, Péter-Dániel Szántó <peter.daniel.szanto at gmail.com <mailto:peter.daniel.szanto at gmail.com>> wrote:
+> 
+> >Thank you for your kind advice, but unfortunately this work lists only pramāṇa-related manuscripts.<
+
+If you have not already done so, you could inquire with the director of the library (
+Museum Bldgs, Patna 800001, Bihar, India). Obviously there are more Sankrityayaya ms. negatives at the library than the ones Mr. Much studied. 
+At http://timesofindia.indiatimes.com/city/patna/Bihar-Research-Society-will-go-online-in-a-mth/articleshow/52542508.cms <http://timesofindia.indiatimes.com/city/patna/Bihar-Research-Society-will-go-online-in-a-mth/articleshow/52542508.cms>, the Times of India [Patna edition?] of June 1, 2016, informs: 
+
+Patna: Bihar Research Society (BRS), the research and publication wing of Patna Museum, is set to go online within a month.
+Sources said the digitization work of 10,000 rare Buddhist manuscripts, written in Tibetan, is complete. The task was assigned to Delhi-based document management systems firm, CBSL. Now, the soft copy of these rare manuscripts is available in a hard disc. The disc is available for scholarly purposes with permission from the director.
+Keeping in mind that a large number of people would like to know about the history and tradition recorded in the Buddhist manuscripts, it has been decided that all the records would be put online. 
+
+"Anyone who wants to know the history can visit the site, the address of which will be announced shortly," said a source in the museum.
+These manuscripts, between 400 and 700 years old, had earlier been in news for the rare inscription in gold and silver ink on their cover pages. These Buddhist documents are the translated versions of original Sanskrit versions, which were destroyed over time. A museum official said they had also plans to translate the manuscripts in Hindi.
+
+"The museum had inked an MoU with Central University of Tibetan Studies, Sarnath, for translation and publication of these texts in Hindi, on March 4, 2015, but since the progress was not very satisfactory, it has been decided that anyone with requisite knowledge can do it. The person translating the manuscripts available online will be paid by the museum," he said.
+
+Director, Dr J P N Singh confirmed the development. "It has been decided to put the manuscripts online and award the translation task cutting the geographical limitations. We have also decided to pay remuneration for the task. We have almost completed the process. It will begin in a month.”
+
+a.a.
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170505/a7287516/attachment.htm>

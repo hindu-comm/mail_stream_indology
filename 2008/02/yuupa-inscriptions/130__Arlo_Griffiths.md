@@ -1,0 +1,29 @@
++++
+title = "130 Arlo Griffiths"
+date = "2008-02-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-February/031478.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-February/031478.html)
+
+Is anyone aware of further literature about, or discoveries of new  
+inscribed Yuupas, besides those assembled in B. Ch. Chhabra, "Yuupa  
+Inscriptions", in India Antiqua (Fel. Vol. J. Ph. Vogel, Leiden 1947)?
+
+Does anyone have access to or know about good illustrations? (I have  
+found the AIIS photo of the Badva Yuupa that is available online.)
+
+Thank you,
+
+Arlo Griffiths
+Instituut Kern, Universiteit Leiden
+Postbus 9515
+2300 RA Leiden, the Netherlands
+
+phone: +31-(0)71-5272622
+fax: +31-(0)71-5272956
+email: <arlo.griffiths at let.leidenuniv.nl>
+<www.kerninstitute.leidenuniv.nl>
+
+
+

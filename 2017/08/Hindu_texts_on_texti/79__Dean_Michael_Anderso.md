@@ -1,0 +1,22 @@
++++
+title = "79 Dean Michael Anderson"
+date = "2017-08-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046434.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046434.html)
+
+Someone ask if I knew any Hindu " texts that talk about fabrics - dying, weaving, patterns and wearing?  "
+
+I'm only aware of the research on the Tarim basin which isn't really what they're looking for. 
+
+Any suggestions?
+
+Best,
+
+Dean Anderson 
+East West Cultural Institute 
+
+
+
+

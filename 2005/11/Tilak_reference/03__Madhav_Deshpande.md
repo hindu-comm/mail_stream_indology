@@ -1,0 +1,39 @@
++++
+title = "03 Madhav Deshpande"
+date = "2005-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-November/029426.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-November/029426.html)
+
+I don't have access to the original publication of this piece by Tilak, but this article titled "Chaldean and the Indian Vedas" (originally published in the Bhandarkar Commemorative Volume) was reprinted in his posthumous book Vedic Chronology and Vedanga Jyotisha, 1925, Pune: Messrs Tilak Brothers, Gaikwar Wada.  If you need, I can give page numbers from this publication.
+
+
+Madhav M. Deshpande
+
+
+-----Original Message-----
+From: Indology on behalf of George Thompson
+Sent: Tue 11/1/2005 11:51 AM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Tilak reference?
+
+Dear List,
+
+I am in the process of reading the proofs of an article that I have 
+written.  The editors would like a full reference to the following.
+
+In Keith's *Religion & Philosophy of the Veda & Upanisads* vol. p. 81 n. 
+2, there is reference to an article by Tilak in *The Bhandarkar 
+Commemorative Volume*, pp. 32 ff.  Would anyone on the list know full 
+title of the volume, with date, the name of the article and the pages 
+numbers occupied by it?
+
+Thanks in advance for help.
+
+George Thompson
+
+>
+
+
+

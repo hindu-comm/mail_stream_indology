@@ -1,0 +1,43 @@
++++
+title = "150 Anand M. Sharan"
+date = "2000-09-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022709.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022709.html)
+
+I have posted the Part I where I have indicated that Iron was being in use
+in the days of Mahabharat . The date of Mahabharat was estimated to be
+earlier than 1700 BCE i.e. begore the Saraswati river dried out .
+
+With the revised dates of events about the Hitites, which have been moved
+to later years by a few centuries, there does not appear to be any gap
+between the use of iron between India, and Turkey or any other neighbouring
+countries.
+
+There are a few reasons for it -
+
+1. The bronze technology was quite well developed in the Indus Valley.
+
+2. There were migrations from the Indus Valley to other places within India
+where the source of iron was.
+
+3. There was trade between India, Iraq, Egypt ( Some of the mummies had
+clothes made of Indian Cotton )  during the beginning of iron age in those
+countries . Hence, it was normal to have the technologies transferred, if
+those areas were better off in technology .
+
+4. The furnaces which were used for bronze making, could also be used for
+iron smelting.
+
+5. India had much richer, and abudant source of iron . It was quite
+possible that this technological leap happened in India .
+
+I would welcome any comments on these points.
+
+Thanks.
+
+Anand M. Sharan
+
+
+

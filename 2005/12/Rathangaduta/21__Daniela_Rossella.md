@@ -1,0 +1,20 @@
++++
+title = "21 Daniela Rossella"
+date = "2005-12-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2005-December/029507.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2005-December/029507.html)
+
+Dear lists, someone can kindly give me news about a certain Rathangaduta, of
+which I have the Sanskrit text, published in Mumbai in 1857? It does not
+appear in any lists of dutakavyas presented in also very recent studies
+about the messenger-poems, like that of Lalita Sengupta (2003).
+I am eagerly looking for an English or a Hindi translation of this little
+(97 stanzas) work.
+Thank you so much.
+Daniela
+(ghezziem at tin.it)
+
+
+

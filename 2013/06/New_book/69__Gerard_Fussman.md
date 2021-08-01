@@ -1,0 +1,38 @@
++++
+title = "69 Gerard Fussman"
+date = "2013-06-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2013-June/038098.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2013-June/038098.html)
+
+I am glad to announce the publication of the following book which demonstrates, through incontrovertible archaeological evidence, that Buddhism and Buddhist (Indian) artistic creation were flourishing at Kabul upto the 10th c. A.D., i.e. several decades after the first Muslim inroads.
+
+Gérard Fussman
+
+Professor (rtd.) at the Collège de France.
+
+
+
+
+
+Zafar PAIMAN, Tepe Narenj à Caboul, ou l’art bouddhique à Caboul au temps des incursions musulmanes/ The Tepe Narenj Buddhist Monastery at Kabul. Buddhist Art During the First Muslim Raids Against the Town, avec une contribution de Michael ALRAM pour les monnaies, I, Chronologie, bâtiments, céramiques et monnaies. Publications de l’Institut de Civilisation Indienne du Collège de France, fasc. 82, in-4°, 154  pages dont 16 planches en couleurs et 17 en noir et blanc. ISBN  978-2-86803-082-5. 71 €.
+
+In French (buildings and chronology) and English (coins), with English, Persian and Pashto summaries.
+
+Available from De Boccard, 11 rue de Médicis, 75006 Paris. www.deboccard.com.
+
+
+
+This is the Final Report of the Afghan excavations at Tepe Narenj (2004-2012), started and entirely directed by the author of the book. Tepe Narenj is the name given to a rocky spur located in the Southern part of today Kabul. It was entirely covered with Islamic graves when the dig begun. The ancient remains hidden under these graves are now entirely cleared and preserved. Two nearby places could also be excavated, smaller than the main dig, but yielding impressive results. All the excavated buildings belong to the latest period of a huge mahasanghika monastery dating back to the 2nd or 3rd c. A.D., now entirely covered by multiple layers of graves belonging to one of the most important and revered Islamic cemeteries in Kabul, where it is now impossible to conduct archaelogical excavations. They were filled with colossal clay statues. The stratigraphic analysis and the coins demonstrate that most of these buildings and statues were made after 870 A.D., i.e. at after the first Arab raids against Kabul. This volume contains the description and the fullest possible illustration of the finds (buildings, sculptures, ceramics, coins). Volume II will contain the historical and art comments. 
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20130629/77314569/attachment.htm>

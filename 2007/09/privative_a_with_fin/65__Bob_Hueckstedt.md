@@ -1,0 +1,46 @@
++++
+title = "65 Bob Hueckstedt"
+date = "2007-09-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-September/031151.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-September/031151.html)
+
+See Astadhyayi 6.3.73 (72 in Kielhorn's edition of the Mahabhasya) 
+nalopo na~na.h. The varttika on that sutra calls for the inclusion of 
+the a-privative even with finite verbs. The Mahabhasya on that varttika 
+gives as examples:
+
+	apacasi vai tva.m jaalma
+	akaro.si vai tva.m jaalma
+
+I do recall seeing such a usage outside grammatical texts, but I don't 
+recall where.
+
+Bob Hueckstedt
+
+L.S. Cousins wrote:
+> Jonathan,
+> 
+> BHSD (s.v. a-) says this occurs rarely in Skt and refers to Renou's 
+> grammar p. 175. There are quite a few examples for Pali given in CPD 
+> under its fourth a- s.v. 7.
+> 
+> Lance
+> 
+>> Friends,
+>>
+>> I have the impression that I have seen, in Buddhist texts at least,
+>> privative a affixed to finite verbs (but my memory gets worse and 
+>> worse, and
+>> maybe I'm imagining this...). Now I have a passage which may need
+>> emendation, or perhaps not, if it can be demonstrated that such forms 
+>> exist,
+>> whether Paninian or not. (This may even be discussed in Wackernagel, for
+>> instance, but I'm not sure I  would even know how to look for it...). Any
+>> advice will be much appreciated!
+>>
+>> JAS
+
+
+

@@ -1,0 +1,29 @@
++++
+title = "110 Koenraad Elst"
+date = "1999-12-08"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019399.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019399.html)
+
+Alright, Dr. Thompson, let's treat Indology as a science too.  And Saraswati
+as a legitimate object of indological discussion, considering its prominence
+in the Rg-Veda.  What firm
+data does Indology have on the identification of a real or imaginary object
+as "Saraswati"?
+
+For once, I have mainstream opinion on my side: most scholars now accept
+that the Saraswati is to a physical river, as is clear from their
+discussions on whether a river in India or one in Afghanistan is meant.  The
+first verse that comes to mind where Saraswati can hardly be anything except
+an earthly river, is the famous river hymn (10:75), where it is listed along
+with the
+Ganga, Yamuna, Sindhu etc.  If you can convince me that a heavenly river was
+inserted amid the north-Indian rivers, I'll return a second verse.
+
+Yours sincerely,
+Koenraad Elst
+http://members.xoom.com/KoenraadElst/
+
+
+

@@ -1,0 +1,58 @@
++++
+title = "176 Vanbakkam Vijayaraghavan"
+date = "2000-11-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-November/023781.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-November/023781.html)
+
+On Fri, 10 Nov 2000 11:39:49 GMT, Maran Kathirchelvan
+<maran_kathirchelvan at HOTMAIL.COM> wrote:
+
+
+>Dr. Ganesan is correct.  There ARE hundreds of references to Saivam.
+>It appears that Mr. Vijayaraghavan is not familiar with any Tamil
+>literature.
+>Perhaps that is why he wrote:
+>
+>>>Well, I was expecting a few from the hundreds of examples which you know
+>>>i.e. of the usage of the words Saivam and VaiNavam.
+
+
+Dear Sir
+
+While I thank you for the prodigious amount of reference you have given, I
+am dismayed at your comments, which do not sound logical. You sume that
+familiarity with ANY tamil literature will lead to all the references you
+have given. I did write that the search I did with Cologne ebase yielded
+negative result
+
+
+I also notice that you have failed to give any reference for VaiNavam.
+
+
+>So, here are a few excerpts from the references that I could find.
+>
+>Sorry for the long post.  Since Mr. Vijayaraghavan often gets away with
+long
+>posts, I hope the Administrator will allow me too, this time.
+>
+>Regards,
+>
+>Maran T.
+
+
+These are wholly unwarranted and untrue comemnts. My last 5 posts had
+lengths 11 lines, 20 lines, 73 lines, 153 lines and 34 lines. The longer
+posts were due to reproduction of other's posts or combining 3 replies in
+one post. If this is what you term as "long" and "often", I would request
+you to use your arithmetic sense, which I am sure you possess in abundance.
+If you want to make a post of 316 lines , it is between you and the list
+admin and there is no need to drag my name
+
+Regards
+
+Vijayaraghavan
+
+
+

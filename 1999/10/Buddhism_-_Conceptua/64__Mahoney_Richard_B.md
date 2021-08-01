@@ -1,0 +1,47 @@
++++
+title = "64 Mahoney, Richard B"
+date = "1999-10-12"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-October/018700.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-October/018700.html)
+
+Dear Nanda
+
+Not being qualified to remove your doubts, I'm referring you to others who
+are:
+
+For a good overview of the central issues of Early MAdhyamika, cf.
+
+Huntington, C., "The Emptiness of Emptiness: An Introduction to
+Early Indian MAdhyamika", esp. Section 5, "The Emptiness of Emptiness:
+Philosophy as Propaganda", 105-42.
+
+For a useful approach to the whole business of Buddhist philosophical
+speculation, cf.
+
+Cabezon, J., "Buddhism and Language: A Study of Indo-Tibetan
+Scholasticism" (Albany: SUNY, 1994).
+
+For NAgArjuna's own attitude towards the beliefs of TIrthikas, ZrAvakas,
+YogAcArins and others, cf. his
+
+"BodhicittavivaraNa" in Lindtner, C., "Nagarjuniana: Studies in the
+Writings and Philosophy of NAgArjuna (Copenhagen: Akademisk Forlag, 1982).
+Note: Motilal Banarsidass have re-printed this.
+
+
+When considering the great variety of definitions and concepts suggested
+by an equally great variety of Buddhist scholars, it is perhaps worth
+keeping one thing in mind.  It can be, and has been, argued that all these
+definitions and concepts derive their meaning only from being used by a
+particular group of people at a particular time.
+
+
+Hope these leads help.
+
+--
+Regards  Richard Mahoney
+
+
+

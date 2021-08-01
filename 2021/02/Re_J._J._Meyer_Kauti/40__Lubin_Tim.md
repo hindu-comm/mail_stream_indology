@@ -1,0 +1,87 @@
++++
+title = "40 Lubin, Tim"
+date = "2021-02-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-February/054192.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-February/054192.html)
+
+Dear all,
+
+
+
+I replied to Harald privately, but others may be interested to know (if they don't already) that Meyer's entire German translation of Kauṭilya's Arthaśāstra is available online in HTML format here:
+
+    http://www.zeno.org/Philosophie/M/Kau%E1%B9%ADilya
+
+
+
+Best,
+
+Tim
+
+Timothy Lubin
+Jessie Ball duPont Professor of Religion and Adjunct Professor of Law
+204 Tucker Hall
+Washington and Lee University
+Lexington, Virginia 24450
+American Council of Learned Societies fellow, 2020–21
+National Endowment for the Humanities fellow, 2020–21
+https://lubin.academic.wlu.edu/<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flubin.academic.wlu.edu%2F&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521888642%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=KGZJIHllkEOJZN9s48rB6YkrExmYG1owecyuPn%2FuR%2Bg%3D&reserved=0>
+http://wlu.academia.edu/TimothyLubin<https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwlu.academia.edu%2FTimothyLubin&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521888642%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=etrMzh0RHx8819v5PH6KeTgeHQpeNVqeSUP62IDVn9c%3D&reserved=0>
+https://ssrn.com/author=930949<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fssrn.com%2Fauthor%3D930949&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521888642%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=F9JfpSkLrSfrImfMeIXPIjpUIVYIYcwfbvm8dqcxedE%3D&reserved=0>
+https://dharma.hypotheses.org/people/lubin-timothy<https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdharma.hypotheses.org%2Fpeople%2Flubin-timothy&data=04%7C01%7CLubinT%40wlu.edu%7C118620c8eb3b4049237308d886c1df18%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637407514521898628%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sncUovdIh9wA0ezo8n2xpYpllaMKMetH86tMA6Jtg9A%3D&reserved=0>
+
+
+
+
+
+
+
+
+On 2/9/21, 4:48 AM, "Wiese" <wiese at wifa.uni-leipzig.de> wrote:
+
+
+
+    Dear list members,
+
+
+
+    I would be happy to receive scans of
+
+
+
+    a) Johann Jakob Meyer: Das altindische Buch vom Welt- und Staatsleben.
+
+    Das Arthacastra des Kautilya, Leipzig 1926.
+
+    b) DevaNabhaTTa: SmRticandrikA, vyavahArakANDa, Part III (The first two
+
+    parts of the vyavahAra section are found at archive.org
+
+
+
+    Yours sincerely
+
+
+
+    Harald Wiese
+
+    University of Leipzig
+
+    wiese at wifa.uni-leipzig.de
+
+    _______________________________________________
+
+    INDOLOGY mailing list -- indology at list.indology.info
+
+    To unsubscribe send an email to indology-leave at list.indology.info
+
+    indology-owner at list.indology.info (messages to the list's managing committee)
+
+    https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Flistinfo.indology.info%2F&data=04%7C01%7Clubint%40wlu.edu%7Cce0b799d2f2646dd0ce208d8ccdfcf74%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637484608934616515%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=HWKusnoluEssFVVkGv%2Bgyk%2BWI5oyHttxqq7nPcNy4y0%3D&reserved=0 (where you can change your list options or unsubscribe)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210209/7d9e64c8/attachment.htm>

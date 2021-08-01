@@ -1,0 +1,19 @@
++++
+title = "49 oliver fallon"
+date = "2004-12-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-December/028859.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-December/028859.html)
+
+It is a matter of opinion as to the nature of the IVC whether it is a topic for this list. It would seem essential that the discussion stays here as this is the only well moderated list that covers all aspects of classical Indology. As those who disrupted the list have moved on and are now disrupting other lists such as 'Abhinavagupta' we should regard this as a haven where intelligent discussion of this very interesting theory can take place. Where topics are clearly labelled, those with no interest can simply skate over posts which they do not want to read. A specific Harrappa/IVC list would be interesting only if well moderated and if the major researchers were regular contributors.
+
+Oliver Fallon
+
+
+---------------------------------
+Do you Yahoo!?
+ Meet the all-new My Yahoo! � Try it today!
+
+
+

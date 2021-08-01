@@ -1,0 +1,50 @@
++++
+title = "23 Sudalaimuthu Palaniappan"
+date = "2007-09-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2007-September/031126.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2007-September/031126.html)
+
+
+Dear Dr. Orelskaya,
+
+Thank you.
+
+I have seen the 200 BC - 200 AD/2nd century BC - 2nd century AD date cited  
+in many articles too. In fact, have also seen dates as early as 5th century  
+BC! But I would like to know if rigorous work has been done to identify the  
+different layers belonging to different dates. In other words, has there been  
+any scholarly work in recent years justifying dates earlier than the one  
+suggested by Prof. Gerow for any part of nATyazAstra? I would appreciate any  
+references.
+
+Thanks in advance.
+
+Regards,
+S. Palaniappan
+
+In a message dated 9/7/2007 3:19:14 P.M. Central Daylight Time,  
+m_orelskaya at YAHOO.COM writes:
+
+Dear Dr.  Palaniappan,
+
+the main core of the nATyazAstra is often dated  as
+belonging to the period from 200 B.C. to 200 A.D. 
+Apparently, the  text continued to be shaped for
+centuries after that.
+Hope, this  helps.
+
+Best,
+Marina Orelskaya
+
+
+
+
+
+
+
+************************************** See what's new at http://www.aol.com
+
+
+

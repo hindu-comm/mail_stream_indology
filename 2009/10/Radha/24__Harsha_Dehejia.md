@@ -1,0 +1,55 @@
++++
+title = "24 Harsha Dehejia"
+date = "2009-10-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-October/033669.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-October/033669.html)
+
+Friends:
+
+
+
+A seminar on Radha is being held in Delhi on Friday January 29, 2010.
+
+
+
+This is being jointly organised by me and the department of Art & Aesthetics of the Jawaharlal Nehru University.
+
+
+
+Please let me know if any of you are interested in attending.
+
+
+
+There is no travel grant but accommodation could be arranged.
+
+
+
+Regards.
+
+
+
+Harsha V. Dehejia
+
+College of Humanities
+
+Carleton University, Ottawa, ON.
+
+Canada.
+
+
+
+Radha
+
+her transformation from a gopi to a goddess
+
+Despite a rich presence in the visual and performing arts Radha remains an enigmatic figure in the shringara tradition. Emerging from Jayadeva’s Gita Govinda Radha takes a number of different courses. In the hands of ritikal poets of the 17th and 18th centuries she becomes a courtly nayika and features in countless taxonomies of the romantic woman. Chaitanya who takes his stand on the Gita Govinda makes her into a consort of Krishna and devotees of Gaudiya Vaishnavism hail her with the words Radhe! Radhe!. In the traditions of Maharashtra and Tamil Nadu Radha is conspicuous by her absence. In the folk tradition of Bengal Radha is sometimes seen as a kalankini or defiled woman. Despite this philosophers and critics, choreographers and miniature artists celebrate her in many different ways. The seminar will investigate the many sides of Radha in her journey from a gopi to a goddess.
+
+
+
+
+
+
+
+

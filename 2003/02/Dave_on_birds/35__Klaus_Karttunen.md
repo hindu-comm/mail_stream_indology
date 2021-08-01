@@ -1,0 +1,29 @@
++++
+title = "35 Klaus Karttunen"
+date = "2003-02-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-February/027497.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-February/027497.html)
+
+When you read the cover and preface of Dave, it turns out that the man
+was 99 years old when he finished it and had worked on it many many
+years. The book is thus sort of life's work. He was both a Sanskrit
+scholar and an enthuasiastic ornithologist. A major problem was that he
+wanted ancient Indians to be ornithologists, too, and tried to find
+exact names for as many species as possible. Thus there are cases where
+he takes two Sanskrit names which I suppose to be synonymous and
+explains them as the names of two related species. Here we must be
+careful, but the book is very useful, indeed. By the way, zoological
+information about Indian birds can be find in the books of Salim Ali
+Regards
+Klaus
+--
+Klaus Karttunen, Ph.D.
+Docent of Indology and Classical Ethnography
+Institute of Asian and African Studies
+PL 59 (Unioninkatu 38 B), 00014 University of Helsinki, FINLAND
+phone 358-0-19122188, fax 358-0-19122094
+
+
+

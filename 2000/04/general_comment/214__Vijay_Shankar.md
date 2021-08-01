@@ -1,0 +1,23 @@
++++
+title = "214 Vijay Shankar"
+date = "2000-04-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-April/021104.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-April/021104.html)
+
+Thwere was a time when if anyone wished to publish a paper he/she had to
+forward it  through ameber of a learned society. Then cama a stage where
+one could submit a research article/comments in his/her own right,without
+having any pre-established social or professional credentials.Now ,thanks
+to internet ,we have reached a stage where we can go on record without any
+peer review or expert evaluation.Moreover the forum is multi-cultural and
+multi-ethnic.This free-for-all atmosphere should encourage cross-
+fertilization of ideas and not mud-slinging
+Under the cicumstances,it is necessary that we take peoples' opinion at
+face value,and respond to it at the same level.It is unfair to attribute
+motives or cast aspersions. A person should  not be judged ,only his/her
+views.
+
+
+

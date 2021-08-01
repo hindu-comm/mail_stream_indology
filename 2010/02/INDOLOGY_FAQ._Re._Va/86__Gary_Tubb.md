@@ -1,0 +1,41 @@
++++
+title = "86 Gary Tubb"
+date = "2010-02-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-February/034051.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-February/034051.html)
+
+Dominik, we may be dealing here with, more precisely, English word 
+rhythm choices earmarked for attacking foreign words.  In speaking to 
+earlier generations of students, I used to call this the "Art Fleming 
+syndrome."  Art Fleming was the host of the television quiz show 
+"Jeopardy" throughout most of the '60's and '70's, and among his many 
+charms was the notorious practice of pronouncing every unfamiliar 
+foreign word as if it were Spanish (actually Spanish with an American 
+English accent, which would have him pronounce words like Ramayana and 
+Mahabharata with the stress on the penultimate syllable, but with a 
+non-Spanish reduction of the preceding vowel).  Mr. Fleming did this 
+with such confidence (following the advice of another great American 
+showman, P.T. Barnum: "If you don't know how to pronounce a word, say it 
+LOUD") that he probably helped millions feel reassured in indulging the 
+same instinct.
+
+What causes speakers of North Indian languages such as Hindi to make a 
+similar shift in some English place names, such as "amriikaa" for 
+"America"?  Has Portuguese or some other language intervened in the 
+history of this word?
+
+--G.
+
+Dominik Wujastyk wrote:
+> Some notes on English word stress rules:
+>
+> http://www.englishclub.com/pronunciation/word-stress-rules.htm
+>
+>
+> D
+>   
+
+
+

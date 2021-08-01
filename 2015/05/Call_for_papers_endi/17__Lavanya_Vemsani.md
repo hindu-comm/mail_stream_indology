@@ -1,0 +1,24 @@
++++
+title = "17 Lavanya Vemsani"
+date = "2015-05-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2015-May/041174.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2015-May/041174.html)
+
+Hello All, 
+I would like to send a gentle reminder that the Uberoi sense Call for papers is ending Today by Midnight May 29, 2015).
+Thank you.
+Lavanya
+Call for Papers
+Uberoi Seminar at Shawnee State University, OHIO, USA
+We are excited to announce the interdisciplinary conference, Indian Cultural Heritage in the Global Age, which will take place at The Shawnee State University, Portsmouth, Ohio, October 29-30, 2015. The conference brings together academic research on India, its religious and cultural history. India is home to a number of religions such as Hinduism, Buddhism, Jainism, and Sikhism collectively referred to as the Dharma traditions. As India gains economic momemtum and enters the global arena, its cultural traditions and religious practices adopt to change, and reach countries outside of India. While Yoga, and Vegetarianism are ubiquitous with India, other aspects of Indian culture are not as well known. In a global world, it is more than ever necessary to understand India, its culture and religions.  Hence we seek papers on all aspects of Indian culture and religions.
+Additionally, selected papers will be included in a collection of essays resulting from the conference.
+Please send a 350-word abstract and brief (one paragraph maximum) bio to lvemsani at shawnee.edu by May 29, 2015 (11:59pm). Notifications of acceptance will be sent by June  29, 2015 and the program will be announced by July 29, 2015. 
+
+Sent from my iPhone
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20150529/4258e638/attachment.htm>

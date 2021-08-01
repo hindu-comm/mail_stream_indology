@@ -1,0 +1,19 @@
++++
+title = "28 Sudalaimuthu Palaniappan"
+date = "2010-09-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2010-September/034734.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2010-September/034734.html)
+
+Dear Indologists,
+
+Tamil uvaccars are known as a non-brahmin caste in modern times. But medieval inscriptions show that uvaccar represented merely an occupational category and both brahmins and non-brahmins have received uvaccakkANi. I have a question in connection with a similar group involved in Zaiva temples. What do the zaiva Agamas say about the caste of those who sing the tEvAram hymns in the Zaiva temples? What are the dates of these Agamas?
+
+Thanks in advance
+
+Regards,
+Palaniappan
+
+
+

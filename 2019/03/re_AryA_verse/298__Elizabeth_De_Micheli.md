@@ -1,0 +1,46 @@
++++
+title = "298 Elizabeth De Michelis"
+date = "2019-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-March/049509.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-March/049509.html)
+
+ Dear Madhav,
+I would also be very interested to hear the audio recording of the verse(s).... Thank you for sharing it if possible.
+With best regards,
+Elizabeth De Michelis(Independent scholar)
+
+
+
+
+
+
+    On Friday, 15 March 2019, 16:24:02 CET, David and Nancy Reigle via INDOLOGY <indology at list.indology.info> wrote:  
+
+ Dear Madhav,
+Your recording did not come through. I, too, would be anxious to hear it. 
+
+While writing, I have long been wanting to say how much I have benefited from your verses. It is very rare that we can know for sure what a writing in Sanskrit means, directly from the author. This is especially so for metrical verses. Your accompanying English translations are really helpful. I look forward to my daily Sanskrit lessons from you, in the form of your lovely verses.
+
+Best regards,
+David ReigleColorado, U.S.A.
+
+On Fri, Mar 15, 2019 at 8:33 AM Madhav Deshpande via INDOLOGY <indology at list.indology.info> wrote:
+
+Hello Jan,
+  Here is my recording of my verse in Āryā. This is the general style of reciting Āryā in Maharashtra. This meter was made popular in Marathi by a poet named Moropant [Mayūrakavi] during the Peshwa period. He composed 108 different Rāmāyaṇas, and an entire Mahābhārata in Marathi using Āryā.
+Madhav
+Madhav M. DeshpandeProfessor EmeritusSanskrit and LinguisticsUniversity of Michigan[Residence: Campbell, California]
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+indology-owner at list.indology.info (messages to the list's managing committee)
+http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190315/c50af0ee/attachment.htm>

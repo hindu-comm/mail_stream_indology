@@ -1,0 +1,16 @@
++++
+title = "49 Olivelle, J P"
+date = "2018-09-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-September/048490.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-September/048490.html)
+
+Dear All:
+
+I am reaching out to find out any studies (thematic, word-study, etc.) on the concept of “fame” in classical India: yaśas, kīrtti, etc. I got some information a while back from Jarrod Whitaker, but thought I would reach out more broadly to see whether there are any studies that I am not aware of. With thanks and best wishes,
+
+Patrick
+
+
+

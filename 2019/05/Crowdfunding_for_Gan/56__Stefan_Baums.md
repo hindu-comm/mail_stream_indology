@@ -1,0 +1,56 @@
++++
+title = "56 Stefan Baums"
+date = "2019-05-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-May/050039.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-May/050039.html)
+
+Dear Mark,
+
+thank you for your post – this is very interesting, both the
+material and the crowdfunding experiment!
+
+I have three questions about the two scrolls and the plans you
+have for them:
+
+   1. How extensive are the preserved texts? Some other fragments
+      of the Pratyutpannabuddhasaṃmukhāvasthitasamādhisūtra scroll
+      were just published in JIABS
+
+         Harrison, Paul, Timothy Lenz and Richard Salomon. 2018.
+         “Fragments of a Gāndhārī Manuscript of the
+         Pratyutpannabuddhasaṃmukhāvasthitasamādhisūtra (Studies
+         in Gāndhārī Manuscripts 1).” Journal of the International
+         Association of Buddhist Studies 41: 117–143.
+
+      but those amount to a total of only eleven partial lines:
+
+         https://gandhari.org/a_manuscript.php?catid=CKM0294
+
+      Are the new fragments more substantial? Concerning the
+      Samādhirājasūtra, only the left half of the scroll appears
+      to be preserved, i.e., half of each line will be missing.
+      How many lines are in that fragment?
+
+   2. Which concrete tasks do you plan to use the funding you
+      raise for – research assistants, travel, equipment? The
+      crowdfunding description only has a very general reference
+      to “research, consulting and resources.”
+
+   3. Images of these two scrolls in their rolled‐up state (like
+      the one you show on your page) were circulated fifteen years
+      ago by a London‐based art dealer looking for a buyer. Are
+      the scrolls with you in Sydney now? Did you buy them?
+
+All best,
+Stefan
+
+-- 
+Stefan Baums, Ph.D.
+Institut für Indologie und Tibetologie
+Ludwig‐Maximilians‐Universität München
+
+
+
+

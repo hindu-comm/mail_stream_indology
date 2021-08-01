@@ -1,0 +1,41 @@
++++
+title = "72 Michael Witzel"
+date = "2008-07-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-July/031875.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-July/031875.html)
+
+Many thanks, T.P., for your notes!  One of my grad. students is  
+interested in attending the Vajapeya, hence my question. He is a  
+musician, and thus wants to work on Samaveda.
+
+Good luck with your research: you already have turned up new data.As  
+for the Chola plates, have they been published somewhere? It would be  
+intresting to see the distribution of Shakhas which are unusual  
+sometimes (Kanvas in Colamandalam etc,)
+
+PS. George Hart has written to you by now, long letter about details...
+
+All the best!
+Michael
+
+
+
+On Jul 25, 2008, at 3:44 AM, Mahadevan, Thennilapuram wrote:
+>
+
+Michael Witzel
+witzel at fas.harvard.edu
+www.fas.harvard.edu/~witzel/mwpage.htm
+
+Dept. of Sanskrit & Indian Studies, Harvard University
+1 Bow Street
+Cambridge MA 02138, USA
+
+phone: 1- 617 - 495 3295 (voice & messages), 496 8570, fax 617 - 496  
+8571;
+my direct line (also for messages) :  617- 496 2990
+
+
+

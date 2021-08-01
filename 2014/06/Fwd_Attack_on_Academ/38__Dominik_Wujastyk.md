@@ -1,0 +1,61 @@
++++
+title = "38 Dominik Wujastyk"
+date = "2014-06-10"
+upstream_url = "https://list.indology.info/pipermail/indology/2014-June/039485.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2014-June/039485.html)
+
+My colleague Prof. Mukharji noted the following:
+
+---------- Forwarded message ----------
+From: P.B. Mukharji <projitmukharji at gmail.com>
+Date: 5 June 2014 20:52
+Subject: Attack on Academic Freedom
+To: Projit Mukharji <projitmukharji at gmail.com>
+
+
+
+Dear Friends,
+
+Following on from his success in getting Wendy Doniger's book off the
+Indian market, the RSS and Mr Batra have now attacked Sekhar
+Bandyopadhyay's excellent textbook on modern South Asian history, *From
+Plassey to Partition.*
+
+With the change of government in Delhi publishers too are increasingly
+reluctant to take on the RSS and its censorship mechanism whilst the
+mainstream media is also pushing the news to the margins.
+
+In this context of a spreading culture of silence and self-censorship,
+please help spread the news of this new attack on academic freedom in
+India. Below are a few links to media reports of the controversy including
+the report in the RSS mouthpiece, *The Organiser *threatening "agitation"
+if their legal challenge fails.
+
+Please forward these to fellow academics if you can
+
+
+http://organiser.org/Encyc/2014/4/19/Legal-notice-to-Orient-Black-Swan-for-spreading-canard-against-RSS.aspx?NB&lang=3&m1&m2&p1&p2&p3&p4
+
+http://www.thehindu.com/news/national/another-publisher-forced-to-censor-textbooks/article6075864.ece?homepage=true
+
+http://timesofindia.indiatimes.com/articleshow/36024216.cms?intenttarget=no
+
+Best wishes,
+Projit
+
+
+
+
+-- 
+Prof. PB Mukharji
+Martin Meyerson Assistant Professor in Interdisciplinary Studies,
+History & Sociology of Science/ South Asia Centre,
+University of Pennsylvania,
+Philadelphia.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20140610/ea890a86/attachment.htm>

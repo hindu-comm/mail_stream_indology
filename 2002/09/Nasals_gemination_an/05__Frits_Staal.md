@@ -1,0 +1,52 @@
++++
+title = "05 Frits Staal"
+date = "2002-09-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-September/027086.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-September/027086.html)
+
+There is a lot on danda in: Armand MINARD, Trois enigmes sur les cent 
+chemins, Vol.II, Paris 1956.
+
+At 02:25 PM 9/9/02 +0200, you wrote:
+>Dear members,
+>I am working on a critical edition of the 17th chapter of Prasannapada
+>Madhyamakavrtti by Candrakirti (7th century) as part of my Ph.D.
+>dissertation. I am using five Sanskrit manuscripts of Nepalese origin, some
+>of which are written in Nevari-script, while others are written in
+>Devanagari. A further ten manuscripts have been eliminated as apographs. I
+>am noticing certain differences in the scribal habits with regard to three
+>points:
+>
+>(1) the oldest ms (13th century) tends to use homorganic nasals, where the
+>later mss (18-19th century) tend to use anusvara;
+>
+>(2) gemination, i.e., doubling of consonants after repha (the letter r) such
+>as karmma or dharmma instead of karma or dharma respectively (cf. Whitney's
+>grammar, § 228), occurs randomly in both the oldest and later mss, often
+>without agreement and completely inconsistently. It seems that gemination
+>may occassionally have been added by the scribe without regard to his
+>original, although this would contradict the natural presumption that the
+>scribe generally tend to omit gemination rather than to add it.
+>
+>(3) While the oldest ms tends to use ekadanda (single danda) in most
+>instances though not always, the later mss tend to use dvidanda (double
+>dandas) in most cases.
+>
+>I would like to know whether there exists any studies on any of these
+>points, which may either support or contradict my findings and which may
+>perhaps also clarify the scribal habits in question. If any of you have made
+>similar or dissimilar observations in the course text-critical work or
+>reading of manuscripts that may add to my understanding, I am also
+>interested in hearing your opinions.
+>
+>Sincerely,
+>Ulrich T. Kragh
+>University of Copenhagen, Denmark
+
+Frits Staal
+http://philosophy.berkeley.edu/staal/
+
+
+

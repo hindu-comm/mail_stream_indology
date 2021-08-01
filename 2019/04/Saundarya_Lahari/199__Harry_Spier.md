@@ -1,0 +1,61 @@
++++
+title = "199 Harry Spier"
+date = "2019-04-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049837.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049837.html)
+
+In particular see this posting which discusses Sankaracarya as attributed
+author of the Saundarya Lahari
+Harry Spier
+
+On Mon, Apr 8, 2019 at 5:03 PM Harry Spier <hspier.muktabodha at gmail.com>
+wrote:
+
+> There is a thread on the topic of "works attributed to Sankara" in the
+> August 2018 Indology list archives.  The link is:
+>
+> http://list.indology.info/pipermail/indology_list.indology.info/2018-August/thread.html#142834
+>
+> Harry Spier
+>
+> On Mon, Apr 8, 2019 at 4:08 PM Nicole Karapanagiotis via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Hi everyone,
+>>
+>> Apologies for the cross-posting on RISA.
+>>
+>> I have a student who is interested in studying contemporary debates
+>> regarding the attribution of the Saundarya Lahari to Shankara.  I'm sort of
+>> at a loss on this one: does anyone know of any articles or book chapters to
+>> which I might point him?
+>>
+>> Thanks!
+>> Nicole Karapanagiotis
+>>
+>> --
+>> Dr. Nicole Karapanagiotis, Ph.D.
+>> Asst. Professor of Religion
+>> Rutgers, The State University of New Jersey
+>> Department of Philosophy and Religion
+>> Camden College of Arts and Sciences
+>> 429 Cooper St., Room #303
+>> Camden, NJ 08102
+>> nicole.karapanagiotis at rutgers.edu
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190408/246b1870/attachment.htm>

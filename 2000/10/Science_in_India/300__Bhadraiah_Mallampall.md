@@ -1,0 +1,34 @@
++++
+title = "300 Bhadraiah Mallampalli"
+date = "2000-10-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023219.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023219.html)
+
+Please check this.
+
+http://www.pgs.ca/pages/nl/pa9824b.htm
+
+And this..
+
+http://www.bullatomsci.org/issues/1991/may91/may91sharma.html
+
+There is also a conflict of interest because Bhabha belonged to private
+sector (Tata) at the same time he had responsibility for public sector.
+
+Neglect of Indian universities led to concentration of power and lack of
+competition. In US every university goes on radio to advertize and compete
+with others, what is called "social competition".
+
+For the space shuttle if NASA had used the Appollo type decentralized model
+it would have come up with a much sleeker, safer and economic alternative to
+present day high cost one.
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+Share information about yourself, create your own public profile at
+http://profiles.msn.com.
+
+
+

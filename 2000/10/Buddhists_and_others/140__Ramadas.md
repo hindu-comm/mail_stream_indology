@@ -1,0 +1,37 @@
++++
+title = "140 Ramadas"
+date = "2000-10-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023070.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023070.html)
+
+I was under the impression that this site was called "Indology". In the past
+it was devoted to discussions on Indology, but lately there has been a shift
+in emphasis. Many who have had thoughts and ideas contrary to the
+Eurocentric norm have been banned, and now it seems that the list will be
+inundated by spam not related to the avowed scope of the list. Oh well, in
+the past there have been highs which became lows which once again became
+highs, so I guess we will just have to weather the storm and hope that one
+day Indology will once again become the focus of the list.
+
+Surely it would be more appropriate if the message below was conducted "off
+site" so as not to incite the racial and religious hatred and diatribes
+which could/would surely result from such postings.
+
+----
+Ramadas
+
+----- Original Message -----
+From: "Samar Abbas" <abbas at IOPB.RES.IN>
+
+> nanda chandran wrote:
+> > Samar, please, can we have the URLs [of Islamist sites]?
+>
+>  Ok, will start collecting and post them soon, (did not imagine that there
+> would be demand for such sites among this audience !). Since attacks on
+> Hindu Gods cannot be termed as `Indology', and these sites are highly
+> offensive, I will have to make a separate post with adequate warnings.
+
+
+

@@ -1,0 +1,32 @@
++++
+title = "283 Koenraad Elst"
+date = "2000-03-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-March/020600.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-March/020600.html)
+
+Seems I ought to join Herr Witzel's fan club.  I never studied the BMAC
+(well, the one whose writings I did study was the Babri Masjid Action
+Committee), except for some much-discussed BMAC data on soma and fire
+temples.  Stupid me, I never questioned the widespread assumption that it
+was a "horse-centred" culture, implied in Bernard Sergent's thesis that the
+BMAC was the Indo-Iranians poised to invade India.  But now I read:
+     Michael Witzel <witzel at FAS.HARVARD.EDU>
+    Aan: <INDOLOGY at LISTSERV.LIV.AC.UK>
+    Verzonden: zaterdag 11 maart 2000 5:56
+    Onderwerp: Re: Elst's review of Kochhar's Vedic People
+saying:
+
+> Sorry, no horses there, so far. So, no horse
+> riding/chariot riding BMAC Aryans.
+
+If that were true, it would change the picture concerning the horse evidence
+completely.  If the absence of horses in the BMAC doesn't disprove its being
+Aryan, the near-absence of horses in Harappa need not disprove its being
+Aryan either.
+
+Koenraad Elst
+
+
+

@@ -1,0 +1,34 @@
++++
+title = "51 Sudalaimuthu Palaniappan"
+date = "2018-09-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-September/048507.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-September/048507.html)
+
+Dear Patrick,
+
+Please see 'Tamil Heroic Poetry' by K. Kailasapathy, OUP, 1968, pp. 14 and 231-238.
+
+Regards,
+Palaniappan
+
+On 9/29/18, 12:29 PM, "INDOLOGY on behalf of Olivelle, J P via INDOLOGY" <indology-bounces at list.indology.info on behalf of indology at list.indology.info> wrote:
+
+    Dear All:
+
+    I am reaching out to find out any studies (thematic, word-study, etc.) on the concept of “fame” in classical India: yaśas, kīrtti, etc. I got some information a while back from Jarrod Whitaker, but thought I would reach out more broadly to see whether there are any studies that I am not aware of. With thanks and best wishes,
+
+    Patrick
+    _______________________________________________
+    INDOLOGY mailing list
+    INDOLOGY at list.indology.info
+    indology-owner at list.indology.info (messages to the list's managing committee)
+    http://listinfo.indology.info (where you can change your list options or unsubscribe)
+
+
+
+
+
+
+

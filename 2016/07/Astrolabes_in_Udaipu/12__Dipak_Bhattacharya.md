@@ -1,0 +1,44 @@
++++
+title = "12 Dipak Bhattacharya"
+date = "2016-07-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043671.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-July/043671.html)
+
+Dear friend
+There are observatories at Delhi and in Rajasthan. I do not know of
+astrolabs
+Best
+DB
+
+On Thu, Jul 14, 2016 at 12:53 PM, Jean-Michel Delire <jmdelire at ulb.ac.be>
+wrote:
+
+> Dear List,
+>
+> I am in Udaipur and, trying to find astrolabes or other instruments
+> (ancient or new), I only meet  shop's tenants who propose me to find an
+> astrolabe (new) but need time for that. I suppose they know people who are
+> still able to make these instruments (as S.R.Sarma ensured me to exist in
+> Udaipur), but of course they don't want to give me more details. Does
+> anybody know more about this ?
+>
+> Regards,
+>
+> J.M.Delire,
+> Lecturer on Science and Civilization of India, University of Brussels
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20160715/88d2eb19/attachment.htm>

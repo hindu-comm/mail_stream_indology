@@ -1,0 +1,35 @@
++++
+title = "17 Jan Filipský"
+date = "2011-02-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-February/035162.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-February/035162.html)
+
+Dear All,
+
+would any list member do me the favour and send me (off-list) .pdf versions
+of the following articles touching upon the Buddha Jayanti, viz.
+
+
+
+Coedes, George ­- Richter, F.: "The Twenty-Five-Hundredth Anniversary of the
+Buddha." Diogenes, Sept. 1956, Vol. 4, 15: pp. 95-111 
+
+(the German version by Coedes, "Der 2500. Geburtstag Buddhas", Diogenes IV,
+1957, or the French one, "Le 2500. Anniversaire du Bouddha", Diogene, No.
+15, July, 1956 would also be fine)
+
+and
+
+Ames, Michael, Ideological and Social Change in Ceylon. Human Organization,
+Vol. 22, No. 1 / Spring 1963, pp. 45-53.
+
+Sincere thanks to all and sundry for your invaluable assistance.
+
+Jan Filipsky
+
+
+
+
+

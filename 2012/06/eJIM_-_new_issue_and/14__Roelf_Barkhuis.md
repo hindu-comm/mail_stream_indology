@@ -1,0 +1,55 @@
++++
+title = "14 Roelf Barkhuis"
+date = "2012-06-15"
+upstream_url = "https://list.indology.info/pipermail/indology/2012-June/036733.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2012-June/036733.html)
+
+Dear Indologists,
+
+
+
+eJIM, the eJournal of Indian medicine, has just published a new issue. See
+http://www.indianmedicine.nl. 
+
+
+
+eJIM has a new registration policy: from now on all articles and the
+Archives can be accessed without registration. Registered users, however,
+will be notified by email on publication of an issue of the journal, new
+books or news items.
+
+
+
+We currently have over 1,000 registered users.
+
+
+
+Roelf Barkhuis
+
+eJIM Journal manager
+
+
+
+Barkhuis
+
+Zuurstukken 37
+
+9761 KP  Eelde
+
+the Netherlands
+
++31 (0)50 3080936
+
+info at barkhuis.nl
+
+www.barkhuis.nl
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20120615/49dc3073/attachment.htm>

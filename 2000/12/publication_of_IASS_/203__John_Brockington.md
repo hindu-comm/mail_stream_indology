@@ -1,0 +1,34 @@
++++
+title = "203 John Brockington"
+date = "2000-12-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-December/024418.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-December/024418.html)
+
+Dear Colleagues,
+
+Simply on a point of information, may I state that, at the 11th World Sanskrit Conference in
+Turin in April, Professor Botto simply announced that CESMEO would undertake the publication
+of the Proceedings of the conference, without mention of the medium.   The subsequent e-mail
+to participants was the first indication to me as much as to others that this was not to be
+in _Indologica Taurinensia_ (the official organ of the IASS) but in the form of a CD-ROM;
+there has certainly not been any formal consultation by CESMEO with the officials of IASS.
+Indeed, I have personally sent an e-mail expressing my disquiet about this development (to
+which I have yet to receive a reply) and have not offered my own paper for publication by
+this means.
+
+John Brockington
+(Secretary General of IASS)
+
+Professor J. L. Brockington
+Sanskrit, School of Asian Studies
+University of Edinburgh
+7-8 Buccleuch Place
+Edinburgh   EH8 9LW     U.K.
+
+tel: +131 650 4174
+fax: +131 651 1258
+
+
+

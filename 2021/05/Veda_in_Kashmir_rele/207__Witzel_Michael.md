@@ -1,0 +1,25 @@
++++
+title = "207 Witzel, Michael"
+date = "2021-05-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-May/054781.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-May/054781.html)
+
+Dear Indologists,
+
+it gives me great pleasure to announce, at long last, the publication of my book “The Veda in Kashmir”.
+It deals with the history and present situation of Vedic tradition in this western Himalayan region.
+
+The Veda in Kashmir, vol. I & II,  
+Harvard Oriental Series vol. 94 & 95,
+pp. 1466, including 2 DVDs with recitations, films, scans of related manuscripts, etc.
+
+ISBN 9780674 984370
+ISBN 9780674 257771
+$120. 
+
+
+With my best wishes,
+Michael Witzel
+

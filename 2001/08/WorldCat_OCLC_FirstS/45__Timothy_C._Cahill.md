@@ -1,0 +1,31 @@
++++
+title = "45 Timothy C. Cahill"
+date = "2001-08-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2001-August/026302.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2001-August/026302.html)
+
+Dear Lars,
+
+   It is proprietary, and so restricted to universities and other
+subscribers.  The URL is:
+
+http://newfirstsearch.oclc.org/
+
+You can read a description of the service there. WorldCat is valuable
+because it provides bibliographic info for all major library holdings in
+North America and Europe. This service is especially convenient if your
+library has a link on their web site. You can then use it from an office
+to order through interlibrary loan with ease. (No passwords, addresses,
+etc.)
+
+   There might be a "public" portal accessible via some obscure,
+round-about route. If anyone knows of one  I think many independent
+scholars would benefit.
+
+best,
+Tim Cahill
+
+
+

@@ -1,0 +1,108 @@
++++
+title = "86 Shrinivasa Varakhedi"
+date = "2019-04-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-April/049918.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-April/049918.html)
+
+For info to the list :
+
+---------- Forwarded message ---------
+From: Secretary Bori India <secretary at boriindia.org>
+Date: Sun, 14 Apr 2019 at 11:25 AM
+Subject: Fwd: An Important announcement from BORI
+To: Coordinator at BORI <cordiap.bori at gmail.com>
+
+
+
+
+
+*Bhandarkar Oriental Research Institute, Pune (India)*
+
+
+
+*Academic Development Programme Supported by Infosys Foundation*
+
+
+
+*Announcement*
+
+
+
+Various academic programmes have been instituted at the Bhandarkar Oriental
+Research Institute (BORI), thanks to the generous funding received from the
+Infosys Foundation for specialized research in thrust areas such as
+
+
+
+1.    Indological Studies
+
+2.    Buddhist Studies
+
+3.    The study of India’s cultural relations with other Asian countries in
+the ancient and early medieval period, and
+
+4.    The comparative study of religions.
+
+
+
+An announcement of various positions has been made on the website of the
+BORI. The same is being made on national and international internet
+platforms and is being sent to scholars in India and abroad.
+
+
+
+Curriculum Vitae along with detailed project proposals shall be invited
+from reputed scholars.
+
+
+
+Interested scholars are requested to send a letter of interest to the
+Honorary Secretary of the BORI expressing his / her desire to conduct
+research at the BORI, together with a current CV and detailed research
+project. Names of eligible scholars may also be suggested by others with
+their CVs and detailed research projects. The format of the research
+project proposal is also available on BORI’s website.
+
+
+
+The Search-cum-Selection Committee is authorised to nominate a scholar and
+possesses the right to accept or reject any name and/or research project.
+
+
+
+All other details regarding remuneration, logistics, etc. are being
+uploaded on the website of BORI and have also been attached herewith.
+
+
+
+For more information and queries, please contact:
+
+-- 
+Honorary Secretary
+Bhandarkar Oriental Research Institute
+812, Shivaji Nagar, Chiplunkar Road,
+Near ILS Law College, Pune 411004 (India)
+Phone: +91-20-25656932
+-- 
+warm regards,
+
+Shrinivasa Varakhedi
+Vice-chancellor
+Kavikulaguru Kalidas Sanskrit University
+Ramtek, Nagpur, Maharatshtra
+
+------------------------------
+(Recipient of Presidents Award)
+Professor in Shastra and Former Dean (Academics)
+Karnataka Samskrita University,
+Bengaluru - 560018
+
+Mobile : +91-94853-01353
+Ph Off :  +91-7722011353
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190414/2b3d3d32/attachment.htm>

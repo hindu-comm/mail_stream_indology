@@ -1,0 +1,30 @@
++++
+title = "56 Plamen Gradinarov"
+date = "2004-09-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-September/028610.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-September/028610.html)
+
+Here is another interesting quote from Sir Brajendranath Seal's The Positive
+Sciences of the Ancient Hindus (pp. 218-219):
+
+In Caraka and Susruta (as in Aristotle) the heart is the central organ and
+seat of consciousness; but in the Tantric writings (as in Galen) the seat of
+consciousness is transferred to the brain or rather the cerebro-spinal
+system. The soul (the Jiva) has its special seat within the Brahmarandhra
+above the foramen of Monro and the middle commissure, but traverses the
+whole cerebro-spinal axis, up and down, along the Susumna (the central
+passage of the spinal cord). The Brahmadanda (vertebral column) contains the
+Susumna, the Brahma Nadi, and the Manivaha Nadi. The cerebro-spinal axis
+with the connected sympathetic system contains a number of ganglionic
+centers and plexuses (Cakras, Padmas) from which nerves (Nadis, Siras,* and
+Dhamanis) radiate over the head, trunk, and limba.
+________
+* The writers of the Yoga and Tantra schools use the term Nadi, by
+preference, for nerves. They also mean cranial nerves when they speak of
+Siras, never using the latter term for arteries, as in the older medical
+literature.
+
+
+

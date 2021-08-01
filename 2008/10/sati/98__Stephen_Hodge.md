@@ -1,0 +1,21 @@
++++
+title = "98 Stephen Hodge"
+date = "2008-10-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-October/032157.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-October/032157.html)
+
+This might be of some general relevence.  I recollect having read many years 
+ago Joseph Campbell's take on this -- probably in his Mythology quartet.  He 
+had the idea that people only "existed" in ancient societies in terms of 
+their social role -- hence the widow was "satii" precisely because she 
+fulfilled her expected role.  On the other hand, anybody who did not fulfil 
+their expected role wereliterally non-existent blanks on the social 
+landscape.
+
+Best wishes,
+Stephen Hodge 
+
+
+

@@ -1,0 +1,56 @@
++++
+title = "106 Deshpande, Madhav"
+date = "2009-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2009-May/033150.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2009-May/033150.html)
+
+Thanks to all those who sent suggestions on the syntax of dative with vidmahe and dhīmahi on and off this list.
+
+Madhav Deshpande
+________________________________________
+From: Indology [INDOLOGY at liverpool.ac.uk] On Behalf Of George Thompson [gthomgt at COMCAST.NET]
+Sent: Saturday, May 16, 2009 2:49 PM
+To: INDOLOGY at liverpool.ac.uk
+Subject: Re: Syntax of Dative
+
+Dear Madhav,
+
+My first impulse was to see the influence of the frequent collocation of
+namas + god-name in the dative.  I see now that Delbrueck discusses
+namas, as well as other formulas of respect or invocation, such as
+svaahaa, svadhaa, vaSaT [p. 145 "Dativ bei Substantiven"] (sorry for
+using the now obsolete Harvard-Kyoto here, but for me the trouble to get
+the correct diacritics into an email is still too great).
+
+dhaa- in the sense 'to offer, lend' frequently takes the dative, of
+course.  As for dhiimahi, the 'later tradition' which takes it from
+dhii- instead of dhaa- is I think triggered by the RV Gayatri itself,
+since dhiimahi is immediately followed by dhiyas there.  I take this to
+be a pun in the mind of the Rsi, rather than an etymology.  When the
+Gayatri is quoted in the TS 1.5.3, Keith prefers to translate dhiimahi
+as "we meditate" ['in the later priestly sense'].  If he is right in
+doing so, then this quotation may indicate that the etymological sense
+of dhiimahi from dhaa- may already be lost.
+
+As for the dative with other verbs, vid- is cited by Delbrueck (umlauts
+are also too time-consuming) as taking a dative when it has a sense 'to
+provide for' [thus semantically close to 'give'].
+
+I hope this helps, and I also would be interested to hear from others.
+
+George
+
+Deshpande, Madhav wrote:
+
+>Dear Colleagues
+>
+>I am looking for some scholarly discussion on the use of datives with verbs like vidmahe and dhīmahi found in the late Gāyatrīs as found in texts like the Taittirīiya Araṇyaka, e.g.  तत्पुरुषाय विद्महे महादेवाय धीमहि / तन्नो रुद्रः प्रचोदयात् //  The use of dative in these late Gāyatrīs contrasts with the accusative in the old Gāyatrī : तत् सवितुर्वरेण्यं भर्गो देवस्य धीमहि.  I am looking for any scholarly discussion of this shift (?).  Didn't see anything in Speyer/Speijer.  Best,
+>
+>Madhav M. Deshpande
+>
+>
+
+
+

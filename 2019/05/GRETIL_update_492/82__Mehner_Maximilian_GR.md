@@ -1,0 +1,35 @@
++++
+title = "82 Mehner, Maximilian | GRETIL"
+date = "2019-05-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2019-May/050120.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2019-May/050120.html)
+
+GRETIL is pleased to be able to report the following addition(s) to its collection:
+
+Texts added:
+Adisesa: Paramarthasara<http://gretil.sub.uni-goettingen.de/gretil.htm#sa_AdizeSa-paramArthasAra>
+Ksemendra: Caturvargasamgraha<http://gretil.sub.uni-goettingen.de/gretil.htm#sa_kSemendra-caturvargasaMgraha>
+Vamanadatta: Dvayasampattivarttika<http://gretil.sub.uni-goettingen.de/gretil.htm#sa_vAmanadatta-dvayasaMpattivArttika>
+
+
+Please notice that we are in the process of modernizing the formats GRETIL is offering. Moving forward all new additions will be provided in TEI-conformant XML and two transformations thereof: (1) a plain text file containing a strictly normalized text only and (2) an html file, displaying all additional information that was encoded by the respective contributor. The texts we have offered so far will be successively converted to adhere to this standard, with the transformations replacing the "analytic" and "plain versions". This will ultimately result in a more consistent and adaptable corpus, but this process will take some time to complete.
+
+If you use GRETIL to perform full text search across the whole corpus I would recommend getting all three files for each text. They are of course also included in the language-specific cumulative zip-archives.
+
+Best wishes,
+Max
+
+
+
+
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20190517/1bffee94/attachment.htm>

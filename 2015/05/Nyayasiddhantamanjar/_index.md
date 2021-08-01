@@ -1,0 +1,4 @@
++++
+title = "Nyayasiddhantamanjari with Dip"
+
++++

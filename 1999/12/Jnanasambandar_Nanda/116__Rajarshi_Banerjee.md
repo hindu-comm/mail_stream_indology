@@ -1,0 +1,27 @@
++++
+title = "116 Rajarshi Banerjee"
+date = "1999-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019380.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019380.html)
+
+There are hardly any cases of brahmins exploiting dalits in mordern India.
+A large proportion of brahmins belong to an educated middle class and this
+rather than exploitation is the prime reason for whatever benifits they
+enjoy.
+
+Brahmins did make life hard for the untouchables by making discriminatory
+rules but by this they did not gain great benifits for themselves. Anyway
+this is history and is definitely not a mordern phenomenon.
+
+In bihar land owners have traditionally exploited the dalits and continue to
+do so. One hears very few or almost no stories in the press where brahmins
+as a group exploit other groups.
+
+In mordern India dalits have had a late start as far as education is
+concerned and also have traditionally been poor. Brahmins in comparision
+have had a head start.
+
+
+

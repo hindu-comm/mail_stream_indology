@@ -1,0 +1,26 @@
++++
+title = "59 Michio YANO"
+date = "2002-03-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-March/026814.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-March/026814.html)
+
+Dear Patrick Olivelle,
+
+You said:
+Patrick> Thanks for your ideas. Let me give you the text itself, because there
+Patrick> appears to be some confusion:  zriisaMvat 1560 varZe caitramaase
+Patrick> sukla [broken ms] nakSatre paurNamaayaaM tithau zanivaare . So there
+Patrick> is no indication about what Samvat this is; but given that this is a
+Patrick> Maharastrian ms. it is likely that it is Vikrama. Hope this helps.
+
+I tried with Saka samvat both atiita and vartamaana years
+and Caitraadi (usually Saka years are Caitraadi), but
+they are not Saturday.  I think the result I sent yesterday
+is correct.
+
+Michio Yano
+
+
+

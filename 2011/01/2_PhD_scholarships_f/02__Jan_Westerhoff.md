@@ -1,0 +1,36 @@
++++
+title = "02 Jan Westerhoff"
+date = "2011-01-18"
+upstream_url = "https://list.indology.info/pipermail/indology/2011-January/035068.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2011-January/035068.html)
+
+The Department of Philosophy at the University of Durham invites
+applications for two PhD scholarships as part of the project
+Śāstravid: A New Paradigm for the Study of Indian Philosophy
+funded by the European Research Council, to be taken up from October 2011.
+The successful candidates will hold a graduate degree in Philosophy or
+Buddhist Studies and will work under the supervision of Dr Jan Westerhoff
+on philosophical problems posed by the Indian Madhyamaka texts to be
+encoded and analyzed during the project. Familiarity with some of the
+relevant Asian languages (Sanskrit, Tibetan, Japanese) is an advantage but
+no prerequisite. The positions are not restricted to EU nationals,
+suitable candidates of any nationality are invited to apply.
+For more information see http://www.janwesterhoff.net/erc.htm or email Jan
+Westerhoff at j.c.westerhoff at dur.ac.uk.
+
+
+***************************
+Dr Dr JC Westerhoff
+Department of Philosophy
+University of Durham
+50 Old Elvet
+Durham DH1 3HN
+United Kingdom
+
+www.janwesterhoff.net
+westerhoff at cantab.net
+
+
+

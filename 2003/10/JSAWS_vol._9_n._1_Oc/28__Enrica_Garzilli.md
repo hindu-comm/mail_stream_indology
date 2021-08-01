@@ -1,0 +1,45 @@
++++
+title = "28 Enrica Garzilli"
+date = "2003-10-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2003-October/027944.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2003-October/027944.html)
+
+Dear Colleagues,
+
+We are pleased to announce the publication of vol. 9, no. 1 of the
+*Journal of South Asia Women Studies*
+http://www.asiatica.org/jsaws/index.php
+
+This issue is co-edited by Dr. Michael Witzel, Wales Professor of Sanskrit &
+Indian Studies at Harvard University.
+
+To send review copies of scholarly books and/or to submit papers:
+Asiatica Association
+Via Vincenzo Bellini, 4
+20122 Milano --ITALY
+Fax: +39 02 39 02 700511864
+
+                                        TOC
+Editorial Note:
+* Understanding Indian Women: Love, History and Studies*
+Papers:
+* Common Representation of Women and Men in the Rgveda * by Gabriela Nik.
+Ilieva, edited by Michael Witzel
+* Travels in Asian Cyberspace: A Brief History of Asian Studies Online*, by
+T. Matthew Ciolek
+*********************END********************
+                                                            Happy reading!
+
+eg
+
+Dr. Enrica Garzilli
+Uni. of Macerata, Italy
+Editor-in-chief, IJTS & JSAWS
+Asiatica Association www.asiatica.org
+ph. + 39 02 76011 736  fax +39 02 700511864
+*************************************
+
+
+

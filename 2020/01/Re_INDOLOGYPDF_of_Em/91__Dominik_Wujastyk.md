@@ -1,0 +1,74 @@
++++
+title = "91 Dominik Wujastyk"
+date = "2020-01-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-January/051628.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-January/051628.html)
+
+I have the journal, and that issue (in my hand now).  So if nobody else has
+a scan, I'll do it.
+
+The JEAS is full of marvellous articles.  I wish it were all scanned and
+available.  Perhaps I'll try to get it done.  The original publisher has
+folded; some issues are held (owned? rights?) by the publisher Ute Hempen,
+although they don't sell it or answer email.  Peter Das still produces
+issues of its successor journal, Traditional South Asian Medicine.  See
+Peter's note <http://www.suedasien.uni-halle.de/JEAS/Jeas.html> about these
+journals.
+
+Although TSAM is still an excellent read, it's very sporadic.  JEAS and
+TSAM were/are both print-only.  Formerly print-only, IJHS
+<https://insa.nic.in/UI/journaldetails.aspx?AID=Mw==> has gone online in
+the last couple of years.  The centre of gravity for the timely publishing
+of international research on the history of medicine in early India has
+moved to eJIM <https://indianmedicine.nl/issue/view/4646> and HSSA
+<http://hssa-journal.org>, both of which are open-access and online.
+
+--
+Professor Dominik Wujastyk
+<https://www.ualberta.ca/arts/about/people-collection/dominik-wujastyk>
+,
+
+Singhmar Chair in Classical Indian Society and Polity
+,
+
+Department of History and Classics <http://historyandclassics.ualberta.ca/>
+,
+University of Alberta, Canada
+.
+
+South Asia at the U of A:
+
+sas.ualberta.ca
+
+
+
+On Sun, 19 Jan 2020 at 10:40, Timothy P. Lighthiser via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Hello!
+>
+> Does anyone happen to have a PDF of Emmerick's article (below) that they'd
+> be willing to share with me and other list members (with whom I'd be happy
+> to forward it to afterwards)?
+>
+> Thanks in advance!
+>
+> t
+>
+> “Indo-Iranian Concepts of Disease and Cure,” *Journal of the European
+> Āyurvedic Society* 3, 1993c, pp. 72-93.
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> indology-owner at list.indology.info (messages to the list's managing
+> committee)
+> http://listinfo.indology.info (where you can change your list options or
+> unsubscribe)
+>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20200121/e7e924e7/attachment.htm>

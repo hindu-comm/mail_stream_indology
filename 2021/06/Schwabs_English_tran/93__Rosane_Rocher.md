@@ -1,0 +1,33 @@
++++
+title = "93 Rosane Rocher"
+date = "2021-06-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-June/054917.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-June/054917.html)
+
+Dear colleagues,
+
+It strikes me that I ought to have given some reason for my abrupt 
+warning against the English translation of Raymond Schwab's /Oriental 
+Renaissance. /Let me quote the introductory paragraph of the review I 
+gave it back in 1988:
+
+"Scholars interested in the East-West intellectual encounter will 
+welcome the publication of an English translation of Raymond Schwab's 
+"La Renaissance Orientale", a book that, though 34 years old, has not 
+been replaced. A look at the contents of this handsome volume reveals 
+useful added features, such as an alphabetical and updated bibliography 
+and a fuller and more readable index. A thorough perusal of the English 
+translation, however, turns elation into disappointment. Not only was 
+Schwab's difficult, poetic French occasionally beyond the powers of the 
+translators, their lack of familiarity with Indian culture and 
+Anglo-Indian history not infrequently led them astray." //
+
+Examples are given in the core of the review. The full text can be found 
+in /Orientalistische Literaturzeitung /86.4, 1988, coll. 471–473.
+
+Rosane
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210625/0413eb75/attachment.htm>

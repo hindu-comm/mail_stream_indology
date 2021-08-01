@@ -1,0 +1,26 @@
++++
+title = "21 Robert, Eric"
+date = "2000-05-03"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-May/021221.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-May/021221.html)
+
+Dear list members
+
+In chAndogya upanishad 3.4.1&2, one finds mention of itihAsa and purANa
+(e.g. in 3.4.1...the flower being the itihAsa and the purANa, which are also
+the immortal waters).
+A similar mention occurs in 7.1.2.
+The chAndogya being one of the oldest upanishad, are these passages a later
+addition, or do itihAsa and purANa have another meaning here than their
+normal meaning (the date for the composition or elaboration of the epics
+seems subject to discussion, but I think that early purANas are dated from
+the beginning of this era, or am I wrong?).
+
+Thanks for your comments
+
+Eric Robert
+
+
+

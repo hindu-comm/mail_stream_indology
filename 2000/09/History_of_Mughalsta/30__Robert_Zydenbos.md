@@ -1,0 +1,52 @@
++++
+title = "30 Robert Zydenbos"
+date = "2000-09-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-September/022578.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-September/022578.html)
+
+Am Thu, 31 Aug 2000 schrieb nanda chandran:
+
+>> You did not hear that from me.
+
+> "Is it not a fact that there have been bloody wars all over South Asia
+throughout all of its history, irrespective of what myth-makers have said
+about 'spiritual' 'Vedic' tendencies etc.?"
+
+Dear Nanda Chandran,
+
+I have the following proposition. If you can show, with compelling logical
+reasoning, that this quote from my previous message justifies your
+complaint
+
+<< Why is there this great effort to moralise everything? "Brahmins are
+evil because they supported the caste system; Buddha was noble because he
+opposed it". "Vedic civilization is evil because it encouraged wars; Buddhism is
+noble because it opposed it". >>
+
+(because this is why you quoted me, right? I.e. that I have written that
+'Vedic civilisation' 'encourages war' etc.), and if you can also point out
+the last time I wrote anything about Buddhism, and how this has anything at
+all to do with what I was writing about -- then I will write again in this
+thread. Is that a good deal? Otherwise, I think that I should not continue.
+
+(Unless, of course, it may be worth the trouble in a very different way.
+Sorry, but I still suffer from this odd idea that people who write to this
+list are striving to exchange ideas that can stand rational scrutiny, *unless*
+they try to brighten up our day with some sort of humour. I may have
+misunderstood what you were doing. Please let us know whether you are joking and
+want a bit of polemic just for fun.)
+
+
+
+--
+Prof. Dr. Robert J. Zydenbos
+Institut fuer Indologie und Iranistik
+Universitaet München
+E-mail zydenbos at gmx.de
+
+Sent through GMX FreeMail - http://www.gmx.net
+
+
+

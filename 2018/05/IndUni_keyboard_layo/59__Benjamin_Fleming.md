@@ -1,0 +1,19 @@
++++
+title = "59 Benjamin Fleming"
+date = "2018-05-21"
+upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047689.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2018-May/047689.html)
+
+Dear List,
+
+I am currently trying to update my unicode diacritics input method from the "cut and paste” and or “autocorrect” input methods I currently use. I was pointed to the IndUni keyboard layouts which I found on John Smith’s web site, however since the instructions are from 2009 I am not finding it easy to adapt to current Mac OS. Is their a better input system than IndUni that people use or have people learned to adapt it to current OS? 
+
+Thanks for any input/help!
+
+Best Wishes,
+Ben Fleming
+
+
+

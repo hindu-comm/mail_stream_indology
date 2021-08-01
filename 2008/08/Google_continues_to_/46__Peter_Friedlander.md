@@ -1,0 +1,21 @@
++++
+title = "46 Peter Friedlander"
+date = "2008-08-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-August/031911.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-August/031911.html)
+
+Dear Colleagues,
+its a fantastic resource, but its sad that like shabdakosh.com it gives no gender for nouns, which will make it less useful for language learners in a way, they will still have to go and check in an old fashioned dictionary!
+regards
+Peter
+
+
+Peter Gerard FRIEDLANDER (Dr) :: Senior Lecturer, Centre for Language Studies and SouthAsian Studies Programme:: Faculty of Arts & Social Sciences :: National University of Singapore :: AS4 9 Arts Link, #02-01 :: Singapore 117570 :: 65-6516 2468 (DID) :: 65-6777 7736 (Fax) :: clspgf at nus.edu.sg (E) :: www.nus.edu.sg (W) :: http://www.fas.nus.edu.sg/cls/ (CLS Website) :: Company Registration No: 200604346E
+
+
+      Win a MacBook Air or iPod touch with Yahoo!7. http://au.docs.yahoo.com/homepageset
+
+
+

@@ -1,0 +1,27 @@
++++
+title = "105 Sandra SMETS"
+date = "2004-03-27"
+upstream_url = "https://list.indology.info/pipermail/indology/2004-March/028315.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2004-March/028315.html)
+
+Dear members of the list,
+I am currently studying the speculative portions of the Jaiminiiyasa.mhitaa of
+the Brahmaa.n.dapuraa.na (under the direction of Christophe Vielle). I found a
+passage that is parallel to BhP 3.26.32-49. This text enumerates the
+characteristics or properties of the gross and the subtle elements. I also
+found such an enumeration in AhirbudhnyaSa 7.21-40. Could anyone help me in
+finding other parallels or sources of this section ?
+Thank you very much for your help.
+
+
+Sandra SMETS
+
+Institut orientaliste - Centre d'Etudes de l'Inde et de l'Asie du Sud-Est
+Place Blaise Pascal, 1
+B-1348 Louvain-la-Neuve
+Belgique
+
+
+

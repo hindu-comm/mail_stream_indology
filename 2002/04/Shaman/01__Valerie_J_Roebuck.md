@@ -1,0 +1,29 @@
++++
+title = "01 Valerie J Roebuck"
+date = "2002-04-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2002-April/026839.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2002-April/026839.html)
+
+According to the OED, it was first recorded in English in 1698.  It now
+occurs in books and newspapers without italics or explanations, so I would
+think it is.
+
+Valerie J Roebuck
+Manchester, UK
+
+>Is "shaman" a really English word?
+>
+>Regards,
+>Marina Orelskaya
+>
+>
+>--- Valerie J Roebuck <vjroebuck at MACUNLIMITED.NET>
+>wrote:
+>> What is the current thinking on the relationship (if
+>> any) between English
+>> "shaman" and Sanskrit "zramaNa"?
+
+
+

@@ -1,0 +1,44 @@
++++
+title = "22 Andrew Glass"
+date = "2008-11-30"
+upstream_url = "https://list.indology.info/pipermail/indology/2008-November/032279.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2008-November/032279.html)
+
+Dear Dr. Bhattacharya,
+
+> I just like to know the position in the West regarding the available computer font packages,
+> particularly if authors have to help the press in developing the character with subscript ring
+> below.
+
+R with ring below was not included in the Unicode standard, and there
+is no expectation that it will ever have a dedicated code point.
+Instead, the proper method for creating r with a ring below is to use
+a plain r followed by the combining ring below character (U+0325),
+e.g., r̥. OpenType font technology permits font designers to
+reposition and substitute combinations of signs to achieve an
+aesthetic shape for display and printing. Therefore, if you wish to
+use an r with a ring below in a publication, you would be advised to
+choose both a suitable font (e.g., Gandhari Unicode), and suitable
+software which is capable of supporting OpenType features (InDesign,
+Word 2003, Mellel, Abiword). Open Office does not support OpenType
+features and does not recognize fonts with the otf suffix.
+
+Both units of this symbol can be mapped to a single keyboard sequence,
+so that the user need not be aware that the sign consists of two
+codes.
+
+Some presses insist on using in-house fonts, in which case it should
+be their responsibility to support particular glyphs. Other presses
+permit the author to make a suitable choice. Commercial fonts are
+getting better at supporting the diacritics needed for Indology, but
+full OpenType support for r with ring below may not be a high priority
+(or even on the roadmap) for most commercial font vendors. Thank fully
+there are other options some of which have been discussed on this list
+in the last few days.
+
+Andrew Glass
+
+
+

@@ -1,0 +1,518 @@
++++
+title = "204 Walter Slaje"
+date = "2020-11-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2020-November/053694.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2020-November/053694.html)
+
+As an addendum to the question whether Bhāskarakaṇṭha would have made a
+fool of himself or not by his claim, let me draw your attention to
+Ānandabodhendrasarasvatī’s commentary  *Vāsiṣṭhamahārāmāyaṇatātparyaprakāśa*
+(AD 1710 [Karl-Heinz Golzio IIJ 47 (2004): 301ff]) on the *Yogavāsiṣṭha*,
+where the passage occurs in identical wording (= *Yogavāsiṣṭha* I.14.8).
+His explanation matches the one given by Bhāskarakaṇṭha (AD 1725-1775
+[Stanislav
+Jager, Bhāskarakaṇṭhas *Cittānubodhaśāstra*. Marburg 2018: 15]):
+
+*aśvād gardabhyām utpannā aśvatarī* | *tasyā udaravidāraṇenaiva
+garbhanirgamanaṃ **prasiddham* (VTP on YV I.14.8)
+
+“An *aśvatarī* is born from a female donkey (*gardabhī*) and a male horse (
+*aśva*). It is well known that the foal can only come out [of the mother]
+by opening her belly.”
+
+
+
+See also *Saṅghabhedavastu* (ed. Gnoli, p. 72, ll. 20f):
+
+*vadhāya aśvatarī garbhaṃ gṛhṇāti; parābhavāya aśvatarī garbhaṃ gṛhṇāti *
+
+
+
+The *Mahābhārata* has a cognate passage:
+
+*sa mṛtyum upagūhyāste garbham aśvatarī yathā* || MBh 12.138.30cd ||
+
+„The (king who does not restrain the enemy whom he has bent down with the
+rod of force) sits holding death to his bosom, like a mule with a foal in
+her belly.“ (Fitzgerald, p. 531).
+
+
+
+The idea that a female hinny would not survive the birth of her foal was
+obviously widespread and Ānandabodhendra explicitly states this as a
+well-known fact (*prasiddha*).
+
+At least that much can be said that Bhāskarakaṇṭha’s explanation would
+certainly have been accepted as plausible by his contemporaries.
+
+
+
+For this reason, I would not put too much trust in the dictionary entries,
+as their authors, who apparently were not always sufficiently versed in
+natural history, could not tell the difference between mule and hinny. To
+them, any crossbreed between a donkey and a horse equalled a “mule”. This
+is probably the reason why the (English) dictionaries show no entries of
+the term “hinny” at all, but use “mule” throughout without further
+distinction.
+
+It must, however, be said that in the given context of the risk of death
+for a pregnant female “hinny”, Nīlakaṇṭha’s elucidation of the above-quoted MBh
+12.138.30cd (= MBh 12.140.30cd) contradicts the one of Ānandabodhendra and
+Bhāskarakaṇṭha. His would point to a mule instead a hinny, as Nīlakaṇṭha
+uses *gardabha-jā*. If this reading is correct, he seems to have had a
+crossbreed between a male donkey (*gardabha*) and a mare in mind. In this
+case, he either displays an inaccurate knowledge or shows the same
+indifference as the dictionaries do to facts of nature, which were perhaps
+dismissed as insignificant. However, in light of what other Indian authors
+had had to say on the subject, I have my doubts whether, given the
+uncritical state of the edition of Nīlakaṇṭha’s commentary (I have quoted
+from Puṇe 1932), variants with *gardabhī-jā* would not come to light one
+day. Reading gardabh*ī*-jā, it would match our hinny from above. Here is
+the line, which in its present editorial state runs as follows:
+
+*aśvatarī gardabhajā aśvā udarabhedenaiva prasūta iti prasiddham *
+
+“An *aśvatarī* is a mare born from a (male) donkey. It is well known that
+[this mare] can only give birth [to a foal] by opening her belly.”
+
+
+
+The unsolved question of whether a difference was made between mule and
+hinny in pre-modern India still needs to be investigated. I trust it was.
+
+
+Regards,
+
+WS
+
+
+Am So., 22. Nov. 2020 um 14:41 Uhr schrieb Walter Slaje <
+walter.slaje at gmail.com>:
+
+> Dear Professor Lusthaus,
+>
+> from Bhāskarakaṇṭha’s commentary we can only learn in what way he took
+> aśvatarī (f.) to mean in the given context.
+> In the given context, he equals aśvatarī (f.) with a vaḍavā (f.).
+> Therefore: vaḍavā (f.) stands for aśvatarī. aśvatarī = vaḍavā is what he
+> means to say. He uses vaḍavā, as a vaḍava has a somewhat ambiguous nature:
+> “a male horse resembling a mare [...]“ (MW).
+> However, he specifies what he actually means, because vaḍava used by
+> itself is not sufficiently precise (in the given context):
+> kharastriyām aśvāj jātā = “born from a female donkey and (male) horse“, in
+> your own words.
+>
+> „So that is an attempt to treat aśvatarī as a hinny“. Right. This is
+> exactly what I was getting at and what Roland Steiner's translation says.
+>
+> Additional information can be extracted from Bhāskarakaṇṭha. If a female
+> hinny (aśvatarī) gets pregnant, he adds, foaling is not possible without
+> opening the abdomen (tasyā garbhaḥ kukṣipāṭanaṃ vinā na niryāti).
+>
+> I cannot find any translation or interpretation errors here.
+>
+> Of course, everyone is free to question and to criticise premodern Indian
+> authors for their observations of nature. However, we should never forget
+> that in the present case we see the unspectacular depiction of an everyday
+> reality, and that the authors were able to observe their environment more
+> closely than we can today. If, what Bhāskarakaṇṭha had had to say about
+> female hinnies, had been made up, his explanation of the dṛṣṭānta would
+> have come to nothing. He would have simply made a fool of himself among his
+> contemporaries. Maybe he did, maybe he did not. I for one believe he did
+> not.
+>
+> Kind regards,
+> WS
+>
+>
+> Am So., 22. Nov. 2020 um 13:37 Uhr schrieb Dan Lusthaus <
+> prajnapti at gmail.com>:
+>
+>> On second look, aśva (not asvā), would be a male horse, so kharastriyām
+>> aśvāj jātā vaḍavā would mean born from a female donkey and (male) horse,
+>> though I’m not sure what to make of vaḍavā/vaḍaba “a male horse resembling
+>> a mare (and therefore attracting the stallion)” (MW).
+>>
+>> So that is an attempt to treat aśvatarī as a hinny. But is that followed
+>> consistently in the literature?
+>>
+>> Dan
+>>
+>> On Nov 22, 2020, at 7:21 AM, Dan Lusthaus via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>> Dear Prof. Slaje,
+>>
+>> Thank you for those examples. However, as far as I can tell, the idea
+>> that aśvatarī is a hinny, rather than a she-mule, seems to be only in
+>> Steiner’s interpretation, not in the texts themselves. Bhāskarakaṇṭha only
+>> explains it as a female mule (khara = mule, strī = female animal).
+>> Similarly, dvijātīya similarly just means a mule, without specifying
+>> that the parents must be a male horse and a female donkey rather than the
+>> inverse.
+>>
+>> Monier-Williams has around 24 terms that can mean a mule, several of
+>> which mean a she-mule (e.g., aśvatarī, kharī, etc.), typically by giving
+>> a word for mule a feminine form. For instance:
+>>
+>> aśvatara b m. (Pāṇ. 5-3, 91 ) a mule, AV. iv, 4, 8 ; ŚBr.  &c.
+>> (compar. of aśva) a better horse, Pat.
+>> a male calf, L.
+>> one of the chiefs of the Nāgas, MBh. ; Hariv.  &c.
+>> N. of a Gandharva, L.
+>> aśvatarā f. a better mare, Pat.
+>> aśvatarī f. a she-mule, AV. viii, 8, 22 ; MBh. &c.
+>>
+>> But a she-mule is not a hinny. A mule has a male donkey and a female
+>> horse for parents. A hinny has the opposite: a male horse and a female
+>> donkey for parents. Mules and hinnies are physiologically different from
+>> each other as well. A hinny can be a male or a female.
+>> https://en.wikipedia.org/wiki/Hinny
+>> https://en.wikipedia.org/wiki/Mule
+>>
+>> The wikipedia entry for “mule” says the following about their fertility:
+>> ==
+>>
+>> Mules and hinnies have 63 chromosomes
+>> <https://en.wikipedia.org/wiki/Chromosome>, a mixture of the horse's 64
+>> and the donkey's 62. The different structure and number usually prevents
+>> the chromosomes from pairing up properly and creating successful embryos,
+>> rendering most mules infertile <https://en.wikipedia.org/wiki/Infertile>.
+>>
+>>
+>> A few mare mules have produced offspring when mated with a purebred horse
+>> or donkey.[18] <https://en.wikipedia.org/wiki/Mule#cite_note-18>[19]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-Kay2002-19> Herodotus
+>> <https://en.wikipedia.org/wiki/Herodotus> gives an account of such an
+>> event as an ill omen of Xerxes' invasion of Greece
+>> <https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece> in 480
+>> BC: "There happened also a portent of another kind while he was still at
+>> Sardis—a mule brought forth young and gave birth to a mule" (Herodotus *The
+>> Histories <https://en.wikipedia.org/wiki/Histories_(Herodotus)>* 7:57),
+>> and a mule's giving birth was a frequently recorded portent in antiquity,
+>> although scientific writers also doubted whether the thing was really
+>> possible (see e.g. Aristotle <https://en.wikipedia.org/wiki/Aristotle>, *Historia
+>> animalium*, 6.24; Varro <https://en.wikipedia.org/wiki/Varro>, *De re
+>> rustica*, 2.1.28).
+>>
+>> As of October 2002, there had been only 60 documented cases of mules
+>> birthing foals since 1527.[19]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-Kay2002-19> In China
+>> <https://en.wikipedia.org/wiki/China> in 2001, a mare mule produced a
+>> filly <https://en.wikipedia.org/wiki/Filly>.[20]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-FertileMule1985-20> In
+>> Morocco <https://en.wikipedia.org/wiki/Morocco> in early 2002 and
+>> Colorado <https://en.wikipedia.org/wiki/Colorado> in 2007, mare mules
+>> produced colts.[19]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-Kay2002-19>[21]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-Npr2007-07-26-21>[22]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-DenverPost2007-09-19-22>
+>> Blood and hair samples from the Colorado birth verified that the mother was
+>> indeed a mule and the foal was indeed her offspring.[22]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-DenverPost2007-09-19-22>
+>>
+>> A 1939 article in the *Journal of Heredity* describes two offspring of a
+>> fertile mare mule named "Old Bec", which was owned at the time by Texas
+>> A&M University <https://en.wikipedia.org/wiki/Texas_A%26M_University> in
+>> the late 1920s. One of the foals was a female, sired by a jack. Unlike her
+>> mother, she was sterile. The other, sired by a five-gaited Saddlebred
+>> <https://en.wikipedia.org/wiki/American_Saddlebred> stallion, exhibited
+>> no characteristics of any donkey. That horse, a stallion, was bred to
+>> several mares, which gave birth to live foals that showed no
+>> characteristics of the donkey.[23]
+>> <https://en.wikipedia.org/wiki/Mule#cite_note-JHeredity-30-12-23>
+>> ==
+>>
+>> The wikipedia entry on “hinny" has the following on fertility:
+>> ==
+>>
+>> Hinnies are difficult to obtain because of the differences in the number
+>> of chromosomes <https://en.wikipedia.org/wiki/Chromosome> of the horse
+>> and the donkey <https://en.wikipedia.org/wiki/Donkey>. A donkey has 62
+>> chromosomes, whereas a horse has 64. Hinnies, being hybrids of those two
+>> species <https://en.wikipedia.org/wiki/Species>, have 63 chromosomes and
+>> are in the majority of cases sterile
+>> <https://en.wikipedia.org/wiki/Infertile>. The uneven number of
+>> chromosomes results in an incomplete reproductive system
+>> <https://en.wikipedia.org/wiki/Reproductive_system>. According to the
+>> ADMS: "The equine hybrid is easier to obtain when the lower chromosome
+>> count, the donkey, is in the male. Therefore breeding for hinnies is more
+>> hit-and-miss than breeding for mules."[2]
+>> <https://en.wikipedia.org/wiki/Hinny#cite_note-LongearLingo-2>
+>>
+>> The male hinny or mule can and will mate, but the emission is not fertile
+>> <https://en.wikipedia.org/wiki/Fertility>. Male hinnies and mules
+>> <https://en.wikipedia.org/wiki/Mule> are usually castrated to help
+>> control their behavior by eliminating their interest in females.[*citation
+>> needed <https://en.wikipedia.org/wiki/Wikipedia:Citation_needed>*]
+>>
+>> Female hinnies and mules are not customarily spayed, and may or may not
+>> go through estrus <https://en.wikipedia.org/wiki/Estrus>. Female mules
+>> have been known, on rare occasions, to produce offspring when mated to a
+>> horse or donkey, although this is extremely uncommon. Since 1527, sixty
+>> cases of foals born to female mules around the world have been documented.
+>> [4] <https://en.wikipedia.org/wiki/Hinny#cite_note-Kay2002-4> In
+>> contrast, according to the ADMS, there is only one known case of a female
+>> hinny doing so.
+>>
+>> Namely, in China <https://en.wikipedia.org/wiki/China>, in 1981, a hinny
+>> mare proved fertile with a donkey sire. When the Chinese hinny was bred to
+>> a jack, she produced the so-called "Dragon Foal", which resembled a donkey
+>> with mule-like features.[5]
+>> <https://en.wikipedia.org/wiki/Hinny#cite_note-FertileMule1985-5> In
+>> Morocco <https://en.wikipedia.org/wiki/Morocco>, in 2002, a mule mare
+>> bred to a donkey sire produced a male foal.[4]
+>> <https://en.wikipedia.org/wiki/Hinny#cite_note-Kay2002-4> DNA testing
+>> revealed the foal has a mixed karyotype
+>> <https://en.wikipedia.org/wiki/Karyotype> hybrid like the Chinese hinny
+>> offspring "Dragon Foal".[*citation needed
+>> <https://en.wikipedia.org/wiki/Wikipedia:Citation_needed>*]
+>>
+>> Hinnies are rare for many other reasons. Donkey jennies and horse
+>> stallions can be choosier about their mates than horse mares and donkey
+>> jacks.[*citation needed
+>> <https://en.wikipedia.org/wiki/Wikipedia:Citation_needed>*] Thus, the
+>> two parties involved may not even care to mate. Even if they do cooperate,
+>> donkey jennies are less likely to conceive when bred to a horse stallion
+>> than horse mares are when bred to a donkey jack. Breeding
+>> <https://en.wikipedia.org/wiki/Horse_breeding> large hinnies is an even
+>> bigger challenge, as it requires stock from a jenny of large size, such as
+>> the Baudet de Poitou <https://en.wikipedia.org/wiki/Baudet_de_Poitou> or American
+>> Mammoth Donkey <https://en.wikipedia.org/wiki/American_Mammoth_Donkey>.
+>> Mammoth donkey stock is becoming increasingly rare and has been declared an
+>> endangered domestic breed. Fanciers are unlikely to devote a Mammoth
+>> jenny's valuable breeding time to producing sterile hinny hybrids, when
+>> Mammoth jennies are in high demand to produce fertile purebred Mammoth foals
+>> ==
+>>
+>> There is no mention of requiring caesarians.
+>>
+>> Some of the mule terms in MW:
+>>
+>> dvi—jātīya mfn. relating to the twice-born i.e. to the first 3 castes of
+>> twofold nature or mixed origin, mongrel. dvi—jātīya m. a mule.
+>>
+>> mūka “the offspring of a mule and mare”
+>>
+>> ruṇḍa m. the offspring of a mule and a mare (also means “maimed,
+>> mutilated; a headless body”)
+>>
+>> vega—sara m. (cf. vesara) a mule.
+>> vega—sarī f. a female mule.
+>>
+>> vesara m. (cf. vega-sara; also written veśara) a mule.
+>> vesarī f. a female mule.
+>>
+>> sakṛd—garbha m. ‘having only one conception’, a mule.
+>>
+>> saṃ-ka°rāśva m. ‘mongrel horse’, a mule.
+>>
+>> While some refer to female mules, I don’t think any of these terms
+>> specifically indicate a hinny, which, again, could be male or female. The
+>> Chinese terms clearly differentiate between a mule (騾 luo, the result of
+>> mating a mare with a donkey) and a hinny (駏驉 juxu, result of mating a
+>> stallion with a female donkey). I remain curious what the underlying
+>> Sanskrit or prakrit term behind juxu might be.
+>>
+>> with regards,
+>> Dan
+>>
+>> On Nov 22, 2020, at 6:00 AM, Walter Slaje via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>> > “A hinny is [...] the offspring of a male horse (a stallion) and a
+>> female donkey (a jenny)."
+>> Is there a Skt term for a hinny?
+>>
+>> Cp. Mokṣopāya  I.38.8:
+>> aviśrāntamanāḥ śūnyam āyur ātatam īhate |
+>> duḥkhāyaiva vimūḍho 'ntar garbham *aśvatarī* yathā ||
+>>
+>> Bhāskarakaṇṭha explains it as follows:
+>> "aśvatarī"* kharastriyām aśvāj jātā* vaḍavā | tasyā "garbhaḥ"
+>> kukṣipāṭanaṃ vinā na niryāti (Mokṣopāyaṭīkā on I.13.8)
+>>
+>> Cp. the translation by Roland Steiner (Wiesbaden 2014: p.52):
+>> 13.8 Ein innerlich verwirrter [Mensch, dessen] Denken *(manas)* nicht
+>> beruhigt [ist], strebt nach einem leeren, ausgedehnten Leben, [das einem]
+>> nichts anderes als Leiden [einträgt], wie eine *Maul­­eselstute*[1] eine
+>> Leibesfrucht [begehrt].
+>>
+>> ------------------------------
+>> [1] Eine Maul­­eselstute (Vater: Pferdehengst; Mutter: Eselstute) kann
+>> nach Bhāskarakaṇṭha nur mit Kaiserschnitt gebären; MṬ I *ad* 13.8: *aśvatarī
+>> kharastriyām aśvāj jātā vaḍavā / tasyā garbhaḥ kukṣipāṭanaṃ vinā na niryāti*
+>> .
+>>
+>> pw offers a series of entries of Sanskrit words for "Maulthier" (=
+>> "mule"):
+>>
+>> https://nws.uzi.uni-halle.de/search?lang=de&utf8=%E2%9C%93&q=&m=&t=maulthier&d=&type=&ntype=&cat=&ncat=&c=&v=&merge=on
+>>
+>> and gives one entry for "Maulesel" (= "hinny"), namely dvijātīya. Schmidt
+>> adds "°pāraśama":
+>>
+>> https://nws.uzi.uni-halle.de/search?lang=de&utf8=%E2%9C%93&q=&m=&t=maulesel&d=&type=&ntype=&cat=&ncat=&c=&v=&merge=on
+>>
+>>
+>> Kind regards,
+>> WS
+>>
+>>
+>> Am So., 22. Nov. 2020 um 10:48 Uhr schrieb Dan Lusthaus via INDOLOGY <
+>> indology at list.indology.info>:
+>>
+>>> I also found Dhadpale’s idea convincing.
+>>>
+>>> As to whether there were āgama versions, the answer is yes, but not
+>>> currently available in an Indic language, only in Chinese translation. In
+>>> addition to the Madhyama-āgama passage I posted, there is a version of
+>>> the Assalāyana sutta that was translated as an independent text: Fanzhi
+>>> eboluoyan wen zhong zun jing, 梵志頞波羅延問種尊經 (Sutra on questions to Buddha
+>>> about caste from the brahmin Ebulouyan=Assalāyana), translated by 竺曇無蘭 Zhu
+>>> Tanwulan (*Dharmarakṣa, *Dharmaratna), a Central Asian monk in the late 4th
+>>> c. Since it expands the discussion a bit, I translate it here. Like the
+>>> Madhyama-āgama version, it omits the problematic word, unless the word was
+>>> glossed instead of translated. But it adds an additional equine
+>>> reproductive set:
+>>>
+>>> 《梵志頞波羅延問種尊經》卷1：「頞波羅延言：「我種自說言勝餘種。」
+>>> 佛告頞波羅延：「有驢父馬母，馬[7]為生子，名是何等？」
+>>> 頞波羅延言：「名騾。父亦不字為騾，母亦不字為騾。」
+>>> 「若何以字為騾？」
+>>> 「我先祖呼作騾，我隨言騾。」
+>>> 「有馬父驢母，驢[8]為生子，若名為何等字為駏驉？父亦不字為駏驉，母亦不字為駏驉，若何知為駏驉？」
+>>> 「我先祖呼為駏驉，因隨言駏驉。」」(CBETA, T01, no. 71, p. 877, b29-c7)
+>>> [7]〔為〕－【宋】【元】【明】。[8]為生…為＝生子名是【宋】【元】【明】。
+>>>
+>>> Ebulouyan said, “Those of my type (= caste) say that we are better than
+>>> the other types.”
+>>> Buddha replied to Eboluoyan: “There is an ass father and a horse mother.
+>>> The horse gives birth to a child. What is it called?”
+>>> Ebulouyan said: “It’s called a mule. The father is not designated as a
+>>> mule, nor is the mother designated as a mule.”
+>>> [Buddha asks]: Why then do you designate it as a mule?
+>>> [Ebulouyan]: “The patriarchs who preceded me called it a mule, and I
+>>> follow them in saying it is a mule.”
+>>> [Buddha]: “There is a horse father and an ass mother. The ass gives
+>>> birth to a child. Would that be called a 駏驉 juxu (English: hinny)? [1]
+>>> Neither is the father designated as a juxu, nor is the mother designated as
+>>> a juxu. So how do you know it as a juxu?
+>>> [Ebulouyan]: “The patriarchs who preceded me called it a juxu, so for
+>>> that reason I follow them in saying it is a juxu.”
+>>>
+>>> —
+>>> 1. 駏驉 juxu “By some accounts a mythical horselike beast; other accounts
+>>> give it as the offspring of a stallion and female donkey.” (CJKVE-D). In
+>>> English this is called a hinny. “A hinny is a domestic equine hybrid that
+>>> is the offspring of a male horse (a stallion) and a female donkey (a
+>>> jenny). It is the reciprocal cross to the more common mule, which is the
+>>> product of a male donkey (a jack) and a female horse (a mare). The hinny is
+>>> distinctive from the mule both in physiology and temperament as a
+>>> consequence of genomic imprinting.”
+>>> https://en.wikipedia.org/wiki/Hinny
+>>>
+>>> Is there a Skt term for a hinny?
+>>>
+>>> Dan
+>>>
+>>> On Nov 21, 2020, at 10:17 PM, Madhav Deshpande via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>> Along the lines of Professor Dhadphale's suggestion for *vekurañja *as
+>>> coming from Skt. *dvaikulajanya*, there are expressions like
+>>> *dvaimātura*, *ṣāṇmātura etc. *The term *dvyāmuṣyāyaṇa* refers to a son
+>>> with two fathers, one legal and the other biological. The sons born out of
+>>> the so-called *niyoga *"levirate" are described with this term.  The
+>>> term *kuṇḍa *used in the passage has a meaning of "out of wedlock," but
+>>> having a dual connection, suggesting something unnatural, illegal.   So
+>>> *dvaikulajanya* sounds like a very possible source.  I wonder if there
+>>> is a northern Sanskrit āgama version.  I read from earlier messages that
+>>> the non-Pali versions translated into Chinese show that this term was
+>>> eliminated from the text, possibly being considered some sort of an error.
+>>>
+>>> Madhav M. Deshpande
+>>> Professor Emeritus, Sanskrit and Linguistics
+>>> University of Michigan, Ann Arbor, Michigan, USA
+>>> Senior Fellow, Oxford Center for Hindu Studies
+>>> Adjunct Professor, National Institute of Advanced Studies, Bangalore,
+>>> India
+>>>
+>>> [Residence: Campbell, California, USA]
+>>>
+>>>
+>>> On Sat, Nov 21, 2020 at 2:58 PM Martin Straube via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>>> Dear Artur, Rolf & Dan,
+>>>>
+>>>> following a note in my files I see that M.G. Dhadphale has suggested
+>>>> an etymology of the word in question in 1974. Please find the article
+>>>> attached. This may or may not be helpful too.
+>>>>
+>>>> With best wishes
+>>>> Martin
+>>>>
+>>>>
+>>>>
+>>>> --
+>>>> Martin Straube
+>>>> Research Fellow in Pali Lexicography
+>>>> Pali Text Society
+>>>>
+>>>> Philipps-Universität Marburg
+>>>> Indologie und Tibetologie
+>>>> Deutschhausstrasse 12
+>>>> 35032 Marburg
+>>>> Germany
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> indology-owner at list.indology.info (messages to the list's managing
+>>>> committee)
+>>>> http://listinfo.indology.info (where you can change your list options
+>>>> or unsubscribe)
+>>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing
+>>> committee)
+>>> http://listinfo.indology.info (where you can change your list options
+>>> or unsubscribe)
+>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> indology-owner at list.indology.info (messages to the list's managing
+>>> committee)
+>>> http://listinfo.indology.info (where you can change your list options
+>>> or unsubscribe)
+>>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> indology-owner at list.indology.info (messages to the list's managing
+>> committee)
+>> http://listinfo.indology.info (where you can change your list options or
+>> unsubscribe)
+>>
+>>
+>>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20201123/bc00f963/attachment.htm>

@@ -1,0 +1,35 @@
++++
+title = "254 Frances Pritchett"
+date = "2000-10-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-October/023131.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-October/023131.html)
+
+Senior Scholar in Sanskrit
+
+The Department of Middle East and Asian Languages and Cultures at Columbia
+University seeks to appoint a senior professor in Sanskrit Language and
+Literature.  Scholars pursuing all disciplinary approaches are invited to
+apply. Applicants should be internationally acknowledged leaders in the
+discipline and be able to demonstrate a distinguished career in research
+and teaching. They should be prepared to teach at all levels of
+undergraduate and graduate instruction and will be expected to take an
+active role in the department and its involvement with other programs.
+
+Applications will be reviewed starting January 1, 2001, with the intent of
+filling the position July 1, 2001 or soon thereafter. Send a letter of
+application and curriculum vitae to:
+
+Chair, Sanskrit Search
+Department of MEALAC
+602 Kent Hall, MC 3928
+Columbia Univ.
+New York, NY 10027
+
+
+Women and minorities are especially encouraged to apply. Columbia
+University is an equal opportunity/affirmative action employer
+
+
+

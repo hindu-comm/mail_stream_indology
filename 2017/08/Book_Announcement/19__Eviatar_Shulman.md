@@ -1,0 +1,52 @@
++++
+title = "19 Eviatar Shulman"
+date = "2017-08-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046365.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-August/046365.html)
+
+Dear friends and colleagues (and apologies for cross-posting),
+
+I thought that members of the list may be interested in learning that my
+book, *Rethinking the Buddha: Early Buddhist Philosophy as Meditative
+Perception *(Cambridge, 2014) has recently been issued  in paperback. This
+is a short description of its contents -
+
+
+
+
+A cornerstone of Buddhist philosophy, the doctrine of the four noble truths
+maintains that life is replete with suffering, desire is the cause of
+suffering, nirvana is the end of suffering, and the way to nirvana is the
+eightfold noble path. Although the attribution of this seminal doctrine to
+the historical Buddha is ubiquitous, Rethinking the Buddha demonstrates
+through a careful examination of early Buddhist texts that he did not
+envision them in this way. Shulman traces the development of what we now
+call the four noble truths, which in fact originated as observations to be
+cultivated during deep meditation. The early texts reveal that other
+central Buddhist doctrines, such as dependent-origination and selflessness,
+similarly derived from meditative observations. This book challenges the
+conventional view that the Buddha's teachings represent universal themes of
+human existence, allowing for a fresh, compelling explanation of the
+Buddhist theory of liberation.
+
+
+
+With best regards,
+
+
+Tari Shulman
+
+-- 
+Dr. Eviatar Shulman
+Senior Lecturer
+Department of Religious Studies
+Department of Asian Studies
+The Hebrew University of Jerusalem
+http://www.cambridge.org/us/academic/subjects/religion/buddhism-and-eastern-religions/rethinking-buddha-early-buddhist-philosophy-meditative-perception
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170804/141eb838/attachment.htm>

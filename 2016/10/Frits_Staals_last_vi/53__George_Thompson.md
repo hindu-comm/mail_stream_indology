@@ -1,0 +1,25 @@
++++
+title = "53 George Thompson"
+date = "2016-10-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2016-October/044445.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2016-October/044445.html)
+
+Dear List,
+
+I am finishing up an introduction to the long-delayed memorial to Frits
+that I've been working on.  I want to talk about what I think was Frits's
+last visit to the US.  I know that he visited Harvard and Yale where we had
+symposia in his honor. He also was celebrated in New York and, of course,
+Berkeley.  Can anyone who attended any of these events remind me of the
+dates?
+
+Thank you,
+
+George Thompson
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20161026/14a35d7c/attachment.htm>

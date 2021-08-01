@@ -1,0 +1,33 @@
++++
+title = "102 Vishal Agarwal"
+date = "1999-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/1999-December/019372.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/1999-December/019372.html)
+
+Nanda Chandran asked:
+Date:         Thu, 2 Dec 1999 09:25:14 PST
+
+"In South Indian history, there's an instance where the great Saivite
+saint ThirujnAnasampandar is supposed to have converted a king from
+Jainism to Saivism. Local tradition uses a word (which I don't
+remember)which seems to indicate that many JainA monks were killed following
+the conversion. Even KA Neelakanda ShAstri in his, "History of South India",
+rejects the possiblity of something like that having actually happened and
+suggests that the word must mean something else. " (End of quote)
+
+VA replies:
+Section 2.7 of the following URL contains some relevant information.
+http://www.voi.org/books/negaind/ch2.htm
+This still does not contain a direct answer to your question, which only a
+Tamizh scholar can address.
+Best wishes
+
+Vishal
+
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com
+
+
+

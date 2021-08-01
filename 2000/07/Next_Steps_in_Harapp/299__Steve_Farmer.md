@@ -1,0 +1,38 @@
++++
+title = "299 Steve Farmer"
+date = "2000-07-16"
+upstream_url = "https://list.indology.info/pipermail/indology/2000-July/022004.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2000-July/022004.html)
+
+Michael Witzel writes:
+
+> Rather, what needs to be done, is not to engage in  lofty speculations
+> but to start from square one: a proper list of characters and of sign
+> combinations. 800, not 400 signs.  The Indus matter *may* indeed
+> be unsolvable with present materials in hand.
+
+Can I add that a separate catalog is needed that focuses exclusively
+on *datable* characters found at individual sites? All the
+concordances that I've seen clump everything into an undifferentiated
+mega-period. The recent study by Bryan Wells (1999) lists important
+regional variants, but again passes over chronological issues. Some of
+this may arise from poor archaeological controls in early IVC
+excavations that yielded the most "seals," but I have the sense from
+reading the old reports that more raw data is available on dates
+than show up in existing concordances.
+
+Maybe Parpola et al. are right in claiming that evolution in the
+script is minimal. I accepted this claim at the start of this
+thread in concluding -- based on the apparent lack of normal
+scribal pressure forcing script change -- that no extensive 'lost'
+Harappan texts ever existed. But that conclusion can't be verified
+unless study of a reasonable subset of datable examples shows that
+change in the script was in fact minimal -- at least in the mature
+Harappan period.
+
+Steve Farmer
+
+
+

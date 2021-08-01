@@ -1,0 +1,30 @@
++++
+title = "155 Elliot Stern"
+date = "2017-01-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2017-January/045117.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2017-January/045117.html)
+
+Dear list members,
+
+I’m looking for a pdf of the following book. If anyone can share one with me, many thanks.
+
+Nyāyatātparyadīpikā / Bha̲ṭṭavāgīśvarapraṇītā
+Ilāhābāda : Gaṅgānāthajhā Kendrīya Saṃskr̥ta Vidyāpīṭham, 1979.
+
+Elliot
+
+Elliot M. Stern
+552 South 48th Street
+Philadelphia, PA 19143-2029
+United States of America
+telephone: 215-747-6204
+mobile: 267-240-8418
+emstern at verizon.net
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20170122/f4bca813/attachment.htm>
