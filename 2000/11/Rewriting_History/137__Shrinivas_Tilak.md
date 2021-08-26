@@ -10,17 +10,20 @@ upstream_url = "https://list.indology.info/pipermail/indology/2000-November/0236
 history. Some of the attempts in that direction have been denounced as
 "fascist." Yet, the urge and rationale for updating a nation's history need
 not always be confined to a right wing political ideology.
+
    A report by the Commission of the Future of Multi Ethnic Britain, which
 was published on October 11, 2000, for instance, has been described as
 "sub-Marxist" (Telegraph, Oct 17, 2000) possibly because the Commission was
 headed by Lord Parekh (Emeritus Professor of political theory, University of
 Hull) and Lady (Kate) Gavron (vice-chairman), both of whom are regarded as
 left wing ideologues.
+
    The report advocates that the history of Britain be revised and rethought
 because many customary images of Britain are England-centred--indeed,
 southern England-centred--and leaves many millions of people (including the
 minorities) out of the picture. The report would like to define United
 Kingdom as a community of communities, rather than a nation.
+
    Gerald Howarth, a Tory MP for Aldershot, has condemned the report as
 "social engineering." "It is," he said,"an extraordinary affront to the 94%
 of the population which is not from ethnic minorities. The native British

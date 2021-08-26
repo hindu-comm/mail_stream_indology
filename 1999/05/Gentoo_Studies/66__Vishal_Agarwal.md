@@ -26,6 +26,7 @@ countered with academic arguments, or else the debate gets debased to the
 levels described in the article "Zydenos vs. Rajaram: A Case Study in the
 Aryan Invasion Polemic"
 Available at http://members.xoom.com/KoenraadElst/articles/zydenbos.html
+
 For instance, one could say that book "Astronomical Code of the Rigveda" by
 Sri Subhash Kak  is based solely on the arrangement of hymns in the Sakala
 Rigveda, whereas the extant manuscripts of Asvalayana, Samkhayana and

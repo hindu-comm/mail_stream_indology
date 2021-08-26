@@ -35,6 +35,7 @@ license-Raj bureacracy were impediments. It is hoped that the so-called
 will not benefit most of India's citizens. Thus those of us who criticize
 and rubbish the Nehruvian vision as elitist, should not forget that, by the
 same standards applied, all of us too are 'elitist'.
+
 I should also point out that it is the Nehruvian vision which it makes it
 possible for all of us today - whether we be in India or abroad (in the west
 or elsewhere) to have this conversation on this online discussion forum.

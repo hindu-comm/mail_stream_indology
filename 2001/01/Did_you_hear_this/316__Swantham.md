@@ -8,6 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2001-January/02512
 
 For whom tolls the bell?
 Hello,
+
 The Amarakosa says "Samskrtam krtrime" and so it has ever been a mother
 tongue of any people. Sanskrit has been politicised in India. It is used by
 the Hindu communalists as an instrument to rally people behind them.
@@ -30,7 +31,8 @@ students conference at Sampurnand University, Benares organised by the
 'hidden communal forces', students revolted, which is a good sign. The
 regime is extending their efforts to implement their 'hidden agenda' in the
 field of Sanskrit studies also. Alert!
-With regards,
+
+With regards,  
 Dr.K.Maheswaran Nair
 Professor of Sanskrit &
 Director,

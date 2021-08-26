@@ -31,7 +31,8 @@ know whether I am right or wrong, whether the subject
 is interesting or not, whether better approaches
 are possible - the discussion dealt with the subject,
 not with my right to discuss it.
-  But on the other hand, the discussion or debate
+  
+But on the other hand, the discussion or debate
 concerning social issues or American foreign policy,
 Vietnam or the Middle East, for example, the issue
 is constantly raised, often with considerable venom.
@@ -41,6 +42,7 @@ have that entitles you to speak of these matters.
 The assumption is that people like me, who are
 outsiders from a professional viewpoint, are not
 entitled to speak on such things.
+
   Compare mathematics and the political sciences -
 it's quite striking. In mathematics, in physics,
 people are concerned with what you say, not with
