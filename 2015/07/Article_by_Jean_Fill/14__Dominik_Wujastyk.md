@@ -7,25 +7,25 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041498.h
 [Archive link](https://list.indology.info/pipermail/indology/2015-July/041498.html)
 
 Dear colleagues,
-​
+
 
 I would like to read Jean Filliozat's article "Le Yoga et les substances
 psychotropes" that was published in
-​the journal ​
-​*​*
+the journal 
+**
 *Y*
-*​oga ​*
-*​et*
-*​ ​*
+*oga *
+*et*
+* *
 *V*
-*​ie*​
+*ie*
 num. 26
-​, in 1978​
+, in 1978
 .
 
-​The journal is published by ​​l’Association du Centre de Relations
+The journal is published by l’Association du Centre de Relations
 Culturelles Franco-Indien, who have written to me offering an annual
-subscription to the current issue of the journal​.  The organization took a
+subscription to the current issue of the journal.  The organization took a
 year to send me this response.  Before I start wrangling with them about
 the specific issue of their journal, I thought I'd ask INDOLOGY.
 

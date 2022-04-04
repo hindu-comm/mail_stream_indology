@@ -20,11 +20,11 @@ impression that he read very little Chinese––in Berlin in the 20s he must
 have had, though, plenty of access to both texts and sinologists. A very
 minor question, but of interest to me.
 
-​  *namaskaromi*,​
+  *namaskaromi*,
 
   Diego Loukota
 
-​PhD Cand. - ​
+PhD Cand. - 
 Department of Asian Languages and Cultures - UCLA - 290 Royce Hall
 
 

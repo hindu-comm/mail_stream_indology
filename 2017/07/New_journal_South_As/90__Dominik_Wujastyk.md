@@ -17,7 +17,7 @@ On 9 July 2017 at 20:09, Andrew Ollett <andrew.ollett at gmail.com> wrote:
 > 3.  No processing fee.
 >
 
-​One would never expect to pay a processing fee except if the article​ is
+One would never expect to pay a processing fee except if the article is
 being published OA.  And in that case, yes, Brill charges about €2000 per
 article for CC-BY.  See the pricing charts here
 <http://www.brill.com/about/open-access/brill-open-authors>.
@@ -33,7 +33,7 @@ latter is the case with this journal.
 > easily granted:  http://www.brill.com/about/policies/rights-permissions
 >
 
-​I balk at asking permission to photocopy my own articles.  It's just not
+I balk at asking permission to photocopy my own articles.  It's just not
 right.  A more equitable situation is for the author to retain copyright
 and issue to the publisher a license for them to do specifically what they
 wish.  See some sample licenses and information here
@@ -57,20 +57,20 @@ Best,
 Dominik
 
 --
-​| ​
+| 
 Professor Dominik Wujastyk
-​ |​
-​ ​
+ |
+ 
 Singhmar Chair in Classical Indian Society and Polit
-​y | ​
+y | 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>,
-​University of Alberta, Canada
-​ |​
-​
-​
+University of Alberta, Canada
+ |
+
+
 ualberta.Academia.edu/DominikWujastyk
-​
-| ​
+
+| 
 
 
 --

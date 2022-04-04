@@ -9,14 +9,14 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037680.
 Dear colleagues,
 
 I've been slowly
-​and informally ​
+and informally 
 collecting digital copies MS catalogues of Skt and Pkt MSS.
 
 See
 
    - http://homepage.univie.ac.at/dominik.wujastyk/
 
-​In the near future, I'll add a link to this collection from somewhere on
+In the near future, I'll add a link to this collection from somewhere on
 http://www.indology.info.
 
 Best,

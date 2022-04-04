@@ -21,8 +21,8 @@ It works consistently for me. Thanks for your concern.
 > The Sanskrit you are looking for is in the Southern Recension.  See the highlighted "Gaṇeśa" words in adhyāya 1:
 > http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121 <http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121>
 > 
-> ​That url didn't work.  Apologies!  Try this instead:
->  http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121 <http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121>​
+> That url didn't work.  Apologies!  Try this instead:
+>  http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121 <http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121>
 > 
 > 
 

@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-October/03849
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-October/038495.html)
 
-   - ​bullet
+   - bullet
    - bullet
 
 indent

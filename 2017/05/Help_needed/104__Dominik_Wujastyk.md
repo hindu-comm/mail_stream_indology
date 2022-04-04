@@ -9,23 +9,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-May/045948.ht
 Is this what you need to see:
 https://archive.org/details/in.ernet.dli.2015.408492
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 24 May 2017 at 04:06, Klaus Karttunen via INDOLOGY <

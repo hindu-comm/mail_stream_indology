@@ -9,23 +9,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-May/045815.ht
 Have you ruled out Ramabhadra Diksita's *Patanjalicarita*
 <https://archive.org/details/Patanjali.Charita.by.Ramabhadra.Dikshita>?
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 14 May 2017 at 13:04, Måns Broo via INDOLOGY <indology at list.indology.info

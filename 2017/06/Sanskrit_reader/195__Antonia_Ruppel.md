@@ -36,8 +36,8 @@ On 18 June 2017 at 15:20, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >> to me seems the best way forward.
 >>
 >
-> ​Dear Antonia, You refer to the familiarity of the format and
-> same-page-ness; this is something I hadn't thought about​, but of course
+> Dear Antonia, You refer to the familiarity of the format and
+> same-page-ness; this is something I hadn't thought about, but of course
 > you are exactly right.  The way the material is presented visually is also
 > critically important to a good learners' book (and one of the many good
 > things about your CIS).  I hope Brill can stump up for a designer for you.

@@ -11,23 +11,23 @@ in the petition.  To anyone else wanting to be included, just send me an
 email at wujastyk+ncc at gmail.com (sorry! last time, I accidentally tagged
 that as a website instead of an email address).
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 4 May 2018 at 20:05, Dominik Wujastyk <wujastyk at gmail.com> wrote:
@@ -55,26 +55,26 @@ On 4 May 2018 at 20:05, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > Dominik Wujastyk
 >
 >
-> ​
+> 
 > --
 > Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-> ​,​
+> ,
 >
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 >
 > Department of History and Classics
 > <http://historyandclassics.ualberta.ca/>
-> ​,​
+> ,
 > University of Alberta, Canada
-> ​.​
+> .
 >
 > South Asia at the U of A:
 >
-> ​sas.ualberta.ca​
+> sas.ualberta.ca
 >
 >
-> ​Draft:
+> Draft:
 >
 > Dear Professor Duraisamy,
 >
@@ -136,9 +136,9 @@ On 4 May 2018 at 20:05, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
 > We, the undersigned, hope and trust that the University of Madras will be
 > able to complete the NCC project soon.
-> ​
+> 
 >
-> ​​
+> 
 >
 >
 

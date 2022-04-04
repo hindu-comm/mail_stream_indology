@@ -31,7 +31,7 @@ Best,
 Dominik
 
 
-​
+
 _______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info

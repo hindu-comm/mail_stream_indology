@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-December/0448
 
 Dear scholars,
 
-We are ​glad to inform you that we are organising a four-day international
+We are glad to inform you that we are organising a four-day international
 workshop on
 "*Sanskrit Computational Linguistics - *
 *linking Sanskrit grammar and texts with *

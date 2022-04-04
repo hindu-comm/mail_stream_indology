@@ -70,20 +70,20 @@ Your question presses a big red button for me :-)  My thoughts are here<https://
 
 --
 Professor Dominik Wujastyk<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fualberta.academia.edu%2FDominikWujastyk&data=02%7C01%7C%7C792c011ed1ea42154edc08d5cb25c1da%7Ce285d438dbba4a4c941c593ba422deac%7C0%7C0%7C636638285386269930&sdata=zzBI9KvVGYZ%2Fd5U%2FL40nAz1K%2BFN7B6G6n6ddzPd%2F9uE%3D&reserved=0>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fhistoryandclassics.ualberta.ca%2F&data=02%7C01%7C%7C792c011ed1ea42154edc08d5cb25c1da%7Ce285d438dbba4a4c941c593ba422deac%7C0%7C0%7C636638285386269930&sdata=o6UaM%2BCRg0JFWnGvX6B66eCvoD%2FV2PW%2FDkUi%2FyuOiwE%3D&reserved=0>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsas.ualberta.ca%2F&data=02%7C01%7C%7C792c011ed1ea42154edc08d5cb25c1da%7Ce285d438dbba4a4c941c593ba422deac%7C0%7C0%7C636638285386269930&sdata=dQt73XzS2E5NDuJNxVv2ZLMKMZVzNcAyeq8IHiwSSew%3D&reserved=0>
-​​
+sas.ualberta.ca<https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fsas.ualberta.ca%2F&data=02%7C01%7C%7C792c011ed1ea42154edc08d5cb25c1da%7Ce285d438dbba4a4c941c593ba422deac%7C0%7C0%7C636638285386269930&sdata=dQt73XzS2E5NDuJNxVv2ZLMKMZVzNcAyeq8IHiwSSew%3D&reserved=0>
+
 
 _______________________________________________
 INDOLOGY mailing list

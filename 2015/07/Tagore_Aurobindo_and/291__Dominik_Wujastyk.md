@@ -19,7 +19,7 @@ copyright-holder's rights.  It's Act, not Intent.
 
 Best,
 Dominik
-​
+
 
 
 -------------- next part --------------

@@ -23,7 +23,7 @@ Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
 
 <https://mail.google.com/mail/u/0/goog_1525257691>
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
 On 20 October 2016 at 18:50, rajam <rajam at earthlink.net> wrote:
@@ -69,9 +69,9 @@ On 20 October 2016 at 18:50, rajam <rajam at earthlink.net> wrote:
 > On Thu, 20 Oct 2016 13:33:33 -0600
 > Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
-> ​Copyright is a sneaky creature.  It's likely that you own the
+> Copyright is a sneaky creature.  It's likely that you own the
 > copyright of your thesis, but not certain.  If you received a
-> financial grant ​during the time you wrote it, then it might be "work
+> financial grant during the time you wrote it, then it might be "work
 > for hire" and the grant body might own the copyright.  Or the
 > university might own the copyright. That's quite likely, in fact.
 > Technically, universities own the copyright of all work written by
@@ -103,7 +103,7 @@ On 20 October 2016 at 18:50, rajam <rajam at earthlink.net> wrote:
 > Alberta, Canada
 >
 > <https://mail.google.com/mail/u/0/goog_1525257691>
-> ​sas.ualberta.ca​
+> sas.ualberta.ca
 >
 >
 > On 19 October 2016 at 19:46, rajam <rajam at earthlink.net> wrote:

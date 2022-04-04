@@ -12,27 +12,27 @@ small letter a with tilde/1
 
 It says, e.g.,
 
-​​
+
 ã latin small letter a with tilde 0343 227 0xE3 ã
 
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 17 November 2016 at 22:12, Dipak Bhattacharya <dipak.d2004 at gmail.com>

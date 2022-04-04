@@ -33,7 +33,7 @@ On 22 October 2014 11:02, Tim Bellefleur <tbelle at alumni.ubc.ca> wrote:
 > transliteration tool quite useful for this purpose:
 > http://sanskritlibrary.org/tomcat/sl/TranscodeText
 >
-> ​Cheers,
+> Cheers,
 >
 > Tim
 >

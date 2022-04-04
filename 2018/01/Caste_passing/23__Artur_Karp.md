@@ -11,7 +11,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-January/04723
 Thank you for this bit of instruction.
 
 > In any case this has nothing to do with caste passing under question here.
-​It has. Plenty. Disguises in both directions.
+It has. Plenty. Disguises in both directions.
 
 
 2018-01-21 12:47 GMT+01:00 Nagaraj Paturi <nagarajpaturi at gmail.com>:

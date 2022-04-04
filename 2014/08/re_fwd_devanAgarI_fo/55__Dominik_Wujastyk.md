@@ -11,7 +11,7 @@ No trouble with typing dīacṛīṭicś or देवनागरी in Linux, u
  Normal writing, I use a plain-text editor, currently TeXStudio.
 
 Dominik "smug" Wujastyk
-​
+
 
 
 -------------- next part --------------

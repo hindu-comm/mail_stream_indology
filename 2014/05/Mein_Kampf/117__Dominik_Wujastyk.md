@@ -6,10 +6,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039415.ht
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-May/039415.html)
 
-​What a gracious letter.  I am very impressed by this response.
+What a gracious letter.  I am very impressed by this response.
 
 Best regards,
-Dominik Wujastyk​
+Dominik Wujastyk
 
 
 

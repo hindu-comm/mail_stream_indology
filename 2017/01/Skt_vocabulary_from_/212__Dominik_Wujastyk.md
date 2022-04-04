@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-January/04518
 [Archive link](https://list.indology.info/pipermail/indology/2017-January/045187.html)
 
 So it means "edited" in fact.  Search for impurities, etc.  That's editing.
-​
+
 
 
 -------------- next part --------------

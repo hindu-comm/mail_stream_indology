@@ -47,7 +47,7 @@ Author FAQs: Publishing Costs
 Q: How much will my institution need to contribute? <>
 The author will be asked to secure $7,500 either from their home institution and/or another independent funding source. For faculty in the University of California system the reduced amount is $5,000. This subsidy requirement is for titles of no more than 90,000 words and 25 images. Additional subsidy costs will be required for titles exceeding this length, and/or those with heavy illustration programs, multimedia components or other complexity. 
 
-There are a number of potential funding sources beyond for authors’s ​​institutional contribution (such as departmental/Dean’s funds, the library’s OA fund, campus grants etc.). Please discuss those options with your UC Press  editor.
+There are a number of potential funding sources beyond for authors’s institutional contribution (such as departmental/Dean’s funds, the library’s OA fund, campus grants etc.). Please discuss those options with your UC Press  editor.
 
 Q: What if my institution doesn’t have money available to contribute? <>
 Authors or institutions who don’t have sufficient funds available to them may be eligible for our Author Waiver Fund.

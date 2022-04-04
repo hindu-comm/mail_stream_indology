@@ -65,7 +65,7 @@ Leidenschaftslosigkeit. Das Buch über das Verhalten der Befreiungssucher.
 
 
 Regards, Walter
-​
+
 
 
 -------------- next part --------------

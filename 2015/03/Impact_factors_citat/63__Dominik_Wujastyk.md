@@ -12,7 +12,7 @@ understand research, for people who don't understand research.
 People who read papers and understand research just don't need them and
 should shun them."
 
--- ​https://twitter.com/NickSevdalis/status/575679216089362432/photo/1
+-- https://twitter.com/NickSevdalis/status/575679216089362432/photo/1
 
 
 -------------- next part --------------

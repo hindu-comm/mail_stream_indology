@@ -71,7 +71,7 @@ Artur Karp
 >>> the Upanisads.
 >>>
 >>> <IMG_20140515_193801.jpg>
->>> ​
+>>> 
 >>>
 >>> This was a shock!  My immediate reaction was that I wish furiously to
 >>> sever all links with MLBD.  I have already written to Penguin Delhi, asking

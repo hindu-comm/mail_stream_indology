@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-March/040866.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-March/040866.html)
 
-​Many of us work with Indian manuscripts.  I'd like to draw attention to a
+Many of us work with Indian manuscripts.  I'd like to draw attention to a
 LaTeX package called biblatex-manuscripts-philology
 <https://www.ctan.org/pkg/biblatex-manuscripts-philology>, written by
 Maïeul Rou­quette.  It offers an extention to the amazing biblatex package

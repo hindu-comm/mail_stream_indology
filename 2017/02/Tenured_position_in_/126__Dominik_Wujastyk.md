@@ -147,25 +147,25 @@ orientation or gender identity and expression; and all those who may
 contribute to the further diversification of ideas and the University to
 apply.
 
-​
+
 
 
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 -------------- next part --------------

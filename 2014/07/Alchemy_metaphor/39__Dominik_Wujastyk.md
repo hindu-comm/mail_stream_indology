@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039671.h
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-July/039671.html)
 
-​Just on the pitta/pīta issue, these are, from the point of view of
+Just on the pitta/pīta issue, these are, from the point of view of
 historical phonology, alternants of the same word meaning "yellow" (cf. law
 of morae; Mayrhofer). Bile, pitta, in Indian medicine, was "[yellow, pīta]
 bile."  The word pīta occurs very frequently in ayurvedic sentences in

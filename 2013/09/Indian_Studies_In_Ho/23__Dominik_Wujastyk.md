@@ -7,11 +7,11 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038
 [Archive link](https://list.indology.info/pipermail/indology/2013-September/038356.html)
 
 D
-​oes anyone have or know of a scanned version of this volume?
+oes anyone have or know of a scanned version of this volume?
 
 *Indian Studies: In Honor of Charles Rockwell
 Lanman<http://openlibrary.org/books/OL6731445M/Indian_studies_in_honor_of_Charles_Rockwell_Lanman.>
-*(Harvard UP, Cambridge, Mass, 1929)*?*​
+*(Harvard UP, Cambridge, Mass, 1929)*?*
 
 I've looked fruitlessly in local uni. library, archive.org, DLI, lirs.ru,
 scribd, and Google Books.  It's been

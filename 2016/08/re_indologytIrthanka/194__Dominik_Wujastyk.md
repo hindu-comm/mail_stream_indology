@@ -19,7 +19,7 @@ Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
 
 <https://mail.google.com/mail/u/0/goog_1525257691>
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
 On 10 August 2016 at 00:48, <jacob at fabularasa.dk> wrote:

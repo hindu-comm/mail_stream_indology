@@ -24,23 +24,23 @@ Originally presented as the authorś thesis, Freie Universität, Berlin.
 
 
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 20 April 2017 at 15:00, Hartmut Buescher <buescherhartmut at gmail.com>
@@ -51,7 +51,7 @@ wrote:
 > actually I don't assume that Camillo is not in fact aware of the
 > distinction,
 >
-​[...]​
+[...]
 
 
 -------------- next part --------------

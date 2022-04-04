@@ -18,7 +18,7 @@ Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
 
 <https://mail.google.com/mail/u/0/goog_1525257691>
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
 On 27 October 2016 at 10:57, Charles Li <cchl2 at cam.ac.uk> wrote:

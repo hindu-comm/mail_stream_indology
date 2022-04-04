@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046
 
 Dear Dr Formigatti,
 
-​​
+
 
 thank you for your detailed and indeed very welcome elucidation!
 
@@ -16,18 +16,18 @@ I think, however, there is a need to dispel a possible misunderstanding:
 The only umbrage I was taking at was the scientist’s zero discovery claim
 and the lack of any Indological expertise in this sensationalist broadcast,
 which would
-​perhaps have ​
+perhaps have 
 be
-​en​
+en
 justified for the radiocarbon dating. It is reassuring to learn about the
 actual background of the whole undertaking, for which the research team
 deserves unreserved congratulations, and I would
-​be ​
+be 
 the last person not to applaud
-​ to their efforts​
-​.
+ to their efforts
+.
 
-​
+
 
 What you say about “the reason why Hayashi is not mentioned in the Guardian
 article–nor is any of us from the team (...) is that this is an article
@@ -52,19 +52,19 @@ recognizable in the first generation of conflated texts of that kind, this
 would no longer be the case in the copies made by one scribal hand from
 this exemplar. If the process was carried on for centuries, only a
 philological analysis could uncover what lies beneath
-​an apparently homogeneous surface.
+an apparently homogeneous surface.
 
 
-Perhaps the Bakshāli, too, is itself a product​,​
-​ at the beginning or
+Perhaps the Bakshāli, too, is itself a product,
+ at the beginning or
 
-​somewhere ​
+somewhere 
 in the middle
-​,​
+,
 of
-​a ​
+a 
 repeated process of material layer conflations
-​​
+
 .
 
 

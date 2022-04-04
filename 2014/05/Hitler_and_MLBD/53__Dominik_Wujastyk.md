@@ -12,7 +12,7 @@ incongruously between Alonso on the Mahabharata and the Black on the
 Upanisads.
 
 
-​
+
 
 This was a shock!  My immediate reaction was that I wish furiously to sever
 all links with MLBD.  I have already written to Penguin Delhi, asking to

@@ -6,11 +6,11 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-May/047606.ht
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2018-May/047606.html)
 
-​Prof. Karttunen kindly pointed me to Zaehner's obituary in *Iran* 13 (1975)
+Prof. Karttunen kindly pointed me to Zaehner's obituary in *Iran* 13 (1975)
 <https://www.jstor.org/stable/4300520>, where this image appears:
 
 [image: zaehner.png]
-​
+
 
 
 On Mon, 7 May 2018 at 15:24, Dominik Wujastyk <wujastyk at gmail.com> wrote:
@@ -29,24 +29,24 @@ On Mon, 7 May 2018 at 15:24, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > Dominik
 >
 >
-> ​
+> 
 > --
 > Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-> ​,​
+> ,
 >
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 >
 > Department of History and Classics
 > <http://historyandclassics.ualberta.ca/>
-> ​,​
+> ,
 > University of Alberta, Canada
-> ​.​
+> .
 >
 > South Asia at the U of A:
 >
-> ​sas.ualberta.ca​
-> ​​
+> sas.ualberta.ca
+> 
 >
 >
 

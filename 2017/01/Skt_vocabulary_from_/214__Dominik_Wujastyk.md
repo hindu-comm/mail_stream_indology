@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-January/04518
 Here are some accessible pages
 <https://archive.org/stream/TheCarakasahitOrCharakasamhitaOfCarakaEditedByYadavaarman/Carakasamhita-Trikamji1941#page/n21/mode/2up>
 of this kind of Sanskrit.
-​
+
 
 
 -------------- next part --------------

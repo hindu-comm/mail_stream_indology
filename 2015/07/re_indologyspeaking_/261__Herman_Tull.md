@@ -107,9 +107,9 @@ On Sun, Jul 19, 2015 at 2:12 PM, George Hart <glhart at berkeley.edu> wrote:
 > wrote:
 >
 >> Two wrongs don't make a right.  (If that's what you meant.)
->> ​
->> ​
->> Dominik Wujastyk​
+>> 
+>> 
+>> Dominik Wujastyk
 >>
 >> _______________________________________________
 >> INDOLOGY mailing list

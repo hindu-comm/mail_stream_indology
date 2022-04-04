@@ -70,7 +70,7 @@ On 06/10/2016 08:19, Walter Slaje wrote:
 >
 > WS
 >
-> ​​
+> 
 >
 > 2016-10-05 20:56 GMT+02:00 Antonia Ruppel <rhododaktylos at gmail.com 
 > <mailto:rhododaktylos at gmail.com>>:

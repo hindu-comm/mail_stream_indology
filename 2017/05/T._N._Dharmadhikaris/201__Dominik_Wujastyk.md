@@ -8,23 +8,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-May/045706.ht
 
 https://www.worldcat.org/search?q=t.+n.+dharmadhikari+taittiriya&qt=results_page
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 27 April 2017 at 08:53, Harry Spier via INDOLOGY <

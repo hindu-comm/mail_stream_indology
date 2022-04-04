@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041600.h
 cough.
 <https://www.dropbox.com/s/5p1ng46plmbdhqz/1988%20Copying%20in%20Lexicography%20-%20Mondier-Williams%20Sanskrit%20Dictionary%20and%20Other%20Cases.pdf?dl=0>
 
-​
+
 
 
 -------------- next part --------------

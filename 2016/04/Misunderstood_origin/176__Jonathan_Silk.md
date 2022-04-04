@@ -39,7 +39,7 @@ wrote:
 >
 > Best,
 > Dominik Wujastyk
-> ​
+> 
 >
 > _______________________________________________
 > INDOLOGY mailing list

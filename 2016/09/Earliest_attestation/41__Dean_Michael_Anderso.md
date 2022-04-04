@@ -16,7 +16,7 @@ Cc: Indology List <indology at list.indology.info>
 
 See the sophisticated study "Mahābhūtas" by Karin Preisendanz in Brill's Encyclopedia of Hinduism, that considers this topic from several previously unproblematized angles.
 
-​​Karin Preisendanz, “Mahābhūtas”, in: ​​Brill’s Encyclopedia of Hinduism, Edited by: Knut A. Jacobsen, Helene Basu, Angelika Malinar, Vasudha Narayanan. Consulted online on 04 September 2016 <http://dx.doi.org/10.1163/2212-5019_beh_COM_2050180>
+Karin Preisendanz, “Mahābhūtas”, in: Brill’s Encyclopedia of Hinduism, Edited by: Knut A. Jacobsen, Helene Basu, Angelika Malinar, Vasudha Narayanan. Consulted online on 04 September 2016 <http://dx.doi.org/10.1163/2212-5019_beh_COM_2050180>
 First published online: 2012
 
 --
@@ -25,7 +25,7 @@ Singhmar Chair in Classical Indian Society and Polity
 Department of History and Classics
 University of Alberta, Canada
 
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 On 31 August 2016 at 12:11, Dean Michael Anderson via INDOLOGY <indology at list.indology.info> wrote:
 

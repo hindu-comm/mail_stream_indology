@@ -200,7 +200,7 @@ wrote:
 >>>>>
 >>>>>
 >>>>> <https://urldefense.proofpoint.com/v2/url?u=https-3A__mail.google.com_mail_u_0_goog-5F1525257691&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=kvsIBXKe62TChM5mYI-iXv2Qwd2YwrXeVE2HFlMXUzY&s=03wVF-ckGU1T4gINV4DreQ6wodOnraImUwHWDzfg-mc&e=>
->>>>> ​sas.ualberta.ca​
+>>>>> sas.ualberta.ca
 >>>>> <https://urldefense.proofpoint.com/v2/url?u=http-3A__sas.ualberta.ca_&d=CwMFaQ&c=8hUWFZcy2Z-Za5rBPlktOQ&r=yKOAMu7Fm_W5kv9CXfjbmb6aWTY6BVQCYZ5TKkB486Q&m=kvsIBXKe62TChM5mYI-iXv2Qwd2YwrXeVE2HFlMXUzY&s=TdfHd8QUDldFuWNngOLieZB3FyRQe5gBNLgSjDvM1tk&e=>
 >>>>>
 >>>>>

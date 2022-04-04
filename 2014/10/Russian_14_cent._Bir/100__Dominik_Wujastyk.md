@@ -13,9 +13,9 @@ independently?
 
 And is the Russian version thicker than the Kashmiri, to support etching?
 
-​Best,
+Best,
 Dominik
-​
+
 
 On 20 October 2014 14:56, Stefan Baums <baums at lmu.de> wrote:
 

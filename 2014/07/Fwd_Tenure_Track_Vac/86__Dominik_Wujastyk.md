@@ -16,7 +16,7 @@ To: wujastyk at gmail.com
 Dear Dominik,
 
 I am writing to draw your attention to two tenure-track jobs at UPenn.
-​[...]
+[...]
 
 The first job is in "global health" in the dept. of hist. & soc. of
 science. Geographic area and time-period are open and we are open to

@@ -38,7 +38,7 @@ On 11 April 2013 16:34, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > though 2000-2007 is a less conveniently presented.
 >
 > Dominik
-> ​​
+> 
 >
 >
 >

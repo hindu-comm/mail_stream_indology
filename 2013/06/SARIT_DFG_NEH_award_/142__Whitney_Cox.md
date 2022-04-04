@@ -15,9 +15,9 @@ Whitney
 
 On Jun 5, 2013, at 8:19 PM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 
-> I am very pleased to announce that a project ​to ​ ​​further develop the​​​​ ​​SARIT​​   ​​digital ​​ ​​​​corpus ​​ has succeeded in attracting major funding from the National Endowment for the Humanities and the Deutsche Forschungsgemeinschaft. 
+> I am very pleased to announce that a project to  further develop the SARIT   digital  corpus  has succeeded in attracting major funding from the National Endowment for the Humanities and the Deutsche Forschungsgemeinschaft. 
 > 
-> Profs. Sheldon Pollock (Columbia, New York) and Birgit Kellner (Heidelberg) applied to a ​bilateral USA-German funding program for the development of digital humanities.  The application was a success, and the announcement can be read on the NEH website.
+> Profs. Sheldon Pollock (Columbia, New York) and Birgit Kellner (Heidelberg) applied to a bilateral USA-German funding program for the development of digital humanities.  The application was a success, and the announcement can be read on the NEH website.
 > 
 > The SARIT website notes that,
 > 
@@ -25,11 +25,11 @@ On Jun 5, 2013, at 8:19 PM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > 
 > Prof. Pollock and I both attended the 1988 meeting in Texas, and the present project will go a large way towards fulfilling the ideas that were born then.  
 > 
-> I would like to take this opportunity to recognize the fine work of other corpus projects in our field of indology, such as the Digital Sanskrit Buddhist Canon, the DCS, Muktabodha, Indica & Buddhica, the Sanskrit Library, and especially of course GRETIL and TITUS.  All these projects have great strengths, and afford important new ways of accessing and studying Indian literatures.  SARIT will ​​make its own unique contribution.
+> I would like to take this opportunity to recognize the fine work of other corpus projects in our field of indology, such as the Digital Sanskrit Buddhist Canon, the DCS, Muktabodha, Indica & Buddhica, the Sanskrit Library, and especially of course GRETIL and TITUS.  All these projects have great strengths, and afford important new ways of accessing and studying Indian literatures.  SARIT will make its own unique contribution.
 > 
-> ​Dr Dominik Wujastyk
+> Dr Dominik Wujastyk
 > SARIT, INDOLOGY.
-> ​
+> 
 > _______________________________________________
 > INDOLOGY mailing list
 > INDOLOGY at list.indology.info

@@ -87,19 +87,19 @@ christophe.vielle at uclouvain.be> wrote:
 > I have made the PDF files, which you kindly placed on INDOLOGY, searchable.
 > With best regards,
 > Seishi Karashima
-> IRIAB, Soka University, Tokyo​​​
+> IRIAB, Soka University, Tokyo
 >  Bagchi_Le_Canon_Bouddhique_en_Chine_vol.1.pdf
 > <https://docs.google.com/file/d/0B0oQFMvTS9kWcC0tbWRBbGo3SGc/edit?usp=drive_web>
 >
 > https://docs.google.com/file/d/0B0oQFMvTS9kWcC0tbWRBbGo3SGc/edit?pli=1
 >
-> ​​
+> 
 >  Bagchi_Le_Canon_Bouddhique_en_Chine_vol.2.pdf
 > <https://docs.google.com/file/d/0B0oQFMvTS9kWakRVUHI2eE9zbDA/edit?usp=drive_web>
 >
 > https://docs.google.com/file/d/0B0oQFMvTS9kWakRVUHI2eE9zbDA/edit?pli=1
 >
-> ​​​
+> 
 >
 >
 > –––––––––––––––––––

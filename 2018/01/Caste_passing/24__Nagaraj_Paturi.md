@@ -40,7 +40,7 @@ On Sun, Jan 21, 2018 at 11:05 PM, Artur Karp <karp at uw.edu.pl> wrote:
 >
 > > In any case this has nothing to do with caste passing under question
 > here.
-> ​It has. Plenty. Disguises in both directions.
+> It has. Plenty. Disguises in both directions.
 >
 >
 > 2018-01-21 12:47 GMT+01:00 Nagaraj Paturi <nagarajpaturi at gmail.com>:

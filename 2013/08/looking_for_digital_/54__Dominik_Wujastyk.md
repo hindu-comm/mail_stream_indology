@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-August/038309
 [Archive link](https://list.indology.info/pipermail/indology/2013-August/038309.html)
 
 D
-​ear colleagues,
+ear colleagues,
 
 These days, we often post queries to each other on the INDOLOGY list asking
 whether someone has an e-text or digtized book, etc.  That's fine, no

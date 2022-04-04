@@ -16,7 +16,7 @@ On 10 July 2014 16:17, Ashok Aklujkar <ashok.aklujkar at gmail.com> wrote:
 > and Medieval India.
 >
 
-​The 1956 reworking by Priyadaranjan Ray of Prafulla Chandra Rây's 1902
+The 1956 reworking by Priyadaranjan Ray of Prafulla Chandra Rây's 1902
 volumes is an interesting "moment" in the history of Indian science in the
 immediate post-colonial period.  It is not a reprint of Rây's original
 books, but a re-framing.  It was published by the Indian Chemical Society,

@@ -53,9 +53,9 @@ On Jun 17, 2015, at 10:26 AM, Patrick Olivelle <jpo at UTS.CC.UTEXAS.EDU> wrote:
 >> 
 >> Sir James.
 >> 
->> ​​Isn't it pleasant to speak of inconsequential matter​s​​, just for a while?
+>> Isn't it pleasant to speak of inconsequential matters, just for a while?
 >> 
->> Dominik​
+>> Dominik
 >> _______________________________________________
 >> INDOLOGY mailing list
 >> INDOLOGY at list.indology.info

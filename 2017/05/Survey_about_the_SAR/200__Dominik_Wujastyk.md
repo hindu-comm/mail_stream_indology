@@ -8,23 +8,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-May/045919.ht
 
 Many thanks to everyone who answered the questionnaire!
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 15 May 2017 at 14:58, Dominik Wujastyk <wujastyk at gmail.com> wrote:
@@ -43,24 +43,24 @@ On 15 May 2017 at 14:58, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > Dominik Wujastyk
 >
 >
-> ​
+> 
 > --
 > Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-> ​,​
+> ,
 >
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 >
 > Department of History and Classics
 > <http://historyandclassics.ualberta.ca/>
-> ​,​
+> ,
 > University of Alberta, Canada
-> ​.​
+> .
 >
 > South Asia at the U of A:
 >
-> ​sas.ualberta.ca​
-> ​​
+> sas.ualberta.ca
+> 
 >
 >
 

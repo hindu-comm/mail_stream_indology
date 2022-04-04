@@ -25,9 +25,9 @@ Dan Lusthaus
 
   For the rappers among us, "cite your sources like a freaking adult."
 
-  ​
+  
 
-  ​Dominik Wujastyk​
+  Dominik Wujastyk
 
 
 -------------- next part --------------

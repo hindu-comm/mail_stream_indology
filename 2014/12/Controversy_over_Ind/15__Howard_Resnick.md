@@ -22,7 +22,7 @@ Howard Resnick
 > 
 > Best,
 > Dominik Wujastyk
-> ​
+> 
 > <ACriticalStudyOfTheWorkVaimanikaShastra.pdf>_______________________________________________
 > INDOLOGY mailing list
 > INDOLOGY at list.indology.info

@@ -36,8 +36,8 @@ playing pieces.
 A quick search for "snakes and ladders" in JSTOR produces a much bigger
 secondary literature than I would have guessed.
 
-​Best,
-Dominik​
+Best,
+Dominik
 
 --
 Dr Dominik Wujastyk
@@ -69,14 +69,14 @@ On 4 September 2013 14:31, Valerie J Roebuck <vjroebuck at btinternet.com>wrote:
 >
 > On 4 Sep 2013, at 10:52, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
-> ​There are some classic Snakes and Ladders ("Heaven and Hell") paintings
-> in the collection of the ​
-> ​Wellcome Library in London.  See the links to the library's "Wellcome
+> There are some classic Snakes and Ladders ("Heaven and Hell") paintings
+> in the collection of the 
+> Wellcome Library in London.  See the links to the library's "Wellcome
 > Images" link below, but also write to a librarian and request:
 >
 >    - Wellcome MS Indic Raghavan M.17
 >    and
->    - ​Wellcome MS Indic ​​beta 781​<Screenshot from 2013-09-04
+>    - Wellcome MS Indic beta 781<Screenshot from 2013-09-04
 >    11:43:53.png>
 >
 >

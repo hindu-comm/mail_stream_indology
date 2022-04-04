@@ -11,23 +11,23 @@ And an electronic edition is available at SARIT
 transcribed from Rau by Somadeva Vasudeva (start - 3.7) and Yves Ramseier
 (3.8 - end).
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 28 October 2017 at 10:07, Gruenendahl, Reinhold via INDOLOGY <

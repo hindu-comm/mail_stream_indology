@@ -24,7 +24,7 @@ On Sat, May 17, 2014 at 9:30 PM, <indology-request at list.indology.info>wrote:
 >         indology at list.indology.info
 >
 > To subscr
-> ​ Prime Minister who is​
+>  Prime Minister who is
 > ibe or unsubscribe via the World Wide Web, visit
 >
 > http://list.indology.info/mailman/listinfo/indology_list.indology.info

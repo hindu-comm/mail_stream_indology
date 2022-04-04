@@ -7,12 +7,12 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-October/04217
 [Archive link](https://list.indology.info/pipermail/indology/2015-October/042174.html)
 
 An
-​
+
 administrative job opening within the
-​​ <http://cordis.europa.eu/project/rcn/192031_en.html>
+ <http://cordis.europa.eu/project/rcn/192031_en.html>
 ERC project on the Gupta period.
 <http://cordis.europa.eu/project/rcn/192031_en.html>
-​  See attached details.​
+  See attached details.
 
 
 -------------- next part --------------

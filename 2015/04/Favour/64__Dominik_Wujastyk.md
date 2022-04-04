@@ -6,12 +6,12 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-April/040963.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-April/040963.html)
 
-​Almost all MSS of the *Bhagavadgītā* have this Mālā text at the beginning,
+Almost all MSS of the *Bhagavadgītā* have this Mālā text at the beginning,
 whether or not it is mentioned in catalogue entries.  Rather few BG MSS
 actually begin "dharmakṣetre kurukṣetre ..." in my experience.
 Best,
 Dominik
-​
+
 
 
 On 8 April 2015 at 08:54, Erik Reenberg Sand <ersand at hum.ku.dk> wrote:

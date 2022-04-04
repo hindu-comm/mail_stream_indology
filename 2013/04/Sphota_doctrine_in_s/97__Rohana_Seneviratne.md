@@ -71,7 +71,7 @@ On 11 April 2013 16:34, Dominik Wujastyk <wujastyk at gmail.com<mailto:wujastyk 
 The whole of ABORI to 2007 is available on JSTOR (see message of last month<http://list.indology.info/pipermail/indology_list.indology.info/2013-March/037685.html>), though 2000-2007 is a less conveniently presented.
 
 Dominik
-​​
+
 
 
 

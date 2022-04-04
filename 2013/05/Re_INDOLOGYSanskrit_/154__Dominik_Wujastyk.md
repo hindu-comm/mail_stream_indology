@@ -10,7 +10,7 @@ How nice.
 
 Has anyone done Winnie the Pooh?
 
-​Dominik​
+Dominik
 
 
 -------------- next part --------------

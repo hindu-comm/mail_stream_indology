@@ -26,7 +26,7 @@ On 12/03/15 22:53, Dominik Wujastyk wrote:
 > People who read papers and understand research just don't need them and
 > should shun them."
 > 
-> -- ​https://twitter.com/NickSevdalis/status/575679216089362432/photo/1
+> -- https://twitter.com/NickSevdalis/status/575679216089362432/photo/1
 
 
 

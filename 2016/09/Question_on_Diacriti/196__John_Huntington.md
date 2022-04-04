@@ -71,7 +71,7 @@ On Tue, Sep 6, 2016 at 1:46 PM, Robert Goldman <rpg at berkeley.edu> wrote:
 >
 > Best,
 > Dominik
-> ​
+> 
 > _______________________________________________
 > INDOLOGY mailing list
 > INDOLOGY at list.indology.info

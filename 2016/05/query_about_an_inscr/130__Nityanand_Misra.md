@@ -35,7 +35,7 @@ On 7 May 2016 at 05:36, Herman Tull <hermantull at gmail.com> wrote:
 >
 >
 >
-> ​
+> 
 >
 >
 

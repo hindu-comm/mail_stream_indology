@@ -37,7 +37,7 @@ Sahapedia web platform on 23 April (Saturday) at the Meghdoot Theatre,
 Rabindra Bhavan, Mandi House, New Delhi 110 001 at 6 pm. *
 
 
-​See:​
+See:
    *www.sahapedia.org <http://www.sahapedia.org/>*
 
 

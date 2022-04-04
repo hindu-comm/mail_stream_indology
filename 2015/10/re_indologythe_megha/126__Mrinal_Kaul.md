@@ -41,7 +41,7 @@ On 28 October 2015 at 05:16, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
 >    - http://www.saujanyabooks.com/details.aspx?id=11557
 >
-> ​
+> 
 >
 
 

@@ -13,10 +13,10 @@ I beg to differ.  You said
  I can say with certainty that ancient India was never imagined during or
 > later to the independence movement, either by the educated Indians or by
 > the common public as an India without wars or without harsh punishments or
-> without harsh ways of crime control etc. ​
+> without harsh ways of crime control etc. 
 
 
-​A few years ago, I had the ​honour to attend a private dinner with one of
+A few years ago, I had the honour to attend a private dinner with one of
 India's ambassadors to a European country, together with his lady wife.
 During the dinner conversation, Madam Ambassador insisted that there had
 never been any conflict in ancient India, that India was a land of peace
@@ -34,23 +34,23 @@ people, regardless of social station.
 Best,
 Dominik
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 -------------- next part --------------

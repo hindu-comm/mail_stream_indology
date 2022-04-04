@@ -7,8 +7,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-November/0422
 [Archive link](https://list.indology.info/pipermail/indology/2015-November/042272.html)
 
 Vācaspati Miśra.
-​
-​Vopadeva.​
+
+Vopadeva.
 
 
 -------------- next part --------------

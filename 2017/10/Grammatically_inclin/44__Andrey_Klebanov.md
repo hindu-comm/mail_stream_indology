@@ -19,12 +19,12 @@ Sent from my iPhone
 > 
 > Mallinātha himself is often quite grammatical in his comments. 
 > 
-> ​--
-> Professor Dominik Wujastyk​,​
-> Singhmar Chair in Classical Indian Society and Polity​,​
-> Department of History and Classics​,​
-> University of Alberta, Canada​.​
-> South Asia at the U of A: ​sas.ualberta.ca​​​
+> --
+> Professor Dominik Wujastyk,
+> Singhmar Chair in Classical Indian Society and Polity,
+> Department of History and Classics,
+> University of Alberta, Canada.
+> South Asia at the U of A: sas.ualberta.ca
 > 
 > 
 >> On 13 October 2017 at 21:39, Dhaval Patel via INDOLOGY <indology at list.indology.info> wrote:

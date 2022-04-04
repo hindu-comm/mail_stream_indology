@@ -45,20 +45,20 @@ Dissertations submitted for consideration must have been filed between May
 
 The submission package must include the following:
 
-   1. ​O
+   1. O
    NE bound copy of the dissertation,
    2. An abstract (500-1000 words),
-   3. ​A
+   3. A
     curriculum vitae,
-   4. ​A
+   4. A
     confidential letter from a member of the dissertation committee that
    speaks to the merits of the dissertation with respect to the current state
    of the field and the innovation that the work entails,
-   5. ​A
+   5. A
    pdf copy of the dissertation.
 
 Numbers
-​1-3
+1-3
  should be submitted in hard copy to:
 
 Prof. Munis Faruqui
@@ -69,7 +69,7 @@ Berkeley, CA 94720
 
 
 Numbers
-​ 4-5
+ 4-5
 should be submitted via email to Puneeta Kala (pkala at berkeley.edu)
 
 All submission materials must be received no later than *October 15, 2014*.
@@ -89,9 +89,9 @@ All inquiries regarding the S.S. Pirzada Dissertation Prize should be
 directed to: Puneeta Kala (pkala at berkeley.edu) at the Institute for South
 Asia Studies, UC Berkeley.
 
-​Download flier
+Download flier
 HERE<http://southasia.berkeley.edu/sites/default/files/shared/documents/Pirzada_Prize_Announcement_2014.pdf>
-​
+
 
 -- 
 Institute for South Asia Studies

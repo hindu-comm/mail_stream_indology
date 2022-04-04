@@ -43,10 +43,10 @@ Klaus.Karttunen at helsinki.fi
 > Dominik
 > 
 > ---------- Forwarded message ----------
-> From: Kavya Murthy <​​murthy.kavya at gmail.com <mailto:murthy.kavya at gmail.com>>
+> From: Kavya Murthy <murthy.kavya at gmail.com <mailto:murthy.kavya at gmail.com>>
 > Date: 9 October 2017 at 19:41
 > 
-> ​[...]
+> [...]
 > 
 > If you would consider a request to members, I wanted to ask the following question. 
 > 
@@ -54,10 +54,10 @@ Klaus.Karttunen at helsinki.fi
 > 
 > It would be so great to ask this forum about references and reading I can start with! Naresh Keerthi who recommends that I ask the forum has already pointed me towards Pampa mahakavi. 
 > 
-> Thanks ever so much. ​[...]
-> ​-----------------------------------------
+> Thanks ever so much. [...]
+> -----------------------------------------
 > 
-> ​
+> 
 > 
 > _______________________________________________
 > INDOLOGY mailing list

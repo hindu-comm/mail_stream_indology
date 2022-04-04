@@ -32,7 +32,7 @@ Dominik Wujastyk skrev den 2016-08-10 17:44:
 > Department of History and Classics [2]
 > University of Alberta, Canada
 > 
-> ​sas.ualberta.ca​ [3]
+> sas.ualberta.ca [3]
 > 
 > On 10 August 2016 at 00:48, <jacob at fabularasa.dk> wrote:
 > 

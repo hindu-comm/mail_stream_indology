@@ -40,7 +40,7 @@ Ego ex animi mei sententia spondeo ac polliceor
 studia humanitatis impigro labore culturum et provecturum
 non sordidi lucri causa nec ad vanam captandam gloriam,
 sed quo magis veri
-​​
+
 tas propagetur et lux eius, qua salus
 humani generis continetur, clarius effulgeat.
 Vindobonae, die XXI. mensis Novembris MCMLXXXIII.

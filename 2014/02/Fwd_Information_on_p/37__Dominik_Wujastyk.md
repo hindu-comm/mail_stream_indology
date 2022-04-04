@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-February/0390
 Here is the job advertisement as text, in case the attachments caused
 trouble.
 
---​
+--
 
 *Position of Professor of Sanskrit language and literatures at the
 University Paris-3 Sorbonne-Nouvelle*

@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-December/0403
 What courageous ladies!  Thanks, Patrick.  A fascinating bit of social and
 medical history.
 Dominik
-​
+
 
 
 -------------- next part --------------

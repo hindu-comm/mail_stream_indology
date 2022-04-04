@@ -18,8 +18,8 @@ Hahn's own words:
 [image: Inline-Bild 2]
 [image: Inline-Bild 1]
 
-​Kindly regarding,
-Walter Slaje​
+Kindly regarding,
+Walter Slaje
 
 -----------------------------
 Prof. Dr. Walter Slaje

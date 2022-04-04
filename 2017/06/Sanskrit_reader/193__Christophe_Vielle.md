@@ -81,12 +81,12 @@ Le 18 juin 2017 à 04:41, Krishnaprasad G via INDOLOGY <indology at list.indolog
 > 
 > NB: Brough's archive, including interesting unpublished materials.
 > 
-> ​--
-> Professor Dominik Wujastyk​,​
-> Singhmar Chair in Classical Indian Society and Polity​,​
-> Department of History and Classics​,​
-> University of Alberta, Canada​.​
-> South Asia at the U of A: ​sas.ualberta.ca​​​
+> --
+> Professor Dominik Wujastyk,
+> Singhmar Chair in Classical Indian Society and Polity,
+> Department of History and Classics,
+> University of Alberta, Canada.
+> South Asia at the U of A: sas.ualberta.ca
 > 
 > 
 > On 16 June 2017 at 01:28, Antonio Ferreira-Jardim via INDOLOGY <indology at list.indology.info> wrote:

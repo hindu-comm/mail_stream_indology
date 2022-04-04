@@ -11,12 +11,12 @@ From: Dominik Wujastyk <wujastyk at gmail.com>
 Date: 31 January 2014 12:50
 Subject: New historical dictionary of the Bengali language
 
-​
-​Please address queries to the author, Joanna Kirkpatrick
-​
-<ugg-5 at spro.net>.​
 
-​
+Please address queries to the author, Joanna Kirkpatrick
+
+<ugg-5 at spro.net>.
+
+
 
 ---------- Forwarded message ----------
 From: Jo <ugg-5 at spro.net>
@@ -26,7 +26,7 @@ Subject: with haste to convey a new production
 Dear All,
 
 I just heard from my long-time friend,
-​​ <https://en.wikipedia.org/wiki/Ghulam_Murshid>
+ <https://en.wikipedia.org/wiki/Ghulam_Murshid>
 Ghulam Murshid <https://en.wikipedia.org/wiki/Ghulam_Murshid>, formerly on
 the Bangla Lang. and Lit. faculty at Rajshahi U., now resident in London a
 few decades already, about his and his team’s new diachronic dictionary. I
@@ -55,31 +55,31 @@ had to ask for the title and publisher (they are not here). He wrote:
 This is a prodigious contribution to the history of the Bengali language. I
 hope it achieves wide notice, here as well as abroad. Here is Murshid’s
 email contact: g
-​ ​
+ 
 h
-​ ​
+ 
 u
-​ ​
+ 
 l
-​ ​
+ 
 a
-​ ​
+ 
 m
-​ ​
+ 
 m
-​ ​
+ 
 u
-​ ​
+ 
 r
-​ ​
+ 
 s
-​ ​
+ 
 h
-​ ​
+ 
 i
-​ ​
+ 
 d
-​ ​AT
+ AT
 aol DOT com
 
 

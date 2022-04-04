@@ -42,7 +42,7 @@ On Mar 1, 2016 2:04 PM, "Caren Dreyer" <mail at caren-dreyer.de> wrote:
 >
 > On 01 Mar 2016, at 13:31, Walter Slaje <slaje at kabelmail.de> wrote:
 >
-> ​ ​
+>  
 > Dear List,
 >>
 >>
@@ -107,9 +107,9 @@ On Mar 1, 2016 2:04 PM, "Caren Dreyer" <mail at caren-dreyer.de> wrote:
 > non sordidi lucri causa nec ad vanam captandam gloriam,
 > sed quo magis veritas propagetur et lux eius, qua salus
 > humani generis continetur, clarius effulgeat.
-> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. ​
+> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. 
 >
->> ​
+>> 
 >>
 >
 > _______________________________________________

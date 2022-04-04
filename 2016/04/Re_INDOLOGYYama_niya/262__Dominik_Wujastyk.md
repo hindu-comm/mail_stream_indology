@@ -7,12 +7,12 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043181.
 [Archive link](https://list.indology.info/pipermail/indology/2016-April/043181.html)
 
 Patañjali says who he means by īśvara in the next sūtra:
-*​​kleśakarmavipākāśayair aparāmṛṣṭaḥ puruṣaviśeṣa īśvaraḥ* (YS 1.24) and
+*kleśakarmavipākāśayair aparāmṛṣṭaḥ puruṣaviśeṣa īśvaraḥ* (YS 1.24) and
 unpacks this in his subsequent remarks
 <http://sarit.indology.info/exist/apps/sarit/works/patanjalayogasastra.xml_1.3.4.2.26.3.html>.
 
-​  The discussion of the *Śaṅkaravivaraṇa* on this point is lucidly
-translated and discussed in Harimoto, *God, Reason and Yoga*, 89 ff.​
+  The discussion of the *Śaṅkaravivaraṇa* on this point is lucidly
+translated and discussed in Harimoto, *God, Reason and Yoga*, 89 ff.
 
 
 

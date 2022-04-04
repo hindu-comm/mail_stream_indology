@@ -11,7 +11,7 @@ Senses 1, 2, 3, & 4 = edited, to my mind.
 More to the point, like several of these terms, I think the word saṃśodhita
 is a Sanskrit back-translation of the English word "edited" as it appears
 on title pages.
-​
+
 
 
 -------------- next part --------------

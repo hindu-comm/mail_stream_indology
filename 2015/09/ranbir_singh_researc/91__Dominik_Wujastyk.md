@@ -10,14 +10,14 @@ Here's a cleaned-up version of the same scan
 <https://www.dropbox.com/s/ur77b651yi2qdgf/Stein_Catalogue%20Raghunatha%20Temple%20Jammu%20raw%20scan.pdf?dl=0>
 .
 
-​
-​Best,
+
+Best,
 --
 Professor Dominik Wujastyk
 Singhmar Chair in Ancient Indian Society and Polity
 Department of History and Classics
 University of Alberta
-​
+
 
 
 -------------- next part --------------

@@ -18,7 +18,7 @@ which was published earlier this year.
 Sincerely,
 Dominik Wujastyk
 
-​
+
  --
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies
@@ -32,14 +32,14 @@ Division of Health and Humanities,
 St. John's Research Institute, <http://www.sjri.res.in/> Bangalore, India.
 Home page <http://univie.academia.edu/DominikWujastyk> | HSSA
 <http://hssa.sayahna.org/> | PGP <http://wujastyk.net/pgp.html>
-​
-​
-​
-​
-​
-​
-​
-​
+
+
+
+
+
+
+
+
 
 
 -------------- next part --------------

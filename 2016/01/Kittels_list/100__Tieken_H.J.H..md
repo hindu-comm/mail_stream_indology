@@ -41,7 +41,7 @@ A contrarian answer is: it is a myth that Tamil is the most conservative among t
 The genetic research is also corroborating the theory that the high castes of Vellalas in Tamil Nadu, Vakkaligas and lingayats of Karnataka, Velama and Reddis of Andhra show external Y-DNA haplogroups, coming from North-West through Gujarat and Maharashtra, as well as through sea-faring. The following diagram of domesticated cattle in India clearly shows that the agro-pastoralism spread to south-India from North West.
 
 [cid:ii_ijfxs99w0_15246402b56d8778]
-​
+
 I have more internal linguistic data that provides stronger evidence for an external origin of the Dravidian languages, which I hope to document and publish sometime this year.
 
 Suresh.

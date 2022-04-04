@@ -11,29 +11,29 @@ to him if you are in touch!
 
 
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 10 May 2017 at 10:23, Ajit Gargeshwari <ajit.gargeshwari at gmail.com>
 wrote:
 
-> ​The up-loader of Jivananda Vidyasagara Bhattacharyya uploads using his
+> The up-loader of Jivananda Vidyasagara Bhattacharyya uploads using his
 > real name Shankara Prasad, unlike those who upload in all sorts of pseudo
 > names vidwanmanoranjani or javanesegraviton etc not caring much about
 > copy-write laws in the name of service  Not all the uploads violate  but
@@ -48,7 +48,7 @@ wrote:
 >> Bcc:
 >> Date: Tue, 9 May 2017 17:06:08 -0600
 >> Subject: Re: [INDOLOGY]
->> ​​
+>> 
 >> Indrajālavidyāsaṁgraha
 >> Many of the books published by Jivananda Vidyasagara Bhattacharyya are
 >> available in an organized way from archive.org
@@ -56,23 +56,23 @@ wrote:
 >> thanks to someone with the moniker "shankara."  But the
 >> Indrajalavidyasangraha is missing from that list.
 >>
->> ​
+>> 
 >> --
 >> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
->> ​,​
+>> ,
 >>
 >> Singhmar Chair in Classical Indian Society and Polity
->> ​,​
+>> ,
 >>
 >> Department of History and Classics
 >> <http://historyandclassics.ualberta.ca/>
->> ​,​
+>> ,
 >> University of Alberta, Canada
->> ​.​
+>> .
 >>
 >> South Asia at the U of A:
 >>
->> ​sas.ualberta.ca​
+>> sas.ualberta.ca
 >>
 >
 >

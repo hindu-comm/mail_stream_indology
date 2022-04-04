@@ -16,16 +16,16 @@ On Tue, Mar 20, 2018 at 5:10 PM, Patricia Sauthoff <249292 at soas.ac.uk>
 wrote:
 
 > Would anyone be able to scan or photograph the Abbreviations page
-> ​s​
-> ​ of
+> s
+>  of
 >
-> ​Jan ​
+> Jan 
 > Gonda
-> ​ (1980)
+>  (1980)
 > *Vedic ritual: the non-solemn rites*
-> *​ *for me? *​*
+> * *for me? **
 >
-> *​*Thanks in advance! *​*
+> **Thanks in advance! **
 >
 >
 > --

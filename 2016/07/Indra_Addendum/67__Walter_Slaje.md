@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-July/043600.h
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-July/043600.html)
 
-​*Addendum*
+*Addendum*
 
 The earliest translation of the Ṛgveda (1876) by no less a Vedic scholar
 than Alfred Ludwig renders *hári *by "gelb" (yellow).
@@ -41,8 +41,8 @@ Thus there is no linguistic or notional derivation from "gold" recognisable
 in ṛgvedic *hári*. Translating it nonetheless by "golden" (or cognate
 adjectives) would - according to established standards of (not only
 Sanskrit) philology - call for a sound justification.
-​
-​WS​
+
+WS
 
 
 2016-07-03 16:55 GMT+02:00 Walter Slaje <slaje at kabelmail.de>:

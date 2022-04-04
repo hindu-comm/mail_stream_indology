@@ -19,7 +19,7 @@ On 19 September 2017 at 22:36, patrick mccartney via INDOLOGY <
 indology at list.indology.info> wrote:
 
 > Nagaraj,
-> ​[...]​
+> [...]
 >
 > For instance, there is a type of 'Vedic Thai Yoga Massage' that claims to
 > be 5000 years old, and which also claims this date for the Bhāgavatam, and

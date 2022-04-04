@@ -6,16 +6,16 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-October/04682
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2017-October/046825.html)
 
-​
+
 Dear scholars,
 
-​
+
 Taptamudra
-​ ​
+ 
 is considered as
-​ ​
+ 
 one of the five
-​ parts of
+ parts of
 
 vaiṣṇavadīkṣā (b
 *āhya)*. It is referred in the following texts -
@@ -34,15 +34,15 @@ vaiṣṇavadīkṣā (b
    11. Skanda-purāṇa (Vaiṣṇavakhaṇḍa)
 
 
-​I found all the above information from Prof Sagri Raghavendra Upadhyaya, a
+I found all the above information from Prof Sagri Raghavendra Upadhyaya, a
 renowned Dvaita, Dharmashastra and Purana scholar from Udupi region.
  He has his own publishing house (Paravidyā Prakāśana) and published more
 than
  50 books.
  One of his work titled
-​ ​
+ 
 V
-*aiṣṇavadīkṣe​ ​*
+*aiṣṇavadīkṣe *
 [Kannada work] is the source for all these information.
 
 

@@ -9,8 +9,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-September/039
 Just for the record, there are also half a dozen scanned copies of
 Macdonell's Vedic Reader in the DLI (1917 and 1956 eds), and at archive.org
 (link <https://archive.org/details/vedicreaderforst00macd>).
-​
-​Dominik​
+
+Dominik
 
 
 -------------- next part --------------

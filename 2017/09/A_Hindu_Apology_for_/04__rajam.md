@@ -20,8 +20,8 @@ rajam
 > 
 > Forwarded at the request of Professor Anantanand Rambachan.
 > 
-> ​Kind regards, WS​
-> ​
+> Kind regards, WS
+> 
 > 
 > ---------- Forwarded message ----------
 > From: Anantanand Rambachan <rambacha at stolaf.edu <mailto:rambacha at stolaf.edu>>

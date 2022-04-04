@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-January/03883
 [Archive link](https://list.indology.info/pipermail/indology/2014-January/038834.html)
 
 I
-​'m thrilled to have received in today's post my order for the latest seven
+'m thrilled to have received in today's post my order for the latest seven
 volumes of the NCC (Madras, 2013).  The indefatigable team at the U. of
 Madras, especially the editors Prof. Dr S. Revathty, Prof. Dr S.
 Padmanabhan, Assist. Prof. Dr P. Narasimhan, and Assist. Prof. Dr C.

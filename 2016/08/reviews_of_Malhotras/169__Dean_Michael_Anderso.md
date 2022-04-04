@@ -25,10 +25,10 @@ On 2 August 2016 at 07:08, Dean Michael Anderson via INDOLOGY <indology at list.
 
 
 
- "The conceptual matrix of integral unity is illustrated in the metaphor​[...]"
+ "The conceptual matrix of integral unity is illustrated in the metaphor[...]"
 
-​Isn't that a quote from Alan Sokal, "Transgressing the Boundaries"?​
-​:-)​
+Isn't that a quote from Alan Sokal, "Transgressing the Boundaries"?
+:-)
 
 
 Sokal’s paper does not have any matrix algebra. Perhaps it is influenced by “The Language of the Gods in the World of Men”, which has a section titled “The Geocultural Matrix of Sanskrit Knowledge” and in which superposition principle,[1] matrix norms,[2] and equality of matrices[3] are discussed. :-))

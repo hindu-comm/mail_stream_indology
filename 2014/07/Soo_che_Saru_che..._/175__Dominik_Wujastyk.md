@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039764.h
 
 Not the answer, but still, it's amazing what's possible.
 
-​
+
 
 
 On 25 July 2014 14:34, Balogh Dániel <danbalogh at gmail.com> wrote:

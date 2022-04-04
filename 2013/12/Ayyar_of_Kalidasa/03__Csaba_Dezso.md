@@ -18,8 +18,8 @@ Many thanks to Elliot Stern, Debabrata Chakrabarti and Ajit Gargeshwari, I now h
 > अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे।।2.20।।
 > 
 > 
-> ​Its available at DLI
-> Proceedings_And_Transactions_Of_The_Third_Oriental_Conference_Madras., 5010010016952. S. Krishnaswami Ayangar. 1925. multilingual. LANGUAGE. LINGUISTICS. LITERATURE. 840 pgs.​
+> Its available at DLI
+> Proceedings_And_Transactions_Of_The_Third_Oriental_Conference_Madras., 5010010016952. S. Krishnaswami Ayangar. 1925. multilingual. LANGUAGE. LINGUISTICS. LITERATURE. 840 pgs.
 > 
 > 
 > Dear colleagues,

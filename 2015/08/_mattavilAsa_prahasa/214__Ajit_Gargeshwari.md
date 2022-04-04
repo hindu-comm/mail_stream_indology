@@ -6,9 +6,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-August/041841
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-August/041841.html)
 
-​Apart from the works mentioned by Prof. Lubin there is Matta Vilasa
+Apart from the works mentioned by Prof. Lubin there is Matta Vilasa
 Prahsana by Mahendra Vikrama Verma with Prakasha Hindi Commentary edited by
-Kaplia Deva Giri Chowkambha publication​. I would be obliged if ​Barnett’s
+Kaplia Deva Giri Chowkambha publication. I would be obliged if Barnett’s
 1930 translation in BSOAS 5.1 (1930): 697-717. could be shared with me.
 Thanks
 
@@ -17,18 +17,18 @@ wrote:
 
 > ---------- Forwarded message ----------
 > From: "Lubin, Tim" <
-> ​​
+> 
 > LubinT at wlu.edu>
 > To: Mrinal Kaul <mrinalkaul81 at gmail.com>, Indology List <
 > indology at list.indology.info>
 > Cc:
 > Date: Mon, 10 Aug 2015 06:03:01 +0000
 > Subject: Re: [INDOLOGY]
-> ​​
+> 
 > Mattavilāsa Prahasana
 > Besides, T. Ganapati Sastri’s 1917 edition (Trivandrum), there is a newer
 > edition and translation by N. P. Unni (Trivandrum, 1971), and
-> ​​
+> 
 > Barnett’s 1930 translation in BSOAS 5.1 (1930): 697-717.  I have sent you
 > these.
 >

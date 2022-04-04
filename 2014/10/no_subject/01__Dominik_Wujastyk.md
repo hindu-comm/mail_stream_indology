@@ -12,7 +12,7 @@ On 14 October 2014 14:13, Dipak Bhattacharya <dipak.d2004 at gmail.com> wrote:
 > the copyright encumbrances of Western ones.
 >
 
-​As a general rule, India has same copyright rules as the rest of the
+As a general rule, India has same copyright rules as the rest of the
 world, since India has signed the same international conventions as other
 countries.
 
@@ -20,7 +20,7 @@ Again, in general, nothing can be copied without permission until 60 or 70
 years after the death of the copyright holder.  Critical editions can be
 copied 25 years after publication.
 
-The above is probably right, but it's a tricky area.  To say the least!​
+The above is probably right, but it's a tricky area.  To say the least!
 
 If you are a copyright-holder and you want to let others copy your work but
 not to take undue advantage of your generosity, then you should consider

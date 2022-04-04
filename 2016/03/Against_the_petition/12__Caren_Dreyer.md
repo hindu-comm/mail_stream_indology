@@ -12,7 +12,7 @@ Sent from my phone.
 
 > On 01 Mar 2016, at 13:31, Walter Slaje <slaje at kabelmail.de> wrote:
 > 
-> ​ ​Dear List,
+>  Dear List,
 >> 
 >>  
 >> 
@@ -59,8 +59,8 @@ Sent from my phone.
 > non sordidi lucri causa nec ad vanam captandam gloriam,
 > sed quo magis veritas propagetur et lux eius, qua salus
 > humani generis continetur, clarius effulgeat.
-> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. ​
->> ​
+> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. 
+>> 
 > 
 > 
 > _______________________________________________

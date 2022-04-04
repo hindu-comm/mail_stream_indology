@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-March/040909.
 
 Those who don't have access to the Bobrinskoy 1936 article can check online
 <http://tinyurl.com/q7t7ckh>.
-​
+
 
 
 -------------- next part --------------

@@ -12,7 +12,7 @@ dictionary<http://www.sanskrit-lexicon.uni-koeln.de/monier/indexcaller.php?input
 
 
 D
-​ominik​
+ominik
 
 
 -------------- next part --------------

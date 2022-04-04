@@ -16,7 +16,7 @@ link.  <https://www.yogascapesinjapan.com/information-and-registration.html>
 Some information is below.
 
 
-*​​Call for Papers*
+*Call for Papers*
 
 This conference seeks to foster an interdisciplinary exchange between
 anthropologists, sociologists, historians, indologists, scholars of
@@ -70,12 +70,12 @@ us to discuss the steps required to practically decolonise yoga
 <https://medium.com/@psdmccartney/decolonizing-yoga-is-it-going-deep-enough-51a84560cab9>,
 both from the colonial and post-colonial/neo-liberal masters.
 
-​If you would like to read more about the ideas inspiring this conference,
+If you would like to read more about the ideas inspiring this conference,
 click here
 <https://medium.com/@psdmccartney/naked-yoga-in-kyoto-perspectives-on-postures-pollution-and-pilgrimage-d1f13519c100>
 .
 
-​Thank you, for your interest in this conference.
+Thank you, for your interest in this conference.
 
 
 All the best,

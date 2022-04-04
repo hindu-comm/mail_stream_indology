@@ -110,9 +110,9 @@ On Sun, Jul 19, 2015 at 3:20 PM, Robert Goldman <rpg at berkeley.edu> wrote:
 > wrote:
 >
 >> Two wrongs don't make a right.  (If that's what you meant.)
->> ​
->> ​
->> Dominik Wujastyk​
+>> 
+>> 
+>> Dominik Wujastyk
 >>
 >> _______________________________________________
 >> INDOLOGY mailing list

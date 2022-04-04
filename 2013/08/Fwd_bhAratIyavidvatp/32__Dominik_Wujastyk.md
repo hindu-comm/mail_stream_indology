@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-August/038255
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-August/038255.html)
 
-​Prof. Dash and his team in Chennai continue the astonishing pace of
+Prof. Dash and his team in Chennai continue the astonishing pace of
 publication of the NCC with another seven (SEVEN!) volumes.  The end of the
 alphabet is heaving into view!
 
@@ -18,7 +18,7 @@ Subject: Fwd: {भारतीयविद्वत्परिषत्} Public
 Catalogorum volumes 26-32
 
 Dear Scholars,
-​​
+
 This is for your kind information that another seven volumes (XXVI-XXXII)of
 the New Catalogus Catalogorum (NCC)  have been published.
 
@@ -37,12 +37,12 @@ Chennai - 600 005, Tamil Nadu, India.
 The correspondence regarding the same may be sent by email to the following
 
 (1)
-​​
+
  directorpublications.unom at gmail.com
 (2) registrar at unom.ac.in
 
 A copy of the email may be sent to Director, NCC. Project:
-​ ​ <goog_147755605>
+  <goog_147755605>
 siniruddhad at gmail.com
 
 It may be noted that the NCC volumes XV-XIX is out of stock.

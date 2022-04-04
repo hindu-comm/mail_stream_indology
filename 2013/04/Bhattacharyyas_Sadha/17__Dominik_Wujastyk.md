@@ -12,7 +12,7 @@ On 4 April 2013 21:03, Christian K. Wedemeyer <wedemeyer at uchicago.edu>wrote:
 > copy from them, if one can.
 >
 
-​Yes, I agree.​
+Yes, I agree.
 
 
 
@@ -20,7 +20,7 @@ On 4 April 2013 21:03, Christian K. Wedemeyer <wedemeyer at uchicago.edu>wrote:
 > by the Publishers."
 >
 
-​This may not be a valid assertion.  It depends on whether the publishers
+This may not be a valid assertion.  It depends on whether the publishers
 took the trouble to contact the author's literary heirs and negotiated a
 transfer of copyright.  I'd be surprised if that happened.
 
@@ -28,7 +28,7 @@ When publishers print a (C) statement on a book or article, it isn't always
 correct.  It's happened to me at least twice that a publisher has asserted
 copyright over my work when they have no right to do so.  First, with my
 book *Metarules of Paninian Grammar*.  In that book, there are two
-copyright statements, mine and the publishers.​  I gave no rights to the
+copyright statements, mine and the publishers.  I gave no rights to the
 publisher, Forsten, and their (C) statement is legally invalid. I was
 unpleasantly surprised when I saw it, but the book was then published and
 there was nothing I could reasonably do.  The second instance was my

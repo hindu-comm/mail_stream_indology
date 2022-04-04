@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-June/043479.h
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-June/043479.html)
 
-​Dear Don,
+Dear Don,
 
 This interests me a lot, and I'd be grateful to read what you might write
 about it in future.  It's on my back-burner, but I've long wondered whether

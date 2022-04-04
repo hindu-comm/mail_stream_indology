@@ -360,7 +360,7 @@ Mobile: (+39) 338 73 83 472
 -- 
 Paolo E. Rosati PhD in Civilizations of Asia and Africa (South Asia Section)
 Italian Institute of Oriental Studies 
-​'Sapienza' University of Rome
+'Sapienza' University of Rome
 
 https://uniroma1.academia.edu/PaoloRosati/
 paoloe.rosati at uniroma1.itpaoloe.rosati@gmail.com
@@ -384,7 +384,7 @@ http://listinfo.indology.info (where you can change your list options or unsubsc
 -- 
 Paolo E. Rosati PhD in Civilizations of Asia and Africa (South Asia Section)
 Italian Institute of Oriental Studies 
-​'Sapienza' University of Rome
+'Sapienza' University of Rome
 
 https://uniroma1.academia.edu/PaoloRosati/
 paoloe.rosati at uniroma1.itpaoloe.rosati@gmail.com

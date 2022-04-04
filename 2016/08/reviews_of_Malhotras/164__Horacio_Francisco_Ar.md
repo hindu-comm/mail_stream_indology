@@ -29,10 +29,10 @@ Date:Tue, 2 Aug 2016 05:06:51 +0000 (UTC)
 
 
 
- "The conceptual matrix of integral unity is illustrated in the metaphor​[...]"
+ "The conceptual matrix of integral unity is illustrated in the metaphor[...]"
 
-​Isn't that a quote from Alan Sokal, "Transgressing the Boundaries"?​
-​:-)​
+Isn't that a quote from Alan Sokal, "Transgressing the Boundaries"?
+:-)
 
 _______________________________________________
 INDOLOGY mailing list

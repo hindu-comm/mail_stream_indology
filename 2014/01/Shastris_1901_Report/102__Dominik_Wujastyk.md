@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-January/03879
 I have added the two new HP Shastri "Search" scans to the MS Catalogue
 digital archive, at
 
-   - ​http://tinyurl.com/ind-cats/
+   - http://tinyurl.com/ind-cats/
 
 under Biswas 0375.  Now, thanks to Reinhold and Gretil, all three reports
 are available.

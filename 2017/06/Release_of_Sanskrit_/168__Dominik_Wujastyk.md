@@ -10,23 +10,23 @@ This is amazing work and it is extremely generous (and modern!) of you to
 make the sources available at Github.  Thank you so much, Gérard.
 Dominik
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 21 June 2017 at 14:06, Gérard Huet via INDOLOGY <

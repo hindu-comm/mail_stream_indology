@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046
 Dear scholars,
 
 
-We are ​delighted to inform you that Amrita Darshanam — International
+We are delighted to inform you that Amrita Darshanam — International
 Centre for Spiritual Studies, in association with the Ministry of Culture
 (South zone cultural centre, Tanjavur) is organizing a three-day national
 workshop on “*Temples: Symbolism, Art and Architecture*” from January 5th

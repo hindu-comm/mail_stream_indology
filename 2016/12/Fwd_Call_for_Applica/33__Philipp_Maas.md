@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-December/0448
 
 Dear Colleagues,
 I herewith forward a job opening at the Ruhr University Buchum, Germany, on
-behalf of ​Jessie Pons. For details, please have a look at the attachments
+behalf of Jessie Pons. For details, please have a look at the attachments
 to this mail.
 
 With best wishes,
@@ -32,7 +32,7 @@ Date: 2016-12-02 15:36 GMT+01:00
 Subject: Re: Call for Application
 To: indology-owner at list.indology.info
 
-​...
+...
 
 >
 > The Centre for Religious Studies at the Ruhr University in Bochum is
@@ -45,12 +45,12 @@ To: indology-owner at list.indology.info
 
 
 
-> ​...
+> ...
 >
 > I thank you very much in advance for helping us to spread the word!
 >
 > With best wishes from Bochum,
-> ​​
+> 
 > Jessie Pons
 >
 

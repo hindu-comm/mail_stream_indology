@@ -78,8 +78,8 @@ any variants from the manuscripts, which means that his edition cannot be
 used as a critical edition, since he denies the reader the opportunity to
 think critically about his editorial choices and their alternatives.
 
-​Best,
-Dominik​
+Best,
+Dominik
 
 --
 The secondary literature

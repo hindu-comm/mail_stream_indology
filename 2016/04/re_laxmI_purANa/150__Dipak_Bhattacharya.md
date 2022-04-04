@@ -23,7 +23,7 @@ wrote:
 > Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
 > > NCC v.26, p.85 lists a single Lakṣmīpurāṇa MS as "Viśvabhāratī 2602".
-> > ​
+> > 
 >
 > _______________________________________________
 > INDOLOGY mailing list

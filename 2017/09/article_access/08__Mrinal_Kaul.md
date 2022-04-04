@@ -7,10 +7,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046
 [Archive link](https://list.indology.info/pipermail/indology/2017-September/046588.html)
 
 Thanks very much to Prof Roland Steiner and Prof Luis Gonzalez-Riemann
-​. I now have the article. Thanks very much indeed to both of you. Best
+. I now have the article. Thanks very much indeed to both of you. Best
 wishes.
 
-Mrinal Kaul​
+Mrinal Kaul
 
 On 11 September 2017 at 10:03, Mrinal Kaul <mrinalkaul81 at gmail.com> wrote:
 

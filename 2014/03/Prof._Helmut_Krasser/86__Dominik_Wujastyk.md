@@ -14,7 +14,7 @@ Buddhist philosophy, as well as an administrator who enabled the careers of
 many other scholars to flourish under his aegis.  May he rest in peace.
 
 --
-​http://www.ikga.oeaw.ac.at/Mitarbeiter/Krasser
+http://www.ikga.oeaw.ac.at/Mitarbeiter/Krasser
 
 
 -------------- next part --------------

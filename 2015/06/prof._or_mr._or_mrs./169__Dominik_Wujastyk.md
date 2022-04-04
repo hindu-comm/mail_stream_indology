@@ -10,17 +10,17 @@ On 17 June 2015 at 07:45, Arlo Griffiths <arlogriffiths at hotmail.com> wrote:
 
 > Dear Prof. Paturi,
 >
-> ​... I believe that for most native English speakers it sounds strange to
+> ... I believe that for most native English speakers it sounds strange to
 > see an academic title combined with a first name rather than the surname,
 >
 
-​As a native speaker of British English, I would agree with that.  Nobody
+As a native speaker of British English, I would agree with that.  Nobody
 actually does it, as far as I know.  If I heard it, in a UK context, I
 would assume it was an error, and reply,
 "No, 'Dominik' is my first name.  My family name is 'Wujastyk'."
 
 Best,
-​Dr Dominik​ :-)
+Dr Dominik :-)
 
 
 -------------- next part --------------

@@ -52,13 +52,13 @@ On Thu, Aug 4, 2016 at 1:30 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >>
 >>
 > "The conceptual matrix of integral unity is illustrated in the metaphor
->> ​[...]"
+>> [...]"
 >>
 >
-> ​Isn't that a quote from Alan Sokal, "Transgressing the Boundaries"?​
+> Isn't that a quote from Alan Sokal, "Transgressing the Boundaries"?
 >
 >
-> ​:-)​
+> :-)
 >
 >
 > _______________________________________________

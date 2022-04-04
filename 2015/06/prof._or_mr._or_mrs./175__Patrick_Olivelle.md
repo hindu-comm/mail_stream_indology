@@ -26,9 +26,9 @@ On Jun 17, 2015, at 8:47 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > 
 > Sir James.
 > 
-> ​​Isn't it pleasant to speak of inconsequential matter​s​​, just for a while?
+> Isn't it pleasant to speak of inconsequential matters, just for a while?
 > 
-> Dominik​
+> Dominik
 > _______________________________________________
 > INDOLOGY mailing list
 > INDOLOGY at list.indology.info

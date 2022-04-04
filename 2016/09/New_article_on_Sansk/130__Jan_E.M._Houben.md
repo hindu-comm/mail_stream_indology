@@ -111,9 +111,9 @@ On 15 September 2016 at 14:27, Ananya Vajpeyi <vajpeyi at csds.in> wrote:
 > that academics need to step out of the ivory tower and resist the
 > government’s manipulation of this ancient language.
 >
-> ​Thanks and all best,
+> Thanks and all best,
 >
-> Ananya Vajpeyi. ​
+> Ananya Vajpeyi. 
 >
 >
 > --

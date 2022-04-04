@@ -25,24 +25,24 @@ wrote:
 >
 >> Chrisomalis is excellent; I didn't know it.  Thank you, Richard!
 >>
->> ​
+>> 
 >> --
 >> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
->> ​,​
+>> ,
 >>
 >> Singhmar Chair in Classical Indian Society and Polity
->> ​,​
+>> ,
 >>
 >> Department of History and Classics
 >> <http://historyandclassics.ualberta.ca/>
->> ​,​
+>> ,
 >> University of Alberta, Canada
->> ​.​
+>> .
 >>
 >> South Asia at the U of A:
 >>
->> ​sas.ualberta.ca​
->> ​​
+>> sas.ualberta.ca
+>> 
 >>
 >>
 >> On 20 December 2017 at 15:21, Richard G Salomon via INDOLOGY <
@@ -84,20 +84,20 @@ wrote:
 >>>>> o1J1/o1//o1///o1|o1|/o1|//o1|///o1||o1||/o1||//o1||///o1|||o
 >>>>> 1|||/o1|||//o1|||///o2J2/o2//o2///o
 >>>>>
->>>>> ​--
+>>>>> --
 >>>>>
 >>>>> Professor Dominik Wujastyk [2]
->>>>> ​,​
+>>>>> ,
 >>>>> Singhmar Chair in Classical Indian Society and Polity
->>>>> ​,​
+>>>>> ,
 >>>>>
 >>>>> Department of History and Classics [3]
->>>>> ​,​University of Alberta, Canada
->>>>> ​.​
+>>>>> ,University of Alberta, Canada
+>>>>> .
 >>>>>
 >>>>> South Asia at the U of A:
->>>>>  ​sas.ualberta.ca​ [4]
->>>>> ​​
+>>>>>  sas.ualberta.ca [4]
+>>>>> 
 >>>>>
 >>>>> On 15 December 2017 at 13:38, Jacob Schmidt-Madsen via INDOLOGY
 >>>>> <indology at list.indology.info> wrote:

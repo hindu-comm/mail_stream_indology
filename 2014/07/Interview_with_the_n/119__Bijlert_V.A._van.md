@@ -71,12 +71,12 @@ DB
 
 
 On Sun, Jul 13, 2014 at 12:43 PM, Walter Slaje <slaje at kabelmail.de<mailto:slaje at kabelmail.de>> wrote:
-​Indological expertise is in demand,
+Indological expertise is in demand,
 
 FYI,
 
 WS
-​
+
 ---------- Forwarded message ----------
 From: Steve Farmer saf at safarmer.com<mailto:saf at safarmer.com> [Indo-Eurasian_research] <Indo-Eurasian_research at yahoogroups.com<mailto:Indo-Eurasian_research at yahoogroups.com>>
 Date: 2014-07-13 8:11 GMT+02:00

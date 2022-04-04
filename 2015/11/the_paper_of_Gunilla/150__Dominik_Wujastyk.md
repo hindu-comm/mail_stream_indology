@@ -11,9 +11,9 @@ On 4 November 2015 at 03:51, Viktoria Lysenko <vglyssenko at yandex.ru> wrote:
 > d
 
 
-​Prof. Gren-Eklund has now uploaded this paper to her page at Academia.edu
+Prof. Gren-Eklund has now uploaded this paper to her page at Academia.edu
 <https://uppsala.academia.edu/GunillaGrenEklund>, from where you can freely
-download it.​
+download it.
 
 
 --

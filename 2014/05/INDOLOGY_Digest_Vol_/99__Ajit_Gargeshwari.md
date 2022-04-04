@@ -24,7 +24,7 @@ Ajit Gargeshwari
 Message: 4
 > Date: Tue, 13 May 2014 15:13:25 +0200
 > From: Francois
-> ​​
+> 
 > Voegeli <francois.voegeli at gmail.com>
 > To: Indology List <indology at list.indology.info>
 > Subject: [INDOLOGY] Looking for book

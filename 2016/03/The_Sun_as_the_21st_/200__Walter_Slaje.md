@@ -23,7 +23,7 @@ Haug’s usage of „equator“ in the brief one-sentence quote under discussion
 as early as the Brāhmaṇas, given the conception of the earth prevailing at
 their time. "Terrestrial" is how I had understood your citation of the word
 „equator“
-​emphasized by quotation marks, but perhaps mistakenly as it appears now.
+emphasized by quotation marks, but perhaps mistakenly as it appears now.
 
 
 
@@ -52,7 +52,7 @@ Viṣuvant, in the middle of the year.“
 
 
 So much for the background as it relates to Haug
-​​
+
 .
 
 

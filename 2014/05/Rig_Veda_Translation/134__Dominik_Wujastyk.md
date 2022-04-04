@@ -13,7 +13,7 @@ On 18 May 2014 17:30, rajam <rajam at earthlink.net> wrote:
 > The URL doesn’t open.
 >
 
-​It does for me.  I think it's fine.
+It does for me.  I think it's fine.
 
 DW
 

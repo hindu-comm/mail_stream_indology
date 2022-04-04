@@ -39,7 +39,7 @@ wrote:
 >
 >
 > Today's Topics:
-> ​​
+> 
 >
 >    1. Re: Help for journal article (Dominik Wujastyk)
 >    2. Source of kAlikAstotram (Harry Spier)

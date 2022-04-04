@@ -15,7 +15,7 @@ On Sun, Jan 29, 2017 at 11:20 AM, Dominik Wujastyk <wujastyk at gmail.com>
 wrote:
 
 > So it means "edited" in fact.  Search for impurities, etc.  That's editing.
-> ​
+> 
 >
 
 

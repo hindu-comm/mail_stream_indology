@@ -14,9 +14,9 @@ On 8 May 2016 at 20:32, D N Jha <jdnarayan at gmail.com> wrote:
 > Dear List,
 > Can any one help me with email ids of Dr Peter Skilling And Hampana
 > Nagarajaiah,
-> ​I will be grateful​
+> I will be grateful
 >
-> ​DNJ​
+> DNJ
 >
 > --
 > D N Jha

@@ -46,7 +46,7 @@ Sent from my iPhone
 > 
 > WS
 > 
-> ​​
+> 
 > 
 > 2016-10-05 20:56 GMT+02:00 Antonia Ruppel <rhododaktylos at gmail.com>:
 >> Dear Audrey,

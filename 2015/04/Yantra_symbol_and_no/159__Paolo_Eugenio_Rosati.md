@@ -20,10 +20,10 @@ Paolo E. Rosati
 
 -- 
 PhD candidate in "Civilizations of Asia and Africa"
-​'Sapienza' University of Rome
-​​Department
+'Sapienza' University of Rome
+Department
 Italian Institute of Oriental Studies
-(​South Asia Section​)
+(South Asia Section)
 
 skype: paoloe.rosati
 

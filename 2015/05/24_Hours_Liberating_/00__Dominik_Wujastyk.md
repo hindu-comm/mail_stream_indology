@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-May/041179.ht
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-May/041179.html)
 
-​Useful video about Sanskrit beyond a communal narrative.
+Useful video about Sanskrit beyond a communal narrative.
 
       <http://www.ndtv.com/>
 
@@ -17,7 +17,7 @@ Hours: Liberating Sanskrit
  Increasingly Sanskrit has become a language appropriated by Hindutva
 forces, used for a political agenda. The Left on the other hand often
 emphasised Sanskrit
-​'​
+'
 s link with the liturgical tradition of Hinduism. Caught in the twisted
 politics of the subcontinent, the real debates on Sanskrit could never
 emerge unfettered. In 24 Hours, we try to go beyond the limited politics
@@ -42,7 +42,7 @@ and dip in to the stunning world of a great classical language.
 
 
 
-​Also available at Youtube <https://youtu.be/wayq_Z-NWd4>.​
+Also available at Youtube <https://youtu.be/wayq_Z-NWd4>.
 
 
 -------------- next part --------------

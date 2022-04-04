@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-March/040901.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-March/040901.html)
 
-​I use the Remote Desktop stuff that comes with Linux (Mint).  That means
+I use the Remote Desktop stuff that comes with Linux (Mint).  That means
 that wherever I am in the world, I can log on to my home or office machine
 and do whatever I need, including fetching files, etc.
 

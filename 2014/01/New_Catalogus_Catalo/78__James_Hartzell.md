@@ -12,7 +12,7 @@ Congrats to the U. Madras team, and thanks Dominik for the news update.
 On Mon, Jan 20, 2014 at 12:17 PM, Dominik Wujastyk <wujastyk at gmail.com>wrote:
 
 > I
-> ​'m thrilled to have received in today's post my order for the latest
+> 'm thrilled to have received in today's post my order for the latest
 > seven volumes of the NCC (Madras, 2013).  The indefatigable team at the U.
 > of Madras, especially the editors Prof. Dr S. Revathty, Prof. Dr S.
 > Padmanabhan, Assist. Prof. Dr P. Narasimhan, and Assist. Prof. Dr C.

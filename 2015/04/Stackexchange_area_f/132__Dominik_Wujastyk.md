@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-April/040926.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-April/040926.html)
 
-​In case it is of interest, see
+In case it is of interest, see
 
    - http://area51.stackexchange.com/proposals/85860/sanskrit-language
 

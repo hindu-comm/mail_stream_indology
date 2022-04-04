@@ -43,7 +43,7 @@ paoloe.rosati at gmail.com> ha scritto:
 
 
 *PhD in Asian and African Studies(South Asia Section)Italian Institute of
-Oriental Studies ​'Sapienza' University of Rome*
+Oriental Studies 'Sapienza' University of Rome*
 
 *https://uniroma1.academia.edu/PaoloRosati/
 <https://uniroma1.academia.edu/PaoloRosati/>*

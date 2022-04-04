@@ -48,7 +48,7 @@ Palaniappan
 >> 
 >> Best,
 >> Dominik Wujastyk
->> ​
+>> 
 >> <ACriticalStudyOfTheWorkVaimanikaShastra.pdf>_______________________________________________
 >> INDOLOGY mailing list
 >> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>

@@ -18,8 +18,8 @@ My, this has stirred up a hornet’s nest, hasn’t it?  If the book is so bad, 
 > <image.png>
 > <image.png>
 > 
-> ​Kindly regarding,
-> Walter Slaje​
+> Kindly regarding,
+> Walter Slaje
 > 
 > -----------------------------
 > Prof. Dr. Walter Slaje

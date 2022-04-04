@@ -28,10 +28,10 @@ And nobility.  As in one of our own,
 
 Sir James.
 
-​​Isn't it pleasant to speak of inconsequential matter
-​s​
-​, just for a while?
-Dominik​
+Isn't it pleasant to speak of inconsequential matter
+s
+, just for a while?
+Dominik
 
 
 

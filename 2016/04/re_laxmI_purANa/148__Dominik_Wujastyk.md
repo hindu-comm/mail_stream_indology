@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-April/042994.
 [Archive link](https://list.indology.info/pipermail/indology/2016-April/042994.html)
 
 NCC v.26, p.85 lists a single Lakṣmīpurāṇa MS as "Viśvabhāratī 2602".
-​
+
 
 
 -------------- next part --------------

@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-February/0453
 Poleman's *Census* is also at Archive.org,
 <https://archive.org/details/PolemanCensus1938> for those who can't get
 into Hathitrust.
-​
+
 
 
 -------------- next part --------------

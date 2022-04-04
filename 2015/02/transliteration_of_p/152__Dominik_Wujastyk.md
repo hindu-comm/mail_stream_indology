@@ -14,8 +14,8 @@ Chunder Sen
 <http://authorities.loc.gov/cgi-bin/Pwebrecon.cgi?AuthRecID=7322&v1=1&HC=1&SEQ=20150228092917&PID=-NZqmlNcgEy2OnUmkVy-bOvNN99T>
 (the MARC 100 field is the approved heading, the 400s are variants that are
 found in various places).
-​
-​DW​
+
+DW
 
 
 -------------- next part --------------

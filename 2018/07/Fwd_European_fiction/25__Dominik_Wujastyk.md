@@ -8,10 +8,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-July/047918.h
 
 Can anyone answer Julian Brescanu's query below?
 
-​Kindly send answers to Brescanu directly (and cc here if you wish).
+Kindly send answers to Brescanu directly (and cc here if you wish).
 
 Best,
-INDOLOGY committee​
+INDOLOGY committee
 
 
 

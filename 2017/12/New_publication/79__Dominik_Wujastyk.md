@@ -38,45 +38,45 @@ Dominik Wujastyk
 Editorial board member, HSSA.
 
 
-​​ <https://journals.library.ualberta.ca/hssa/index.php/hssa/issue/view/5>
+ <https://journals.library.ualberta.ca/hssa/index.php/hssa/issue/view/5>
 Vol 5, No 1 (2017)
 <https://journals.library.ualberta.ca/hssa/index.php/hssa/issue/view/5>
 Table of Contents
 
    - *The Units of Time in Ancient and Medieval India* / Takao Hayashi
-   ​,​
+   ,
      1-116
    - *Notes on Some Sanskrit Astrological Authors* / Martin Gansten
-   ​,​
+   ,
    117-133
    - *The Bakhshālī Manuscript: A Response to the Bodleian Library's
    Radiocarbon Dating* / Kim Plofker, Agathe Keller, Takao Hayashi,
    Clemency Montelle, Dominik Wujastyk
-   ​,​
+   ,
    134-150
    - *Garga and Early Astral Science in India* / Marko  Geslani, Bill Mak,
    Michio Yano, Kenneth G. Zysk
-   ​, 151-191​
+   , 151-191
 
 
 
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
-​​
+
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 -------------- next part --------------

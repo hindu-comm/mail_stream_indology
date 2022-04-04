@@ -16,7 +16,7 @@ indology at list.indology.info> wrote:
 > prohibited under copyright law.
 >
 
-​In February this year, I was in correspondence with the Omkaranand Ashram
+In February this year, I was in correspondence with the Omkaranand Ashram
 about the copyright of Sanskrit 2003.  I was urging them to be more
 explicit about the freedom of the font.  In their opinion, the font is free
 for all to use, and they only want to help and serve the world.  Here's
@@ -46,26 +46,26 @@ it would be appropriate to return the modifications to the Ashram in case
 they wish to make a new release themselves in future.
 
 Everything the Ashram said to me makes leads me to believe that they would
-never dream of taking anyone to court​ over the font, and that on the
+never dream of taking anyone to court over the font, and that on the
 contrary, they are glad that people are finding it useful.
 
 Dominik
 
 --
-​| ​
+| 
 Professor Dominik Wujastyk
-​ |​
-​ ​
+ |
+ 
 Singhmar Chair in Classical Indian Society and Polit
-​y | ​
+y | 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>,
-​University of Alberta, Canada
-​ |​
-​
-​
+University of Alberta, Canada
+ |
+
+
 ualberta.Academia.edu/DominikWujastyk
-​
-| ​
+
+| 
 
 
 -------------- next part --------------

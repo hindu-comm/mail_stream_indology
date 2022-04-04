@@ -68,7 +68,7 @@ indology at list.indology.info> wrote:
 >
 >
 >
-> ​
+> 
 >
 > On Fri, May 6, 2016 at 8:03 PM, Herman Tull <hermantull at gmail.com> wrote:
 >

@@ -15,10 +15,10 @@ see traces of the deliberate obfuscation in the apographs.
 
 No, I don't think this hypothesis about deliberate concealment is
 sustainable on the existing evidence.  Spurious.
-​
-​Best,
+
+Best,
 Dominik Wujastyk
-​
+
 
 --
 Professor Dominik Wujastyk* <http://ualberta.Academia.edu/DominikWujastyk>

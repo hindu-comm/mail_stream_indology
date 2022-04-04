@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-March/042956.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-March/042956.html)
 
-​There are some amazing colonial reports about such rural education​
+There are some amazing colonial reports about such rural education
 institutions. The most famous and striking is *Adam's Reports*:
 
 @Book{adam-adam,
@@ -22,7 +22,7 @@ View of its Past and Present Condition by \ldots\ J. Long},
   url = {https://archive.org/details/adamsreportsonve00adam}
 }
 
-​@Book{leit-hist,
+@Book{leit-hist,
   author =    {Leitner, Gottlieb William},
   title =     {History of Indigenous Education in the {Panjab} Since
 Annexation and in 1882},
@@ -32,10 +32,10 @@ Annexation and in 1882},
   location =  {Oxford},
   note =      {First Published in Calcutta: Government printing, 1882.},
   timestamp = {2010.03.16}
-}​
+}
 
-​Reading these reports, I first realized the sheer scale of the traditional
-educational establishment in India ​that the British Indian government
+Reading these reports, I first realized the sheer scale of the traditional
+educational establishment in India that the British Indian government
 dismantled through the dissolution of Trusts and the redirection of
 taxation to Calcutta.  After destroying the village-level education system,
 they worked on the principle that apex educational institutions in Calcutta

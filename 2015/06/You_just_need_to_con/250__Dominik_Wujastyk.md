@@ -37,7 +37,7 @@ On 29 June 2015 at 02:12, PayPal Service <official at ail.com> wrote:
 > Sincerely,
 > PayPal
 >
-> ​<deleted false link>​
+> <deleted false link>
 
 
 >  <http://hosting.net.pe/cola/>

@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041499.h
 
 Thank you, everyone!  Jim Mallinson sent me the article minutes after my
 request.
-​
+
 
 
 -------------- next part --------------

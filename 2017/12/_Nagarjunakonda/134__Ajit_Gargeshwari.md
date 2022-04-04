@@ -15,7 +15,7 @@ According  to ASI official web site
 Nagarjunakonda (1954-60) Vol. I, R. Subrahmanyam (1975) Nagarjunakonda
 (1954-60) Vol. II ( In press)
 
-​Was Volume 2 Published?​
+Was Volume 2 Published?
 
 Regards
 Ajit Gargeshwari

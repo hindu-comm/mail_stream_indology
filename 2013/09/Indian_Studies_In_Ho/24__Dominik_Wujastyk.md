@@ -41,10 +41,10 @@ HSSA <http://hssa.sayahna.org> | PGP <http://wujastyk.net/pgp.html>
 On 14 September 2013 18:45, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 
 > D
-> ​oes anyone have or know of a scanned version of this volume?
+> oes anyone have or know of a scanned version of this volume?
 >
 > *Indian Studies: In Honor of Charles Rockwell Lanman<http://openlibrary.org/books/OL6731445M/Indian_studies_in_honor_of_Charles_Rockwell_Lanman.>
-> *(Harvard UP, Cambridge, Mass, 1929)*?*​
+> *(Harvard UP, Cambridge, Mass, 1929)*?*
 >
 > I've looked fruitlessly in local uni. library, archive.org, DLI, lirs.ru,
 > scribd, and Google Books.  It's been scanned<http://books.google.at/books?id=AG41bwAACAAJ>at Google Books, but isn't downloadable, even via a USA proxy.Same for Hathi

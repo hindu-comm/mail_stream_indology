@@ -47,9 +47,9 @@ I have not read the book, only about 15 pages from what Amazon lets us see.  It 
 >> 
 >> 
 >> 
->> ​Only when practised by Germans, as any Italian would certainly answer :-)
+>> Only when practised by Germans, as any Italian would certainly answer :-)
 >> 
->> ​
+>> 
 >> (This refers to a running joke between some of us British, German and Italian philologists here at the Vienna department.)
 >> 
 >> I suppose the Adluri & Bagchee book deserves a more serious response, but I'm not interested personally.  How did this get by the commissioning editor at OUP NY?

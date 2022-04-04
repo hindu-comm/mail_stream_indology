@@ -46,7 +46,7 @@ On 10/04/2014 20:28, Dominik Wujastyk wrote:
 > Dear colleagues,
 >
 > The INDOLOGY forum runs on software called Mailman.  It seems that a
-> potential pro​blem has recently arisen that affects Yahoo mail users.
+> potential problem has recently arisen that affects Yahoo mail users.
 >   See the message below.
 >
 > We are not acting on this information immediately, but please be alert

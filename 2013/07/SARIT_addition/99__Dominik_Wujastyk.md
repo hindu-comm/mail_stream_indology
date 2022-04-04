@@ -6,12 +6,12 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-July/038170.h
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-July/038170.html)
 
-   - ​​The Aṣṭāvakragītā<http://sarit.indology.info/newphilo/navigate.pl?indologica.8>,
+   - The Aṣṭāvakragītā<http://sarit.indology.info/newphilo/navigate.pl?indologica.8>,
    e-text entered by Suryamshu Ray based on the 1971 Lucknow edition.
 
 
-​DW
-SARIT​
+DW
+SARIT
 
 
 -------------- next part --------------

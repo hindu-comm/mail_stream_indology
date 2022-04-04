@@ -27,7 +27,7 @@ Room: G51, SOAS Main Building
 Dr Daniela Bevilacqua April 30
 
 Yoga physical practices and female asceticism in India, an historical and ethnographic overview
-Daniela Bevilacqua is a postdoctoral researcher on the ERC-funded Hatḥa Yoga Project, a South-Asianist ​collecting, through fieldwork, historical evidence of yoga practice and ethnographic data among living ascetic practitioners of yoga. She conducted doctoral research on the Rāmānandī Sampradaya and was awarded a doctoral thesis from the University of Rome, Sapienza and from the University of Paris X Nanterre Ouest La Défense. Room: G51, SOAS Main Building
+Daniela Bevilacqua is a postdoctoral researcher on the ERC-funded Hatḥa Yoga Project, a South-Asianist collecting, through fieldwork, historical evidence of yoga practice and ethnographic data among living ascetic practitioners of yoga. She conducted doctoral research on the Rāmānandī Sampradaya and was awarded a doctoral thesis from the University of Rome, Sapienza and from the University of Paris X Nanterre Ouest La Défense. Room: G51, SOAS Main Building
 
 
 

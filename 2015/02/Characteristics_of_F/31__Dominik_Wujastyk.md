@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-February/0406
 
 There's a copy in the British Library, listed in the printed catalogue of
 Marathi books.
-​
+
 
 
 -------------- next part --------------

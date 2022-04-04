@@ -12,7 +12,7 @@ indology at list.indology.info> wrote:
 > joints [articulos],
 
 
-​ "joints [articulos],"​ suggests Skt. *parvan* to me.
+ "joints [articulos]," suggests Skt. *parvan* to me.
 
 
 -------------- next part --------------

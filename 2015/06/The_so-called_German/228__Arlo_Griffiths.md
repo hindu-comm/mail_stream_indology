@@ -127,13 +127,13 @@ On 12 June 2015 at 14:15, Philipp Maas <philipp.a.maas at gmail.com> wrote:
 
 
 
-​Only when practised by Germans, as any Italian would certainly answer :-)
+Only when practised by Germans, as any Italian would certainly answer :-)
 
 
 
 
 
-​
+
 
 (This refers to a running joke between some of us British, German and Italian philologists here at the Vienna department.)
 

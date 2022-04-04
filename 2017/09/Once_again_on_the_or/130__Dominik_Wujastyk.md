@@ -9,23 +9,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046
 great news!  I've had similar struggles to Camillo, and was sad that such a
 fabulous tool was apparently out of reach.
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 16 September 2017 at 03:31, Oliver Hellwig via INDOLOGY <
@@ -53,7 +53,7 @@ indology at list.indology.info> wrote:
 >
 > Dear Dr Formigatti,
 >
-> ​​
+> 
 >
 > thank you for your detailed and indeed very welcome elucidation!
 >
@@ -61,18 +61,18 @@ indology at list.indology.info> wrote:
 > The only umbrage I was taking at was the scientist’s zero discovery claim
 > and the lack of any Indological expertise in this sensationalist broadcast,
 > which would
-> ​perhaps have ​
+> perhaps have 
 > be
-> ​en​
+> en
 > justified for the radiocarbon dating. It is reassuring to learn about the
 > actual background of the whole undertaking, for which the research team
 > deserves unreserved congratulations, and I would
-> ​be ​
+> be 
 > the last person not to applaud
-> ​ to their efforts​
-> ​.
+>  to their efforts
+> .
 >
-> ​
+> 
 >
 > What you say about “the reason why Hayashi is not mentioned in the
 > Guardian article–nor is any of us from the team (...) is that this is an
@@ -98,18 +98,18 @@ indology at list.indology.info> wrote:
 > would no longer be the case in the copies made by one scribal hand from
 > this exemplar. If the process was carried on for centuries, only a
 > philological analysis could uncover what lies beneath
-> ​an apparently homogeneous surface.
+> an apparently homogeneous surface.
 >
 >
-> Perhaps the Bakshāli, too, is itself a product​,​
-> ​ at the beginning or
-> ​somewhere ​
+> Perhaps the Bakshāli, too, is itself a product,
+>  at the beginning or
+> somewhere 
 > in the middle
-> ​,​
+> ,
 > of
-> ​a ​
+> a 
 > repeated process of material layer conflations
-> ​​
+> 
 > .
 >
 >

@@ -16,7 +16,7 @@ On 29 July 2013 08:19, Malhar Arvind Kulkarni <malhar at iitb.ac.in> wrote:
 > Malhar Kulkarni.
 >
 
-​I am very sad to hear this news.  Prof. Joshi was, I think many will
+I am very sad to hear this news.  Prof. Joshi was, I think many will
 agree, a genius.  His knowledge of vyākaraṇa was deep and subtle.  Yet his
 great mastery did not prevent him from being a kind and supportive teacher
 towards beginners.  I will always be grateful to him for his teaching, and

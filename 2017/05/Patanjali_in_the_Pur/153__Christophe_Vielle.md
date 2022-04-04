@@ -72,12 +72,12 @@ Le 22 mai 2017 à 11:04, Hartmut Buescher via INDOLOGY <indology at list.indolog
 > Dominik
 > 
 > 
-> ​--
-> Professor Dominik Wujastyk​,​
-> Singhmar Chair in Classical Indian Society and Polity​,​
-> Department of History and Classics​,​
-> University of Alberta, Canada​.​
-> South Asia at the U of A: ​sas.ualberta.ca​​​
+> --
+> Professor Dominik Wujastyk,
+> Singhmar Chair in Classical Indian Society and Polity,
+> Department of History and Classics,
+> University of Alberta, Canada.
+> South Asia at the U of A: sas.ualberta.ca
 > 
 > 
 > On 15 May 2017 at 23:00, Ashok Aklujkar via INDOLOGY <indology at list.indology.info> wrote:

@@ -11,10 +11,10 @@ It is now in my E-Library!
 On Sun, May 24, 2015 at 12:15 PM, Veeranarayana Pandurangi <
 veerankp at gmail.com> wrote:
 
-> ​
+> 
 >  Dhvanyaloka with Lochana of Abhniva Gupta Balap...
 > <https://docs.google.com/file/d/0BxIFJTiiBLyyRFNLakpXbk92RG8/edit?usp=drive_web>
-> ​
+> 
 >
 > On Sun, May 24, 2015 at 10:13 PM, Timothy P. Lighthiser <
 > tlighthiser at gmail.com> wrote:

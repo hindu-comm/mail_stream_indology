@@ -13,8 +13,8 @@ wrote:
 
 
 
-   - ​​
-   ​Downloadable from here
+   - 
+   Downloadable from here
    <https://www.dropbox.com/s/5npsewbwxlzqq1m/1981%20Zimmermann%20SA%20Les%20Aspects%20Medicaux%20du%20Yavanajataka.pdf?dl=0>
    .
 

@@ -16,12 +16,12 @@ Date: Sunday, July 13, 2014 9:13 AM
 To: "indology at list.indology.info<mailto:indology at list.indology.info>" <indology at list.indology.info<mailto:indology at list.indology.info>>, Informationsaustausch der deutschsprachigen Indologie <INDOLOGIE at LISTSERV.UNI-HEIDELBERG.DE<mailto:INDOLOGIE at LISTSERV.UNI-HEIDELBERG.DE>>
 Subject: [INDOLOGY] Fwd: [Indo-Eurasia] Interview with the new ICHR Chairman
 
-​Indological expertise is in demand,
+Indological expertise is in demand,
 
 FYI,
 
 WS
-​
+
 
 ---------- Forwarded message ----------
 From: Steve Farmer saf at safarmer.com<mailto:saf at safarmer.com> [Indo-Eurasian_research] <Indo-Eurasian_research at yahoogroups.com<mailto:Indo-Eurasian_research at yahoogroups.com>>

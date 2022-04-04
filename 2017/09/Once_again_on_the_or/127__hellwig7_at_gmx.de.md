@@ -24,13 +24,13 @@ Subject: Re: [INDOLOGY] Once again on the origin of zero: the date of the Bakhsh
 Dear Dr Formigatti,
 
 
-​​
+
 
 thank you for your detailed and indeed very welcome elucidation!
 
 I think, however, there is a need to dispel a possible misunderstanding: The only umbrage I was taking at was the scientist’s zero discovery claim and the lack of any Indological expertise in this sensationalist broadcast, which would 
 
-​perhaps have ​be ​en​justified for the radiocarbon dating. It is reassuring to learn about the actual background of the whole undertaking, for which the research team deserves unreserved congratulations, and I would ​be ​the last person not to applaud ​ to their efforts​​.​
+perhaps have be enjustified for the radiocarbon dating. It is reassuring to learn about the actual background of the whole undertaking, for which the research team deserves unreserved congratulations, and I would be the last person not to applaud  to their efforts.
 What you say about “the reason why Hayashi is not mentioned in the Guardian article–nor is any of us from the team (...) is that this is an article (...) written for the broader public”, invites one to think why a broader public and Indological knowledge should be seen as mutually exclusive?
 
 
@@ -43,13 +43,13 @@ The technical problems with INDOSKRIPT you have pointed out, the advantage of wh
 
 A final remark on layers of birch-bark manuscripts: I have documented MSS, where damaged leaves of a text had been supplemented materially by single leaf layers of the same text taken from intact leaves of other MSS (see, e.g., my catalogue of the Viennese MSS collection, 1990, no. 42 (p. 91), no. 53 (p. 103), no. 60 (p. 11)). Such widespread practice would result in a complete text, however with textual overlapping from possibly different strands of transmission (!). While the material layering is still visually recognizable in the first generation of conflated texts of that kind, this would no longer be the case in the copies made by one scribal hand from this exemplar. If the process was carried on for centuries, only a philological analysis could uncover what lies beneath 
 
-​an apparently homogeneous surface.
+an apparently homogeneous surface.
 
 
 
-Perhaps the Bakshāli, too, is itself a product​,​
+Perhaps the Bakshāli, too, is itself a product,
 
-​ at the beginning or ​somewhere ​in the middle ​,​of ​a ​repeated process of material layer conflations ​​. 
+ at the beginning or somewhere in the middle ,of a repeated process of material layer conflations . 
 
 
 Kindly regarding,

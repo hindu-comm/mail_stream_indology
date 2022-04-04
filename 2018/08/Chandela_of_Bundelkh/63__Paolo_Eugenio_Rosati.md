@@ -107,7 +107,7 @@ On 9 August 2018 at 15:51, Matthew Kapstein <mkapstei at uchicago.edu> wrote:
 
 
 *PhD in Civilizations of Asia and Africa (South Asia Section)Italian
-Institute of Oriental Studies ​'Sapienza' University of Rome*
+Institute of Oriental Studies 'Sapienza' University of Rome*
 
 *https://uniroma1.academia.edu/PaoloRosati/
 <https://uniroma1.academia.edu/PaoloRosati/>*

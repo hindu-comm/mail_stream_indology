@@ -44,15 +44,15 @@ In ISO 15919 (SA languages) e/o with macron-over (ē/ō) appear in the
 *ഏ* ē
 
 *ഒ*
-*​ *
+* *
 o
 *ഓ*
-​
+
 ō
 T
-​hanks,
+hanks,
 
-Artur Karp​
+Artur Karp
 
 
 -------------- next part --------------

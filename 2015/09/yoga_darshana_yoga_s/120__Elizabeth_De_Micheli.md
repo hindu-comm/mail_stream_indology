@@ -18,10 +18,10 @@ The basic details are as follows:
 
 DATE: 19-21 May 2016
 CONFERENCE TITLE:
-yoga darśana, yoga sādhana​: ​traditions, transmissions, transformations
+yoga darśana, yoga sādhana: traditions, transmissions, transformations
 
-WHERE:​ ​Jagiellonian University, Krakòw, Poland
-WEBSITE and CFP:​ ​www.ydys.confer.uj.edu.pl
+WHERE: Jagiellonian University, Krakòw, Poland
+WEBSITE and CFP: www.ydys.confer.uj.edu.pl
 
 *****************************************************************
 
@@ -34,11 +34,11 @@ Further details:
 
 CONFIRMED KEYNOTE SPEAKERS (in alphabetical order)
 
-​= ​Michel Angot (EHESS, Paris)
-​= ​Jason Birch (SOAS, London)
-​= ​Philipp Maas (University of Vienna)
-​= ​James Mallinson (SOAS, London)
-​= ​Federico Squarcini (Università Ca’ Foscari, Venice).
+= Michel Angot (EHESS, Paris)
+= Jason Birch (SOAS, London)
+= Philipp Maas (University of Vienna)
+= James Mallinson (SOAS, London)
+= Federico Squarcini (Università Ca’ Foscari, Venice).
 
 
 OVERVIEW
@@ -52,12 +52,12 @@ With best regards,
 Elizabeth De Michelis, PhD,
 
 on behalf of the
-Conference Organising Committee http://www.ydys.confer.uj.edu.pl/en_GB/organisers------------------------------------------------​= ​Matylda Ciołkosz, MA (Institute for the Study of Religions, Jagiellonian University)
-​= ​Robert Czyżykowski, PhD (Institute for the Study of Religions, Jagiellonian University)
+Conference Organising Committee http://www.ydys.confer.uj.edu.pl/en_GB/organisers------------------------------------------------= Matylda Ciołkosz, MA (Institute for the Study of Religions, Jagiellonian University)
+= Robert Czyżykowski, PhD (Institute for the Study of Religions, Jagiellonian University)
 http://www.religioznawstwo.uj.edu.pl/index.php/en/
-​= ​Elizabeth De Michelis, PhD (Independent scholar; Senior Manager, Modern Yoga Research)
-​= ​Suzanne Newcombe, PhD (Inform, based at the London School of Economics; Manager, Modern Yoga Research)
-​= ​Mark Singleton, PhD (SOAS, London; Manager, Modern Yoga Research)
+= Elizabeth De Michelis, PhD (Independent scholar; Senior Manager, Modern Yoga Research)
+= Suzanne Newcombe, PhD (Inform, based at the London School of Economics; Manager, Modern Yoga Research)
+= Mark Singleton, PhD (SOAS, London; Manager, Modern Yoga Research)
 http://modernyogaresearch.org/
 
 

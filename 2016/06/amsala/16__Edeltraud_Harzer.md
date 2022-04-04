@@ -62,13 +62,13 @@ Traude.
 > 
 > On Sat, Jun 25, 2016 at 3:43 PM, Herman Tull <hermantull at gmail.com <mailto:hermantull at gmail.com>> wrote:
 >> 
->> ​ Dermot,
+>>  Dermot,
 >> 
->> I worked on this 30 years ago,​ and I remember asking the exact same question. If memory serves correctly (and it may be
->> ​unreliable  here), I believe Sayana's commentary ​is  helpful here ​ in getting to Eggeling's definition​ . ​  (I'm away from my library right now, and I cannot check ​.​ )​
+>> I worked on this 30 years ago, and I remember asking the exact same question. If memory serves correctly (and it may be
+>> unreliable  here), I believe Sayana's commentary is  helpful here  in getting to Eggeling's definition .   (I'm away from my library right now, and I cannot check . )
 >> 
 >> 
->> ​Herman 
+>> Herman 
 >> 
 >> Herman Tull
 >> Princeton, NJ

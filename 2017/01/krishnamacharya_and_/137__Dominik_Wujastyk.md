@@ -10,23 +10,23 @@ Useful bibliographical notes on the YM by David White
 <https://books.google.ca/books?id=0ZGrAgAAQBAJ&lpg=PA257&ots=_PrzirXSYV&dq=singleton%20yogamakaranda&pg=PA257#v=onepage&q=singleton%20yogamakaranda&f=false>
 .
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 24 January 2017 at 23:46, patrick mccartney via INDOLOGY <

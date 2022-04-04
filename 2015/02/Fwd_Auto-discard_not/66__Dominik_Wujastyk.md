@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-February/0406
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-February/040636.html)
 
-Ca​n anyone help Dr Remmer with this query?  Replies directly to Dr Remma,
+Can anyone help Dr Remmer with this query?  Replies directly to Dr Remma,
 please.
 
 ---------- Forwarded message ----------

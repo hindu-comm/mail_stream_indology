@@ -28,25 +28,25 @@ Sincerely,
 Dominik Wujastyk
 
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
-​Draft:
+Draft:
 
 Dear Professor Duraisamy,
 
@@ -107,9 +107,9 @@ scholarship.
 
 We, the undersigned, hope and trust that the University of Madras will be
 able to complete the NCC project soon.
-​
 
-​​
+
+
 
 
 -------------- next part --------------

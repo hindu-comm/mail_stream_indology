@@ -7,17 +7,17 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038
 [Archive link](https://list.indology.info/pipermail/indology/2013-September/038352.html)
 
 I
-​ have been asked to forward this to the INDOLOGY members.  I'm not sure
+ have been asked to forward this to the INDOLOGY members.  I'm not sure
 that the technology described here is relevant to our field, but maybe
 others know more than I do about this.
 
 Best,
-Dominik​
+Dominik
 
-​Wujastyk​
+Wujastyk
 
 I
-​NDOLOGY committee​
+NDOLOGY committee
 
 
 

@@ -22,7 +22,7 @@ Indeed  a major source of studies !!
 --Shreenand
 
 
-​While what JSTOR and BORI have done is excellent, it is not enough.  There
+While what JSTOR and BORI have done is excellent, it is not enough.  There
 are two drawbacks in what they've done:
 
    1. Some volumes are missing.

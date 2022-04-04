@@ -15,10 +15,10 @@ Nota bene also an interesting new Devanagari font created  by Alessandro
 Graheli, that can be seen in his recent publication *History and
 Transmission of the Nyāyamañjarī. Critical Edition of the Section on the
 Sphoṭa *
-(Vienna: ​​
+(Vienna: 
 Verlag der Österreichischen Akademie der Wissenschaften, 2015
 <http://www.ikga.oeaw.ac.at/Mitarbeiter/Graheli>
-​) <http://www.ikga.oeaw.ac.at/Mitarbeiter/Graheli>​.  Alessandro has been
+) <http://www.ikga.oeaw.ac.at/Mitarbeiter/Graheli>.  Alessandro has been
 strongly influenced by his long experience with Sanskrit manuscripts, and
 his font reflects the influence of scribal traditions, for example the
 interrupted akṣara-by-akṣara mātrā line.  It's subtle.

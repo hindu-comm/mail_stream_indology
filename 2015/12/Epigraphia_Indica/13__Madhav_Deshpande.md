@@ -61,7 +61,7 @@ On Mon, Dec 7, 2015 at 4:59 AM, Kenneth Gregory Zysk <zysk at hum.ku.dk> wrote:
 >    - https://archive.org/details/epigraphia-indica
 >
 >
-> -- D​W​
+> -- DW
 >
 >
 >

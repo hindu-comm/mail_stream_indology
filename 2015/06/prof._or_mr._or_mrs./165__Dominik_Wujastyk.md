@@ -8,8 +8,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041317.h
 
 I'm terribly sorry!  You're absolutely right!  I was looking at the wrong
 email header.  Please accept my apologies.
-​
-​Dominik Wujastyk​
+
+Dominik Wujastyk
 
 
 -------------- next part --------------

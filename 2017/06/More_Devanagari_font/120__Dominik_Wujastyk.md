@@ -19,23 +19,23 @@ such a difference.
 Best,
 Dominik
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 19 June 2017 at 16:34, Madhav Deshpande <mmdesh at umich.edu> wrote:
@@ -77,29 +77,29 @@ On 19 June 2017 at 16:34, Madhav Deshpande <mmdesh at umich.edu> wrote:
 >>> my blog post
 >>> <https://cikitsa.blogspot.ca/2017/06/expanded-devanagari-font-comparison.html>
 >>> .
->>> ​
+>>> 
 >>>
 >>> --
->>> ​​
+>>> 
 >>>
 >>> Professor Dominik Wujastyk
 >>> <http://ualberta.academia.edu/DominikWujastyk>
->>> ​,​
+>>> ,
 >>>
 >>> Singhmar Chair in Classical Indian Society and Polity
->>> ​,​
+>>> ,
 >>>
 >>> Department of History and Classics
 >>> <http://historyandclassics.ualberta.ca/>
->>> ​,​
+>>> ,
 >>> University of Alberta, Canada
->>> ​.​
->>> ​​
+>>> .
+>>> 
 >>>
 >>> South Asia at the U of A:
 >>>
->>> ​sas.ualberta.ca​
->>> ​​
+>>> sas.ualberta.ca
+>>> 
 >>>
 >>>
 >>> _______________________________________________

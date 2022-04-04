@@ -19,7 +19,7 @@ INDOLOGY forum is not moderated, and never has been.  We are on an honour
 system.  It works well.
 
 Best,
-Dominik​ Wujastyk
+Dominik Wujastyk
 INDOLOGY committee member on duty this week.
 
 

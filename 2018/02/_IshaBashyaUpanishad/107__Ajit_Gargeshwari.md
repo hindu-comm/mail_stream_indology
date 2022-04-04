@@ -25,7 +25,7 @@ Cc:
 Bcc:
 Date: 26 Feb 2018 09:08:55 -0000
 Subject: [INDOLOGY]
-​​
+
 IshaBashyaUpanishad
 To All,
  I am grateful to Prof. Van Bijlert for helping me with the publisher's

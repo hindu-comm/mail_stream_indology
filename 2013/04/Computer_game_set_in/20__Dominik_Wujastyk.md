@@ -6,9 +6,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037682.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-April/037682.html)
 
-​For indologist gamers a free game in Magadha​
-​
-​: http://play0ad.com/​
+For indologist gamers a free game in Magadha
+
+: http://play0ad.com/
 
 "All-new and unique *Mauryan Indian* civilization, including new units,
 from war elephants to Brahmin priests; and new buildings, reflecting this

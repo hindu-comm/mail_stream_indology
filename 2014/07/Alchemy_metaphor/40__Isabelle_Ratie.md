@@ -85,7 +85,7 @@ Apostelgasse 23, 1030 Vienna, Austria
 
 2014-07-13 11:48 GMT+02:00 Dominik Wujastyk <wujastyk at gmail.com>:
 
-> ​Just on the pitta/pīta issue, these are, from the point of view of
+> Just on the pitta/pīta issue, these are, from the point of view of
 > historical phonology, alternants of the same word meaning "yellow" (cf. law
 > of morae; Mayrhofer). Bile, pitta, in Indian medicine, was "[yellow, pīta]
 > bile."  The word pīta occurs very frequently in ayurvedic sentences in

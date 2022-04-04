@@ -6,9 +6,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041638.h
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-July/041638.html)
 
-​"​
-​
-​Do we need to talk to them?​," you ask. I don't think so, either.  Not
+"
+
+Do we need to talk to them?," you ask. I don't think so, either.  Not
 because there isn't an issue here.   But because we're unqualified.
 Speaking for myself, I'm not a sociologist, or even a history of religions
 person.  I haven't read all the subaltern stuff, nor all the Orientalism

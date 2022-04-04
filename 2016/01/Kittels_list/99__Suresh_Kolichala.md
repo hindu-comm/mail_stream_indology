@@ -55,7 +55,7 @@ The following diagram of domesticated cattle in India clearly shows that
 the agro-pastoralism spread to south-India from North West.
 
 
-​
+
 I have more internal linguistic data that provides stronger evidence for an
 external origin of the Dravidian languages, which I hope to document and
 publish sometime this year.

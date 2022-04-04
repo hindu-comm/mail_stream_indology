@@ -6,8 +6,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-October/04441
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-October/044416.html)
 
-​Copyright is a sneaky creature.  It's likely that you own the copyright of
-your thesis, but not certain.  If you received a financial grant ​during
+Copyright is a sneaky creature.  It's likely that you own the copyright of
+your thesis, but not certain.  If you received a financial grant during
 the time you wrote it, then it might be "work for hire" and the grant body
 might own the copyright.  Or the university might own the copyright.
 That's quite likely, in fact.  Technically, universities own the copyright
@@ -37,7 +37,7 @@ Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
 
 <https://mail.google.com/mail/u/0/goog_1525257691>
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
 On 19 October 2016 at 19:46, rajam <rajam at earthlink.net> wrote:

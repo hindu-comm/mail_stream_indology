@@ -6,26 +6,26 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-May/037802.ht
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-May/037802.html)
 
-​Dear Stella,
+Dear Stella,
 
-​I'm sorry your friends had a bad experience.  ​
-​
+I'm sorry your friends had a bad experience.  
+
 D. K. Agencies
-​normally ​
+normally 
 run a very professional service, with in-house MARC cataloguing to Library
 of Congress standards. But my experience
-​, dating back ​
+, dating back 
 about ten years
-​,​
+,
 was also that they were
-​good but ​
+good but 
 expensive.
 
 Since then, the Indian Govt. has hugely ratcheted up the postal rates for
 shipping books out of India.  It's a completely different prospect now,
 than in the past, to send a book parcel from India to an international
 destination.  And that has hit the international business of
-​book distribution ​
+book distribution 
 companies
 hard.
 

@@ -169,7 +169,7 @@ On Mon, Oct 2, 2017 at 10:33 AM, HR <hr at ivs.edu> wrote:
 > 'I can say with certainty that ancient India was never imagined during or
 > later to the independence movement, either by the educated Indians or by
 > the common public as an India without wars or without harsh punishments or
-> without harsh ways of crime control etc. ​'
+> without harsh ways of crime control etc. '
 >
 > Are books written to counter 'a point of view that  exists in the minds
 > of some people' ?
@@ -191,24 +191,24 @@ On Mon, Oct 2, 2017 at 10:33 AM, HR <hr at ivs.edu> wrote:
 >> Dominik
 >>
 >>
->> ​
+>> 
 >> --
 >> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
->> ​,​
+>> ,
 >>
 >> Singhmar Chair in Classical Indian Society and Polity
->> ​,​
+>> ,
 >>
 >> Department of History and Classics
 >> <http://historyandclassics.ualberta.ca/>
->> ​,​
+>> ,
 >> University of Alberta, Canada
->> ​.​
+>> .
 >>
 >> South Asia at the U of A:
 >>
->> ​sas.ualberta.ca​
->> ​​
+>> sas.ualberta.ca
+>> 
 >>
 >>
 >> On 30 September 2017 at 07:29, Olivelle, J P <jpo at austin.utexas.edu>

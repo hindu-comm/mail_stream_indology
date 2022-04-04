@@ -7,9 +7,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041576.h
 [Archive link](https://list.indology.info/pipermail/indology/2015-July/041576.html)
 
 Two wrongs don't make a right.  (If that's what you meant.)
-​
-​
-Dominik Wujastyk​
+
+
+Dominik Wujastyk
 
 
 -------------- next part --------------

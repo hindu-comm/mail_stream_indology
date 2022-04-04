@@ -31,12 +31,12 @@ I fully agree with Dominik —in fact i think these publishers, though they pref
 > 
 > 
 > 
-> ​--
-> Professor Dominik Wujastyk​,​
-> Singhmar Chair in Classical Indian Society and Polity​,​
-> Department of History and Classics​,​
-> University of Alberta, Canada​.​
-> South Asia at the U of A: ​sas.ualberta.ca​​​
+> --
+> Professor Dominik Wujastyk,
+> Singhmar Chair in Classical Indian Society and Polity,
+> Department of History and Classics,
+> University of Alberta, Canada.
+> South Asia at the U of A: sas.ualberta.ca
 > 
 > 
 >> On 18 October 2017 at 03:54, R. P. Jain <rpjain1903 at gmail.com> wrote:
@@ -68,12 +68,12 @@ I fully agree with Dominik —in fact i think these publishers, though they pref
 >>> Springer Nature: http://group.springernature.com/gp/group/media/press-releases/researchgate-and-springer-nature-plan-cooperation-/15118294
 >>> 
 >>> 
->>> ​--
->>> Professor Dominik Wujastyk​,​
->>> Singhmar Chair in Classical Indian Society and Polity​,​
->>> Department of History and Classics​,​
->>> University of Alberta, Canada​.​
->>> South Asia at the U of A: ​sas.ualberta.ca​​​
+>>> --
+>>> Professor Dominik Wujastyk,
+>>> Singhmar Chair in Classical Indian Society and Polity,
+>>> Department of History and Classics,
+>>> University of Alberta, Canada.
+>>> South Asia at the U of A: sas.ualberta.ca
 >>> 
 >>> 
 >>> _______________________________________________

@@ -9,23 +9,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-December/0448
 I've now completed the set of six Peterson reports at
 catalogues.indology.info, under Biswas 0857.
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 8 December 2016 at 02:14, Peter Mukunda Pasedach <

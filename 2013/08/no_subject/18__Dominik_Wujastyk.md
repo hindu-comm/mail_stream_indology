@@ -11,14 +11,14 @@ Gayathri's note to Cardona, giving him the choice of whether to take up the
 conversation. Since George is a member of this forum, it is not necessary
 to do anything further.
 
-​Please don't send such enquirers private information ​about other INDOLOGY
+Please don't send such enquirers private information about other INDOLOGY
 members, including their email addresses.  I'm sure such enquiries are
 normally well meant, but it's not appropriate to just respond to them
 without due care.
 
-​Best,
+Best,
 Dominik
-INDOLOGY committee​
+INDOLOGY committee
 
 
 On 30 August 2013 08:26, gayathri <gayathrigrdevi at gmail.com> wrote:

@@ -21,7 +21,7 @@ Library and Information Center
 Department of Buddhist Studies
 Dharma Drum Institute of Liberal Arts
 Jinshan, Taiwan
-website <http://agamaresearch.ddbc.edu.tw/?page_id=48>​
+website <http://agamaresearch.ddbc.edu.tw/?page_id=48>
 
 
 -------------- next part --------------

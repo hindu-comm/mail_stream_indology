@@ -6,12 +6,12 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-November/0386
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-November/038604.html)
 
-Apologies! My remarks were not quite right.​
-​
+Apologies! My remarks were not quite right.
 
-It's not the "digest" setting that causes the ​
-​
-​display problem, but having MIME switched off.  Turn that setting on, and
+
+It's not the "digest" setting that causes the 
+
+display problem, but having MIME switched off.  Turn that setting on, and
 the Unicode characters will display properly.
 
 Tweaking your settings is done by clicking the button "unsubscribe or edit

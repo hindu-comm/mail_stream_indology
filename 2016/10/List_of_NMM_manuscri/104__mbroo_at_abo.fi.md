@@ -27,7 +27,7 @@ Måns
 > University of Alberta, Canada
 >
 > <https://mail.google.com/mail/u/0/goog_1525257691>
-> ​sas.ualberta.ca​
+> sas.ualberta.ca
 >
 >
 > On 30 September 2016 at 02:28, <mbroo at abo.fi> wrote:

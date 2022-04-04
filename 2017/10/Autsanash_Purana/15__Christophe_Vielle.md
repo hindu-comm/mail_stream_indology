@@ -65,12 +65,12 @@ Le 3 oct. 2017 à 03:03, patrick mccartney <psdmccartney at gmail.com> a écrit 
 > On Tue, Oct 3, 2017 at 4:19 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > We seem to be speaking differently about the same information.  As Rocher and Hazra both say, there is no such upapurana *surviving today*.  The title is known from old lists, and the work may or may not have actually existed, it's hard to tell.
 > 
-> ​--
-> Professor Dominik Wujastyk​,​
-> Singhmar Chair in Classical Indian Society and Polity​,​
-> Department of History and Classics​,​
-> University of Alberta, Canada​.​
-> South Asia at the U of A: ​sas.ualberta.ca​​​
+> --
+> Professor Dominik Wujastyk,
+> Singhmar Chair in Classical Indian Society and Polity,
+> Department of History and Classics,
+> University of Alberta, Canada.
+> South Asia at the U of A: sas.ualberta.ca
 > 
 > 
 > On 2 October 2017 at 10:54, Christophe Vielle <christophe.vielle at uclouvain.be> wrote:
@@ -82,12 +82,12 @@ Le 3 oct. 2017 à 03:03, patrick mccartney <psdmccartney at gmail.com> a écrit 
 > 
 >> A quick look in the index of Ludo Rocher's fine history of puranic literature shows an Auśanasapurāṇa, which is probably what Singh is trying to refer to.  P. 138 gives more information about this "lost" purāṇa, which is sometimes conflated with the Vindhyamāhātmya, that Singh also cites.  That's probably the basis of the information that Singh is garbling.
 >> 
->> ​--
->> Professor Dominik Wujastyk​,​
->> Singhmar Chair in Classical Indian Society and Polity​,​
->> Department of History and Classics​,​
->> University of Alberta, Canada​.​
->> South Asia at the U of A: ​sas.ualberta.ca​​​
+>> --
+>> Professor Dominik Wujastyk,
+>> Singhmar Chair in Classical Indian Society and Polity,
+>> Department of History and Classics,
+>> University of Alberta, Canada.
+>> South Asia at the U of A: sas.ualberta.ca
 >> 
 >> 
 >> On 27 September 2017 at 12:39, patrick mccartney via INDOLOGY <indology at list.indology.info> wrote:

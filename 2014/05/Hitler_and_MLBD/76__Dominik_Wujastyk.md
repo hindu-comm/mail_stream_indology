@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039414.ht
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-May/039414.html)
 
-​Thank you for your kind words, Robert.
+Thank you for your kind words, Robert.
 
 On 21 May 2014 14:55, Robert Zydenbos <zydenbos at uni-muenchen.de> wrote:
 
@@ -19,7 +19,7 @@ On 21 May 2014 14:55, Robert Zydenbos <zydenbos at uni-muenchen.de> wrote:
 > ‘Aryan’?”)
 >
 
-​There is a view held amongst ​some Indian citizens that nobody who isn't
+There is a view held amongst some Indian citizens that nobody who isn't
 Indian (or a Hindu) has the right to say anything challenging or
 interpretative about Indian history and culture.  "If you're not Indian,
 you have no right to a voice."  Similarly, can an atheist be allowed to
@@ -43,8 +43,8 @@ Sometimes people in India, like people anywhere, make mistakes or act
 inappropriately.  If such people resent this being discussed, then I'm
 sorry but, like everyone, they must suck it up.
 
-​Your point about the film by Joachim Fest is quite strong, I think.  In
-the MLBD Newsletter ​and the first version of the web advertisement, there
+Your point about the film by Joachim Fest is quite strong, I think.  In
+the MLBD Newsletter and the first version of the web advertisement, there
 was no mention of Fest's film being part of the item offered for sale.  Now
 the web advert has changed, and it  seems that the book, MK, is accompanied
 by the film.  If it is really MLBD's intention to frame the book as part of
@@ -79,14 +79,14 @@ meant one way, but could be taken another.
 If MLBD seriously wants to get into Nazi studies, then they might be better
 advised to publish books like those of Bullock and Trevor-Roper, the film *Der
 Untergang*, and many other books and media that make the case unequivocally.
-​​
-​​
+
+
 
 > “What effectively is being said is ‘Americans and Israelis should read the
 > book, but it is too dangerous for you foolish Indians to have it’.”
 >
 
-​This is a straw man.​ It's not what I think or what I said.  Nor is it
+This is a straw man. It's not what I think or what I said.  Nor is it
 implied in what I said.  I don't think any of us in this discussion is so
 naive or misguided.
 
@@ -108,11 +108,11 @@ about foolishness or otherwise, it's about meaning.
 (Without your petition, mind you. Think about that.)
 >
 
-​but a day *after* I sent them my letter.  They may still be unaware of the
+but a day *after* I sent them my letter.  They may still be unaware of the
 petition - I personally have not drawn it to their attention.  It only goes
 to them formally when the petition closes.  Think about that.
 
-​
+
 
 
 > And I would like to repeat my question: has anybody seen this MLBD
@@ -123,7 +123,7 @@ to them formally when the petition closes.  Think about that.
 > Fest film?
 >
 
-​None of this matters, since people will buy MLBD's Mein Kampf on the basis
+None of this matters, since people will buy MLBD's Mein Kampf on the basis
 of their advertisements, and the advertisements have not been unequivocal
 about what is being sold.
 
@@ -138,15 +138,15 @@ Nor can I prevent any smug, ill-informed, knee-jerk politically correct,
 > understood that I cannot join.
 >
 
-​​It doesn't help a serious conversation to insult your opponents or
-belittle their views.​
+It doesn't help a serious conversation to insult your opponents or
+belittle their views.
 
-​You return several times to characterizing the views of others in this
+You return several times to characterizing the views of others in this
 debate as emotionalism.  It isn't obvious to me that the people who hold
 views different from yours are all suffering from excess emotion.   It also
 isn't the case that emotion is the opposite of reason.
 
-​Best,
+Best,
 Dominik
 
 

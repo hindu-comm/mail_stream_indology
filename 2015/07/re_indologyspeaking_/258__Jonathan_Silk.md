@@ -56,7 +56,7 @@ klaus.karttunen at helsinki.fi> wrote:
 >> ça change…. George Hart
 >>
 >
-> ​The relationship of the MW and PW dictionaries was carefully evaluated in
+> The relationship of the MW and PW dictionaries was carefully evaluated in
 > the 1988 article,
 >
 > Ladislav Zgusta, "Copying in Lexicography. Monier-Williams' Sanskrit

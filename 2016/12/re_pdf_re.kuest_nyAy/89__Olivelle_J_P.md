@@ -12,11 +12,11 @@ Is there a trick to downloading these? It did not work for me.
 
 On Dec 31, 2016, at 5:42 AM, Krishnaprasad G <krishnaprasadah.g at gmail.com<mailto:krishnaprasadah.g at gmail.com>> wrote:
 
-​
+
 [https://ssl.gstatic.com/docs/doclist/images/icon_12_pdf_list.png] Nyaya Manjari of Jayantabhatta with Nyaysaurabh...<https://drive.google.com/file/d/0B5co7XNB-nfZYWdvQ1BjX1lWbVU/view?usp=drive_web>
-​​
+
 [https://ssl.gstatic.com/docs/doclist/images/icon_12_pdf_list.png] Nyaya Manjari of Jayantabhatta with Nyaysaurabh...<https://drive.google.com/file/d/0B5co7XNB-nfZWXdySU9aaDVzZmc/view?usp=drive_web>
-​
+
 
 On Sat, Dec 31, 2016 at 11:55 AM, Elliot Stern <emstern at verizon.net<mailto:emstern at verizon.net>> wrote:
 Dear list members,

@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-January/04715
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2018-January/047158.html)
 
-​Dear Raph,
+Dear Raph,
 
 
 I am forwarding your message to the INDOLOGY forum.  Your query is going

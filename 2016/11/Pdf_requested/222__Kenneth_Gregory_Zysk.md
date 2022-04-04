@@ -33,9 +33,9 @@ Please can we INDOLOGY members restrict our PDF requests to items that are out o
 I know that we're all finding the sharing of documents to be one of INDOLOGY's most valuable features at the moment, and the committee doesn't want to stop this important function.  But we don't want to stray too obviously into illegal territory.
 
 
-​Many thanks,
+Many thanks,
 Dominik
-INDOLOGY committee​
+INDOLOGY committee
 
 
 

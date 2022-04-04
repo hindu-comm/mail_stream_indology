@@ -62,7 +62,7 @@ indology at list.indology.info> wrote:
 > South Asia at the U of A:
 >
 > sas.ualberta.ca
-> ​​
+> 
 >
 >
 >

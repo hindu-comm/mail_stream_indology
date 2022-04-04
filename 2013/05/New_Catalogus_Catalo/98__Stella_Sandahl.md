@@ -26,7 +26,7 @@ On 2013-05-07, at 9:49 AM, Dominik Wujastyk wrote:
 > Best,
 > Dominik
 > 
-> ​​
+> 
 > 
 > _______________________________________________
 > INDOLOGY mailing list

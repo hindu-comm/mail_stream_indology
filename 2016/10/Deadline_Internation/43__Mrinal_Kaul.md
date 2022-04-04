@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-October/04430
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-October/044302.html)
 
-​Dear All,
+Dear All,
 
 This is a gentle reminder about the deadline (November 1, 2016) for
 applying to participate in the *International Tantra Workshop* to be held
@@ -15,7 +15,7 @@ details following the link below:
 
 https://kashuradab.wordpress.com/international-workshop-on-tantric-studies/
 
-We still have few slots left for potential participants.​
+We still have few slots left for potential participants.
 
 Looking forward.
 

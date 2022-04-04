@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-October/04014
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-October/040142.html)
 
-​Indologists -ji,
+Indologists -ji,
 
 
 I would add that Indology can also survive if wealthy donors endow programs at institutions that are willing to accept money for such purposes.  The Asian Studies program at my college was established directly as a result of such funding.  Unfortunately, the donor favored East Asia, and the program has thus developed primarily in that direction.  But donors could specify support for Asia more broadly, or they could endow a program in South Asian Studies specifically.  So!  All of you wealthy Indologist patrons out there:  give lots of money to your favorite institution and create more jobs for all of our current and future students of South Asia, no matter their particular disciplines!!!

@@ -10,10 +10,10 @@ The migration happened a couple of days ago.  There was a hiccup in
 INDOLOGY mailman service for a few hours, but things ought to be normal
 again now.
 
-​Dominik Wujastyk
+Dominik Wujastyk
 INDOLOGY committee
 <http://sas.ualberta.ca/>
-​​
+
 
 
 On 24 February 2018 at 17:08, Dominik Wujastyk <wujastyk at gmail.com> wrote:

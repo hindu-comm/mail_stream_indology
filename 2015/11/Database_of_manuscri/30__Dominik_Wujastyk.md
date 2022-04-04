@@ -32,14 +32,14 @@ I have heard indirectly that NAMAMI field officers were paid per return,
 and that some officers returned more metadata sheets than appeared feasible
 given the hours that they worked.
 
-​
-​
+
+
 --
 Professor Dominik Wujastyk
 Singhmar Chair in Ancient Indian Society and Polity
 Department of History and Classics
 University of Alberta
-​
+
 
 
 -------------- next part --------------

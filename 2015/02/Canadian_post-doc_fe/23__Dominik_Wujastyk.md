@@ -6,13 +6,13 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-February/0407
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-February/040722.html)
 
-​See the Cosmolocal website <http://cosmolocal.org/about-us/> for a better
+See the Cosmolocal website <http://cosmolocal.org/about-us/> for a better
 idea of what this project is about.  The advertisement isn't particularly
-explicit or clear.  ​This is an excellent opportunity for the right person.
+explicit or clear.  This is an excellent opportunity for the right person.
 
 
 ---------- Forwarded message ----------
-​ ​
+ 
 
 From: Cosmopolitanism and the Local <situsci at dal.ca>
 Date: 16 February 2015 at 19:02

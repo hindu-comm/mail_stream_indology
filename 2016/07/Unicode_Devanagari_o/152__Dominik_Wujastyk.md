@@ -22,7 +22,7 @@ select.  Some fonts handle this more elegantly than others.
 
 Best,
 Dominik
-​
+
 
 
 -------------- next part --------------

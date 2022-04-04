@@ -13,14 +13,14 @@ Eric Gurevitch
 
 > On Jul 9, 2017, at 5:53 AM, Kathleen Marie Longwaters via INDOLOGY <indology at list.indology.info> wrote:
 > 
-> She might want to start with the work of Martha Selby, such as: “Narratives of Conception, Gestation, and Labour in Sanskrit Ayurvedic Texts.” Asian Medicine 1, no. 2 (July 2005): 254-75. ​
+> She might want to start with the work of Martha Selby, such as: “Narratives of Conception, Gestation, and Labour in Sanskrit Ayurvedic Texts.” Asian Medicine 1, no. 2 (July 2005): 254-75. 
 > 
 > All the best,
 > 
 > Kathleen Longwaters
 > 
-> ​
-> ​
+> 
+> 
 > 
 > 
 > On Sat, Jul 8, 2017 at 5:30 PM, Greg Bailey via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:

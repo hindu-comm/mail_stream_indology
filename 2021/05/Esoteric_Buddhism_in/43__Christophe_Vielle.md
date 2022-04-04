@@ -13,7 +13,7 @@ Le 1 mai 2021 à 00:18, Matthew Kapstein via INDOLOGY <indology at list.indology
 Dear Paolo,
 
 Michelle Wang,
-Maṇḍalas in the Making​ The Visual Culture of Esoteric Buddhism at Dunhuang​
+Maṇḍalas in the Making The Visual Culture of Esoteric Buddhism at Dunhuang
 is the work I would now recommend. It includes very thorough references to the earlier relevant scholarship.
 
 hope this is useful,

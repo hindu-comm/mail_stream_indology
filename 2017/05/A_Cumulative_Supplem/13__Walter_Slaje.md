@@ -15,7 +15,7 @@ badly than you. We would have loved to add more, but the “present stage of
 the project” you refer to is actually its final stage. The „Description“
 provided on the search site informs the careful reader that funding was
 granted by the DFG for three years only. Therefore, the
-​volume of the data to be included had to be limited right from the outset,
+volume of the data to be included had to be limited right from the outset,
 and a manageable choice had to be made. What you get is what we could
 manage to achieve in the allotted time.
 
@@ -25,7 +25,7 @@ to be adapted to the structure of the pw (hand-picked) for the purpose of
 the intended synoptic representation – not to speak of proof-reading –, any
 claim to completeness would have amounted to hubris. We have consciously
 never made such a claim
-​.​
+.
 
 Even though two works of Renou are deplorably missing, I agree, there are
 still about fifteen other lexicographical works from Renou’s pen included
@@ -34,10 +34,10 @@ for a single word.
 
 Since the NWS is almost limitlessly expandable, it is only a matter of
 raising funds for completing it in a
-​truly ​
+truly 
 satisfying manner. Everybody, who is interested in expanding it further, is
 cordially invited to
-​come up with feasible ideas for fundraising.
+come up with feasible ideas for fundraising.
 
 > From your reference to Oliver Hellwig's 2009 Wörterbuch der
 mittelalterlichen indischen Alchemie with as specific topic "Mineralogy"
@@ -52,7 +52,7 @@ success than the more practical person, who blithely types, e.g., „*māraṇa*
 and feels rewarded by a result, which at the same time would also answer
 your question about “mineralogy only”, were it indeed put earnestly, which,
 I trust, it was not, but with mild irony
-​ only​
+ only
 . I like that.
 
 In any case, we will of course adjust the topic. Thank you for alerting us

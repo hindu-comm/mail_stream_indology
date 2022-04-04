@@ -19,8 +19,8 @@ found it very funny.
 
 For the rappers among us, "cite your sources like a freaking adult
 <https://youtu.be/bT6S4ERI0o8>."
-​
-​Dominik Wujastyk​
+
+Dominik Wujastyk
 
 
 -------------- next part --------------

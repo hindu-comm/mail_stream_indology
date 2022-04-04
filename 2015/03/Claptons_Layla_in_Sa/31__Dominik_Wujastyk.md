@@ -37,10 +37,10 @@ On 17 March 2015 at 10:13, Jonathan Silk <kauzeya at gmail.com> wrote:
 > On Tue, Mar 17, 2015 at 10:01 AM, Dominik Wujastyk <wujastyk at gmail.com>
 > wrote:
 >
->> ​​ <http://goog_307712416>
+>>  <http://goog_307712416>
 >> https://soundcloud.com/krishashok/leela
 >>
->> ​Actually rather well done!  :-)​
+>> Actually rather well done!  :-)
 >>
 >>
 >> _______________________________________________

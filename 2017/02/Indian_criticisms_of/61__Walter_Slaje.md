@@ -83,7 +83,7 @@ Thus, Vasiṣṭha seems to be quite consistent in his thought.
 
 
 Best wishes, Walter
-​
+
 
 
 -------------- next part --------------

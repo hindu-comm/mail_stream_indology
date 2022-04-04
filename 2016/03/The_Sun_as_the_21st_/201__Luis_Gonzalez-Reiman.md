@@ -69,7 +69,7 @@ On 3/21/2016 8:25 AM, Walter Slaje wrote:
 > conception of the earth prevailing at their time. "Terrestrial" is how 
 > I had understood your citation of the word „equator“
 >
-> ​emphasized byquotation marks, but perhaps mistakenly as it appears now.
+> emphasized byquotation marks, but perhaps mistakenly as it appears now.
 >
 > A comparison of the Sanskrit text:
 >
@@ -98,7 +98,7 @@ On 3/21/2016 8:25 AM, Walter Slaje wrote:
 >
 > So much for the background as it relates to Haug
 >
-> ​​
+> 
 > .
 >
 > Thanks again,

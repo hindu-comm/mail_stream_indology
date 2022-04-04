@@ -19,8 +19,8 @@ On 27 March 2014 18:18, C.A. Formigatti <caf57 at cam.ac.uk> wrote:
 > Academy of Sciences by M. I. Vorobyova Desyatovskaya and Jan Nattier).
 >
 
-​The first two MS catalogues (Biswas 0827 0828) are digitized in my
-collection <http://homepage.univie.ac.at/Dominik.Wujastyk/>.​
+The first two MS catalogues (Biswas 0827 0828) are digitized in my
+collection <http://homepage.univie.ac.at/Dominik.Wujastyk/>.
 
 Best,
 Dominik

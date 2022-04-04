@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-November/0385
 [Archive link](https://list.indology.info/pipermail/indology/2013-November/038549.html)
 
 George Cardona sent me the following clarifications in the *karmaṇi
-ghañ*issue, that I reproduce with his kind permission:​
+ghañ*issue, that I reproduce with his kind permission:
 
  ---------- Forwarded message ----------
 From: George Cardona
@@ -31,7 +31,7 @@ the Mleccha ('barbarian' if you will), as is clear from the
 Śatapathabrāhmaṇa passage comparable to the present Bhāṣya passage. I think
 The Sūktiratnākara and others got this right.  The contested issue of the
 syntax is, to my mind. not so clear as some have made it.
-​[...]
+[...]
 I don't know whether this is an improvement, but it my two cents for the
 moment.  Yours, George
 

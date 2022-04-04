@@ -26,8 +26,8 @@ On Sat, Jun 4, 2016 at 9:02 AM, Mrinal Kaul <mrinalkaul81 at gmail.com> wrote:
 > ekenaiva ślokena*
 > *tatparyantaprārambhayorupasaṃhāropakramau karoti, iti asya granthakārasya
 > śailī* | (cf. TĀV, Vol I, p. 309
-> ​,​
-> ​ KSTS​
+> ,
+>  KSTS
 > ).  Also quoted by Navjivan Rastogi (1987:76-78) in the "Introduction to
 > the *Tantrāloka" (MLBD)*.
 >
@@ -41,7 +41,7 @@ On Sat, Jun 4, 2016 at 9:02 AM, Mrinal Kaul <mrinalkaul81 at gmail.com> wrote:
 >
 > Best wishes.
 >
-> Mrinal​
+> Mrinal
 >
 > On 4 June 2016 at 05:46, Harry Spier <hspier.muktabodha at gmail.com> wrote:
 >

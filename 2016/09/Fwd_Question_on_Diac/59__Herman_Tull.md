@@ -25,42 +25,42 @@ paraphrase her position, Indologists will know what the Sanskrit words
 really are, and non-specialists will not care. But, I no longer agree with
 this.  For one thing, with the advent of on-line dictionaries, even
 non-scholars (or non
-​-​
+-
 Indological scholars) have the opportunity to look up terms (and without
 the diacriticals those without Sanskrit, or those who have lost their
 Sanskrit) are
-​lost.
+lost.
   For another, the ease with which diacriticals can be added
-​using modern technology ​
+using modern technology 
 makes it inexcusable to leave them out. (In the the 80s, using one of the
 first personal word processing systems, I still had to add them in by hand
-​ for my dissertation​
+ for my dissertation
 .)
 
 Last but not least Sanskrit words are not
-​"​
+"
 Sanskrit
-​"​
+"
 at all without the diacriticals.  E.g., the letters "ṭ" and "t" are really
 not the same
-​
+
 and
-​mashing them up into
+mashing them up into
 a single "t"
-​ is nothing more than a misrepresentation, and
+ is nothing more than a misrepresentation, and
 not using diacriticals turns the 48 sounds/letters of Sanskrit into
 something they are not.
 
 So, yes.  It is distracting
-​ not to have them​
+ not to have them
 , a
-​n​
+n
 d
-​I think a lot
+I think a lot
  more. I would demand the
-​employment of ​
+employment of 
 diacriticals of any scholar who uses Sanskrit.
-​ ​
+ 
 
 best,
 

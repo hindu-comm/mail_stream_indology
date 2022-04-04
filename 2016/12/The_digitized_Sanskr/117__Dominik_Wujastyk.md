@@ -9,23 +9,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-December/0448
 https://archive.org/details/university_of_toronto?and%5B%5D=languageSorter%3A%22Sanskrit%22&sort=&page=3
 
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 -------------- next part --------------

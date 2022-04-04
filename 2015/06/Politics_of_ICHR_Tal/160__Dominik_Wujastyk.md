@@ -12,8 +12,8 @@ keywords and dumping those emails.  Or just storing them out of sight, if
 you don't want to lose them altogether.  I think it's a more effective
 approach to take control that way, than to fragment an already small
 intellectual community into single-topic ghettos.
-​
-​You use ​Apple Mail (2.2102); I've never used a Mac, but perhaps these
+
+You use Apple Mail (2.2102); I've never used a Mac, but perhaps these
 pages <https://support.apple.com/kb/PH19162?locale=en_GB&viewlocale=en_US>
 may help.
 

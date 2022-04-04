@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-September/039
 
 Here's the petition Facebook page:
 https://www.facebook.com/numquam.eadem/posts/10203125374191450
-​
+
 
 
 -------------- next part --------------

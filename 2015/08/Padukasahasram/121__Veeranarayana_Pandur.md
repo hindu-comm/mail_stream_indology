@@ -6,10 +6,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-August/041808
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-August/041808.html)
 
-​
+
  Padukasahasram of Vedantadesika 1951.pdf
 <https://drive.google.com/file/d/0BxIFJTiiBLyyVU9RbzRwczA4a2s/view?usp=drive_web>
-​
+
 
 On Thu, Aug 6, 2015 at 11:28 AM, David Pierdominici <
 davidpaolo.pierdominicileao at uniroma1.it> wrote:

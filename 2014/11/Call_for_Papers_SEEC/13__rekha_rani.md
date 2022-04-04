@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-November/0401
 
 Dear Brigit,
 
-​              It is very happy news for all of us that you are organized
+              It is very happy news for all of us that you are organized
 the seminar in nov.2015 I want to know that can I give my paper and
 presentation in Hindi Language. Pl inform me so that I can participate in
 this seminar to send my abstract to you.

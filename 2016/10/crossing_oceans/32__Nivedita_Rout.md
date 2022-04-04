@@ -24,7 +24,7 @@ Singhmar Chair in Classical Indian Society and Polity
 Department of History and Classics
 University of Alberta, Canada
 
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 _______________________________________________
 INDOLOGY mailing list

@@ -33,7 +33,7 @@ Srinivasji
 
 Hari Om
 
-​See the mailchimp below that has gone from VC's ID.​ I have also attached
+See the mailchimp below that has gone from VC's ID. I have also attached
 the press advertisement separately as an attachment
 
 The URL is also pasted here
@@ -44,7 +44,7 @@ Recruitment Advertisement is on
 https://gallery.mailchimp.com/690ac0b14e42d7f48d9bcc1cb/files/Press_Ad.pdf
 
 You could share the URL with anyone
-​.
+.
 
 Unto Him Our Best
 Prem & Om

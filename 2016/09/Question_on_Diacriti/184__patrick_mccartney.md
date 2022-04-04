@@ -71,7 +71,7 @@ wrote:
 >
 > Best,
 > Dominik
-> ​
+> 
 >
 > _______________________________________________
 > INDOLOGY mailing list

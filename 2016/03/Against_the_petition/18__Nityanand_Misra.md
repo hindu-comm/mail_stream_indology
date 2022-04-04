@@ -204,7 +204,7 @@ On Mar 3, 2016 11:30 AM, "Tyler Williams" <tylerwwilliams at gmail.com> wrote:
 >>>
 >>> On 01 Mar 2016, at 13:31, Walter Slaje <slaje at kabelmail.de> wrote:
 >>>
->>> ​ ​
+>>>  
 >>> Dear List,
 >>>>
 >>>>
@@ -269,9 +269,9 @@ On Mar 3, 2016 11:30 AM, "Tyler Williams" <tylerwwilliams at gmail.com> wrote:
 >>> non sordidi lucri causa nec ad vanam captandam gloriam,
 >>> sed quo magis veritas propagetur et lux eius, qua salus
 >>> humani generis continetur, clarius effulgeat.
->>> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. ​
+>>> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. 
 >>>
->>>> ​
+>>>> 
 >>>>
 >>>
 >>> _______________________________________________

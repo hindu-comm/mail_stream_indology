@@ -77,9 +77,9 @@ Sent from my iPad
 >>>>>>> In reading these lines, I get quite puzzled. Are historical-critical methods in general flawed, or only when practiced by Germans? 
 >>>>>>> 
 >>>>>> 
->>>>>> ​Only when practised by Germans, as any Italian would certainly answer :-)
+>>>>>> Only when practised by Germans, as any Italian would certainly answer :-)
 >>>>>> 
->>>>>> ​
+>>>>>> 
 >>>>>> (This refers to a running joke between some of us British, German and Italian philologists here at the Vienna department.)
 >>>>>> 
 >>>>>> I suppose the Adluri & Bagchee book deserves a more serious response, but I'm not interested personally.  How did this get by the commissioning editor at OUP NY?

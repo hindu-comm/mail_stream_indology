@@ -26,23 +26,23 @@ Plus, JSTOR membership itself isn't free.   Many of us don't notice this, but a 
 
 Best,
 
-​
+
 --
 Professor Dominik Wujastyk<http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics<http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​<http://sas.ualberta.ca/>
-​​
+sas.ualberta.ca<http://sas.ualberta.ca/>
+
 
 
 On 23 August 2017 at 06:33, Lubin, Tim via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:

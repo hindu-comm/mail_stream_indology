@@ -6,10 +6,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039393.ht
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-May/039393.html)
 
-​Some colleagues have asked for a way to associate themselves publicly with
+Some colleagues have asked for a way to associate themselves publicly with
 a protest to MLBD about their publication of Mein Kampf.
-​
-​I've started the public petition "Motilal Banarsidass, Indological
+
+I've started the public petition "Motilal Banarsidass, Indological
 Publishers in Delhi: Stop publishing and selling Hitler's Mein Kampf" and
 you can sign it if you wish to add your name to the initiative.
 
@@ -52,7 +52,7 @@ be emailed to MLBD.
 
 Best wishes
 Dominik Wujastyk
-​
+
 
 
 -------------- next part --------------

@@ -8,10 +8,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-July/038155.h
 
 http://www.amazon.com/books/dp/9748235874
 
-​Legal or not, version 1.0 at least seems to have been distributed in the
+Legal or not, version 1.0 at least seems to have been distributed in the
 USA and internationally.
 
-DW​
+DW
 
 
 -------------- next part --------------

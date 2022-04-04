@@ -56,9 +56,9 @@ Poland
 > that academics need to step out of the ivory tower and resist the
 > government’s manipulation of this ancient language.
 >
-> ​Thanks and all best,
+> Thanks and all best,
 >
-> Ananya Vajpeyi. ​
+> Ananya Vajpeyi. 
 >
 >
 > --

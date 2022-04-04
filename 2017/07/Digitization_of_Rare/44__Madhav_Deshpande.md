@@ -47,24 +47,24 @@ On Mon, Jul 31, 2017 at 8:58 AM Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
 >
 >
-> ​
+> 
 > --
 > Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-> ​,​
+> ,
 >
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 >
 > Department of History and Classics
 > <http://historyandclassics.ualberta.ca/>
-> ​,​
+> ,
 > University of Alberta, Canada
-> ​.​
+> .
 >
 > South Asia at the U of A:
 >
-> ​sas.ualberta.ca​
-> ​​
+> sas.ualberta.ca
+> 
 >
 >
 > On 28 July 2017 at 16:37, Madhav Deshpande via INDOLOGY <

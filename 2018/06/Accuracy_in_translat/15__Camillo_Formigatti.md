@@ -45,7 +45,7 @@ University of Alberta, Canada
 South Asia at the U of A:
 
 sas.ualberta.ca <http://sas.ualberta.ca/>
-​​
+
 
 
 On Sat, 9 Jun 2018 at 15:34, David and Nancy Reigle via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:

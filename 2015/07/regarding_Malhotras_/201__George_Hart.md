@@ -29,7 +29,7 @@ The syntactic parallels between Dravidian and Sanskrit are extensive and include
 >> 
 >> Dominik Wujastyk
 >> 
->> ​
+>> 
 >> 
 >> 
 >> _______________________________________________

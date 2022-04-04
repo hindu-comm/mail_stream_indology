@@ -9,23 +9,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-August/046389
 Can't find the Ahobala, but as for DLI, meanwhile there's this:
 https://archive.org/details/digitallibraryindia
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 8 August 2017 at 11:16, David Pierdominici via INDOLOGY <

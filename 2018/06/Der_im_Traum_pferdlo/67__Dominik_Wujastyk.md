@@ -22,7 +22,7 @@ indology at list.indology.info> wrote:
 > sentences later in the paragraph...)
 >
 
-​Yes, @Jonathan, I did indeed think that almost all Kielhorn's
+Yes, @Jonathan, I did indeed think that almost all Kielhorn's
 parenthetical additions could be removed without much problem.  But also,
 there's just something totally weird about it.  How would a contemporary
 reader feel if a German translation of Shakespeare, or an English

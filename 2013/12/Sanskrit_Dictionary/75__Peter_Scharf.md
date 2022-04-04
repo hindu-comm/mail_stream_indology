@@ -33,15 +33,15 @@ Gabriel Vincent.
 
 -- 
 ******************
-​***​
+***
 Peter M. Scharf
 scharf@
-​
+
 <peter.scharf at univ-paris-diderot.fr>s
-​anskritlibrary.org​
+anskritlibrary.org
 
 ******************
-​***​
+***
 
 
 -------------- next part --------------

@@ -90,7 +90,7 @@ indology at list.indology.info>:
 >
 >
 > Regards, Walter
-> ​
+> 
 >
 > _______________________________________________
 > INDOLOGY mailing list

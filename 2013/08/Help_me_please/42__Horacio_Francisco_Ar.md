@@ -12,7 +12,7 @@ Dear Indologits.
 
 I have two questions:
 1. - Are there cases in Indian history, that the word prabhu had been used for holy women?
-2. - What would be the optimal word in female gender of prabhu in Sanskrit and the other vernacular languages ​​derived from this?
+2. - What would be the optimal word in female gender of prabhu in Sanskrit and the other vernacular languages derived from this?
 
 I will be so thanks for your help.
 With my best wishes.
@@ -29,7 +29,7 @@ Dear Indologits.
 
 I have two questions:
 1. - Are there cases in Indian history, that the word prabhu had been used for holy women?
-2. - What would be the optimal word in female gender of prabhu in Sanskrit and the other vernacular languages ​​derived from this?
+2. - What would be the optimal word in female gender of prabhu in Sanskrit and the other vernacular languages derived from this?
 
 I will be so thanks for your help.
 With my best wishes.

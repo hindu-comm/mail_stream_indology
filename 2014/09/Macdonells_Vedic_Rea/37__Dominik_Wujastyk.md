@@ -8,8 +8,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-September/039
 
 Very handy.  Thanks!  I've added a link <http://indology.info/links/gen/>
 to the indology website.
-​
-​DW​
+
+DW
 
 
 -------------- next part --------------

@@ -74,9 +74,9 @@ Vindobonae, die XXI. mensis Novembris MCMLXXXIII.
 > [1] <#148c11a0064ce06a__ftnref1> sarvataḥśrutim (em.)]* sarvataḥ śrutim *
 > Ed.
 >
->  ​ Regards,
+>   Regards,
 >  WS
-> ​
+> 
 >
 >  -----------------------------
 > Prof. Dr. Walter Slaje

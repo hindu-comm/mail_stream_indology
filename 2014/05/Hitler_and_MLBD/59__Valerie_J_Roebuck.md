@@ -24,7 +24,7 @@ On 19 May 2014, at 10:37, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > I see from the April 2014 issue of the MLBD Newsletter that MLBD is bringing out an edition of Mein Kampf by Adolph Hitlar (sic).  It nestles incongruously between Alonso on the Mahabharata and the Black on the Upanisads.
 > 
 > <IMG_20140515_193801.jpg>
-> ​
+> 
 > 
 > This was a shock!  My immediate reaction was that I wish furiously to sever all links with MLBD.  I have already written to Penguin Delhi, asking to withdraw my book from them because of their scandalous pulping of Doniger's book.  Now MLDB is publishing "Hitlar."  Has Indian publishing gone completely mad?
 > 

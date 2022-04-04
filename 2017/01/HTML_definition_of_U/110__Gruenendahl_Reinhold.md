@@ -38,23 +38,23 @@ The canonical list of names from the Unicode website is here: http://unicode.org
 Best,
 Dominik
 
-​
+
 --
 Professor Dominik Wujastyk<http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics<http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​<http://sas.ualberta.ca/>
-​​
+sas.ualberta.ca<http://sas.ualberta.ca/>
+
 
 
 On 16 January 2017 at 08:22, Gruenendahl, Reinhold via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:

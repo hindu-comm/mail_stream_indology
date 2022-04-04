@@ -20,9 +20,9 @@ want to stop this important function.  But we don't want to stray too
 obviously into illegal territory.
 
 
-​Many thanks,
+Many thanks,
 Dominik
-INDOLOGY committee​
+INDOLOGY committee
 
 
 

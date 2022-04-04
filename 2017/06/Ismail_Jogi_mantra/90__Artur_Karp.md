@@ -229,7 +229,7 @@ Polska
 >>>>
 >>>> Has anyone written a paper on them. A monograph - perhaps?>>
 >>>>
->>>> ​There was no answer.
+>>>> There was no answer.
 >>>>
 >>>>
 >>>> One such mantra runs as follows:
@@ -277,7 +277,7 @@ Polska
 >>>>
 >>>> Polska
 >>>>
->>>> ​
+>>>> 
 >>>>
 >>>>
 >>>> _______________________________________________

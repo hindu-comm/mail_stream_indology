@@ -6,10 +6,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-February/0407
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-February/040717.html)
 
-​If you can help this gentleman with his research into the French history
+If you can help this gentleman with his research into the French history
 of Pondicherry in the seventeenth century, please contact him directly.
-​
-​DW​
+
+DW
 
 
 ---------- Forwarded message ----------

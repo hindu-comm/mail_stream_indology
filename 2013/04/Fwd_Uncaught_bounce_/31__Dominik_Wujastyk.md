@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037679.
 [Archive link](https://list.indology.info/pipermail/indology/2013-April/037679.html)
 
 I
-​m not sure why, but this message bounced:​
+m not sure why, but this message bounced:
 
 
 ---------- Forwarded message ----------

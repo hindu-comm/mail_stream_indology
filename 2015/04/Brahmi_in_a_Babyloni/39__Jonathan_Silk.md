@@ -29,7 +29,7 @@ wrote:
 > On 3/30/2015 12:01 PM, Dominik Wujastyk wrote:
 >
 >> Those who don't have access to the Bobrinskoy 1936 article can check
->> online <http://tinyurl.com/q7t7ckh>. ​
+>> online <http://tinyurl.com/q7t7ckh>. 
 >>
 >>
 >>

@@ -38,22 +38,22 @@ ________________________________________
 > literature on Indian textual criticism.  I'm making my PhD students
 > read it too.  Thank you, Prof. Hanneder!
 > 
-> ​
+> 
 > --
 > Professor Dominik Wujastyk
-> <http://ualberta.academia.edu/DominikWujastyk> ​,​
+> <http://ualberta.academia.edu/DominikWujastyk> ,
 > 
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 > 
 > Department of History and Classics
-> <http://historyandclassics.ualberta.ca/> ​,​ University of
-> Alberta, Canada ​.​
+> <http://historyandclassics.ualberta.ca/> , University of
+> Alberta, Canada .
 > 
 > South Asia at the U of A:
 > 
-> ​sas.ualberta.ca​
-> ​​
+> sas.ualberta.ca
+> 
 > 
 > 
 > On 28 December 2017 at 12:53, Elizabeth De Michelis via INDOLOGY <

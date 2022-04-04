@@ -11,7 +11,7 @@ month<http://list.indology.info/pipermail/indology_list.indology.info/2013-March
 though 2000-2007 is a less conveniently presented.
 
 Dominik
-​​
+
 
 
 

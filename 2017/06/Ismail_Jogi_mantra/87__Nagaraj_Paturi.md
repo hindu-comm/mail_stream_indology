@@ -85,7 +85,7 @@ indology at list.indology.info> wrote:
 >
 > Has anyone written a paper on them. A monograph - perhaps?>>
 >
-> ​There was no answer.
+> There was no answer.
 >
 >
 > One such mantra runs as follows:
@@ -133,7 +133,7 @@ indology at list.indology.info> wrote:
 >
 > Polska
 >
-> ​
+> 
 >
 >
 > _______________________________________________

@@ -27,7 +27,7 @@ https://twitter.com/JLC1956
 
 On 10/10/2017 08:15, Dominik Wujastyk via INDOLOGY wrote:
 > Ms Kavya Murthy sends the following query. Please send answers her 
-> directly <mailto:​murthy.kavya at gmail.com> (and CC the list if you 
+> directly <mailto:murthy.kavya at gmail.com> (and CC the list if you 
 > wish). Ms Murthy is a professional writer and editor.
 > 
 > With thanks,
@@ -35,11 +35,11 @@ On 10/10/2017 08:15, Dominik Wujastyk via INDOLOGY wrote:
 > 
 > ---------- Forwarded message ----------
 > From: *Kavya Murthy* <
-> ​​
+> 
 > murthy.kavya at gmail.com <mailto:murthy.kavya at gmail.com>>
 > Date: 9 October 2017 at 19:41
 > 
-> ​[...]
+> [...]
 > 
 > If you would consider a request to members, I wanted to ask the 
 > following question.
@@ -55,10 +55,10 @@ On 10/10/2017 08:15, Dominik Wujastyk via INDOLOGY wrote:
 > already pointed me towards Pampa mahakavi.
 > 
 > Thanks ever so much.
-> ​[...]
-> ​-----------------------------------------
+> [...]
+> -----------------------------------------
 > 
-> ​
+> 
 > 
 > 
 > 

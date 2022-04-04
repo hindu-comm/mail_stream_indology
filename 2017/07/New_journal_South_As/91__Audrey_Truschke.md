@@ -35,7 +35,7 @@ indology at list.indology.info> wrote:
 >> 3.  No processing fee.
 >>
 >
-> ​One would never expect to pay a processing fee except if the article​ is
+> One would never expect to pay a processing fee except if the article is
 > being published OA.  And in that case, yes, Brill charges about €2000 per
 > article for CC-BY.  See the pricing charts here
 > <http://www.brill.com/about/open-access/brill-open-authors>.
@@ -51,7 +51,7 @@ indology at list.indology.info> wrote:
 >> easily granted:  http://www.brill.com/about/policies/rights-permissions
 >>
 >
-> ​I balk at asking permission to photocopy my own articles.  It's just not
+> I balk at asking permission to photocopy my own articles.  It's just not
 > right.  A more equitable situation is for the author to retain copyright
 > and issue to the publisher a license for them to do specifically what they
 > wish.  See some sample licenses and information here
@@ -75,20 +75,20 @@ indology at list.indology.info> wrote:
 > Dominik
 >
 > --
-> ​| ​
+> | 
 > Professor Dominik Wujastyk
-> ​ |​
-> ​ ​
+>  |
+>  
 > Singhmar Chair in Classical Indian Society and Polit
-> ​y | ​
+> y | 
 > Department of History and Classics
-> <http://historyandclassics.ualberta.ca/>, ​University of Alberta, Canada
-> ​ |​
-> ​
-> ​
+> <http://historyandclassics.ualberta.ca/>, University of Alberta, Canada
+>  |
+> 
+> 
 > ualberta.Academia.edu/DominikWujastyk
-> ​
-> | ​
+> 
+> | 
 >
 >
 > --

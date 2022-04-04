@@ -20,13 +20,13 @@ On 6 May 2016 at 23:05, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > The Banting Postdoctoral Fellowship
 > <http://banting.fellowships-bourses.gc.ca/en/home-accueil.html> is a
 > prestigious two-year
-> ​research grant ​
+> research grant 
 > program offered at Canadian universities
-> ​,​
+> ,
 > aimed at the highest-calibre
-> ​recent PhDs
+> recent PhDs
 > from Canada and abroad
-> ​.​
+> .
 >
 > The University of Alberta has just advertised it's Banting Postdoctoral
 > Fellowship application procedure for September 2017 submissions.  The
@@ -39,7 +39,7 @@ On 6 May 2016 at 23:05, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >    - http://www.postdoc.ualberta.ca/FundingandFellowships/Banting.aspx
 >
 > There are numerous eligibility criteria, including the requirement
-> ​that a
+> that a
 > pplicants to the 2017 program must fulfill or have fulfilled all degree
 > requirements for a PhD between September 21, 2013 and September 30, 2017.
 >

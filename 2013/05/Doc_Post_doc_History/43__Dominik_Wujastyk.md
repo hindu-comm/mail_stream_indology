@@ -32,7 +32,7 @@ On 8 May 2013 09:15, Agathe Keller <kellera at univ-paris-diderot.fr> wrote:
 > Best
 > Agathe Keller, with the SAW group
 >
-​[...]​
+[...]
 
 
 -------------- next part --------------

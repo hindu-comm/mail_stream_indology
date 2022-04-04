@@ -18,13 +18,13 @@ I find this new method of crowd-sourcing funding for academic work exciting
 and interesting. I think it has a real place as a supplement to more
 familiar methods of fund-raising through applications to centralized
 finance sources controlled by the bureaucracies that we all love to hate.
-​  ​
+  
 I might try it myself some time
-​ (but Kickstarter is only available in the USA and UK at present).​
+ (but Kickstarter is only available in the USA and UK at present).
 
 
 I have donated to
-​Michael's project and I wish him great success.
+Michael's project and I wish him great success.
 
 Best,
 Dominik

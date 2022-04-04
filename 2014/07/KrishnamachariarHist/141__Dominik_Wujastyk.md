@@ -9,8 +9,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039601.h
 Ken Zysk has just sent me the answer ("TC= Triennial Cat. Of Skt. Mss in
 Oriental Library, Madras (I-VII).").
 
-Many thanks!​
-​  That took 11 minutes.  Wow!​
+Many thanks!
+  That took 11 minutes.  Wow!
 
 Dominik
 

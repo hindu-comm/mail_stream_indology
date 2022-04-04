@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-July/038230.h
 [Archive link](https://list.indology.info/pipermail/indology/2013-July/038230.html)
 
 Thanks!
-​Dominik​
+Dominik
 
 
 On 30 July 2013 14:05, Tyler Williams <tylerwwilliams at gmail.com> wrote:

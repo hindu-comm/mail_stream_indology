@@ -15,24 +15,24 @@ On Tue, Jan 3, 2017 at 2:08 PM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > The Meulenbeld pages I sent are not visible to everyone.  Here they are as
 > attachments.
 >
-> ​
+> 
 > --
 > Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-> ​,​
+> ,
 >
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 >
 > Department of History and Classics
 > <http://historyandclassics.ualberta.ca/>
-> ​,​
+> ,
 > University of Alberta, Canada
-> ​.​
+> .
 >
 > South Asia at the U of A:
 >
-> ​sas.ualberta.ca​
-> ​​
+> sas.ualberta.ca
+> 
 >
 >
 > On 3 January 2017 at 08:44, Dominik Wujastyk <wujastyk at gmail.com> wrote:
@@ -42,26 +42,26 @@ On Tue, Jan 3, 2017 at 2:08 PM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >> and the footnotes from IIB:
 >>
 >>
->> ​
+>> 
 >>
->> ​
+>> 
 >> --
 >> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
->> ​,​
+>> ,
 >>
 >> Singhmar Chair in Classical Indian Society and Polity
->> ​,​
+>> ,
 >>
 >> Department of History and Classics
 >> <http://historyandclassics.ualberta.ca/>
->> ​,​
+>> ,
 >> University of Alberta, Canada
->> ​.​
+>> .
 >>
 >> South Asia at the U of A:
 >>
->> ​sas.ualberta.ca​
->> ​​
+>> sas.ualberta.ca
+>> 
 >>
 >>
 >> On 2 January 2017 at 20:54, Niranjan Saha <shrinsaha at gmail.com> wrote:

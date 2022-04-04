@@ -30,7 +30,7 @@ Dean Anderson
 
 On Sun, Apr 24, 2016 at 8:35 PM, Artur Karp <karp at uw.edu.pl> wrote:
 
-In "Śahr Safidon ki kahani" (published by Richard Temple,The Legends of the Panjab, Vol. I (No XVI,​Princess Niwal Daî, As su​ng ​by t​wos​ca​ve​ngers ​f​romBi​biyâl ​Village ​near A​mbâlâ),​Bombay 1884 [Reprints: 1962, 1977] -
+In "Śahr Safidon ki kahani" (published by Richard Temple,The Legends of the Panjab, Vol. I (No XVI,Princess Niwal Daî, As sung by twoscavengers fromBibiyâl Village near Ambâlâ),Bombay 1884 [Reprints: 1962, 1977] -
 his disciples eat flesh of their Guru, Dhanthar Baid - in order to gain his powers Is this motif found somewhere else in Indian narratives?
 Thanks in advance,
 Artur Karp

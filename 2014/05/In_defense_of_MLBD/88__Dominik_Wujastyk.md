@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039403.ht
 [Archive link](https://list.indology.info/pipermail/indology/2014-May/039403.html)
 
 On 20 May 2014 18:18, Dipak Bhattacharya <dipak.d2004 at gmail.com> wrote:
-​...​
+...
 
 
 > My question is why should we not first recommend writing off Oldenberg's *Die
@@ -16,7 +16,7 @@ On 20 May 2014 18:18, Dipak Bhattacharya <dipak.d2004 at gmail.com> wrote:
 > the Universities?
 >
 
-​Why not, indeed?  I think it would be very good if Indian universities
+Why not, indeed?  I think it would be very good if Indian universities
 used more up-to-date text books!  I am always saddened when I read the
 anti-aryan-invasion people arguing against Max Müller.  It's like Don
 Quixote tilting at windmills.   Almost nobody outside India has read

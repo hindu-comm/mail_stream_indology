@@ -21,7 +21,7 @@ Sent from RediffmailNG on Android
 From: Ajit Gargeshwari via INDOLOGY <indology at list.indology.info>
 Sent: Tue, 27 Feb 2018 09:42:24 GMT+0530
 To: indology at list.indology.info
-Subject: [INDOLOGY] ​ IshaBashyaUpanishad
+Subject: [INDOLOGY]  IshaBashyaUpanishad
 
 
 Please buy the book from this online store
@@ -40,7 +40,7 @@ To:indology <indology at list.indology.info>
 Cc:
 Bcc:
 Date:26 Feb 2018 09:08:55 -0000
-Subject:[INDOLOGY] ​​IshaBashyaUpanishad
+Subject:[INDOLOGY] IshaBashyaUpanishad
 To All,I
  am grateful to Prof. Van Bijlert for helping me with the publisher's 
 name for the book IshaBashyaUpanishad'. I accessed the publisher 

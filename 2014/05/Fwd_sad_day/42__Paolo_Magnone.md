@@ -57,26 +57,26 @@ Theological Faculty of Northern Italy - Milan
 
 
 On 23/05/2014 20:21, Dominik Wujastyk wrote:
-​Dear Paolo,​
+Dear Paolo,
 
 
 Your derogatory remark about North Americans was made publicly on this list.  When I read it, I hoped you were joking
-​, since you did have a smiley ​
+, since you did have a smiley 
 (
-​but ​
+but 
 email is a poor medium for ironic jokes).  If you seriously meant it as an ethnographical analysis of North Americans, but on second thoughts wish retract it, please do so here too.  If you wish to pursue a defence of the assertion, then I think it must be said to fall outside the scope of INDOLOGY.
 
 I think we can all agree that we deplore the use of financial metaphors for non-financial matters, what anthropologists like Marylin Strathern have called the "spread of the audit culture."  But my experience of European institutions shows me that this practice is just as pervasive in Europe as anywhere else. In Britain, the decisive turn to viewing every human act as a form of business transaction was achieved by the Thatcher government, and has been in force ever since.
-​  Maybe it's not so in Italy.  :-)​
+  Maybe it's not so in Italy.  :-)
 
 
-​Best,
+Best,
 Dominik
-​
 
-​Magnone:
 
-it is true that North Americans have a flair for boiling everything down to money :-)          (I beg your forgiveness for my impertinence).​
+Magnone:
+
+it is true that North Americans have a flair for boiling everything down to money :-)          (I beg your forgiveness for my impertinence).
 
 
 

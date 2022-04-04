@@ -26,7 +26,7 @@ Sent from my iPhone
 > Department of History and Classics
 > University of Alberta, Canada
 > 
-> ​sas.ualberta.ca​
+> sas.ualberta.ca
 > 
 > 
 >> On 15 July 2016 at 12:58, Madhav Deshpande <mmdesh at umich.edu> wrote:

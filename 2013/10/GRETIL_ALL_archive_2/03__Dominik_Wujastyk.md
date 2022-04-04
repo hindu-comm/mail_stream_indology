@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-October/03844
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-October/038442.html)
 
-​Jedit is now at
+Jedit is now at
 
    - http://www.jedit.org/
 
@@ -20,11 +20,11 @@ On 10 October 2013 08:51, Christophe Vielle
 >
 > The following may not be the full answer, but colleagues tell me that
 > Jedit (from www.jedit.com) is very good at suporting Unicode.  My friend
-> ​​ <http://www.allc.org/about/people/memorials/gerhard-breys-memorial>
+>  <http://www.allc.org/about/people/memorials/gerhard-breys-memorial>
 > Gerhard Brey<http://www.allc.org/about/people/memorials/gerhard-breys-memorial>has used Jedit successfully to create XML files containing
 > Unicode text of both Roman and Arabic materials.  He tells me that Jedit
 > is better than Yudit as a Unicode editor.
-> ​...​
+> ...
 >
 >
 

@@ -13,7 +13,7 @@ archive.org
    - https://archive.org/details/epigraphia-indica
 
 
--- D​W​
+-- DW
 
 
 -------------- next part --------------

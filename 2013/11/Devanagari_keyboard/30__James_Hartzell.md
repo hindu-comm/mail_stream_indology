@@ -50,7 +50,7 @@ On Wed, Nov 13, 2013 at 2:59 PM, Patrick Olivelle <jpo at uts.cc.utexas.edu>wrot
 > http://www.ubcsanskrit.ca/keyboards.html, which also includes
 > instructions and images for the layout.
 >
-> ​Regards​
+> Regards
 >
 >
 > On Wed, Nov 13, 2013 at 3:57 PM, James Hartzell <james.hartzell at gmail.com>wrote:

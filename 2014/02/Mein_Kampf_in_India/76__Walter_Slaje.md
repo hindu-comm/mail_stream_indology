@@ -12,31 +12,31 @@ Hitler came out ahead of Gandhi."
 However, I wonder how much Delhi students actually know about Hitler.
 
 The NYT
-​​
+
 ha
-​d​
+d
 an interesting article on the present situation, though
-​​
-​​
-​​
+
+
+
 not touch
-​ing​
+ing
 explicitly on students:
 
-​​
+
 http://india.blogs.nytimes.com/2012/08/30/in-india-businesses-named-after-hitler-defend-their-decision/?_php=true&_type=blogs&_r=0
 
 One possible cause for the students' attitude stirring your astonishment
 might perhaps be sought in Gandhi's own
-​ ​
+ 
 and indeed disturbing appreciati
-​ve remarks​
+ve remarks
 of Hitler,
-​ judgments that may well continue to exercise an effect today​
-​. Note that the following statements were all made during WW II:
+ judgments that may well continue to exercise an effect today
+. Note that the following statements were all made during WW II:
 
-​
-​Letter to Rajkumari Amrit Kaur (Mai 1940): „I do not consider Hitler to be
+
+Letter to Rajkumari Amrit Kaur (Mai 1940): „I do not consider Hitler to be
 as bad as he is depicted.“ (Robert Payne, The Life and Death of Mahatma
 Gandhi. London 1969: 485).
 
@@ -53,10 +53,10 @@ Sarvodaya, January 1942 (= CWMG 81, no 736: 479).
 
 Gandhi's Christmas Letter to Hitler: „Dear Friend, That I address you as a
 friend is no formality. I own no foes.“ Letter to Adolf Hitler, December
-24, 1940 (= CWMG 79, no 520: 453).​
+24, 1940 (= CWMG 79, no 520: 453).
 
 
-​On Hitler and Mussolini, both "gentlemen":
+On Hitler and Mussolini, both "gentlemen":
 "I would like you to lay down the arms you have as being useless for saving
 you
 or humanity. You will invite Herr Hitler and Signor Mussolini to take what
@@ -70,24 +70,24 @@ homes, you will vacate them. If they do not give you free passage out, you
 will
 allow yourself, man, woman and child, to be slaughtered, but you will
 refuse to
-owe allegiance to them​
-​." Gandhi, To Every Briton. Harijan, 6-7-1940 (= CWMG 78, no 460: 387)​
-​.
+owe allegiance to them
+." Gandhi, To Every Briton. Harijan, 6-7-1940 (= CWMG 78, no 460: 387)
+.
 
->From such a background, and provided the students​
-​ referred to in the previous mails had only second-hand knowledge​
-​ of Hitler through first-hand knowledge of Gandhi's publicized statements,
+>From such a background, and provided the students
+ referred to in the previous mails had only second-hand knowledge
+ of Hitler through first-hand knowledge of Gandhi's publicized statements,
 or even through third-hand knowledge only of a widely held, internalized
-attitude of that sort, ​
-​the matter could *perhaps* become better explicable.​
+attitude of that sort, 
+the matter could *perhaps* become better explicable.
 
 
-​I just wanted to bring this to your notice, no intentions of opening
-another thread!​
+I just wanted to bring this to your notice, no intentions of opening
+another thread!
 
 
-​Regards,
-WS​
+Regards,
+WS
 
 
 -----------------------------

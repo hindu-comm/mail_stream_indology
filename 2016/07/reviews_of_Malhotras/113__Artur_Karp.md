@@ -24,15 +24,15 @@ Artur Karp
 >> He is simply a piece of contemporary Hindu history, however bizarre and
 >> disreputable one may find him. Scholars not inclined to contemporary Hindu
 >> affairs may well find little in Malhotra to interest them.
->> ​
+>> 
 >>
 >
-> ​I'd also be interested in thoughtful analyses of Malhotra as part of
+> I'd also be interested in thoughtful analyses of Malhotra as part of
 > contemporary Hindu history, as an object of study rather than a contributor
 > to current academic discourse.
 >
-> ​Best,
-> Dominik​
+> Best,
+> Dominik
 >
 >
 > _______________________________________________

@@ -18,11 +18,11 @@ See
 
    - http://www.brill.com/products/books/brill-mybook
 
-​for details.​
+for details.
 
 
 --
-​Dominik Wujastyk​
+Dominik Wujastyk
 
 
 -------------- next part --------------

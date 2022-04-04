@@ -7,12 +7,12 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037691.
 [Archive link](https://list.indology.info/pipermail/indology/2013-April/037691.html)
 
 I
-​ have come across the following reference to an unpublished lecture by
+ have come across the following reference to an unpublished lecture by
 David Pingree:
 
    - "Was any Scientific Work in India Regarded as a "Classic"?" Paper
    presented at the meeting of the Association for Asian Studies, Boston, 12
-   April 1987.​
+   April 1987.
 
 Do you have a copy, by chance?
 

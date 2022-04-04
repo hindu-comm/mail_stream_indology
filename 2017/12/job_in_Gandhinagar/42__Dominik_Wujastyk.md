@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-December/0470
 [Archive link](https://list.indology.info/pipermail/indology/2017-December/047044.html)
 
 F
-​YI
+YI
 
 
 
@@ -17,7 +17,7 @@ F
    Gandhinagar, Gujarat,    India
    Date Posted: Oct. 31, 2017
 
-   http://www.AcademicKeys.com/r?job=99440&o=1063044&t=HU171218m-6e​
+   http://www.AcademicKeys.com/r?job=99440&o=1063044&t=HU171218m-6e
 
 
 -------------- next part --------------

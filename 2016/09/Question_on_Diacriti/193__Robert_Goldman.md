@@ -35,7 +35,7 @@ Fax: 510-642-2409
 >> 
 >> Best,
 >> Dominik
->> ​
+>> 
 >> _______________________________________________
 >> INDOLOGY mailing list
 >> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>

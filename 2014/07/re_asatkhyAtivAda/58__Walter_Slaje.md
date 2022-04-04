@@ -17,9 +17,9 @@ Lambert Schmithausen: Maṇḍanamiśra's Vibhra­ma­vi­vekaḥ. Mit einer Stu
 zur Ent­wicklung der indischen Irrtumslehre. [ÖAW SB 247,1 = VKSKS 2.] Wien
 1965.
 
-​Regards,
+Regards,
 WS
-​
+
 
 -----------------------------
 Prof. Dr. Walter Slaje

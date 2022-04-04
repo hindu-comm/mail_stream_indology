@@ -120,28 +120,28 @@ On Thu, Mar 22, 2018 at 3:10 PM, Dan Lusthaus <prajnapti at gmail.com> wrote:
 >
 >
 >
-> ​  ​
+>   
 > Dear list members,
 >
 >     I am working for my dissertation on Kumāralāta's Kalpanāmaṇḍitikā
 > Dṛṣtāntapaṅkti, whose composition I believe can be reasonably placed in
 > Taxila in the 3rd Century AD. Story XV
-> ​in the collection contains an interesting reference, only extant in the
+> in the collection contains an interesting reference, only extant in the
 > Chinese translation, to what appears to be a burial and the placement of
 > "Charon's obol" in the mouth of the deceased. In the story, one king Nanda
 > has gathered all the wealth in the land and prostituted his own daughter; a
 > young prospective john, desperate to find money to pay for her services, is
 > told by his mother:
-> ​​
+> 
 >
 >     汝父死時，口中有一金錢，汝若發塜可得彼錢以用自通
 >     (Taishō IV.201.273a.2-3)
 >
 >
-> ​"​
+> "
 > When your father died, he had in his mouth a golden coin; if you dig his
 > grave you can retrieve that coin and use it to achieve [your purposes]
-> ​"​
+> "
 >
 >
 >     (Cfr. also Huber's French translation: « Quand ton père est mort, on
@@ -155,33 +155,33 @@ On Thu, Mar 22, 2018 at 3:10 PM, Dan Lusthaus <prajnapti at gmail.com> wrote:
 > during a funeral ceremony.
 >
 >     In my understanding,
-> ​the funerary usage of ​
+> the funerary usage of 
 > "Charon's obol" is limited to Greek and Roman antiquity (and of course
 > hellenized areas of the M
-> ​editerranean and the Middle East
-> ​
-> ​, which may include Gandhāra to an extent​
+> editerranean and the Middle East
+> 
+> , which may include Gandhāra to an extent
 > ). My question for the list members would be: is anyone aware of another
 > occurrence of "Charon's obol" in Indian sources? From the point of view of
 > archaeology,
-> ​are there ​
+> are there 
 > any graves
-> ​known with any degree of certainty to be ​
+> known with any degree of certainty to be 
 > from historical times in the Greater Gandhāra area? Any coins ever found
 > in graves? Buddhist sources do list burial as
-> ​one possible​
+> one possible
 > method of disposal of the dead, but otherwise it would seem to have been
 > rare.
 >
 >     Any feedback on this topic would be greatly appreciated!
 >
->     namaskaromi,​
+>     namaskaromi,
 >
 >     Diego Loukota
 >
-> ​
-> ​ ​
-> PhD Cand. - ​
+> 
+>  
+> PhD Cand. - 
 >     Department of Asian Languages and Cultures - UCLA - 290 Royce Hall
 >
 > _______________________________________________

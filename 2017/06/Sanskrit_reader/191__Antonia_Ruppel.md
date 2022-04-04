@@ -45,24 +45,24 @@ On 17 June 2017 at 17:17, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > NB: Brough's archive <http://www.ames.cam.ac.uk/library/archive/brough>,
 > including interesting unpublished materials.
 >
-> ​
+> 
 > --
 > Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-> ​,​
+> ,
 >
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 >
 > Department of History and Classics
 > <http://historyandclassics.ualberta.ca/>
-> ​,​
+> ,
 > University of Alberta, Canada
-> ​.​
+> .
 >
 > South Asia at the U of A:
 >
-> ​sas.ualberta.ca​
-> ​​
+> sas.ualberta.ca
+> 
 >
 >
 > On 16 June 2017 at 01:28, Antonio Ferreira-Jardim via INDOLOGY <

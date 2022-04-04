@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-January/03877
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-January/038775.html)
 
-​----- forwarded message -----
+----- forwarded message -----
 
 *From:* Classicists [CLASSICISTS at liverpool.ac.uk] on behalf of Seaford,
 Richard

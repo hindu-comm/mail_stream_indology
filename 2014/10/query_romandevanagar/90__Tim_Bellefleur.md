@@ -10,7 +10,7 @@ To add to the flurry of options here, I have found the Sanskrit Library's
 transliteration tool quite useful for this purpose:
 http://sanskritlibrary.org/tomcat/sl/TranscodeText
 
-​Cheers,
+Cheers,
 
 Tim
 

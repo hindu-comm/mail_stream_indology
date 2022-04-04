@@ -26,34 +26,34 @@ Mob.: 7059081863
 
 INVITATION CALL FOR RESEARCH PAPER FOR 2ND
  VOLUME OF
-​
+
 PEER-REVIEW DOUBLE BLIND REFERRED DEPARTMENTAL JOURNAL
-​
-​
+
+
 ‘Śodhanidhiḥ’
 
-*​​: Chief Editors :*
+*: Chief Editors :*
 
 Dr. Chandan Bhattacharyay
-​
+
 &
-​
+
 Dr. Subhrajit Sen
 
 Contact: 7059081863 (S.Sen) & 9433474480 (C. Bhattacharyay)
 
 
-*​​:Important Dates:*
+*:Important Dates:*
 
  Last Date of Paper Submission : 30th , November,2016
  Month of Publication : March, 2017
 
 
-*​​FROM*
+*FROM*
 
 DEPARTMENT OF SANSKRIT, UNIVERSITY OF GOUR BANGA, MALDA
 
-*​​INSTRUCTION TO AUTHORS*
+*INSTRUCTION TO AUTHORS*
 
 1. The Peer-Reviewed Research Journal Śodhanidhiḥ accepts original research
 papers not published elsewhere, containing new facts on any disciplines of

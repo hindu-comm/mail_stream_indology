@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-December/0403
 
 On 8 December 2014 at 10:01, C.A. Formigatti <caf57 at cam.ac.uk> wrote:
 
-​[citing D Bhattacharya]​
+[citing D Bhattacharya]
 
 >
 >  Two more points. The pedagogic need and oral transmission both
@@ -37,10 +37,10 @@ On 8 December 2014 at 10:01, C.A. Formigatti <caf57 at cam.ac.uk> wrote:
 > Vedic corpus and grammatical suutras)?
 >
 
-​This point of Prof. Bhattacharya struck me immediately too.  Palm leaf is
+This point of Prof. Bhattacharya struck me immediately too.  Palm leaf is
 more durable than paper, at least when treated (oiled) in the traditional
 manner and stored reasonably well.  The worst writing material is
-machine-made bleached paper​, that started to be used for some Indian MSS
+machine-made bleached paper, that started to be used for some Indian MSS
 in the early 19th century.  That deteriorates very quickly, and the
 examples in libraries today are normally brown and crisp round the edges
 and extremely brittle.  By contrast, some palm-leaf manuscripts 1000 years

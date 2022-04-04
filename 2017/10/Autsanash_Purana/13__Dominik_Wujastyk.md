@@ -13,23 +13,23 @@ purāṇa, which is sometimes conflated with the *Vindhyamāhātmya*, that Singh
 also cites.  That's probably the basis of the information that Singh is
 garbling.
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 27 September 2017 at 12:39, patrick mccartney via INDOLOGY <

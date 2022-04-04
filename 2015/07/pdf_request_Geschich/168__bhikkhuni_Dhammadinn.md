@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041568.h
 Dear Colleagues,
 greetings.
 Does anyone happen to have a scan of Erich Frauwallner's
-​​
+
 Geschichte der indischen Philosophie (both volumes)?
 It has proven quite difficult to get hold of it here in Taiwan.
 With many thanks and all best wishes,
@@ -23,7 +23,7 @@ Library and Information Center
 Department of Buddhist Studies
 Dharma Drum Institute of Liberal Arts
 Jinshan, Taiwan
-website <http://agamaresearch.ddbc.edu.tw/?page_id=48>​
+website <http://agamaresearch.ddbc.edu.tw/?page_id=48>
 
 
 -------------- next part --------------

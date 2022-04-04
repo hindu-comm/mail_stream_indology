@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-October/04008
 [Archive link](https://list.indology.info/pipermail/indology/2014-October/040080.html)
 
 Mayrhofer EWA 1992, v.1 pp. 804 and 460.
-​
+
 
 
 -------------- next part --------------

@@ -72,8 +72,8 @@ On 9 July 2014 12:27, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >> others on this list will be more familiar with the literature in this area.
 >>
 >
-> ​I imagine David was thinking of P. C. Ray's *History of Hindu
-> Chemistry​ * (link
+> I imagine David was thinking of P. C. Ray's *History of Hindu
+> Chemistry * (link
 > <https://www.dropbox.com/sh/3iamb3e84kp2o2k/AADzPHJXs8rxHNgRsINzLVH9a>)
 >
 > Best,

@@ -11,28 +11,28 @@ On 12 December 2016 at 06:37, Laura Harrington <lharring at bu.edu> wrote:
 > r
 
 
-​The Calico Museum in Ahmedabad <https://calicomuseum.org/>is a major
+The Calico Museum in Ahmedabad <https://calicomuseum.org/>is a major
 resource for the history of South Asian textiles, and their staff might
 well be able to help with your query.
 
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 -------------- next part --------------

@@ -50,9 +50,9 @@ On Sun, Jul 19, 2015 at 10:33 AM, Dominik Wujastyk <wujastyk at gmail.com>
 wrote:
 
 > Two wrongs don't make a right.  (If that's what you meant.)
-> ​
-> ​
-> Dominik Wujastyk​
+> 
+> 
+> Dominik Wujastyk
 >
 > _______________________________________________
 > INDOLOGY mailing list

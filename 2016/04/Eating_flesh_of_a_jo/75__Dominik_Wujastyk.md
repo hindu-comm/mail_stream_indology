@@ -9,17 +9,17 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043143.
 On 25 April 2016 at 13:46, George Hart <glhart at berkeley.edu> wrote:
 
 
-> ​[...] ​
+> [...] 
 > Rather, the purpose is to inoculate the killer against the spirit of the
 > dead person
-> ​[...]
+> [...]
 >
 
-​Any hint of inoculation of course raises the interest of a medical
-historian :-)  But I am sure you were not speaking technically. ​
+Any hint of inoculation of course raises the interest of a medical
+historian :-)  But I am sure you were not speaking technically. 
 
 
-​This is a fork in the conversation, but there are passages in the ayuvedic
+This is a fork in the conversation, but there are passages in the ayuvedic
 literature where the authors worry about the issue of poisonous
 caterpillars, and how it is that the caterpillars don't poison themselves
 or their offspring.  It's a good question, I think.

@@ -8,14 +8,14 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-December/0387
 
 Dear readers:
 
-​*​*
+**
 * History of Science in South Asia* has just published a new article
 
-"​Beginnings of Indian and Chinese calendrical astronomy" (​pp.21-78) ​
-by ​Asko Parpola
-​
+"Beginnings of Indian and Chinese calendrical astronomy" (pp.21-78) 
+by Asko Parpola
+
 in its
-​ current issue at http://hssa.sayahna.org/ojs/index.php/hssa.
+ current issue at http://hssa.sayahna.org/ojs/index.php/hssa.
 We invite youto review the table of contents here and then visit our web
 site to review
 articles and items of interest.

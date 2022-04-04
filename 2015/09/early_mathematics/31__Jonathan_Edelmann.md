@@ -36,7 +36,7 @@ Department of Religion
 > Plofker, K. Mathematics in India Princeton University Press, 2009.
 > 
 > Dominik
-> ​
+> 
 > _______________________________________________
 > INDOLOGY mailing list
 > INDOLOGY at list.indology.info

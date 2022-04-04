@@ -106,8 +106,8 @@ On 13 November 2014 16:21, Herman Tull <hermantull at gmail.com> wrote:
 >> used as a critical edition, since he denies the reader the opportunity to
 >> think critically about his editorial choices and their alternatives.
 >>
->> ​Best,
->> Dominik​
+>> Best,
+>> Dominik
 >>
 >> --
 >> The secondary literature

@@ -10,8 +10,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041183.h
 From: Christian Bernert <shaduramata at yahoo.com>
 Date: Tue, 2 Jun 2015 05:13:14 +0000 (UTC)
 Subject:
-​​
-​​
+
+
 Launch of Bodhisvara website: Resounding Sanskrit Buddhist Literature
 Dear friends,
 

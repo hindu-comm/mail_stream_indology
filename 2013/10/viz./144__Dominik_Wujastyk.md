@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-October/03853
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-October/038533.html)
 
-​May I mention, as a native British-English speaker, that nobody has said
+May I mention, as a native British-English speaker, that nobody has said
 "viz." since about 1900.  Except Indologists.  I think it's okay now, we
 can stop.  :-)
 

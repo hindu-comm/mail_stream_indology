@@ -13,13 +13,13 @@ Le 17 juin 2015 à 14:25, Dominik Wujastyk <wujastyk at gmail.com> a écrit :
 > On 17 June 2015 at 07:45, Arlo Griffiths <arlogriffiths at hotmail.com> wrote:
 > Dear Prof. Paturi,
 > 
-> ​... I believe that for most native English speakers it sounds strange to see an academic title combined with a first name rather than the surname,
+> ... I believe that for most native English speakers it sounds strange to see an academic title combined with a first name rather than the surname,
 > 
-> ​As a native speaker of British English, I would agree with that.  Nobody actually does it, as far as I know.  If I heard it, in a UK context, I would assume it was an error, and reply, 
+> As a native speaker of British English, I would agree with that.  Nobody actually does it, as far as I know.  If I heard it, in a UK context, I would assume it was an error, and reply, 
 > "No, 'Dominik' is my first name.  My family name is 'Wujastyk'."
 > 
 > Best,
-> ​Dr Dominik​ :-)
+> Dr Dominik :-)
 > _______________________________________________
 > INDOLOGY mailing list
 > INDOLOGY at list.indology.info

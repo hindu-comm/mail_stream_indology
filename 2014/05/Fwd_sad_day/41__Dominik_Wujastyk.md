@@ -6,14 +6,14 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039450.ht
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-May/039450.html)
 
-​Dear Paolo,​
+Dear Paolo,
 
 
 Your derogatory remark about North Americans was made publicly on this
 list.  When I read it, I hoped you were joking
-​, since you did have a smiley ​
+, since you did have a smiley 
 (
-​but ​
+but 
 email is a poor medium for ironic jokes).  If you seriously meant it as an
 ethnographical analysis of North Americans, but on second thoughts wish
 retract it, please do so here too.  If you wish to pursue a defence of the
@@ -27,17 +27,17 @@ institutions shows me that this practice is just as pervasive in Europe as
 anywhere else. In Britain, the decisive turn to viewing every human act as
 a form of business transaction was achieved by the Thatcher government, and
 has been in force ever since.
-​  Maybe it's not so in Italy.  :-)​
+  Maybe it's not so in Italy.  :-)
 
 
-​Best,
+Best,
 Dominik
-​
 
-​Magnone:
+
+Magnone:
 
 it is true that North Americans have a flair for boiling everything down to
-> money :-)          (I beg your forgiveness for my impertinence).​
+> money :-)          (I beg your forgiveness for my impertinence).
 
 
 -------------- next part --------------

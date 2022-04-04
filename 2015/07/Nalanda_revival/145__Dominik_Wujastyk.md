@@ -18,7 +18,7 @@ andrea.pinkney at mcgill.ca> wrote:
 >
 >
 
->  ​Also available here
+>  Also available here
 <https://www.academia.edu/1859378/Looking_West_to_India_Asian_education_intra-Asian_renaissance_and_the_Nalanda_revival>
 .
 

@@ -42,7 +42,7 @@ Begin forwarded message:
 > Contributions are welcome!
 > 
 > --
-> Dr Dominik Wujastyk​,
+> Dr Dominik Wujastyk,
 > and the editorial board:
 > Kim Plofker, 
 > Dhruv Raina,

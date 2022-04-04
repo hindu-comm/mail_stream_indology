@@ -73,10 +73,10 @@ gruenen at sub.uni-goettingen.de> wrote:
 >>> methods in general flawed, or only when practiced by Germans?
 >>>
 >>>
->>  ​Only when practised by Germans, as any Italian would certainly answer
+>>  Only when practised by Germans, as any Italian would certainly answer
 >> :-)
 >>
->>  ​
+>>  
 >> (This refers to a running joke between some of us British, German and
 >> Italian philologists here at the Vienna department.)
 >>

@@ -97,16 +97,16 @@ On 30/01/2014 11:22, elisa freschi wrote:
 >>
 >> There are fights in Wikipedia, of course, over contentious issues.
 >>  But the system and the m
->>  ​​
->> anagers address this issue of conflict, and surprisingly often, ​ 
+>>  
+>> anagers address this issue of conflict, and surprisingly often,  
 >> things calm down after a while.
 >> I
->>  ​would​
->>  imagine there's quite a struggle going on right now at ​fr.​ 
+>>  would
+>>  imagine there's quite a struggle going on right now at fr. 
 >> Wikipedia.
->>  ​org​
+>>  org
 >>  about Devadatta (Dieudonné).
->> ​ [I checked, and yes there is.]​
+>>  [I checked, and yes there is.]
 >>
 >>
 >> An indological case in point is the Wikipedia account of the 

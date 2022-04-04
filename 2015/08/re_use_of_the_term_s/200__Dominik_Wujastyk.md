@@ -11,7 +11,7 @@ quantify their work, so as to charge for it.  A grantha is 32 syllables.
 
 Best,
 Dominik Wujastyk
-​
+
 
 
 -------------- next part --------------

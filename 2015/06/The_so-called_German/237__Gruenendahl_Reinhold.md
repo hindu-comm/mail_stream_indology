@@ -38,8 +38,8 @@ as it happens, Michael Hahn has left a published statement on the background of 
 <image.png>
 <image.png>
 
-​Kindly regarding,
-Walter Slaje​
+Kindly regarding,
+Walter Slaje
 
 -----------------------------
 Prof. Dr. Walter Slaje

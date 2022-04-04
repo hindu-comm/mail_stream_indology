@@ -6,15 +6,15 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-November/0445
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-November/044504.html)
 
-​​
+
 Yes, but obviously a tendency of forgetfulness seems to prevail on this
 list, which on occasion necessitates brief reminders, as Dr Dimitrov's and
 mine were intended to be. Zgusta's paper of 1988 rightly deserves to be
 called "of long ago". For it certainly
-​does ​
+does 
 not reflect the current state of research in the history of PW lexicography
 in the context of its scholarly environment
-​, nor is it free from methodological shortcomings​
+, nor is it free from methodological shortcomings
 .
 In the meantime, entirely new documents have been brought to light,
 presented and discussed by Agnes Stache-Weiske. The latest of her

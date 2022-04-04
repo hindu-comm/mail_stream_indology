@@ -23,7 +23,7 @@ Transgression and Encounters with the Terrible in Buddhist and Śaiva Tantras
 
 1st Zurich International Conference on Indian Literature and Philosophy
 (ZICILP),
-​​
+
 February 19–20, 2016Organizers
 
 Prof. Dr. Angelika Malinar, Dr. Olga Serbaeva

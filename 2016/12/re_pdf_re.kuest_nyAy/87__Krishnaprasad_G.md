@@ -6,13 +6,13 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-December/0449
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-December/044929.html)
 
-​
+
  Nyaya Manjari of Jayantabhatta with Nyaysaurabh...
 <https://drive.google.com/file/d/0B5co7XNB-nfZYWdvQ1BjX1lWbVU/view?usp=drive_web>
-​​
+
  Nyaya Manjari of Jayantabhatta with Nyaysaurabh...
 <https://drive.google.com/file/d/0B5co7XNB-nfZWXdySU9aaDVzZmc/view?usp=drive_web>
-​
+
 
 On Sat, Dec 31, 2016 at 11:55 AM, Elliot Stern <emstern at verizon.net> wrote:
 

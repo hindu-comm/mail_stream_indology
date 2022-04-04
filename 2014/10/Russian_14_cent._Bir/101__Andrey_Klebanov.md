@@ -19,9 +19,9 @@ On 20.10.2014, at 17:52, Dominik Wujastyk <wujastyk at GMAIL.COM> wrote:
 > 
 > And is the Russian version thicker than the Kashmiri, to support etching?
 > 
-> ​Best,
+> Best,
 > Dominik
-> ​
+> 
 > 
 > On 20 October 2014 14:56, Stefan Baums <baums at lmu.de> wrote:
 > Dear Dominik and Matthew,

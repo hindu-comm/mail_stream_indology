@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-April/039242.
 Dear colleagues,
 
 The INDOLOGY forum runs on software called Mailman.  It seems that a
-potential pro​blem has recently arisen that affects Yahoo mail users.  See
+potential problem has recently arisen that affects Yahoo mail users.  See
 the message below.
 
 We are not acting on this information immediately, but please be alert for

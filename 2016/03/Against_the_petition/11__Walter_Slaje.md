@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-March/042753.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-March/042753.html)
 
-​ ​
+ 
 Dear List,
 >
 >
@@ -71,9 +71,9 @@ studia humanitatis impigro labore culturum et provecturum
 non sordidi lucri causa nec ad vanam captandam gloriam,
 sed quo magis veritas propagetur et lux eius, qua salus
 humani generis continetur, clarius effulgeat.
-Vindobonae, die XXI. mensis Novembris MCMLXXXIII. ​
+Vindobonae, die XXI. mensis Novembris MCMLXXXIII. 
 
-> ​
+> 
 >
 
 

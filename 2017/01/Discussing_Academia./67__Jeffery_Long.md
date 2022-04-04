@@ -26,11 +26,11 @@ I've read Bond's piece carefully, and I find its arguments extremely weak. I don
 I remain very happy with Academia.edu, while recognizing that there are some issues that require vigilance and discussion. I have written to Richard Price the founder of Academia.edu and a former Fellow of All Souls, Oxford, more than once in the past, and he has always answered personally and discussed my concerns seriously. Similarly with other staff members. The areas where Academia.edu might need to watch its step are areas that apply to all other similar services. The benefits that Academia.edu offers its users are substantial, for a combination of hosting research, for subject-specific awareness alerts, for networking, and for analytics. I see no competitor out there that quite offers the same ecosystem with the same combination of benefits. 
 Best,Dominik Wujastyk
 
-​--
-ProfessorDominik Wujastyk​,​
-Singhmar Chair in Classical Indian Society and Polity​,​
-Department of History and Classics​,​University of Alberta, Canada​.​
-South Asia at the U of A:​sas.ualberta.ca​​​
+--
+ProfessorDominik Wujastyk,
+Singhmar Chair in Classical Indian Society and Polity,
+Department of History and Classics,University of Alberta, Canada.
+South Asia at the U of A:sas.ualberta.ca
 
 _______________________________________________
 INDOLOGY mailing list

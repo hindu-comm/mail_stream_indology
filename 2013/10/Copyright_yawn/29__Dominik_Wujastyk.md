@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-October/03847
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-October/038471.html)
 
-​From time to time, the issue of copyright comes up for all of us.  I just
+From time to time, the issue of copyright comes up for all of us.  I just
 discovered this useful guide,
 
    - Hirtle, Hudson and Kenyon, *Copyright and Cultural Institutions:

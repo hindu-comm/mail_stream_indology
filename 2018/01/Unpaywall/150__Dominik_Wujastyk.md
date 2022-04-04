@@ -10,9 +10,9 @@ Today I discovered Unpaywall <http://unpaywall.org/welcome>.  It gives
 fast, free, legal access to many research articles that are behind a
 paywall.  A clever and, again, legal idea that truly helps us with our
 research.  FAQ <http://unpaywall.org/faq>
-​
 
-​If you arrive at a journal website and can't read the article without
+
+If you arrive at a journal website and can't read the article without
 paying, Unpaywall will search for a copy of that same article that is on a
 legal university research repository or the author's home page,
 PubMedCentral, etc.  In about half the cases, a free copy of the article
@@ -20,20 +20,20 @@ can be found.
 
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 -------------- next part --------------

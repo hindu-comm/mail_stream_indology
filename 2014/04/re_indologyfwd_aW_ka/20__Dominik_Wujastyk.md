@@ -20,7 +20,7 @@ On 6 April 2014 16:57, Petra Kieffer-Pülz <kiepue at t-online.de> wrote:
 > W.Bollée
 >
 >
-​And the Italian tr. by Fabrizia Baldissera with Vincenzina Mazzarino and
+And the Italian tr. by Fabrizia Baldissera with Vincenzina Mazzarino and
 Maria Vivanti (Einaudi,
 1993<http://www.einaudi.it/libri/libro/somadeva/l-oceano-dei-fiumi-dei-racconti/978880613321>).
  I'm sure there are more.

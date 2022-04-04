@@ -153,9 +153,9 @@ On Sun, Sep 18, 2016 at 2:53 PM, Artur Karp <karp at uw.edu.pl> wrote:
 >>>> argues that academics need to step out of the ivory tower and resist the
 >>>> government’s manipulation of this ancient language.
 >>>>
->>>> ​Thanks and all best,
+>>>> Thanks and all best,
 >>>>
->>>> Ananya Vajpeyi. ​
+>>>> Ananya Vajpeyi. 
 >>>>
 >>>>
 >>>> --

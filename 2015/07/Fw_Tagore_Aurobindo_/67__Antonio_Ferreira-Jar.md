@@ -111,7 +111,7 @@ indology at list.indology.info> wrote:
 >
 >
 >
-> ​
+> 
 >
 > _______________________________________________
 > INDOLOGY mailing list

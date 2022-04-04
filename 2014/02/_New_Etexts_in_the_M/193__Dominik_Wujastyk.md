@@ -15,7 +15,7 @@ To: indology-owner at list.indology.info
 
 If the following message could be forwarded to the Indology list with the
 subject title: "
-​​
+
 New Etexts in the Muktabodha Digital Library",
 I'd greatly appreciate it.
 Harry Spier

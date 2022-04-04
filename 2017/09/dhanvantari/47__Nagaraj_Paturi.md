@@ -18,7 +18,7 @@ On Sep 23, 2017 8:04 AM, "Dominik Wujastyk" <wujastyk at gmail.com> wrote:
 when I said "symbolic" I didn't mean that "5000" is a necessarily a claim
 for great antiquity.  Often it is, but sometimes things are older than
 "5000".   I mean that "5000" is - strictly - not a number, but a feeling.
-​
+
 
 
 -------------- next part --------------

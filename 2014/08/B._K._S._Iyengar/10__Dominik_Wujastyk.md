@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-August/039857
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-August/039857.html)
 
-Mr Rajeev Jain​ of MLBD has just informed me of the sad news that the great
+Mr Rajeev Jain of MLBD has just informed me of the sad news that the great
 yoga teach B. K. S. Iyengar has passed away.
 
 DW

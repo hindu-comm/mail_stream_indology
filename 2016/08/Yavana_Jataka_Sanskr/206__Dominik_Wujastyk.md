@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-August/043954
 Many thanks to Tejas Aralere for compiling a brief bibliography of some
 recent studies on the *Yavanajātaka*.
 
-​​
+
 
 *Yavana Jātaka Bibliography*
 
@@ -47,7 +47,7 @@ Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
 
 <https://mail.google.com/mail/u/0/goog_1525257691>
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
 On 9 August 2016 at 05:20, Dominik Wujastyk <wujastyk at gmail.com> wrote:
@@ -68,7 +68,7 @@ On 9 August 2016 at 05:20, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > University of Alberta, Canada
 >
 > <https://mail.google.com/mail/u/0/goog_1525257691>
-> ​sas.ualberta.ca​
+> sas.ualberta.ca
 >
 >
 > On 8 August 2016 at 18:23, Tejas Aralere <tsaralere at gmail.com> wrote:

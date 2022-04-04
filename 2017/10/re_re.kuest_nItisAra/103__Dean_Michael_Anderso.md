@@ -17,11 +17,11 @@ Dean
  Subject: Re: [INDOLOGY] request: Nītisāra, Anandashrama Sanskrit Series, 1952
 
 It might not be. Copyright and being on sale or being published are different things. An author's copyright expires sixty years after the death of the author.  There are variations and details, but that's a good general rule of thumb.
-​--
-ProfessorDominik Wujastyk​,​
-Singhmar Chair in Classical Indian Society and Polity​,​
-Department of History and Classics​,​University of Alberta, Canada​.​
-South Asia at the U of A:​sas.ualberta.ca​​​
+--
+ProfessorDominik Wujastyk,
+Singhmar Chair in Classical Indian Society and Polity,
+Department of History and Classics,University of Alberta, Canada.
+South Asia at the U of A:sas.ualberta.ca
 
 On 4 October 2017 at 00:46, Jesse Knutson via INDOLOGY <indology at list.indology.info> wrote:
 

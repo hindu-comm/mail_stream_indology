@@ -36,7 +36,7 @@ On Dec 28, 2014, at 12:07 PM, Dominik Wujastyk wrote:
 > 
 > Best,
 > Dominik Wujastyk
-> ​
+> 
 > <ACriticalStudyOfTheWorkVaimanikaShastra.pdf>_______________________________________________
 > INDOLOGY mailing list
 > INDOLOGY at list.indology.info

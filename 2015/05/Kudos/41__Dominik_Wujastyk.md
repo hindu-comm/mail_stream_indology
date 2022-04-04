@@ -10,7 +10,7 @@ Richard Mahoney tells me that Mendeley has been acquired by Elsevier.  So,
 strike them from the "independent" list.
 
 Dominik
-​
+
 
 
 -------------- next part --------------

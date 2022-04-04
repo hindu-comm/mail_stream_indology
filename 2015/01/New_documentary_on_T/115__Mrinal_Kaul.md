@@ -44,7 +44,7 @@ Mrinal Kaul
 > Department for the Study of Religion
 > Centre for South Asian Studies
 > University of Toronto
-> ​
+> 
 > 
 > ----
 > 

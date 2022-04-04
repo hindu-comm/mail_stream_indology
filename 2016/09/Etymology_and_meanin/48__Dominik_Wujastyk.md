@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-September/044
 [Archive link](https://list.indology.info/pipermail/indology/2016-September/044070.html)
 
 It may seem a quibble, but isn't the
-*​Prākṛtaprakāśa*'s author making an assertion, not giving an explanation?
+*Prākṛtaprakāśa*'s author making an assertion, not giving an explanation?
 To me, at least, there's an important difference.
 
 --
@@ -17,13 +17,13 @@ Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
 
 <https://mail.google.com/mail/u/0/goog_1525257691>
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
 On 11 September 2016 at 10:48, Nityanand Misra <nmisra at gmail.com> wrote:
 
 > The
-> *​​Prākṛtaprakāśa* has the rule (8.25)
+> *Prākṛtaprakāśa* has the rule (8.25)
 >
 > ṣṭhā-dhyā-gānāṃ ṭhā·a-jhā·a-gā·āḥ
 > (ष्ठा-ध्या-गानां ठाअ-झाअ-गाआः)

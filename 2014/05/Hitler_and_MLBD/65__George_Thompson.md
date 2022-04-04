@@ -42,7 +42,7 @@ On Mon, May 19, 2014 at 11:47 AM, George Thompson <gthomgt at gmail.com> wrote:
 >>>> the Upanisads.
 >>>>
 >>>>
->>>> ​
+>>>> 
 >>>>
 >>>> This was a shock!  My immediate reaction was that I wish furiously to
 >>>> sever all links with MLBD.  I have already written to Penguin Delhi, asking

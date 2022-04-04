@@ -32,7 +32,7 @@ this volume.
 [image: Inline images 1]n of
 
 
-​​
+
 --
 Dr Dominik Wujastyk
 Department of South Asia, Tibetan and Buddhist Studies<http://stb.univie.ac.at>

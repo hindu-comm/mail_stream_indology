@@ -23,7 +23,7 @@ Ajit Gargeshwari
 > Bcc:
 > Date: Thu, 19 Jul 2018 17:04:00 +0200
 > Subject: [INDOLOGY]
-> ​​
+> 
 > NPP article search
 > I am looking for an article published 75 years ago in the *Nāgarīpracāriṇī
 > patrikā*:

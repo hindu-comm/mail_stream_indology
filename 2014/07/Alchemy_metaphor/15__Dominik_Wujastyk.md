@@ -32,7 +32,7 @@ On 7 July 2014 19:41, Christopher Wallis <bhairava11 at gmail.com> wrote:
 > *sankramana*) of spiritual energy from guru to disciple, but it has not
 > been entirely satisfactory. Do you have a reference to its use in
 > rasa-śāstra?
-> ​[...]​
+> [...]
 >
 
 

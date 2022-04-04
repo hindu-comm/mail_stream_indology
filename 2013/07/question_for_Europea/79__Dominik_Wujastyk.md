@@ -7,16 +7,16 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-July/038115.h
 [Archive link](https://list.indology.info/pipermail/indology/2013-July/038115.html)
 
 I
-​ know the Subject line of this email thread says "European," but ​
+ know the Subject line of this email thread says "European," but 
 I
-​'m sure I am not alone in being very curious ​
+'m sure I am not alone in being very curious 
 a
-​bout the student experience​
+bout the student experience
 s
-​ of our colleagues in India and elsewhere in S. Asia.
+ of our colleagues in India and elsewhere in S. Asia.
 
 Best,
-Dominik​
+Dominik
 
 
 -------------- next part --------------

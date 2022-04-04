@@ -26,12 +26,12 @@ On Jul 13, 2014, at 1:54 PM, Dipak Bhattacharya <dipak.d2004 at gmail.com> wrote
 > 
 > 
 > On Sun, Jul 13, 2014 at 12:43 PM, Walter Slaje <slaje at kabelmail.de> wrote:
-> ​Indological expertise is in demand,
+> Indological expertise is in demand,
 > 
 > FYI,
 > 
 > WS
-> ​
+> 
 > ---------- Forwarded message ----------
 > From: Steve Farmer saf at safarmer.com [Indo-Eurasian_research] <Indo-Eurasian_research at yahoogroups.com>
 > Date: 2014-07-13 8:11 GMT+02:00

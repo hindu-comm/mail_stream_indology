@@ -6,14 +6,14 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2013-September/038334.html)
 
-​There are some classic Snakes and Ladders ("Heaven and Hell") paintings in
-the collection of the ​
-​Wellcome Library in London.  See the links to the library's "Wellcome
+There are some classic Snakes and Ladders ("Heaven and Hell") paintings in
+the collection of the 
+Wellcome Library in London.  See the links to the library's "Wellcome
 Images" link below, but also write to a librarian and request:
 
    - Wellcome MS Indic Raghavan M.17
    and
-   - ​Wellcome MS Indic ​​beta 781​[image: Inline images 2]
+   - Wellcome MS Indic beta 781[image: Inline images 2]
 
 
 

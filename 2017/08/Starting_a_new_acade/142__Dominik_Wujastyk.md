@@ -14,23 +14,23 @@ https://cikitsa.blogspot.ca/2013/01/some-oa-journals-that-publish-s-asia.html
 The DOAJ.org is also keyword-searchable, so one can check from time to time
 whether new India-related titles have appeared.
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 23 August 2017 at 03:38, Herman Tull <hermantull at gmail.com> wrote:
@@ -107,24 +107,24 @@ On 23 August 2017 at 03:38, Herman Tull <hermantull at gmail.com> wrote:
 >> Dominik
 >>
 >>
->> ​
+>> 
 >> --
 >> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
->> ​,​
+>> ,
 >>
 >> Singhmar Chair in Classical Indian Society and Polity
->> ​,​
+>> ,
 >>
 >> Department of History and Classics
 >> <http://historyandclassics.ualberta.ca/>
->> ​,​
+>> ,
 >> University of Alberta, Canada
->> ​.​
+>> .
 >>
 >> South Asia at the U of A:
 >>
->> ​sas.ualberta.ca​
->> ​​
+>> sas.ualberta.ca
+>> 
 >>
 >>
 >> _______________________________________________

@@ -38,7 +38,7 @@ indology at list.indology.info> wrote:
 > Something like this:
 >
 >
-> ​
+> 
 > My survey is not at all exhaustive, and, as I said before, this practice
 > is not unheard of in Nepal. However, it starts in the Pāla realm a little
 > before 1000 CE and continues steadily up to the very end, whereas in Nepal

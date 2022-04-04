@@ -48,7 +48,7 @@ wrote:
 >> transliteration tool quite useful for this purpose:
 >> http://sanskritlibrary.org/tomcat/sl/TranscodeText
 >>
->> ​Cheers,
+>> Cheers,
 >>
 >> Tim
 >>

@@ -15,8 +15,8 @@ with any suitably populated Unicode font, but of course also with his own
 unicode fonts.  It's all here
 <http://bombay.indology.info/software/fonts/induni/index.html>.  Also for
 Mac.
-​
-​DW​
+
+DW
 
 
 -------------- next part --------------

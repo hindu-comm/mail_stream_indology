@@ -9,23 +9,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-November/0447
 I think the French Institute still has copies for sale
 <http://www.ifpindia.org/node/2723>.
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 16 November 2016 at 06:38, David Pierdominici <

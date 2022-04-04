@@ -48,7 +48,7 @@ Howard
 >> 
 >>> On Jul 27, 2015, at 3:18 PM, Dominik Wujastyk <wujastyk at gmail.com <mailto:wujastyk at gmail.com>> wrote:
 >>> 
->>> In this sense, it ​​*is* indeed very controversial to say that ​"​Indology has at times been part of this misunderstanding.​"​ 
+>>> In this sense, it *is* indeed very controversial to say that "Indology has at times been part of this misunderstanding." 
 >> 
 >> 
 >> _______________________________________________

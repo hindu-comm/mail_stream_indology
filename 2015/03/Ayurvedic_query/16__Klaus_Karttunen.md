@@ -61,7 +61,7 @@ Klaus.Karttunen at helsinki.fi
 > Best,
 > Dominik
 > 
-> ​
+> 
 > 
 > _______________________________________________
 > INDOLOGY mailing list

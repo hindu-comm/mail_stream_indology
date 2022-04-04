@@ -66,8 +66,8 @@ by making efforts. Thus spake Vasiṣṭha.
 Enjoy.
 
 
-​
-​Walter​
+
+Walter
 
 
 -------------- next part --------------

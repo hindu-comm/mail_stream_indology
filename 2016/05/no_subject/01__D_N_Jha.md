@@ -9,9 +9,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-May/043304.ht
 Dear List,
 Can any one help me with email ids of Dr Peter Skilling And Hampana
 Nagarajaiah,
-​I will be grateful​
+I will be grateful
 
-​DNJ​
+DNJ
 
 -- 
 D N Jha

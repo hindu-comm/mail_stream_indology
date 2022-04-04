@@ -11,8 +11,8 @@ And, in the abstract,
 It appears that his work cannot be dated earlier than 1904 and contains
 details which, on the basis of our present knowledge, force us to conclude
 the non feasibility of heavier‐than craft of earlier times.
-​
-DW​
+
+DW
 
 
 -------------- next part --------------

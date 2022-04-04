@@ -44,7 +44,7 @@ Patrick
 On Sep 5, 2016, at 8:33 PM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 I don't have any solid evidence for this, but I assume that transliteration was invented for Sanskrit because printing Devanagari was difficult. It isn't difficult any more. All modern computers can make a decent fist of Devanagari. So why are we routinely using transliteration at all, any more? People writing scholarship on Greek or Russian or Armenian don't use Latin script. Why should we?
 And if you know any other windmills, I'd be glad to tilt at them too. :-)
-Best,Dominik​_______________________________________________
+Best,Dominik_______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info
 indology-owner at list.indology.info (messages to the list's managing committee)

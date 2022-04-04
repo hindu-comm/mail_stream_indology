@@ -6,8 +6,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-January/04724
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2018-January/047246.html)
 
-Exciting news from Prof. S. R. Sarma, forwarded here at his request.​
-​​
+Exciting news from Prof. S. R. Sarma, forwarded here at his request.
+
 
 
 ---------- Forwarded message ----------

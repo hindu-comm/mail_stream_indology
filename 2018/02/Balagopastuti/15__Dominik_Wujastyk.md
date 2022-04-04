@@ -12,23 +12,23 @@ text, in good Skt., was edited by Frances Wilson in 1973.
 Wilson, F. (1973) The Bilvamangalastava Edited and Translated with an
 Introduction (Leiden)
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 1 February 2018 at 04:01, Harsha Dehejia via INDOLOGY <

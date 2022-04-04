@@ -14,8 +14,8 @@ and in Dasgupta's *History of Indian Philosophy*
 <https://archive.org/details/AHistoryOfIndianPhilosophyBySurendranathDasgupta-5Volumes>
 v.2 ch.13.  These are like general paribhāṣās that appear to be very old
 and were applied in several śāstras, including especially nyāya.
-​
-​DW​
+
+DW
 
 
 -------------- next part --------------

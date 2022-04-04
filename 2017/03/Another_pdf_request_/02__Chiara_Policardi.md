@@ -35,7 +35,7 @@ Chiara Policardi
 > INDOLOGY committee member
 >
 >
-> ​
+> 
 >
 
 

@@ -23,20 +23,20 @@ University of Brussels
 
 
 Le 25.02.2018 02:34, Dominik Wujastyk a écrit:
-> ​--
+> --
 > 
 > ProfessorDominik Wujastyk [2]
-> ​,​
+> ,
 > Singhmar Chair in Classical Indian Society and Polity
-> ​,​
+> ,
 > 
 > Department of History and Classics [3]
-> ​,​University of Alberta, Canada
-> ​.​
+> ,University of Alberta, Canada
+> .
 > 
 > South Asia at the U of A:
-> ​sas.ualberta.ca​ [4]
-> ​​
+> sas.ualberta.ca [4]
+> 
 > 
 > On 22 February 2018 at 15:55, jmdelire via INDOLOGY
 > <indology at list.indology.info> wrote:

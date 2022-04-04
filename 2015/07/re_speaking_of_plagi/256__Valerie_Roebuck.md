@@ -25,7 +25,7 @@ Manchester, UK
 > On 19 July 2015 at 20:12, George Hart <glhart at berkeley.edu <mailto:glhart at berkeley.edu>> wrote:
 > I remember years ago when I was studying Sanskrit Ingalls mentioned that Monier Williams had apparently copied from Boethlingk-Roth without attribution. He said that Boethlingk was able to adduce entries in Monier Williams that had the same mistakes originally made on the SP Lexicon. Plus ça change…. George Hart
 > 
-> ​The relationship of the MW and PW dictionaries was carefully evaluated in the 1988 article,
+> The relationship of the MW and PW dictionaries was carefully evaluated in the 1988 article,
 > 
 > Ladislav Zgusta, "Copying in Lexicography. Monier-Williams' Sanskrit Dictionary and Other Cases (Dvaikośyam)" Lexicographica, 1988, 4, 145-164.
 > http://www.degruyter.com/view/j/lexi.1988.4.issue-1/9783110244083.145/9783110244083.145.xml?format=INT <http://www.degruyter.com/view/j/lexi.1988.4.issue-1/9783110244083.145/9783110244083.145.xml?format=INT>

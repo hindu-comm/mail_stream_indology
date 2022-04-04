@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-March/042881.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-March/042881.html)
 
-​Not sure what Harry Spier is looking at.
+Not sure what Harry Spier is looking at.
 
 Government Oriental Library Series Mysore has published the following in
 1900-02:
@@ -32,7 +32,7 @@ prapathakas.
 Regarding Taittiriya Brahmana with Sayana's commentary, Anandashram has
 published it. There is areprint by Nag Publishers of Delhi.
 
-​Bhattabhaskara's commentary on Kanda 4 (which incidentally contain the
+Bhattabhaskara's commentary on Kanda 4 (which incidentally contain the
 Rudram and Chamakam) is not available.  Volumes 6 & 7 were never
 published.  The published volumes contain all the other Kandas.  A much
 better place to download them from is: http://archive.org/details/taittiriya
@@ -50,7 +50,7 @@ wrote:
 > Cc:
 > Date: Tue, 15 Mar 2016 18:41:41 +0530
 > Subject: Re: [INDOLOGY]
-> ​​
+> 
 > Taittiriya Aranyaka with Bhaskara Misra's commentary
 > I have a copy Vol 1 vol 2 but no third vol of Mysore edition with 64
 > anuvakas

@@ -47,15 +47,15 @@ On 28 October 2013 19:17, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > Best,
 > Dominik
 >
-> ​​
+> 
 >
 > On 28 October 2013 02:36, Hock, Hans Henrich <hhhock at illinois.edu> wrote:
 >
 >>  Thanks for your message, George. Apparently the list serve does not
 >> like attachments.
 >>
->> ​[...]
-> ​
+>> [...]
+> 
 >
 >
 

@@ -7,13 +7,13 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038
 [Archive link](https://list.indology.info/pipermail/indology/2013-September/038354.html)
 
 An article
-​"Yogic Identities: Tradition and Transformation" ​
+"Yogic Identities: Tradition and Transformation" 
 by Jim Mallinson just went up on the Smithsonian's research online website:
 
-   - ​http://asia.si.edu/research/articles/yogic-identities.asp​
+   - http://asia.si.edu/research/articles/yogic-identities.asp
 
 I
-​ntroduction:
+ntroduction:
 
 The earliest textual descriptions of yogic techniques date to the last few
 centuries BCE and show their practitioners to have been ascetics who had
@@ -39,7 +39,7 @@ usefulness in establishing the history of Indian ascetic orders bears
 this out. The consistency of their depictions and the astonishing detail
 they reveal allow us to flesh out—and, sometimes, rewrite—the incomplete
 and partisan history that can be surmised from Sanskrit and vernacular
-texts, travelers’ reports, hagiography, and ethnography​
+texts, travelers’ reports, hagiography, and ethnography
 
 
 -------------- next part --------------

@@ -28,12 +28,12 @@ FAQ<http://www.unicode.org/faq/normalization.html>:
 "NFC is the best form for general text, since it is more compatible with
 strings converted from legacy encodings."
 
-​Best,
-Dominik​
+Best,
+Dominik
 
 --
-​See also. <http://www.unicode.org/reports/tr15/#Implementation_Notes>
-​
+See also. <http://www.unicode.org/reports/tr15/#Implementation_Notes>
+
 
 --
 Dr Dominik Wujastyk

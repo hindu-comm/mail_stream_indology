@@ -20,13 +20,13 @@ On 23 May 2013 22:43, Whitney Cox <wc3 at soas.ac.uk> wrote:
 >
 >
 I
-​ completely agree about the admiration for Speyer's book.  It's really
+ completely agree about the admiration for Speyer's book.  It's really
 quite extraordinary.  Deeply laced throughout with Paninian references
 (fully understood for their linguistic meaning) and showing a sensitive and
 original flair for translation and understanding of his examples.  Amazing
 book.
 
-Dominik​
+Dominik
 
 
 -------------- next part --------------

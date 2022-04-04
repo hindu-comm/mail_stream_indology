@@ -7,16 +7,16 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-March/047413.
 [Archive link](https://list.indology.info/pipermail/indology/2018-March/047413.html)
 
 Would anyone be able to scan or photograph the Abbreviations page
-​s​
-​ of
+s
+ of
 
-​Jan ​
+Jan 
 Gonda
-​ (1980)
+ (1980)
 *Vedic ritual: the non-solemn rites*
-*​ *for me? *​*
+* *for me? **
 
-*​*Thanks in advance! *​*
+**Thanks in advance! **
 
 
 -- 

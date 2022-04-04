@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2021-April/054617.
 Dear Paolo,
 
 Michelle Wang,
-Maṇḍalas in the Making​ The Visual Culture of Esoteric Buddhism at Dunhuang​
+Maṇḍalas in the Making The Visual Culture of Esoteric Buddhism at Dunhuang
 is the work I would now recommend. It includes very thorough references to the earlier relevant scholarship.
 
 hope this is useful,

@@ -10,11 +10,11 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-July/047917.h
 From: Elizabeth Tucker <elizabeth.tucker at orinst.ox.ac.uk>
 Date: Fri, 13 Jul 2018 at 14:26
 Subject:
-​​
+
 Two post-doc assistant researcher positions in Sanskrit syntax at Oxford
 
 
-​[...]​
+[...]
 
 Could I ask you to draw this advertisement from the Oxford Linguistics
 Faculty to the attention of any Sanskritists you know who might be

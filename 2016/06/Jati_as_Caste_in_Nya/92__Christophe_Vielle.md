@@ -122,7 +122,7 @@ Le 16 juin 2016 à 20:41, Donald R Davis <drdj at austin.utexas.edu> a écrit :
 >> 
 >>> On Jun 16, 2016, at 8:53 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >>> 
->>> ​Dear Don,
+>>> Dear Don,
 >>> 
 >>> This interests me a lot, and I'd be grateful to read what you might write about it in future.  It's on my back-burner, but I've long wondered whether Sanskritic narratives about jati and varna can be thought about in ways similar to eighteenth and nineteenth century European narratives about races and species.  Were people of different varnas formally considered to be of different "species?"   It's a bit shocking to think in these terms, but I've been wondering about it.  If you ever put flesh on these bones, one way or another, or can point me to existing discussions on this, I'd be really interested.
 >>> 

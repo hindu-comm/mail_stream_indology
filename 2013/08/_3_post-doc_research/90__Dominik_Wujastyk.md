@@ -15,7 +15,7 @@ To: EMEDCH-L at usc.edu
 Dear colleagues,
 
 Ludwig-Maximilians-Universität (LMU) in Munich is one of the leading
-​E​
+E
 uropean universities with a tradition reaching back more than 500 years.
 The university has established the Graduate School "Distant Worlds: Munich
 Graduate School for Ancient Studies", which has been funded by the German
@@ -30,14 +30,14 @@ the following positions:
 
 
 3
-​p​
+p
 ost-
-​d
+d
 oc
-​ p
+ p
 ositions
 
-   - ​​Salary Grade 13 TV-L / 100%
+   - Salary Grade 13 TV-L / 100%
    - The starting date will be November 1, 2013.
    - The positions are limited to two years; they may be extended by a
    third year.
@@ -47,7 +47,7 @@ ositions
 
 *
 *
-​​
+
 Responsibilities
 
 Successful candidates will conduct an independent research project
@@ -77,26 +77,26 @@ The School offers the scope for developing new perspectives in an inspiring
 research environment.
 
 
-​Disability and equal opportunities
+Disability and equal opportunities
 
-​
+
 Applicants with disabilities possessing essentially equal qualifications
 will be given preference. LMU Munich is an equal opportunity employer
 committed to excellence through diversity and therefore explicitly
 encourages women to apply.
 
-​
+
 Application process
 
-​
+
 For further information see:
-*​*​ <http://www.mzaw.uni-muenchen.de/dw>
+** <http://www.mzaw.uni-muenchen.de/dw>
 www.mzaw.uni-muenchen.de/dw
 
 Applications must be submitted electronically in German or English
-​ ​
+ 
 by September 23, 2013 to mzaw at lmu.de
-​ .​
+ .
 
 
 -------------- next part --------------

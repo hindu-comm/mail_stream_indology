@@ -16,7 +16,7 @@ indology at list.indology.info> wrote:
 >
 
 The majority of early Sanskrit authors in all śāstras and genres cited
-their predecessors and understood and used​ the methods of quotation and
+their predecessors and understood and used the methods of quotation and
 citation well.  Not quite as we do today, but in their own perfectly
 acceptable ways.  In fact, in a manner similar to that of classical authors
 in the European tradition (see, e.g., Reynolds & Wilson, *Scribes and
@@ -45,8 +45,8 @@ Jainas, specifically in the works of the Digambara Jainas.
 In addition, the project will investigate the Indian convention of quoting
 and referring to earlier works or views as an element of composition in
 other branches of scientific literature.
-​Sincerely,
-Dominik Wujastyk​
+Sincerely,
+Dominik Wujastyk
 
 
 -------------- next part --------------

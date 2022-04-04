@@ -10,7 +10,7 @@ Nagaraj Paturi wrote:
 
 > [...]
 > Just as American scholars of Indian history and culture are called
-> American Indologists, I think ​Indian​ scholars of American history and
+> American Indologists, I think Indian scholars of American history and
 > culture can be called Indian Americologists. Is there a field called
 > 'Americology'? Are there Indian Americologists?
 

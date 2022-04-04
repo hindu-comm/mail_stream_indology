@@ -10,7 +10,7 @@ There is an OCR program specifically optimized for Devanagari, written by
 Oliver Hellwig <http://www.sanskritreader.de/>.  I've seen it demonstrated,
 and it is outstanding.  I wouldn't bother with generic products built
 around Latin script, however flexible.
-Dominik Wujastyk​
+Dominik Wujastyk
 
 
 -------------- next part --------------

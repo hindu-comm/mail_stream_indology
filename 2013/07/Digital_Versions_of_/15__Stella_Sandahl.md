@@ -23,9 +23,9 @@ On 2013-07-11, at 9:38 AM, Dominik Wujastyk wrote:
 
 > http://www.amazon.com/books/dp/9748235874
 > 
-> ​Legal or not, version 1.0 at least seems to have been distributed in the USA and internationally.
+> Legal or not, version 1.0 at least seems to have been distributed in the USA and internationally.
 > 
-> DW​
+> DW
 > 
 > _______________________________________________
 > INDOLOGY mailing list

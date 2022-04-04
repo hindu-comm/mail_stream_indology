@@ -17,25 +17,25 @@ the e-text from its current grey status.
 On 6 June 2013 03:19, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 
 > I am very pleased to announce that a project
-> ​to ​
-> ​​
+> to 
+> 
 > further develop the
-> ​​ <http://sarit.indology.info/>
-> ​​ <http://sarit.indology.info/>
->  ​​ <http://sarit.indology.info/>
+>  <http://sarit.indology.info/>
+>  <http://sarit.indology.info/>
+>   <http://sarit.indology.info/>
 > SARIT <http://sarit.indology.info>
-> ​​
-> ​​
-> digital ​​
-> ​​
-> ​​corpus
-> ​​
+> 
+> 
+> digital 
+> 
+> corpus
+> 
 > has succeeded in attracting major funding from the National Endowment for
 > the Humanities and the Deutsche Forschungsgemeinschaft.
 >
 > Profs. Sheldon Pollock (Columbia, New York) and Birgit Kellner
 > (Heidelberg) applied to a
-> ​bilateral USA-German funding program for the development of digital
+> bilateral USA-German funding program for the development of digital
 > humanities.  The application was a success, and the announcement can be
 > read on the NEH website<http://www.neh.gov/divisions/odh/grant-news/announcing-4-nehdfg-bilateral-digital-humanities-program-awards>
 > .
@@ -63,12 +63,12 @@ On 6 June 2013 03:19, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > Library, and especially of course GRETIL and TITUS.  All these projects
 > have great strengths, and afford important new ways of accessing and
 > studying Indian literatures.  SARIT will
-> ​​
+> 
 > make its own unique contribution.
 >
-> ​Dr Dominik Wujastyk
+> Dr Dominik Wujastyk
 > SARIT, INDOLOGY.
-> ​
+> 
 >
 >
 > _______________________________________________

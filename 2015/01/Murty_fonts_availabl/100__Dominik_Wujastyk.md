@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-January/04051
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-January/040517.html)
 
-F​orwarded message from Sheldon Pollock, ​
+Forwarded message from Sheldon Pollock, 
 
 ---
 

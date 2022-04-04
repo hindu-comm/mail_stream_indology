@@ -21,23 +21,23 @@ Madhav Deshpande
 
 On Sat, Jun 25, 2016 at 3:43 PM, Herman Tull <hermantull at gmail.com> wrote:
 
-> ​
+> 
 > Dermot,
 >
-> I worked on this 30 years ago,​ and I remember asking the exact same
+> I worked on this 30 years ago, and I remember asking the exact same
 > question. If memory serves correctly (and it may be
-> ​unreliable
+> unreliable
 >  here), I believe Sayana's commentary
-> ​is
+> is
 >  helpful here
-> ​ in getting to Eggeling's definition​
+>  in getting to Eggeling's definition
 > .
-> ​
+> 
 > (I'm away from my library right now, and I cannot check
-> ​.​
-> )​
+> .
+> )
 >
-> ​Herman
+> Herman
 >
 > Herman Tull
 > Princeton, NJ

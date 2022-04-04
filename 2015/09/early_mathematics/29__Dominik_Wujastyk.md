@@ -16,7 +16,7 @@ bibliography for further reading, we now have
 Plofker, K. *Mathematics in India* Princeton University Press, 2009.
 
 Dominik
-​
+
 
 
 -------------- next part --------------

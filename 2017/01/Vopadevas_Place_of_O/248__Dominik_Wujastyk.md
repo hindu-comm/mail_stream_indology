@@ -11,25 +11,25 @@ Meulenbeld, *History of Indian Medical Literature*, IIA, p.235:
 and the footnotes from IIB:
 
 
-​
 
-​
+
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 2 January 2017 at 20:54, Niranjan Saha <shrinsaha at gmail.com> wrote:

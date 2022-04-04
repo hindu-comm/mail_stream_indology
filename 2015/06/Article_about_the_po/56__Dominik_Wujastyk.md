@@ -6,9 +6,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-June/041293.h
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-June/041293.html)
 
-​I know that we all know this, but I want to just get it on the table
+I know that we all know this, but I want to just get it on the table
 explicitly.  There is a broad scientific agreement that essentialist and
-typological conceptualizations of race are untenable​.  All humans are,
+typological conceptualizations of race are untenable.  All humans are,
 biologically speaking, a single race.
 
 We are using the words "race" and "racist" as if they meant something.  But

@@ -128,9 +128,9 @@ On 18 September 2016 at 09:19, Jan E.M. Houben <jemhouben at gmail.com> wrote:
 >> argues that academics need to step out of the ivory tower and resist the
 >> government’s manipulation of this ancient language.
 >>
->> ​Thanks and all best,
+>> Thanks and all best,
 >>
->> Ananya Vajpeyi. ​
+>> Ananya Vajpeyi. 
 >>
 >>
 >> --

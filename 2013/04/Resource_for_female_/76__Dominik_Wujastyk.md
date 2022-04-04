@@ -7,14 +7,14 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-April/037780.
 [Archive link](https://list.indology.info/pipermail/indology/2013-April/037780.html)
 
 T
-​hank you for highlighting this important blog.  I've added it to the
+hank you for highlighting this important blog.  I've added it to the
 INDOLOGY website listing for easy reference:
 
-   - http://www.indology.info/links/weblog/​
+   - http://www.indology.info/links/weblog/
 
 B
-​est,
-Dominik​
+est,
+Dominik
 
 
 -------------- next part --------------

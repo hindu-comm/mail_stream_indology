@@ -20,7 +20,7 @@ The passage is quoted in:
 
 A History of Indian Literature: Scientific and technical literature
 
- Di Emmie te Nijenhuis​,   p. 7​.
+ Di Emmie te Nijenhuis,   p. 7.
 
 
 

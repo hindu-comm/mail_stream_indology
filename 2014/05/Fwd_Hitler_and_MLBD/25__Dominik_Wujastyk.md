@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-May/039343.ht
 [Archive link](https://list.indology.info/pipermail/indology/2014-May/039343.html)
 
 ---------- Forwarded message
-​(with Peter's permission) ​
+(with Peter's permission) 
 ----------
 From: Peter Wyzlic <pwyzlic at uni-bonn.de>
 Date: 15 May 2014 20:25

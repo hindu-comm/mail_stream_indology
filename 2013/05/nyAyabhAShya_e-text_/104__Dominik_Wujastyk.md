@@ -21,7 +21,7 @@ Dominik
 
 --
 Dr Dominik Wujastyk
-​SARIT <http://sarit.indology.info> project.​
+SARIT <http://sarit.indology.info> project.
 
 
 -------------- next part --------------

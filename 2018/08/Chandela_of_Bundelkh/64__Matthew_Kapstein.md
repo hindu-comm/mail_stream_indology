@@ -116,7 +116,7 @@ Paolo E. Rosati
 PhD in Civilizations of Asia and Africa
 (South Asia Section)
 Italian Institute of Oriental Studies
-​
+
 'Sapienza' University of Rome
 
 

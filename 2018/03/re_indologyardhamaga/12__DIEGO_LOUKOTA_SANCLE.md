@@ -12,10 +12,10 @@ while, in the hopes of elucidating this interesting word. I seize the
 occasion to ask: does anyone have, or is aware of a digitized text of the
 *Vasudevahiṇḍi*?
 
-​
+
 
 *namaskaromi, *
-  Diego​
+  Diego
 
 
 

@@ -9,8 +9,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-April/043203.
 I already replied privately to Jarrod, but given the interest, let me add
 my article published last year that delves into a number of these issues,
 "Whence Sanskrit? : A Brief History of Sanskrit Pedagogy in the West" in
-International Journal of Hindu Studies 19 (1-2):213-256 (2015)​ (Gerow
-Festschrift volume)​
+International Journal of Hindu Studies 19 (1-2):213-256 (2015) (Gerow
+Festschrift volume)
 
 Herman Tull
 On Apr 28, 2016 7:13 PM, "Harry Spier" <hspier.muktabodha at gmail.com> wrote:

@@ -32,11 +32,11 @@ An interesting article in yesterday's The Hindu about the latest discoveries on 
 
 Continue reading:How genetics is settling the Aryan migration debateby Tony Joseph (The Hindu, June 16 2017).
 
-​--
+--
 ProfessorDominik Wujastyk,
 Singhmar Chair in Classical Indian Society and Polity,
 Department of History and Classics,University of Alberta, Canada.
-South Asia at the U of A: sas.ualberta.ca ​​
+South Asia at the U of A: sas.ualberta.ca 
  _______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info

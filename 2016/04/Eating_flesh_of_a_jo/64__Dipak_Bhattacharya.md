@@ -17,33 +17,33 @@ On Sun, Apr 24, 2016 at 8:35 PM, Artur Karp <karp at uw.edu.pl> wrote:
 
 > In "Śahr Safidon ki kahani" (published by Richard Temple, The Legends of
 > the Panjab , Vol. I (No XVI,
-> ​
+> 
 > Princess Niwal Daî, As su
-> ​n
+> n
 > g
-> ​b
+> b
 > y t
-> ​wo
+> wo
 >  s
-> ​c
+> c
 > a
-> ​v
+> v
 > e
-> ​n
+> n
 > gers
-> ​f​
+> f
 > ro
 > m
 > Bi
-> ​b
+> b
 > iyâl
-> ​V
+> V
 > illage
-> ​n
+> n
 > ear A
-> ​mb
+> mb
 > âlâ),
-> ​
+> 
 > Bombay 1884 [Reprints: 1962, 1977] -
 >
 > his disciples eat flesh of their Guru, Dhanthar Baid - in order to gain

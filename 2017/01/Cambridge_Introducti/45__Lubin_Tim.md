@@ -54,23 +54,23 @@ Has anyone else had a chance to evaluate the book yet?
 Best,
 Dominik
 
-​
+
 --
 Professor Dominik Wujastyk<http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics<http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​<http://sas.ualberta.ca/>
-​​
+sas.ualberta.ca<http://sas.ualberta.ca/>
+
 _______________________________________________
 INDOLOGY mailing list
 INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>

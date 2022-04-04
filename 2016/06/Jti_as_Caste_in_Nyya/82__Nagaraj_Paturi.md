@@ -60,7 +60,7 @@ johannes.bronkhorst at unil.ch> wrote:
 >
 > On Jun 16, 2016, at 8:53 AM, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
-> ​Dear Don,
+> Dear Don,
 >
 > This interests me a lot, and I'd be grateful to read what you might write
 > about it in future.  It's on my back-burner, but I've long wondered whether

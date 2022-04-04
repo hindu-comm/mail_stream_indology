@@ -34,7 +34,7 @@ Has anyone done Winnie the Pooh?
 
 
 
-​Dominik​
+Dominik
 
 _______________________________________________
 INDOLOGY mailing list

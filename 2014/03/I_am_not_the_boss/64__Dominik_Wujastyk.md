@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-March/039179.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-March/039179.html)
 
-​Dear colleagues and friends,
+Dear colleagues and friends,
 
 The INDOLOGY list is run by a
 committee<http://indology.info/email/email-comm/>.

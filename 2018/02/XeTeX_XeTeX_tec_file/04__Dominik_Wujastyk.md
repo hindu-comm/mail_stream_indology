@@ -8,23 +8,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-February/0473
 
 This is also great.  Thank you!
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 31 January 2018 at 01:18, ShreeDevi Kumar <shreeshrii at gmail.com> wrote:
@@ -62,10 +62,10 @@ On 31 January 2018 at 01:18, ShreeDevi Kumar <shreeshrii at gmail.com> wrote:
 >> *To:* Indology; Unicode-based TeX for Mac OS X and other platforms
 >> *Subject:* [XeTeX] XeTeX tec file for Tamil?
 >>
->> ​Does anyone have a TECkit
+>> Does anyone have a TECkit
 >> <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=TECkitDownloads>
 >> file for auto-transliterating standard Latin-script input to Tamil script
->> output?​
+>> output?
 >>
 >> Best,
 >> Dominik Wujastyk

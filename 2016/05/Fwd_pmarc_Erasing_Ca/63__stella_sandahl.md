@@ -41,7 +41,7 @@ Begin forwarded message:
 >  
 > California’s textbooks are once again an ideological battleground. Ground zero is the State Board of Education in Sacramento, where the nation’s leading conservative Hindu groups are hell-bent on rewriting history. This embittered alliance, led by the Hindu American Foundation (HAF), and including the Hindu Education Foundation (HEF), Uberoi Foundation (UF) and Dharma Civilization Foundation (DCF), are conspiring to weave ideological agendas into the state’s history and social science frameworks.
 > 
-> ​
+> 
 >  
 > Multiple rationales are offered for these changes, but the most prominent is the deceptively heartrending HAF argument that no less than the “low-self-esteem and bullying of Hindu children” is at stake when caste and patriarchy in Hinduism is taught. At a quick glance, these appeals might seem compelling. But the answer to racism in schools is not to further discriminate by erasing history. Hindu revisionism ill-prepares all California children and is an insult to democracy. For as Kashmiri scholar Huma Dar writes; “history is not meant to soothe feelings, it is written so we might learn from its mistakes and very crucially: mistakes that are yet to be appropriately addressed.”
 >  

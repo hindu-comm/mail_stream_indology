@@ -20,23 +20,23 @@ Best,
 Dominik Wujastyk
 
 
-​
+
 --
 Professor Dominik Wujastyk<http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics<http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​<http://sas.ualberta.ca/>
-​​
+sas.ualberta.ca<http://sas.ualberta.ca/>
+
 
 _______________________________________________
 INDOLOGY mailing list

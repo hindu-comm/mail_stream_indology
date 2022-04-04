@@ -22,8 +22,8 @@ that suggests that the development of the Brāhmaṇa dharmaśāstra literatures
 is a direct response to the challenge of the Buddha's use of dhamma as a
 key term on which to  hang his teaching.  Pre-Buddhist uses of the word are
 not prominent, ideologically speaking.
-​
-​Dominik Wujastyk​
+
+Dominik Wujastyk
 
 
 -------------- next part --------------

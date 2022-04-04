@@ -6,12 +6,12 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-July/039667.h
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-July/039667.html)
 
-​Indological expertise is in demand,
+Indological expertise is in demand,
 
 FYI,
 
 WS
-​
+
 
 ---------- Forwarded message ----------
 From: Steve Farmer saf at safarmer.com [Indo-Eurasian_research] <

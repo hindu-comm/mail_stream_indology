@@ -95,23 +95,23 @@ On Apr 21, 2017, at 1:14 AM, Lubomír Ondračka <ondracka at ff.cuni.cz> wrote:
 >> 
 >> The Pali doesn't actually say "Buddha's own dialect".  That's the whole point of the problem and why it has been discussed by many scholars.  It says "in his own dialect." This is ambiguous: we don't know whether "his own" (saka) refers to the Buddha or to a person in the audience.   Is the Buddha saying "teach people in my language" or "teach people in their own language?"
 >> 
->> ​
+>> 
 >> --
 >> Professor Dominik Wujastyk<http://ualberta.academia.edu/DominikWujastyk>
->> ​,​
+>> ,
 >> 
 >> Singhmar Chair in Classical Indian Society and Polity
->> ​,​
+>> ,
 >> 
 >> Department of History and Classics<http://historyandclassics.ualberta.ca/>
->> ​,​
+>> ,
 >> University of Alberta, Canada
->> ​.​
+>> .
 >> 
 >> South Asia at the U of A:
 >> 
->> ​sas.ualberta.ca​<http://sas.ualberta.ca/>
->> ​​
+>> sas.ualberta.ca<http://sas.ualberta.ca/>
+>> 
 >> 
 >> 
 >> On 18 April 2017 at 00:54, alakendu das via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:

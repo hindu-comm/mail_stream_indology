@@ -80,7 +80,7 @@ On 2 March 2015 at 14:07, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > Best,
 > Dominik
 >
-> ​
+> 
 >
 
 

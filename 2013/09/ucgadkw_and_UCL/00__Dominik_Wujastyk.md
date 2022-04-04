@@ -7,7 +7,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-September/038
 [Archive link](https://list.indology.info/pipermail/indology/2013-September/038388.html)
 
 D
-​ear colleagues,
+ear colleagues,
 
 For about 25 years I had an email account at University College London.  It
 was "ucgadkw at euclid.ucl.ac.uk" from 1988, and then "ucgadkw at ucl.ac.uk" with

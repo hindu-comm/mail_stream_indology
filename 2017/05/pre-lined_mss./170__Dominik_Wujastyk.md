@@ -47,7 +47,7 @@ Dominik
 Jones, Leslie Webber. “Pricking Manuscripts: The Instruments and Their
 Significance.” *Speculum*, vol. 21, no. 4, 1946, pp. 389–403.,
 www.jstor.org/stable/2856761.
-​
+
 
 
 -------------- next part --------------

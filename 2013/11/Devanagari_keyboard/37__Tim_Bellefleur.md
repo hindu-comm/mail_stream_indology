@@ -21,7 +21,7 @@ with Devanagari.
 I used Pages for some time, but its inability to seamlessly operate in Word
 .doc format eventually led me to switch to Nisus.
 
--​Tim​
+-Tim
 
 
 On Thu, Nov 14, 2013 at 3:41 AM, Hock, Hans Henrich <hhhock at illinois.edu>wrote:

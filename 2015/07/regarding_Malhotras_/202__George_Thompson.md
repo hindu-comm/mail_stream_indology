@@ -107,7 +107,7 @@ On Mon, Jul 20, 2015 at 3:10 PM, George Thompson <gthomgt at gmail.com> wrote:
 >>
 >>  Dominik Wujastyk
 >>
->>  ​
+>>  
 >>
 >>
 >> _______________________________________________

@@ -6,9 +6,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-March/040870.
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-March/040870.html)
 
-​Meera Nanda has just uploaded the full text of her 2003 book *Prophets
+Meera Nanda has just uploaded the full text of her 2003 book *Prophets
 Facing Backwards* <https://www.academia.edu/11586065/> to her Academia.edu
-page.​  If you don't know it, and are interested in contemporary debates
+page.  If you don't know it, and are interested in contemporary debates
 about Hindu fundamentalism, I recommend it.  It is controversial, and Meera
 herself has taken public positions on issues like the Yoga Wars that have
 encouraged many and made her the target of others.

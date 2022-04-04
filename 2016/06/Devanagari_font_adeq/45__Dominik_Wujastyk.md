@@ -14,18 +14,18 @@ Graheli:
 
 
 
-​Murty (doesn't quite have the full repertoire of sandhyaksaras for Skt):​
+Murty (doesn't quite have the full repertoire of sandhyaksaras for Skt):
 
 
 
 
 
-​For comparison, the above using Sanskrit2003 (​with FakeStretch=1.08):
+For comparison, the above using Sanskrit2003 (with FakeStretch=1.08):
 
 
-​
 
-​
+
+
 
 
 -------------- next part --------------

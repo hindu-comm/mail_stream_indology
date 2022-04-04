@@ -38,7 +38,7 @@ Subject: Re: [INDOLOGY] Against the petition against Prof. Pollock
 <indology at list.indology.info>
 
 
-> ​ ​
+>  
 > Dear List,
 >>
 >>
@@ -96,9 +96,9 @@ Subject: Re: [INDOLOGY] Against the petition against Prof. Pollock
 > non sordidi lucri causa nec ad vanam captandam gloriam,
 > sed quo magis veritas propagetur et lux eius, qua salus
 > humani generis continetur, clarius effulgeat.
-> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. ​
+> Vindobonae, die XXI. mensis Novembris MCMLXXXIII. 
 >
->> ​
+>> 
 >>
 
 

@@ -19,7 +19,7 @@ US.
 On Mon, Oct 27, 2014 at 6:03 PM, Tracy Coleman <tcoleman at coloradocollege.edu
 > wrote:
 
->  ​Indologists -ji,
+>  Indologists -ji,
 >
 >
 >  I would add that Indology can also survive if wealthy donors endow

@@ -23,7 +23,7 @@ Some more information on this
 Best,
 Dominik Wujastyk
 INDOLOGY committee
-​
+
 
 
 -------------- next part --------------

@@ -23,7 +23,7 @@ Am 19.07.2015 um 14:09 schrieb bhikkhuni Dhammadinna:
 > Dear Colleagues,
 > greetings.
 > Does anyone happen to have a scan of Erich Frauwallner's
-> ​​
+> 
 > Geschichte der indischen Philosophie (both volumes)?
 > It has proven quite difficult to get hold of it here in Taiwan.
 > With many thanks and all best wishes,
@@ -39,7 +39,7 @@ Am 19.07.2015 um 14:09 schrieb bhikkhuni Dhammadinna:
 > Department of Buddhist Studies
 > Dharma Drum Institute of Liberal Arts
 > Jinshan, Taiwan
-> website <http://agamaresearch.ddbc.edu.tw/?page_id=48>​
+> website <http://agamaresearch.ddbc.edu.tw/?page_id=48>
 > 
 > 
 > _______________________________________________

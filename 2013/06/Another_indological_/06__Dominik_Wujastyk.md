@@ -18,13 +18,13 @@ Their website <http://www.kickstarter.com/help/guidelines?ref=footer> says,
 > Businesses, nonprofits, and other organizations can also use Kickstarter to
 > fund their creative projects.
 >
-​Maybe there's a way round it.  I don't know.  I'll write and ask them.  I
+Maybe there's a way round it.  I don't know.  I'll write and ask them.  I
 remember when they opened their UK branch, there was a big hoo-ha that "now
 people in the UK can do it too" and that "we'll be expanding to other
 countries in due course."
 
 Best,
-Dominik​
+Dominik
 
 
 -------------- next part --------------

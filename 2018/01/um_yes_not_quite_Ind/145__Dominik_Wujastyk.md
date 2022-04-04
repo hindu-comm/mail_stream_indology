@@ -6,8 +6,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-January/04717
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2018-January/047173.html)
 
-​
-​Funny :-)  Thanks!​
+
+Funny :-)  Thanks!
 
 
 I needed a smile.  I've just cancelled attendance at a conference in the

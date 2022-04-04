@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-May/037797.ht
 
 I'm delighted to have received the latest five volumes of the NCC, vols.
 20-25.
-​
+
 
 Here is the useful table of volume contents that is now printed on the back
 of each volume.
@@ -25,7 +25,7 @@ to supply them, for some unknown reason.
 Best,
 Dominik
 
-​
+
 
 
 -------------- next part --------------

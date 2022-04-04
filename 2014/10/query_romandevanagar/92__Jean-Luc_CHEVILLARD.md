@@ -54,7 +54,7 @@ outside the USA have to be careful about the
 >     Library's transliteration tool quite useful for this purpose:
 >     http://sanskritlibrary.org/tomcat/sl/TranscodeText
 > 
->     ​Cheers,
+>     Cheers,
 > 
 >     Tim
 > 

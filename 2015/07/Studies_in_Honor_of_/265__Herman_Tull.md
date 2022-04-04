@@ -8,14 +8,14 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-July/041646.h
 
 List Members:
 
-​It is with great pleasure that I announce the publication of a volume of
+It is with great pleasure that I announce the publication of a volume of
 essays written in honor of Professor Edwin Gerow.  The volume has been
 published as a double issue of the International Journal of Hindu Studies,
 Volume 19, Issue 1-2, April 2015.
 
 http://link.springer.com/journal/11407/19/1/page/1
 
-​The Table of Contents follows:
+The Table of Contents follows:
 
 Herman Tull, Ācāryasamarpaṇam: Studies in Honor of Edwin Gerow
 
@@ -44,7 +44,7 @@ on the Lust and Gluttony of Ascetics and Buddhist Monks
 Deepak Sarma, The Āptaguru
 
 Herman Tull, Whence Sanskrit? (kutaḥ saṃskṛtamiti): A Brief History of
-Sanskrit Pedagogy in the West ​
+Sanskrit Pedagogy in the West 
 
 -- 
 

@@ -15,9 +15,9 @@ To whom it may concern,
 Attached is the call for papers for this year's South Asia Graduate Student
 Conference at the University of Chicago. Its theme is 'The Self in South
 Asia' and our keynote speaker will be Donald Lopez.
-​  ​
+  
 If
-​ list​
+ list
 members could distribute it to interested students at their home
 universities, that would be wonderful.
 

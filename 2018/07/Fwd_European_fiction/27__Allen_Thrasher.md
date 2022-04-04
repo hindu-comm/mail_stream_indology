@@ -18,9 +18,9 @@ On Sun 22 Jul, 2018, 2:08 AM Dominik Wujastyk via INDOLOGY, <indology at list.in
 
 Can anyone answer Julian Brescanu's query below? 
 
-​Kindly send answers to Brescanu directly (and cc here if you wish).
+Kindly send answers to Brescanu directly (and cc here if you wish).
 
-Best,INDOLOGY committee​
+Best,INDOLOGY committee
 
 
 ---------- Forwarded message ---------

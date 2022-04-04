@@ -12,7 +12,7 @@ sending the forum the URL.
 
 Sincerely,
 Dominik Wujastyk
-INDOLOGY committee​
+INDOLOGY committee
 
 On 6 February 2017 at 05:39, Dr. Sweta Prajapati via INDOLOGY <
 indology at list.indology.info> wrote:

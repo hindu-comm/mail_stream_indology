@@ -10,7 +10,7 @@ The Wikipedia page on MOOCS gives a good account of the debate surrounding
 the usefulness of this form of teaching.  (Or it did, when I read it late
 last year :-).
 Dominik Wujastyk
-​
+
 
 
 -------------- next part --------------

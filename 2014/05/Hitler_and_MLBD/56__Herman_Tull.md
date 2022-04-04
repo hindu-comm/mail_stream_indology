@@ -27,7 +27,7 @@ On Thu, May 15, 2014 at 1:54 PM, Dominik Wujastyk <wujastyk at gmail.com>wrote:
 > the Upanisads.
 >
 >
-> ​
+> 
 >
 > This was a shock!  My immediate reaction was that I wish furiously to
 > sever all links with MLBD.  I have already written to Penguin Delhi, asking

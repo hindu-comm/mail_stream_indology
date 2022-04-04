@@ -10,7 +10,7 @@ One curiosity is how cheep the book is. One wonders if it is subsidized.
 On May 16, 2014 6:59 AM, "Dominik Wujastyk" <wujastyk at gmail.com> wrote:
 
 > ---------- Forwarded message
-> ​(with Peter's permission) ​
+> (with Peter's permission) 
 > ----------
 > From: Peter Wyzlic <pwyzlic at uni-bonn.de>
 > Date: 15 May 2014 20:25

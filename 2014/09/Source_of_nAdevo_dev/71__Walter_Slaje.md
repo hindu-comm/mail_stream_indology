@@ -17,9 +17,9 @@ which no human (ruler), but only god, deserves praise - by man, e.g.:
 
 [1] <#_ftnref1> sarvataḥśrutim (em.)]* sarvataḥ śrutim *Ed.
 
-​Regards,
+Regards,
 WS
-​
+
 
 -----------------------------
 Prof. Dr. Walter Slaje

@@ -33,7 +33,7 @@ Department of History and Classics <http://historyandclassics.ualberta.ca/>
 University of Alberta, Canada
 
 <https://mail.google.com/mail/u/0/goog_1525257691>
-​sas.ualberta.ca​
+sas.ualberta.ca
 
 
 On 12 October 2016 at 02:10, Dagmar Wujastyk <d.wujastyk at gmail.com> wrote:

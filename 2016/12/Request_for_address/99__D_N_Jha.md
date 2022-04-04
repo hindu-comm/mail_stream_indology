@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-December/0448
 Dear List,
 Can any one help me with the email id of Professor Klaus Karttunen? I will
 be grateful
-​DNJ​
+DNJ
 
 -- 
 -- 

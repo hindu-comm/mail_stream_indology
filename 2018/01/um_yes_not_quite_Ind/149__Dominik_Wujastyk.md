@@ -7,8 +7,8 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-January/04718
 [Archive link](https://list.indology.info/pipermail/indology/2018-January/047184.html)
 
 Dear friends,
-​
-​Several of you have written to me on- and off- list in response to my
+
+Several of you have written to me on- and off- list in response to my
 inadvertent post.  I am grateful for your words.  But please keep posts
 off-list, if possible.  Jonathan is right, that it's important to keep our
 INDOLOGY conversations as a-political as possible, otherwise it will

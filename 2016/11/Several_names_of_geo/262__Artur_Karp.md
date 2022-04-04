@@ -6,9 +6,9 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-November/0447
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2016-November/044766.html)
 
-​Sorry,
+Sorry,
 
-​South Asian Onomastics (geographical objects and place names), already
+South Asian Onomastics (geographical objects and place names), already
 published (2005), is available at:
 
 https://www.academia.edu/9062314/Azja_Po%C5%82udniowa_Artur_Karp_ed._Nazewnictwo_geograficzne_%C5%9Awiata_Zeszyt_4_G%C5%82%C3%B3wny_Urz%C4%85d_Geodezji_i_Kartografii_Warszawa_2005

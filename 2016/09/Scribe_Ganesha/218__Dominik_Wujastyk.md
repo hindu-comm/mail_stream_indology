@@ -27,12 +27,12 @@ On 4 September 2016 at 15:32, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >>    <http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121>
 >>
 >>
-> ​That url didn't work.  Apologies!  Try this instead:
+> That url didn't work.  Apologies!  Try this instead:
 >
 >    -  http://sarit.indology.info/exist/apps/sarit/works/%C4%
 >    81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121
 >    <http://sarit.indology.info/exist/apps/sarit/works/%C4%81diparva__adhy%C4%81ya_001.html?action=search#1.3.4.3.8.121>
->    ​
+>    
 >
 >
 >

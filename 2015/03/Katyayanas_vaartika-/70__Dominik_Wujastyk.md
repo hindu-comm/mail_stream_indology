@@ -7,17 +7,17 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-March/040884.
 [Archive link](https://list.indology.info/pipermail/indology/2015-March/040884.html)
 
 I
-​'ve fetched Pathak and Chitrao from the DLI and uploaded it to archive.org
+'ve fetched Pathak and Chitrao from the DLI and uploaded it to archive.org
 <https://archive.org/details/5990010905076WordIndexToPaniniSutraPathaAndParisistasVidyanidhiSiddheshvarshastr>
-.​
-​  I've also made an entry at OpenLibrary.
+.
+  I've also made an entry at OpenLibrary.
 <https://openlibrary.org/books/OL25663324M/>  I'll probably rename the
 archive.org file in due course - it's label is much too long.  When I've
-done that, I'll also update the link from OpenLibrary. ​
+done that, I'll also update the link from OpenLibrary. 
 
 
-​Best,
-Dominik​
+Best,
+Dominik
 
 
 

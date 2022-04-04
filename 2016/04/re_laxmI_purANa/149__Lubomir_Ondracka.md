@@ -13,7 +13,7 @@ On Fri, 8 Apr 2016 16:01:56 -0600
 Dominik Wujastyk <wujastyk at gmail.com> wrote:
 
 > NCC v.26, p.85 lists a single Lakṣmīpurāṇa MS as "Viśvabhāratī 2602".
-> ​
+> 
 
 
 

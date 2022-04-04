@@ -98,7 +98,7 @@ wrote:
 > University of Alberta, Canada
 >
 > <https://mail.google.com/mail/u/0/goog_1525257691>
-> ​sas.ualberta.ca​
+> sas.ualberta.ca
 >
 >
 > On 15 July 2016 at 12:58, Madhav Deshpande <mmdesh at umich.edu> wrote:

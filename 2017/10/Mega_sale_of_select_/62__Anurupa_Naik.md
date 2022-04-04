@@ -22,7 +22,7 @@ On 11-10-2017 06:53, Dominik Wujastyk wrote:
 >
 > INDOLOGY committee member on duty
 >
-> ​
+> 
 >
 >
 > On 10 October 2017 at 05:19, Anurupa Naik via INDOLOGY 

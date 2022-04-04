@@ -33,7 +33,7 @@ Contributions are welcome!
 
 --
 Dr Dominik Wujastyk
-​,
+,
 and the editorial board:
 Kim Plofker,
 Dhruv Raina,

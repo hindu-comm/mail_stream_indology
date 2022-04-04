@@ -27,7 +27,7 @@ indology at list.indology.info> wrote:
 > Dominik Wujastyk
 > INDOLOGY committee
 >
-> ​
+> 
 >
 > On 21 July 2017 at 16:30, Jean-Luc Chevillard via INDOLOGY <
 > indology at list.indology.info> wrote:

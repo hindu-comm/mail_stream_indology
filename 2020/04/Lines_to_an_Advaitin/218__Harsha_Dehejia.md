@@ -9,7 +9,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2020-April/052208.
 Friends:
 
 2. Wait O Advaitin! I am not ready for absolute truth
-    I need to drench myself in the rasa of Rashesvar.​
+    I need to drench myself in the rasa of Rashesvar.
 
 Regards,
 

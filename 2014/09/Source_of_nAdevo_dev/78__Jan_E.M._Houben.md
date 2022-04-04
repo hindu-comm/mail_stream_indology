@@ -76,9 +76,9 @@ On 29 September 2014 13:09, Dr. T. Ganesan <ganesan at ifpindia.org> wrote:
 > [1] <#148c11aae6f90b1e__ftnref1> sarvataḥśrutim (em.)]* sarvataḥ śrutim *
 > Ed.
 >
->  ​ Regards,
+>   Regards,
 >  WS
-> ​
+> 
 >
 >  -----------------------------
 > Prof. Dr. Walter Slaje

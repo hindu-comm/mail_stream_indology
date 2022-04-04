@@ -32,13 +32,13 @@ On 24 May 2013 06:11, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >>
 >>
 > I
-> ​ completely agree about the admiration for Speyer's book.  It's really
+>  completely agree about the admiration for Speyer's book.  It's really
 > quite extraordinary.  Deeply laced throughout with Paninian references
 > (fully understood for their linguistic meaning) and showing a sensitive and
 > original flair for translation and understanding of his examples.  Amazing
 > book.
 >
-> Dominik​
+> Dominik
 >
 >
 > _______________________________________________

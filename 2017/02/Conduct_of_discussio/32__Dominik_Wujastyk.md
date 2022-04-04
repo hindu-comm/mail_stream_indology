@@ -9,16 +9,16 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-February/0452
 Dear colleagues in this INDOLOGY forum,
 
 The managing committee <http://indology.info/email/email-comm.shtml> of
-INDOLOGY​
-​
-​ has watched a few recent exchanges with some dismay, because of their
+INDOLOGY
+
+ has watched a few recent exchanges with some dismay, because of their
 harsh tone.  Our committee has also received messages of concern from
 several members of the list, who worry that a decline of standards in
 collegial discussion will undermine the value of the forum as a place for
 scholars to debate academic issues in a productive manner.
 
 
-​INDOLOGY membership currently stands at 701 members.​  That is an
+INDOLOGY membership currently stands at 701 members.  That is an
 encouragingly high number for a specialist subject such as ours.  It is
 also a large number of people to participate harmoniously in an unmoderated
 forum.  In general, conduct is admirably high.  And it is noticeable that
@@ -28,7 +28,7 @@ and perhaps even slightly proud of the INDOLOGY forum, and grateful to see
 the frequent messages of thanks and appreciation that members post, when a
 question is answered or a bibliographical item is found.
 
-​It is also worth remembering that exchanges in this forum are publicly and
+It is also worth remembering that exchanges in this forum are publicly and
 permanently archived, intemperate outbursts and all.
 
 

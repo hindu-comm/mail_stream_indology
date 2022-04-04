@@ -6,15 +6,15 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-February/0390
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-February/039075.html)
 
-​Dear List Members,
+Dear List Members,
 
-I should like to draw your attention to the publication below:​
+I should like to draw your attention to the publication below:
 
 
-​​
+
 Walter Slaje, Kingship in Kaśmīr (
-​​
-​AD​
+
+AD
  1148‒1459). From the Pen of Jonarāja, Court Paṇḍit to Sulṭān Zayn
 al-‛Ābidīn.
 
@@ -48,17 +48,17 @@ personal names and toponyms along with their geographic coordinates. An
 image of Sulṭān Zayn’s founding stone of his artificial island (Laṅkā) in
 the Volur Lake and four maps with historical sites of central importance to
 events and personalities as portrayed by Jonarāja conclude the volume.
-​
-Further information and orders:​
 
-​
+Further information and orders:
+
+
 http://www.universitaetsverlag-halle-wittenberg.de/english/studia-indologica/kingship-in-kasmir-ad-1148-1459.html
-​
 
-​
+
+
 
 Kindly regarding,
-​
+
 Walter Slaje
 
 -----------------------------

@@ -8,23 +8,23 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-December/0449
 
 I look forward to your forthcoming, wide-ranging study, Prof. Paturi!  :-)
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 21 December 2016 at 11:09, Nagaraj Paturi <nagarajpaturi at gmail.com>
@@ -54,24 +54,24 @@ wrote:
 >> Thank you, David!  I've ordered that by ILL.  If there's a problem, I'll
 >> come back to you.  Very grateful!
 >>
->> ​
+>> 
 >> --
 >> Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
->> ​,​
+>> ,
 >>
 >> Singhmar Chair in Classical Indian Society and Polity
->> ​,​
+>> ,
 >>
 >> Department of History and Classics
 >> <http://historyandclassics.ualberta.ca/>
->> ​,​
+>> ,
 >> University of Alberta, Canada
->> ​.​
+>> .
 >>
 >> South Asia at the U of A:
 >>
->> ​sas.ualberta.ca​
->> ​​
+>> sas.ualberta.ca
+>> 
 >>
 >>
 >> On 20 December 2016 at 13:45, David and Nancy Reigle <dnreigle at gmail.com>
@@ -102,40 +102,40 @@ wrote:
 >>>>
 >>>> On 20 December 2016 at 04:41, Matthew Kapstein <mkapstei at uchicago.edu>
 >>>> wrote:
->>>> ​...​
+>>>> ...
 >>>>
 >>>>
->>>> Me too.  ​I would also be interested in any studies of the presumably
+>>>> Me too.  I would also be interested in any studies of the presumably
 >>>> related term *prasaṅkhyāna* (= "*sattvapuruṣānyatākhyāti*" PYŚ) that
->>>> is a keyword in the *Pātañjalayogaśāstra*. ​ I am aware of
+>>>> is a keyword in the *Pātañjalayogaśāstra*.  I am aware of
 >>>>
 >>>> Endo, K. Mayeda, S.; Matsunami, Y.; Tokunaga, M. & Marui, H. *(Eds.) "*Prasaṃkhyāna
 >>>> in the Yogabhāṣya" in *The Way to Liberation: Indological Studies in
 >>>> Japan,* Manohar Publishers & Distributors, 2000, 75-89.
 >>>>
 >>>>
->>>> ​Best,
->>>> Dominik​
+>>>> Best,
+>>>> Dominik
 >>>>
->>>> ​
+>>>> 
 >>>> --
 >>>> Professor Dominik Wujastyk
 >>>> <http://ualberta.academia.edu/DominikWujastyk>
->>>> ​,​
+>>>> ,
 >>>>
 >>>> Singhmar Chair in Classical Indian Society and Polity
->>>> ​,​
+>>>> ,
 >>>>
 >>>> Department of History and Classics
 >>>> <http://historyandclassics.ualberta.ca/>
->>>> ​,​
+>>>> ,
 >>>> University of Alberta, Canada
->>>> ​.​
+>>>> .
 >>>>
 >>>> South Asia at the U of A:
 >>>>
->>>> ​sas.ualberta.ca​
->>>> ​​
+>>>> sas.ualberta.ca
+>>>> 
 >>>>
 >>>>
 >>>> _______________________________________________

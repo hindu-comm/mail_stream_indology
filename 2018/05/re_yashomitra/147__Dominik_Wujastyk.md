@@ -29,7 +29,7 @@ University of Alberta, Canada
 South Asia at the U of A:
 
 sas.ualberta.ca
-​​
+
 
 
 
@@ -71,7 +71,7 @@ On Thu, 24 May 2018 at 14:41, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 > South Asia at the U of A:
 >
 > sas.ualberta.ca
-> ​​
+> 
 >
 >
 

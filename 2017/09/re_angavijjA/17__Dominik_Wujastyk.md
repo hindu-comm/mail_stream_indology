@@ -10,23 +10,23 @@ I remember once David Pingree told me that the Angavijja was "a list of
 everything in the universe. Literally every item."  With his wry, amused
 smile.
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 31 August 2017 at 20:21, Seishi Karashima via INDOLOGY <

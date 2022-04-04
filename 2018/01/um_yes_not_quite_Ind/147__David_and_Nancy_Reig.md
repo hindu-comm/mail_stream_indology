@@ -25,14 +25,14 @@ indology at list.indology.info> wrote:
 > Apologies, everyone.
 >
 > Dominik
-> ​​
+> 
 >
 >
 > On 13 January 2018 at 22:26, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >
 >>
->> ​
->> ​Funny :-)  Thanks!​
+>> 
+>> Funny :-)  Thanks!
 >>
 >>
 >> I needed a smile.  I've just cancelled attendance at a conference in the

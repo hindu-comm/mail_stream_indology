@@ -6,7 +6,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2015-September/042
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2015-September/042064.html)
 
-​Dear Prof Wiese,
+Dear Prof Wiese,
 I assume you are looking for MAnasollAsa Volume 3 published in Gaekwad's
 Oriental Series Edited by G.K. Shrigondekar
 http://musicresearchlibrary.net/omeka/items/show/1676
@@ -30,7 +30,7 @@ Yours sincerely
 
 Harald Wiese
 University of Leipzig
-wiese at wifa.uni-leipzig.de​
+wiese at wifa.uni-leipzig.de
 
 On Tue, Sep 22, 2015 at 9:30 PM, <indology-request at list.indology.info>
 wrote:

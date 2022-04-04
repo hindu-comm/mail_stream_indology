@@ -8,14 +8,14 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-March/047410.
 
 Book discount offer:
 
-​​
+
 The
-​website for the paperback edition of
-​Sheldon Pollock's *Rasa Reader: Classical Indian Aesthetics* is
+website for the paperback edition of
+Sheldon Pollock's *Rasa Reader: Classical Indian Aesthetics* is
 
 
    - https://cup.columbia.edu/boo
-   ​​
+   
    k/a-rasa-reader/9780231173919
    <https://cup.columbia.edu/book/a-rasa-reader/9780231173919>
 
@@ -26,8 +26,8 @@ receive a 30% discount off the price of the paperback edition of the book.
 Please feel free to pass this along.
 
 
-​Olivelle's *Dharma Reader*​
-​ will be coming out in paperback soon, and will have a similar discount
+Olivelle's *Dharma Reader*
+ will be coming out in paperback soon, and will have a similar discount
 offer, I believe.
 
 Dominik

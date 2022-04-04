@@ -13,23 +13,23 @@ own" (saka) refers to the Buddha or to a person in the audience.   Is the
 Buddha saying "teach people in my language" or "teach people in their own
 language?"
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 18 April 2017 at 00:54, alakendu das via INDOLOGY <

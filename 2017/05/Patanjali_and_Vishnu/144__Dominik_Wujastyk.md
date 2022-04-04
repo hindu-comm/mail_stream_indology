@@ -18,23 +18,23 @@ Apologies that my remarks are laconic; I'm in a confererence.
 Best,
 Dominik
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 22 May 2017 at 09:59, Valerie Roebuck <vjroebuck at btinternet.com> wrote:

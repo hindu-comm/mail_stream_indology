@@ -25,9 +25,9 @@ On May 24, 2013, at 10:53 AM, Christopher Wallis wrote:
 > I'm a huge admirer of Speyer's book--I honestly feel like I learn something new and interesting every single time I open it-- but I do agree with Chris that it would benefit from re-setting.  The font in which the Nāgarī text is set can make for hard reading for those who aren't used to it: there are many times that I've strongly recommended it to intermediate students who have found it difficult to make sense of.  Also, Speyer doesn't always translate his examples: this isn't a problem for those with more experience in the language, but the target audience of language learners are sometimes at a disadvantage, which is a real shame.
 > 
 > 
-> I​ completely agree about the admiration for Speyer's book.  It's really quite extraordinary.  Deeply laced throughout with Paninian references (fully understood for their linguistic meaning) and showing a sensitive and original flair for translation and understanding of his examples.  Amazing book.  
+> I completely agree about the admiration for Speyer's book.  It's really quite extraordinary.  Deeply laced throughout with Paninian references (fully understood for their linguistic meaning) and showing a sensitive and original flair for translation and understanding of his examples.  Amazing book.  
 > 
-> Dominik​
+> Dominik
 > 
 > _______________________________________________
 > 

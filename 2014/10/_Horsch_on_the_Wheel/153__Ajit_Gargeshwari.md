@@ -39,7 +39,7 @@ wrote:
 > Today's Topics:
 >
 >    1.
-> ​​
+> 
 > Horsch on the Wheel (James Hegarty)
 >    2. Deadline for abstract submission for the next World Sanskrit
 >       Conference (Bangkok) extended to November 30 (Ute H?sken)

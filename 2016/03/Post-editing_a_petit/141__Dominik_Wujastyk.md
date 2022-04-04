@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2016-March/042780.
 
 Dear colleagues,
 
-Quite apart from the substantive issues​ being discussed relating to the
+Quite apart from the substantive issues being discussed relating to the
 Murty series editorship, I was puzzled by the procedural rules at
 Change.org.  After about four thousand people had signed the present
 petition, the name of the person who had started the petition was changed,
@@ -42,7 +42,7 @@ Subject: [Change.org Help Center] Re: post-editing a petition
 To: Wujastyk <wujastyk at gmail.com>
 
 
-*​C​*
+*C*
 *hange.org <http://hange.org> Help Center* (Change.org Help Center)
 
 Mar 1, 12:29 PM

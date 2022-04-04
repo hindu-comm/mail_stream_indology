@@ -20,7 +20,7 @@ Jahnabi
 
 
 -- 
-*JAHNABI BAROOAH​ CHANCHANI​*
+*JAHNABI BAROOAH CHANCHANI*
 Visiting Scholar
 Department of Asian Languages and Cultures
 University of Michigan, Ann Arbor

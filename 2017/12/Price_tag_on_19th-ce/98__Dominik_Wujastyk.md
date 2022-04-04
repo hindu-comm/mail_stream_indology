@@ -16,23 +16,23 @@ be used with caution in academic contexts.
 1|o1|/o1|//o1|///o1||o1||/o1||//o1||///o1|||o1|||/o1|||//o1|||///o2J2/o2//o
 2///o
 
-​
+
 --
 Professor Dominik Wujastyk <http://ualberta.academia.edu/DominikWujastyk>
-​,​
+,
 
 Singhmar Chair in Classical Indian Society and Polity
-​,​
+,
 
 Department of History and Classics <http://historyandclassics.ualberta.ca/>
-​,​
+,
 University of Alberta, Canada
-​.​
+.
 
 South Asia at the U of A:
 
-​sas.ualberta.ca​
-​​
+sas.ualberta.ca
+
 
 
 On 15 December 2017 at 13:38, Jacob Schmidt-Madsen via INDOLOGY <

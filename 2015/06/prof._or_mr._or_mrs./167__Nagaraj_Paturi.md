@@ -41,8 +41,8 @@ wrote:
 >
 >> I'm terribly sorry!  You're absolutely right!  I was looking at the wrong
 >> email header.  Please accept my apologies.
->> ​
->> ​Dominik Wujastyk​
+>> 
+>> Dominik Wujastyk
 >>
 >
 >

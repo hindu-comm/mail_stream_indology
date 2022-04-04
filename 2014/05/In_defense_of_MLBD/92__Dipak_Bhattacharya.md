@@ -18,7 +18,7 @@ DB
 On Tue, May 20, 2014 at 11:31 PM, Dominik Wujastyk <wujastyk at gmail.com>wrote:
 
 > On 20 May 2014 18:18, Dipak Bhattacharya <dipak.d2004 at gmail.com> wrote:
-> ​...​
+> ...
 >
 >
 >> My question is why should we not first recommend writing off Oldenberg's *Die
@@ -27,7 +27,7 @@ On Tue, May 20, 2014 at 11:31 PM, Dominik Wujastyk <wujastyk at gmail.com>wrote:
 >> the Universities?
 >>
 >
-> ​Why not, indeed?  I think it would be very good if Indian universities
+> Why not, indeed?  I think it would be very good if Indian universities
 > used more up-to-date text books!  I am always saddened when I read the
 > anti-aryan-invasion people arguing against Max Müller.  It's like Don
 > Quixote tilting at windmills.   Almost nobody outside India has read

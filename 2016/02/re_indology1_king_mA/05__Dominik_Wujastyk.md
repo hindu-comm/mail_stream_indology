@@ -16,7 +16,7 @@ to hearers.  It would be even better if your MS read "canekhorālaṃkāra".
 Best,
 Dominik
 
-​
+
 
 
 -------------- next part --------------

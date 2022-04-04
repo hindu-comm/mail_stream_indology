@@ -6,19 +6,19 @@ upstream_url = "https://list.indology.info/pipermail/indology/2014-November/0402
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2014-November/040274.html)
 
-​Oops, typo​:
+Oops, typo:
 
 On 25 November 2014 at 19:54, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 
 > Dear colleagues,
-> ​...
+> ...
 > Penguin Books India (as it was then) also published a book of mine, *The
 > Roots of India*, in their Penguin Classics series.
-> ​...​
+> ...
 >
 
-That should be "​Roots of Ayurveda."​
-​DW​
+That should be "Roots of Ayurveda."
+DW
 
 
 -------------- next part --------------

@@ -11,7 +11,7 @@ wrote:
 
 >
 
-​Announcements from publishers promoting their publications are *strictly
+Announcements from publishers promoting their publications are *strictly
 deprecated* on the INDOLOGY list.
 
 We all know and respect MLBD.  There is no need to publicise their
@@ -24,7 +24,7 @@ Please, please respect the guidelines of the forum
 Dominik Wujastyk
 INDOLOGY committee.
 
-​
+
 
 
 -------------- next part --------------

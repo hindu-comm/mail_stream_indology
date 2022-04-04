@@ -19,12 +19,12 @@ Il giorno 14/gen/2014, alle ore 14.10, Dominik Wujastyk ha scritto:
 > 
 > See also question two, in the Unicode normalization FAQ: "NFC is the best form for general text, since it is more compatible with strings converted from legacy encodings."
 > 
-> ​Best,
-> Dominik​
+> Best,
+> Dominik
 > 
 > --
-> ​See also.
-> ​
+> See also.
+> 
 > 
 > --
 > Dr Dominik Wujastyk

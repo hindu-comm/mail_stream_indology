@@ -8,10 +8,10 @@ upstream_url = "https://list.indology.info/pipermail/indology/2017-September/046
 
 Forwarded at the request of Professor Anantanand Rambachan.
 
-​Kind regards,
- WS​
+Kind regards,
+ WS
 
-​
+
 
 
 ---------- Forwarded message ----------

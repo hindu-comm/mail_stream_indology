@@ -19,10 +19,10 @@ indology at list.indology.info> wrote:
 
 > Can anyone answer Julian Brescanu's query below?
 >
-> ​Kindly send answers to Brescanu directly (and cc here if you wish).
+> Kindly send answers to Brescanu directly (and cc here if you wish).
 >
 > Best,
-> INDOLOGY committee​
+> INDOLOGY committee
 >
 >
 >

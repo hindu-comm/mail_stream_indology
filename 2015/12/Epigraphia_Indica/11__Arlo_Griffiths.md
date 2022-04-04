@@ -21,7 +21,7 @@ A kind soul, Vishvas Vasuki, has placed scans of all vols. of EI at archive.org
 
 https://archive.org/details/epigraphia-indica
 
--- D​W​
+-- DW
 
 
 

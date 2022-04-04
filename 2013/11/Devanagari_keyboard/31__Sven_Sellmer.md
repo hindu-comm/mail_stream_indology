@@ -35,7 +35,7 @@ Am 13.11.2013 um 18:02 schrieb James Hartzell <james.hartzell at GMAIL.COM>:
 >> 
 >> There is also an exact clone of the straightforward Mac OS X "Devanagari-QWERTY" keyboard layout that I ported to Windows several years ago. It's available for download at http://www.ubcsanskrit.ca/keyboards.html, which also includes instructions and images for the layout.
 >> 
->> ​Regards​
+>> Regards
 >> 
 >> 
 >> On Wed, Nov 13, 2013 at 3:57 PM, James Hartzell <james.hartzell at gmail.com> wrote:

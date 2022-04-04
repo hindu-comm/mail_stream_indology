@@ -39,7 +39,7 @@ are unaware of Sanskrit scholarship and Sanskrit scholars in India?
 On 23 April 2016 at 03:10, Dominik Wujastyk <wujastyk at gmail.com> wrote:
 
 >
-> ​
+> 
 >
 > _______________________________________________
 > INDOLOGY mailing list

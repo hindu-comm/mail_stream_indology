@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2018-July/047920.h
 
 Dear scholars,
 
-We are ​delighted to inform you that Amrita Darshanam — International
+We are delighted to inform you that Amrita Darshanam — International
 Centre for Spiritual Studies, in association with *Nārivāda*, Indira Gandhi
 National Centre for the Arts (IGNCA), is organizing a three-day national
 workshop on “*Śakti Worship in India*” from September 21 to 23, 2018 at

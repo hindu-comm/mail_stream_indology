@@ -8,7 +8,7 @@ upstream_url = "https://list.indology.info/pipermail/indology/2013-October/03840
 
 mightn't the sindūra synonyms be some sort of corruption from gandha- or
 gandhaka- (sulphur compounds are red)?
-​
+
 
 
 -------------- next part --------------
