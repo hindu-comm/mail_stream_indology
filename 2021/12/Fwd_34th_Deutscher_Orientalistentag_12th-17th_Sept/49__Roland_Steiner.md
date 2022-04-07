@@ -1,0 +1,123 @@
++++
+title = "49 Roland Steiner"
+date = "2021-12-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055579.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-December/055579.html)
+
+
+---------- Forwarded message ----------
+
+From: "Härtel, Stefan" <stefan.haertel at fu-berlin.de>
+Date: Thu, 23 Dec 2021 15:07:04 +0100
+Subject: 34th Deutscher Orientalistentag 12th-17th September 2022
+
+
+Berlin, 22.12.2021
+
+34th Deutscher Orientalistentag 12th-17th September 2022
+
+Dear colleagues,
+
+the 34th Deutscher Orientalistentag (DOT) will take place at the Freie  
+Universität Berlin from 12th to 17th September 2022. It will mark the  
+100th anniversary of this prestigious event of the Deutsche  
+Morgenländische Gesellschaft. On this occasion, we are welcoming Jan  
+Assmann and Ronit Ricci as keynote speakers.
+
+This DOT will introduce a “Digital Humanities” workshop in which  
+current digital projects can be presented simultaneous to the regular  
+section programme.
+
+The registrations are developing well. We also currently have 70 panel  
+registrations. Nevertheless, the organisation committee is aware that  
+the pandemic situation still leads to uncertainties which can make the  
+decision whether to participate or not difficult. We therefore would  
+like to make explicit that in case of a cancellation, there will be a  
+full refund of paid fees.
+
+The individual deadlines have been modified following an observation  
+of the developments:
+
+*Submission of panels will be possible until 10.01.2022. These are to  
+be sent via e-Mail to dot2022 at fu-berlin.de. We can only consider panel  
+submissions that have at least three confirmed participants. We ask  
+for the registration of the individual participants at  
+https://www.conftool.pro/dot2022/ where additionally, the individual  
+abstracts are to be uploaded with a notice which panel they belong to.  
+Further panel participants can register until 31.01.2022.
+
+*The submission of abstracts is possible until 31.01.2022. These are  
+to be uploaded using an account registered at  
+https://www.conftool.pro/dot2022/. Abstracts are limited to 250 words.
+
+*The “Early Bird” registration fees of €120/€60 (reduced) are valid  
+until 31.01.2022.
+
+*Normal registration fees of €150/€75 (reduced) are valid from 01.02.  
+to 30.06.2022.
+
+*Registration with a late fee of €180/€100 (reduced) is possible from  
+01.07. until the start of the conference.
+
+The sections and their heads are:
+
+African Studies (Tom Güldemann)
+Ancient Oriental Studies (Eva Cancik-Kirschbaum)
+Arabistics (Beatrice Gründler)
+Caucasian Studies (Manana Tandaschwili)
+Central Asian Studies (Abdurishid Yakup)
+Christian Orient (Helen Younansardaroud)
+Digital Humanities (Alberto Cantera Glera, Beatrice Gründler)
+Egyptology and Coptology (Tonio Sebastian Richter)
+Indo-European Studies (Matthias Fritz, Michael Meier-Brügger)
+Indology and South Asian Studies (Ingo Strauch)
+Iranian Studies (Alberto Cantera Glera, Christoph U. Werner)
+Islam in Europe (Schirin Amir-Moazami)
+Islamic Studies (Birgit Krawietz, Florian Zemmin)
+Japanology (Cornelia Reiher)
+Jewish, Hebrew and Old Testament Studies (Lukas Mühlethaler)
+Korean Studies (Eun-Jeung Lee)
+Manuscriptology (Konrad Hirschler)
+Material Culture, Art History and Archaeology (Stefan Weber)
+Philosophy (Peter Adamson)
+Politics, History, Economy and Society of the Middle East (Ulrike  
+Freitag, Cilja Harders, Sophia
+Hoffmann, André Peter Weißenfels)
+Semitistics (Shabo Talay)
+Sinology Christian Meyer)
+South East Asian Studies (Claudia Derichs)
+Turkology and Ottoman Studies (Elke Hartmann)
+We are looking forward to your participation.
+
+Further information can be found at: https://dot2022.de/en/
+
+Organisationskomittee/Organisational Committee
+Alberto Cantera Glera, Beatrice Gründler, Eun-Jeung Lee, Shabo Talay
+
+Projektkoordination/Project Coordination
+Stefan Härtel
+Freie Universität Berlin
+Fachbereich Geschichts- und Kulturwissenschaften
+Institut für Iranistik der Freien Universität Berlin
+Fabeckstr. 23-25 (Raum 1.1022)
+14195 Berlin
+
+mcc Agentur für Kommunikation
+Bülowstr. 66, Aufgang D1
+10783 Berlin
+https://www.mcc-events.de
+
+Kontakt
+dot2022 at fu-berlin.de
+https://dot2022.de
+
+----- Ende der weitergeleiteten Nachricht -----
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: DOT_Schreiben22122022.pdf
+Type: application/pdf
+Size: 233365 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20211223/aa7a147c/attachment.pdf>

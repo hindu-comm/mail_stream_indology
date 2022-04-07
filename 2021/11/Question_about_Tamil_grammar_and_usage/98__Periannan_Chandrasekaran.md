@@ -1,0 +1,372 @@
++++
+title = "98 Periannan Chandrasekaran"
+date = "2021-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055507.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-November/055507.html)
+
+Dear Prof. Hock
+Greetings.
+
+Some corrections are in order and I hope they are coming not all
+that belatedly.
+In the set a,  in the second sentence, the indirect object  phrase
+*kōyilukku.p
+*would not be repeated.
+
+             *avarkaḷ           mutalil             kōyilukku
+       pōvarkaḷ*
+
+they                 first                 temple.dat      go.fut.3pl.mf
+
+*kōyilukku.p     pōy-i                pūcai               ceyvārkaḷ*
+
+                      go-cvb             worship           do.fut.3pl.mf
+
+
+And with the third sentence also the direct object phrase *pūcai* would not
+be repeated as well   and
+
+  then, as Dr.Palaniappan has already pointed out here in this thread, the
+converb would also take different form like *ceytuviṭṭu *
+
+where the past adverbial form of the auxiliary verb *viṭu* is appended to
+the past adverbial form of the main verb to add a perfective aspect [Lehmann
+1993:209, 271
+<https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Dravidian/Tamil%2C%20A%20Grammar%20of%20Modern%20%28Lehmann%29.pdf>
+]
+
+Moreover normally a temporal adverb like *appu**ṯam* (or *appu**ṯantā*ṉ
+with the emphatic clitic *tā**ṉ *[Lehman 1993:158]) would be added as well
+with a stress on its leading syllable to indicate the finality.
+
+*pūcai               cey-tu  **ceytuviṭṭu *                  *appu**ṯam* *
+                               kaṭaikku.p       pōvārkaḷ         …*
+
+worship           do-cvb+-finish-past-adverbial-participle (having done
+that)   then-ADV                     shop.dat         go.fut.3pl.mf
+
+
+
+Regards
+Periannan Chandrasekaran
+
+
+On Sun, Sep 26, 2021 at 5:09 AM a.murugaiyan <a.murugaiyan at wanadoo.fr>
+wrote:
+
+> Dear Professor HH , Greetings!
+>
+>  In addition to Dr Palaiappan’s remarks, I would like to add few more
+> information.
+>
+> The converb (conjunctive participle, absolutive, adverbial participle)
+> construction in Tamil (and in Dravidian) is used in a clause with several
+> propositions, representing ‘successive’ actions (verbs), except the last
+> verb, which is a finite one.
+>
+> The CONV constructions in Tamil involves several different discourse
+> (semantic, pragmatic) functions like, succession, completion, consequence
+> etc, depending mainly on the discourse context.
+>
+> The ‘subject’ is deleted if the same ‘subject’ is involved in such
+> successive actions. There is no any constraint on the ‘subject’. The
+> ‘subject’ need not to be identical and can be inanimate.
+>
+>
+>
+> appā
+>
+> paṇam
+>
+> koṭuttu
+>
+> aṇṇaṉ
+>
+> kaṭai.kku
+>
+> pōy
+>
+> kāy
+>
+> vāṅki
+>
+> father
+>
+> money
+>
+> give.CONV
+>
+> elder brother
+>
+> shop.DAT
+>
+> go.CONV
+>
+> vegetable
+>
+> buy.CONV
+>
+>
+>
+> piṟagu
+>
+> ammā
+>
+> camaittu
+>
+> cāppiṭṭōm
+>
+> after
+>
+> mother
+>
+> cook.CONF
+>
+> eat.PAST.1.PL
+>
+>
+>
+> “Father gave money, elder brother went to the shop and bought vegetables
+> then mother cooed (the food) and we all ate (had our dinner).”
+>
+> Most importantly, the converb construction is used involving successive
+> actions. This structure is part of the upper-level discourse structures.
+> That’s why Dr Palaniappan suggested the introduction of completive
+> auxiliary and adverbials.
+>
+> The sentence a) though grammatically well-formed sounds incomplete at the
+> discourse pragmatic level. The sentence in a) can appear in, at least, two
+> different structures:
+>
+> a-1. Let us imagine, the sentence describes some regular activities. In a
+> sequence of propositions (actions), the first series of sequences need, as
+> Dr Palaniappan mentioned, a completive auxiliary. Without the completive
+> auxiliary, the previous actions seem to stand in an adverbial relation but
+> does not imply the sequence of successive actions.
+>
+> In a normal conversation:
+>
+> avarkaḷ   kōyilukku*       p**ō**yi pūcai       **ceytu.viṭṭu**
+> kaṭaikku.p       pōvārkaḷ        *
+>
+> In narratives or one in a story-telling situation, each previous verb is
+> repeated as a converb as in your example. In this context too the
+> completive AUX is needed.
+>
+>
+>
+> Further, the use of *mutalil* (first) implies, contextually, that ‘going
+> to temple’ and ‘performing pooja’ are preliminary conditions ‘to go to the
+> shop’. Therefore, with reference to ‘*mutalil’*, there should be another
+> adverb like, for example, ‘piṟaku’ “afterwards” to finish the proposition
+> in harmony.
+>
+> Your example b) may be starred as you suggest. This is not because the
+> ‘subjects’ are not identical. But as I mentioned above, pragmatically and
+> semantically the previous actions have to be marked in completive aspect.
+>
+> The example c) with INF and the particle –um (ceyy-a-um) raises another
+> problem as this construction implies a completely a different meaning. In
+> Tamil, INF-um implies actions of ‘immediate sequence’ or ‘immediate
+> consequence’, for example,
+>
+> pōlis varavum tiruṭaṉ ōṭiviṭṭāṉ ‘as the police arrived the thief ran away’
+>
+>
+>
+> pōlis
+>
+> varavum
+>
+> tiruṭaṉ
+>
+> ōṭiviṭṭāṉ
+>
+> police
+>
+> come.INF.um
+>
+> thief
+>
+> run.AUX.3MS
+>
+>
+>
+> To conclude tentatively, in my opinion, all the three examples a, b & c
+> are ‘morpho syntactically’ correct. However, at the discourse pragmatic
+> level they sound problematic. I am afraid that the sentences are a perfect
+> translation into Tamil of some English examples. Please forgive me if I am
+> wrong.
+>
+>
+> Typologically in tail-head linkage constructions, languages use CONVERB
+> constructions. Nevertheless, the CONV in Tamil has an array of meanings
+> depending on the discourse context.
+>
+> Thanks for raising this interesting question. This deserves honestly more
+> corpus-based studies.
+>
+> With my Best regards.
+> Murugaiyan
+>
+>
+> Le 23/09/2021 à 23:03, Sudalaimuthu Palaniappan via INDOLOGY a écrit :
+>
+> Dear Hans,
+>
+>
+>
+> In normal day-to-day interaction, to convey the meaning intended by the
+> English sentences, the sentence 3 in (a) should have the verb ‘ceytuviṭṭu’
+> to denote the completion of the ‘doing’ action.  Sentence 3 in (b) should
+> have the word for ‘after’ as in ‘ceyta piṉ’. Otherwise, it might give the
+> meaning that ‘we’ worshipped them and took them to the shop. Sentence 3 in
+> (c) would give the meaning that we will take them to the shop to worship
+> too (may be, some priests are being invited to the inauguration of a shop,
+> where the priests have to offer worship in addition to buying stuff!)
+>
+>
+>
+> Hope this helps.
+>
+>
+>
+> Regards,
+>
+> Palaniappan
+>
+>
+>
+>
+>
+> *From: *INDOLOGY <indology-bounces at list.indology.info>
+> <indology-bounces at list.indology.info> on behalf of Indology List
+> <indology at list.indology.info> <indology at list.indology.info>
+> *Reply-To: *"Hock, Hans Henrich" <hhhock at illinois.edu>
+> <hhhock at illinois.edu>
+> *Date: *Thursday, September 23, 2021 at 11:57 AM
+> *To: *Indology List <indology at list.indology.info>
+> <indology at list.indology.info>
+> *Subject: *[INDOLOGY] Question about Tamil grammar and usage
+>
+>
+>
+> Dear Tamil-specialists,
+>
+>
+>
+> I would appreciate your enlightening me on the following issue
+>
+>
+>
+> Tamil is reported to have discourse-linkage structures such as the one in
+> (a) below, in which the final verb of an earlier sentence is resumed in the
+> form of a converb (or conjunctive participle) at the beginning of the next
+> sentence. In such structures the [+ human] subjects of the converb and the
+> main verb of the sentence have to be identical.
+>
+> I understand that, as a consequence, structures like the third line of (b)
+> are unacceptable, because the subject of *cey-tu* and *celvōm* are human
+> and not identical. Would the use of the infinitive *ceyy-a *± ‑*um* as in
+> (c) improve the sentence or even make it grammatical?
+>
+> Hoping that some of you will be able to answer my question,
+>
+>
+>
+> I remain with best wishes to all,
+>
+>
+>
+> Hans Henrich Hock
+>
+>
+>
+> a.           *avarkaḷ           mutalil             kōyilukku
+> pōvarkaḷ*
+>
+> they                 first                 temple.dat      go.fut.3pl.mf
+>
+> *kōyilukku.p     pōy-i                pūcai               ceyvārkaḷ*
+>
+> temple.dat      go-cvb             worship           do.fut.3pl.mf
+>
+> *pūcai               cey-tu              kaṭaikku.p       pōvārkaḷ
+> …*
+>
+> worship           do-cvb             shop.dat         go.fut.3pl.mf
+>
+> ‘They will first go the temple; having gone to the temple, they will
+> worship; having worshipped, they will go to the shop …’
+>
+>
+>
+> b.           *avarkaḷ           mutalil             kōyilukku
+> pōvarkaḷ*
+>
+> they                 first                 temple.dat      go.fut.3pl.mf
+>
+> *kōyilukku.p     pōy-i                pūcai               ceyvārkaḷ*
+>
+> temple.dat      go-cvb             worship           do.fut.3pl.mf
+>
+> *(avarkaḷ)         pūcai               cey-tu              nāṅkaḷ
+>            avarkaḷai        kaṭaikku         *
+>
+> they                 worship           do-cvb
+> we                   them                shop.dat
+>
+> *ar̤aittu.c          celvōm** …*
+>
+> pick.up.cvb     go.fut.1pl
+>
+>  ‘They will first go the temple; having gone to the temple, they will
+> worship; they having worshipped, we will take them to the shop …’
+>
+>
+>
+> c.           *avarkaḷ           mutalil             kōyilukku
+> pōvarkaḷ*
+>
+> he.pl.mf.nom  first                 temple.dat      go.fut.3pl.mf
+>
+> *kōyilukku.p     pōy-i                pūcai               ceyvārkaḷ*
+>
+> temple.dat      go-cvb             worship           do.fut.3pl.mf
+>
+> *(avarkaḷ)         pūcai               ceyy-a(-v.um)  nāṅkaḷ
+>  avarkaḷai        kaṭaikku          *
+>
+> they                 worship           do-inf               we
+>       them
+>
+>       shop.dat
+>
+> *ar̤aittu.c           celvōm …*
+>
+> pick.up.cvb     go.fut.1pl
+>
+>  ‘They will first go the temple; having gone to the temple, they will
+> worship; they having worshipped, we will take them to the shop …’
+>
+>
+>
+> _______________________________________________ INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+> _______________________________________________
+> INDOLOGY mailing listINDOLOGY at list.indology.infohttps://list.indology.info/mailman/listinfo/indology
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20211125/fa5e7a27/attachment.htm>

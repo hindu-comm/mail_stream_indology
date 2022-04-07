@@ -1,0 +1,52 @@
++++
+title = "35 Jim Ryan"
+date = "2021-09-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055172.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-September/055172.html)
+
+Victor, Guy, Dan,
+
+Thanks for your responses. I, of course, was looking for possible “pseudo-etymologies” for the name “Pāṇini,” thinking there may be one (or more) like there is for Patañjali (the yogin). But, interestingly, conditioned by my teacher some years ago, Frances Wilson, I always go first to Apte’s dictionary. Frances disdained Monier-Williams because it gave the words in transliteration and not in Devanāgarī! Apte in this case was unhelpful. I usually, anyway, always look at Monier-Williams aside Apte for things, as both dictionaries contain items the other doesn’t. But, obviously, I didn’t do my back-up work in this case. 
+
+Still wondering if there may be mythological stories about Pāṇini and, now, his family line. A double patronymic. Would this mean then, that his grandfather is Pāṇin?
+
+Victor, some of what you’ve posted I cant’ decipher because I don’t know Pānini well enough, his “code-words” for forms and categories. But part of it, seems to basically spell out what Guy and Dan were pointing out, it seems.
+
+Jim
+
+> On Sep 12, 2021, at 12:30 PM, victor davella <vbd203 at googlemail.com> wrote:
+> 
+> Dear Jim,
+> 
+> I've pasted below two derivations given in commentaries to the Prakriyākaumudī or Rāmacandra; the first is by Viṭṭhala in his Prasāda (p. 3 of the first volume) and the second (spanning two portions) is by Kṛṣṇa Śeṣa in his Prakāśa (pp. 8ff. of the first volume). The former text can be downloaded here <https://drive.google.com/drive/folders/1YrjVLXHkqneSwwEjNzWK2vx_CNfA-sHn?usp=sharing>.  The latter, here <https://drive.google.com/drive/folders/1NysQ-LteMaqetcAjSKp3QnnxbxOLyLYU?usp=sharing>. Hope that's helpful.
+> 
+> All the Best,
+> Victor
+> 
+> 
+> <image.png>
+> 
+> <image.png>
+> <image.png>
+> 
+> On Sun, Sep 12, 2021 at 7:00 PM Jim Ryan via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+> Hi,
+> 
+> I'm curious if there are any creative etymologies or mythological explanations for the name “Pāṇini.” I don’t recall encountering any over the years. The word itself seems to be neuter in gender (if we assume an “in” suffix) and therefore somewhat unusual in designating a person.
+> 
+> Jim Ryan
+> Asian Philosophies and Cultures (Emeritus)
+> California Institute of Integral Studies
+> 1453 Mission St.
+> San Francisco, CA 94103
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> https://list.indology.info/mailman/listinfo/indology <https://list.indology.info/mailman/listinfo/indology>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210913/238833be/attachment.htm>

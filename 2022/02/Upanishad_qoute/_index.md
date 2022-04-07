@@ -1,0 +1,4 @@
++++
+title = "Upanishad qoute"
+
++++

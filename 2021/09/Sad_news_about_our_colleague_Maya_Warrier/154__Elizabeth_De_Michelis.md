@@ -1,0 +1,27 @@
++++
+title = "154 Elizabeth De Michelis"
+date = "2021-09-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055280.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-September/055280.html)
+
+Dear All,
+I copy below a message circulated by Suzanne Newcombe on the RISA-L list. 
+I was so sorry to hear the news of Maya's passing, she was a delightful person and a sincere, capable and dedicated scholar.We hope to circulate a fuller acknowledgement soon.
+With all good wishes
+Elizabeth De Michelis
+
+.....
+
+It with sadness that I write to let the community know that Maya Warrier has died after a long illness. 
+
+She was Reader in Religious Studies at the University of Winchester until her retirement in 2020 (previously at The University of Wales, Lampeter). Her research explored popular Hindu traditions in modern transnational contexts. Her last research projects focused on Ayurveda (the ancient Indian system of medicine) in the UK.
+She was a thoughtful and dedicated colleague, whose methodological and kind attention to her subject area and mentoring younger scholars will be very much missed.
+If you'd like to leave a message and small donation in her honour, her husband has suggested that people donate to one of her favourite charities, Great Ormond Street Children's Hospital in London - https://www.justgiving.com/remember/907273/Maya-Warrier
+With best wishes, 
+
+Suzanne Newcombe
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210928/18eb4880/attachment.htm>

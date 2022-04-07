@@ -1,0 +1,53 @@
++++
+title = "87 Allen Thrasher"
+date = "2021-12-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055604.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-December/055604.html)
+
+ If the particular work of art shows a large piercing or rather a hole in the ear, it must intend to communicate that he used to have large and heavy earrings, which he renounced. This does not necessarily mean that his ears were not also naturally pinayata.
+Allen
+    On Thursday, December 30, 2021, 05:43:16 PM EST, Andrew Nicholson via INDOLOGY <indology at list.indology.info> wrote:  
+
+ Dear colleagues,
+I've been asked to review some scripts for an educational website, and in their presentation of Buddhism they spend an inordinate amount of time (in my opinion) on the Buddha's earlobes. Describing a Gupta period statue, they write:
+
+"His earlobes are very long to remind us that he grew up wearing heavy earrings.. . Siddhartha was born a prince, and the artist depicted him as having long earlobes to remind us that he gave up his wealth, including heavy jewelry, on his journey to reach enlightenment."
+
+
+
+
+I've seen this claim before. My question: is there any pre-modern text that describes his ears in these specific terms, or is it a modern interpretation? 
+
+
+
+
+I'm familiar with lists of the 80 minor marks of the Buddha's body that include "ample and long ears" (pīnāyata-karṇau). But are his long ears thanks to his formerly wearing earrings, or was he born that way as he was with his long tongue, lump on his cranium, sheathed penis, etc.?
+
+
+
+
+Thanks, and happy new year!
+
+
+
+
+Andrew
+
+
+Andrew J. Nicholson, Ph.D. (he/him) 
+Associate Professor, Asian and Asian American Studies 
+Director, History of Philosophies East and West M.A. ProgramDirector, Minor in South Asian StudiesStony Brook University
+Stony Brook, NY 11794-5343 USA(631) 632-4030http://philosophicalrasika.com/
+Virtual office hours meeting room: https://stonybrook.zoom.us/j/7495611341 
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+https://list.indology.info/mailman/listinfo/indology
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20211231/9a3192f1/attachment.htm>

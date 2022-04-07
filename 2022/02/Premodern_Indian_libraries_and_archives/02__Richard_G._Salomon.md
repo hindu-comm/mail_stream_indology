@@ -1,0 +1,156 @@
++++
+title = "02 Richard G. Salomon"
+date = "2022-02-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055754.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-February/055754.html)
+
+You can also find some speculative remarks on (hypothetical) libraries in
+Buddhist Gandhara in my *Ancient Buddhist Scrolls from Gandhara* (1999), by
+looking up "libraries (in Buddhist monasteries)" in the index.
+
+Rich Salomon
+
+On Tue, Feb 1, 2022 at 2:00 AM Marco Franceschini via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear Christian,
+>
+> thank you for collecting together all the information that you received
+> and for circulating them to all of us!
+>
+> Best wishes,
+>
+> Marco
+> —
+>
+> Marco Franceschini
+> ———————————
+> Associate Professor
+> University of Bologna
+> Department of History and Cultures
+> marco.franceschini3 at unibo.it
+> https://www.unibo.it/sitoweb/marco.franceschini3/en
+> http://unibo.academia.edu/MarcoFranceschini
+> www.associazioneitalianadistudisanscriti.org
+> —
+>
+> Il giorno 1 feb 2022, alle ore 08:41, Christian Ferstl via INDOLOGY <
+> indology at list.indology.info> ha scritto:
+>
+> Dear Friends and Colleagues,
+>
+> many many thanks to everyone who answered my query - Timothy Cahill,
+> Charles DiSimone, Eli Franco, Matthew Kapstein, Suhas Mahesh, Jonathan
+> Silk, Péter-Dániel Szántó, and Herman Tull! I forward an impressing list of
+> your collected suggestions on the topic:
+>
+> - Gérard Fussman, "Dans quel type de bâtiment furent trouvés les
+> manuscrits de Gilgit?", in: Journal Asiatique, 292.1-2 (2004): 101-150;
+> - Martin Delhey, The Library at the East Indian Buddhist Monastery of
+> Vikramaśīla: an Attempt to Identify Its Himalayan Remains, in: Manuscript
+> Cultures 8 (2015): 1-24;
+> - O.v. Hinüber: The Gilgit Manuscripts. An Ancient Buddhist Library in
+> Modern Research: Introduction, in: From Birch Bark to Digital Data: Recent
+> Advances in Buddhist Manuscript Research, ed. Paul Harrison and Jens-Uwe
+> Hartmann, Vienna 2013.
+> - Gregory Schopen: On the absence of Urtext and Otiose Ācāryas: Books,
+> Buildings, and Lay Buddhist Ritual at Gilgit, in: Gérard Colas and Gerdi
+> Gerschheimer (eds.), Écrire et transmettre en Inde classique. (École
+> française d'Extrême-Orient. Études thématiques 23) Paris 2009;
+> - Ludo Rocher, in: Journal of the American Oriental Society 131 (2011):
+> 133-135;
+> - Jahnabi Barooah Chanchani, "History from the Margins: Literary Culture
+> and Manuscript Production in Western India in the Vernacular Millennium,"
+> Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript
+> Studies, Volume 6, Number 2, Fall 2021, pp. 197-222 (
+> https://www.academia.edu/67281775/History_from_the_Margins_Literary_Culture_and_Manuscript_Production_in_Western_India_in_the_Vernacular_Millennium
+> );
+> - Noriyuki Kudo, "On and around the Gilgit Manuscripts in the National
+> Archives of India", in: The Journal of Oriental Studies 29 (2019): 168–181;
+> - Muni Jambuvijay (ed.), A catalogue of manuscripts in Jaisalmer Jain
+> Bhandaras, Delhi 2000;
+> - Bimal Kumar Datta, Libraries and Librarianship of Ancient and Medieval
+> India (
+> https://archive.org/details/librariesandlibrarianshipofancientandmedievalindiabimalkumardatta_794_o/page/n5/mode/2up
+> );
+> - Jeremiah Losty, Art of the Book in India (
+> https://archive.org/details/artofthebookinindiajeremiahlostyp.bookonprintinghistory_705_f/page/74/mode/2up
+> );
+> - Barua Pulinbihari, Monastic Libraries in Ancient India as depicted in
+> Buddhist and Jaina texts (
+> https://shodhganga.inflibnet.ac.in/handle/10603/156523?mode=full);
+> - Kavīndrācārya List: A list of books in the private library of the famous
+> Kavīndrācārya Sarasvatī (~1600 CE) (
+> https://archive.org/details/kavindracaryasuc00kaviuoft);
+> - Christopher Minkowski, "Sanskrit Scientific Libraries and Their Uses:
+> Examples and Problems of the Early Modern Period", in: F. Bretelle and C.
+> Proust (eds.), Looking at it from Asia: The Processes that shaped the
+> sources of the History of Science,  Boston Studies in Philosophy of Science
+> 206 (2010): 81-114.
+>
+> Yours,
+> Christian
+>
+> Am 31.01.2022 11:49, schrieb Matthew Kapstein:
+>
+> Dear Christian,
+> I recall that Gerard Fussmann had some interesting reflections on the
+> Gilgit manuscripts in this respect, but I cannot locate the reference
+> just now. Perhaps if this jogs the memory of someone else on the list,
+> it can be located.
+> I do hope that you post the results of this query to the list as a
+> whole - it is a most important topic.
+> best regards,
+> Matthew
+> Matthew Kapstein
+> Directeur d'études, émérite
+> Ecole Pratique des Hautes Etudes, Paris
+> Numata Visiting Professor of Buddhist Studies,
+> The University of Chicago
+> https://brill.com/view/title/60949
+> https://ephe.academia.edu/MatthewKapstein
+> -------------------------
+> From: INDOLOGY <indology-bounces at list.indology.info> on behalf of
+> Christian Ferstl via INDOLOGY <indology at list.indology.info>
+> Sent: Monday, January 31, 2022 4:39 AM
+> To: Indology <indology at list.indology.info>
+> Subject: [INDOLOGY] Premodern Indian libraries and archives
+> Dear Friends and Colleagues,
+> on behalf of an MA student I would like to ask whether you can
+> recommend
+> literature on ancient Indian libraries and archives, their
+> organisation,
+> structure, storage etc. in courts, monasteries and in private.
+> Thanks in advance,
+> Christian Ferstl
+> University of Vienna
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220201/e20c2a3c/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Zaky.jpg
+Type: image/jpeg
+Size: 3287 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20220201/e20c2a3c/attachment.jpg>

@@ -1,0 +1,178 @@
++++
+title = "49 Hamsa Stainton"
+date = "2021-08-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055115.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-August/055115.html)
+
+Dear Antonia,
+
+
+
+I don’t think anyone has mentioned yet the mnemonic for remembering the
+names of the 3-syllable gaṇas for the analysis of meters:
+*yamātārājabhānasalagaḥ* (or I’ve also seen *yamātārājabhānasalagā*). Thus,
+‘ya’ is the name for a light-heavy-heavy triad, ‘ma’ for heavy-heavy-heavy,
+and so on. I’ve always found it very useful, and my students have too.
+
+
+
+Best wishes,
+
+Hamsa
+
+
+-
+
+Hamsa Stainton
+
+Assistant Professor
+
+Chair, Graduate Admissions and Fellowships
+
+School of Religious Studies
+
+McGill University
+
+On Tue, Aug 24, 2021 at 10:58 PM Krishnaprasad G via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> There are n number of mnemonics in Bhaimi Vyakhya, luckily has the index
+> for same. For instance :writing रेफ in devanagari is always confusing for
+> students.
+> So here is 2 verses
+> *अचं दृष्ट्वा ह्यधो याति *
+> *हशश्चोपरि गच्धति।*
+> *अवसाने विसर्गः स्याद् *
+> *रेफस्य त्रिविधा गतिः॥*
+>
+> *तुम्बिकातृणकाष्ठं च *
+> *तैलं जलमुपागतम्।*
+> *स्वभावादूर्ध्वमायाति *
+> *रेफस्यैतादृशी गतिः॥*
+>
+> On Wed, Aug 25, 2021, 2:11 AM adheesh sathaye via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear Madhav,
+>>
+>> Yes, certainly - thanks for the corrections, was typed in haste!
+>>
+>> best wishes,
+>> Adheesh
+>>
+>> On Aug 24, 2021, at 10:41, Madhav Deshpande <mmdesh at umich.edu> wrote:
+>>
+>> A few corrections to your citation, Adheesh:
+>>
+>> उक्ता वसन्ततिलका तमजा जागौ गः > उक्ता वसन्ततिलका त*भ*जा *ज*गौ गः
+>>
+>> Madhav M. Deshpande
+>> Professor Emeritus, Sanskrit and Linguistics
+>> University of Michigan, Ann Arbor, Michigan, USA
+>> Senior Fellow, Oxford Center for Hindu Studies
+>> Adjunct Professor, National Institute of Advanced Studies, Bangalore,
+>> India
+>>
+>> [Residence: Campbell, California, USA]
+>>
+>>
+>> On Tue, Aug 24, 2021 at 9:53 AM adheesh sathaye via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>>> Dear Colleagues,
+>>>
+>>> In this regard, has anyone mentioned the mnemonic verses to remember the
+>>> various meters, like उक्ता वसन्ततिलका तमजा जागौ गः । (found in the Appendix
+>>> A of Apte)?
+>>> The only silly mnemonic device I can think of at the moment is that my
+>>> students once called the ninth gaṇa the “nānī” gaṇa.
+>>>
+>>>
+>>> With best wishes,
+>>> adheesh
+>>> —
+>>> Adheesh Sathaye
+>>> University of British Columbia
+>>>
+>>>
+>>>
+>>>
+>>> > On Aug 23, 2021, at 11:22, Christian Ferstl via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>> >
+>>> > Dear all,
+>>> >
+>>> > are there really no other mnemonics or are they perhaps too childish
+>>> to post them on this list?  I also like to use the verse rāmo rājamaniḥ
+>>> etc., but rather in order to recall the order and numbering of vibhaktis.
+>>> > Is there a common word for "mnemonic" in Sanskrit?
+>>> >
+>>> > Christian
+>>> >
+>>> >
+>>> > Am 20.08.2021 19:56, schrieb sellmers--- via INDOLOGY:
+>>> >> Dear Antonia,
+>>> >> I use the verse rāmo rājamaniH ... for the masc.sg. forms of the -a
+>>> >> declension.
+>>> >> Best wishes,
+>>> >> Sven
+>>> >> Am 20.08.21 um 19:26 schrieb Antonia Ruppel via INDOLOGY
+>>> >> Von: "Antonia Ruppel via INDOLOGY" <indology at list.indology.info>
+>>> >> Datum: 20. August 2021
+>>> >> An: "Indology" <indology at list.indology.info>
+>>> >> Cc:
+>>> >> Betreff: [INDOLOGY] Sanskrit mnemonics?
+>>> >> Dear all,
+>>> >> Whenever I've learnt a language in a classroom setting, we'd get
+>>> >> mnemonics to help us remember word forms or uses. (I am thinking of
+>>> >> things like 'after si, nisi, num, ne, all the ali's fly away', or 'If
+>>> >> one shwa by another is hounded, the first is silent, the second
+>>> >> sounded.')
+>>> >> Do any of you have any such mnemonics (no matter how silly - or dare I
+>>> >> say: the sillier, the better?) for Sanskrit? So far I only have
+>>> >> minuscule things like reminding students of Har*e* Kṛṣṇa (for
+>>> >> the vocative of i-stems), and also verses like
+>>> >> gurureva gatirgurumeva bhaje guruṇaiva sahāsmi namo gurave |
+>>> >> na guroḥ paramaṃ śiśurasmi gurormatirastu gurau mama pāhi guro
+>>> >> ||
+>>> >> If you have anything you use that works well with your students, I'd
+>>> >> be grateful if you were willing to share it. I'll happily sum up
+>>> >> everything I get in an email to the List.
+>>> >> Many thanks, as always,
+>>> >>    Antonia _______________________________________________ INDOLOGY
+>>> >> mailing list INDOLOGY at list.indology.info
+>>> >> https://list.indology.info/mailman/listinfo/indology
+>>> >> _______________________________________________
+>>> >> INDOLOGY mailing list
+>>> >> INDOLOGY at list.indology.info
+>>> >> https://list.indology.info/mailman/listinfo/indology
+>>> >
+>>> > _______________________________________________
+>>> > INDOLOGY mailing list
+>>> > INDOLOGY at list.indology.info
+>>> > https://list.indology.info/mailman/listinfo/indology
+>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> https://list.indology.info/mailman/listinfo/indology
+>>>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> https://list.indology.info/mailman/listinfo/indology
+>>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210825/291c58df/attachment.htm>

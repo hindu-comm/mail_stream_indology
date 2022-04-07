@@ -1,0 +1,108 @@
++++
+title = "08 Timothy Cahill"
+date = "2021-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055523.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-December/055523.html)
+
+The quality of the uploaded scan might have something to do with it.  But
+(more likely) the standards of some Tims are higher than those of other
+Tims.
+Best,
+Tim
+
+On Wed, Dec 1, 2021 at 9:51 AM Lubin, Tim <LubinT at wlu.edu> wrote:
+
+> I have found that SanskritCR misses far too many underdots (i.e., not even
+> rendering with cedillas) to be useful.  My bad luck?
+>
+>
+>
+> Tim Lubin
+>
+>
+>
+> *From: *INDOLOGY <indology-bounces at list.indology.info> on behalf of
+> INDOLOGY <indology at list.indology.info>
+> *Reply-To: *Tim Cahill <tccahill at loyno.edu>
+> *Date: *Wednesday, December 1, 2021 at 10:47 AM
+> *To: *Harry Spier <vasishtha.spier at gmail.com>
+> *Cc: *INDOLOGY <indology at list.indology.info>
+> *Subject: *Re: [INDOLOGY] OCR for sanskrit transliteration
+>
+>
+>
+> Dear Harry,
+>
+>    The O - Sanskrit CR (pronounced "Seer") also does a tolerably good job
+> --so you can clean up the output by replacing its umlauts with macrons, its
+> cedillas with dots, etc., as global replacements.  (Just as Diego
+> suggested.)
+>
+>    BTW,  S. Veṅkaṭarāma Śāstri's English translation of the Bālarāmāyaṇa
+> is now available on archive.org
+> <https://nam11.safelinks.protection.outlook.com/?url=http%3A%2F%2Farchive.org%2F&data=04%7C01%7Clubint%40wlu.edu%7Cb169b4852f9347f8f8c208d9b4e1efab%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637739704755642107%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=7iOKwera4LfE29F4XUW%2BrxgGDj04PGzzy0ttO46MwAU%3D&reserved=0>
+>
+> Best wishes,
+>
+> Tim Cahill
+>
+>
+>
+> On Wed, Dec 1, 2021 at 8:38 AM Harry Spier via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Dear list members,
+>
+> Can someone point me to a good on-line tool to OCR sanskrit
+> transliteration (english transliteration not devanagari).
+>
+> Thanks,
+>
+> Harry Spier
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+> <https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flist.indology.info%2Fmailman%2Flistinfo%2Findology&data=04%7C01%7Clubint%40wlu.edu%7Cb169b4852f9347f8f8c208d9b4e1efab%7Cd1a80622a99943e58eb67873905e939e%7C1%7C0%7C637739704755642107%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=W87vtZXl3oNW5aTwJPEFRgenyvy0HKuxxpCuzRjhtBw%3D&reserved=0>
+>
+>
+>
+>
+> --
+>
+> Timothy C. Cahill, PhD
+>
+> स:, तम्, तेन, तस्मै, तस्मात्, तस्य, तस्मिन्
+>
+> Associate Professor
+>
+> Department of Religious Studies
+>
+> Loyola University New Orleans
+>
+> 6363 St. Charles Ave.
+>
+> New Orleans, Louisiana  70118
+>
+> USA
+>
+>
+>
+
+
+-- 
+Timothy C. Cahill, PhD
+स:, तम्, तेन, तस्मै, तस्मात्, तस्य, तस्मिन्
+Associate Professor
+Department of Religious Studies
+Loyola University New Orleans
+6363 St. Charles Ave.
+New Orleans, Louisiana  70118
+USA
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20211201/62aea10a/attachment.htm>

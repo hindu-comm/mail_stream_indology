@@ -1,0 +1,52 @@
++++
+title = "124 Matthew Kapstein"
+date = "2022-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055736.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-January/055736.html)
+
+Dear Christian,
+
+I recall that Gerard Fussmann had some interesting reflections on the Gilgit manuscripts in this respect, but I cannot locate the reference just now. Perhaps if this jogs the memory of someone else on the list, it can be located.
+
+I do hope that you post the results of this query to the list as a whole - it is a most important topic.
+
+best regards,
+Matthew
+
+Matthew Kapstein
+Directeur d'études, émérite
+Ecole Pratique des Hautes Etudes, Paris
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+
+https://brill.com/view/title/60949
+
+https://ephe.academia.edu/MatthewKapstein
+
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Christian Ferstl via INDOLOGY <indology at list.indology.info>
+Sent: Monday, January 31, 2022 4:39 AM
+To: Indology <indology at list.indology.info>
+Subject: [INDOLOGY] Premodern Indian libraries and archives
+
+Dear Friends and Colleagues,
+
+on behalf of an MA student I would like to ask whether you can recommend
+literature on ancient Indian libraries and archives, their organisation,
+structure, storage etc. in courts, monasteries and in private.
+
+Thanks in advance,
+Christian Ferstl
+
+University of Vienna
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info
+https://list.indology.info/mailman/listinfo/indology
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220131/e8c966b1/attachment.htm>

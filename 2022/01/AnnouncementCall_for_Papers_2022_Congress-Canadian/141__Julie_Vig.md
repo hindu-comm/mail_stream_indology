@@ -1,0 +1,66 @@
++++
+title = "141 Julie Vig"
+date = "2022-01-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055742.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-January/055742.html)
+
+Dear Indology List subscribers,
+
+
+We are writing to announce that CSASA, the Canadian South Asian Studies Association, will hold its first annual meeting on May 12, 2022, at the Federation’s Annual Congress, Canada’s largest academic gathering. The full Call for Papers (CFP) is available here: https://sites.google.com/view/csasa-acesa-congress-2022/home
+
+
+Please email submissions to csasa.acesa at gmail.com<mailto:csasa.acesa at gmail.com> by Monday February 28, 2022, 23:59 EST.
+
+
+For any questions, please contact the members of the Congress 2022 Organising Committee below.
+
+
+Please save the date and forward this announcement widely!
+
+
+With best wishes,
+
+Julie Vig, on behalf of the Organising Committee
+
+
+
+Julie Vig, York University
+
+CSASA President
+
+Congress Programme Co-Chair
+
+julievig at yorku.ca<mailto:julievig at yorku.ca>
+
+
+
+Andrea Pinkney, McGill University
+
+CSASA Treasurer and Vice-President
+
+Congress Programme Co-Chair
+
+andrea.pinkney at mcgill.ca<mailto:andrea.pinkney at mcgill.ca>
+
+
+
+Sloane Geddes, University of Toronto
+
+Congress Convenor
+
+kathryn.geddes at mail.utoronto.ca<mailto:kathryn.geddes at mail.utoronto.ca>
+
+
+Tim Lorndale, University of Pennsylvania
+
+Congress Convenor
+
+tlorn at sas.upenn.edu<mailto:tlorn at sas.upenn.edu>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220131/2d1720f4/attachment.htm>

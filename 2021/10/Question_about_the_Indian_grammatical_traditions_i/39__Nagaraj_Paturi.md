@@ -1,0 +1,122 @@
++++
+title = "39 Nagaraj Paturi"
+date = "2021-10-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055345.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-October/055345.html)
+
+Thanks, Prof. Hock. I was looking for this reference.
+
+
+
+On Thu, Oct 14, 2021 at 2:41 AM Hock, Hans Henrich via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear All,
+>
+> There is also a paper of mine dealing with the impact of Sanskrit phonetic
+> traditions on western phonetics –
+>
+> The Sanskrit phonetic tradition and western phonetics. In: Sanskrit and
+> development of world thought, ed. by Vempaty Kutumba Sastry. 53-80. New
+> Delhi: Rasthriya Sanskrit Sansthan and D.K. Printworld, 2014.
+>
+> All the best,
+>
+> Hans Henrich
+>
+>
+> On 13 Oct2021, at 08:41, Ananya Vajpeyi via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Hi Brendan, if I may,
+>
+> I wrote an MPhil dissertation on this subject at Oxford many years ago. I
+> didn't publish it, but if you put your student in touch with me I can help
+> with readings etc.
+>
+> Best wishes,
+>
+> Ananya.
+>
+>
+>
+> On Wed, Oct 13, 2021 at 2:54 AM Brendan S. Gillon, Prof. via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Dear colleagues and friends,
+>>
+>> I have an undergraduate student interested in getting a better
+>> understanding on the impact of the Indian grammatical tradition on 19th
+>> century philology and early 20th century linguistics. I would be
+>> grateful to receive some suggestions of books and article he, and I for
+>> that matter, might read.
+>>
+>> Best wishes,
+>>
+>> Brendan
+>>
+>> --
+>>
+>> Brendan S. Gillon                       email: brendan.gillon at mcgill.ca
+>> Department of Linguistics
+>> McGill University                       tel.:  001 514 398 4868
+>> 1085, Avenue Docteur-Penfield
+>> Montreal, Quebec                        fax.:  001 514 398 7088
+>> H3A 1A7  CANADA
+>>
+>> webpage: http://webpages.mcgill.ca/staff/group3/bgillo/web/
+>> <https://urldefense.com/v3/__http://webpages.mcgill.ca/staff/group3/bgillo/web/__;!!DZ3fjg!rrP-edtDMUXbUSYXlxO7UtxsCS23WWRCOK0t9xpyvZArxBhYCKsAlR_WIfrN7aA-Wg$>
+>>
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> https://list.indology.info/mailman/listinfo/indology
+>> <https://urldefense.com/v3/__https://list.indology.info/mailman/listinfo/indology__;!!DZ3fjg!rrP-edtDMUXbUSYXlxO7UtxsCS23WWRCOK0t9xpyvZArxBhYCKsAlR_WIfqpYD6frA$>
+>>
+>
+>
+> --
+> *Ananya Vajpeyi*
+> https://www.csds.in/ananya_vajpeyi
+> <https://urldefense.com/v3/__https://www.csds.in/ananya_vajpeyi__;!!DZ3fjg!rrP-edtDMUXbUSYXlxO7UtxsCS23WWRCOK0t9xpyvZArxBhYCKsAlR_WIfqzOobhzw$>
+>
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+>
+> https://urldefense.com/v3/__https://list.indology.info/mailman/listinfo/indology__;!!DZ3fjg!rrP-edtDMUXbUSYXlxO7UtxsCS23WWRCOK0t9xpyvZArxBhYCKsAlR_WIfqpYD6frA$
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+
+
+-- 
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+Director, Indic Academy
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+BoS Kavikulaguru Kalidasa Sanskrit University, Ramtek, Maharashtra
+BoS Veda Vijnana Gurukula, Bengaluru.
+Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+BoS Rashtram School of Public Leadership
+Editor-in-Chief, International Journal of Studies in Public Leadership
+Former Senior Professor of Cultural Studies,
+FLAME School of Communication and FLAME School of  Liberal Education,
+Hyderabad, Telangana, INDIA.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20211014/417132aa/attachment.htm>

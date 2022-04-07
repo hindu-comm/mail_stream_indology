@@ -1,0 +1,39 @@
++++
+title = "84 Sven Sellmer"
+date = "2021-09-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055211.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-September/055211.html)
+
+On a Mac, BBEdit does "grep" multifile search. 
+
+Best wishes,
+Sven
+
+> Am 17.09.2021 um 13:30 schrieb Harry Spier via INDOLOGY <indology at list.indology.info>:
+> 
+> 
+> Most good text editors have both a "find in files" feature that allows you to search in multiple files or whole directories at a time and also have a "regular expressions" feature that allow you to do what you call "grep" searchs.  I use notepad++ on windows but I can't give you the name of a text editor for Mac as I'm not a Mac user.  The Muktabodha digital library searchable etext library has that feature built in, but only for use on its searchable etext collection.
+> Harry Spier
+> 
+> 
+> On Fri, Sep 17, 2021 at 7:19 AM Krishnaprasad G via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+> Dear all
+> Is there any readymade tool for using the Grep command for Sanskrit text string for multiple files?
+> 
+> Thanks
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+> https://list.indology.info/mailman/listinfo/indology <https://list.indology.info/mailman/listinfo/indology>
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210917/1101e9b6/attachment.htm>

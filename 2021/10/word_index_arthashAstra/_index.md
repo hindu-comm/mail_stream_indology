@@ -1,0 +1,4 @@
++++
+title = "word index Arthaśāstra"
+
++++

@@ -1,0 +1,23 @@
++++
+title = "104 Harry Spier"
+date = "2021-11-29"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055514.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-November/055514.html)
+
+Dear list members,
+This link was given to me for online sanskrit OCR.
+https://ocr.sanskritdictionary.com/
+
+I don't recall if this has already been passed on to the list, but 've just
+tried it, pasting in some text from a Chaukhamba publication from the
+1980's and it converted it to text perfectly.  It was even smart enough to
+join words separated by a dash at the end of lines.
+
+I didn't see any credits on the website. Does anyone know who is
+responsible for this website?
+Harry Spier
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20211129/2f87de26/attachment.htm>

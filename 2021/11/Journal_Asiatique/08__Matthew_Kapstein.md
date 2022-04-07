@@ -1,0 +1,89 @@
++++
+title = "08 Matthew Kapstein"
+date = "2021-11-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055421.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-November/055421.html)
+
+Dear Raffaele,
+
+The situation is easily explained:
+
+The fossilized institution known as the Société Asiatique has yet to be made aware of the
+digital age.
+
+best regards,
+Matthew
+
+Matthew Kapstein
+Directeur d'études, émérite
+Ecole Pratique des Hautes Etudes, Paris
+
+Numata Visiting Professor of Buddhist Studies,
+The University of Chicago
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Raffaele Torella via INDOLOGY <indology at list.indology.info>
+Sent: Monday, November 1, 2021 2:52 PM
+To: Charles DiSimone <disimone at alumni.stanford.edu>
+Cc: Indology <INDOLOGY at list.indology.info>
+Subject: Re: [INDOLOGY] Journal Asiatique
+
+Dear Charles,
+thank you very much for your offer.
+Being visiting professor at the Jagiellonian in this semester, I am currently away from the library of my Department. I could easily ask our excellent librarian to provide me with a PDF of Renou’s article of 1953. But, in more general terms, I would like to know if (in some corner of the web) the collection of such an important journal can be found, or if, now and in the future, I should only rely on its hard copies.
+
+Warmly,
+Raffaele
+
+Il giorno 1 nov 2021, alle ore 16:14, Charles DiSimone <disimone at alumni.stanford.edu<mailto:disimone at alumni.stanford.edu>> ha scritto:
+
+Dear Prof. Torella,
+
+I had occasion to search for a many decades old issue of Journal Asiatique just this past week. Like you, I was not able to find any issues from between 1940–1999 easily available online. However, I was pleased to learn that my university library at Ghent seems to have an extensive collection of back issues and they swiftly scanned the article I needed. If the library in Rome does not have the issue you need in its collection please let me know and I will have it scanned for you.
+
+With my kind regards,
+Charles
+
+Dr. Charles DiSimone
+Department of Languages and Cultures
+Ghent University
+
+
+On Mon, Nov 1, 2021 at 4:01 PM Raffaele Torella via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+Dear Colleagues,
+is there a site from which I can download post-1939 issues of Journal Asiatique?
+
+Grazie mille,
+Raffaele Torella
+
+
+Prof. Raffaele Torella
+Chair of Sanskrit
+Sapienza University of Rome
+https://wwwuniroma1.academia.edu/raffaeletorella
+
+
+
+
+
+
+________________________________________________________
+Le informazioni contenute in questo messaggio di posta elettronica sono strettamente riservate e indirizzate esclusivamente al destinatario. Si prega di non leggere, fare copia, inoltrare a terzi o conservare tale messaggio se non si è il legittimo destinatario dello stesso. Qualora tale messaggio sia stato ricevuto per errore, si prega di restituirlo al mittente e di cancellarlo permanentemente dal proprio computer.
+The information contained in this e mail message is strictly confidential and intended for the use of the addressee only.  If you are not the intended recipient, please do not read, copy, forward or store it on your computer. If you have received the message in error, please forward it back to the sender and delete it permanently from your computer system.
+________________________________
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+
+
+________________________________________________________
+Le informazioni contenute in questo messaggio di posta elettronica sono strettamente riservate e indirizzate esclusivamente al destinatario. Si prega di non leggere, fare copia, inoltrare a terzi o conservare tale messaggio se non si è il legittimo destinatario dello stesso. Qualora tale messaggio sia stato ricevuto per errore, si prega di restituirlo al mittente e di cancellarlo permanentemente dal proprio computer.
+The information contained in this e mail message is strictly confidential and intended for the use of the addressee only.  If you are not the intended recipient, please do not read, copy, forward or store it on your computer. If you have received the message in error, please forward it back to the sender and delete it permanently from your computer system.
+________________________________
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20211101/ba359301/attachment.htm>

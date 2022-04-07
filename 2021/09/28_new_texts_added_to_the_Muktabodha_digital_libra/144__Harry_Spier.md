@@ -1,0 +1,102 @@
++++
+title = "144 Harry Spier"
+date = "2021-09-26"
+upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055270.html"
+
++++
+[Archive link](https://list.indology.info/pipermail/indology/2021-September/055270.html)
+
+ Dear list members,
+
+The following 28 texts have been added to the Muktabodha searchable etext
+library.
+Direct link:
+https://muktalib7.com/DL_CATALOG_ROOT/digital_library_secure_entry.htmall
+
+These are ritual manuals, all transcribed from the Nepal German Manuscript
+Cataloguing Project (NGMCP,) and include one buddhist text.
+The Muktabodha searchable etext library now contains over 100 transcribed
+manuscripts from the NGMCP project.
+
+1) amṛteśvaradīkṣāvidhi transcribed from NGMCP manuscript 5-4867 Reel no: A
+231/17
+
+2) aṣṭamātṛkāpūjā transcribed from NGMCP manuscript 1/596 Reel no: A 436/7
+
+3) dakṣiṇakālīpūjāpaddhati transcribed from NGMCP manuscript 4-2660 Reel
+No: B 187/18
+
+4) dhvajārohaṇavarṣavarddhanavidhi transcribed from NGMCP manuscript 1-735
+Reel No: A 240/15
+
+5) dīkṣāvidhi transcribed from NGMCP manuscript pra. 736 Reel No: A 39/12
+
+6) dīpayādavidhi transcribed from NGMCP manuscript 1-1696/807 Reel No: A
+239/14
+
+7) durgānityārcanakrama transcribed from NGMCP manuscript 5-6785 Reel No: B
+368/28
+
+8) kāmeśvarīpūjā transcribed from NGMCP manuscript 5-397 Reel No: 5-397
+
+9) kubjikāguhyeśvarīpūjāpaddhati transcribed from NGMCP manuscript
+1-1696/2247
+
+10) kubjikāgurumaṇḍalapūjā transcribed from NGMCP manuscript 1-1696/1642
+
+11) kubjikāpūjā transcribed from NGMCP manuscript 1-1696/1750
+
+12) kubjikāsamanivāṇadikṣāvidhi transcribed from NGMCP manuscript 4-132
+Reel no: 4-132
+
+13) kubjikāṣṭāviṁśatikarmārcana transcribed from NGMCP manuscript 5-1891 B
+181/18
+
+14) mahāpratyaṅgirā (buddhist text) transcribed from NGMCP manuscript 4-346
+B 107/13
+
+15) mṛtyuñjayapūjāpaddhati transcribed from NGMCP manuscript 1642 A 455/14
+
+16) mṛtyuñjayanityārcanavidhi transcribed from NGMCP manuscript 1/462 Reel
+no: B 195/19
+
+17) navapīṭhāṣṭamātṛkārādhanavidhi transcribed from NGMCP manuscript 1-764
+Reel no: A 241/5
+
+18) ṣaḍāmnāyapūjāvidhi transcribed from NGMCP manuscript 5/1932 Reel no: A
+248/40
+
+19) nirvāṇaguhyakālīpūjā transcribed from NGMCP manuscript 5-2378 Reel no:
+B 189/8
+
+20) paścimāmnāyāṣṭāviṁśatikramārcanam transcribed from NGMCP manuscript
+8/961 Reel no: B 190/38
+
+21) pīṭhapūjāvidhi transcribed from NGMCP manuscript 1/1081 Reel no: B
+191/12
+
+22) paścimāmnāyasamayadīkṣāvidhi transcribed from NGMCP manuscript 4/204
+Reel no: A 243/11
+
+23) pratyaṁgirāpūjāvidhi transcribed from NGMCP manuscript pra 1696/1735
+Reel no: 192/2
+
+24) pūrvāmnāyanityadevārcanavidhi transcribed from NGMCP manuscript
+1-1696/462 Reel no: B 191/22
+
+25) revantapūjā transcribed from NGMCP manuscript 1-1696/2214 Reel No: A
+456/46
+
+26) samayadīkṣādhivāsanavidhi transcribed from NGMCP manuscript 1-1078 Reel
+No: 1-1078
+
+27) siddhilakṣmyadhivāsanasthaṇḍilārcanavidhi transcribed from NGMCP
+manuscript 1/171 Reel no: 1/727
+
+28) paścimajyeṣṭhāmnāyakarmārcanapaddhati transcribed from NGMCP Reel no:
+190/39
+
+Harry Spier
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20210926/513b9f7f/attachment.htm>
