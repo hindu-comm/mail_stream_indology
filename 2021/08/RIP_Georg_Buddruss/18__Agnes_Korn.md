@@ -2,7 +2,6 @@
 title = "18 Agnes Korn"
 date = "2021-08-16"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055062.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055062.html)
 

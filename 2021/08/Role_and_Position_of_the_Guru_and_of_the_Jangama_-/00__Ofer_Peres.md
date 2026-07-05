@@ -2,7 +2,6 @@
 title = "00 Ofer Peres"
 date = "2021-08-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055048.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055048.html)
 

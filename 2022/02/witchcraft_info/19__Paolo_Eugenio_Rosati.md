@@ -2,7 +2,6 @@
 title = "19 Paolo Eugenio Rosati"
 date = "2022-02-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055771.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055771.html)
 

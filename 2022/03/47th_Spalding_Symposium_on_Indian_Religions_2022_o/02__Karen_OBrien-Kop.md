@@ -2,7 +2,6 @@
 title = "02 Karen O'Brien-Kop"
 date = "2022-03-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055873.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055873.html)
 

@@ -1,0 +1,531 @@
++++
+title = "10 Walter Slaje"
+date = "2026-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2026-April/061952.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2026-April/061952.html)
+
+If I may be permitted to add this brief postscript:
+
+
+
+In his statistical analysis, the author of the aforementioned dissertation
+concludes that Kalhaṇa uses approximately 10,000 different words in his
+Rājataraṅgiṇī (Stein edition), which comprises around 100,000 words. In
+doing so, Kalhaṇa employs 1,728 distinct finite verb forms, which, due to
+repeated usage, occur a total of 8,232 times. The active verb repertoire of
+Kalhaṇa is constituted by verbs formed from 297 verbal roots and
+denominatives, numbering 753 when including prefixes. Consequently, it
+would signify an authentic inventory of forms in 12th-century Sanskrit
+verbal conjugation, yet it would surpass the customary lexicon of the
+spoken language.
+
+So far Jachertz (1986).
+
+
+
+Kalhaṇa was a Mahākavi. It may be hypothesised that the complex and
+intricate metres of *kāvya* require greater verbal dexterity than ordinary
+anuṣṭubhs, and that this fact also explains the necessity of the
+comparatively frequent formation of the passive aorist. However, this is
+not the case. For Kalhaṇa, the Anuṣṭubh is the predominant metre, employed
+in a natural and fluid manner, with other metres chosen for specific
+reasons only (for details, see Bernhard Kölver: Textkritische und
+philologische Untersuchungen zur Rājataraṅgiṇī des Kalhaṇa. Wiesbaden 1971,
+pp. 89–103).
+
+
+
+>From a purely metrical perspective, there is therefore no significant
+difference from the epic and purāṇic texts, so that metre can hardly be
+decisive for the phenomenon of the passive aorist. In terms of both form
+and diction, however, Kalhaṇa displays a quite distinct linguistic style.
+
+
+In my view, the discrepancy in the matter under discussion can probably be
+explained by the different literary and intellectual milieus from which
+these authors (kavis, śāstris, bards, etc.) came and by whose
+characteristic language and forms of expression they were each profoundly
+shaped.
+
+Regards, WS
+
+Am Fr., 17. Apr. 2026 um 10:00 Uhr schrieb Dermot Killingley via INDOLOGY <
+indology at list.indology.info>:
+
+> I think Walter has put his finger on a point about rarity and frequency.
+> I've noticed before that kāvya writers, and presumably their intended
+> readership (which did not include second-year students!) like rare
+> grammatical forms, and they also like rare words, so what is rare elsewhere
+> becomes somewhat frequent in kāvya — not very frequent, however, because
+> there are other rare forms and rare words to choose from.
+>
+> I've found this exchange of observations very interesting.
+>
+> Dermot
+>
+> ------------------------------
+> *From:* INDOLOGY <indology-bounces at list.indology.info> on behalf of
+> Walter Slaje via INDOLOGY <indology at list.indology.info>
+> *Sent:* 16 April 2026 15:21
+> *To:* Christophe Vielle <christophe.vielle at uclouvain.be>
+> *Cc:* Indology List <indology at list.indology.info>
+> *Subject:* Re: [INDOLOGY] a question about the āśīrliṅ
+>
+>
+> ⚠ External sender. Take care when opening links or attachments. Do not
+> provide your login details.
+> Dear Christophe,
+>
+> thank you! This enlarges my collection. I found the juxtaposition "of the
+> *rarely* used" aorist passive with the phrase "it is *frequently* met
+> with" to be a intriguing subject :-). Because I fear we are falling into a
+> cliché here. It is probably all down to the genre. In Kāvya, one cannot
+> really speak of ‘rarity’ in this regard, whereas in epic-Purāṇic and Bhāṣya
+> Sanskrit, one presumably can. It seems to be a matter of generalising a
+> probably too often cited rarity and applying it without further ado to all
+> types of text.
+>
+> Best wishes, Walter
+>
+> Am Do., 16. Apr. 2026 um 15:57 Uhr schrieb Christophe Vielle <
+> christophe.vielle at uclouvain.be>:
+>
+> Dear Walter,
+>
+> This abundance of usage is also found with the (9th c.?) Keralan poet Vāsudeva
+> to whom are ascribed four *yamaka-k**āvyas *(see Kunjunni Raja, CKSL pp.
+> 19-30
+> <https://archive.org/details/swcr_the-contribution-of-kerala-sanskrit-literature-by-k.-k.-raja-1980-university-of-madras/page/18/mode/2up>
+> ).
+> Here attached the page from Suneson's ed. of the *Śaurikathodaya* listing
+> the aorist passive forms in this work. Like the * Yudhiṣṭhiravijaya *and
+> *Tripuradahana*, the *Nalodaya* possibly also by the same displays
+> several examples too, see for instance 1.2 below with no less than two
+> forms.
+>
+> yo ’jani nāgopītaś  cacāra yo vallavāṅganāgopītaḥ |
+>
+> bhūr yenāgopītaḥ  kaṃsād yo dveṣam eva nāgo ’pītaḥ || NaU_1.2 ||
+>
+> yaḥ – ajani – nā – agopītaḥ – cacāra – yaḥ – vallava+aṅganā-go-pītaḥ —
+> bhūḥ – yena – agopi – itaḥ – kaṃsāt – yaḥ –dveṣam – eva – na – āgaḥ – api –
+> itaḥ | NaU_pch_1.2 |
+>
+> *ya* eṣa bhagavān *agopīto* vasudevabhāryāyā devakyākhyāyā na yaśodāyā
+> gopyā nandagopagṛhiṇyā * nā* puruṣo *’jani* prādurbhūtaḥ, *yaś* ca
+> *cacāra* parivavṛte * vallavāṅganāgopītaḥ* - vallavavadhūnāṃ gopīnāṃ
+> gobhir netraiḥ pītaḥ parītaḥ sānurāgaṃ kaṭākṣitaḥ, yad uktaṃ śaurikathodaye
+> (1,2): “papuś ca gopyo dṛśā yadūrvābhogam” iti; *yena* ca *bhūḥ* pṛthivy
+> *agopi* rakṣitā, *yaś* ca *ito* ’smāt *kaṃsād* devakībhrātuḥ kṛṣṇamātulād
+> *dveṣam* aprītim *eva* kevalam, *na* tv *āgo* ’parādhaṃ pratyakṣam
+> abhighātam *api*, *itaḥ* prāptaḥ | NaU_ad_1.2 |
+> Best wishes,
+>
+> Christophe
+>
+>
+>
+> [image: IMG_7854.jpg]
+>
+> Le 16 avr. 2026 à 15:00, Walter Slaje via INDOLOGY <
+> indology at list.indology.info> a écrit :
+>
+> Just a brief follow-up comment on the ‘rarity’ of the passive aorist.
+> Personally, it did not strike me as being really that rare, but without an
+> objective basis I did not wish to remark on it. In the meantime, however, I
+> extracted instances of the passive aorist from Thomas Jachertz’s
+> dissertation “Das finite Verbum in Kalhaṇas Rājataraṅgiṇī alphabetisch und
+> nach Wurzelparadigmata geordnet” (Cologne 1986) and noted a surprising
+> abundance of such usage in Kalhaṇa. A subsequent, mere cursory search among
+> also his successors Jonarāja (JRT), Śrīvara (ŚRT) and Śuka (ŚuRT) revealed
+> that the passive aorist remained in ordinary use from the 12th well into
+> the 16th century:
+>
+> āji (aj) 1x
+> āśi (aś) 2x; ŚRT
+> āpi (āp) 12x
+> eṣi (iṣ) 3x
+> aikṣi (īkṣ) 1x
+> akāri (kṛ) 7x; JRT, ŚRT, ŚuRT
+> agāmi (gam) 1x; ŚuRT
+> agrāhi (gṛh) 8x; JRT
+> acchedi (chid) 1x
+> ajani (jan) 1x; ŚRT; ŚuRT
+> ajñāyi (jñā) 15x; ŚRT, ŚuRT
+> [atyāji (tyaj) ŚRT]
+> adāyi (dā) 4x
+> adhāyi (dhā) 5x; ŚRT
+> [adhāri (dhṛ) JRT]
+> apādi (pad) 1x
+> abhoji (bhuj) 2x
+> abhāvi (bhū) 5x; JRT
+> amāyi (mā) 2x
+> amoci (muc) 1x
+> ayoji (yuj) 4x
+> arambhi (rambh) 3x
+> alekhi (likh) 1x
+> avāci (vac) 1x
+> avādi (vad) 4x
+> avadhi (vadh) 2x
+> avāri (vṛ) 1x
+> aśāsi (śās) 1x
+> aśrāvi (śru) 1x; JRT, ŚRT
+> aṣedhi (sidh) 1x
+> astambhi (stambh) 1x
+> asnāyi (snā) 3x; JRT; ŚuRT
+> asvāpi (svap) 1x; JRT;
+> aghāni (han) 1x
+> ahāsi (has) 1x
+> ahāri (hṛ) 1x
+>
+> Regards, WS
+>
+> Am So., 22. März 2026 um 13:34 Uhr schrieb Uskokov, Aleksandar <
+> aleksandar.uskokov at yale.edu>:
+>
+> The benedictive is taught in Deshpande. In my teaching practice at an
+> American university, student will not be introduced to it in the
+> introductory course, along with other rare forms like the passive of the
+> aorist; they WILL learn in when first encountered in a text, which is
+> likely to happen in high intermediate, for instance in a course on Vedic,
+> or advanced Sanskrit.
+>
+> Best wishes
+> Aleksandar
+>
+> Get Outlook for iOS <https://aka.ms/o0ukef>
+> ------------------------------
+> *From:* INDOLOGY <indology-bounces at list.indology.info> on behalf of
+> Walter Slaje via INDOLOGY <indology at list.indology.info>
+> *Sent:* Sunday, March 22, 2026 8:16:58 AM
+> *To:* Matthew Kapstein <mattkapstein at proton.me>
+> *Cc:* Indology List <indology at list.indology.info>
+> *Subject:* Re: [INDOLOGY] a question about the āśīrliṅ
+>
+> Inspired by David Reigle’s insightful article, which suggests that it is
+> unlikely to encounter the benedictive in Sanskrit programs at (presumably
+> American?) universities,* I decided to browse through some German-language
+> textbooks.
+> The benedictive mood is evidently taught there, but most thoroughly by
+> Bühler.** He, in turn, draws on Kielhorn’s grammar, where the rules of
+> benedictive formations are described in great detail (§§ 380–385).***
+>
+>
+> What is interesting here, particularly regarding the question of whether
+> *vīkṣ**ī**ṣīraṃs* could be a variant worth considering at all, is that
+> both authors explicitly point out that the interposed vowel of *seṭ*-roots
+> in the Ātmanepada appears as a long -*ī*- exclusively in formations from
+> the root *grah* (e.g., *grah**ī**ṣīṣṭa*), but must otherwise always be
+> short (Kielhorn § 382c; Bühler p. 95, 20).
+>
+>
+> As if to confirm Riegle’s observation regarding the exclusion of the
+> benedictive from English-language Sanskrit programs and textbooks,
+> Perry—who otherwise bases his textbook strictly on Bühler and follows him
+> even in the exercises****—also excludes any treatment of the benedictive
+> with the following words:
+> “[...] it is so rare that its formation need not be explained here.” (p.
+> 188).
+>
+>
+> As said, this is merely an observation regarding trends in Sanskrit
+> textbooks from different scholarly traditions.
+>
+>
+> Regards,
+> WS
+>
+>
+> *
+> “It is possible to go through university Sanskrit programs without ever
+> encountering the benedictive. […] Readings in classical Sanskrit texts
+> typically follow this in the programs, so that unless one specifically
+> takes up Pāṇinian grammar (or Vedic texts, where a few benedictives do
+> occur), one is quite unlikely to encounter the benedictive.” (Reigle 1997,
+> p. 127).
+>
+>
+> **
+> *https://uvhw.de/studia-indologica/product/200922_08-228-8.html*
+> <https://uvhw.de/studia-indologica/product/200922_08-228-8.html>
+>
+>
+> ***
+> *https://uvhw.de/studia-indologica/product/200921_08-227-1.html*
+> <https://uvhw.de/studia-indologica/product/200921_08-227-1.html>
+>
+>
+> ****
+> “The Primer [...] is based upon an excellent little work by Professor
+> Georg Bühler of Vienna: Leitfaden für den Elementarcursus des Sanskrit,
+> Vienna 1883. I became acquainted with this book while in Germany, and after
+> using it with a class at Columbia College was convinced of its great
+> practical value.” (Preface to the 1936 edition).
+>
+>
+>
+>
+>
+>
+> Am Fr., 20. März 2026 um 10:48 Uhr schrieb Matthew Kapstein via INDOLOGY <
+> indology at list.indology.info>:
+>
+> Dear Harry,
+>
+> I was following the text given by Amano:
+> Abhisamayālaṃkārakārikāśāstravivṛti by Haribhadra. Skt.
+> ed. Koei H. Amano, Kyoto: Heirakujishoten, 2000.
+> and consulting the earlier editions as well.
+>
+> I think that the readings you find in GRETIL are simply typos and not
+> genuine variants.
+>
+> Matthew
+>
+> Matthew T. Kapstein
+> Professor emeritus
+> Ecole Pratique des Hautes Etudes, PSL Research University, Paris
+>
+> Associate
+> The University of Chicago Divinity School
+>
+> Member, American Academy of Arts and Sciences
+>
+> https://ephe.academia.edu/MatthewKapstein
+>
+> https://vajrabookshop.com/product/the-life-and-work-of-auleshi/
+>
+>
+> https://www.cornellpress.cornell.edu/book/9781501716218/tibetan-manuscripts-and-early-printed-books-volume-i/#bookTabs=1
+>
+>
+> https://www.cornellpress.cornell.edu/book/9781501771255/tibetan-manuscripts-and-early-printed-books-volume-ii/#bookTabs=1
+>
+> https://brill.com/edcollbook/title/60949
+>
+> Sent with Proton Mail <https://proton.me/mail/home> secure email.
+>
+> On Friday, March 20th, 2026 at 12:51 AM, Harry Spier <
+> vasishtha.spier at gmail.com> wrote:
+>
+> Dear list members,
+>
+> Matthew Kapstein and ( David Reigle using edition 1929 by Stcherbatsky and
+> Obermiller) spell the word as *vīkṣiṣīraṃs* . Same text in GRETIL
+> (different editions) spell it *vīkṣīṣīraṃ*s and *vīkṣiṣiraṃs*
+>
+> Are these misprints or alternate spellings in GRETIL? *pratipatsīrann* is
+> spelled the same in these etexts
+>
+> *Matthew Kapstein and ( David Reigle)*
+>
+> sarvākārajñatāmārgaḥ śāsitrā yo'tra deśitaḥ|
+> dhīmanto vīkṣiṣīraṃs tam anālīḍhaṃ parair iti ||1||
+>
+> smṛtau cādhāya sūtrārthaṃ dharmacaryāṃ daśātmikām |
+> sukhena pratipatsīrann ity ārambhaprayojanam ||2||
+>
+> --------------------------
+>
+> *GRETIL abhisamayālaṃkaranāmaprajñāpāramitopadeśaśāstram*
+>
+>
+> https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_maitreyanAtha-abhisamayAlaMkaranAmaprajJApAramitopadezazAstra.htm
+> input by Christian Coseru (no source book given) has;
+>
+> sarvākārajñatāmārgaḥ śāsitrā yo 'tra deśita /
+>
+> dhīmantī vīkṣīṣīraṃstamanālīḍhaṃ parairiti // Abhs_1.1 //
+>
+> smṛtau cādhāya sūtrārthaṃ dharmacaryā daśātmikā /
+>
+> sūkhena pratipatsīrannityārambhaprayojanam // Abhs_1.2 //
+>
+> --------------------------------------
+>
+> GRETIL Abhisamayālaṃkāra https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhisamayAlaMkAra.htm
+> Data entry: members of the Digital Sanskrit Buddhist Canon Input Project
+> Based on the ed. by Ramsankar Tripathi: Abhisamayalankaravrttih Sphutartha.
+> Sarnath : Central Institute of Higher Tibetan Studies (CIHTS), 1977.
+> grānthārambhaprayojanam sarvākārajñatāmārgaḥ śāsitrā yo 'tra deśitaḥ /
+> dhīmanto vīkṣiṣiraṃstamanālīḍhaṃ parairiti // asa_1.2 //
+> smṛtau cādhāya sūtrārthaṃ dharmacaryāṃ daśātmikām /
+> sukhena pratipatsīrannityārambhaprayojanam // asa_1.3 //
+>
+> Harry Spier
+>
+>
+> On Thu, Mar 19, 2026 at 5:30 PM Matthew Kapstein via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Many thanks to all who replied on- and off-list. I am sorry that I was not
+> aware of David Reigle's paper, addressing my query so precisely,
+> beforehand, and I am grateful to him and to Asko Parpola for sharing it.
+> Walter Slaje's helpful remarks lend some support to my thought that the
+> benedictive form may have had an intentionally archaic nuance.
+>
+> Matthew
+>
+> Matthew T. Kapstein
+> Professor emeritus
+> Ecole Pratique des Hautes Etudes, PSL Research University, Paris
+>
+> Associate
+> The University of Chicago Divinity School
+>
+> Member, American Academy of Arts and Sciences
+>
+> https://ephe.academia.edu/MatthewKapstein
+>
+> https://vajrabookshop.com/product/the-life-and-work-of-auleshi/
+>
+>
+> https://www.cornellpress.cornell.edu/book/9781501716218/tibetan-manuscripts-and-early-printed-books-volume-i/#bookTabs=1
+>
+>
+> https://www.cornellpress.cornell.edu/book/9781501771255/tibetan-manuscripts-and-early-printed-books-volume-ii/#bookTabs=1
+>
+> https://brill.com/edcollbook/title/60949
+>
+> Sent with Proton Mail <https://proton.me/mail/home> secure email.
+>
+> On Thursday, March 19th, 2026 at 3:39 PM, Asko Parpola <aparpola at gmail.com>
+> wrote:
+>
+> Dear Matthew, David Reigle ha written a paper (attached) on these very two
+> occurrences of the benedictive.
+> With best wishes, Asko
+>
+> On Thu, Mar 19, 2026 at 11:39 AM Matthew Kapstein via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+> Dear friends,
+>
+> In the opening verses (given below) of the *Abhisamayālamkāra-śāstra *(ASA),
+> an important Mahāyāna Buddhist treatise (said to have been revealed to
+> Asaṅga by the bodhisattva Maitreya), we find two instances of verbs that I
+> take to be examples of “precatives” or “benedictives” (*āśīrliṅ*) in the
+> middle voice (*ātmanepāda*) third person plural. Whitney (925) and
+> Macdonell (150) both flatly state that the precative middle, though current
+> in Vedic, does not occur in Classical Sanskrit. Renou (330-331) does not
+> affirm this categorically, but suggests that the *āśīrliṅ *(without
+> specifying voice) is commonly met with in kāvya and epigraphy, though
+> unknown to Buddhist usage. Edgerton, BHS Grammar, has nothing at all to say
+> about the *āśīrliṅ*, probably due to its absence in the corpus that he
+> consulted, though the ASA is not in any case written in “hybrid” Sanskrit;
+> its terminology is distinctly Buddhist, of course, but without peculiarly
+> BHS grammatical forms.
+>
+> Conze, in the vocabulary accompanying his summary translation of the ASA
+> (SOR VI) offers no grammatical analysis, but treats *vīkṣiṣīran* as an
+> aorist optative, “have been able to behold,” and *pratipatsīran* as a
+> future optative, “will be able to make progress.” (It seems simpler to me
+> to adopt a mildly benedictive reading of both, “that the wise may behold…
+> and that they may easily master…”)
+>
+> What I wish to ask the vyākaraṇa specialists, however, is whether I am
+> correct to take these verbs as middle voice *āśīrliṅ* third person
+> plural? And, if so, are there other instances, whether in Buddhist or
+> non-Buddhist works, that similarly call into question Whitney and
+> Macdonell’s assertions? I would welcome any other observations about this
+> apparently unusual form that you may be able to share. In particular, I am
+> wondering if it is plausible to take its use here as a deliberately
+> archaizing gesture.
+>
+>
+> sarvākārajñatāmārgaḥ śāsitrā yo'tra deśitaḥ|
+>
+> dhīmanto *vīkṣiṣīraṃs* tam anālīḍhaṃ parair iti ||1||
+>
+> smṛtau cādhāya sūtrārthaṃ dharmacaryāṃ daśātmikām |
+>
+> sukhena *pratipatsīrann* ity ārambhaprayojanam ||2||
+>
+> with thanks in advance for your observations and insights,
+> Matthew
+>
+> Matthew T. Kapstein
+> Professor emeritus
+> Ecole Pratique des Hautes Etudes, PSL Research University, Paris
+>
+> Associate
+> The University of Chicago Divinity School
+>
+> Member, American Academy of Arts and Sciences
+>
+> https://ephe.academia.edu/MatthewKapstein
+>
+> https://vajrabookshop.com/product/the-life-and-work-of-auleshi/
+>
+>
+> https://www.cornellpress.cornell.edu/book/9781501716218/tibetan-manuscripts-and-early-printed-books-volume-i/#bookTabs=1
+>
+>
+> https://www.cornellpress.cornell.edu/book/9781501771255/tibetan-manuscripts-and-early-printed-books-volume-ii/#bookTabs=1
+>
+> https://brill.com/edcollbook/title/60949
+>
+> Sent with Proton Mail <https://proton.me/mail/home> secure email.
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+>
+>
+> --
+> Asko Parpola, aparpola at gmail.com
+> http://www.helsinki.academia.edu/AskoParpola
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+>
+> –––––––––––––––––––
+> Christophe Vielle <https://www.uclouvain.be/en/people/christophe.vielle>
+> Louvain-la-Neuve
+>
+> [image: GraphiqueCollé-2.png]
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20260417/e46cd816/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: IMG_7854.jpg
+Type: image/jpeg
+Size: 3601500 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20260417/e46cd816/attachment.jpg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: GraphiqueColl?-2.png
+Type: image/png
+Size: 69832 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20260417/e46cd816/attachment.png>

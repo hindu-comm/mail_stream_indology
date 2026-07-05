@@ -1,0 +1,92 @@
++++
+title = "135 AJ Misra"
+date = "2025-03-31"
+upstream_url = "https://list.indology.info/pipermail/indology/2025-March/060424.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2025-March/060424.html)
+
+Dear colleagues:
+
+I am asking on behalf of a colleague who is not  a member of Indology
+listserv. I have excerpted his email below.
+
+──
+
+I’m writing to kindly ask whether you’ve come across, in Sanskrit—or any
+other South or East Asian—astronomical or primary sources, any description
+or reference to an astronomical instrument known in modern literature as an
+*equatorium*.
+
+
+
+I’m also wondering if you’ve seen any diagrams in Sanskrit texts that
+depict planetary models enclosed by a graduated ecliptic circle. For
+reference, I’ve attached two examples of such diagrams from Arabic and
+Persian sources.
+[image: image.png]
+[image: image.png]
+
+ ──
+
+I welcome any suggestions/comments on this.
+
+With kind regards,
+AJ
+--
+<https://www.mpiwg-berlin.mpg.de/research/departments/max-planck-research-group-astra>
+*Anuj MISRA*, Ph.D (he/him)
+*Max Planck Research Group Leader
+<https://www.mpiwg-berlin.mpg.de/people/amisra>*
+RG: Astral Sciences in Trans-Regional Asia (ASTRA
+<https://www.mpiwg-berlin.mpg.de/research/departments/max-planck-research-group-astra>
+)
+Max Planck Institute for the History of Science (MPIWG)
+Boltzmannstraße 22, 14195 Berlin, GERMANY
+
+Room 102, Harnackstraße 5
++49 30 22667 313
+amisra at mpiwg-berlin.mpg.de
+
+─ *in conjunction with*─
+
+*Professor of the History of Science and the History of Knowledge
+<https://www.geschkult.fu-berlin.de/en/e/wissensgeschichte/mitarbeiter_innen/Anuj-Misra/index.html>*
+Institute for the History of Knowledge in the Ancient World
+Department of History and Cultural Studies, Free University of Berlin
+Arnimallee 10, 14195 Berlin, GERMANY
+
+Room 205
++49 03 838 59046
+a.misra at fu-berlin.de
+
+─
+*Affiliated External Researcher
+<https://ccrs.ku.dk/staff/?pure=en/persons/663586>* (2024─25)
+Department of Cross-Cultural and Regional Studies (CCRS)
+University of Copenhagen, Copenhagen, DENMARK
+anuj.misra at hum.ku.dk
+
+─
+*Adjunct Senior Fellow <https://profiles.canterbury.ac.nz/AJ-Misra>* (since
+September 2021)
+School of Mathematics and Statistics | Te Kura Pāngarau
+University of Canterbury | University of Canterbury
+Christchurch, NEW ZEALAND
+aj.misra at canterbury.ac.nz
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20250331/a1a2020c/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image.png
+Type: image/png
+Size: 203491 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20250331/a1a2020c/attachment.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image.png
+Type: image/png
+Size: 8774363 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20250331/a1a2020c/attachment-0001.png>

@@ -2,7 +2,6 @@
 title = "55 Greg Bailey"
 date = "2021-12-19"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055569.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055569.html)
 

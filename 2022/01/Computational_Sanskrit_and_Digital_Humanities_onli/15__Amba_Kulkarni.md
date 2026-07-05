@@ -2,7 +2,6 @@
 title = "15 Amba Kulkarni"
 date = "2022-01-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055616.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055616.html)
 

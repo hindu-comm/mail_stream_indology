@@ -2,7 +2,6 @@
 title = "69 Girish Jha"
 date = "2021-12-27"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055599.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055599.html)
 
@@ -40,7 +39,7 @@ Lyne.Bansat-Boudon at ephe.psl.eu> wrote:
 >
 > I do not fully grasp what is the issue of your today message (some link
 > seems to be missing), but, whatever it could be, let us consider it as
-> coming from some niśācara.
+> coming from some niśācara.
 >
 > Kindest regards,
 >

@@ -1,0 +1,130 @@
++++
+title = "49 Bill Mak"
+date = "2026-04-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2026-April/061969.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2026-April/061969.html)
+
+Hi Jean Michel,
+They are described in Pande’s review <https://journals.sagepub.com/doi/abs/10.1177/037698360503200111> (see att).
+It looks like that I will have to pay a visit to BL or the Classics Library this Saturday!
+Best regards,
+Bill
+
+￼
+
+> On 23 Apr 2026, at 10:58, Jean Michel DELIRE via INDOLOGY <indology at list.indology.info> wrote:
+> 
+> Thanks, Lubomir,
+> 
+> Only one in continental Europe, and more than 400 km from my home.
+> Perhaps if I spend some of my  Summer holidays in the Alps...
+> But is it not possible to find the list of articles ?
+> 
+> Best,
+> 
+> Jean Michel
+> 
+> Le jeu. 23 avr. 2026 à 11:45, Lubomír Ondračka <ondracka at ff.cuni.cz <mailto:ondracka at ff.cuni.cz>> a écrit :
+>> Here is the list of libraries:
+>> 
+>> https://search.worldcat.org/title/32061499
+>> https://search.worldcat.org/title/260200941
+>> 
+>> 
+>> 
+>> On 23/04/2026 10:38, Jean Michel DELIRE via INDOLOGY wrote:
+>> > Very interesting !
+>> > I would be grateful if someone shares a list of the articles of this 
+>> > periodical and, of course, where it could be found.
+>> > Doesn't the Indian Library of Oxford have it ?
+>> > 
+>> > Regards,
+>> > 
+>> > Jean Michel Delire
+>> > 
+>> > Le jeu. 23 avr. 2026 à 11:11, Bill Mak via INDOLOGY 
+>> > <indology at list.indology.info <mailto:indology at list.indology.info> <mailto:indology at list.indology.info <mailto:indology at list.indology.info>>> a écrit :
+>> > 
+>> >     Dear colleagues,
+>> > 
+>> >     Does anyone have copies of or access to /Yavanika: Journal of the
+>> >     Indian Society for Greek and Roman Studies/, that they may be able
+>> >     to share? To my understanding there are at least 8 volumes (1991–98)
+>> >     according Pande’s review in Indian Historical Review (2005).
+>> > 
+>> >     In particular, I am interested in the second volume with the
+>> >     following article:
+>> >     Narain, A. K. 1992. ‘Approaches and Perspectives’. /Yavanika/ 2, 5–34.
+>> > 
+>> >     I have tried various catalogues and archive.org <http://archive.org/> <http://archive.org <http://archive.org/>>
+>> >     with no avail. A scholar who cited the work told me that a copy
+>> >     should be in one of the Cambridge libraries but I have had no luck
+>> >     so far.
+>> > 
+>> >     Best regards,
+>> > 
+>> >     Bill
+>> > 
+>> > 
+>> >     -- 
+>> >     Bill M. Mak, PhD
+>> > 
+>> >     Professor of History of Science
+>> > 
+>> >     University of Science and Technology of China
+>> >     Room A304, School of Humanities and Social Sciences, East Campus,
+>> >     University of Science and Technology of China,
+>> >     96 Jinzhai Road, Baohe District, Hefei, Anhui,
+>> >     China CN-230026
+>> > 
+>> >     Tel.: +86 183 5614 9163 / +852 9466 6472
+>> >     E-Mail: bmpmak at gmail.com <mailto:bmpmak at gmail.com> <mailto:bmpmak at gmail.com <mailto:bmpmak at gmail.com>>
+>> > 
+>> >     Research Associate
+>> >     Needham Research Institute
+>> >     8 Sylvester Road
+>> >     Cambridge, CB3 9AF
+>> >     United Kingdom
+>> > 
+>> >     Tel:+44-1223768229
+>> >     Email: bm574 at cam.ac.uk <mailto:bm574 at cam.ac.uk> <mailto:bm574 at cam.ac.uk <mailto:bm574 at cam.ac.uk>>
+>> > 
+>> >     Copies of my publications may be found at:
+>> >     http://www.billmak.com <http://www.billmak.com/> <http://www.billmak.com <http://www.billmak.com/>>
+>> >     https://needham.academia.edu/BillMak <https://needham.academia.edu/
+>> >     BillMak>
+>> > 
+>> > 
+>> >     _______________________________________________
+>> >     INDOLOGY mailing list
+>> >     INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info> <mailto:INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>>
+>> >     https://list.indology.info/mailman/listinfo/indology <https://
+>> >     list.indology.info/mailman/listinfo/indology <http://list.indology.info/mailman/listinfo/indology>>
+>> > 
+>> > 
+>> > 
+>> > _______________________________________________
+>> > INDOLOGY mailing list
+>> > INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> > https://list.indology.info/mailman/listinfo/indology
+>> 
+> 
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20260423/5a932b8d/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Pande - 2005 - Yavanika Journal of the Indian Society for Greek and Roman Studies.pdf
+Type: application/pdf
+Size: 578807 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20260423/5a932b8d/attachment.pdf>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20260423/5a932b8d/attachment-0001.htm>

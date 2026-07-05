@@ -1,0 +1,119 @@
++++
+title = "13 Shrinivasa Varakhedi"
+date = "2024-06-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2024-June/059267.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2024-June/059267.html)
+
+Dear All
+
+This is very pertinent question in the context of verification process of
+truthfulness of knowledge. Infinite regress or anavasthaa is a problem for
+all philosophers for which Nyaya also tries to find an answer. In fact it
+is a very serious problem in Nyaya. In order resolve this Nyaya school
+considers two step higher order in knowledge. As per this agreement, a
+cognitive event could be grasped only if it is desired so at secondary
+level. First level cognition is cognised by second one but second one need
+not be compulsorily cognised. Therefore no need of another cognition which
+will lead to Anavastha otherwise.
+
+Prof.Shrinivasa Varakhedi
+
+
+On Fri, 7 Jun 2024 at 7:18 AM, Howard Resnick via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Andrea Lorene Gutierrez kindly pointed out to me that ‘atiprasṅga’, a
+> synonym of anavasthā, is found in Yoga-sūtra 4.21
+> cittāntara-dṛśye buddhi-buddher atiprasaṅgaḥ smṛti-saṅkaraś ca
+>
+> Best,
+> Howard
+>
+> > On Jun 6, 2024, at 2:42 AM, Brendan S. Gillon, Prof. via INDOLOGY <
+> indology at list.indology.info> wrote:
+> >
+> > Dear colleagues,
+> >
+> > I am travelling now and so cannot check this, however, I have a note to
+> > the effect that `anavasthaa' is mentioned as a fault in Pata~njali's
+> > Mahaabhaa.sya to A 2.1.1. My source is Esther Solomon's Indian
+> > Dialectics 1976 p. 29. (I failed to note whether the page is in the
+> > first volume or in the second.)
+> >
+> > Best wishes,
+> > Brendan
+> >
+> >
+> > On 2024-06-04 06:18, Franco via INDOLOGY wrote:
+> >> Dear Howard,
+> >> The earliest surviving example is probably in the Vigrahavyavartani,
+> where the possibility of pramanas being proved by other pramanas is
+> rejected because this would lead to an infinite regress. Most scholars
+> think that Nagarjuna argues there agains the Nyaya, but I take the opponent
+> to be an Abhidharmika.
+> >> Best wishes,
+> >> Eli
+> >>
+> >> Sent from my iPad
+> >>
+> >>> On 04.06.2024, at 11:05, Howard Resnick via INDOLOGY <
+> indology at list.indology.info> wrote:
+> >>>
+> >>> Dear Scholars,
+> >>>
+> >>> Does the nyāya system speak about the problem of an infinite regress
+> of proofs? Aristotle famously identifies and then avoids this problem
+> through the notion of a self-evident foundation or starting point of
+> knowledge. In Western epistemology, this strategy is often called
+> foundationalism.
+> >>>
+> >>> Is there anything at all similar or analagous in nyāya or other Indian
+> schools? The Caitanya-caritāmṛta several times affirms that the Veda is
+> ’self-evident’, svataḥ pramāṇa, but the term is not used there as a general
+> or secular epistemic strategy. Is the CC simply repeating a well-known
+> epistemic principle?
+> >>>
+> >>> All help will be greatly appreciated.
+> >>>
+> >>> Thanks!
+> >>> Howard
+> >>>
+> >>> _______________________________________________
+> >>> INDOLOGY mailing list
+> >>> INDOLOGY at list.indology.info
+> >>> https://list.indology.info/mailman/listinfo/indology
+> >>
+> >> _______________________________________________
+> >> INDOLOGY mailing list
+> >> INDOLOGY at list.indology.info
+> >> https://list.indology.info/mailman/listinfo/indology
+> >
+> >
+> > --
+> >
+> > Brendan S. Gillon                       email: brendan.gillon at mcgill.ca
+> > Department of Linguistics
+> > McGill University                       tel.:  001 514 398 4868
+> > 1085, Avenue Docteur-Penfield
+> > Montreal, Quebec                        fax.:  001 514 398 7088
+> > H3A 1A7  CANADA
+> >
+> > webpage: http://webpages.mcgill.ca/staff/group3/bgillo/web/
+> >
+> >
+> > _______________________________________________
+> > INDOLOGY mailing list
+> > INDOLOGY at list.indology.info
+> > https://list.indology.info/mailman/listinfo/indology
+> >
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20240609/65636eec/attachment.htm>

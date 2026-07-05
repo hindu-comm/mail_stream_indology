@@ -1,0 +1,40 @@
++++
+title = "30 Uskokov, Aleksandar"
+date = "2022-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-October/056869.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-October/056869.html)
+
+Dear colleagues,
+
+I am happy to announce the publication of my book "The Philosophy of the Brahma-sutra: An Introduction," from Bloomsbury, as part of their Bloomsbury Introductions to World Philosophies series --
+
+https://www.bloomsbury.com/us/philosophy-of-the-brahmasutra-9781350150003/
+
+While it is written primarily for student audience and courses on Indian philosophy, Upanishads, and the like, I am hopefully that the experts too will find some fresh insights.
+
+I don't have a discount code to share, as the book is relatively cheap (about 20 $/€ for the softbound, 10 $/€ for the e-book), and it should be readily available from regional Amazon and other sites.
+
+Yours,
+Aleksandar
+
+
+Aleksandar Uskokov
+
+Lector in Sanskrit
+
+South Asian Studies Council, Yale University
+
+203-432-1972 | aleksandar.uskokov at yale.edu
+
+"The Philosophy of the Brahma-sutra: An Introduction"
+
+       https://www.amzn.com/1350150002/
+
+       https://www.bloomsburycollections.com/book/the-philosophy-of-the-brahma-sutra-an-introduction/
+
+
+Office Hours Sign-up: https://calendly.com/aleksandar-uskokov
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221020/7792e48f/attachment.htm>

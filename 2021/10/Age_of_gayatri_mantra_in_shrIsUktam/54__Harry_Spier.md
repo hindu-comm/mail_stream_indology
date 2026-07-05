@@ -2,7 +2,6 @@
 title = "54 Harry Spier"
 date = "2021-10-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055354.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055354.html)
 

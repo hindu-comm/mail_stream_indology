@@ -2,7 +2,6 @@
 title = "67 Birendra Nath Prasad"
 date = "2022-01-11"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055675.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055675.html)
 

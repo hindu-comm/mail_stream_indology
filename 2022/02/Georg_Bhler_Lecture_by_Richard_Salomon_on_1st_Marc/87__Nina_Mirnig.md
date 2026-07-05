@@ -2,7 +2,6 @@
 title = "87 Nina Mirnig"
 date = "2022-02-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055838.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055838.html)
 

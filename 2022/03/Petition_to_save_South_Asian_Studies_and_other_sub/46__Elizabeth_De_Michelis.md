@@ -2,7 +2,6 @@
 title = "46 Elizabeth De Michelis"
 date = "2022-03-20"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055941.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055941.html)
 

@@ -2,7 +2,6 @@
 title = "13 Arjuna S R"
 date = "2021-10-05"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055310.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055310.html)
 

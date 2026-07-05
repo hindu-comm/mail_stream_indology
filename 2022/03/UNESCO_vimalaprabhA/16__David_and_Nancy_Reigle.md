@@ -2,7 +2,6 @@
 title = "16 David and Nancy Reigle"
 date = "2022-03-06"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055886.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055886.html)
 

@@ -2,7 +2,6 @@
 title = "51 Girish Jha"
 date = "2021-12-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055565.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055565.html)
 

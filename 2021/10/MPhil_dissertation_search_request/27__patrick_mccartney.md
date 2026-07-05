@@ -2,7 +2,6 @@
 title = "27 patrick mccartney"
 date = "2021-10-11"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055326.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055326.html)
 

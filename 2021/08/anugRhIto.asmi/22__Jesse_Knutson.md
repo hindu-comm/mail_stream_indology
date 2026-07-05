@@ -2,7 +2,6 @@
 title = "22 Jesse Knutson"
 date = "2021-08-21"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055085.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055085.html)
 
@@ -28,7 +27,7 @@ On Sat, Aug 21, 2021 at 8:51 AM Dominik Wujastyk <wujastyk at gmail.com> wrote:
 >> --
 >> -----
 >>
->>  Anandavardhana+Dhvanyāloka.pdf
+>>  Anandavardhana+Dhvanyāloka.pdf
 >> <https://drive.google.com/file/d/1d23dPNpoXNTFsU2iGINJTqhbnWeaDGsD/view?usp=drive_web>
 >> ----------------------------
 >> Jesse Ross Knutson PhD

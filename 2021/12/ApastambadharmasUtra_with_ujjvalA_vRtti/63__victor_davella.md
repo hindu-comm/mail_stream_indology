@@ -2,7 +2,6 @@
 title = "63 victor davella"
 date = "2021-12-23"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055578.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055578.html)
 

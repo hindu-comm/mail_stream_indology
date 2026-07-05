@@ -2,7 +2,6 @@
 title = "14 Martin Gansten"
 date = "2022-01-15"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055687.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055687.html)
 

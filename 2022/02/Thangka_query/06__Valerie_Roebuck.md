@@ -2,7 +2,6 @@
 title = "06 Valerie Roebuck"
 date = "2022-02-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055753.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055753.html)
 

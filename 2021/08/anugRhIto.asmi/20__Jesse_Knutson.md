@@ -2,7 +2,6 @@
 title = "20 Jesse Knutson"
 date = "2021-08-17"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055067.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055067.html)
 
@@ -13,7 +12,7 @@ archive.org, which I attach here in case anyone needs it. All best, भवदी
 -- 
 -----
 
- Anandavardhana+Dhvanyāloka.pdf
+ Anandavardhana+Dhvanyāloka.pdf
 <https://drive.google.com/file/d/1d23dPNpoXNTFsU2iGINJTqhbnWeaDGsD/view?usp=drive_web>
 ----------------------------
 Jesse Ross Knutson PhD

@@ -1,0 +1,90 @@
++++
+title = "14 Jan Kučera"
+date = "2022-06-02"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-June/056300.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-June/056300.html)
+
+Thank you Dominik, that is a valuable font list.
+
+
+
+Harry, you said you have seen printed editions with the Vedic signs, is that something you can easily share or refer to for me to find in a library?
+
+
+
+What about these signs:
+
+
+
+
+
+Should they also take anusvara/candrabindu? They all seem to already contain a dot.
+
+
+
+Thanks,
+
+Jan
+
+
+
+From: Harry Spier <vasishtha.spier at gmail.com> 
+Sent: Tuesday, May 31, 2022 1:37 PM
+To: Jan Kučera <jan.kucera at matfyz.cz>
+Cc: indology at list.indology.info
+Subject: Re: [INDOLOGY] Indic rendering
+
+
+
+On Mon, May 30, 2022 at 9:45 AM Jan Kučera <jan.kucera at matfyz.cz <mailto:jan.kucera at matfyz.cz> > wrote:
+
+Dear all,
+
+
+
+I am doing a review of Indic scripts rendering mechanisms, and I would be interested if anyone had issues that they had run into during their work. Examples I am aware of include Vedic signs not working on anusvara, nuktas not working on vowels and similar.
+
+
+
+There are these issues with the characters in both the unicode devanagari extensions block and the unicode vedic extensions block and Microsoft Word. If you apply a vedic accent to a character in the devanagari extensions block (which is necessary for Taittiriya texts), or to the vedic extensions block then Microsoft Word puts in its dotted circle character.  This doesn't happen in LibreOffice or I think Adobe publishing software. 
+
+
+
+MS Word has another problem with Vedic accents.  The Vedic characters  1CE9, 1CEA, 1CEB, and 1CEC are always combined with a following anusvara dot or with candrabindu.  I've seen this in a printed editions and see item 2 of this  Unicode committee report.
+
+ <https://www.unicode.org/L2/L2008/08216-cmt-vedic.pdf> https://www.unicode.org/L2/L2008/08216-cmt-vedic.pdf
+
+
+
+  But when you put in a following anusvara dot or candrabindu to these characters, MS Word puts in the dotted circle.
+
+
+
+I've been told a few years ago that this is an issue Unicode has not resolved. See this response from a devanagari font designer to me.
+
+This issue is one that Unicode has not resolved. Yes, the proposal
+documents all indicate presence of the dot, but the characters are
+encoded in the Vedic block, and occur in scripts other that Devanagari
+(notably in Bengali). So there is an open question about what character
+should be used for the dot, since including the Devanagari anusvara
+character in a Bengali font for use with Vedic block characters is not
+an ideal solution. My preference would be for encoding of an explicit
+dot for this purpose within the Vedic block, so it can be generic and
+not script-specific, although I understand that some thought has been
+given to encoding versions of these characters with the dot explicit.
+
+
+
+Harry Spier
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220602/457c7917/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 39183 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20220602/457c7917/attachment.png>

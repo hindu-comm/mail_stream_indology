@@ -1,0 +1,33 @@
++++
+title = "23 Charles DiSimone"
+date = "2022-11-08"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-November/056930.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-November/056930.html)
+
+Dear friends,
+
+Might anyone have a scan of the following dissertation:
+
+Gunatilaka R. A. 1967. “An Edition with Translation of the Buddhist
+Sanskrit Text Saṃghāṭa-Sūtra.” Dissertation. University of Cambridge.
+
+I have had a terrible time trying to get a hold of this. My university's
+Interlibrary Loan has made a valiant effort to procure a copy for me but
+after a month of trying are running out of options. There is a print out at
+Bonn but they refused to scan or lend it and there is microfiche at CDL but
+they have also refused. Ostensibly the original dissertation should be
+housed at Cambridge but that seems impossible to access. Having exhausted
+other avenues I turn here. I would be immensely grateful if one among our
+Indology list may be able to help. I suspect one or two kind souls must
+have a PDF of this squirreled away...
+
+With my best wishes,
+Charles
+
+Dr. Charles DiSimone
+Department of Languages and Cultures
+Ghent University
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221108/785453c0/attachment.htm>

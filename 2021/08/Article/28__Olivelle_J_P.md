@@ -2,7 +2,6 @@
 title = "28 Olivelle, J P"
 date = "2021-08-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055073.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055073.html)
 

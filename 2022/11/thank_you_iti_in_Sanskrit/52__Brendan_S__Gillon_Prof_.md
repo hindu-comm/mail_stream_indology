@@ -1,0 +1,48 @@
++++
+title = "52 Brendan S. Gillon, Prof."
+date = "2022-11-13"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-November/056949.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-November/056949.html)
+
+I thank all those who responded to my inquiry about the use of iti in Sanskrit.  I look forward to studying the content of the articles whose existence I was alerted to.
+
+Best wishes,
+Brendan
+
+
+
+On 11/13/22 13:53, Hock, Hans Henrich via INDOLOGY wrote:
+Dear All,
+
+Just a short note to bring to everyone’s attention the following article Rothstein-Dowden, Zachary. 2022. On the etymology of áha. Journal of the American Oriental Society 142 (1): 51-61.
+Rothstein-Dowden raises the possibility that áha had quotative function at an earlier stage which, if correct, would push the prehistory of Indo-Aryan/Sanskrit quotative marking even farther back in time.
+
+All the best,
+
+Hans Henrich
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+
+
+--
+
+Brendan S. Gillon                       email: brendan.gillon at mcgill.ca<mailto:brendan.gillon at mcgill.ca>
+Department of Linguistics
+McGill University                       tel.:  001 514 398 4868
+1085, Avenue Docteur-Penfield
+Montreal, Quebec                        fax.:  001 514 398 7088
+H3A 1A7  CANADA
+
+webpage: http://webpages.mcgill.ca/staff/group3/bgillo/web/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221113/85c51c75/attachment.htm>

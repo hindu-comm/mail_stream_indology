@@ -2,7 +2,6 @@
 title = "48 François Voegeli"
 date = "2022-02-07"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055796.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055796.html)
 

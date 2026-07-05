@@ -1,0 +1,35 @@
++++
+title = "51 cezarygalewicz at yahoo.com"
+date = "2022-08-09"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-August/056615.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-August/056615.html)
+
+Dear Colleagues,
+This is to announce that the Doctoral School in Humanities, Jagiellonian University, Krakow, shall be offering over fifty scholarships of 48 month each plus associated research support schemes for successful PhD candidates in one of its eight programs: Archaeology, Philosophy, History, Linguistics, Literary Studies, Studies on Arts, Cultures and Religions, and Interdisciplinary and Cross-domain Program. Starting from October 2022.
+All programs in English. International candidates in Asian Studies most welcome.
+Candidates are invited to submit their applications through the Doctoral School Admissions system by August 30, 2022:https://human.phd.uj.edu.pl/en_GB/dla-kandydatow/rekrutacja-trybzwykly
+
+For more details follow the link above or contact me at the addresses given below.
+
+Best Wishes
+Cezary
+
+
+Cezary Galewicz
+Professor of Indian Civilisation
+Jagiellonian University
+Centre for Comparative Studies of Civilisations
+ul. Grodzka 52 31-044 Krakow
+https://psc.uj.edu.pl/en_GB/about/staff/cezary-galewicz
+cezary.galewicz at uj.edu.pl
+
+NCN Opus Culture of Patronage Project
+https://psc.uj.edu.pl/patronage
+
+Coordinator of Doctoral Program in Cultures and Religions,
+Doctoral School in Humanities
+https://human.phd.uj.edu.pl/dla-doktorantow/programy-doktorskie/nauki-o-kulturze-i-religii
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220809/4af90cae/attachment.htm>

@@ -2,7 +2,6 @@
 title = "65 Martin Straube"
 date = "2022-03-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055930.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055930.html)
 

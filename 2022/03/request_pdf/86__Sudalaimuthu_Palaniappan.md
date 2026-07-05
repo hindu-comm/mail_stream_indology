@@ -2,7 +2,6 @@
 title = "86 Sudalaimuthu Palaniappan"
 date = "2022-03-28"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055973.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055973.html)
 

@@ -2,7 +2,6 @@
 title = "77 Mark McClish"
 date = "2021-10-21"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055375.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055375.html)
 

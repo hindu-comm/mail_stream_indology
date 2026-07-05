@@ -1,0 +1,3 @@
++++
+title = "yāvantaḥ kiyantaḥ"
++++

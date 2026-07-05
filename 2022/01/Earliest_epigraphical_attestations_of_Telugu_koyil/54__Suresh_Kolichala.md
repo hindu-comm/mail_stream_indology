@@ -2,7 +2,6 @@
 title = "54 Suresh Kolichala"
 date = "2022-01-08"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055658.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055658.html)
 
@@ -27,10 +26,10 @@ indology at list.indology.info> wrote:
 
 > Thank you so much for the discussion and for the data that " the word
 > guḍi is normally used for 'temple' in the early Telugu inscriptions."
-> However as for the meaning of kōyilamu in the inscription I referred to,
+> However as for the meaning of kōyilamu in the inscription I referred to,
 > Budaraju asserts on page 292
 > <https://archive.org/details/in.ernet.dli.2015.493129/page/291/mode/2up?view=theater>
-> that it means 'Temple' and is a variant of kōyila, kōvela.
+> that it means 'Temple' and is a variant of kōyila, kōvela.
 >
 >
 > [image: image.png]
@@ -69,8 +68,8 @@ indology at list.indology.info> wrote:
 >>> Dear Indology members
 >>>
 >>>    - I am looking for the earliest epigraphical attestations of Telugu
->>>    *kōyila*, *kōvela *'temple' which DEDR lists.
->>>    - DEDR has left out the form *kōyilamu *attested in an early 10th
+>>>    *kōyila*, *kōvela *'temple' which DEDR lists.
+>>>    - DEDR has left out the form *kōyilamu *attested in an early 10th
 >>>    century inscription (p.186)
 >>>    <https://archive.org/details/in.ernet.dli.2015.493129/page/185/mode/2up?view=theater>
 >>>    .

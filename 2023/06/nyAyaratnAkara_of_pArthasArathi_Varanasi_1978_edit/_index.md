@@ -1,0 +1,3 @@
++++
+title = "Nyāyaratnākara of Pārthasārath"
++++

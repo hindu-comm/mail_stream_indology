@@ -1,0 +1,75 @@
++++
+title = "68 Nagaraj Paturi"
+date = "2022-04-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-April/056094.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-April/056094.html)
+
+The  Beautiful Tree : Indigenous Indian Education In the Eighteenth Century
+by Dharampal
+
+
+
+Dharampal (1922–2006) was a great Gandhian thinker, historian and political
+philosopher from India. Convinced about the urgent need for an objective
+understanding about India’s past, before the onslaught of colonial rule, he
+decided to embark on an exploration of British-Indian archival material,
+based on documents emanating from commissioned surveys of the East India
+Company, lodged in various depositories spread over the British Isles. His
+pioneering historical research, conducted intensively over a decade, led to
+the publication of works that have since become classics in the field of
+Indian studies. This major work entitled "The Beautiful Tree" provides
+evidence from extensive early British administrators’ reports of the
+widespread prevalence of educational institutions in the Bengal and Madras
+Presidencies as well as in the Punjab, teaching a sophisticated curriculum,
+with daily school attendance by about 30% of children aged 6–15, where
+those belonging to communities who were classed as Shudras or even lower
+constituted a good number of students, and in some areas, for instance in
+Kerala, where Muslim girls were quite well represented.
+
+https://www.goodreads.com/book/show/17931651-the-beautiful-tree
+
+https://archive.org/details/TheBeautifulTree-Dharampal
+
+On Wed, Apr 13, 2022 at 12:32 AM Dagmar Wujastyk via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear colleagues,
+>
+> Can anyone point me to publications on literacy in precolonial India?
+>
+> With thanks in advance,
+> Dagmar Wujastyk
+>
+>
+> Dr Dagmar Wujastyk
+> Associate Professor
+> History, Classics, and Religion
+> University of Alberta
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+
+
+-- 
+Nagaraj Paturi
+
+Hyderabad, Telangana, INDIA.
+
+
+Senior Director, IndicA
+BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+BoS Kavikulaguru Kalidasa Sanskrit University, Ramtek, Maharashtra
+BoS Veda Vijnana Gurukula, Bengaluru.
+Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+BoS Rashtram School of Public Leadership
+Editor-in-Chief, International Journal of Studies in Public Leadership
+Former Senior Professor of Cultural Studies,
+FLAME School of Communication and FLAME School of  Liberal Education,
+Hyderabad, Telangana, INDIA.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220419/9f7f90b9/attachment.htm>

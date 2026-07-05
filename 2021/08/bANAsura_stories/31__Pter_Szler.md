@@ -2,7 +2,6 @@
 title = "31 Péter Száler"
 date = "2021-08-19"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055076.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055076.html)
 

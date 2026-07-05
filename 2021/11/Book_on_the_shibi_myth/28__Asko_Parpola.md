@@ -2,7 +2,6 @@
 title = "28 Asko Parpola"
 date = "2021-11-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055434.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055434.html)
 

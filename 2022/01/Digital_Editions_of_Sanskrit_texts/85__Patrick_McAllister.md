@@ -2,7 +2,6 @@
 title = "85 Patrick McAllister"
 date = "2022-01-19"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055694.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055694.html)
 

@@ -2,7 +2,6 @@
 title = "44 Westin Harris"
 date = "2022-01-07"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055648.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055648.html)
 

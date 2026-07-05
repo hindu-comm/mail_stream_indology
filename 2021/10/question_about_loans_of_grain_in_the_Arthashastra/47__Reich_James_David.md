@@ -2,7 +2,6 @@
 title = "47 Reich, James David"
 date = "2021-10-14"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055347.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055347.html)
 

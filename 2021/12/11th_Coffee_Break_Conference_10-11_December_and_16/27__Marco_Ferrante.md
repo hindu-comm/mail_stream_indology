@@ -2,7 +2,6 @@
 title = "27 Marco Ferrante"
 date = "2021-12-05"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055539.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055539.html)
 

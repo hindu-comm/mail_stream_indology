@@ -2,7 +2,6 @@
 title = "44 David and Nancy Reigle"
 date = "2021-11-14"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055453.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055453.html)
 

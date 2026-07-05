@@ -2,7 +2,6 @@
 title = "41 Agathe Keller"
 date = "2021-11-12"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055450.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055450.html)
 

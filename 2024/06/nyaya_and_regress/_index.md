@@ -1,0 +1,3 @@
++++
+title = "nyaya and regress"
++++

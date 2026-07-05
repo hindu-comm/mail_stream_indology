@@ -2,7 +2,6 @@
 title = "09 Philipp Maas"
 date = "2022-03-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055880.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055880.html)
 

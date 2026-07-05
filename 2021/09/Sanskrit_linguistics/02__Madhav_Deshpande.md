@@ -2,7 +2,6 @@
 title = "02 Madhav Deshpande"
 date = "2021-09-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055136.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-September/055136.html)
 
@@ -72,7 +71,7 @@ wrote:
 > from *bhās-* ‘shine’
 >
 > mā́ṣa: Problematic; compare perhaps MPers./NPers. *maš* ‘legume’, Shughni
-> *max̌* ‘pea, bean’, hence Proto-(Indo-)Iranian **marṣ̌a *?
+> *max̌* ‘pea, bean’, hence Proto-(Indo-)Iranian **marṣ̌a *?
 >
 > jhaṣá: Uncertain; probably loanword
 >

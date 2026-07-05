@@ -1,0 +1,31 @@
++++
+title = "48 Michael Fiden"
+date = "2022-10-20"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-October/056867.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-October/056867.html)
+
+ Dear colleagues,
+
+I would like to announce the completion of a project I have been working
+on: the "Analytical Edition of Valmīki’s *Rāmāyaṇa* 1.1.1-79 (*Saṃkṣepa
+Rāmāyaṇa*)."
+
+This is an instructional OER available on the University of Texas at
+Austin's Sanskrit page (
+https://sites.utexas.edu/sanskrit/resources/instructional-oer/). This
+resource is aimed at second-year Sanskrit students, either for self-study
+or as a supplement to instruction, and features a full grammatical analysis
+and translation of each verse for the first half of the text. In the second
+half, the guide focuses on dictionary work by linking students to the
+relevant pages of Monier Williams.
+
+I wanted to make you aware of this resource in case you know of any
+students who might benefit, and I would appreciate any and all feedback.
+
+
+Best,
+Michael Fiden
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221019/1d9997f6/attachment.htm>

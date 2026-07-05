@@ -2,7 +2,6 @@
 title = "49 Roland Steiner"
 date = "2021-12-23"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055579.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055579.html)
 

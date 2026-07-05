@@ -2,11 +2,10 @@
 title = "20 Sudalaimuthu Palaniappan"
 date = "2022-01-05"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055632.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055632.html)
 
-There is a dissertation available at Shodhganga, http://14.139.116.20:8080/jspui/handle/10603/87676. In chapter 2, on pp. 62-63, the custom of growing long ear lobes by Piramalai Kallar women from the Madurai area and men is discussed. (See http://14.139.116.20:8080/jspui/bitstream/10603/87676/9/09-chapter%202.pdf.) But, the author makes a strange logical leap and says, “There is every reason to suggest that the Kaḷḷaṉs were some 1800 years ago followers of Jainism and that they borrowed the practice of ear-lobbing from the Jains55.” She footnotes my IJJS paper as support for her statement! My paper makes no such claim!
+There is a dissertation available at Shodhganga, http://14.139.116.20:8080/jspui/handle/10603/87676. In chapter 2, on pp. 62-63, the custom of growing long ear lobes by Piramalai Kallar women from the Madurai area and men is discussed. (See http://14.139.116.20:8080/jspui/bitstream/10603/87676/9/09-chapter%202.pdf.) But, the author makes a strange logical leap and says, “There is every reason to suggest that the Kaḷḷaṉs were some 1800 years ago followers of Jainism and that they borrowed the practice of ear-lobbing from the Jains55.” She footnotes my IJJS paper as support for her statement! My paper makes no such claim!
 
 Women from other parts of Tamil Nadu wear such ear ornaments without any connection to Jainism.
 

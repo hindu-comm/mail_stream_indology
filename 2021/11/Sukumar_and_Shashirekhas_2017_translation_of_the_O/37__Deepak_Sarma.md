@@ -2,7 +2,6 @@
 title = "37 Deepak Sarma"
 date = "2021-11-10"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055445.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055445.html)
 

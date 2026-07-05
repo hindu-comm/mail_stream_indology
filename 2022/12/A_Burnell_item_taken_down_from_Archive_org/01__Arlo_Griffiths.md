@@ -1,0 +1,23 @@
++++
+title = "01 Arlo Griffiths"
+date = "2022-12-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-December/057004.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-December/057004.html)
+
+Colleagues,
+
+The URL I had noted for this item is no longer good:
+
+Burnell, A.C. 1870. A Few Suggestions as to the Best Way of Making and Utilizing Copies of Indian Inscriptions. Madras: Higginbotham. https://archive.org/details/afewsuggestionsastothebestwayofmakingandutilizingindianmanuscriptsburnella.c.1870_191_g/page/n7/mode/2up.
+
+Is anyone able to find it online? If not, does anyone have a pdf?
+
+Thanks.
+
+Arlo Griffiths
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221201/b27a94f9/attachment.htm>

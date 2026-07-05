@@ -2,7 +2,6 @@
 title = "95 Antonia Ruppel"
 date = "2022-02-21"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055844.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055844.html)
 

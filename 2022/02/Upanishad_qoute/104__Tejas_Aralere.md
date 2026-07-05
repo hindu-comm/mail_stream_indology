@@ -2,7 +2,6 @@
 title = "104 Tejas Aralere"
 date = "2022-02-24"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055855.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055855.html)
 

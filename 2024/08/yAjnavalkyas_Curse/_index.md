@@ -1,0 +1,3 @@
++++
+title = "Yājñavalkya’s Curse"
++++

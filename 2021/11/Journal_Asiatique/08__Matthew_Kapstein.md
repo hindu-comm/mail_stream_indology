@@ -2,7 +2,6 @@
 title = "08 Matthew Kapstein"
 date = "2021-11-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055421.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055421.html)
 

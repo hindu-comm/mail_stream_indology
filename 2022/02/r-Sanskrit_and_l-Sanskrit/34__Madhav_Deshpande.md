@@ -2,7 +2,6 @@
 title = "34 Madhav Deshpande"
 date = "2022-02-06"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055784.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055784.html)
 

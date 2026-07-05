@@ -1,0 +1,28 @@
++++
+title = "87 Dominik Wujastyk"
+date = "2022-04-17"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-April/056089.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-April/056089.html)
+
+I now have good versions of files from vol15-16 and vol17-18, thanks to
+Naresh Kirti.
+
+Still outstanding are
+
+vol31/12_Wada.pdf
+
+* vol32/01_Chenet.pdf
+* vol32/02_Emmrich.pdf
+* vol32/03_Filigenzi.pdf
+* vol32/04_Filliozat.pdf
+* vol32/06_Hara.pdf
+* vol32/07_Hinuber.pdf
+* vol32/08_Kulikov.pdf
+* vol32/09_rossella.pdf
+* vol32/10_varghese.pdf
+* vol32/XXXII_Report.pdf
+* vol32/XXXII_reviews.pdf
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220417/57c930d8/attachment.htm>

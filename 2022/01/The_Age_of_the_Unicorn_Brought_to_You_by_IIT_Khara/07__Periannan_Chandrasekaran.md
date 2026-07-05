@@ -2,7 +2,6 @@
 title = "07 Periannan Chandrasekaran"
 date = "2022-01-03"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055615.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055615.html)
 

@@ -1,0 +1,3 @@
++++
+title = "Ānandagotra and Trikūṭādhipati"
++++

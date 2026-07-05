@@ -1,0 +1,3 @@
++++
+title = "Gayatri mantras again"
++++

@@ -2,7 +2,6 @@
 title = "30 Johnrobert Gardner"
 date = "2022-03-08"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055896.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055896.html)
 

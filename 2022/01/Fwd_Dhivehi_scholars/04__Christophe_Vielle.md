@@ -2,7 +2,6 @@
 title = "04 Christophe Vielle"
 date = "2022-01-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055619.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055619.html)
 
@@ -10,17 +9,17 @@ Leonid Kulikov has still an interest in the field.
 
 Kulikov, L.2021 The lexicography of Maldivian. In: Patrick Hanks and Gilles-Maurice de Schryver (eds), International handbook of modern lexis and lexicography. New York: Springer.
 
-Kulikov, L. 2019 Zametki o sledax kastovoj sistemy na Mal’divax [Notes on some traces of the caste system in the Maldives]. Ėtnografija 2019. No4 (6) (Special issue: Festschrift for N.G. Krasnodembskaya): 75–89. doi: 10.31250/2618-8600-2019-4(6)-0-0
+Kulikov, L. 2019 Zametki o sledax kastovoj sistemy na Mal’divax [Notes on some traces of the caste system in the Maldives]. Ėtnografija 2019. No4 (6) (Special issue: Festschrift for N.G. Krasnodembskaya): 75–89. doi: 10.31250/2618-8600-2019-4(6)-0-0
 
-Kulikov, L. 2014 Traces of castes and other social strata in the Maldives: A case study of social stratification in a diachronic perspective (Ethnographic, historic, and linguistic evidence). Zeitschrift für Ethnologie 139.2: 199-213.
+Kulikov, L. 2014 Traces of castes and other social strata in the Maldives: A case study of social stratification in a diachronic perspective (Ethnographic, historic, and linguistic evidence). Zeitschrift für Ethnologie 139.2: 199-213.
 
 Kulikov, L. 2011 Mal’divskij/Divexi jazyk [Maldivian language (Divehi)]. In: Tatjana Oranskaja et al. (eds), Jazyki mira: Novye indoarijskie jazyki [Languages of the World: New Indo-Aryan languages]. Moscow: Academia, 662-679.
 
 Kulikov, L. 2004 Review of: Chr. Reynolds. A Maldivian Dictionary. London and New York: RoutledgeCurzon, 2003. Bulletin of the School of Oriental and African Studies 67/2: 249-251.
 
-Kulikov, L. 1994 Mal'divskaja Respublika. [Maldives]. In: S.A. Arutjunov (ed.) Ètnogenez i ètničeskaja istorija narodov Južnoj Azii. [Ethnogenesis and ethnic history of South Asia]. Moscow: Nauka, Vostočnaja literatura, 269-281.
+Kulikov, L. 1994 Mal'divskaja Respublika. [Maldives]. In: S.A. Arutjunov (ed.) Ètnogenez i ètničeskaja istorija narodov Južnoj Azii. [Ethnogenesis and ethnic history of South Asia]. Moscow: Nauka, Vostočnaja literatura, 269-281.
 
-Kulikov, L.1985  O singarmonizme v singal'skom i mal'divskom jazykax [Vowel harmony in Sinhalese and Maldivian]. In: Institut vostokovedenija AN SSSR. Tezisy konferencii aspirantov i molodyx naučnyx sotrudnikov. T. I. Istorija. Literaturovedenie. Jazykoznanie. Vol. II. Moscow: Nauka, GRVL, 206-207A.
+Kulikov, L.1985  O singarmonizme v singal'skom i mal'divskom jazykax [Vowel harmony in Sinhalese and Maldivian]. In: Institut vostokovedenija AN SSSR. Tezisy konferencii aspirantov i molodyx naučnyx sotrudnikov. T. I. Istorija. Literaturovedenie. Jazykoznanie. Vol. II. Moscow: Nauka, GRVL, 206-207A.
 
 
 

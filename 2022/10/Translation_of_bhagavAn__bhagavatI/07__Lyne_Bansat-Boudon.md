@@ -1,0 +1,141 @@
++++
+title = "07 Lyne Bansat-Boudon"
+date = "2022-10-04"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-October/056832.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-October/056832.html)
+
+Dear colleagues,
+It is a little late to get into the discussion, but I would like to add, in the line of  Nagaraj Paturi and so many others, that, in the long history of French Indology, a consensus was reached on a translation of Bhagavat as « bienheureux », i.e., « the one endowed with happiness, good fortune, etc. », since the root bhaj- is translated in French as « avoir en partage », hence «  avoir la bonne part », «  avoir la bonne chance »,  «  être bien loti »  (it could be interesting to keep in mind the etymology of “ bon-heur” (vs “mal-heur” ), which etymologically means « de bon augure ») —which implies also « endowed with power », and « endowed with grace, a grace showered by a deity on his/her devotee (bhakta; same root).
+I agree with D. Hass’ last post on the ambiguity (at least for a French mind) of a word as « blessed » (« béni », in French), which implies someone blessing someone (or something) — which is not appropriate in the case of the supreme deity, except to consider that it is the devotee who blesses the deity, that is, who expresses his gratitude and his adoration to god, for a bhagavat needs a bhakta as much as a bhakta needs a bhagavat — the semantic field of bhaj- being, of course, that of reciprocity.
+Now the question is: how to render « bienheureux » in English? Apparently, « blessed » is a possibility (and we return to starting point!), but it could also be « blissful », « fortunate », or such related meanings as « glorious, illustrious, revered, adorable, divine, etc. ». A question of context and of what can be called « le génie de la langue »…
+Best wishes,
+Lyne Bansat-Boudon
+
+
+[cid:8E90FAFD-609F-4D7A-9393-D17E94D59596 at home]
+
+
+
+Le 3 oct. 2022 à 06:45, Dr. Dominik A. Haas, BA MA <dominik at haas.asia<mailto:dominik at haas.asia>> a écrit :
+
+
+
+Thank you all for your very informative responses!
+
+Best regards,
+
+D. Haas
+
+
+
+__________________
+Dr. Dominik A. Haas, BA MA
+dominik at haas.asia <mailto:dominik at haas.asia> | ORCID 0000-0002-8505-6112 <https://orcid.org/0000-0002-8505-6112> | academia.edu DominikAHaas <https://univie.academia.edu/DominikAHaas> | twitter DominikAHaas <https://twitter.com/DominikAHaas> | hcommons DominikAHaas <https://hcommons.org/members/DominikAHaas/>
+ÖGRW<https://www.univie.ac.at/oegrw/> | DMG<https://dmg-web.de/page/home_en> | SDN<https://stb.univie.ac.at/publikationsreihen/sammlung-de-nobili-sdn/> | WPU<https://philology.org/>
+DOC Fellow, Austrian Academy of Sciences (2020–2022)
+
+ [cid:part1.NqRG30si.AGt29QQO at haas.asia]
+The Initiative for Fair Open Access Publishing in South Asian Studies
+foasas.org<https://foasas.org/> | contact at foasas.org<mailto:contact at foasas.org> | tweet #FOASAS<http://twitter.com/intent/tweet?text=%20%23FOASAS>
+
+
+Am 30.09.2022 um 08:18 schrieb Dr. Dominik A. Haas, BA MA:
+
+Dear native speakers,
+
+to me “blessed” implies that someone has pronounced a blessing on a person/object. How does this work with a deity such as Kṛṣṇa? Or can “blessed” be used in a more figurative sense (is this what you have in mind?)?
+
+Best regards,
+
+D. Haas
+
+
+
+__________________
+Dr. Dominik A. Haas, BA MA
+dominik at haas.asia <mailto:dominik at haas.asia> | ORCID 0000-0002-8505-6112 <https://orcid.org/0000-0002-8505-6112> | academia.edu DominikAHaas <https://univie.academia.edu/DominikAHaas> | twitter DominikAHaas <https://twitter.com/DominikAHaas> | hcommons DominikAHaas <https://hcommons.org/members/DominikAHaas/>
+ÖGRW<https://www.univie.ac.at/oegrw/> | DMG<https://dmg-web.de/page/home_en> | SDN<https://stb.univie.ac.at/publikationsreihen/sammlung-de-nobili-sdn/> | WPU<https://philology.org/>
+DOC Fellow, Austrian Academy of Sciences (2020–2022)
+
+ [cid:part1.NqRG30si.AGt29QQO at haas.asia]
+The Initiative for Fair Open Access Publishing in South Asian Studies
+foasas.org<https://foasas.org/> | contact at foasas.org<mailto:contact at foasas.org> | tweet #FOASAS<http://twitter.com/intent/tweet?text=%20%23FOASAS>
+
+
+
+
+
+
+
+
+
+
+
+Am 30.09.2022 um 01:41 schrieb Harry Spier via INDOLOGY:
+Tracy Coleman wrote:
+Bhagavān Śrī Kṛṣṇa, the Blessed Lord Krishna
+
+Thank you Tracy for this.  "Blessed" is exactly what I need. And of course thank you to everyone else who answered, Rajam, Donald Davis, Dean Michael Anderson, and Matthew Kapstein.
+
+"Blessed" is a little more concise than this definition of bhagavat in the Vishnu Purana translated by Sw. Tyagīśānanda
+"That which is imperceptible, undecaying, inconceivable, unborn,
+inexhaustible, indestructible; which has neither form, nor hands, nor
+feet, which is almighty, omnipresent, eternal; the cause of all things
+and without cause, permeating all, itself unpenetrated, and from which
+all things proceed, that is the object which the wise behold, that is
+Brahman, that is the Supreme State, that is the thing spoken of by the
+Vedas, the infinitely subtle, supreme condition of viSNu.  That Essence
+of the Supreme is defined by the term Bhagavat;  the word Bhagavat is
+the denotation of that primeval and eternal God; and he who fully
+understands the meaning of that expression is possessed of holy wisdom,
+the sum and substance of the three vedas. The word Bhagavat is a
+convenient form to be used in the adoration of that Supreme Being, to
+twhom no term is applicable; and therefore bhagavat expresses that
+Supreme Spirit which is individual, almighty, and the cause of causes of
+all things. . . .
+
+Harry Spier
+
+
+
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221004/82d39b34/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature lyne.png
+Type: image/png
+Size: 32576 bytes
+Desc: signature lyne.png
+URL: <https://list.indology.info/pipermail/indology/attachments/20221004/82d39b34/attachment.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: foasaslogosmall.png
+Type: image/png
+Size: 57488 bytes
+Desc: foasaslogosmall.png
+URL: <https://list.indology.info/pipermail/indology/attachments/20221004/82d39b34/attachment-0001.png>

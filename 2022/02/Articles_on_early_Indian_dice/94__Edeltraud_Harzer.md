@@ -2,7 +2,6 @@
 title = "94 Edeltraud Harzer"
 date = "2022-02-21"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055843.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055843.html)
 

@@ -1,0 +1,89 @@
++++
+title = "72 Mrinal Kaul"
+date = "2024-12-23"
+upstream_url = "https://list.indology.info/pipermail/indology/2024-December/059971.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2024-December/059971.html)
+
+Dear Harry,
+
+The Indira Gandhi National Centre for the Arts (IGNCA), under the leadership of Dr Kapila Vatsyayan, began microfilming several large manuscript repositories in India (functioning either under the central or the state governments). However, with technological advancement, it was gradually realised that digital colour scans of manuscript images were a better option (and more useful for scholars to work on). In the meantime, NMM was born within IGNCA in early 2000. Since their inception, NMM has made unceasing efforts towards scanning almost all public manuscript repositories in India and documented a large number of private collections as well. Of course, NMM keeps copies of these records, and the respective repositories are also given digitalised copies. One can access these digital images on a payment basis (as stipulated by authorities of the respective repositories) either from the archives/libraries where they are located or from the IGNCA in New Delhi (IGNCA follows its own rules). In either case, one needs permission from the original repository authorities. If one requires access to the digital manuscript images from the IGNCA in New Delhi, permission from the original repository/archives/library is necessary according to the MoUs signed between the IGNCA and the various repositories. 
+
+Since most of these repositories are digitalised by NMM, they all bear an NMM metadata page as the last image, with the details filled in by the NMM staff, irrespective of where the digital images are located. So, in the present case, the images would be the same regardless of whether the unnamed scholar has had access to the digital images from NMM Delhi or ORL Srinagar. Neither NMM nor ORL can make this repository (or even a few selected Mss from this repository) public on a private/commercial platform like archive.org <http://archive.org/>. This is (so far) against their policy, as far as I am aware.
+
+The NMM has been making efforts towards having digital manuscript copies available online on their own website, as you pointed out, but they cannot do this unless they have permission from the original archives/libraries, which in most cases are run by the state governments. This is an extremely complex process.
+
+I am not aware of the high court (which high court ?) order you are talking about, but clearly, these few Mss made available on archive.org <http://archive.org/> by some unlawful scholar are not because of some high court order. This is just for your clarification.
+
+Mrinal      
+-----
+Mrinal Kaul (he/ him/ his)
+Assistant Professor of Indian Philosophy
+Department of Humanities and Social Sciences (HSS)
+Indian Institute of Technology-Bombay (IIT-B)
+Powai, Mumbai 400076, INDIA
+Tel: +91 22-2576-5349  Extn: 5349 (office)
+Tel: +91 22-62513773 (Residence)
+email: mrinal.kaul at iitb.ac.in <mailto:mrinal.kaul at iitb.ac.in>
+https://www.hss.iitb.ac.in/people/faculty/mrinal-kaul <https://www.hss.iitb.ac.in/people/faculty/mrinal-kaul>
+https://iitbombay.academia.edu/MrinalKaul <https://iitbombay.academia.edu/MrinalKaul>
+Meeting: meet.google.com/gtj-tdms-tpg <http://meet.google.com/gtj-tdms-tpg>
+
+> On 23-Dec-2024, at 4:38 AM, Harry Spier <vasishtha.spier at gmail.com> wrote:
+> 
+> Dear list members,
+> 
+> 1) I've just noticed that the last page of each manuscript is the NMM manuscript data card. If that means the NMM has digitized these manuscripts then thanks to the efforts of Dhaval Patel (as posted on Nov. 21, 2021) the NMM was ordered by the high court to put all its digitized manuscripts in the public domain within 1 year which would include these manuscript images.
+> 
+> 2) The link https://www.bharatiyakritisampada.nic.in/ <https://www.bharatiyakritisampada.nic.in/>
+> used to work to bring you to the search page for manuscripts the NMM had put in the public domain. But it no longer works.
+> 
+> Does any member know the new link (if there is one) that will bring you to the search page for manuscripts the NMM has put in the public domain?
+> 
+> Thanks,
+> Harry Spier
+> 
+> From: INDOLOGY <indology-bounces at list.indology.info <mailto:indology-bounces at list.indology.info>> on behalf of Mrinal Kaul via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>>
+> Sent: Sunday, December 22, 2024 1:00 PM
+> To: Harry Spier <vasishtha.spier at gmail.com <mailto:vasishtha.spier at gmail.com>>
+> Cc: Indology List <indology at list.indology.info <mailto:indology at list.indology.info>>
+> Subject: Re: [INDOLOGY] Collection of Kashmir Shaivite manuscripts in Archive.org
+>  
+> Dear Harry,
+> 
+> All these Ms are from the collection of the Oriental Research Library (located in Srinagar) of the Jammu and Kashmir Government. Someone who does not want to be identified has accessed the digital copies of these Mss from the ORL, Srinagar, and has made them openly available, clearly defying the library's rules. 
+> 
+> As much as I have fought with the archives/manuscript libraries across India that scholars should have easy access to manuscript materials, I also respect their rules. I have insisted repeatedly that many of these rules need to be changed, but I have no reason to be an outlaw. In fact, many of these manuscript libraries have become extremely suspicious or sceptical of offering scanned copies of Mss to scholars because they openly violate their rules. This case is a clear example of such a violation. The ORL authorities have been very generous, but I know the scholars who have taken advantage of their generosity and innocence. They have shamelessly violated their policies by sharing MS images on Facebook and other social media platforms. One should certainly  bring this to the notice of the Government of Jammu and Kashmir.
+> 
+> Mrinal  
+> -----
+> Mrinal Kaul (he/ him/ his)
+> Assistant Professor of Indian Philosophy
+> Department of Humanities and Social Sciences (HSS)
+> Indian Institute of Technology-Bombay (IIT-B)
+> Powai, Mumbai 400076, INDIA
+> Tel: +91 22-2576-5349  Extn: 5349 (office)
+> Tel: +91 22-62513773 (Residence)
+> email: mrinal.kaul at iitb.ac.in <mailto:mrinal.kaul at iitb.ac.in>
+> https://www.hss.iitb.ac.in/people/faculty/mrinal-kaul <https://www.hss.iitb.ac.in/people/faculty/mrinal-kaul>
+> https://iitbombay.academia.edu/MrinalKaul <https://iitbombay.academia.edu/MrinalKaul>
+> Meeting: meet.google.com/gtj-tdms-tpg <http://meet.google.com/gtj-tdms-tpg>
+> 
+>> On 22-Dec-2024, at 11:05 PM, Harry Spier via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>> 
+>> Dear list members,
+>> I've just come across a collection of 168 Sharada manuscripts of Kashmir Shaivite texts https://archive.org/search?query=creator%3A%22Mcintosh+Skipper+Roth%22 <https://archive.org/search?query=creator%3A%22Mcintosh+Skipper+Roth%22>
+>> 
+>> Does anyone know anything about this collection?  Who posted it, an individual named McIntosh Skipper Roth, or is this three individuals.
+>> Thanks, 
+>> Harry Spier
+>> 
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> https://list.indology.info/mailman/listinfo/indology <https://list.indology.info/mailman/listinfo/indology>
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20241223/20bec0bf/attachment.htm>

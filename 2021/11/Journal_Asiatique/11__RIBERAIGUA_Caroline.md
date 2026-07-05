@@ -2,7 +2,6 @@
 title = "11 RIBERAIGUA Caroline"
 date = "2021-11-03"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055430.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055430.html)
 

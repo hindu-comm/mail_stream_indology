@@ -2,7 +2,6 @@
 title = "68 x kiepue"
 date = "2022-03-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055933.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055933.html)
 

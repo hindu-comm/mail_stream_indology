@@ -1,0 +1,15 @@
++++
+title = "55 rajam"
+date = "2022-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-July/056456.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-July/056456.html)
+
+Dear List Members,
+
+Please pardon me for posting this query to a broad audience. I need help. 
+
+I’ve been getting alerts from McAfee Total Protection about my computer being in danger, my license with them has expired, etc. etc. I don’t know if it is for real or a marketing strategy or scam. So, I don’t respond to such alerts. Lately, for the past few days YouTube music/food-recipe channels are getting affected; they just freeze unexpectedly. Is it again a marketing game? Did you have any such experience? How do I respond to such annoyance? Please advice. 
+
+Thanks and Regards,
+rajam 

@@ -1,0 +1,3 @@
++++
+title = "Vyākhyāyukti and Vyākhyāyukti-"
++++

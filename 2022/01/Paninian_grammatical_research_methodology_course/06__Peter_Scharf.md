@@ -2,7 +2,6 @@
 title = "06 Peter Scharf"
 date = "2022-01-02"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055614.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055614.html)
 

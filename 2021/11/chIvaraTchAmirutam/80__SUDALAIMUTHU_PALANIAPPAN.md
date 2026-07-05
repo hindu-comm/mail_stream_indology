@@ -2,7 +2,6 @@
 title = "80 SUDALAIMUTHU PALANIAPPAN"
 date = "2021-11-20"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055489.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055489.html)
 

@@ -1,0 +1,3 @@
++++
+title = "Śabdakalpadrumaḥ and Vācaspaty"
++++

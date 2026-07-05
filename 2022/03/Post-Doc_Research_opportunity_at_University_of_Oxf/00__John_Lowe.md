@@ -2,7 +2,6 @@
 title = "00 John Lowe"
 date = "2022-03-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055871.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055871.html)
 

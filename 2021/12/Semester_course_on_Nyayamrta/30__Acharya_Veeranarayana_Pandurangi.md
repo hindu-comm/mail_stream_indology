@@ -2,7 +2,6 @@
 title = "30 Acharya Veeranarayana Pandurangi"
 date = "2021-12-05"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055541.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055541.html)
 

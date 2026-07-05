@@ -1,0 +1,126 @@
++++
+title = "47 Howard Resnick"
+date = "2024-08-19"
+upstream_url = "https://list.indology.info/pipermail/indology/2024-August/059551.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2024-August/059551.html)
+
+Dear Nagaraj,
+
+Thank you for kindly sharing this information.
+
+Best wishes,
+Howard
+
+> On Aug 18, 2024, at 11:02 PM, Nagaraj Paturi <nagarajpaturi at gmail.com> wrote:
+> 
+> Howard ji,
+> 
+> Older references can be classified into two kinds:
+> 
+> 1. Descriptions of Bhakti events in narrative literatures such as narrative portions of Puranas and narrative Sanskrit and other Indian language kavyas 
+> 
+> 2. Shaastric works
+> 
+> The word Saatvika bhaavas or the words referring to ecstatic features that are dealt under Saatvika bhaavas in NS and related texts are used in the description of  Bhakti events in narrative texts older than Madhusudana Saraswati and Rupa Goswami. 
+> 
+> Lyrical texts employed in Bhakti dance earlier than the time of Rupa  , both in Sanskrit and regional languages, used such expressions. 
+> 
+> NS related later shaastric texts and their commentaries use Bhakti related examples too while dealing with Saatvika Bhaavas. 
+> 
+> On Mon, Aug 19, 2024 at 3:40 AM Howard Resnick via INDOLOGY <indology at list.indology.info <mailto:indology at list.indology.info>> wrote:
+>> Thank you! Very helpful.
+>> 
+>> I’m still interested to know if there are close analogies in earlier writing with Rupa’s method of analyzing ecstatic states, for example comparing various emotional states to the physical elements, such as earth, water, fire, air etc. Or, are there analogies to his categories of sāttvika-bhāva and sthālyi-bhava? Etc.
+>> 
+>> I am distinguishing here between two related but discrete systems: that of rasa, and that of ecstatic states.
+>> 
+>> Any help here is welcome.
+>> 
+>> Best wishes,
+>> Howard
+>> 
+>> > On Aug 18, 2024, at 11:59 AM, theodor at orange.net.il <mailto:theodor at orange.net.il> wrote:
+>> > 
+>> > Dear Howard,
+>> > 
+>> > You write:
+>> > 
+>> > "Rūpa borrowed an analytic structure that is traced first to Bharata Muni, at least 1500 years before Rupa, and then to Abhinavagupta who significantly developed and refined rasa-vicāra at least 500 years before Rūpa. "
+>> > 
+>> > According to my research, there were two parallel versions of medieval rasa schools; Abhinavagupta representing the Vivarta version and Bhoja representing the parinama version. Clearly, Rupa has developed his theories based upon Bhoja's parinama version of aesthetics. 
+>> > 
+>> > More on this in my book "The Fifth Veda in Hinduism; Poetry, Philosophy and Devotion in the Bhagavata Purana:   
+>> > https://www.bloomsbury.com/uk/fifth-veda-of-hinduism-9781784531997/
+>> > 
+>> > I hope it helps and all the very best,
+>> >                                                                          Ithamar
+>> > 
+>> > 
+>> > 
+>> > ----------------------------------------
+>> > Prof. Ithamar Theodor
+>> > Indian Studies
+>> > Zefat Academic College
+>> > itamart at zefat.ac.il <mailto:itamart at zefat.ac.il>
+>> > Recent Publication: Special Issue on Gandhi, Israel and the Jews
+>> > https://link.springer.com/journal/11407/volumes-and-issues/27-3
+>> > 
+>> > 
+>> > 
+>> > 
+>> > 
+>> > 
+>> > -----הודעה מקורית-----
+>> > מאת: INDOLOGY <indology-bounces at list.indology.info <mailto:indology-bounces at list.indology.info>> בשם Howard Resnick via INDOLOGY
+>> > נשלח: יום א 18 אוגוסט 2024 05:29
+>> > אל: Indology List‏ <indology at list.indology.info <mailto:indology at list.indology.info>>
+>> > נושא: [INDOLOGY] Anaysis of ecstasy
+>> > 
+>> > Dear Scholars,
+>> > 
+>> > I would appreciate help with the following. In the Gauḍīya Vaiṣṇava tradition, especially in works of Rūpa Gosvāmī (1489–1564) such as Bhakti-rasāmṛta-sindhu, but elsewhere too, there are systematic, technical descriptions of ecstatic states, such as the aṣṭa-sāttvika-bhāvas etc.
+>> > 
+>> > We know that in another, related analytic system, that of rasa-vicāra, analysis of primary and secondary ‘rasas’ or mood/flavor of personal relationship, Rūpa borrowed an analytic structure that is traced first to Bharata Muni, at least 1500 years before Rupa, and then to Abhinavagupta who significantly developed and refined rasa-vicāra at least 500 years before Rūpa. Yet, as Gary Tubb once said to me, Rūpa, with real genius, applied to Kṛṣṇa this already ancient system of rasa analysis and classification.
+>> > 
+>> > So, finally my question: in his elaborate analysis and classification of ecstatic spiritual states, such as sāttvika-bhāvas and sthāyi bhāvas, is Rūpa again applying to Kṛṣṇa-bhakti an analytic system that already existed for the analysis of non-Vaiṣṇava, or even Vaiṣṇava, literature? Or was the technical analysis of ecstatic states an original contribution of Rūpa? I ask because I suspect that once again Rūpa may have been applying to Kṛṣṇa-bhakti an analytic system already current.
+>> > 
+>> > Many thanks for any help with this!
+>> > 
+>> > Howard
+>> > 
+>> > 
+>> > 
+>> > _______________________________________________
+>> > INDOLOGY mailing list
+>> > INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> > https://list.indology.info/mailman/listinfo/indology
+>> > 
+>> > 
+>> 
+>> 
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info <mailto:INDOLOGY at list.indology.info>
+>> https://list.indology.info/mailman/listinfo/indology
+> 
+> 
+> --
+> Nagaraj Paturi
+>  
+> Hyderabad, Telangana, INDIA.
+> Dean, IndicA
+> BoS, MIT School of Vedic Sciences, Pune, Maharashtra
+> BoS Kavikulaguru Kalidasa Sanskrit University, Ramtek, Maharashtra
+> BoS Veda Vijnana Gurukula, Bengaluru.
+> Member, Advisory Council, Veda Vijnana Shodha Samsthanam, Bengaluru
+> Former Senior Professor of Cultural Studies, 
+> FLAME School of Communication and FLAME School of  Liberal Education, 
+> Hyderabad, Telangana, INDIA.
+>  
+>  
+>  
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20240819/4210c224/attachment.htm>

@@ -1,0 +1,168 @@
++++
+title = "81 Agnes Korn"
+date = "2022-08-22"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-August/056652.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-August/056652.html)
+
+Dear all,
+
+Mayrhofer's EWA is freely available on 
+https://archive.org/details/EtymologischesWrterbuchDesAltindoarischenMayrhoferEWA11992/page/n1 
+(vol. 1), 
+https://archive.org/details/EtymologischesWrterbuchDesAltindoarischenMayrhoferEWA21992/page/n1/mode/2up 
+(vol. 2).
+
+Best,
+Agnes
+
+Le 21.08.2022 à 21:12, Caley Smith via INDOLOGY a écrit:
+> Dear Geoffrey,
+>
+> A typological approach seems valid to me, although it could require 
+> the same semantic change to happen independently.
+> It is not an inevitable change, of course, cognates Greek allos, Latin 
+> alius/alter, English else never became semantically specialized in the 
+> way ari- eventually does. I don't think we can chalk it up to having a 
+> backup like anya- as another "other" since English has another "other" 
+> too: other < *antero-. I have always seen the shift of ari- as 
+> occurringin a specific political context where the other clan is not 
+> exactly an enemy but a rival for position within the coalition of the 
+> clans (thus ari >ārya "the political ceremony you do with the ari"), 
+> ārya of course is never pejorized like later ari-. Btw, I am happy to 
+> send you pdfs of Mayrhofer's EWA.
+>
+> Best,
+> Caley
+>
+> On Sun, Aug 21, 2022 at 2:24 PM Geoffrey Caveney 
+> <geoffreycaveney at gmail.com> wrote:
+>
+>     Dear Caley,
+>
+>     Thank you very much for your critical feedback; I appreciate it
+>     very much.
+>
+>     Regarding the semantic development of ari-, I appreciate and I am
+>     grateful for Caley's observations about the etymology and
+>     historical semantic development of this form in Indo-Aryan. I am
+>     curious, does this mean that you claim that Monier-Williams was
+>     mistaken in his definition of *2. a-rí-* as "'not liberal,'
+>     envious, hostile, RV.; (/ís/), m. an enemy, RV." (M-W p. 87,
+>     bottom of 3rd column, long final entry in the column)? My
+>     interpretation of this entry would be that according to
+>     Monier-Williams, this word appears in the Rigveda (RV) with the
+>     meaning "an enemy". Doesthis mean that MW's interpretation of the
+>     relevant passage of the Rigveda was incorrect? Changing the
+>     meaning of a word from "enemy" to "guest" seems to be a
+>     significantly major alteration that would drastically change the
+>     meaning of the passage of RV in which it appears.
+>
+>     But if we accept that MW is indeed mistaken on this semantic
+>     point, as Caley suggests that Mayrhofer indicates, then we may
+>     still return to the presumably original meaning "other" or "other
+>     person". It still seems plausible to me that there may well
+>     possibly have been an independent semantic development in the
+>     Mediterranean in the Bronze Age that could have been parallel to
+>     the later post-Vedic in situ semantic development: "other
+>     (person)" > "enemy" seems to be a natural enough semantic
+>     development that could have occurred independently in different
+>     times and places from the same Indo-Aryan root word.
+>
+>     As a typological comparison, we may consider the semantic
+>     development of Proto-Indo-European *gʰóstis, which developed to
+>     mean /hostis/'enemy' in Latin, but which developed to mean
+>     /gasts/'guest' in Gothic, /gestr/'guest' in Old Norse (from
+>     which indeed English "guest" is derived), гость 'guest' in Old
+>     Church Slavic, etc. Likewise we may consider the semantic
+>     development of Polish /obcy/'foreign; stranger' and dialectal
+>     Ukrainian /ві́бчий/'foreign', both from
+>     Proto-Slavic*obьťь'common', a meaning retained in Old Church
+>     Slavic and other Slavic daughter languages. Another example is
+>     Proto-Slavic*ťȗďь'foreign, alien, strange' (e.g., OCSщоуждь,
+>     Russian чужой, чуждый) from PIE*tewtéh₂'people, tribe'; Baltic
+>     cognates largely retain the original PIE meaning or develop it to
+>     mean 'land, country', but one extended meaning of Latvian
+>     /tauta/is 'people from another region'. (The PIE root is the
+>     ancestor of German /Deutsch/, Proto-Italic *toutā, Irish /tuath/,
+>     Welsh /tud/, etc.)
+>
+>     The point is that numerous typological examples demonstrate that
+>     the meaning 'enemy', 'hostile', 'foreign', etc., can frequently
+>     arise independently from a process of historical semantic
+>     development from roots with more neutral original meanings. Thus
+>     it seems plausible to me to suggest that the semantic development
+>     'other (person)' > 'enemy' and/or 'other (person)' > 'guest' >
+>     'enemy' could have occurred independently in Minoan Indo-Aryan at
+>     an early stage and in post-Vedic Sanskrit at a later stage.
+>
+>     Best,
+>     Geoffrey
+>
+>
+>     On Sat, Aug 20, 2022 at 10:14 AM Caley Smith
+>     <smith.caley at gmail.com> wrote:
+>
+>         Dear Michael,
+>
+>         A minor point, as I have not yet read the paper in
+>         detail---but I am curious as to why Monier-Williams is used as
+>         the semantic base instead of Mayrhofer'sEWA. For instance,
+>         based on MW the author renders ari- as "enemy," when it really
+>         could not be so as that is a post-Vedic in situ semantic
+>         development. At the hypothesized phase of the language, it
+>         should mean something like "other" (following Thieme "other
+>         (person)" > RV "guest") and any local semantic developments in
+>         the Mediterranean would proceed from that sense.
+>
+>         Best,
+>         Caley
+>
+>         On Fri, Aug 19, 2022 at 11:13 PM Witzel, Michael
+>         <witzel at fas.harvard.edu> wrote:
+>
+>             We are happy to announce another installment of the
+>             Electronical Journal of Vedic Studies, Vol. 26 (2022):
+>
+>             Geoffrey Caveney, Evidence of Indo-Aryan dialect in 10
+>             Minoan Linear A inscriptions…
+>
+>             Please critically read this exploratory paper!
+>
+>             It will now be uploaded at Heidelberg
+>             (https://hasp.ub.uni-heidelberg.de/journals/ejvs/).
+>
+>             M.WItzel
+>>             ============
+>>             Michael Witzel
+>>             witzel at fas.harvard.edu
+>>             <www.fas.harvard.edu/~witzel/mwpage.htm
+>>             <http://www.fas.harvard.edu/%7Ewitzel/mwpage.htm>>
+>>             Wales Prof. of Sanskrit
+>>             Dept. of South Asian Studies, Harvard University
+>>             1 Bow Street,
+>>             Cambridge MA 02138, USA
+>>
+>>             phone: 1- 617 - 495 3295, fax 617 - 4968571;
+>>             my direct line:617- 496 2990
+>
+>
+>
+>
+>
+>
+>
+>
+>             _______________________________________________
+>             INDOLOGY mailing list
+>             INDOLOGY at list.indology.info
+>             https://list.indology.info/mailman/listinfo/indology
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220822/dba8a6a0/attachment.htm>

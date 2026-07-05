@@ -1,0 +1,54 @@
++++
+title = "97 Aaron Sherraden"
+date = "2023-09-28"
+upstream_url = "https://list.indology.info/pipermail/indology/2023-September/058214.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2023-September/058214.html)
+
+Dear Friends and Scholars,
+
+I would like to announce the publication of my book, *Śambūka and the
+Rāmāyaṇa Tradition: A History of Motifs and Motives in South Asia*
+<https://anthempress.com/sambuka-s-death-toll-a-history-of-motives-and-motifs-in-an-evolving-ramaya-a-narrative-hb>,
+as part of the Anthem Press World Epic and Romance Series. The hardcover
+and ebook versions are available directly from Anthem or from online
+retailers like Amazon
+<https://www.amazon.com/%C5%9Aamb%C5%ABka-R%C4%81m%C4%81ya%E1%B9%87a-Tradition-History-Motives/dp/1839984694/ref=sr_1_1?crid=1KJ7EV9ZVOZPD&keywords=aaron+sherraden&qid=1695907706&sprefix=aaron+sherraden%2Caps%2C83&sr=8-1&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0>
+ and Barnes & Noble
+<https://www.barnesandnoble.com/w/sambuka-and-the-ramaya-a-tradition-aaron-sherraden/1143107050>
+.
+
+[image: Sherraden_9781839984693_Cover.jpg]
+
+*Description*
+This book details the developmental history of narratives that affirm,
+condemn, modify, or ignore the controversial execution of Śambūka, a minor
+Rāmāyaṇa character of low social standing. Changing socio-political
+sentiments throughout Indian history have forced numerous revisions to the
+Śambūka story, placing it in an underappreciated position of influence.
+
+*Contents*
+Foreword (by Paula Richman): Śambūka’s Story across Time and India’s
+Regions
+1. Introduction: Śambūka’s Death Toll
+2. Śambūka’s Earliest Death
+3. First Responders
+4. The Uttararāmacarita and Śambūka’s Purpose in Death
+5. The Accident or the Execution
+6. Śambūka Lives on Ramtek Hill
+7. The Anti-Caste Revolutionary
+8. Śambūka in the Twenty-First Century
+9. Conclusion: Śambūka and the Rāmāyaṇa Tradition
+
+With best wishes,
+Aaron
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20230928/f38e7832/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Sherraden_9781839984693_Cover.jpg
+Type: image/jpeg
+Size: 32709 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20230928/f38e7832/attachment.jpg>

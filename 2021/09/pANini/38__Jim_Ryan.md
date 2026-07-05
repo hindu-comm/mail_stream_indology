@@ -2,7 +2,6 @@
 title = "38 Jim Ryan"
 date = "2021-09-14"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055179.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-September/055179.html)
 
@@ -17,7 +16,7 @@ Jim
 > On Sep 14, 2021, at 4:16 AM, Talia Ariav <taliaa at uchicago.edu> wrote:
 > 
 > Dear Jim, 
-> I do not know any story, but the following two verses from Rāmabhadra Dīkṣita’s Patañjalicaritam present a version of the double patronymic indicated in Monier Williams and in the references Victor cited.
+> I do not know any story, but the following two verses from Rāmabhadra Dīkṣita’s Patañjalicaritam present a version of the double patronymic indicated in Monier Williams and in the references Victor cited.
 > If I understand correctly, Paṇin is a great grandfather, who has a son called Pāṇina; this son has a son by the same name (Pāṇina junior), who marries Dakṣa’s daughter, and the two name their son Pāṇini.
 >  
 > paṇīti kaścin munir asti pūrvaṃ sa pāṇinaṃ nāma kumāram āpa । svatulyanāmnā tanayena so'pi dākṣīm udūḍhāṃ dṛḍham abhyanandat ।। 2.47 

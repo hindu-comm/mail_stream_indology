@@ -2,7 +2,6 @@
 title = "33 Dan Lusthaus"
 date = "2021-09-12"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055167.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-September/055167.html)
 

@@ -2,7 +2,6 @@
 title = "47 Suchandra Ghosh"
 date = "2022-03-21"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055942.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055942.html)
 

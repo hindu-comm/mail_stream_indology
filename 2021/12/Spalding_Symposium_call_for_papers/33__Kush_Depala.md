@@ -2,7 +2,6 @@
 title = "33 Kush Depala"
 date = "2021-12-06"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055545.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055545.html)
 

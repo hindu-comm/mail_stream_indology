@@ -1,0 +1,55 @@
++++
+title = "17 Corinna May Lhoir"
+date = "2022-05-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-May/056163.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-May/056163.html)
+
+Dear List members,
+
+Apologies for cross-posting.
+
+Starting this year, Universitaet Hamburg will be offering a new track as 
+part of the international Master of Arts in Indology: Yoga Studies!
+This philological, research-oriented track will be conducted entirely 
+online, the language of instruction is English. The application period 
+is June 1 - July 15 for the winter term of 2022 (October). Program con
+
+More information on this program, the application process and the degree 
+structure can be found here:
+
+https://www.aai.uni-hamburg.de/en/yogastudies/maprogram.html
+
+Please feel free to circulate this information among potentially 
+interested students. Please also note that for this track a good command 
+of Sanskrit is essential.
+
+Best wishes
+
+Corinna Lhoir
+
+Program Coordinator (yogastudies.aai at uni-hamburg.de) & Team 
+<https://www.aai.uni-hamburg.de/en/yogastudies/personen.html>
+
+-- 
+----------------------------------------------------
+Corinna Lhoir, M.A.
+Universität Hamburg
+Fakultät für Geisteswissenschaften
+Asien-Afrika-Institut
+Lehrbeauftragte
+Numata Zentrum für Buddhismuskunde
+Assistenz der Geschäftsleitung
+
+Alsterterrasse 1
+20354 Hamburg
+
+Raum 109
+
++49 40 42838-8314 (Telefon)
+corinna.lhoir at uni-hamburg.de
+www.uni-hamburg.de
+www.aai.uni-hamburg.de/indtib
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220506/d9f1732e/attachment.htm>

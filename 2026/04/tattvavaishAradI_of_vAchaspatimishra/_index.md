@@ -1,0 +1,3 @@
++++
+title = "Tattvavaiśāradī of Vācaspatimi"
++++

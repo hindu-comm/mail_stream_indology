@@ -1,0 +1,3 @@
++++
+title = "tivijjā in Āyāraṃgasutta"
++++

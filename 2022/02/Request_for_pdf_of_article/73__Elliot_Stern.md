@@ -2,7 +2,6 @@
 title = "73 Elliot Stern"
 date = "2022-02-11"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055824.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055824.html)
 

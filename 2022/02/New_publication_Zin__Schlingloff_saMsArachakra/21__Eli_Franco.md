@@ -2,7 +2,6 @@
 title = "21 Eli Franco"
 date = "2022-02-03"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055763.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055763.html)
 

@@ -2,7 +2,6 @@
 title = "56 David White"
 date = "2022-01-08"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055660.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055660.html)
 

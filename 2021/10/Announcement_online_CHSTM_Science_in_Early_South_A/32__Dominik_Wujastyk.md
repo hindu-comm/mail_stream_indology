@@ -2,7 +2,6 @@
 title = "32 Dominik Wujastyk"
 date = "2021-10-12"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055332.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055332.html)
 

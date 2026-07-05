@@ -2,7 +2,6 @@
 title = "56 Gaia Pintucci"
 date = "2021-08-23"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055094.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055094.html)
 

@@ -2,7 +2,6 @@
 title = "76 Dean Michael Anderson"
 date = "2021-12-26"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055590.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055590.html)
 

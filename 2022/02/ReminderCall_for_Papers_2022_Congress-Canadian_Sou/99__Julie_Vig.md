@@ -2,7 +2,6 @@
 title = "99 Julie Vig"
 date = "2022-02-23"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055850.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055850.html)
 

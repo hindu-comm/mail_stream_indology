@@ -2,7 +2,6 @@
 title = "34 Marco Franceschini"
 date = "2021-11-09"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055444.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055444.html)
 

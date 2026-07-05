@@ -2,7 +2,6 @@
 title = "55 Arlo Griffiths"
 date = "2022-02-09"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055804.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055804.html)
 

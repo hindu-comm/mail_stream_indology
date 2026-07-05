@@ -2,7 +2,6 @@
 title = "81 Joanna Jurewicz"
 date = "2021-12-26"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055595.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055595.html)
 

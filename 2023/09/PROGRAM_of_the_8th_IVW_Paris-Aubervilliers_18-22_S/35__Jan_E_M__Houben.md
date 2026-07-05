@@ -1,0 +1,38 @@
++++
+title = "35 Jan E.M. Houben"
+date = "2023-09-11"
+upstream_url = "https://list.indology.info/pipermail/indology/2023-September/058152.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2023-September/058152.html)
+
+The PROGRAM of the 8th IVW Paris-Aubervilliers, 18-22 September 2023,
+planned as a non-remote hic-et-nunc event, is available HERE
+<http://8th%20ivw%20paris-aubervilliers%2C%2018-22%20septembre%202023/>.
+
+-- 
+
+*Jan E.M. Houben*
+
+Directeur d'Études, Professor of South Asian History and Philology
+
+*Sources et histoire de la tradition sanskrite*
+
+École Pratique des Hautes Études (EPHE, Paris Sciences et Lettres)
+
+*Sciences historiques et philologiques *
+
+Groupe de recherches en études indiennes (EA 2120)
+
+*johannes.houben [at] ephe.psl.eu <johannes.houben at ephe.psl.eu>*
+
+*https://ephe-sorbonne.academia.edu/JanEMHouben
+<https://ephe-sorbonne.academia.edu/JanEMHouben>*
+
+*https://www.classicalindia.info* <https://www.classicalindia.info>
+
+LabEx Hastec -- *L'Inde Classique* augmentée: construction, transmission
+
+     et transformations d'un savoir scientifique
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20230911/b2aa202c/attachment.htm>

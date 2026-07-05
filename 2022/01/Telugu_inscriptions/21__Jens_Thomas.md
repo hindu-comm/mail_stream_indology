@@ -2,7 +2,6 @@
 title = "21 Jens Thomas"
 date = "2022-01-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055624.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055624.html)
 

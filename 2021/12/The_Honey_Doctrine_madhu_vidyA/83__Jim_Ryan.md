@@ -2,7 +2,6 @@
 title = "83 Jim Ryan"
 date = "2021-12-27"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055600.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055600.html)
 

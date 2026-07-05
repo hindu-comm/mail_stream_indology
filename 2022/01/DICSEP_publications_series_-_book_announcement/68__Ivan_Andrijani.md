@@ -2,7 +2,6 @@
 title = "68 Ivan Andrijanić"
 date = "2022-01-12"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055676.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055676.html)
 

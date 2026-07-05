@@ -2,7 +2,6 @@
 title = "101 Eviatar Shulman"
 date = "2022-01-24"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055710.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055710.html)
 

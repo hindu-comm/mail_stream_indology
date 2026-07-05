@@ -2,7 +2,6 @@
 title = "56 Finnian Moore-Gerety"
 date = "2021-11-17"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055465.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055465.html)
 

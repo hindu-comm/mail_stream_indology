@@ -2,7 +2,6 @@
 title = "57 François Patte"
 date = "2022-03-15"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055924.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055924.html)
 

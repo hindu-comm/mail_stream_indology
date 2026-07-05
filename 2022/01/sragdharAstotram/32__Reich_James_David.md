@@ -2,7 +2,6 @@
 title = "32 Reich, James David"
 date = "2022-01-05"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055638.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055638.html)
 

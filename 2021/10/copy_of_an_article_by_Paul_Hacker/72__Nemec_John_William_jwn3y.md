@@ -2,7 +2,6 @@
 title = "72 Nemec, John William (jwn3y)"
 date = "2021-10-20"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055369.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055369.html)
 

@@ -1,0 +1,97 @@
++++
+title = "43 Eric Steinschneider"
+date = "2026-03-14"
+upstream_url = "https://list.indology.info/pipermail/indology/2026-March/061822.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2026-March/061822.html)
+
+Dear Marco,
+
+Also relevant perhaps is Kṛṣṇa's son Sāmba, who in Book 16 of the Mahābhārata, thirty-six years after the war, dresses as a pregnant woman as part of a prank that does not end well for him.
+
+All the best,
+Eric
+
+
+
+Eric Steinschneider (he/him)
+
+Associate Professor
+
+Department of Philosophy and Religion
+
+Ithaca College
+
+Tel: (617) 519-5443
+
+________________________________
+From: INDOLOGY <indology-bounces at list.indology.info> on behalf of Дмитрий Комиссаров via INDOLOGY <indology at list.indology.info>
+Sent: Saturday, March 14, 2026 5:54 AM
+To: Robert Leach <racleach at googlemail.com>
+Cc: Indology Indology listserve <indology at list.indology.info>
+Subject: Re: [INDOLOGY] Gender change in pre-modern Sanskrit literature
+
+This message originated from outside the Ithaca College email system.
+
+And Hasyacudamani by Vatsaraja is also interesting. There are an ascetic and an old bawd, they form a couple. They don't exchange genders, but they do exchange gender roles.
+
+Dmitrii Komissarov
+
+сб, 14 мар. 2026 г., 11:56 Robert Leach via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>>:
+Dear Marco,
+
+Androgyny probably doesn't count as gender change per se but there is the depiction of Prajāpati in a few places in Vedic literature, not as fully androgynous (in the manner of Ardhanārīśvara), but as a male god with breasts (stána-) that lactate. There is also the case of Indra assuming the form of a woman, this is probably already covered in some of the secondary literature you mention.
+
+Best wishes,
+
+Robert
+
+On Fri, Mar 13, 2026 at 8:47 PM Marco Franceschini via INDOLOGY <indology at list.indology.info<mailto:indology at list.indology.info>> wrote:
+Dear friends and colleagues,
+
+one of my students is writing her undergraduate thesis on the theme of gender change in pre-modern Sanskrit literature.
+So far, we have identified the following cases:
+- Ila/Sudyumna-Ilā (Rāmāyaṇa, Bhāgavatapurāṇa, Viṣṇupurāṇa, Vāyupurāṇa)
+- Bhaṅgāsvana (Mahābhārata)
+- Śikhaṇḍin (Mahābhārata)
+- Mūladeva (Vetālapañcaviṃśati)
+- Rūpāvatī (Divyāvadāna)
+- Arjuna (Mahābhārata)
+
+As for studies on the subject, we have been able to identify only these three:
+- M. Bloomfield, On the Art of Entering Another's Body: A Hindu Fiction Motif
+- N. Brown, Change of Sex as a Hindu Story Motif
+- R. Goldman, Transsexualism, Gender, and Anxiety in Traditional India
+
+I would be grateful for any additional suggestions you might wish to provide.
+
+Thank you in advance for your suggestions.
+Best wishes,
+
+Marco
+---
+Marco Franceschini
+———————————---
+Associate Professor
+University of Bologna
+Department of History and Cultures
+Personal web page<https://www.unibo.it/sitoweb/marco.franceschini3/en>
+Academia web page<http://unibo.academia.edu/MarcoFranceschini>
+—
+
+
+
+
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+
+_______________________________________________
+INDOLOGY mailing list
+INDOLOGY at list.indology.info<mailto:INDOLOGY at list.indology.info>
+https://list.indology.info/mailman/listinfo/indology
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20260314/c87fa6b8/attachment.htm>

@@ -2,7 +2,6 @@
 title = "38 Kenneth Gregory Zysk"
 date = "2022-03-12"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055904.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055904.html)
 

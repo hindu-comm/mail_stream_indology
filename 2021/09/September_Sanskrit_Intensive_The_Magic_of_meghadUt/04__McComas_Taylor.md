@@ -2,7 +2,6 @@
 title = "04 McComas Taylor"
 date = "2021-09-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055137.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-September/055137.html)
 

@@ -2,7 +2,6 @@
 title = "00 Christian Ferstl"
 date = "2022-02-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055751.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055751.html)
 
@@ -22,7 +21,7 @@ Manuscript Cultures 8 (2015): 1-24;
 Modern Research: Introduction, in: From Birch Bark to Digital Data: 
 Recent Advances in Buddhist Manuscript Research, ed. Paul Harrison and 
 Jens-Uwe Hartmann, Vienna 2013.
-- Gregory Schopen: On the absence of Urtext and Otiose Ācāryas: Books, 
+- Gregory Schopen: On the absence of Urtext and Otiose Ācāryas: Books, 
 Buildings, and Lay Buddhist Ritual at Gilgit, in: Gérard Colas and Gerdi 
 Gerschheimer (eds.), Écrire et transmettre en Inde classique. (École 
 française d'Extrême-Orient. Études thématiques 23) Paris 2009;

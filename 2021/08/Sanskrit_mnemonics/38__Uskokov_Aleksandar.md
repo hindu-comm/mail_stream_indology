@@ -2,7 +2,6 @@
 title = "38 Uskokov, Aleksandar"
 date = "2021-08-20"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055081.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055081.html)
 

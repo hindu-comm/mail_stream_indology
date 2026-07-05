@@ -2,7 +2,6 @@
 title = "61 adheesh sathaye"
 date = "2022-03-14"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055920.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055920.html)
 

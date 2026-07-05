@@ -2,7 +2,6 @@
 title = "35 Ananya Vajpeyi"
 date = "2022-01-06"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055642.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055642.html)
 

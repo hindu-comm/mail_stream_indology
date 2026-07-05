@@ -2,7 +2,6 @@
 title = "15 Jonathan Silk"
 date = "2022-02-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055768.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055768.html)
 

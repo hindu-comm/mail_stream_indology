@@ -1,0 +1,63 @@
++++
+title = "23 Harald Wiese"
+date = "2023-09-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2023-September/058134.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2023-September/058134.html)
+
+Dear list members,
+
+
+with my apology for any cross postings, I like to point to a recently
+published book of mine:
+
+
+
+*Harald Wiese: Exchange, Gifting, and Sacrificing: Premodern Indian
+perspectives. **Heidelberg: Heidelberg Asian Studies Publishing, 2023. *
+
+ISBN 978-3-948791-73-5 (PDF), ISBN 978-3-948791-74-2 (Softcover), DOI:
+https://doi.org/10.11588/hasp.1232
+
+
+
+Content:
+
+In both the Vedic and the classical periods, a special elite class of
+people existed that were called Brahmins. In a rough manner, one might say
+that their material wellbeing depended on *dakṣiṇā* in the Vedic period and
+on dāna in the classical one. Broadening the perspective beyond *dakṣiṇā*
+and *dāna*, the book is on all sorts of giving and receiving in the context
+of pre-modern India, using Vedic, Sanskrit, Buddhist and, to a much lesser
+extent, Roman and Christian sources. The Brahmanical theory of the gift
+(i.e., the theory of dutiful gifting, *dharmadāna*) is a major focus of,
+and has provided a major motivation for, this study. The book is a dialogue
+between emic and etic perspectives. With respect to the latter, I apply
+modern economic, sociological, ethnological, and marketing theories to
+premodern givings and takings.
+
+
+
+The book has been published by Heidelberg Asian Studies Publishing (HASP).
+It is available by free download from the publisher's website (
+https://hasp.ub.uni-heidelberg.de/catalog/book/1232) and can also be bought
+as a softcover through the usual channels.
+
+
+
+Information page in English:
+
+https://hasp.ub.uni-heidelberg.de/catalog/book/1232?lang=en
+
+Direct download link:
+
+https://hasp.ub.uni-heidelberg.de/reader/download/1232/1232-42-105384-1-10-20230815.pdf
+
+
+
+All the best,
+
+Harald Wiese
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20230905/f6fa0aa0/attachment.htm>

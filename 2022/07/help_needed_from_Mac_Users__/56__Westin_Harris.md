@@ -1,0 +1,57 @@
++++
+title = "56 Westin Harris"
+date = "2022-07-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-July/056457.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-July/056457.html)
+
+Dear Rajam (if I may),
+
+I tried to reply off list, but I encountered a security screen. I have
+submitted a request to have my email address whitelisted so that we can
+discuss your Mac off list.
+
+(I worked for Apple for several years and received extensive training on
+Mac software and hardware).
+
+On Fri, Jul 8, 2022 at 1:28 AM rajam via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> Dear List Members,
+>
+> Please pardon me for posting this query to a broad audience. I need help.
+>
+> I’ve been getting alerts from McAfee Total Protection about my computer
+> being in danger, my license with them has expired, etc. etc. I don’t know
+> if it is for real or a marketing strategy or scam. So, I don’t respond to
+> such alerts. Lately, for the past few days YouTube music/food-recipe
+> channels are getting affected; they just freeze unexpectedly. Is it again a
+> marketing game? Did you have any such experience? How do I respond to such
+> annoyance? Please advice.
+>
+> Thanks and Regards,
+> rajam
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+
+
+-- 
+*Sincerely,*
+
+*Westin Harris*
+Ph.D. Candidate
+Study of Religion
+University of California, Davis
+https://religions.ucdavis.edu/people/westin-harris
+
+2021 Dissertation Fellow,
+The Robert H. N. Ho Family Foundation Program in Buddhist Studies
+
+Sarva Mangalam.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220708/258c9ed6/attachment.htm>

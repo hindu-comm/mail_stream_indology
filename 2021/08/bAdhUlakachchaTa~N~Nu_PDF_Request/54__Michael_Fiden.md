@@ -2,7 +2,6 @@
 title = "54 Michael Fiden"
 date = "2021-08-22"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055092.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055092.html)
 

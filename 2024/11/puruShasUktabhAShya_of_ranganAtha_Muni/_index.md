@@ -1,0 +1,3 @@
++++
+title = "Puruṣasūktabhāṣya of Raṅganāth"
++++

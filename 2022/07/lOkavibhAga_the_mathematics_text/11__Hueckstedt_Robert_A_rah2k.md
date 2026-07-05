@@ -1,0 +1,17 @@
++++
+title = "11 Hueckstedt, Robert A (rah2k)"
+date = "2022-07-01"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-July/056409.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-July/056409.html)
+
+Colleagues,
+A math colleague of mine here asked if I could track down this text for him, especially if it had an English translation. I've looked all over, WayBack, everywhere. No luck. And information about the text, which I found both on Wikiwand and the Hindi Wikipedia, is word-for-word the same.
+
+According to that information, the original was in Prakrit by a Digambara Jain called Sarvanandi, which is no longer available, and a Sanskrit translation of that by one Simhasuri is available. The WayBack Machine supposedly has it in the Digital Library of India, but I couldn't find it, even after installing their TIFF reader.
+
+??,
+Bob Hueckstedt
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220701/c1c44d0f/attachment.htm>

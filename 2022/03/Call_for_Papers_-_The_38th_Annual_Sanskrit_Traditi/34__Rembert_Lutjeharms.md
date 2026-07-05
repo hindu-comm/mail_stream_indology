@@ -2,7 +2,6 @@
 title = "34 Rembert Lutjeharms"
 date = "2022-03-24"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055954.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055954.html)
 

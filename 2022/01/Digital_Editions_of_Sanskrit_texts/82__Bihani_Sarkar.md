@@ -2,7 +2,6 @@
 title = "82 Bihani Sarkar"
 date = "2022-01-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055691.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055691.html)
 

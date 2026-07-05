@@ -2,7 +2,6 @@
 title = "23 Aleix Ruiz Falqués"
 date = "2021-11-02"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055425.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055425.html)
 

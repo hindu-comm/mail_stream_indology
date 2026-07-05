@@ -2,7 +2,6 @@
 title = "68 Lyne Bansat-Boudon"
 date = "2021-12-27"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055598.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055598.html)
 
@@ -10,7 +9,7 @@ Dear Prof. Girish Jha,
 
 Allow me to tell you how much I appreciated your kind wishes for a « divinely Merry Christmas », which I see as the sign of a wide open heart and understanding.
 
-I do not fully grasp what is the issue of your today message (some link seems to be missing), but, whatever it could be, let us consider it as coming from some niśācara.
+I do not fully grasp what is the issue of your today message (some link seems to be missing), but, whatever it could be, let us consider it as coming from some niśācara.
 
 Kindest regards,
 

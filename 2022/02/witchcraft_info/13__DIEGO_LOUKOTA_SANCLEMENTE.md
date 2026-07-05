@@ -2,7 +2,6 @@
 title = "13 DIEGO LOUKOTA SANCLEMENTE"
 date = "2022-02-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055766.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055766.html)
 

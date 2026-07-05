@@ -2,7 +2,6 @@
 title = "38 Hock, Hans Henrich"
 date = "2021-10-13"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-October/055344.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-October/055344.html)
 

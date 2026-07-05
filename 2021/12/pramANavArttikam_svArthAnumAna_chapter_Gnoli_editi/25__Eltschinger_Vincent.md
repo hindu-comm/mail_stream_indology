@@ -2,7 +2,6 @@
 title = "25 Eltschinger, Vincent"
 date = "2021-12-04"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055537.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055537.html)
 

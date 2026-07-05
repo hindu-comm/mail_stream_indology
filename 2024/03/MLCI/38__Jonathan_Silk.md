@@ -1,0 +1,285 @@
++++
+title = "38 Jonathan Silk"
+date = "2024-03-06"
+upstream_url = "https://list.indology.info/pipermail/indology/2024-March/058833.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2024-March/058833.html)
+
+Just very briefly: my objection was to the claim of a "call for the boycott
+of Israel," which the linked article itself makes quite clear was not at
+all the case.
+
+Jonathan Silk
+
+On Wed, Mar 6, 2024 at 5:53 PM Ananya Vajpeyi <vajpeyi at csds.in> wrote:
+
+> Dear Professor Silk,
+>
+> The Wire is currently the most credible independent media outlet in India.
+> Respectfully, I dare say I would not dismiss their reportage as unreliable.
+> (*Full disclosure*: I write for them sometimes, and have written over
+> many years for all their founding editors and current editors, who were
+> earlier associated with major mainstream newspapers and media houses like
+> the Hindu, the Indian Express, the Economic Times, the BBC and so on).
+>
+> Ranjit Hoskote is a well-known and well-regarded poet, translator, art
+> critic, curator and cultural theorist. He took a principled stand against
+> canceling Palestinian artists and intellectuals in Germany, and was labeled
+> "anti-semitic" for this, following which he resigned his position from the
+> 'finding committee' for Documenta. His colleagues followed him:
+> https://thewire.in/rights/no-space-in-germany-for-open-exchange-of-ideas-after-hoskote-other-documenta-panel-members-quit
+>
+> Without getting into the polarised politics in Germany at the moment,
+> which has affected many academics and writers of all nationalities who have
+> tried to speak out on Gaza, both Ranjit Hoskote and Mini Krishnan are
+> perfectly qualified members of an editorial board for a series like the
+> MCLI.
+>
+> The issue is only that they are concerned with literature, translation and
+> humanistic scholarship in a much broader sense, while the actual editing
+> work requires philogical training and historical competence of a very
+> different order. You will agree that the two types of board members can
+> complement one another, but they cannot do the same things interchangeably.
+>
+> Professor Pollock had invited eminent writers and intellectuals from the
+> Indian languages like Girish Karnad and U.R. Ananthamurthy to write short
+> prefaces to some of the Clay Sanskrit Library translations, with an eye to
+> broadening the readership beyond specialists. But the technical aspects of
+> editing and translation were still the job of others like him and the team
+> of scholars who worked on the Clay series. I imagine the same holds true
+> for the MCLI.
+>
+> We still don't have an explanation for why the 5 members who put out the
+> statement (Cox, Venkatesan et al) were dismissed, nor have we heard who
+> they will be replaced by, or when.
+>
+> With kind regards,
+>
+> Ananya.
+>
+>
+> On Wed, Mar 6, 2024 at 8:13 PM Jonathan Silk via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> With thanks to Patrick for the link, I fear that what it presents is--at
+>> least as far as I can quickly tell--not in some respects reliable, which
+>> cannot help but cast doubt on the whole.
+>>
+>> I confess my unfamiliarity with the two newly appointed members of the
+>> editorial board, and I don't --for this and other reasons--have any
+>> intention of commenting on this. I want to say only this:
+>>
+>> I quote from the article directly:
+>>
+>> Hoskote is an internationally renowned art curator and poet from Mumbai.
+>> He was in the news a few months ago
+>> <https://m.thewire.in/article/the/curator-ranjit-hoskote-resigns-from-documentas-finding-committee-over-anti-semitism-allegations/amp>
+>> when his criticism of Hindutva and Zionism and an earlier call for the
+>> boycott of Israel prompted the German government to threaten withdrawal of
+>> financial support from the ‘Documenta’ art event unless it ended its
+>> association with him.
+>>
+>> If one goes to the linked article and reads it fully (and did the
+>> reporter who cited it not do this?), one learns that the portrayal in the
+>> sentence here of Mr Hoskote's position is entirely erroneous. I repeat that
+>> I am unfamiliar with him, and intend to express no views about him or about
+>> the Murty affair. I only want to question the reporting here which as far
+>> as I can see has little relation to the reality of what apparently took
+>> place between him and the Greman organization with which he was earlier
+>> connected.
+>>
+>> If this sets or indicates the tone of what we can further expect for
+>> reporting on this affair, we are in trouble.
+>>
+>> Jonathan
+>>
+>> On Wed, Mar 6, 2024 at 3:26 PM Patrick Olivelle via INDOLOGY <
+>> indology at list.indology.info> wrote:
+>>
+>>> Here is a Wire report on the issue:
+>>>
+>>> [image: Untitled-design-6-800x400.jpg]
+>>>
+>>> Exits Rock Murty Classical Library, Once Feted for New Translations of
+>>> Rare Manuscripts
+>>> <https://thewire.in/books/murty-classical-library-five-resignations>
+>>> thewire.in
+>>> <https://thewire.in/books/murty-classical-library-five-resignations>
+>>> <https://thewire.in/books/murty-classical-library-five-resignations>
+>>>
+>>> Patrick
+>>>
+>>>
+>>> On Mar 5, 2024, at 11:08 PM, Ananya Vajpeyi via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>>
+>>> Thank you for your excellent letter, Professor Goldman.
+>>>
+>>> Given the discussion here on Indology, this much seems clear: It is in
+>>> everyone's interest that a project as stellar as the MCLI continue to
+>>> produce editions and translations of the Indian classics across languages,
+>>> as it has done for a decade under the General Editorship of Sheldon
+>>> Pollock, together with different sets of section editors looking after
+>>> different languages, and with the exceptional publication capacities and
+>>> standards of HUP (to which I can testify from my own experience as an
+>>> author, albeit not in this series).
+>>>
+>>> Since pretty much everyone with the requisite linguistic, philological,
+>>> textual and literary expertise (in various classical languages) anywhere in
+>>> the world is already involved and invested in the MCLI; since we are all in
+>>> this together as translators, editors, readers, and teachers, we do want
+>>> the series to continue, and for it to maintain its high quality into the
+>>> foreseeable future.
+>>>
+>>> Like with any group endeavour, some housekeeping and some moving around
+>>> of personnel is inevitable and wouldn't surprise any of us in academia,
+>>> with our committees and departments routinely going through these sorts of
+>>> cycles, and not always smoothly.
+>>>
+>>> In this case, given what Archana and her co-editors have brought to our
+>>> attention, it seems entirely fair to ask for a review or audit of the MCLI,
+>>> i.e., more transparency with regard to who is in charge of editing, for how
+>>> long, and with what sort of remit over a specified term of appointment. In
+>>> all events, on-going work should not be thrown into jeopardy while
+>>> seemingly arbitrary changes are made in the leadership, without
+>>> consultation or consensus.
+>>>
+>>> We can and must hope that as a very small community (in the larger
+>>> scheme of things), between us we will be able to overcome this dispute in
+>>> such a way as to preserve the mission and vision of the MCLI, best
+>>> presented in Professor Pollock's essay "What should a Classical Library of
+>>> India be?" (written for *The Loeb Classical Library and Its Progeny.
+>>> Proceedings of the First James Loeb Biennial Conference*, edited by
+>>> Jeffrey Henderson and Richard Thomas, 63–84. Cambridge, Mass: Harvard U.
+>>> Press, 2020. Available at:
+>>> https://sheldonpollock.org/archive/pollock_loeb_2020.pdf).
+>>>
+>>> His essay shows that every part of this project is integral to its
+>>> conception, including scholarship, philology, pedagogy, translation,
+>>> publication, design, printing and dissemination. Right down to the
+>>> typefaces, everything is part of a plan, with an eye to the future.
+>>>
+>>> Since all parties involved are superb at what they do, and since we have
+>>> so many luminous volumes already in our hands to prove it, let us focus our
+>>> collective energies on helping resolve the current contretemps speedily
+>>> and gracefully. It can be done. Especially as educators, we cannot allow
+>>> pessimism to get the better of us.
+>>>
+>>> Texts that have survived and brightened the admittedly often
+>>> disheartening human condition for centuries can surely make it through and
+>>> past this transient misunderstanding among our learned colleagues and
+>>> friends.
+>>>
+>>> With all good wishes,
+>>>
+>>> Ananya.
+>>>
+>>> *Ananya Vajpeyi, Ph.D.*
+>>> *Fellow, **Centre for the Study of Developing Societies*
+>>> *29 Rajpur Rd., Civil Lines*
+>>> *New Delhi 110054, INDIA*
+>>> *EMAIL: vajpeyi at csds.in <vajpeyi at csds.in>*
+>>> *CSDS BIO: http://www.csds.in/faculty_ananya_vajpeyi.htm
+>>> <http://www.csds.in/faculty_ananya_vajpeyi.htm>*
+>>> *RESEARCH PROJECT: https://www.nilgiri.ugent.be/team/
+>>> <https://www.nilgiri.ugent.be/team/>*
+>>>
+>>>
+>>>
+>>>
+>>> On Wed, Mar 6, 2024 at 1:46 AM Robert P. GOLDMAN via INDOLOGY <
+>>> indology at list.indology.info> wrote:
+>>>
+>>>> Dear Colleagues,
+>>>>
+>>>> Attached please find my letter to the Provost at Harvard.
+>>>>
+>>>> Bob
+>>>>
+>>>> Dr. R.P. Goldman
+>>>> William and Catherine Magistretti Professor of Sanskrit Emeritus
+>>>> and
+>>>> Professor in the Graduate School
+>>>> Department of South and Southeast Asian Studies
+>>>> Berkeley, CA 94720-2540
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> INDOLOGY mailing list
+>>>> INDOLOGY at list.indology.info
+>>>> https://list.indology.info/mailman/listinfo/indology
+>>>>
+>>>
+>>>
+>>> --
+>>> *Ananya Vajpeyi*
+>>> https://www.csds.in/ananya_vajpeyi
+>>>
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> https://list.indology.info/mailman/listinfo/indology
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> INDOLOGY mailing list
+>>> INDOLOGY at list.indology.info
+>>> https://list.indology.info/mailman/listinfo/indology
+>>>
+>>
+>>
+>> --
+>> Prof. dr. J.A. Silk
+>> Leiden University
+>> Leiden University Institute for Area Studies, LIAS
+>> Matthias de Vrieshof 3, Room 0.05b
+>> 2311 BZ Leiden
+>>
+>> website: www.OpenPhilology.eu
+>> copies of my publications may be found at
+>> https://leidenuniv.academia.edu/JASilk
+>>
+>> _______________________________________________
+>> INDOLOGY mailing list
+>> INDOLOGY at list.indology.info
+>> https://list.indology.info/mailman/listinfo/indology
+>>
+>
+>
+> --
+> *Ananya Vajpeyi*
+> https://www.csds.in/ananya_vajpeyi
+>
+>
+>
+>
+
+-- 
+Prof. dr. J.A. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+
+website: www.OpenPhilology.eu
+copies of my publications may be found at
+https://leidenuniv.academia.edu/JASilk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20240306/b6972afe/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Untitled-design-6-800x400.jpg
+Type: image/jpeg
+Size: 47028 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20240306/b6972afe/attachment.jpg>

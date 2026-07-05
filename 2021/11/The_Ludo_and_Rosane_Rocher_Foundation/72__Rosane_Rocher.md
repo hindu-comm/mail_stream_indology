@@ -2,7 +2,6 @@
 title = "72 Rosane Rocher"
 date = "2021-11-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055480.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055480.html)
 

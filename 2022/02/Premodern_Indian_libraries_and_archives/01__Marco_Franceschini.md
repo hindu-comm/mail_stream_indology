@@ -2,7 +2,6 @@
 title = "01 Marco Franceschini"
 date = "2022-02-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055752.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055752.html)
 
@@ -36,7 +35,7 @@ www.associazioneitalianadistudisanscriti.org <http://www.associazioneitalianadis
 > - Gérard Fussman, "Dans quel type de bâtiment furent trouvés les manuscrits de Gilgit?", in: Journal Asiatique, 292.1-2 (2004): 101-150;
 > - Martin Delhey, The Library at the East Indian Buddhist Monastery of Vikramaśīla: an Attempt to Identify Its Himalayan Remains, in: Manuscript Cultures 8 (2015): 1-24;
 > - O.v. Hinüber: The Gilgit Manuscripts. An Ancient Buddhist Library in Modern Research: Introduction, in: From Birch Bark to Digital Data: Recent Advances in Buddhist Manuscript Research, ed. Paul Harrison and Jens-Uwe Hartmann, Vienna 2013.
-> - Gregory Schopen: On the absence of Urtext and Otiose Ācāryas: Books, Buildings, and Lay Buddhist Ritual at Gilgit, in: Gérard Colas and Gerdi Gerschheimer (eds.), Écrire et transmettre en Inde classique. (École française d'Extrême-Orient. Études thématiques 23) Paris 2009;
+> - Gregory Schopen: On the absence of Urtext and Otiose Ācāryas: Books, Buildings, and Lay Buddhist Ritual at Gilgit, in: Gérard Colas and Gerdi Gerschheimer (eds.), Écrire et transmettre en Inde classique. (École française d'Extrême-Orient. Études thématiques 23) Paris 2009;
 > - Ludo Rocher, in: Journal of the American Oriental Society 131 (2011): 133-135;
 > - Jahnabi Barooah Chanchani, "History from the Margins: Literary Culture and Manuscript Production in Western India in the Vernacular Millennium," Manuscript Studies: A Journal of the Schoenberg Institute for Manuscript Studies, Volume 6, Number 2, Fall 2021, pp. 197-222 (https://www.academia.edu/67281775/History_from_the_Margins_Literary_Culture_and_Manuscript_Production_in_Western_India_in_the_Vernacular_Millennium);
 > - Noriyuki Kudo, "On and around the Gilgit Manuscripts in the National Archives of India", in: The Journal of Oriental Studies 29 (2019): 168–181;

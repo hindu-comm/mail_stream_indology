@@ -1,0 +1,81 @@
++++
+title = "37 Jonathan Silk"
+date = "2022-06-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-June/056321.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-June/056321.html)
+
+Dear Dr Patel, dear colleagues
+
+I would dare to remind readers of this list that the *Indo-Iranian Journal*
+(IIJ) is happy to continue its tradition of publishing works relevant to
+Indian epigraphy. (As far as I recall,  at least in the past the journal's
+coverage has been largely limited to Sanskrit and Prakrit epigraphs, but I
+do not see why South Indian epigraphs could not also be considered.)
+
+This said, the IIJ looks for articles which would place such epigraphs in a
+meaningful context, and thus are more than what at least some of the ASI
+publications present, namely raw data as it were, as valuable as such data
+of course are!
+
+Jonathan Silk
+co-editor of the IIJ
+
+On Tue, Jun 7, 2022 at 9:56 AM Christophe Vielle via INDOLOGY <
+indology at list.indology.info> wrote:
+
+> There is a "Journal of the Epigraphical Society of India" (vol. 42, 2017)
+> - older issues are available on the website
+> https://epigraphicalsociety.com/
+> https://epigraphicalsociety.com/esi-journals
+> and still the "Annual(s) Report(s) on Indian epigraphy" (e.g. vol. for
+> 2018-18 issued in 2019) published by the ASI
+> in addition to the current series "South-Indian Inscriptions"  (e.g. vol.
+> 43, 2021) or even "Epigraphia Indica" (there is a vol. 43/1, 2011) both
+> also published by the ASI (not much on their website:
+> https://asi.nic.in/publications/ )
+>
+> Le 7 juin 2022 à 03:31, Dhaval Patel via INDOLOGY <
+> indology at list.indology.info> a écrit :
+>
+> Dear scholars,
+>
+> I would appreciate if any of the members can point me towards journals
+> which currently publish epigraphs of India. Earlier journals like Indian
+> Antiquary and Epigraphica Indica seem discontinued.
+>
+> With regards,
+> Dhaval
+> --
+> Dr. Dhaval Patel Collector & District Magistrate, Surat
+> www.sanskritworld.in
+> <https://eur03.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.sanskritworld.in%2F&data=05%7C01%7Cchristophe.vielle%40uclouvain.be%7C1a6b0c08d3f34aaa534808da48257711%7C7ab090d4fa2e4ecfbc7c4127b4d582ec%7C0%7C0%7C637901624307346852%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YpzzhmC%2Futz4jymolOJB9%2Bo%2Fr9TXJ5%2B08jFfAe0F%2BWA%3D&reserved=0>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+>
+>
+> _______________________________________________
+> INDOLOGY mailing list
+> INDOLOGY at list.indology.info
+> https://list.indology.info/mailman/listinfo/indology
+>
+
+
+-- 
+J. Silk
+Leiden University
+Leiden University Institute for Area Studies, LIAS
+Matthias de Vrieshof 3, Room 0.05b
+2311 BZ Leiden
+The Netherlands
+
+website: www.OpenPhilology.eu
+copies of my publications may be found at
+https://leidenuniv.academia.edu/JASilk
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220607/130a851b/attachment.htm>

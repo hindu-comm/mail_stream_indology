@@ -2,7 +2,6 @@
 title = "105 Collins, Brian"
 date = "2022-02-24"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-February/055856.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-February/055856.html)
 

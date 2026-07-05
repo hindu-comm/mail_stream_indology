@@ -2,7 +2,6 @@
 title = "37 Per-Johan Norelius"
 date = "2021-12-08"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055549.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055549.html)
 

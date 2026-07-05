@@ -2,7 +2,6 @@
 title = "09 Raffaele Torella"
 date = "2021-11-02"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-November/055426.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-November/055426.html)
 

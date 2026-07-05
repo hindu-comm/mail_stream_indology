@@ -1,0 +1,61 @@
++++
+title = "33 Heike Oberlin"
+date = "2022-06-05"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-June/056315.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-June/056315.html)
+
+
+Prof. Dr. T. Anithakumary
+Summer School on Malayāḷam Literature and Screen Adaptions
+
+WHEN:
+Monday, 1 August – Friday, 5 August 2022 &
+Monday, 8 August – Friday 12 August 2022
+Daily 9 am – 5 pm (with breaks)
+
+WHERE:
+„Gundert Chair“ for Malayalam at the Dept. of Indology, University of Tübingen
+72074 Tübingen, Keplerstr. 2, Room 002
+(Only in exceptional cases, online participation will be made possible.)
+
+The Summer School aims to study the interconnection between Malayalam literature and cinema. Especially between 1960 and 1980 novels, short-stories, poetry and drama became the basis of movies. The examples chosen will focus on cinematic adaptations like Marthandavarma, Newspaper Boy, Bhargaveenilayam and Chemmeen, just to name a few, and film makers like Adoor Gopalakrishnan, who have a place in the history of world cinema.
+
+Requirements: Basic knowledge of Malayalam desirable, suitable for beginners.
+Further information & application: Prof. Dr. Heike Oberlin | heike.oberlin at uni-tuebingen.de <mailto:heike.oberlin at uni-tuebingen.de>
+Deadline for application: 1 July 2022
+
+– no participation fees –
+
+
+
+--------------------
+
+
+Prof. Dr. Heike Oberlin
+Head of the Dept. of Indology | Spokesperson of the State Representation of Academic Staff at Universities in Baden-Wuerttemberg (LAM-BW) | Deputy Spokesperson of the German Research Foundation’s (DFG) Review Board 106 | Equal Opportunities Officer of the Institute of Asian and Oriental Studies | Member of the Faculty Council of the Faculty of Humanities | Member of the Senate's Structural Commission and the Equal Opportunities Commission | Member of the University Board (of Trustees) of the University of Tuebingen
+
+
+
+Dept. of Indology · University of Tuebingen
+*** NEW ADDRESS: Nauklerstr. 35 (room 3.07) · 72074 Tuebingen
+ · Germany ***
+phone 07071 29-74005 · mobile 0176 20030066 · heike.oberlin at uni-tuebingen.de <mailto:heike.oberlin at uni-tuebingen.de>
+
+
+https://uni-tuebingen.de/en/9974 <https://uni-tuebingen.de/en/9974>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220605/9b84c1d4/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Malayalam_summer_2022.pdf
+Type: application/pdf
+Size: 526411 bytes
+Desc: not available
+URL: <https://list.indology.info/pipermail/indology/attachments/20220605/9b84c1d4/attachment.pdf>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20220605/9b84c1d4/attachment-0001.htm>

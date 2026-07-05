@@ -2,7 +2,6 @@
 title = "40 Christian Ferstl"
 date = "2021-08-23"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-August/055096.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-August/055096.html)
 

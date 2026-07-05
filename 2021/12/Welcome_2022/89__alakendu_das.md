@@ -2,7 +2,6 @@
 title = "89 alakendu das"
 date = "2021-12-31"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055606.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055606.html)
 

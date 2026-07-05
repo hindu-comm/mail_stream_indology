@@ -2,7 +2,6 @@
 title = "56 Christophe Vielle"
 date = "2022-03-15"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-March/055923.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-March/055923.html)
 

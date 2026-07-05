@@ -2,7 +2,6 @@
 title = "37 victor davella"
 date = "2021-09-14"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055178.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-September/055178.html)
 
@@ -34,7 +33,7 @@ On Tue, Sep 14, 2021 at 12:16 PM Talia Ariav <taliaa at uchicago.edu> wrote:
 > Dear Jim,
 >
 > I do not know any story, but the following two verses from Rāmabhadra
-> Dīkṣita’s *Patañjalicaritam* present a version of the double patronymic
+> Dīkṣita’s *Patañjalicaritam* present a version of the double patronymic
 > indicated in Monier Williams and in the references Victor cited.
 >
 > If I understand correctly, Paṇin is a great grandfather, who has a son

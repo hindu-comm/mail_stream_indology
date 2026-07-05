@@ -2,7 +2,6 @@
 title = "01 Hock, Hans Henrich"
 date = "2021-09-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-September/055135.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-September/055135.html)
 
@@ -22,7 +21,7 @@ jálāṣa: Uncertain meaning; no etymology provided
 caṣā́la: Perhaps dissimilated from *carṣā̆la (see carṣ/karṣ)
 váṣaṭ: No etymology given; I have speculated that ritual distortion has affected the form)
 bhāṣ-: Controversial. Some derive this from *bhels- (cf. Lith. bal̃sas ‘voice’) ± Fortunatov’s Law; others think of homonym differentiation from bhās- ‘shine’
-mā́ṣa: Problematic; compare perhaps MPers./NPers. maš ‘legume’, Shughni max̌ ‘pea, bean’, hence Proto-(Indo-)Iranian *marṣ̌a ?
+mā́ṣa: Problematic; compare perhaps MPers./NPers. maš ‘legume’, Shughni max̌ ‘pea, bean’, hence Proto-(Indo-)Iranian *marṣ̌a ?
 jhaṣá: Uncertain; probably loanword
 ṛbī́sa: Uncertain
 kīstá: Loanword (unlikely) or hypersanskritization of *kīrtha > MIAr. kittha, with tth reinterpreted as corresponding to Skt. st.

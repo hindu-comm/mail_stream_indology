@@ -2,7 +2,6 @@
 title = "81 Jeffery Long"
 date = "2022-01-18"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055690.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055690.html)
 

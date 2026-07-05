@@ -2,7 +2,6 @@
 title = "34 Omar Abu Dbei"
 date = "2021-12-07"
 upstream_url = "https://list.indology.info/pipermail/indology/2021-December/055546.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2021-December/055546.html)
 

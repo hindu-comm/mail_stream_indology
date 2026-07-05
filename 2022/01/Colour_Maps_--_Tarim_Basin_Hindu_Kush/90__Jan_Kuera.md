@@ -2,7 +2,6 @@
 title = "90 Jan Kučera"
 date = "2022-01-20"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055699.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055699.html)
 

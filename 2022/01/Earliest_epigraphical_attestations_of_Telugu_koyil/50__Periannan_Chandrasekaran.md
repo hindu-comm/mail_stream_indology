@@ -2,12 +2,11 @@
 title = "50 Periannan Chandrasekaran"
 date = "2022-01-08"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055656.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055656.html)
 
 I am actually interested in the Old Kannada situation. I am also surprised
-that *kōyil *did not amke it to Kannada despite intense contacts.
+that *kōyil *did not amke it to Kannada despite intense contacts.
 Thank you for your response.
 
 Regards
@@ -31,8 +30,8 @@ On Fri, Jan 7, 2022 at 10:16 PM Tejas Aralere <tsaralere at gmail.com> wrote:
 >> Dear Indology members
 >>
 >>    - I am looking for the earliest epigraphical attestations of Telugu
->>    *kōyila*, *kōvela *'temple' which DEDR lists.
->>    - DEDR has left out the form *kōyilamu *attested in an early 10th
+>>    *kōyila*, *kōvela *'temple' which DEDR lists.
+>>    - DEDR has left out the form *kōyilamu *attested in an early 10th
 >>    century inscription (p.186)
 >>    <https://archive.org/details/in.ernet.dli.2015.493129/page/185/mode/2up?view=theater>
 >>    .

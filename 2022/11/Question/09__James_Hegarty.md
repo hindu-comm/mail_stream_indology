@@ -1,0 +1,17 @@
++++
+title = "09 James Hegarty"
+date = "2022-11-25"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-November/056985.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-November/056985.html)
+
+Dear Colleagues,
+
+A former student has asked about me about the origins of red dresses for Hindu brides…
+
+I know utterly nothing about this. Does anyone either know something about this or know of an article or two that I might (a) read myself and (b) pass on to the former student in question?
+
+Best from a rainy Wales,
+
+James Hegarty
+Cardiff University

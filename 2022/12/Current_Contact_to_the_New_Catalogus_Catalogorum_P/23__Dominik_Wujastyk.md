@@ -1,0 +1,30 @@
++++
+title = "23 Dominik Wujastyk"
+date = "2022-12-07"
+upstream_url = "https://list.indology.info/pipermail/indology/2022-December/057026.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2022-December/057026.html)
+
+This is a difficult question, Peter.  The people now in charge at the
+Sanskrit Department at the U. of Madras
+<https://www.unom.ac.in/index.php?route=department/department/deptpage&deptid=64>,
+NCC's spiritual home, do not seem actively engaged with NCC (after Prof.
+Dash it was Padmanabhan; now seems to be Dr C. Murugan).  The NAMAMI in
+Delhi have been funding the publication of recent volumes, and have some
+unstated control or support for the project (see here
+<https://www.namami.gov.in/catalogus-catallogurum>).  Prof. Dash was
+invited back to finish publication copy for the final volumes from 40-42, I
+believe.  That is done, but as far as I know, 40-42 have not actually been
+published yet.
+
+The person nearest to the NCC today, in terms of current information, is
+probably Martin Gluckman, who is responsible for the online version of NCC
+<https://vmlt.in/ncc/39?page=1>.  And it is still possible to email Prof.
+Dash, whose post-retirement work takes place at the K. V. Sarma Research
+Foundation <https://www.panditproject.org/entity/108561/institution>.
+
+Best,
+Dominik
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20221207/cee09311/attachment.htm>

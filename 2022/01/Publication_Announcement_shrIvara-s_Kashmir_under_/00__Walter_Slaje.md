@@ -2,7 +2,6 @@
 title = "00 Walter Slaje"
 date = "2022-01-01"
 upstream_url = "https://list.indology.info/pipermail/indology/2022-January/055609.html"
-
 +++
 [Archive link](https://list.indology.info/pipermail/indology/2022-January/055609.html)
 

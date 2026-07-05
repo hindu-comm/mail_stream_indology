@@ -1,0 +1,71 @@
++++
+title = "150 Dominik Wujastyk"
+date = "2025-05-24"
+upstream_url = "https://list.indology.info/pipermail/indology/2025-May/060693.html"
++++
+[Archive link](https://list.indology.info/pipermail/indology/2025-May/060693.html)
+
+If I manage to get a copy, I'll be putting a scan at
+http://catalogues.indology.info under #0246.
+
+Best,
+Dominik
+
+
+--
+Dominik Wujastyk, Professor Emeritus, Classical Indian History
+University of Alberta
+
+"The University of Alberta is committed to the pursuit of truth,
+the advancement of learning, and the dissemination of knowledge
+through teaching, research and other scholarly and creative activities and
+service."
+-- Collective Agreement
+<https://www.ualberta.ca/human-resources-health-safety-environment/media-library/my-employment/agreements/2020-2024-collective-agreement---working-version.pdf>
+3.01
+
+
+
+On Fri, 23 May 2025 at 14:04, B <bihanisarkar at googlemail.com> wrote:
+
+> I’d be interested too Dominik in this one. Have worked previously on the
+> Koch tutelary goddess and their history, so am interested in the literary
+> and religious activities of the Cooch Bihar royal family. So please could
+> you share? Thanks.
+>
+> On Friday, 23 May 2025, Dominik Wujastyk via INDOLOGY <
+> indology at list.indology.info> wrote:
+>
+>> Title: A DESCRIPTIVE CATALOGUE OF SANSKRIT MANUSCRIPTS PRESERVED IN THE
+>> SĀHITYA SABHĀ OF COOCHBEHAR
+>> Author: DILEEP KUMAR KANJILAL
+>> Date: 1978
+>> Biswas # 0246
+>>
+>> I have requested this book by inter-library loan, and I know there's at
+>> least one copy in N. America (at Brown - thank you David Pingree!), so I
+>> expect it will turn up.
+>>
+>> But I thought I would ask: does anyone have a PDF of this catalogue by
+>> any chance?
+>>
+>> Best,
+>> Dominik
+>>
+>>
+>> --
+>> Dominik Wujastyk, Professor Emeritus, Classical Indian History
+>> University of Alberta
+>>
+>> "The University of Alberta is committed to the pursuit of truth,
+>> the advancement of learning, and the dissemination of knowledge
+>> through teaching, research and other scholarly and creative activities
+>> and service."
+>> -- Collective Agreement
+>> <https://www.ualberta.ca/human-resources-health-safety-environment/media-library/my-employment/agreements/2020-2024-collective-agreement---working-version.pdf>
+>> 3.01
+>>
+>>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://list.indology.info/pipermail/indology/attachments/20250524/0b4c34f0/attachment.htm>
